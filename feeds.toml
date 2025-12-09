@@ -4,7 +4,7 @@ url = "https://boomorbubble.ai/news"
 entrySelector = "tbody tr"
 titleSelector = "td"
 linkSelector = "a"
-waitUntil = "load"
+# waitUntil = "load"
 
 [wikivoyage]
 title = "Wikivoyage recommendations"
