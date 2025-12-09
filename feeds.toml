@@ -2,6 +2,7 @@
 title = "AI Boom Bubble Monitor newsfeed"
 url = "https://boomorbubble.ai/news"
 #entrySelector = ":root"
+waitForSelector = "tbody"
 entrySelector = "tbody tr"
 titleSelector = "td:nth-of-type(4)"
 linkSelector = "a"
