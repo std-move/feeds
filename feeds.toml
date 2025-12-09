@@ -2,9 +2,9 @@
 title = "AI Boom/Bubble Monitor newsfeed"
 url = "https://boomorbubble.ai/news"
 entrySelector = "tbody tr"
-titleSelector = "td"
-linkSelector = "a"
-# waitUntil = "load"
+titleSelector = "*"
+linkSelector = "*"
+waitUntil = "load"
 
 [wikivoyage]
 title = "Wikivoyage recommendations"
