@@ -1,9 +1,9 @@
 [boom_or_bubble]
 title = "AI Boom/Bubble Monitor newsfeed"
 url = "https://boomorbubble.ai/news"
-entrySelector = ":root"
-titleSelector = "tbody tr td:nth-of-type(4)"
-linkSelector = "tbody tr a"
+entrySelector = "tbody tr"
+titleSelector = "td"
+linkSelector = "a"
 waitUntil = "load"
 
 [wikivoyage]
