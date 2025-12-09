@@ -1,7 +1,8 @@
 [boom_or_bubble]
 title = "AI Boom/Bubble Monitor newsfeed"
 url = "https://boomorbubble.ai/news"
-entrySelector = "tbody tr"
+entrySelector = ":root"
+#entrySelector = "tbody tr"
 titleSelector = "*"
 linkSelector = "*"
 waitUntil = "load"
@@ -9,6 +10,7 @@ waitUntil = "load"
 [wikivoyage]
 title = "Wikivoyage recommendations"
 url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
+entrySelector = ":root"
+#entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
