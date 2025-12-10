@@ -33,7 +33,7 @@ jobs:
         run: |
           git clone --depth 1 --branch customizations https://github.com/std-move/feed-me-up-scotty.git ./feed-me-up-scotty
           cd feed-me-up-scotty
-          npm install
+          npm install --legacy-peer-deps
           npm run build   # outputs JS to dist/
       - name: Run feed-me-up-scotty
         run: DEBUG="info" npx ./feed-me-up-scotty
