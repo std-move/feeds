@@ -21,7 +21,7 @@ jobs:
     - run: npx playwright install --with-deps firefox
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
-    - run: DEBUG="info" npx github:std-move/feed-me-up-scotty#main || DEBUG="info" npx github:std-move/feed-me-up-scotty#main
+    - run: DEBUG="info" npx github:std-move/feed-me-up-scotty#customizations || DEBUG="info" npx github:std-move/feed-me-up-scotty#customizations
     - name: Deploy to GitHub Pages
       run: |
         git config user.name $GITHUB_ACTOR
