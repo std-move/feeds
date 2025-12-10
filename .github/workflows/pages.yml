@@ -14,8 +14,10 @@ env:
   CI: true
 jobs:
   publish-feeds:
-    runs-on: ubuntu-24.04
-    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.52.0-noble
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
