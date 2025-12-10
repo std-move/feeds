@@ -19,9 +19,17 @@ jobs:
     steps:
     - uses: actions/checkout@v2.3.4
     - run: npx playwright install --with-deps firefox
-    # GitHub Actions unfortunately does not support retries;
-    # this is a cumbersome method of retrying twice in case of errors:
-    - run: DEBUG="info" npx github:std-move/feed-me-up-scotty#customizations || DEBUG="info" npx github:std-move/feed-me-up-scotty#customizations
+    - name: Clone feed-me-up-scotty (customizations branch)
+      run: |
+        git clone --depth 1 --branch customizations https://github.com/std-move/feed-me-up-scotty.git ./feed-me-up-scotty
+        cd feed-me-up-scotty
+        npm install
+    - run: npm install -g tsx
+    - run: npx playwright install --with-deps firefox
+    - name: Run feed-me-up-scotty
+      run: |
+        cd feed-me-up-scotty
+        DEBUG="info" tsx ./src/index.ts
     - name: Deploy to GitHub Pages
       run: |
         git config user.name $GITHUB_ACTOR
