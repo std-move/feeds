@@ -14,40 +14,60 @@ env:
   CI: true
 jobs:
   publish-feeds:
-    runs-on: ubuntu-24.04
-    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-    - uses: actions/checkout@v3
-    - run: npm install -g tsx
-    - name: Install system dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y libdbus-glib-1-2 libgtk-3-0 libx11-xcb1 libxcomposite1 \
-          libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxtst6 libnss3 \
-          libasound2 libpangocairo-1.0-0 libatk1.0-0 libcups2 libxrandr2 libxss1 libxinerama1 libglib2.0-0
-    - run: npx playwright install --with-deps firefox
-    - name: Clone feed-me-up-scotty (customizations branch)
-      run: |
-        git clone --depth 1 --branch customizations https://github.com/std-move/feed-me-up-scotty.git ./feed-me-up-scotty
-        cd feed-me-up-scotty
-        npm install
-    - name: Run feed-me-up-scotty
-      run: |
-        cd feed-me-up-scotty
-        DEBUG="info" tsx ./src/index.ts
-    - name: Deploy to GitHub Pages
-      run: |
-        git config user.name $GITHUB_ACTOR
-        git config user.email $GITHUB_ACTOR@users.noreply.github.com
-        git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
-        git fetch --no-recurse-submodules
-        git worktree add ./gh-pages gh-pages
-        cd gh-pages
-        git rm -r .
-        cp -r ../public/. .
-        git add .
-        git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
-        git push gh-pages-remote gh-pages:gh-pages
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_REPOSITORY: ${{ github.repository }}
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - run: npm install -g tsx
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libnss3 \
+            libatk-bridge2.0-0 \
+            libx11-xcb1 \
+            libxcomposite1 \
+            libxcursor1 \
+            libxdamage1 \
+            libxext6 \
+            libxfixes3 \
+            libxi6 \
+            libxtst6 \
+            libpangocairo-1.0-0 \
+            libpango-1.0-0 \
+            libcups2 \
+            libdbus-glib-1-2 \
+            libgtk-3-0 \
+            libxrandr2 \
+            libxinerama1 \
+            libxss1 \
+            libasound2t64
+      - run: npx playwright install --with-deps firefox
+      - name: Clone feed-me-up-scotty (customizations branch)
+        run: |
+          git clone --depth 1 --branch customizations https://github.com/std-move/feed-me-up-scotty.git ./feed-me-up-scotty
+          cd feed-me-up-scotty
+          npm install
+      - name: Run feed-me-up-scotty
+        run: |
+          cd feed-me-up-scotty
+          DEBUG="info" tsx ./src/index.ts
+      - name: Deploy to GitHub Pages
+        run: |
+          git config user.name $GITHUB_ACTOR
+          git config user.email $GITHUB_ACTOR@users.noreply.github.com
+          git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
+          git fetch --no-recurse-submodules
+          git worktree add ./gh-pages gh-pages
+          cd gh-pages
+          git rm -r .
+          cp -r ../public/. .
+          git add .
+          git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
+          git push gh-pages-remote gh-pages:gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
