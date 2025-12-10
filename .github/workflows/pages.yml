@@ -20,11 +20,11 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 20
+      # - uses: actions/setup-node@v3
+      #   with:
+      #     node-version: 20
       - run: npm install -g tsx
-      - run: npx playwright install --with-deps firefox
+      # - run: npx playwright install --with-deps firefox
       - name: Clone feed-me-up-scotty (customizations branch)
         run: |
           git clone --depth 1 --branch customizations https://github.com/std-move/feed-me-up-scotty.git ./feed-me-up-scotty
