@@ -14,10 +14,12 @@ env:
   CI: true
 jobs:
   publish-feeds:
+    timeout-minutes: 25
     runs-on: ubuntu-latest
     container:
       image: mcr.microsoft.com/playwright:v1.57.0-noble
-    timeout-minutes: 25
+    env:
+      HOME: /root
     steps:
       - uses: actions/checkout@v4
       - name: Clone feed-me-up-scotty
