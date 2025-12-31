@@ -19,24 +19,32 @@ jobs:
     container:
       image: mcr.microsoft.com/playwright:v1.57.0-noble
     steps:
+      - name: Setup container environment
+        run: |
+          mkdir -p /root/.docker
+          chmod 755 /root/.docker
+          git config --global --add safe.directory $GITHUB_WORKSPACE
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Need history for gh-pages
+          persist-credentials: true
       - name: Clone feed-me-up-scotty
         run: |
-          git clone --depth 1 https://github.com/std-move/feed-me-up-scotty.git ./feed-me-up-scotty
+          git clone --depth 1 https://github.com/std-move/feed-me-up-scotty.git /root/feed-me-up-scotty
       - name: install and compile feed-me-up-scotty
         run: |
-          cd feed-me-up-scotty
+          cd /root/feed-me-up-scotty
           npm install
           npm run build   # outputs JS to dist/
       - name: Run feed-me-up-scotty
         env:
           HOME: /root
         run: |
-          cd feed-me-up-scotty
+          cd $GITHUB_WORKSPACE
           export DEBUG="info"
           # GitHub Actions unfortunately does not support retries.
           # this is a cumbersome method of retrying twice in case of errors.
-          npx . || npx . || npx .
+          npx /root/feed-me-up-scotty || npx /root/feed-me-up-scotty || npx /root/feed-me-up-scotty
       - name: Deploy to GitHub Pages
         run: |
           cd $GITHUB_WORKSPACE
