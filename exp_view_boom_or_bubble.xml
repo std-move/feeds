@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boomorbubble.ai/news</id>
     <title>AI Boom/Bubble Monitor</title>
-    <updated>2025-12-31T17:44:08.126Z</updated>
+    <updated>2025-12-31T17:49:20.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://substackcdn.com/image/fetch/w_96,h_96,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F46fc2cf0-7745-4c27-8875-94a97cb1fc9f_900x900.png</icon>
     <entry>
@@ -261,7 +261,7 @@
         <title type="html"><![CDATA[Clay reached $100M ARR in two years with zero enterprise churn, per Varun Anand.]]></title>
         <id>link-18dc7bf5c1cc3e624c7ac0f289b51e71</id>
         <link href="https://x.com/vxanand/status/1998037723458810129"/>
-        <updated>2025-12-31T17:44:07.441Z</updated>
+        <updated>2025-12-31T17:44:07.437Z</updated>
         <content type="html"><![CDATA[<td class="px-6 py-4 whitespace-nowrap text-sm text-gray-600">Dec 10, 2025</td><td class="px-6 py-4 text-sm text-gray-900">Revenue momentum</td><td class="px-6 py-4 whitespace-nowrap text-sm"><div class="flex items-center gap-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up w-3 h-3" style="color: rgb(22, 163, 74);"><path d="m5 12 7-7 7 7"></path><path d="M12 19V5"></path></svg><span style="color: rgb(22, 163, 74);">Improve</span></div></td><td class="px-6 py-4 text-sm"><div class="flex items-center gap-1.5"><span class="text-gray-900">Clay reached $100M ARR in two years with zero enterprise churn, per Varun Anand.</span><a href="https://x.com/vxanand/status/1998037723458810129" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 flex-shrink-0" data-testid="link-story-36"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link w-3.5 h-3.5"><path d="M15 3h6v6"></path><path d="M10 14 21 3"></path><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path></svg></a></div></td>]]></content>
     </entry>
     <entry>
