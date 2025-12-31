@@ -39,6 +39,7 @@ jobs:
           npx . || npx . || npx .
       - name: Deploy to GitHub Pages
         run: |
+          cd $GITHUB_WORKSPACE
           git config user.name $GITHUB_ACTOR
           git config user.email $GITHUB_ACTOR@users.noreply.github.com
           git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
