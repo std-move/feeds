@@ -18,12 +18,13 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: mcr.microsoft.com/playwright:v1.57.0-noble
+    env:
+      DOCKER_CONFIG: /tmp/.docker
     steps:
       - name: Setup container environment
         run: |
-          mkdir -p /root/.docker
-          chmod 755 /root/.docker
-          git config --global --add safe.directory $GITHUB_WORKSPACE
+          mkdir -p /tmp/.docker
+          git config --global --add safe.directory $GITHUB_WORKSPACE || true
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0  # Need history for gh-pages
