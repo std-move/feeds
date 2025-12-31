@@ -21,7 +21,7 @@ jobs:
     env:
       DOCKER_CONFIG: /tmp/.docker
     steps:
-      - name: Setup container environment
+      - name: Set up container environment
         run: |
           mkdir -p /tmp/.docker
           git config --global --add safe.directory $GITHUB_WORKSPACE || true
@@ -29,15 +29,18 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: true
-      - name: Clone feed-me-up-scotty
+      - name: Clone my fork of feed-me-up-scotty
         run: |
           git clone --depth 1 https://github.com/std-move/feed-me-up-scotty.git /root/feed-me-up-scotty
-      - name: install and compile feed-me-up-scotty
+      - name: install dependencies and compile ts into js
         run: |
           cd /root/feed-me-up-scotty
           npm install
           npm run build   # outputs JS to dist/
-      - name: Run feed-me-up-scotty
+      - name: Run feed-me-up-scotty thru npx
+        id: npx-get-feeds
+        # partial failure does not mean that all feeds are dead
+        continue-on-error: true
         env:
           HOME: /root
         run: |
@@ -61,3 +64,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
+      - name: Fail workflow if feed-me-up-scotty failed (even partially)
+        if: steps.npx-get-feeds.outcome == 'failure'
+        run: exit 1
