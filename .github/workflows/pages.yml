@@ -27,7 +27,7 @@ jobs:
           git config --global --add safe.directory $GITHUB_WORKSPACE || true
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Need history for gh-pages
+          fetch-depth: 0
           persist-credentials: true
       - name: Clone feed-me-up-scotty
         run: |
@@ -41,14 +41,12 @@ jobs:
         env:
           HOME: /root
         run: |
-          cd $GITHUB_WORKSPACE
           export DEBUG="info"
           # GitHub Actions unfortunately does not support retries.
           # this is a cumbersome method of retrying twice in case of errors.
           npx /root/feed-me-up-scotty || npx /root/feed-me-up-scotty || npx /root/feed-me-up-scotty
       - name: Deploy to GitHub Pages
         run: |
-          cd $GITHUB_WORKSPACE
           git config user.name $GITHUB_ACTOR
           git config user.email $GITHUB_ACTOR@users.noreply.github.com
           git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
