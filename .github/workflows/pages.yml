@@ -18,8 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: mcr.microsoft.com/playwright:v1.57.0-noble
-    env:
-      HOME: /root
     steps:
       - uses: actions/checkout@v4
       - name: Clone feed-me-up-scotty
@@ -31,6 +29,8 @@ jobs:
           npm install
           npm run build   # outputs JS to dist/
       - name: Run feed-me-up-scotty
+        env:
+          HOME: /root
         run: |
           cd feed-me-up-scotty
           export DEBUG="info"
