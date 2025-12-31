@@ -1,13 +1,20 @@
-[funfacts]
+# debugging: dump the whole page source into the feed
+# entrySelector = ":root"
+
+# see if the basics work
+[wikipedia_did_you_know]
 title = "Wikipedia — did you know?"
 url = "https://en.wikipedia.org/wiki/Main_Page"
 entrySelector = "#mp-dyk > ul li"
 titleSelector = "b"
 linkSelector = "b a"
+waitUntil = "load"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[exp_view_boom_or_bubble]
+title = "AI Boom/Bubble Monitor"
+url = "https://boomorbubble.ai/news"
+waitForSelector = "tbody"
+entrySelector = "tbody tr"
+titleSelector = "td:nth-of-type(4)"
+linkSelector = "a"
+waitUntil = "load"
