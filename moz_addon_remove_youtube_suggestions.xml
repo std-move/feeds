@@ -2,182 +2,182 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-01-02T19:21:08.632Z</updated>
+    <updated>2026-01-02T19:22:45.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Version 4.3.65]]></title>
         <id>title-d6b50fd0c977214503ee96439189e28e</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.733Z</updated>
+        <updated>2026-01-02T19:22:44.490Z</updated>
         <content type="html"><![CDATA[Released Dec 23, 2025 - 333.41 KB — Fix the left-navbar settings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.64]]></title>
         <id>title-a365c4af96ad82b07e094e56de109528</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.736Z</updated>
+        <updated>2026-01-02T19:22:44.490Z</updated>
         <content type="html"><![CDATA[Released Oct 22, 2025 - 333.8 KB — fix the setting to end-of-video suggestions]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.63]]></title>
         <id>title-c33c0f14925435fda4e949180bf08e57</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.737Z</updated>
+        <updated>2026-01-02T19:22:44.492Z</updated>
         <content type="html"><![CDATA[Released Jul 13, 2025 - 333.38 KB — Fix the "remove shorts from search results" option]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.62]]></title>
         <id>title-b1d371a2e66d454557a994ba5ae78661</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.740Z</updated>
+        <updated>2026-01-02T19:22:44.498Z</updated>
         <content type="html"><![CDATA[Released Dec 18, 2024 - 333.33 KB — Version 4.3.62<br>   - Password feature<br>   - Add an option to shrink thumbnails<br>   - Add an option to remove the clip button<br>   - Fix the 'center contents' option<br>   - Fix subs page option to hide 'upcoming' videos.<br>   - Fix toggles in the video player page.<br>   - Disable copy/paste for code entry]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.61]]></title>
         <id>title-bd026d455c89e23d35f5a0e99c936196</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.746Z</updated>
+        <updated>2026-01-02T19:22:44.499Z</updated>
         <content type="html"><![CDATA[Released Dec 14, 2024 - 329.42 KB — Fixed the "remove search suggestions" option]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.60]]></title>
         <id>title-e01cca1ea82758495c1b714522e98871</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.752Z</updated>
+        <updated>2026-01-02T19:22:44.503Z</updated>
         <content type="html"><![CDATA[Released Jun 7, 2024 - 329.77 KB — Fix the menu timer]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.59]]></title>
         <id>title-09c7e0b58bbb8c9e00a4a78dd5033e91</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.754Z</updated>
+        <updated>2026-01-02T19:22:44.507Z</updated>
         <content type="html"><![CDATA[Released May 31, 2024 - 329.78 KB — Disabled the power button when a schedule is active. Added an option to lock the menu with a random code.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.58]]></title>
         <id>title-ba179f8311fe3547d1313b443d1da23c</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.757Z</updated>
+        <updated>2026-01-02T19:22:44.509Z</updated>
         <content type="html"><![CDATA[Released May 24, 2024 - 329.15 KB — Fixed the skip ad option]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.57]]></title>
         <id>title-0d4ef6d61d931a198593380abfc128ec</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.760Z</updated>
+        <updated>2026-01-02T19:22:44.513Z</updated>
         <content type="html"><![CDATA[Released May 12, 2024 - 329.08 KB — Added options to toggle subscribers count &amp; grayscale mode. Thank you to porobertdev for the PR!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.55]]></title>
         <id>title-3163867d0701444cee852499ad34c0d7</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.763Z</updated>
+        <updated>2026-01-02T19:22:44.516Z</updated>
         <content type="html"><![CDATA[Released Apr 28, 2024 - 327.66 KB — Set "skip ads" to default false]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.54]]></title>
         <id>title-ed64d55329c2699d8e460f444f7a1d9a</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.766Z</updated>
+        <updated>2026-01-02T19:22:44.519Z</updated>
         <content type="html"><![CDATA[Released Mar 7, 2024 - 327.65 KB — Implemented "only show playlists" for the left sidebar.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.53]]></title>
         <id>title-faa5f63a36eb1181ab508fbbd2ec7a50</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.769Z</updated>
+        <updated>2026-01-02T19:22:44.523Z</updated>
         <content type="html"><![CDATA[Released Mar 4, 2024 - 327.3 KB — Implemented "True full screen mode" thank you to Jon-guy30 for the suggestion!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.52]]></title>
         <id>title-4c3416f8c0cdead4971c918b6f73effe</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.771Z</updated>
+        <updated>2026-01-02T19:22:44.526Z</updated>
         <content type="html"><![CDATA[Released Dec 3, 2023 - 327.24 KB — Added an option to remove the 'for you' section on the channel page]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.51]]></title>
         <id>title-85e0ef5e4ddbedd7bab45c61aa72c1c7</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.773Z</updated>
+        <updated>2026-01-02T19:22:44.529Z</updated>
         <content type="html"><![CDATA[Released Oct 29, 2023 - 326.99 KB — fixed the skip ads feature (modern button)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.50]]></title>
         <id>title-79003036b80ba5c9cf36b545f82b0f5b</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.776Z</updated>
+        <updated>2026-01-02T19:22:44.531Z</updated>
         <content type="html"><![CDATA[Released Oct 29, 2023 - 326.98 KB — add a feature for hiding the likes<br>thank you to porobertdev!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.48]]></title>
         <id>title-73d79e849859ff4b30325f96f72c91a9</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.779Z</updated>
+        <updated>2026-01-02T19:22:44.534Z</updated>
         <content type="html"><![CDATA[Released Oct 28, 2023 - 326.91 KB — Added compatibility for the new skip button]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.47]]></title>
         <id>title-0e85389c7db7601be0940370381c1dcf</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.781Z</updated>
+        <updated>2026-01-02T19:22:44.537Z</updated>
         <content type="html"><![CDATA[Released Sep 26, 2023 - 326.54 KB — Added a close button to the reveal buttons.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.46]]></title>
         <id>title-f2079db280506867067c920dc5ca91ef</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.784Z</updated>
+        <updated>2026-01-02T19:22:44.539Z</updated>
         <content type="html"><![CDATA[Released Aug 31, 2023 - 326.76 KB — fixed search bar bug]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.45]]></title>
         <id>title-966e3da7b233005958117e0017cea5d9</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.786Z</updated>
+        <updated>2026-01-02T19:22:44.542Z</updated>
         <content type="html"><![CDATA[Released Jun 16, 2023 - 326.76 KB — - Added a button which reveals hidden suggestions<br> - Fixed VODs removal<br> - Reduced the empty space on the subs page<br> - Added an option to hide the extra tags (only show "all" and "related")<br> - Added an option to blur video thumbnails<br> - Added an option to hide a video’s description<br> - Fixed “reverse channel videos” make it only apply on the channel page]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.42]]></title>
         <id>title-844df80b9c8107d5ce50365a2c752378</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.789Z</updated>
+        <updated>2026-01-02T19:22:44.545Z</updated>
         <content type="html"><![CDATA[Released Jun 8, 2023 - 325.51 KB — Handle the updated subscriptions page]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.41]]></title>
         <id>title-da6ea8c0e6987789e1e424311e2228a3</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.792Z</updated>
+        <updated>2026-01-02T19:22:44.548Z</updated>
         <content type="html"><![CDATA[Released May 8, 2023 - 325.42 KB — Fix undefined bug]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.40]]></title>
         <id>title-e2e717bb88ff56b0619ac22f9bb33977</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.795Z</updated>
+        <updated>2026-01-02T19:22:44.550Z</updated>
         <content type="html"><![CDATA[Released May 7, 2023 - 325.43 KB — Added new options:<br>   - disable autoplay for the channel page<br>   - hide VODs on the subscriptions page<br>   - remove the “context” block]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.39]]></title>
         <id>title-935009ba0423d534fe3f94e1ff7dbbf3</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.798Z</updated>
+        <updated>2026-01-02T19:22:44.553Z</updated>
         <content type="html"><![CDATA[Released Apr 14, 2023 - 325.17 KB — Don't autofocus the search bar if there's text in it]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.38]]></title>
         <id>title-7cb1350179d98c21fbe68e32da24fee4</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.811Z</updated>
+        <updated>2026-01-02T19:22:44.557Z</updated>
         <content type="html"><![CDATA[Released Mar 25, 2023 - 325.16 KB — Added an option to auto-expand the video description]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.37]]></title>
         <id>title-b2fa9bc59641cac891b53f821f4bf47c</id>
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-02T19:21:07.814Z</updated>
+        <updated>2026-01-02T19:22:44.570Z</updated>
         <content type="html"><![CDATA[Released Mar 23, 2023 - 325.13 KB — fix redirect bug]]></content>
     </entry>
 </feed>
