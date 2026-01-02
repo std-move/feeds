@@ -55,8 +55,8 @@ jobs:
           cd gh-pages
           git rm -r .
           # fail if public does not exist or is empty
-          [ -d /root/public ] && [ -n "$(ls -A /root/public 2>/dev/null)" ] || exit 1
-          cp -r /root/public/. .
+          [ -d ../public ] && [ -n "$(ls -A ../public 2>/dev/null)" ] || exit 1
+          cp -r ../public/. .
           git add .
           git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
           git push gh-pages-remote gh-pages:gh-pages
