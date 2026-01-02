@@ -19,6 +19,15 @@ titleSelector = "td:nth-of-type(4)"
 linkSelector = "a"
 waitUntil = "load"
 
+[bitrefill_cz_recently_added]
+title = "Bitrefill recently added (CZ)"
+url = "https://www.bitrefill.com/cz/en/gift-cards/?s=3"
+waitForSelector = "[class*='gridStyles'] a[class*='linkContainer']"
+entrySelector = "[class*='gridStyles'] a[class*='linkContainer']"
+titleSelector = "h2"
+linkSelector = "*"
+waitUntil = "load"
+
 [kobo_libra_2_firmware]
 title = "Kobo Libra 2 latest firmware"
 url = "https://pgaskin.net/KoboStuff/kobofirmware.html"
