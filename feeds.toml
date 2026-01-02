@@ -26,7 +26,7 @@ waitForSelector = "[class*='gridStyles'] a[class*='linkContainer']"
 entrySelector = "[class*='gridStyles'] a[class*='linkContainer']"
 titleSelector = "h2"
 linkSelector = "*"
-contentSelector = ["h2", "p"]
+contentSelector = ["h2", "p[class=*'price']"]
 waitUntil = "load"
 
 [kobo_libra_2_firmware]
