@@ -19,7 +19,7 @@ titleSelector = "td:nth-of-type(4)"
 linkSelector = "a"
 waitUntil = "load"
 
-[bitrefill_cz_recently_added]
+[bitrefill_cz_recently_added_cards]
 title = "Bitrefill recently added (CZ)"
 url = "https://www.bitrefill.com/cz/en/gift-cards/?s=3"
 waitForSelector = "[class*='gridStyles'] a[class*='linkContainer']"
