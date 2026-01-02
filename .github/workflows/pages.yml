@@ -55,7 +55,7 @@ jobs:
           cd gh-pages
           git rm -r .
           # fail if public does not exist or is empty
-          [ -d ../public ] && [ "$(find ../public -mindepth 1 -maxdepth 1 | head -n1)" ] || exit 1
+          [ -d ../public ] && [ "$(find ../public -mindepth 1 -maxdepth 1 -print -quit 2>/dev/null | grep -q .)" ] || exit 1
           cp -r ../public/. .
           git add .
           git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
