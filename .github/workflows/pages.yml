@@ -26,9 +26,6 @@ jobs:
           mkdir -p /tmp/.docker
           git config --global --add safe.directory $GITHUB_WORKSPACE || true
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
       - name: Clone my fork of feed-me-up-scotty
         run: |
           git clone --depth 1 https://github.com/std-move/feed-me-up-scotty.git /root/feed-me-up-scotty
@@ -57,7 +54,9 @@ jobs:
           git worktree add ./gh-pages gh-pages
           cd gh-pages
           git rm -r .
-          cp -r ../public/. .
+          # fail if public does not exist or is empty
+          [ -d /root/public ] && [ -n "$(ls -A /root/public 2>/dev/null)" ] || exit 1
+          cp -r /root/public/. .
           git add .
           git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
           git push gh-pages-remote gh-pages:gh-pages
