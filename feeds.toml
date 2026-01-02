@@ -18,3 +18,24 @@ entrySelector = "tbody tr"
 titleSelector = "td:nth-of-type(4)"
 linkSelector = "a"
 waitUntil = "load"
+
+[kobo_libra_2_firmware]
+title = "Kobo Libra 2 latest firmware"
+url = "https://pgaskin.net/KoboStuff/kobofirmware.html"
+waitForSelector = "#section-latest tbody tr"
+entrySelector = "#section-latest tbody tr"
+titleSelector = [".kfw-latest__model", ".kfw-latest__version"]
+contentSelector = [".kfw-latest__model", ".kfw-latest__hardware", ".kfw-latest__version", ".kfw-latest__date"]
+linkSelector = "a.kfw-latest__links__notes"
+waitUntil = "load"
+matchOneOf=["kobo9", "Kobo Libra 2"]
+
+[moz_addon_remove_youtube_suggestions]
+title = "RYS — Remove YouTube Suggestions versions"
+url = "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/"
+waitForSelector = ".AddonVersionCard"
+entrySelector = ".AddonVersionCard"
+titleSelector = ".AddonVersionCard-version"
+contentSelector = [".AddonVersionCard-fileInfo", ".AddonVersionCard-releaseNotes"]
+waitUntil = "load"
+
