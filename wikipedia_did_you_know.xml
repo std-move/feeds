@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-02T22:11:10.980Z</updated>
+    <updated>2026-01-02T22:18:26.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>link-6ac453fca89ce290a366a01c5bd15c37</id>
         <link href="https://en.wikipedia.org/wiki/Skip_Thomas"/>
         <updated>2026-01-02T19:48:34.397Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Skip_Thomas" title="Skip Thomas">an NFL player who played strip poker with nurses</a></b>, <b><a href="/wiki/Ludwig_Minelli" title="Ludwig Minelli">a human rights lawyer who founded a Swiss assisted suicide clinic</a></b>, and <b><a href="/wiki/Oscar_Edwards" title="Oscar Edwards">a businessman who denounced his old football playing style</a></b> all had the nickname "Dr.&nbsp;Death"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Skip_Thomas" title="Skip Thomas">an NFL player who played strip poker with nurses</a></b>, <b><a href="/wiki/Ludwig_Minelli" title="Ludwig Minelli">a human rights lawyer who founded a Swiss assisted-suicide clinic</a></b>, and <b><a href="/wiki/Oscar_Edwards" title="Oscar Edwards">a businessman who denounced his old football playing style</a></b> all had the nickname "Dr.&nbsp;Death"?]]></content>
     </entry>
 </feed>
