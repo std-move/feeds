@@ -4,129 +4,154 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-d6b50fd0c977214503ee96439189e28e",
 			"title": "Version 4.3.65",
 			"contents": "Released Dec 23, 2025 - 333.41 KB — Fix the left-navbar settings",
-			"retrieved": 1767381764490
+			"retrieved": 1767383328814
 		},
 		{
+			"id": "title-a365c4af96ad82b07e094e56de109528",
 			"title": "Version 4.3.64",
 			"contents": "Released Oct 22, 2025 - 333.8 KB — fix the setting to end-of-video suggestions",
-			"retrieved": 1767381764490
+			"retrieved": 1767383328814
 		},
 		{
+			"id": "title-c33c0f14925435fda4e949180bf08e57",
 			"title": "Version 4.3.63",
 			"contents": "Released Jul 13, 2025 - 333.38 KB — Fix the \"remove shorts from search results\" option",
-			"retrieved": 1767381764492
+			"retrieved": 1767383328815
 		},
 		{
+			"id": "title-b1d371a2e66d454557a994ba5ae78661",
 			"title": "Version 4.3.62",
 			"contents": "Released Dec 18, 2024 - 333.33 KB — Version 4.3.62<br>   - Password feature<br>   - Add an option to shrink thumbnails<br>   - Add an option to remove the clip button<br>   - Fix the 'center contents' option<br>   - Fix subs page option to hide 'upcoming' videos.<br>   - Fix toggles in the video player page.<br>   - Disable copy/paste for code entry",
-			"retrieved": 1767381764498
+			"retrieved": 1767383328815
 		},
 		{
+			"id": "title-bd026d455c89e23d35f5a0e99c936196",
 			"title": "Version 4.3.61",
 			"contents": "Released Dec 14, 2024 - 329.42 KB — Fixed the \"remove search suggestions\" option",
-			"retrieved": 1767381764499
+			"retrieved": 1767383328815
 		},
 		{
+			"id": "title-e01cca1ea82758495c1b714522e98871",
 			"title": "Version 4.3.60",
 			"contents": "Released Jun 7, 2024 - 329.77 KB — Fix the menu timer",
-			"retrieved": 1767381764503
+			"retrieved": 1767383328817
 		},
 		{
+			"id": "title-09c7e0b58bbb8c9e00a4a78dd5033e91",
 			"title": "Version 4.3.59",
 			"contents": "Released May 31, 2024 - 329.78 KB — Disabled the power button when a schedule is active. Added an option to lock the menu with a random code.",
-			"retrieved": 1767381764507
+			"retrieved": 1767383328819
 		},
 		{
+			"id": "title-ba179f8311fe3547d1313b443d1da23c",
 			"title": "Version 4.3.58",
 			"contents": "Released May 24, 2024 - 329.15 KB — Fixed the skip ad option",
-			"retrieved": 1767381764509
+			"retrieved": 1767383328826
 		},
 		{
+			"id": "title-0d4ef6d61d931a198593380abfc128ec",
 			"title": "Version 4.3.57",
 			"contents": "Released May 12, 2024 - 329.08 KB — Added options to toggle subscribers count &amp; grayscale mode. Thank you to porobertdev for the PR!",
-			"retrieved": 1767381764513
+			"retrieved": 1767383328828
 		},
 		{
+			"id": "title-3163867d0701444cee852499ad34c0d7",
 			"title": "Version 4.3.55",
 			"contents": "Released Apr 28, 2024 - 327.66 KB — Set \"skip ads\" to default false",
-			"retrieved": 1767381764516
+			"retrieved": 1767383328831
 		},
 		{
+			"id": "title-ed64d55329c2699d8e460f444f7a1d9a",
 			"title": "Version 4.3.54",
 			"contents": "Released Mar 7, 2024 - 327.65 KB — Implemented \"only show playlists\" for the left sidebar.",
-			"retrieved": 1767381764519
+			"retrieved": 1767383328834
 		},
 		{
+			"id": "title-faa5f63a36eb1181ab508fbbd2ec7a50",
 			"title": "Version 4.3.53",
 			"contents": "Released Mar 4, 2024 - 327.3 KB — Implemented \"True full screen mode\" thank you to Jon-guy30 for the suggestion!",
-			"retrieved": 1767381764523
+			"retrieved": 1767383328836
 		},
 		{
+			"id": "title-4c3416f8c0cdead4971c918b6f73effe",
 			"title": "Version 4.3.52",
 			"contents": "Released Dec 3, 2023 - 327.24 KB — Added an option to remove the 'for you' section on the channel page",
-			"retrieved": 1767381764526
+			"retrieved": 1767383328839
 		},
 		{
+			"id": "title-85e0ef5e4ddbedd7bab45c61aa72c1c7",
 			"title": "Version 4.3.51",
 			"contents": "Released Oct 29, 2023 - 326.99 KB — fixed the skip ads feature (modern button)",
-			"retrieved": 1767381764529
+			"retrieved": 1767383328845
 		},
 		{
+			"id": "title-79003036b80ba5c9cf36b545f82b0f5b",
 			"title": "Version 4.3.50",
 			"contents": "Released Oct 29, 2023 - 326.98 KB — add a feature for hiding the likes<br>thank you to porobertdev!",
-			"retrieved": 1767381764531
+			"retrieved": 1767383328847
 		},
 		{
+			"id": "title-73d79e849859ff4b30325f96f72c91a9",
 			"title": "Version 4.3.48",
 			"contents": "Released Oct 28, 2023 - 326.91 KB — Added compatibility for the new skip button",
-			"retrieved": 1767381764534
+			"retrieved": 1767383328850
 		},
 		{
+			"id": "title-0e85389c7db7601be0940370381c1dcf",
 			"title": "Version 4.3.47",
 			"contents": "Released Sep 26, 2023 - 326.54 KB — Added a close button to the reveal buttons.",
-			"retrieved": 1767381764537
+			"retrieved": 1767383328853
 		},
 		{
+			"id": "title-f2079db280506867067c920dc5ca91ef",
 			"title": "Version 4.3.46",
 			"contents": "Released Aug 31, 2023 - 326.76 KB — fixed search bar bug",
-			"retrieved": 1767381764539
+			"retrieved": 1767383328855
 		},
 		{
+			"id": "title-966e3da7b233005958117e0017cea5d9",
 			"title": "Version 4.3.45",
 			"contents": "Released Jun 16, 2023 - 326.76 KB — - Added a button which reveals hidden suggestions<br> - Fixed VODs removal<br> - Reduced the empty space on the subs page<br> - Added an option to hide the extra tags (only show \"all\" and \"related\")<br> - Added an option to blur video thumbnails<br> - Added an option to hide a video’s description<br> - Fixed “reverse channel videos” make it only apply on the channel page",
-			"retrieved": 1767381764542
+			"retrieved": 1767383328858
 		},
 		{
+			"id": "title-844df80b9c8107d5ce50365a2c752378",
 			"title": "Version 4.3.42",
 			"contents": "Released Jun 8, 2023 - 325.51 KB — Handle the updated subscriptions page",
-			"retrieved": 1767381764545
+			"retrieved": 1767383328861
 		},
 		{
+			"id": "title-da6ea8c0e6987789e1e424311e2228a3",
 			"title": "Version 4.3.41",
 			"contents": "Released May 8, 2023 - 325.42 KB — Fix undefined bug",
-			"retrieved": 1767381764548
+			"retrieved": 1767383328863
 		},
 		{
+			"id": "title-e2e717bb88ff56b0619ac22f9bb33977",
 			"title": "Version 4.3.40",
 			"contents": "Released May 7, 2023 - 325.43 KB — Added new options:<br>   - disable autoplay for the channel page<br>   - hide VODs on the subscriptions page<br>   - remove the “context” block",
-			"retrieved": 1767381764550
+			"retrieved": 1767383328867
 		},
 		{
+			"id": "title-935009ba0423d534fe3f94e1ff7dbbf3",
 			"title": "Version 4.3.39",
 			"contents": "Released Apr 14, 2023 - 325.17 KB — Don't autofocus the search bar if there's text in it",
-			"retrieved": 1767381764553
+			"retrieved": 1767383328870
 		},
 		{
+			"id": "title-7cb1350179d98c21fbe68e32da24fee4",
 			"title": "Version 4.3.38",
 			"contents": "Released Mar 25, 2023 - 325.16 KB — Added an option to auto-expand the video description",
-			"retrieved": 1767381764557
+			"retrieved": 1767383328872
 		},
 		{
+			"id": "title-b2fa9bc59641cac891b53f821f4bf47c",
 			"title": "Version 4.3.37",
 			"contents": "Released Mar 23, 2023 - 325.13 KB — fix redirect bug",
-			"retrieved": 1767381764570
+			"retrieved": 1767383328886
 		}
 	]
 }
