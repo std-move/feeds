@@ -56,3 +56,4 @@ titleSelector = "a"
 linkSelector = "a"
 dateSelector = "xpathstr=.//abbr/@title"
 dateFormat = "yyyy-MM-dd HH:mm:ss xx"
+timeout = 25
