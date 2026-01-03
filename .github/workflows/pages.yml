@@ -14,7 +14,7 @@ env:
   CI: true
 jobs:
   publish-feeds:
-    timeout-minutes: 25
+    timeout-minutes: 35
     runs-on: ubuntu-latest
     container:
       image: mcr.microsoft.com/playwright:v1.57.0-noble
@@ -35,6 +35,7 @@ jobs:
           npm install
           npm run build   # outputs JS to dist/
       - name: Run feed-me-up-scotty thru npx
+        timeout-minutes: 25
         id: npx-get-feeds
         # partial failure does not mean that all feeds are dead
         continue-on-error: true
