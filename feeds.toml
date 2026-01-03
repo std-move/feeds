@@ -38,7 +38,7 @@ titleSelector = [".kfw-latest__model", ".kfw-latest__version"]
 contentSelector = [".kfw-latest__model", ".kfw-latest__hardware", ".kfw-latest__version", ".kfw-latest__date"]
 linkSelector = "a.kfw-latest__links__notes"
 waitUntil = "load"
-matchOneOf=["kobo9", "Kobo Libra 2"]
+matchOneOf = ["kobo9", "Kobo Libra 2"]
 
 [moz_addon_remove_youtube_suggestions]
 title = "RYS — Remove YouTube Suggestions versions"
@@ -47,5 +47,16 @@ waitForSelector = ".AddonVersionCard"
 entrySelector = ".AddonVersionCard"
 titleSelector = ".AddonVersionCard-version"
 contentSelector = [".AddonVersionCard-fileInfo", ".AddonVersionCard-releaseNotes"]
+waitUntil = "load"
+
+[tapology_upcoming_major_events]
+title = "Tapology - upcoming major events (date adjusted)"
+url = "https://www.tapology.com/fightcenter?group=major&schedule=upcoming&sport=all"
+waitForSelector = "xpath=//*[contains(@class, 'pickDeadlineSidebar')]//tr[.//td]"
+entrySelector = "xpath=//*[contains(@class, 'pickDeadlineSidebar')]//tr[.//td]"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "xpathstr=//abbr/@title"
+dateFormat = "yyyy-MM-dd HH:mm:ss xx"
 waitUntil = "load"
 
