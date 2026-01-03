@@ -8,7 +8,7 @@ waitUntil = "load"
 [wikipedia_did_you_know]
 title = "Wikipedia — did you know?"
 url = "https://en.wikipedia.org/wiki/Main_Page"
-waitForSelector = "#mp-dyk"
+waitForSelector = "#mp-dyk > ul li"
 entrySelector = "#mp-dyk > ul li"
 titleSelector = "b"
 linkSelector = "b a"
@@ -16,7 +16,7 @@ linkSelector = "b a"
 [exp_view_boom_or_bubble]
 title = "AI Boom/Bubble Monitor"
 url = "https://boomorbubble.ai/news"
-waitForSelector = "tbody"
+waitForSelector = "tbody tr"
 entrySelector = "tbody tr"
 titleSelector = "td:nth-of-type(4)"
 linkSelector = "a"
@@ -33,12 +33,11 @@ contentSelector = ["h2", "p[class*='price']"]
 [kobo_libra_2_firmware]
 title = "Kobo Libra 2 latest firmware"
 url = "https://pgaskin.net/KoboStuff/kobofirmware.html"
-waitForSelector = "#section-latest tbody tr"
-entrySelector = "#section-latest tbody tr"
+waitForSelector = "xpath=//*[@id='section-latest']//tbody//tr[.//*[contains(@class,'kfw-latest__hardware') and normalize-space(.)='kobo9']]"
+entrySelector = "xpath=//*[@id='section-latest']//tbody//tr[.//*[contains(@class,'kfw-latest__hardware') and normalize-space(.)='kobo9']]"
 titleSelector = [".kfw-latest__model", ".kfw-latest__version"]
 linkSelector = "a.kfw-latest__links__notes"
 contentSelector = [".kfw-latest__model", ".kfw-latest__hardware", ".kfw-latest__version", ".kfw-latest__date"]
-matchOneOf = ["kobo9", "Kobo Libra 2"]
 
 [moz_addon_remove_youtube_suggestions]
 title = "RYS — Remove YouTube Suggestions versions"
