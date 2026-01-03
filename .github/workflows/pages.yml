@@ -65,5 +65,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
       - name: Fail workflow if feed-me-up-scotty failed (even partially)
-        if: steps.npx-get-feeds.outcome == 'failure'
+        if: steps.npx-get-feeds.outcome == 'failure' || steps.npx-get-feeds.outcome == 'cancelled'
         run: exit 1
