@@ -54,6 +54,6 @@ waitForSelector = "xpath=//*[contains(@class, 'pickDeadlineSidebar')]//tr[.//td]
 entrySelector = "xpath=//*[contains(@class, 'pickDeadlineSidebar')]//tr[.//td]"
 titleSelector = ["a", "xpathstr=.//abbr/@title"]
 linkSelector = "a"
-dateSelector = "xpathstr=.//abbr/@title"
-dateFormat = "yyyy-MM-dd HH:mm:ss xx"
+#dateSelector = "xpathstr=.//abbr/@title"
+#dateFormat = "yyyy-MM-dd HH:mm:ss xx"
 timeout = 25
