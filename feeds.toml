@@ -1,14 +1,17 @@
 # debugging: dump the whole page source into the feed
 # entrySelector = ":root"
 
+[default]
+waitUntil = "load"
+
 # see if the basics work
 [wikipedia_did_you_know]
 title = "Wikipedia — did you know?"
 url = "https://en.wikipedia.org/wiki/Main_Page"
+waitForSelector = "#mp-dyk"
 entrySelector = "#mp-dyk > ul li"
 titleSelector = "b"
 linkSelector = "b a"
-waitUntil = "load"
 
 [exp_view_boom_or_bubble]
 title = "AI Boom/Bubble Monitor"
@@ -17,7 +20,6 @@ waitForSelector = "tbody"
 entrySelector = "tbody tr"
 titleSelector = "td:nth-of-type(4)"
 linkSelector = "a"
-waitUntil = "load"
 
 [bitrefill_cz_recently_added_cards]
 title = "Bitrefill recently added (CZ)"
@@ -27,7 +29,6 @@ entrySelector = "[class*='gridStyles'] a[class*='linkContainer']"
 titleSelector = "h2"
 linkSelector = "*"
 contentSelector = ["h2", "p[class*='price']"]
-waitUntil = "load"
 
 [kobo_libra_2_firmware]
 title = "Kobo Libra 2 latest firmware"
@@ -35,9 +36,8 @@ url = "https://pgaskin.net/KoboStuff/kobofirmware.html"
 waitForSelector = "#section-latest tbody tr"
 entrySelector = "#section-latest tbody tr"
 titleSelector = [".kfw-latest__model", ".kfw-latest__version"]
-contentSelector = [".kfw-latest__model", ".kfw-latest__hardware", ".kfw-latest__version", ".kfw-latest__date"]
 linkSelector = "a.kfw-latest__links__notes"
-waitUntil = "load"
+contentSelector = [".kfw-latest__model", ".kfw-latest__hardware", ".kfw-latest__version", ".kfw-latest__date"]
 matchOneOf = ["kobo9", "Kobo Libra 2"]
 
 [moz_addon_remove_youtube_suggestions]
@@ -47,7 +47,6 @@ waitForSelector = ".AddonVersionCard"
 entrySelector = ".AddonVersionCard"
 titleSelector = ".AddonVersionCard-version"
 contentSelector = [".AddonVersionCard-fileInfo", ".AddonVersionCard-releaseNotes"]
-waitUntil = "load"
 
 [tapology_upcoming_major_events]
 title = "Tapology - upcoming major events (date adjusted)"
@@ -58,5 +57,3 @@ titleSelector = "a"
 linkSelector = "a"
 dateSelector = "xpathstr=.//abbr/@title"
 dateFormat = "yyyy-MM-dd HH:mm:ss xx"
-waitUntil = "load"
-
