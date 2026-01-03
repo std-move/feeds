@@ -47,12 +47,12 @@ entrySelector = ".AddonVersionCard"
 titleSelector = ".AddonVersionCard-version"
 contentSelector = [".AddonVersionCard-fileInfo", ".AddonVersionCard-releaseNotes"]
 
-[tapology_upcoming_major_events]
-title = "Tapology - upcoming major events (date adjusted)"
+[tapology_upcoming_events]
+title = "Tapology - upcoming events"
 url = "https://www.tapology.com/fightcenter?group=major&schedule=upcoming&sport=all"
 waitForSelector = "xpath=//*[contains(@class, 'pickDeadlineSidebar')]//tr[.//td]"
 entrySelector = "xpath=//*[contains(@class, 'pickDeadlineSidebar')]//tr[.//td]"
-titleSelector = "a"
+titleSelector = ["a", "xpathstr=.//abbr/@title"]
 linkSelector = "a"
 dateSelector = "xpathstr=.//abbr/@title"
 dateFormat = "yyyy-MM-dd HH:mm:ss xx"
