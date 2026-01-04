@@ -2,7 +2,7 @@
 # entrySelector = ":root"
 
 [default]
-waitUntil = "load"
+waitUntil = "domcontentloaded"
 
 # see if the basics work
 [wikipedia_did_you_know]
@@ -57,4 +57,3 @@ titleSelector = ["a", "xpathstr=.//abbr/@title"]
 linkSelector = "a"
 #dateSelector = "xpathstr=.//abbr/@title"
 #dateFormat = "yyyy-MM-dd HH:mm:ss xx"
-timeout = 25
