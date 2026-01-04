@@ -1,5 +1,287 @@
 {
 	"title": "Bitrefill recently added (CZ)",
 	"url": "https://www.bitrefill.com/cz/en/gift-cards/?s=3",
-	"elements": []
+	"favicon": "https://www.bitrefill.com/cz/en/gift-cards/favicon.ico",
+	"elements": [
+		{
+			"id": "link-372704768f307ef78b83b104c9bb61f7",
+			"title": "Subjektiv Art EUR",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/subjektive-art-eur/",
+			"contents": "Subjektiv Art EUR — €50 - €500",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-2d44a0df635a7fc9fe362770619decad",
+			"title": "Rakuten TV",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/rakuten-tv-cz/",
+			"contents": "Rakuten TV — 152 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-3eaf04d066aae4a24980c2215f608e29",
+			"title": "Flexepin EU",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/flexepin-european-union/",
+			"contents": "Flexepin EU — €10 - €250",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-08481828f1839aefa90a3db1f025cbd7",
+			"title": "PayPerQ.ai",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/ppq-ai-international/",
+			"contents": "PayPerQ.ai — $5 - $100",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-5a0f3c3438beb47bc80ba8781dc27f98",
+			"title": "ASTRATEX",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/astratex-czech-republic/",
+			"contents": "ASTRATEX — 1000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-407800ba31a6edefb72529e2b7a25e98",
+			"title": "OMV",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/omvcz-czech-republic/",
+			"contents": "OMV — 500 CZK - 1000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-647cde952e8c4ed8f57022ee82a3f8b4",
+			"title": "Kinguin Games Store USD International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-usd/",
+			"contents": "Kinguin Games Store USD International — $5 - $500",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-8c88f38eb774f1eae1e7750f7635fa18",
+			"title": "Yalla Ludo Diamond International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/yalla-ludo-diamond-international/",
+			"contents": "Yalla Ludo Diamond International — $2 - $500",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-0d81b74861fe54aa696fe78f55653a65",
+			"title": "Aircash A-Bon Europe",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/",
+			"contents": "Aircash A-Bon Europe — €5 - €25",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-f1c789c661d5261cd61b57b956c3464d",
+			"title": "ExitLag International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/exitlag-international/",
+			"contents": "ExitLag International — Semiannual - Annual",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-ed51250726659a5ca908161ae271b641",
+			"title": "Bankless.com International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/bankless-international/",
+			"contents": "Bankless.com International — 1 Year Subscription",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-3384d2074505ab2be3ef28f1813cbf7e",
+			"title": "Jawaker Tokens International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/jawaker-tokens-international/",
+			"contents": "Jawaker Tokens International — 10000 tokens - 1000000 tokens",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-283fa537c2c7fe7a32a497ca00a1c4ef",
+			"title": "Surfshark VPN International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/surfshark-vpn-international/",
+			"contents": "Surfshark VPN International — Surfshark 1Y - Surfshark 2Y",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-0136c97f969773bc358a5afe41efa368",
+			"title": "Kinguin Games Store EUR International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-international/",
+			"contents": "Kinguin Games Store EUR International — €5 - €250",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-93c9c10d040354f416d60b776823aa42",
+			"title": "Hello Yo International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/hello-yo-international/",
+			"contents": "Hello Yo International — $50 - $100",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-8d75130138882e451dbfcae9c43ec0dc",
+			"title": "LiveMe Coins International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/liveme-coins-international/",
+			"contents": "LiveMe Coins International — LiveMe 629 Coins - LiveMe 8999 Coins",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-3a8d763f1e2c3630dde87bc71fb972fb",
+			"title": "Likee International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/likee-international/",
+			"contents": "Likee International — 42 Diamonds - 42000 Diamonds",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-39ab8b8f1baa3e44659940b96cde94a8",
+			"title": "KAUFLAND",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/kaufland-czech-republic/",
+			"contents": "KAUFLAND — 500 CZK - 1000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-e97530c260dcb68a3080c77ee2fd98f6",
+			"title": "SLEVOMAT CZ",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/slevomat-cz/",
+			"contents": "SLEVOMAT CZ — 500 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-306ea4eb21e9ebfa3b7527431f911418",
+			"title": "Givery Multibrand CZ",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/givery-multibrand-card-cz-1000_00/",
+			"contents": "Givery Multibrand CZ — 500 CZK - 1000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-415dda5a9aed6fb525cc5ccba3292f59",
+			"title": "CoinTracking International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/cointracking-international/",
+			"contents": "CoinTracking International — $155",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-868591b604363c51e5094d86e40eb93b",
+			"title": "PlayStation Store CZ",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/playstation-cz/",
+			"contents": "PlayStation Store CZ — 200 CZK - 6000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-2ed5593b41173f5bf43fc350ebfb1c85",
+			"title": "Minecraft Java International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/",
+			"contents": "Minecraft Java International — $29.99",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-0b5983c9af8853c3391b9a2a2ac6fcc6",
+			"title": "G2A Digital Marketplace",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/g2a-international/",
+			"contents": "G2A Digital Marketplace — $10 - $500",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-7e6c08874f5234243060b4760c2a07b4",
+			"title": "Twitch EU",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/twitch-eu/",
+			"contents": "Twitch EU — €15 - €150",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-075027448d36f2a2c2846ffdc1fe4bb1",
+			"title": "Global Experiences Card CZ",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/global-experiences-card-cz/",
+			"contents": "Global Experiences Card CZ — 250 CZK - 22000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-634360beaee0c793858da705cf25788d",
+			"title": "CASHlib EU",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/cashlib-eu/",
+			"contents": "CASHlib EU — €150",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-43c899761e000d0bebc131ed6d1f4b60",
+			"title": "NordPass Password Manager International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/nordpass-international/",
+			"contents": "NordPass Password Manager International — 1 Year Subscription - 2 Years Subscription",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-9f39eea90c0f5011e5c8001f3b693264",
+			"title": "NordLocker Encrypted Cloud Storage International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/nordlocker-international/",
+			"contents": "NordLocker Encrypted Cloud Storage International — $49.99 - $119.99",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-dc686c4982d8098f3d799603569de704",
+			"title": "Global Experience Card CZE",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/global-experience-card-cze/",
+			"contents": "Global Experience Card CZE — 250 CZK - 22000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-44eb8e40b6d868fa627e6fda0347039d",
+			"title": "Battle.net EU",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/blizzard-battle_net-eu/",
+			"contents": "Battle.net EU — €20 - €100",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-7bcb43fa1807749a7ca77a34fa82f097",
+			"title": "Eneba Games Store EUR",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/eneba-gift-card-eu/",
+			"contents": "Eneba Games Store EUR — €5 - €200",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-89cb75023ba3915e6240664935e2dbce",
+			"title": "Valorant EU",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/valorant-eu/",
+			"contents": "Valorant EU — €5 - €100",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-1967be5286dedb3ef5390377458739d2",
+			"title": "Riot Access Europe",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/",
+			"contents": "Riot Access Europe — €2.5 - €100",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-c3dcb41301186022cadc1afde9118871",
+			"title": "Guess EUR",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/guess-eur/",
+			"contents": "Guess EUR — €25 - €100",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-bfc217eb1ab4d618c8f153fee7e20b46",
+			"title": "Global Hotel Card by Expedia",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/global-hotel-card-cz/",
+			"contents": "Global Hotel Card by Expedia — 500 CZK - 22000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-11f937a8887651100ab123c883e99d7b",
+			"title": "GoCash Card Multi-Game",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/gocash-game-card-international/",
+			"contents": "GoCash Card Multi-Game — $5 - $50",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-93d3cfbe9dd1eba163a8918ed3d0a2c1",
+			"title": "H&M",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/",
+			"contents": "H&amp;M — 100 CZK - 12500 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-a928540e7ad2f73f0ddbe8640da3eeee",
+			"title": "TripGift",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/",
+			"contents": "TripGift — 1000 CZK - 40000 CZK",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-db90be2bdf54763e93557f830b8cee7e",
+			"title": "FlystayGift",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/",
+			"contents": "FlystayGift — 500 CZK - 40000 CZK",
+			"retrieved": 1767548017655
+		}
+	]
 }

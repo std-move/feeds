@@ -1,5 +1,70 @@
 {
 	"title": "Wikipedia — did you know?",
 	"url": "https://en.wikipedia.org/wiki/Main_Page",
-	"elements": []
+	"favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+	"elements": [
+		{
+			"id": "link-8ab3443a9e8f13a84f88c6e6b35b6df9",
+			"title": "Zoninus collar",
+			"link": "https://en.wikipedia.org/wiki/Zoninus_collar",
+			"contents": "... that the <b><a href=\"/wiki/Zoninus_collar\" title=\"Zoninus collar\">Zoninus collar</a></b> <i>(pictured)</i> is the only known Roman slave collar that offers a reward for returning its wearer?",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-0886916f65e0ef31935a131a5d611c8b",
+			"title": "Nuala O'Faolain",
+			"link": "https://en.wikipedia.org/wiki/Nuala_O%27Faolain",
+			"contents": "... that <b><a href=\"/wiki/Nuala_O%27Faolain\" title=\"Nuala O'Faolain\">Nuala O'Faolain</a></b><span class=\"nowrap\">'s</span> first book was so popular that shops sold copies straight from the box, because they did not have the time to shelve them?",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-97d4f6d173688a582c11f24e39e73857",
+			"title": "West Gold Hill dinosaur",
+			"link": "https://en.wikipedia.org/wiki/West_Gold_Hill_dinosaur_tracksite",
+			"contents": "... that the <b><a href=\"/wiki/West_Gold_Hill_dinosaur_tracksite\" title=\"West Gold Hill dinosaur tracksite\">West Gold Hill dinosaur</a></b> made a full turn and crossed its own path?",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-f3507fd60c34a35d02d1bdb69fe79e5c",
+			"title": "the earliest surviving silk-scroll painting",
+			"link": "https://en.wikipedia.org/wiki/Sinheungsa_Buddhist_Paintings",
+			"contents": "... that <b><a href=\"/wiki/Sinheungsa_Buddhist_Paintings\" title=\"Sinheungsa Buddhist Paintings\">the earliest surviving silk-scroll painting</a></b> from Gangwon Province was found in an attic in Hopkinton, New Hampshire?",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-7d77f4c0abc2a7b0bfb332e93bd2cab5",
+			"title": "Armand Avril",
+			"link": "https://en.wikipedia.org/wiki/Armand_Avril",
+			"contents": "... that <b><a href=\"/wiki/Armand_Avril\" title=\"Armand Avril\">Armand Avril</a></b> travelled in 1960 for a year in Africa, where he was inspired to assemble \"bottle caps, clothespins, glue, nails and empty tin cans\"?",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-b5f842c086249e51208f713be6fea333",
+			"title": "have been protesting conditions there",
+			"link": "https://en.wikipedia.org/wiki/Protests_at_the_UNHCR_humanitarian_center_in_Agadez",
+			"contents": "... that hundreds of refugees at a UN humanitarian center in Niger <b><a href=\"/wiki/Protests_at_the_UNHCR_humanitarian_center_in_Agadez\" title=\"Protests at the UNHCR humanitarian center in Agadez\">have been protesting conditions there</a></b> for more than a year?",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-86ecb071de40fab9325784afaf46933f",
+			"title": "Thihapate III of Taungdwin",
+			"link": "https://en.wikipedia.org/wiki/Thihapate_III_of_Taungdwin",
+			"contents": "... that <b><a href=\"/wiki/Thihapate_III_of_Taungdwin\" title=\"Thihapate III of Taungdwin\">Thihapate&nbsp;III of Taungdwin</a></b> pledged his allegiance to <a href=\"/wiki/Mohnyin_Thado\" title=\"Mohnyin Thado\">King Thado</a>, only to renounce it upon returning to his fief?",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-9b6d6a31a38ccc80ae5e07ebca2db5b4",
+			"title": "Roti",
+			"link": "https://en.wikipedia.org/wiki/Roti_(restaurant_chain)",
+			"contents": "... that <b><a href=\"/wiki/Roti_(restaurant_chain)\" title=\"Roti (restaurant chain)\">Roti</a></b> ran 42 restaurants before the <span class=\"nowrap\">COVID-19</span> pandemic reduced the midday lunch demand?",
+			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-8a29396620816dd137d32838888ee1ec",
+			"title": "Lola Young",
+			"link": "https://en.wikipedia.org/wiki/Lola_Young",
+			"contents": "... that <b><a href=\"/wiki/Lola_Young\" title=\"Lola Young\">Lola Young</a></b> won a house in a bet over the chart position of a single from <i><b><a href=\"/wiki/I%27m_Only_F**king_Myself\" title=\"I'm Only F**king Myself\">I'm Only F**king Myself</a></b></i><span style=\"padding-left:0.15em;\">?</span>",
+			"retrieved": 1767548017655
+		}
+	]
 }
