@@ -2,7 +2,7 @@
 # entrySelector = ":root"
 
 [default]
-waitUntil = "domcontentloaded"
+waitUntil = "load"
 
 # see if the basics work
 [wikipedia_did_you_know]
@@ -39,7 +39,6 @@ entrySelector = "xpath=//*[@id='section-latest']//tbody//tr[.//*[contains(@class
 titleSelector = [".kfw-latest__model", ".kfw-latest__version"]
 linkSelector = "a.kfw-latest__links__notes"
 contentSelector = [".kfw-latest__model", ".kfw-latest__hardware", ".kfw-latest__version", ".kfw-latest__date"]
-waitUntil = "load"
 
 [moz_addon_remove_youtube_suggestions]
 title = "RYS — Remove YouTube Suggestions versions"
@@ -58,3 +57,6 @@ titleSelector = ["a", "xpathstr=.//abbr/@title"]
 linkSelector = "a"
 #dateSelector = "xpathstr=.//abbr/@title"
 #dateFormat = "yyyy-MM-dd HH:mm:ss xx"
+# this stuff seems to time out with 'load' a lot
+waitUntil = "domcontentloaded"
+
