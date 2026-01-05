@@ -39,6 +39,7 @@ entrySelector = "xpath=//*[@id='section-latest']//tbody//tr[.//*[contains(@class
 titleSelector = [".kfw-latest__model", ".kfw-latest__version"]
 linkSelector = "a.kfw-latest__links__notes"
 contentSelector = [".kfw-latest__model", ".kfw-latest__hardware", ".kfw-latest__version", ".kfw-latest__date"]
+waitUntil = "load"
 
 [moz_addon_remove_youtube_suggestions]
 title = "RYS — Remove YouTube Suggestions versions"
