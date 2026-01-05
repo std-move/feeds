@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-01-04T19:58:07.994Z</updated>
+    <updated>2026-01-05T03:12:23.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/subjektive-art-eur/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Subjektiv Art EUR — €50 - €500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rakuten TV]]></title>
-        <id>link-2d44a0df635a7fc9fe362770619decad</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/rakuten-tv-cz/"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Rakuten TV — 152 CZK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flexepin EU]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eLearnGift]]></title>
+        <id>link-7a12368d45b5b44354d57beb35fa37b8</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/elearngift-cz/"/>
+        <updated>2026-01-05T03:12:00.294Z</updated>
+        <content type="html"><![CDATA[eLearnGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
