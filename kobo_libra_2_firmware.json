@@ -4,10 +4,11 @@
 	"favicon": "https://pgaskin.net/KoboStuff/favicon.ico",
 	"elements": [
 		{
-			"id": "title-0fd8cab180c7e7bda071d73a9c50dba7",
-			"title": "Kobo Libra 2 — Loading",
-			"contents": "Kobo Libra 2 — kobo9 — Loading — ",
-			"retrieved": 1767582720294
+			"id": "link-54d4767380821454086e5f306feeb480",
+			"title": "Kobo Libra 2 — 4.38.23552",
+			"link": "https://api.kobobooks.com/1.0/ReleaseNotes/172",
+			"contents": "Kobo Libra 2 — kobo9 — 4.38.23552 — November 2025",
+			"retrieved": 1767603877268
 		}
 	]
 }
