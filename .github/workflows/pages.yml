@@ -44,8 +44,8 @@ jobs:
         run: |
           export DEBUG="info"
           # GitHub Actions unfortunately does not support retries.
-          # this is a cumbersome method of retrying twice in case of errors.
-          npx /root/feed-me-up-scotty || npx /root/feed-me-up-scotty || npx /root/feed-me-up-scotty
+          # this is a cumbersome method of retrying once in case of errors.
+          npx /root/feed-me-up-scotty || npx /root/feed-me-up-scotty
       - name: Deploy to GitHub Pages
         run: |
           git config user.name $GITHUB_ACTOR
