@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-05T14:30:33.994Z</updated>
+    <updated>2026-01-05T19:23:53.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that male and female specimens of <i><b><a href="/wiki/Skimmia_japonica" title="Skimmia japonica">Skimmia japonica</a></b></i> were once thought to belong to different species?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fashion of Catherine, Princess of Wales]]></title>
+        <title type="html"><![CDATA[fashion industry by Catherine, Princess of Wales]]></title>
         <id>link-4bba4b93da2939583032aca78fefa999</id>
         <link href="https://en.wikipedia.org/wiki/Fashion_of_Catherine,_Princess_of_Wales"/>
         <updated>2026-01-05T03:12:00.294Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Fashion_of_Catherine,_Princess_of_Wales" title="Fashion of Catherine, Princess of Wales">fashion of Catherine, Princess of Wales</a></b>, reportedly boosted the British fashion industry by up to £1&nbsp;billion within a year in 2021?]]></content>
+        <content type="html"><![CDATA[... that estimates of the boost to the British <b><a href="/wiki/Fashion_of_Catherine,_Princess_of_Wales" title="Fashion of Catherine, Princess of Wales">fashion industry by Catherine, Princess of Wales</a></b>, range from £152 million to £1 billion per year?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chen Diexian]]></title>

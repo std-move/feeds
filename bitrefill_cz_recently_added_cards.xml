@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-01-05T14:30:34.015Z</updated>
+    <updated>2026-01-05T19:23:53.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/subjektive-art-eur/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Subjektiv Art EUR — €50 - €500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakuten TV]]></title>
+        <id>link-2d44a0df635a7fc9fe362770619decad</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/rakuten-tv-cz/"/>
+        <updated>2026-01-05T19:23:30.939Z</updated>
+        <content type="html"><![CDATA[Rakuten TV — 152 CZK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flexepin EU]]></title>
@@ -94,7 +101,7 @@
         <id>link-0136c97f969773bc358a5afe41efa368</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Kinguin Games Store EUR International — €5 - €250]]></content>
+        <content type="html"><![CDATA[Kinguin Games Store EUR International — €5 - €100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Yo International]]></title>
@@ -158,6 +165,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Minecraft Java International — $26.95]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Nitro USD]]></title>
+        <id>link-3b16b58e08b1cbee08b2a8185496decf</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/discord-nitro-us/"/>
+        <updated>2026-01-05T19:23:30.939Z</updated>
+        <content type="html"><![CDATA[Discord Nitro USD — 1 Month - 12 Months]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
@@ -270,19 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlystayGift]]></title>
-        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eLearnGift]]></title>
-        <id>link-7a12368d45b5b44354d57beb35fa37b8</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/elearngift-cz/"/>
-        <updated>2026-01-05T03:12:00.294Z</updated>
-        <content type="html"><![CDATA[eLearnGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
