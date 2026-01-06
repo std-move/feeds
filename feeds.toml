@@ -60,3 +60,10 @@ linkSelector = "a"
 # this stuff seems to time out with 'load' a lot
 waitUntil = "domcontentloaded"
 
+[start_all_back_release_notes]
+title = "StartAllBack release notes"
+url = "https://www.startallback.com/"
+waitForSelector = ".history2"
+entrySelector = ".history2"
+titleSelector = "xpathstr=./text()[normalize-space()]"
+contentSelector = "li"
