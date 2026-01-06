@@ -67,4 +67,5 @@ url = "https://www.startallback.com/"
 #waitForSelector = ".history2"
 entrySelector = ".history2"
 titleSelector = "xpathstr=./text()[normalize-space()]"
-contentSelector = "li"
+# use the whole element
+# contentSelector = "li"
