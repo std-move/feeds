@@ -89,5 +89,6 @@ waitForSelector = "article.Story"
 entrySelector = "article.Story"
 titleSelector = ".Story_title span"
 linkSelector = ".Story_title a"
-contentSelector = [".Story_link", ".Story_meta"]
+# story link is not mandatory, let's just take the whole thing here
+#contentSelector = [".Story_link", ".Story_meta"]
 
