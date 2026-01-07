@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
+    <title>HN Algolia - top stories (week)</title>
+    <updated>2026-01-07T10:29:13.059Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+</feed>
