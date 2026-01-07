@@ -79,7 +79,7 @@ titleSelector = "h5"
 linkSelector = "a"
 contentSelector = "p"
 
-[hn_algolia_top_stories_week]
+[hacker_news_algolia_top_week]
 title = "HN Algolia - top stories (week)"
 url = [
   "https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=&sort=byPopularity&type=story",
@@ -89,5 +89,5 @@ waitForSelector = "article.Story"
 entrySelector = "article.Story"
 titleSelector = ".Story_title span"
 linkSelector = ".Story_title a"
-contentSelector = ".Story_meta"
+contentSelector = [".Story_link", ".Story_meta"]
 
