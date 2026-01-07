@@ -83,7 +83,6 @@ contentSelector = "p"
 title = "HN Algolia - top stories (week)"
 url = [
   "https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=&sort=byPopularity&type=story",
-  "https://hn.algolia.com/?dateRange=pastWeek&page=1&prefix=false&query=&sort=byPopularity&type=story",
 ]
 waitForSelector = "article.Story"
 entrySelector = "article.Story"
