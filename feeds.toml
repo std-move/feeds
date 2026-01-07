@@ -89,6 +89,6 @@ waitForSelector = "article.Story"
 entrySelector = "article.Story"
 titleSelector = ".Story_title span"
 linkSelector = ".Story_title a"
-# story link is not mandatory, let's just take the whole thing here
-#contentSelector = [".Story_link", ".Story_meta"]
+# exclude story name
+contentSelector = "xpath=.//*[not(ancestor-or-self::a[1])]"
 
