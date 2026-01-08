@@ -7,14 +7,14 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # run 6 times every day
-    - cron: '0 1,5,9,12,14,19 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 env:
   CI: true
 jobs:
   publish-feeds:
-    timeout-minutes: 35
+    timeout-minutes: 40
     runs-on: ubuntu-latest
     container:
       image: mcr.microsoft.com/playwright:v1.57.0-noble
@@ -35,7 +35,7 @@ jobs:
           npm install
           npm run build   # outputs JS to dist/
       - name: Run feed-me-up-scotty thru npx
-        timeout-minutes: 25
+        timeout-minutes: 30
         id: npx-get-feeds
         # partial failure does not mean that all feeds are dead
         continue-on-error: true
