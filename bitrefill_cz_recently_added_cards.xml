@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-01-09T06:36:05.780Z</updated>
+    <updated>2026-01-09T08:32:24.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -171,7 +171,7 @@
         <id>link-3b16b58e08b1cbee08b2a8185496decf</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/discord-nitro-us/"/>
         <updated>2026-01-05T19:23:30.939Z</updated>
-        <content type="html"><![CDATA[Discord Nitro USD — 1 Month - 12 Months]]></content>
+        <content type="html"><![CDATA[Discord Nitro USD — 12 Months]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
