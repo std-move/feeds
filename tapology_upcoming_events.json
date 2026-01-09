@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png",
 	"elements": [
 		{
-			"id": "link-bab16429601535243f2d6730054d2c8d",
-			"title": "ACA 198 — 2026-01-09 08:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/136818-aca-198-omarov-vs-suleymanov-2",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136818-aca-198-omarov-vs-suleymanov-2\">ACA 198</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-01-09 08:00:00 -0500\">in 13 minutes</abbr>\n</td>",
-			"retrieved": 1767548017655
-		},
-		{
 			"id": "link-084d1f4a1a873d1cbfe0ff1b6967acde",
 			"title": "ACA 199 — 2026-01-16 06:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/136570-aca-199-frolov-vs-emeev",
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/137876-lfa-225-degli-vs-aguiar",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137876-lfa-225-degli-vs-aguiar\">LFA 225</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-01-23 20:00:00 -0500\">in 2 weeks</abbr>\n</td>",
 			"retrieved": 1767548017655
+		},
+		{
+			"id": "link-5227a032f372614cf01ceadf0636bce4",
+			"title": "UFC 324 — 2026-01-24 19:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/135755-ufc-324",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/135755-ufc-324\">UFC 324</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-01-24 19:00:00 -0500\">in 2 weeks</abbr>\n</td>",
+			"retrieved": 1767968741888
 		}
 	]
 }
