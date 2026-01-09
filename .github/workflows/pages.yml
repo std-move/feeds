@@ -24,7 +24,15 @@ jobs:
         run: |
           mkdir -p /tmp/.docker
           git config --global --add safe.directory $GITHUB_WORKSPACE || true
-      - uses: actions/checkout@v4
+      - name: Clone main branch of feeds repo
+        uses: actions/checkout@v4
+      - name: Fetch gh-pages branch of feeds repo
+        run: |
+          git config user.name $GITHUB_ACTOR
+          git config user.email $GITHUB_ACTOR@users.noreply.github.com
+          git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
+          git fetch --no-recurse-submodules
+          git worktree add ./gh-pages gh-pages
       - name: Clone my fork of feed-me-up-scotty
         run: |
           git clone --depth 1 https://github.com/std-move/feed-me-up-scotty.git /root/feed-me-up-scotty
@@ -40,6 +48,7 @@ jobs:
         continue-on-error: true
         env:
           HOME: /root
+          FEED_DATA_PATH: ./gh-pages
         run: |
           export DEBUG="info"
           # GitHub Actions unfortunately does not support retries.
@@ -47,11 +56,6 @@ jobs:
           npx /root/feed-me-up-scotty || npx /root/feed-me-up-scotty
       - name: Deploy to GitHub Pages
         run: |
-          git config user.name $GITHUB_ACTOR
-          git config user.email $GITHUB_ACTOR@users.noreply.github.com
-          git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
-          git fetch --no-recurse-submodules
-          git worktree add ./gh-pages gh-pages
           cd gh-pages
           git rm -r .
           # fail if public does not exist or is empty
