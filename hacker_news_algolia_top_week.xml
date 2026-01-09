@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - top stories (week)</title>
-    <updated>2026-01-09T12:41:28.634Z</updated>
+    <updated>2026-01-09T12:46:46.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-4bc6c4ea553830fd994341f9286f1041</id>
         <link href="https://news.ycombinator.com/item?id=46541892"/>
         <updated>2026-01-08T18:30:19.046Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46541892"><span>Bose has released API docs and opened the API for its EoL SoundTouch speakers</span></a><a href="https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/" target="_blank" class="Story_link">(https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46541892">2351 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=rayrey"><span>rayrey</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46541892">22 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46541892">354 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46541892"><span>Bose has released API docs and opened the API for its EoL SoundTouch speakers</span></a><a href="https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/" target="_blank" class="Story_link">(https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46541892">2354 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=rayrey"><span>rayrey</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46541892">22 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46541892">354 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trump says Venezuela’s Maduro captured after strikes]]></title>
@@ -178,7 +178,7 @@
         <id>link-34a5c4ecee62e2163406c94543d496aa</id>
         <link href="https://news.ycombinator.com/item?id=46465327"/>
         <updated>2026-01-07T10:33:54.336Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46465327"><span>IPv6 just turned 30 and still hasn't taken over the world</span></a><a href="https://www.theregister.com/2025/12/31/ipv6_at_30/" target="_blank" class="Story_link">(https://www.theregister.com/2025/12/31/ipv6_at_30/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46465327">586 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Brajeshwar"><span>Brajeshwar</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46465327">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46465327">1190 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46465327"><span>IPv6 just turned 30 and still hasn't taken over the world</span></a><a href="https://www.theregister.com/2025/12/31/ipv6_at_30/" target="_blank" class="Story_link">(https://www.theregister.com/2025/12/31/ipv6_at_30/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46465327">586 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Brajeshwar"><span>Brajeshwar</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46465327">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46465327">1191 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Try to take my position: The best promotion advice I ever got]]></title>
@@ -186,13 +186,6 @@
         <link href="https://news.ycombinator.com/item?id=46466027"/>
         <updated>2026-01-08T22:22:20.105Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46466027"><span>Try to take my position: The best promotion advice I ever got</span></a><a href="https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/" target="_blank" class="Story_link">(https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46466027">574 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=yuppiepuppie"><span>yuppiepuppie</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46466027">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46466027">269 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FracturedJson]]></title>
-        <id>link-1599584188e40829f3309f368e9cbb72</id>
-        <link href="https://news.ycombinator.com/item?id=46464235"/>
-        <updated>2026-01-07T10:33:54.336Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46464235"><span>FracturedJson</span></a><a href="https://github.com/j-brooke/FracturedJson/wiki" target="_blank" class="Story_link">(https://github.com/j-brooke/FracturedJson/wiki)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46464235">573 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=PretzelFisch"><span>PretzelFisch</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46464235">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46464235">162 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone]]></title>
@@ -213,6 +206,13 @@
         <id>link-e8032c62a77c6f9398b74387564ade86</id>
         <link href="https://news.ycombinator.com/item?id=46545620"/>
         <updated>2026-01-09T12:32:49.915Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46545620"><span>How to Code Claude Code in 200 Lines of Code</span></a><a href="https://www.mihaileric.com/The-Emperor-Has-No-Clothes/" target="_blank" class="Story_link">(https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46545620">567 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=nutellalover"><span>nutellalover</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46545620">17 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46545620">184 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46545620"><span>How to Code Claude Code in 200 Lines of Code</span></a><a href="https://www.mihaileric.com/The-Emperor-Has-No-Clothes/" target="_blank" class="Story_link">(https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46545620">568 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=nutellalover"><span>nutellalover</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46545620">17 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46545620">186 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The creator of Claude Code's Claude setup]]></title>
+        <id>link-9e8d63ae6a6c25da78cb1445d087aae3</id>
+        <link href="https://news.ycombinator.com/item?id=46470017"/>
+        <updated>2026-01-09T12:46:11.613Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46470017"><span>The creator of Claude Code's Claude setup</span></a><a href="https://twitter.com/bcherny/status/2007179832300581177" target="_blank" class="Story_link">(https://twitter.com/bcherny/status/2007179832300581177)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46470017">559 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=KothuRoti"><span>KothuRoti</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46470017">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46470017">402 comments</a></span></div></div></div>]]></content>
     </entry>
 </feed>
