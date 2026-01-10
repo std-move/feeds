@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-01-10T16:26:07.341Z</updated>
+    <updated>2026-01-10T18:31:14.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
     <entry>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136117-ksw-114">KSW 114</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-17 12:00:00 -0500">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-01-17 12:00:00 -0500">in 6 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
