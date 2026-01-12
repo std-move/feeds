@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-12T18:09:35.269Z</updated>
+    <updated>2026-01-12T18:35:27.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-a1ad5d309eafd120275910fe6e0f9b38</id>
         <link href="https://news.ycombinator.com/item?id=46579864"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46579864">2389 points</span> by <a href="user?id=happosai" class="hnuser">happosai</a> <span class="age" title="2026-01-11T20:47:55 1768164475"><a href="item?id=46579864">21 hours ago</a></span> <span id="unv_46579864"></span> | <a href="item?id=46579864">1008&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/">The struggle of resizing windows on macOS Tahoe</a><span class="sitebit comhead"> (<a href="from?site=noheger.at"><span class="sitestr">noheger.at</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46579864">2410 points</span> by <a href="user?id=happosai" class="hnuser">happosai</a> <span class="age" title="2026-01-11T20:47:55 1768164475"><a href="item?id=46579864">21 hours ago</a></span> <span id="unv_46579864"></span> | <a href="item?id=46579864">1018&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/">The struggle of resizing windows on macOS Tahoe</a><span class="sitebit comhead"> (<a href="from?site=noheger.at"><span class="sitestr">noheger.at</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Creators of Tailwind laid off 75% of their engineering team (github.com/tailwindlabs)]]></title>
@@ -38,7 +38,7 @@
         <id>link-482769e425b10664def69c7f61e2da2d</id>
         <link href="https://news.ycombinator.com/item?id=46574276"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574276">1145 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-01-11T10:26:18 1768127178"><a href="item?id=46574276">1 day ago</a></span> <span id="unv_46574276"></span> | <a href="item?id=46574276">1467&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirez.com/news/158">Don't fall into the anti-AI hype</a><span class="sitebit comhead"> (<a href="from?site=antirez.com"><span class="sitestr">antirez.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574276">1149 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-01-11T10:26:18 1768127178"><a href="item?id=46574276">1 day ago</a></span> <span id="unv_46574276"></span> | <a href="item?id=46574276">1473&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirez.com/news/158">Don't fall into the anti-AI hype</a><span class="sitebit comhead"> (<a href="from?site=antirez.com"><span class="sitestr">antirez.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[US will ban Wall Street investors from buying single-family homes (reuters.com)]]></title>
@@ -59,7 +59,7 @@
         <id>link-c92f8322f95e9f7929615c082fb372d1</id>
         <link href="https://news.ycombinator.com/item?id=46574707"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574707">823 points</span> by <a href="user?id=smurda" class="hnuser">smurda</a> <span class="age" title="2026-01-11T11:31:22 1768131082"><a href="item?id=46574707">1 day ago</a></span> <span id="unv_46574707"></span> | <a href="item?id=46574707">767&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html">I dumped Windows 11 for Linux, and you should too</a><span class="sitebit comhead"> (<a href="from?site=notebookcheck.net"><span class="sitestr">notebookcheck.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574707">825 points</span> by <a href="user?id=smurda" class="hnuser">smurda</a> <span class="age" title="2026-01-11T11:31:22 1768131082"><a href="item?id=46574707">1 day ago</a></span> <span id="unv_46574707"></span> | <a href="item?id=46574707">770&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html">I dumped Windows 11 for Linux, and you should too</a><span class="sitebit comhead"> (<a href="from?site=notebookcheck.net"><span class="sitestr">notebookcheck.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to code Claude Code in 200 lines of code (mihaileric.com)]]></title>
@@ -83,46 +83,46 @@
         <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46526740">793 points</span> by <a href="user?id=aldarion" class="hnuser">aldarion</a> <span class="age" title="2026-01-07T14:29:25 1767796165"><a href="item?id=46526740">5 days ago</a></span> <span id="unv_46526740"></span> | <a href="item?id=46526740">494&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus">Sugar industry influenced researchers and blamed fat for CVD (2016)</a><span class="sitebit comhead"> (<a href="from?site=ucsf.edu"><span class="sitestr">ucsf.edu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Statement from Jerome Powell (federalreserve.gov)]]></title>
+        <id>link-9c6a13263310e7eb53c4eba18fbc5cad</id>
+        <link href="https://news.ycombinator.com/item?id=46582420"/>
+        <updated>2026-01-12T17:42:28.524Z</updated>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46582420">785 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-01-12T01:02:48 1768179768"><a href="item?id=46582420">17 hours ago</a></span> <span id="unv_46582420"></span> | <a href="item?id=46582420">656&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm">Statement from Jerome Powell</a><span class="sitebit comhead"> (<a href="from?site=federalreserve.gov"><span class="sitestr">federalreserve.gov</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Allow me to introduce, the Citroen C15 (eupolicy.social)]]></title>
         <id>link-5bb2407c0e65aafae3d5b8cbd9f16058</id>
         <link href="https://news.ycombinator.com/item?id=46564696"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46564696">781 points</span> by <a href="user?id=colinprince" class="hnuser">colinprince</a> <span class="age" title="2026-01-10T11:12:15 1768043535"><a href="item?id=46564696">2 days ago</a></span> <span id="unv_46564696"></span> | <a href="item?id=46564696">541&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://eupolicy.social/@jmaris/115860595238097654">Allow me to introduce, the Citroen C15</a><span class="sitebit comhead"> (<a href="from?site=eupolicy.social"><span class="sitestr">eupolicy.social</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46564696">781 points</span> by <a href="user?id=colinprince" class="hnuser">colinprince</a> <span class="age" title="2026-01-10T11:12:15 1768043535"><a href="item?id=46564696">2 days ago</a></span> <span id="unv_46564696"></span> | <a href="item?id=46564696">541&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://eupolicy.social/@jmaris/115860595238097654">Allow me to introduce, the Citroen C15</a><span class="sitebit comhead"> (<a href="from?site=eupolicy.social"><span class="sitestr">eupolicy.social</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google AI Studio is now sponsoring Tailwind CSS (twitter.com/officiallogank)]]></title>
         <id>link-18f2b261f6c5bb4c804b6fc1edeef7f0</id>
         <link href="https://news.ycombinator.com/item?id=46545077"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46545077">772 points</span> by <a href="user?id=qwertyforce" class="hnuser">qwertyforce</a> <span class="age" title="2026-01-08T19:09:23 1767899363"><a href="item?id=46545077">3 days ago</a></span> <span id="unv_46545077"></span> | <a href="item?id=46545077">296&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/OfficialLoganK/status/2009339263251566902">Google AI Studio is now sponsoring Tailwind CSS</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/officiallogank"><span class="sitestr">twitter.com/officiallogank</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statement from Jerome Powell (federalreserve.gov)]]></title>
-        <id>link-9c6a13263310e7eb53c4eba18fbc5cad</id>
-        <link href="https://news.ycombinator.com/item?id=46582420"/>
-        <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46582420">759 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-01-12T01:02:48 1768179768"><a href="item?id=46582420">17 hours ago</a></span> <span id="unv_46582420"></span> | <a href="item?id=46582420">637&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm">Statement from Jerome Powell</a><span class="sitebit comhead"> (<a href="from?site=federalreserve.gov"><span class="sitestr">federalreserve.gov</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46545077">772 points</span> by <a href="user?id=qwertyforce" class="hnuser">qwertyforce</a> <span class="age" title="2026-01-08T19:09:23 1767899363"><a href="item?id=46545077">3 days ago</a></span> <span id="unv_46545077"></span> | <a href="item?id=46545077">296&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/OfficialLoganK/status/2009339263251566902">Google AI Studio is now sponsoring Tailwind CSS</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/officiallogank"><span class="sitestr">twitter.com/officiallogank</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I replaced Windows with Linux and everything's going great (theverge.com)]]></title>
         <id>link-3bae7dcbfd28cf7bead6c58e4fc33709</id>
         <link href="https://news.ycombinator.com/item?id=46566465"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46566465">752 points</span> by <a href="user?id=rorylawless" class="hnuser">rorylawless</a> <span class="age" title="2026-01-10T15:26:26 1768058786"><a href="item?id=46566465">2 days ago</a></span> <span id="unv_46566465"></span> | <a href="item?id=46566465">709&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/858910/linux-diary-gaming-desktop">I replaced Windows with Linux and everything's going great</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46566465">752 points</span> by <a href="user?id=rorylawless" class="hnuser">rorylawless</a> <span class="age" title="2026-01-10T15:26:26 1768058786"><a href="item?id=46566465">2 days ago</a></span> <span id="unv_46566465"></span> | <a href="item?id=46566465">711&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/858910/linux-diary-gaming-desktop">I replaced Windows with Linux and everything's going great</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CLI agents make self-hosting on a home server easier and fun (fulghum.io)]]></title>
         <id>link-4ef70b1ef379092ee8302087139bf490</id>
         <link href="https://news.ycombinator.com/item?id=46580326"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46580326">704 points</span> by <a href="user?id=websku" class="hnuser">websku</a> <span class="age" title="2026-01-11T21:29:57 1768166997"><a href="item?id=46580326">20 hours ago</a></span> <span id="unv_46580326"></span> | <a href="item?id=46580326">473&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fulghum.io/self-hosting">CLI agents make self-hosting on a home server easier and fun</a><span class="sitebit comhead"> (<a href="from?site=fulghum.io"><span class="sitestr">fulghum.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46580326">709 points</span> by <a href="user?id=websku" class="hnuser">websku</a> <span class="age" title="2026-01-11T21:29:57 1768166997"><a href="item?id=46580326">21 hours ago</a></span> <span id="unv_46580326"></span> | <a href="item?id=46580326">482&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fulghum.io/self-hosting">CLI agents make self-hosting on a home server easier and fun</a><span class="sitebit comhead"> (<a href="from?site=fulghum.io"><span class="sitestr">fulghum.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare CEO on the Italy fines (twitter.com/eastdakota)]]></title>
         <id>link-e5e499797f47d337e71e5f0b47d92ec7</id>
         <link href="https://news.ycombinator.com/item?id=46555760"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46555760">649 points</span> by <a href="user?id=sidcool" class="hnuser">sidcool</a> <span class="age" title="2026-01-09T16:46:48 1767977208"><a href="item?id=46555760">3 days ago</a></span> <span id="unv_46555760"></span> | <a href="item?id=46555760">1050&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/eastdakota/status/2009654937303896492">Cloudflare CEO on the Italy fines</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/eastdakota"><span class="sitestr">twitter.com/eastdakota</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46555760">650 points</span> by <a href="user?id=sidcool" class="hnuser">sidcool</a> <span class="age" title="2026-01-09T16:46:48 1767977208"><a href="item?id=46555760">3 days ago</a></span> <span id="unv_46555760"></span> | <a href="item?id=46555760">1050&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/eastdakota/status/2009654937303896492">Cloudflare CEO on the Italy fines</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/eastdakota"><span class="sitestr">twitter.com/eastdakota</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic blocks third-party use of Claude Code subscriptions (github.com/anomalyco)]]></title>
@@ -150,7 +150,7 @@
         <id>link-5c8c1a7490880b80a1bffaccbc33da26</id>
         <link href="https://news.ycombinator.com/item?id=46578921"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46578921">591 points</span> by <a href="user?id=reconnecting" class="hnuser">reconnecting</a> <span class="age" title="2026-01-11T19:23:58 1768159438"><a href="item?id=46578921">22 hours ago</a></span> <span id="unv_46578921"></span> | <a href="item?id=46578921">223&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">iCloud Photos Downloader</a><span class="sitebit comhead"> (<a href="from?site=github.com/icloud-photos-downloader"><span class="sitestr">github.com/icloud-photos-downloader</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46578921">599 points</span> by <a href="user?id=reconnecting" class="hnuser">reconnecting</a> <span class="age" title="2026-01-11T19:23:58 1768159438"><a href="item?id=46578921">23 hours ago</a></span> <span id="unv_46578921"></span> | <a href="item?id=46578921">223&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">iCloud Photos Downloader</a><span class="sitebit comhead"> (<a href="from?site=github.com/icloud-photos-downloader"><span class="sitestr">github.com/icloud-photos-downloader</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dell admits consumers don't care about AI PCs (pcgamer.com)]]></title>
@@ -185,7 +185,7 @@
         <id>link-ef8d509ada0ca67b99637982335bf347</id>
         <link href="https://news.ycombinator.com/item?id=46555963"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46555963">545 points</span> by <a href="user?id=Magnusmaster" class="hnuser">Magnusmaster</a> <span class="age" title="2026-01-09T17:00:11 1767978011"><a href="item?id=46555963">3 days ago</a></span> <span id="unv_46555963"></span> | <a href="item?id=46555963">614&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118">The Vietnam government has banned rooted phones from using any banking app</a><span class="sitebit comhead"> (<a href="from?site=xdaforums.com"><span class="sitestr">xdaforums.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46555963">545 points</span> by <a href="user?id=Magnusmaster" class="hnuser">Magnusmaster</a> <span class="age" title="2026-01-09T17:00:11 1767978011"><a href="item?id=46555963">3 days ago</a></span> <span id="unv_46555963"></span> | <a href="item?id=46555963">615&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118">The Vietnam government has banned rooted phones from using any banking app</a><span class="sitebit comhead"> (<a href="from?site=xdaforums.com"><span class="sitestr">xdaforums.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times (nexanet.ai)]]></title>
@@ -199,7 +199,7 @@
         <id>link-3ba91044adcbb9a9dce4eda8ed8d3a92</id>
         <link href="https://news.ycombinator.com/item?id=46567400"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46567400">488 points</span> by <a href="user?id=pmaze" class="hnuser">pmaze</a> <span class="age" title="2026-01-10T16:56:55 1768064215"><a href="item?id=46567400">1 day ago</a></span> <span id="unv_46567400"></span> | <a href="item?id=46567400">144&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://trails.pieterma.es/">Show HN: I used Claude Code to discover connections between 100 books</a><span class="sitebit comhead"> (<a href="from?site=pieterma.es"><span class="sitestr">pieterma.es</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46567400">489 points</span> by <a href="user?id=pmaze" class="hnuser">pmaze</a> <span class="age" title="2026-01-10T16:56:55 1768064215"><a href="item?id=46567400">1 day ago</a></span> <span id="unv_46567400"></span> | <a href="item?id=46567400">144&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://trails.pieterma.es/">Show HN: I used Claude Code to discover connections between 100 books</a><span class="sitebit comhead"> (<a href="from?site=pieterma.es"><span class="sitestr">pieterma.es</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Iran Goes Into IPv6 Blackout (cloudflare.com)]]></title>
