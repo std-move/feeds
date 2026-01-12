@@ -1,0 +1,217 @@
+{
+	"title": "Hacker News - best posts (week)",
+	"url": "https://news.ycombinator.com/best?h=168",
+	"favicon": "https://news.ycombinator.com/y18.svg",
+	"elements": [
+		{
+			"id": "link-4bc6c4ea553830fd994341f9286f1041",
+			"title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers (arstechnica.com)",
+			"link": "https://news.ycombinator.com/item?id=46541892",
+			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46541892\">2521 points</span> by <a href=\"user?id=rayrey\" class=\"hnuser\">rayrey</a> <span class=\"age\" title=\"2026-01-08T15:07:57 1767884877\"><a href=\"item?id=46541892\">4 days ago</a></span> <span id=\"unv_46541892\"></span> | <a href=\"item?id=46541892\">396&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/\">Bose has released API docs and opened the API for its EoL SoundTouch speakers</a><span class=\"sitebit comhead\"> (<a href=\"from?site=arstechnica.com\"><span class=\"sitestr\">arstechnica.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-a1ad5d309eafd120275910fe6e0f9b38",
+			"title": "The struggle of resizing windows on macOS Tahoe (noheger.at)",
+			"link": "https://news.ycombinator.com/item?id=46579864",
+			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46579864\">2365 points</span> by <a href=\"user?id=happosai\" class=\"hnuser\">happosai</a> <span class=\"age\" title=\"2026-01-11T20:47:55 1768164475\"><a href=\"item?id=46579864\">20 hours ago</a></span> <span id=\"unv_46579864\"></span> | <a href=\"item?id=46579864\">996&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/\">The struggle of resizing windows on macOS Tahoe</a><span class=\"sitebit comhead\"> (<a href=\"from?site=noheger.at\"><span class=\"sitestr\">noheger.at</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-e2a00a7cc69a390dcc36359b1df6c164",
+			"title": "Creators of Tailwind laid off 75% of their engineering team (github.com/tailwindlabs)",
+			"link": "https://news.ycombinator.com/item?id=46527950",
+			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46527950\">1453 points</span> by <a href=\"user?id=kevlened\" class=\"hnuser\">kevlened</a> <span class=\"age\" title=\"2026-01-07T16:02:19 1767801739\"><a href=\"item?id=46527950\">5 days ago</a></span> <span id=\"unv_46527950\"></span> | <a href=\"item?id=46527950\">837&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/tailwindlabs/tailwindcss.com/pull/2388\">Creators of Tailwind laid off 75% of their engineering team</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/tailwindlabs\"><span class=\"sitestr\">github.com/tailwindlabs</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-12fd542cbabdcdeeaf27468bdc424f43",
+			"title": "Eat Real Food (realfood.gov)",
+			"link": "https://news.ycombinator.com/item?id=46529237",
+			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46529237\">1162 points</span> by <a href=\"user?id=atestu\" class=\"hnuser\">atestu</a> <span class=\"age\" title=\"2026-01-07T17:22:09 1767806529\"><a href=\"item?id=46529237\">5 days ago</a></span> <span id=\"unv_46529237\"></span> | <a href=\"item?id=46529237\">1620&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://realfood.gov\">Eat Real Food</a><span class=\"sitebit comhead\"> (<a href=\"from?site=realfood.gov\"><span class=\"sitestr\">realfood.gov</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-482769e425b10664def69c7f61e2da2d",
+			"title": "Don't fall into the anti-AI hype (antirez.com)",
+			"link": "https://news.ycombinator.com/item?id=46574276",
+			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46574276\">1141 points</span> by <a href=\"user?id=todsacerdoti\" class=\"hnuser\">todsacerdoti</a> <span class=\"age\" title=\"2026-01-11T10:26:18 1768127178\"><a href=\"item?id=46574276\">1 day ago</a></span> <span id=\"unv_46574276\"></span> | <a href=\"item?id=46574276\">1455&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://antirez.com/news/158\">Don't fall into the anti-AI hype</a><span class=\"sitebit comhead\"> (<a href=\"from?site=antirez.com\"><span class=\"sitestr\">antirez.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-79036586c49d00b2eef741355f90ad07",
+			"title": "US will ban Wall Street investors from buying single-family homes (reuters.com)",
+			"link": "https://news.ycombinator.com/item?id=46531068",
+			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46531068\">1047 points</span> by <a href=\"user?id=kpw94\" class=\"hnuser\">kpw94</a> <span class=\"age\" title=\"2026-01-07T19:13:19 1767813199\"><a href=\"item?id=46531068\">4 days ago</a></span> <span id=\"unv_46531068\"></span> | <a href=\"item?id=46531068\">1136&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/\">US will ban Wall Street investors from buying single-family homes</a><span class=\"sitebit comhead\"> (<a href=\"from?site=reuters.com\"><span class=\"sitestr\">reuters.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-e01e2310019abb705267f9ab3a57e1c5",
+			"title": "Opus 4.5 is not the normal AI agent experience that I have had thus far (burkeholland.github.io)",
+			"link": "https://news.ycombinator.com/item?id=46515696",
+			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46515696\">874 points</span> by <a href=\"user?id=tbassetto\" class=\"hnuser\">tbassetto</a> <span class=\"age\" title=\"2026-01-06T17:45:37 1767721537\"><a href=\"item?id=46515696\">5 days ago</a></span> <span id=\"unv_46515696\"></span> | <a href=\"item?id=46515696\">1345&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://burkeholland.github.io/posts/opus-4-5-change-everything/\">Opus 4.5 is not the normal AI agent experience that I have had thus far</a><span class=\"sitebit comhead\"> (<a href=\"from?site=burkeholland.github.io\"><span class=\"sitestr\">burkeholland.github.io</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-c92f8322f95e9f7929615c082fb372d1",
+			"title": "I dumped Windows 11 for Linux, and you should too (notebookcheck.net)",
+			"link": "https://news.ycombinator.com/item?id=46574707",
+			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46574707\">822 points</span> by <a href=\"user?id=smurda\" class=\"hnuser\">smurda</a> <span class=\"age\" title=\"2026-01-11T11:31:22 1768131082\"><a href=\"item?id=46574707\">1 day ago</a></span> <span id=\"unv_46574707\"></span> | <a href=\"item?id=46574707\">766&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html\">I dumped Windows 11 for Linux, and you should too</a><span class=\"sitebit comhead\"> (<a href=\"from?site=notebookcheck.net\"><span class=\"sitestr\">notebookcheck.net</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-e8032c62a77c6f9398b74387564ade86",
+			"title": "How to code Claude Code in 200 lines of code (mihaileric.com)",
+			"link": "https://news.ycombinator.com/item?id=46545620",
+			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46545620\">805 points</span> by <a href=\"user?id=nutellalover\" class=\"hnuser\">nutellalover</a> <span class=\"age\" title=\"2026-01-08T19:54:26 1767902066\"><a href=\"item?id=46545620\">3 days ago</a></span> <span id=\"unv_46545620\"></span> | <a href=\"item?id=46545620\">238&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.mihaileric.com/The-Emperor-Has-No-Clothes/\">How to code Claude Code in 200 lines of code</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mihaileric.com\"><span class=\"sitestr\">mihaileric.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-a0d6e9c52222cceb43c2e5a99d39d9c4",
+			"title": "Shipmap.org (shipmap.org)",
+			"link": "https://news.ycombinator.com/item?id=46527161",
+			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46527161\">798 points</span> by <a href=\"user?id=surprisetalk\" class=\"hnuser\">surprisetalk</a> <span class=\"age\" title=\"2026-01-07T15:03:41 1767798221\"><a href=\"item?id=46527161\">5 days ago</a></span> <span id=\"unv_46527161\"></span> | <a href=\"item?id=46527161\">120&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.shipmap.org/\">Shipmap.org</a><span class=\"sitebit comhead\"> (<a href=\"from?site=shipmap.org\"><span class=\"sitestr\">shipmap.org</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-156f0fcd46f14aaad03ef407ef73e35c",
+			"title": "Sugar industry influenced researchers and blamed fat for CVD (2016) (ucsf.edu)",
+			"link": "https://news.ycombinator.com/item?id=46526740",
+			"contents": "<span class=\"rank\">11.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46526740\">793 points</span> by <a href=\"user?id=aldarion\" class=\"hnuser\">aldarion</a> <span class=\"age\" title=\"2026-01-07T14:29:25 1767796165\"><a href=\"item?id=46526740\">5 days ago</a></span> <span id=\"unv_46526740\"></span> | <a href=\"item?id=46526740\">494&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus\">Sugar industry influenced researchers and blamed fat for CVD (2016)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ucsf.edu\"><span class=\"sitestr\">ucsf.edu</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-5bb2407c0e65aafae3d5b8cbd9f16058",
+			"title": "Allow me to introduce, the Citroen C15 (eupolicy.social)",
+			"link": "https://news.ycombinator.com/item?id=46564696",
+			"contents": "<span class=\"rank\">12.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46564696\">781 points</span> by <a href=\"user?id=colinprince\" class=\"hnuser\">colinprince</a> <span class=\"age\" title=\"2026-01-10T11:12:15 1768043535\"><a href=\"item?id=46564696\">2 days ago</a></span> <span id=\"unv_46564696\"></span> | <a href=\"item?id=46564696\">541&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://eupolicy.social/@jmaris/115860595238097654\">Allow me to introduce, the Citroen C15</a><span class=\"sitebit comhead\"> (<a href=\"from?site=eupolicy.social\"><span class=\"sitestr\">eupolicy.social</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-18f2b261f6c5bb4c804b6fc1edeef7f0",
+			"title": "Google AI Studio is now sponsoring Tailwind CSS (twitter.com/officiallogank)",
+			"link": "https://news.ycombinator.com/item?id=46545077",
+			"contents": "<span class=\"rank\">13.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46545077\">772 points</span> by <a href=\"user?id=qwertyforce\" class=\"hnuser\">qwertyforce</a> <span class=\"age\" title=\"2026-01-08T19:09:23 1767899363\"><a href=\"item?id=46545077\">3 days ago</a></span> <span id=\"unv_46545077\"></span> | <a href=\"item?id=46545077\">296&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://twitter.com/OfficialLoganK/status/2009339263251566902\">Google AI Studio is now sponsoring Tailwind CSS</a><span class=\"sitebit comhead\"> (<a href=\"from?site=twitter.com/officiallogank\"><span class=\"sitestr\">twitter.com/officiallogank</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-3bae7dcbfd28cf7bead6c58e4fc33709",
+			"title": "I replaced Windows with Linux and everything's going great (theverge.com)",
+			"link": "https://news.ycombinator.com/item?id=46566465",
+			"contents": "<span class=\"rank\">14.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46566465\">751 points</span> by <a href=\"user?id=rorylawless\" class=\"hnuser\">rorylawless</a> <span class=\"age\" title=\"2026-01-10T15:26:26 1768058786\"><a href=\"item?id=46566465\">2 days ago</a></span> <span id=\"unv_46566465\"></span> | <a href=\"item?id=46566465\">707&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.theverge.com/tech/858910/linux-diary-gaming-desktop\">I replaced Windows with Linux and everything's going great</a><span class=\"sitebit comhead\"> (<a href=\"from?site=theverge.com\"><span class=\"sitestr\">theverge.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-9c6a13263310e7eb53c4eba18fbc5cad",
+			"title": "Statement from Jerome Powell (federalreserve.gov)",
+			"link": "https://news.ycombinator.com/item?id=46582420",
+			"contents": "<span class=\"rank\">15.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46582420\">736 points</span> by <a href=\"user?id=0xedb\" class=\"hnuser\">0xedb</a> <span class=\"age\" title=\"2026-01-12T01:02:48 1768179768\"><a href=\"item?id=46582420\">16 hours ago</a></span> <span id=\"unv_46582420\"></span> | <a href=\"item?id=46582420\">627&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm\">Statement from Jerome Powell</a><span class=\"sitebit comhead\"> (<a href=\"from?site=federalreserve.gov\"><span class=\"sitestr\">federalreserve.gov</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-4ef70b1ef379092ee8302087139bf490",
+			"title": "CLI agents make self-hosting on a home server easier and fun (fulghum.io)",
+			"link": "https://news.ycombinator.com/item?id=46580326",
+			"contents": "<span class=\"rank\">16.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46580326\">697 points</span> by <a href=\"user?id=websku\" class=\"hnuser\">websku</a> <span class=\"age\" title=\"2026-01-11T21:29:57 1768166997\"><a href=\"item?id=46580326\">20 hours ago</a></span> <span id=\"unv_46580326\"></span> | <a href=\"item?id=46580326\">467&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://fulghum.io/self-hosting\">CLI agents make self-hosting on a home server easier and fun</a><span class=\"sitebit comhead\"> (<a href=\"from?site=fulghum.io\"><span class=\"sitestr\">fulghum.io</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-e5e499797f47d337e71e5f0b47d92ec7",
+			"title": "Cloudflare CEO on the Italy fines (twitter.com/eastdakota)",
+			"link": "https://news.ycombinator.com/item?id=46555760",
+			"contents": "<span class=\"rank\">17.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46555760\">649 points</span> by <a href=\"user?id=sidcool\" class=\"hnuser\">sidcool</a> <span class=\"age\" title=\"2026-01-09T16:46:48 1767977208\"><a href=\"item?id=46555760\">3 days ago</a></span> <span id=\"unv_46555760\"></span> | <a href=\"item?id=46555760\">1050&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://twitter.com/eastdakota/status/2009654937303896492\">Cloudflare CEO on the Italy fines</a><span class=\"sitebit comhead\"> (<a href=\"from?site=twitter.com/eastdakota\"><span class=\"sitestr\">twitter.com/eastdakota</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-57a30e00a8e92a1d64c386d29a00b2f0",
+			"title": "Anthropic blocks third-party use of Claude Code subscriptions (github.com/anomalyco)",
+			"link": "https://news.ycombinator.com/item?id=46549823",
+			"contents": "<span class=\"rank\">18.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46549823\">617 points</span> by <a href=\"user?id=sergiotapia\" class=\"hnuser\">sergiotapia</a> <span class=\"age\" title=\"2026-01-09T03:44:35 1767930275\"><a href=\"item?id=46549823\">3 days ago</a></span> <span id=\"unv_46549823\"></span> | <a href=\"item?id=46549823\">509&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/anomalyco/opencode/issues/7410\">Anthropic blocks third-party use of Claude Code subscriptions</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/anomalyco\"><span class=\"sitestr\">github.com/anomalyco</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-41c3f7ad6f64a3c6c724a8a0361da356",
+			"title": "Finding and fixing Ghostty's largest memory leak (mitchellh.com)",
+			"link": "https://news.ycombinator.com/item?id=46568794",
+			"contents": "<span class=\"rank\">19.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46568794\">616 points</span> by <a href=\"user?id=thorel\" class=\"hnuser\">thorel</a> <span class=\"age\" title=\"2026-01-10T18:58:37 1768071517\"><a href=\"item?id=46568794\">1 day ago</a></span> <span id=\"unv_46568794\"></span> | <a href=\"item?id=46568794\">134&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://mitchellh.com/writing/ghostty-memory-leak-fix\">Finding and fixing Ghostty's largest memory leak</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mitchellh.com\"><span class=\"sitestr\">mitchellh.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-a330f0dfe94a8d337268980bbed001ef",
+			"title": "“Erdos problem #728 was solved more or less autonomously by AI” (mathstodon.xyz)",
+			"link": "https://news.ycombinator.com/item?id=46560445",
+			"contents": "<span class=\"rank\">20.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46560445\">613 points</span> by <a href=\"user?id=cod1r\" class=\"hnuser\">cod1r</a> <span class=\"age\" title=\"2026-01-09T22:39:15 1767998355\"><a href=\"item?id=46560445\">2 days ago</a></span> <span id=\"unv_46560445\"></span> | <a href=\"item?id=46560445\">362&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://mathstodon.xyz/@tao/115855840223258103\">“Erdos problem #728 was solved more or less autonomously by AI”</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mathstodon.xyz\"><span class=\"sitestr\">mathstodon.xyz</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-5c8c1a7490880b80a1bffaccbc33da26",
+			"title": "iCloud Photos Downloader (github.com/icloud-photos-downloader)",
+			"link": "https://news.ycombinator.com/item?id=46578921",
+			"contents": "<span class=\"rank\">21.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46578921\">588 points</span> by <a href=\"user?id=reconnecting\" class=\"hnuser\">reconnecting</a> <span class=\"age\" title=\"2026-01-11T19:23:58 1768159438\"><a href=\"item?id=46578921\">22 hours ago</a></span> <span id=\"unv_46578921\"></span> | <a href=\"item?id=46578921\">223&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/icloud-photos-downloader/icloud_photos_downloader\">iCloud Photos Downloader</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/icloud-photos-downloader\"><span class=\"sitestr\">github.com/icloud-photos-downloader</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-476eda27f7855fc704d64c4c76fb7954",
+			"title": "Dell admits consumers don't care about AI PCs (pcgamer.com)",
+			"link": "https://news.ycombinator.com/item?id=46527706",
+			"contents": "<span class=\"rank\">22.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46527706\">579 points</span> by <a href=\"user?id=mossTechnician\" class=\"hnuser\">mossTechnician</a> <span class=\"age\" title=\"2026-01-07T15:46:07 1767800767\"><a href=\"item?id=46527706\">5 days ago</a></span> <span id=\"unv_46527706\"></span> | <a href=\"item?id=46527706\">403&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/\">Dell admits consumers don't care about AI PCs</a><span class=\"sitebit comhead\"> (<a href=\"from?site=pcgamer.com\"><span class=\"sitestr\">pcgamer.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-4708f317393e8a4615c915bfee644dcb",
+			"title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone (github.com/rberg27)",
+			"link": "https://news.ycombinator.com/item?id=46517458",
+			"contents": "<span class=\"rank\">23.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46517458\">576 points</span> by <a href=\"user?id=rbergamini27\" class=\"hnuser\">rbergamini27</a> <span class=\"age\" title=\"2026-01-06T19:38:32 1767728312\"><a href=\"item?id=46517458\">5 days ago</a></span> <span id=\"unv_46517458\"></span> | <a href=\"item?id=46517458\">403&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/rberg27/doom-coding\">Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/rberg27\"><span class=\"sitestr\">github.com/rberg27</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-2d1e5fb8d52b3749cda4c3c4b260823f",
+			"title": "The Jeff Dean Facts (github.com/lritzdorf)",
+			"link": "https://news.ycombinator.com/item?id=46540498",
+			"contents": "<span class=\"rank\">24.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46540498\">558 points</span> by <a href=\"user?id=ravenical\" class=\"hnuser\">ravenical</a> <span class=\"age\" title=\"2026-01-08T13:02:05 1767877325\"><a href=\"item?id=46540498\">4 days ago</a></span> <span id=\"unv_46540498\"></span> | <a href=\"item?id=46540498\">184&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/LRitzdorf/TheJeffDeanFacts\">The Jeff Dean Facts</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/lritzdorf\"><span class=\"sitestr\">github.com/lritzdorf</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-19962888766e5b01d6ec2e1ec2b068cb",
+			"title": "Show HN: I made a memory game to teach you to play piano by ear (specr.net)",
+			"link": "https://news.ycombinator.com/item?id=46556210",
+			"contents": "<span class=\"rank\">25.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46556210\">550 points</span> by <a href=\"user?id=vunderba\" class=\"hnuser\">vunderba</a> <span class=\"age\" title=\"2026-01-09T17:17:28 1767979048\"><a href=\"item?id=46556210\">3 days ago</a></span> <span id=\"unv_46556210\"></span> | <a href=\"item?id=46556210\">169&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://lend-me-your-ears.specr.net\">Show HN: I made a memory game to teach you to play piano by ear</a><span class=\"sitebit comhead\"> (<a href=\"from?site=specr.net\"><span class=\"sitestr\">specr.net</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-ef8d509ada0ca67b99637982335bf347",
+			"title": "The Vietnam government has banned rooted phones from using any banking app (xdaforums.com)",
+			"link": "https://news.ycombinator.com/item?id=46555963",
+			"contents": "<span class=\"rank\">26.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46555963\">545 points</span> by <a href=\"user?id=Magnusmaster\" class=\"hnuser\">Magnusmaster</a> <span class=\"age\" title=\"2026-01-09T17:00:11 1767978011\"><a href=\"item?id=46555963\">3 days ago</a></span> <span id=\"unv_46555963\"></span> | <a href=\"item?id=46555963\">614&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118\">The Vietnam government has banned rooted phones from using any banking app</a><span class=\"sitebit comhead\"> (<a href=\"from?site=xdaforums.com\"><span class=\"sitestr\">xdaforums.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-f7c281678a7d0ec3eff23cddb12f6939",
+			"title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times (nexanet.ai)",
+			"link": "https://news.ycombinator.com/item?id=46555807",
+			"contents": "<span class=\"rank\">27.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46555807\">515 points</span> by <a href=\"user?id=fuck_flock\" class=\"hnuser\">fuck_flock</a> <span class=\"age\" title=\"2026-01-09T16:49:59 1767977399\"><a href=\"item?id=46555807\">3 days ago</a></span> <span id=\"unv_46555807\"></span> | <a href=\"item?id=46555807\">173&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure\">Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times</a><span class=\"sitebit comhead\"> (<a href=\"from?site=nexanet.ai\"><span class=\"sitestr\">nexanet.ai</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-3ba91044adcbb9a9dce4eda8ed8d3a92",
+			"title": "Show HN: I used Claude Code to discover connections between 100 books (pieterma.es)",
+			"link": "https://news.ycombinator.com/item?id=46567400",
+			"contents": "<span class=\"rank\">28.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46567400\">488 points</span> by <a href=\"user?id=pmaze\" class=\"hnuser\">pmaze</a> <span class=\"age\" title=\"2026-01-10T16:56:55 1768064215\"><a href=\"item?id=46567400\">1 day ago</a></span> <span id=\"unv_46567400\"></span> | <a href=\"item?id=46567400\">144&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://trails.pieterma.es/\">Show HN: I used Claude Code to discover connections between 100 books</a><span class=\"sitebit comhead\"> (<a href=\"from?site=pieterma.es\"><span class=\"sitestr\">pieterma.es</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-23c3a37bc655de13aa8a4a082389de16",
+			"title": "Iran Goes Into IPv6 Blackout (cloudflare.com)",
+			"link": "https://news.ycombinator.com/item?id=46542683",
+			"contents": "<span class=\"rank\">29.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46542683\">480 points</span> by <a href=\"user?id=honeycrispy\" class=\"hnuser\">honeycrispy</a> <span class=\"age\" title=\"2026-01-08T16:11:48 1767888708\"><a href=\"item?id=46542683\">4 days ago</a></span> <span id=\"unv_46542683\"></span> | <a href=\"item?id=46542683\">330&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://radar.cloudflare.com/routing/ir\">Iran Goes Into IPv6 Blackout</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cloudflare.com\"><span class=\"sitestr\">cloudflare.com</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		},
+		{
+			"id": "link-f9f57d6f410838b9d1e1ad5005546328",
+			"title": "Code and Let Live (fly.io)",
+			"link": "https://news.ycombinator.com/item?id=46557825",
+			"contents": "<span class=\"rank\">30.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46557825\">475 points</span> by <a href=\"user?id=usrme\" class=\"hnuser\">usrme</a> <span class=\"age\" title=\"2026-01-09T19:11:59 1767985919\"><a href=\"item?id=46557825\">2 days ago</a></span> <span id=\"unv_46557825\"></span> | <a href=\"item?id=46557825\">180&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://fly.io/blog/code-and-let-live/\">Code and Let Live</a><span class=\"sitebit comhead\"> (<a href=\"from?site=fly.io\"><span class=\"sitestr\">fly.io</span></a>)</span></span>",
+			"retrieved": 1768239748524
+		}
+	]
+}
