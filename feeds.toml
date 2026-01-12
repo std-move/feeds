@@ -164,4 +164,6 @@ waitForSelector = ".intro_featured_bar_item"
 entrySelector = ".intro_featured_bar_item"
 titleSelector = ".intro_featured_bar_title"
 linkSelector = "*"
+# this stuff seems to time out with 'load' a lot
+waitUntil = "domcontentloaded"
 
