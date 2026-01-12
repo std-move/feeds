@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - top stories (week)</title>
-    <updated>2026-01-12T18:02:08.001Z</updated>
+    <updated>2026-01-12T18:05:19.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-a1ad5d309eafd120275910fe6e0f9b38</id>
         <link href="https://news.ycombinator.com/item?id=46579864"/>
         <updated>2026-01-12T01:51:59.665Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46579864"><span>The struggle of resizing windows on macOS Tahoe</span></a><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/" target="_blank" class="Story_link">(https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46579864">2381 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=happosai"><span>happosai</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46579864">21 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46579864">1002 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46579864"><span>The struggle of resizing windows on macOS Tahoe</span></a><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/" target="_blank" class="Story_link">(https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46579864">2383 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=happosai"><span>happosai</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46579864">21 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46579864">1004 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vietnam bans unskippable ads]]></title>
@@ -38,7 +38,7 @@
         <id>link-03261075d7a2074379c18beaba951b75</id>
         <link href="https://news.ycombinator.com/item?id=46509211"/>
         <updated>2026-01-07T10:33:54.336Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46509211"><span>enclose.horse</span></a><a href="https://enclose.horse/" target="_blank" class="Story_link">(https://enclose.horse/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46509211">1211 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=DavidSJ"><span>DavidSJ</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46509211">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46509211">231 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46509211"><span>enclose.horse</span></a><a href="https://enclose.horse/" target="_blank" class="Story_link">(https://enclose.horse/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46509211">1211 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=DavidSJ"><span>DavidSJ</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46509211">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46509211">231 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eat Real Food]]></title>
@@ -52,7 +52,7 @@
         <id>link-482769e425b10664def69c7f61e2da2d</id>
         <link href="https://news.ycombinator.com/item?id=46574276"/>
         <updated>2026-01-12T01:51:59.665Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46574276"><span>Don't fall into the anti-AI hype</span></a><a href="https://antirez.com/news/158" target="_blank" class="Story_link">(https://antirez.com/news/158)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46574276">1143 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=todsacerdoti"><span>todsacerdoti</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46574276">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46574276">1462 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46574276"><span>Don't fall into the anti-AI hype</span></a><a href="https://antirez.com/news/158" target="_blank" class="Story_link">(https://antirez.com/news/158)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46574276">1144 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=todsacerdoti"><span>todsacerdoti</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46574276">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46574276">1464 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[US will ban Wall Street investors from buying single-family homes]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46545077"><span>Google AI Studio is now sponsoring Tailwind CSS</span></a><a href="https://twitter.com/OfficialLoganK/status/2009339263251566902" target="_blank" class="Story_link">(https://twitter.com/OfficialLoganK/status/2009339263251566902)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46545077">772 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=qwertyforce"><span>qwertyforce</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46545077">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46545077">296 comments</a></span><div class="Story_comment"><span>Related: <i>Creators of Tailwind laid off 75% of their engineering team</i> - <a href="https://news.ycombinator.com/item?id=46527950">https://news.ycombinator.com/item?id=46527950</a> - Jan 2026 (810 comments)</span></div></div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Statement from Jerome Powell]]></title>
+        <id>link-9c6a13263310e7eb53c4eba18fbc5cad</id>
+        <link href="https://news.ycombinator.com/item?id=46582420"/>
+        <updated>2026-01-12T08:33:59.335Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46582420"><span>Statement from Jerome Powell</span></a><a href="https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm" target="_blank" class="Story_link">(https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46582420">754 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=0xedb"><span>0xedb</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46582420">17 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46582420">637 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I replaced Windows with Linux and everything's going great]]></title>
         <id>link-3bae7dcbfd28cf7bead6c58e4fc33709</id>
         <link href="https://news.ycombinator.com/item?id=46566465"/>
@@ -132,18 +139,11 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46511153"><span>AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention</span></a><a href="https://www.theregister.com/2026/01/05/aws_price_increase/" target="_blank" class="Story_link">(https://www.theregister.com/2026/01/05/aws_price_increase/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46511153">752 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Brajeshwar"><span>Brajeshwar</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46511153">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46511153">480 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Statement from Jerome Powell]]></title>
-        <id>link-9c6a13263310e7eb53c4eba18fbc5cad</id>
-        <link href="https://news.ycombinator.com/item?id=46582420"/>
-        <updated>2026-01-12T08:33:59.335Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46582420"><span>Statement from Jerome Powell</span></a><a href="https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm" target="_blank" class="Story_link">(https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46582420">751 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=0xedb"><span>0xedb</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46582420">17 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46582420">635 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CLI agents make self-hosting on a home server easier and fun]]></title>
         <id>link-4ef70b1ef379092ee8302087139bf490</id>
         <link href="https://news.ycombinator.com/item?id=46580326"/>
         <updated>2026-01-12T12:49:42.113Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46580326"><span>CLI agents make self-hosting on a home server easier and fun</span></a><a href="https://fulghum.io/self-hosting" target="_blank" class="Story_link">(https://fulghum.io/self-hosting)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46580326">701 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=websku"><span>websku</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46580326">21 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46580326">471 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46580326"><span>CLI agents make self-hosting on a home server easier and fun</span></a><a href="https://fulghum.io/self-hosting" target="_blank" class="Story_link">(https://fulghum.io/self-hosting)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46580326">701 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=websku"><span>websku</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46580326">21 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46580326">472 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare CEO on the Italy fines]]></title>
