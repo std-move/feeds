@@ -90,3 +90,60 @@ titleSelector = ".Story_title span"
 linkSelector = ".Story_title a"
 # story link is not mandatory, let's just take the whole thing here
 # contentSelector = [".Story_link", ".Story_meta"]
+
+[liberation_travel_month_letter]
+title = "Liberation Travel Month-letter"
+url = "https://liberation.travel/liberation-travel-hacks-month-letter/"
+waitForSelector = ".mailpoet_archive li"
+entrySelector = ".mailpoet_archive li"
+titleSelector = "a"
+linkSelector = "a"
+
+[jobstack_it_jobs]
+title = "Jobstack.it jobs"
+url = "https://www.jobstack.it/it-jobs"
+waitForSelector = ".jobposts-list .jobposts-item"
+entrySelector = ".jobposts-list .jobposts-item"
+titleSelector = ["h3", ".jobposts-item_salary"]
+linkSelector = "a"
+contentSelector = "xpath=.//*[contains(@class, 'jobposts-item_labels')]/.."
+
+[ceska_kryptomenova_as_blog]
+title = "Blog | Česká kryptoměnová asociace"
+url = "https://www.ckma.cz/cs/blog"
+waitForSelector = "article"
+entrySelector = "article"
+titleSelector = ".ArticleLink-heading"
+linkSelector = "a"
+
+[techpowerup_gpu_reviews]
+title = "TechPowerUp.com GPU reviews"
+url = "https://www.techpowerup.com/review/?category=Graphics+Cards&manufacturer=&pp=25&order=date"
+waitForSelector = "#list"
+entrySelector = "#list .reviewlist-bit"
+titleSelector = ".title"
+linkSelector = ".title a"
+
+[techpowerup_cpu_reviews]
+title = "TechPowerUp.com CPU reviews"
+url = "https://www.techpowerup.com/review/?category=Processors&manufacturer=&pp=25&order=date"
+waitForSelector = "#list"
+entrySelector = "#list .reviewlist-bit"
+titleSelector = ".title"
+linkSelector = ".title a"
+
+[getty_images_ufc_weigh_ins]
+title = "Getty images - UFC weigh-ins"
+url = "https://www.gettyimages.com/editorial-images/ufc"
+waitForSelector = "//article[contains(.//a/@title, 'Weigh') or contains(.//a/@title, 'weigh')]"
+entrySelector = "//article[contains(.//a/@title, 'Weigh') or contains(.//a/@title, 'weigh')]"
+titleSelector = ["figcaption span", "xpathstr=.//a/@title"]
+linkSelector = "a"
+
+[pia_vpn_release_notes]
+title = "PIA VPN - release notes"
+url = "https://www.privateinternetaccess.com/pages/changelog"
+waitForSelector = "article.changelog-release"
+entrySelector = "article.changelog-release"
+titleSelector = ["h3", "h4"]
+linkSelector = "a"
