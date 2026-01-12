@@ -157,3 +157,11 @@ titleSelector = ".titleline"
 linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
 contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
 
+[notebookcheck_featured_content]
+title = "Notebookcheck - featured content"
+url = "https://www.notebookcheck.net/"
+waitForSelector = ".intro_featured_bar_item"
+entrySelector = ".intro_featured_bar_item"
+titleSelector = ".intro_featured_bar_title"
+linkSelector = "*"
+
