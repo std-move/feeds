@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-13T18:02:07.969Z</updated>
+    <updated>2026-01-13T18:23:35.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-a1ad5d309eafd120275910fe6e0f9b38</id>
         <link href="https://news.ycombinator.com/item?id=46579864"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46579864">2693 points</span> by <a href="user?id=happosai" class="hnuser">happosai</a> <span class="age" title="2026-01-11T20:47:55 1768164475"><a href="item?id=46579864">1 day ago</a></span> <span id="unv_46579864"></span> | <a href="item?id=46579864">1160&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/">The struggle of resizing windows on macOS Tahoe</a><span class="sitebit comhead"> (<a href="from?site=noheger.at"><span class="sitestr">noheger.at</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46579864">2694 points</span> by <a href="user?id=happosai" class="hnuser">happosai</a> <span class="age" title="2026-01-11T20:47:55 1768164475"><a href="item?id=46579864">1 day ago</a></span> <span id="unv_46579864"></span> | <a href="item?id=46579864">1160&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/">The struggle of resizing windows on macOS Tahoe</a><span class="sitebit comhead"> (<a href="from?site=noheger.at"><span class="sitestr">noheger.at</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bose has released API docs and opened the API for its EoL SoundTouch speakers (arstechnica.com)]]></title>
@@ -24,14 +24,14 @@
         <id>link-482769e425b10664def69c7f61e2da2d</id>
         <link href="https://news.ycombinator.com/item?id=46574276"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574276">1251 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-01-11T10:26:18 1768127178"><a href="item?id=46574276">2 days ago</a></span> <span id="unv_46574276"></span> | <a href="item?id=46574276">1575&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirez.com/news/158">Don't fall into the anti-AI hype</a><span class="sitebit comhead"> (<a href="from?site=antirez.com"><span class="sitestr">antirez.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574276">1251 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-01-11T10:26:18 1768127178"><a href="item?id=46574276">2 days ago</a></span> <span id="unv_46574276"></span> | <a href="item?id=46574276">1576&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirez.com/news/158">Don't fall into the anti-AI hype</a><span class="sitebit comhead"> (<a href="from?site=antirez.com"><span class="sitestr">antirez.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cowork: Claude Code for the rest of your work (claude.com)]]></title>
         <id>link-68d79f2afaca34c5b2da4c96f8c0f24a</id>
         <link href="https://news.ycombinator.com/item?id=46593022"/>
         <updated>2026-01-13T01:43:58.661Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46593022">1178 points</span> by <a href="user?id=adocomplete" class="hnuser">adocomplete</a> <span class="age" title="2026-01-12T19:27:19 1768246039"><a href="item?id=46593022">22 hours ago</a></span> <span id="unv_46593022"></span> | <a href="item?id=46593022">510&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/cowork-research-preview">Cowork: Claude Code for the rest of your work</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46593022">1188 points</span> by <a href="user?id=adocomplete" class="hnuser">adocomplete</a> <span class="age" title="2026-01-12T19:27:19 1768246039"><a href="item?id=46593022">22 hours ago</a></span> <span id="unv_46593022"></span> | <a href="item?id=46593022">512&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/cowork-research-preview">Cowork: Claude Code for the rest of your work</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eat Real Food (realfood.gov)]]></title>
@@ -52,7 +52,7 @@
         <id>link-6e8e0c73ca3b656031082d7a24fc112e</id>
         <link href="https://news.ycombinator.com/item?id=46589675"/>
         <updated>2026-01-12T22:19:50.510Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46589675">970 points</span> by <a href="user?id=stygiansonic" class="hnuser">stygiansonic</a> <span class="age" title="2026-01-12T15:22:21 1768231341"><a href="item?id=46589675">1 day ago</a></span> <span id="unv_46589675"></span> | <a href="item?id=46589675">602&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html">Apple picks Gemini to power Siri</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46589675">971 points</span> by <a href="user?id=stygiansonic" class="hnuser">stygiansonic</a> <span class="age" title="2026-01-12T15:22:21 1768231341"><a href="item?id=46589675">1 day ago</a></span> <span id="unv_46589675"></span> | <a href="item?id=46589675">604&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html">Apple picks Gemini to power Siri</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statement from Jerome Powell (federalreserve.gov)]]></title>
@@ -66,7 +66,7 @@
         <id>link-c92f8322f95e9f7929615c082fb372d1</id>
         <link href="https://news.ycombinator.com/item?id=46574707"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574707">844 points</span> by <a href="user?id=smurda" class="hnuser">smurda</a> <span class="age" title="2026-01-11T11:31:22 1768131082"><a href="item?id=46574707">2 days ago</a></span> <span id="unv_46574707"></span> | <a href="item?id=46574707">783&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html">I dumped Windows 11 for Linux, and you should too</a><span class="sitebit comhead"> (<a href="from?site=notebookcheck.net"><span class="sitestr">notebookcheck.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574707">844 points</span> by <a href="user?id=smurda" class="hnuser">smurda</a> <span class="age" title="2026-01-11T11:31:22 1768131082"><a href="item?id=46574707">2 days ago</a></span> <span id="unv_46574707"></span> | <a href="item?id=46574707">784&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html">I dumped Windows 11 for Linux, and you should too</a><span class="sitebit comhead"> (<a href="from?site=notebookcheck.net"><span class="sitestr">notebookcheck.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to code Claude Code in 200 lines of code (mihaileric.com)]]></title>
@@ -101,21 +101,21 @@
         <id>link-4ef70b1ef379092ee8302087139bf490</id>
         <link href="https://news.ycombinator.com/item?id=46580326"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46580326">755 points</span> by <a href="user?id=websku" class="hnuser">websku</a> <span class="age" title="2026-01-11T21:29:57 1768166997"><a href="item?id=46580326">1 day ago</a></span> <span id="unv_46580326"></span> | <a href="item?id=46580326">535&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fulghum.io/self-hosting">CLI agents make self-hosting on a home server easier and fun</a><span class="sitebit comhead"> (<a href="from?site=fulghum.io"><span class="sitestr">fulghum.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46580326">756 points</span> by <a href="user?id=websku" class="hnuser">websku</a> <span class="age" title="2026-01-11T21:29:57 1768166997"><a href="item?id=46580326">1 day ago</a></span> <span id="unv_46580326"></span> | <a href="item?id=46580326">535&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fulghum.io/self-hosting">CLI agents make self-hosting on a home server easier and fun</a><span class="sitebit comhead"> (<a href="from?site=fulghum.io"><span class="sitestr">fulghum.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Floppy disks turn out to be the greatest TV remote for kids (smartere.dk)]]></title>
         <id>link-dca6a11bee903c1896d065680c8fc348</id>
         <link href="https://news.ycombinator.com/item?id=46587934"/>
         <updated>2026-01-13T01:43:58.661Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46587934">707 points</span> by <a href="user?id=mchro" class="hnuser">mchro</a> <span class="age" title="2026-01-12T13:07:49 1768223269"><a href="item?id=46587934">1 day ago</a></span> <span id="unv_46587934"></span> | <a href="item?id=46587934">401&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/">Floppy disks turn out to be the greatest TV remote for kids</a><span class="sitebit comhead"> (<a href="from?site=smartere.dk"><span class="sitestr">smartere.dk</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46587934">708 points</span> by <a href="user?id=mchro" class="hnuser">mchro</a> <span class="age" title="2026-01-12T13:07:49 1768223269"><a href="item?id=46587934">1 day ago</a></span> <span id="unv_46587934"></span> | <a href="item?id=46587934">401&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/">Floppy disks turn out to be the greatest TV remote for kids</a><span class="sitebit comhead"> (<a href="from?site=smartere.dk"><span class="sitestr">smartere.dk</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TimeCapsuleLLM: LLM trained only on data from 1800-1875 (github.com/haykgrigo3)]]></title>
         <id>link-039ea8066d3f8f324083e422aeace5a3</id>
         <link href="https://news.ycombinator.com/item?id=46590280"/>
         <updated>2026-01-13T04:40:55.330Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46590280">703 points</span> by <a href="user?id=admp" class="hnuser">admp</a> <span class="age" title="2026-01-12T16:04:27 1768233867"><a href="item?id=46590280">1 day ago</a></span> <span id="unv_46590280"></span> | <a href="item?id=46590280">290&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/haykgrigo3/TimeCapsuleLLM">TimeCapsuleLLM: LLM trained only on data from 1800-1875</a><span class="sitebit comhead"> (<a href="from?site=github.com/haykgrigo3"><span class="sitestr">github.com/haykgrigo3</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46590280">705 points</span> by <a href="user?id=admp" class="hnuser">admp</a> <span class="age" title="2026-01-12T16:04:27 1768233867"><a href="item?id=46590280">1 day ago</a></span> <span id="unv_46590280"></span> | <a href="item?id=46590280">291&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/haykgrigo3/TimeCapsuleLLM">TimeCapsuleLLM: LLM trained only on data from 1800-1875</a><span class="sitebit comhead"> (<a href="from?site=github.com/haykgrigo3"><span class="sitestr">github.com/haykgrigo3</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare CEO on the Italy fines (twitter.com/eastdakota)]]></title>
@@ -136,7 +136,7 @@
         <id>link-41c3f7ad6f64a3c6c724a8a0361da356</id>
         <link href="https://news.ycombinator.com/item?id=46568794"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46568794">623 points</span> by <a href="user?id=thorel" class="hnuser">thorel</a> <span class="age" title="2026-01-10T18:58:37 1768071517"><a href="item?id=46568794">2 days ago</a></span> <span id="unv_46568794"></span> | <a href="item?id=46568794">136&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mitchellh.com/writing/ghostty-memory-leak-fix">Finding and fixing Ghostty's largest memory leak</a><span class="sitebit comhead"> (<a href="from?site=mitchellh.com"><span class="sitestr">mitchellh.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46568794">624 points</span> by <a href="user?id=thorel" class="hnuser">thorel</a> <span class="age" title="2026-01-10T18:58:37 1768071517"><a href="item?id=46568794">2 days ago</a></span> <span id="unv_46568794"></span> | <a href="item?id=46568794">136&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mitchellh.com/writing/ghostty-memory-leak-fix">Finding and fixing Ghostty's largest memory leak</a><span class="sitebit comhead"> (<a href="from?site=mitchellh.com"><span class="sitestr">mitchellh.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic blocks third-party use of Claude Code subscriptions (github.com/anomalyco)]]></title>
@@ -185,7 +185,7 @@
         <id>link-7b76e127d67ca3d194ab210419ed6297</id>
         <link href="https://news.ycombinator.com/item?id=46591708"/>
         <updated>2026-01-13T16:33:28.641Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46591708">509 points</span> by <a href="user?id=The28thDuck" class="hnuser">The28thDuck</a> <span class="age" title="2026-01-12T17:41:50 1768239710"><a href="item?id=46591708">1 day ago</a></span> <span id="unv_46591708"></span> | <a href="item?id=46591708">259&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://walzr.com/postal-arbitrage">Postal Arbitrage</a><span class="sitebit comhead"> (<a href="from?site=walzr.com"><span class="sitestr">walzr.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46591708">510 points</span> by <a href="user?id=The28thDuck" class="hnuser">The28thDuck</a> <span class="age" title="2026-01-12T17:41:50 1768239710"><a href="item?id=46591708">1 day ago</a></span> <span id="unv_46591708"></span> | <a href="item?id=46591708">260&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://walzr.com/postal-arbitrage">Postal Arbitrage</a><span class="sitebit comhead"> (<a href="from?site=walzr.com"><span class="sitestr">walzr.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: I used Claude Code to discover connections between 100 books (pieterma.es)]]></title>
