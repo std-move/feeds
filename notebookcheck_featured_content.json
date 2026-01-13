@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-3f2e0a6f744930e57643e62ec3d36621",
+			"title": "\"Nano Banana Pro\" experiment: How to recognize AI ​​with the naked eye",
+			"link": "https://www.notebookcheck.net/Nano-Banana-Pro-experiment-How-to-recognize-AI-with-the-naked-eye.1203358.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/4/csm_Frau-haelt-Banane-Fehler-im-Bild_0450ab24cd.jpg\" loading=\"lazy\" alt=\"Woman holding a banana: What clues to look for\"></picture><div class=\"intro_featured_bar_title\">\"Nano Banana Pro\" experiment: How to recognize AI ​​with the naked eye</div>",
+			"retrieved": 1768336006610
+		},
+		{
 			"id": "link-62c103eab5f65aae483bc4346db0205d",
 			"title": "▶ The fastest laptop 2026, the best thin & light, and new everyday notebooks!",
 			"link": "https://www.notebookcheck.net/The-fastest-laptop-2026-the-best-thin-light-and-new-everyday-notebooks.1203547.0.html",
@@ -43,13 +50,6 @@
 			"title": "Review: Keychron's best wireless gaming keyboard",
 			"link": "https://www.notebookcheck.net/Gaming-performance-meets-custom-charm-Lemokey-P2-HE-hands-on-review.1105587.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lemokey-P2-HE-wireless-gaming-keyboard-review-teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lemokey-P2-HE-wireless-gaming-keyboard-review-teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lemokey-P2-HE-wireless-gaming-keyboard-review-teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lemokey-P2-HE-wireless-gaming-keyboard-review-teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lemokey-P2-HE-wireless-gaming-keyboard-review-teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lemokey-P2-HE-wireless-gaming-keyboard-review-teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/8/csm_Lemokey-P2-HE-wireless-gaming-keyboard-review-teaser_8a770a8c1a.jpg\" loading=\"lazy\" alt=\"Lemokey P2 HE after more than two months of almost-daily hands-on testing\"></picture><div class=\"intro_featured_bar_title\">Review: Keychron's best wireless gaming keyboard</div>",
-			"retrieved": 1768240842176
-		},
-		{
-			"id": "link-f73902ff0c8821981bd315addd9af33c",
-			"title": "▶ Did Intel just win 2026? - Panther Lake will probably power your next laptop!",
-			"link": "https://www.notebookcheck.net/Did-Intel-just-win-2026-Panther-Lake-will-probably-power-your-next-laptop.1200727.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4178-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4178-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4178-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4178-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4178-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4178-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/e/csm_thumb4178_fd722f1c68.jpg\" loading=\"lazy\" alt=\"Did Intel just win 2026? - Panther Lake will probably power your next laptop!\"></picture><div class=\"intro_featured_bar_title\">▶ Did Intel just win 2026? - Panther Lake will probably power your next laptop!</div>",
 			"retrieved": 1768240842176
 		}
 	]
