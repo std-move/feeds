@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-01-13T10:26:26.935Z</updated>
+    <updated>2026-01-13T12:50:34.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Vivo's gaming phone shows flagship-class performance]]></title>
+        <id>link-9b8000da8d39c74a5cd094fab351c4fd</id>
+        <link href="https://www.notebookcheck.net/Android-smartphone-with-spectacular-hardware-at-a-bargain-price-Vivo-iQOO-15-review.1201656.0.html"/>
+        <updated>2026-01-13T12:49:23.627Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/6/csm_Vivo_IQOO_15_Test_Smartphone_1_492ed3749d.jpg" loading="lazy" alt="Test Vivo iQOO 15 smartphone"></picture><div class="intro_featured_bar_title">Vivo's gaming phone shows flagship-class performance</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Camera comparison: Honor Magic8 Pro challenges the Vivo X300 Pro]]></title>
         <id>link-c68ee56988d11ddac6478a3d44114bc4</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/The-fastest-laptop-of-2026.1199975.0.html"/>
         <updated>2026-01-12T18:00:42.176Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_1.1.1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_1.1.1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_1.1.1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_1.1.1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_1.1.1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_1.1.1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/8/csm_thumb_1.1.1_3abab898ee.jpg" loading="lazy" alt="The fastest laptop of 2026!?"></picture><div class="intro_featured_bar_title">▶ The fastest laptop of 2026!?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opinion on Samsung's Galaxy Ring statement]]></title>
-        <id>link-a2f6f4ba8f37ac3f22de02aa95260a34</id>
-        <link href="https://www.notebookcheck.net/First-ear-infections-now-potential-loss-of-fingers-Samsung-ignores-health-risks-of-Galaxy-Ring.1199936.0.html"/>
-        <updated>2026-01-12T18:00:42.176Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Galaxy-Ring-jpeg-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Galaxy-Ring-jpeg-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Galaxy-Ring-jpeg-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Galaxy-Ring-jpeg-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Galaxy-Ring-jpeg-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Galaxy-Ring-jpeg-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/7/csm_Galaxy-Ring_db206c4968.jpg" loading="lazy" alt="A swollen battery in a Galaxy Ring can be painful. (Image source: Zone of Tech)"></picture><div class="intro_featured_bar_title">Opinion on Samsung's Galaxy Ring statement</div>]]></content>
     </entry>
 </feed>
