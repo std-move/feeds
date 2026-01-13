@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-01-13T08:33:21.897Z</updated>
+    <updated>2026-01-13T10:26:26.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[Minecraft Java International — $29.99]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Discord Nitro USD]]></title>
+        <id>link-3b16b58e08b1cbee08b2a8185496decf</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/discord-nitro-us/"/>
+        <updated>2026-01-13T10:25:20.023Z</updated>
+        <content type="html"><![CDATA[Discord Nitro USD — 12 Months]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
         <id>link-0b5983c9af8853c3391b9a2a2ac6fcc6</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/g2a-international/"/>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlystayGift]]></title>
-        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
-        <updated>2026-01-13T04:40:55.330Z</updated>
-        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
