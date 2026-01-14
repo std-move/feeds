@@ -167,13 +167,14 @@ linkSelector = "*"
 # this stuff seems to time out with 'load' a lot
 waitUntil = "domcontentloaded"
 
-[sordum_org_releases]
-title = "sordum.org"
-url = "https://www.sordum.org/"
-waitForSelector = "div.article > article.post"
-entrySelector = "div.article > article.post"
-titleSelector = ["h2.title", ".thetime"]
-#linkSelector = "*"
+# unfortunately the site sometimes blocks scrapers
+# [sordum_org_releases]
+# title = "sordum.org"
+# url = "https://www.sordum.org/"
+# waitForSelector = "div.article > article.post"
+# entrySelector = "div.article > article.post"
+# titleSelector = ["h2.title", ".thetime"]
+# #linkSelector = "*"
 
 [opentrackers_org_posts]
 title = "OpenTrackers.org"
