@@ -50,6 +50,9 @@ jobs:
           HOME: /root
           FEED_DATA_PATH: ./gh-pages
         run: |
+          if [[ "${GITHUB_EVENT_NAME}" == "schedule" ]]; then
+            export IS_SCHEDULED=1
+          fi
           export DEBUG="info"
           # GitHub Actions unfortunately does not support retries.
           # this is a cumbersome method of retrying once in case of errors.
