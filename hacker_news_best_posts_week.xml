@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-14T13:03:19.277Z</updated>
+    <updated>2026-01-14T13:08:25.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>link-c72a67a39539bb1196df9e4810160e4c</id>
         <link href="https://news.ycombinator.com/item?id=46602102"/>
         <updated>2026-01-13T22:23:12.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46602102">991 points</span> by <a href="user?id=ekianjo" class="hnuser">ekianjo</a> <span class="age" title="2026-01-13T15:18:43 1768317523"><a href="item?id=46602102">21 hours ago</a></span> <span id="unv_46602102"></span> | <a href="item?id=46602102">1516&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.youtube.com/watch?v=Rs_JrOIo3SE">Scott Adams has died</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46602102">991 points</span> by <a href="user?id=ekianjo" class="hnuser">ekianjo</a> <span class="age" title="2026-01-13T15:18:43 1768317523"><a href="item?id=46602102">21 hours ago</a></span> <span id="unv_46602102"></span> | <a href="item?id=46602102">1517&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.youtube.com/watch?v=Rs_JrOIo3SE">Scott Adams has died</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statement from Jerome Powell (federalreserve.gov)]]></title>
@@ -59,7 +59,7 @@
         <id>link-98ff8cd5bc7a789aabbc6f8b8877e9af</id>
         <link href="https://news.ycombinator.com/item?id=46605490"/>
         <updated>2026-01-14T01:50:58.913Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46605490">836 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-01-13T18:31:50 1768329110"><a href="item?id=46605490">18 hours ago</a></span> <span id="unv_46605490"></span> | <a href="item?id=46605490">604&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/">AI generated music barred from Bandcamp</a><span class="sitebit comhead"> (<a href="from?site=reddit.com"><span class="sitestr">reddit.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46605490">836 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-01-13T18:31:50 1768329110"><a href="item?id=46605490">18 hours ago</a></span> <span id="unv_46605490"></span> | <a href="item?id=46605490">605&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/">AI generated music barred from Bandcamp</a><span class="sitebit comhead"> (<a href="from?site=reddit.com"><span class="sitestr">reddit.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to code Claude Code in 200 lines of code (mihaileric.com)]]></title>
@@ -108,7 +108,7 @@
         <id>link-039ea8066d3f8f324083e422aeace5a3</id>
         <link href="https://news.ycombinator.com/item?id=46590280"/>
         <updated>2026-01-13T04:40:55.330Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46590280">727 points</span> by <a href="user?id=admp" class="hnuser">admp</a> <span class="age" title="2026-01-12T16:04:27 1768233867"><a href="item?id=46590280">1 day ago</a></span> <span id="unv_46590280"></span> | <a href="item?id=46590280">305&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/haykgrigo3/TimeCapsuleLLM">TimeCapsuleLLM: LLM trained only on data from 1800-1875</a><span class="sitebit comhead"> (<a href="from?site=github.com/haykgrigo3"><span class="sitestr">github.com/haykgrigo3</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46590280">728 points</span> by <a href="user?id=admp" class="hnuser">admp</a> <span class="age" title="2026-01-12T16:04:27 1768233867"><a href="item?id=46590280">1 day ago</a></span> <span id="unv_46590280"></span> | <a href="item?id=46590280">305&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/haykgrigo3/TimeCapsuleLLM">TimeCapsuleLLM: LLM trained only on data from 1800-1875</a><span class="sitebit comhead"> (<a href="from?site=github.com/haykgrigo3"><span class="sitestr">github.com/haykgrigo3</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare CEO on the Italy fines (twitter.com/eastdakota)]]></title>
@@ -129,7 +129,7 @@
         <id>link-41c3f7ad6f64a3c6c724a8a0361da356</id>
         <link href="https://news.ycombinator.com/item?id=46568794"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46568794">626 points</span> by <a href="user?id=thorel" class="hnuser">thorel</a> <span class="age" title="2026-01-10T18:58:37 1768071517"><a href="item?id=46568794">3 days ago</a></span> <span id="unv_46568794"></span> | <a href="item?id=46568794">136&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mitchellh.com/writing/ghostty-memory-leak-fix">Finding and fixing Ghostty's largest memory leak</a><span class="sitebit comhead"> (<a href="from?site=mitchellh.com"><span class="sitestr">mitchellh.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46568794">626 points</span> by <a href="user?id=thorel" class="hnuser">thorel</a> <span class="age" title="2026-01-10T18:58:37 1768071517"><a href="item?id=46568794">3 days ago</a></span> <span id="unv_46568794"></span> | <a href="item?id=46568794">137&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mitchellh.com/writing/ghostty-memory-leak-fix">Finding and fixing Ghostty's largest memory leak</a><span class="sitebit comhead"> (<a href="from?site=mitchellh.com"><span class="sitestr">mitchellh.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic blocks third-party use of Claude Code subscriptions (github.com/anomalyco)]]></title>
@@ -185,7 +185,7 @@
         <id>link-7f7c415ef36da5e03f42eb02b332e14e</id>
         <link href="https://news.ycombinator.com/item?id=46601157"/>
         <updated>2026-01-14T04:47:38.012Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46601157">495 points</span> by <a href="user?id=lemonlime227" class="hnuser">lemonlime227</a> <span class="age" title="2026-01-13T14:14:18 1768313658"><a href="item?id=46601157">22 hours ago</a></span> <span id="unv_46601157"></span> | <a href="item?id=46601157">410&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/">Apple Creator Studio</a><span class="sitebit comhead"> (<a href="from?site=apple.com"><span class="sitestr">apple.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46601157">496 points</span> by <a href="user?id=lemonlime227" class="hnuser">lemonlime227</a> <span class="age" title="2026-01-13T14:14:18 1768313658"><a href="item?id=46601157">22 hours ago</a></span> <span id="unv_46601157"></span> | <a href="item?id=46601157">411&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/">Apple Creator Studio</a><span class="sitebit comhead"> (<a href="from?site=apple.com"><span class="sitestr">apple.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code and Let Live (fly.io)]]></title>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46557825">495 points</span> by <a href="user?id=usrme" class="hnuser">usrme</a> <span class="age" title="2026-01-09T19:11:59 1767985919"><a href="item?id=46557825">4 days ago</a></span> <span id="unv_46557825"></span> | <a href="item?id=46557825">185&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fly.io/blog/code-and-let-live/">Code and Let Live</a><span class="sitebit comhead"> (<a href="from?site=fly.io"><span class="sitestr">fly.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iran Goes Into IPv6 Blackout (cloudflare.com)]]></title>
-        <id>link-23c3a37bc655de13aa8a4a082389de16</id>
-        <link href="https://news.ycombinator.com/item?id=46542683"/>
-        <updated>2026-01-14T04:47:38.012Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46542683">483 points</span> by <a href="user?id=honeycrispy" class="hnuser">honeycrispy</a> <span class="age" title="2026-01-08T16:11:48 1767888708"><a href="item?id=46542683">5 days ago</a></span> <span id="unv_46542683"></span> | <a href="item?id=46542683">330&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://radar.cloudflare.com/routing/ir">Iran Goes Into IPv6 Blackout</a><span class="sitebit comhead"> (<a href="from?site=cloudflare.com"><span class="sitestr">cloudflare.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[There's a ridiculous amount of tech in a disposable vape (jgc.org)]]></title>
         <id>link-d53d5e6300fbf17e0aa4de4df3128800</id>
         <link href="https://news.ycombinator.com/item?id=46591810"/>
         <updated>2026-01-14T12:48:27.551Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46591810">482 points</span> by <a href="user?id=abnercoimbre" class="hnuser">abnercoimbre</a> <span class="age" title="2026-01-12T17:50:01 1768240201"><a href="item?id=46591810">10 hours ago</a></span> <span id="unv_46591810"></span> | <a href="item?id=46591810">414&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html">There's a ridiculous amount of tech in a disposable vape</a><span class="sitebit comhead"> (<a href="from?site=jgc.org"><span class="sitestr">jgc.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46591810">484 points</span> by <a href="user?id=abnercoimbre" class="hnuser">abnercoimbre</a> <span class="age" title="2026-01-12T17:50:01 1768240201"><a href="item?id=46591810">10 hours ago</a></span> <span id="unv_46591810"></span> | <a href="item?id=46591810">422&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html">There's a ridiculous amount of tech in a disposable vape</a><span class="sitebit comhead"> (<a href="from?site=jgc.org"><span class="sitestr">jgc.org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Goes Into IPv6 Blackout (cloudflare.com)]]></title>
+        <id>link-23c3a37bc655de13aa8a4a082389de16</id>
+        <link href="https://news.ycombinator.com/item?id=46542683"/>
+        <updated>2026-01-14T04:47:38.012Z</updated>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46542683">483 points</span> by <a href="user?id=honeycrispy" class="hnuser">honeycrispy</a> <span class="age" title="2026-01-08T16:11:48 1767888708"><a href="item?id=46542683">5 days ago</a></span> <span id="unv_46542683"></span> | <a href="item?id=46542683">330&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://radar.cloudflare.com/routing/ir">Iran Goes Into IPv6 Blackout</a><span class="sitebit comhead"> (<a href="from?site=cloudflare.com"><span class="sitestr">cloudflare.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kagi releases alpha version of Orion for Linux (kagi.com)]]></title>
