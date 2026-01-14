@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-5db0707d856cd03b54fae1593340638a",
+			"title": "▶ Our CES 2026 (laptop) Wrap-Up!",
+			"link": "https://www.notebookcheck.net/Our-CES-2026-laptop-Wrap-Up.1204367.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/5/csm_thumb_yt_5fe66bb12a.jpg\" loading=\"lazy\" alt=\"Our CES 2026 (laptop) Wrap-Up!\"></picture><div class=\"intro_featured_bar_title\">▶ Our CES 2026 (laptop) Wrap-Up!</div>",
+			"retrieved": 1768408314838
+		},
+		{
 			"id": "link-603fec0476db6469d6e4e329f88dcf65",
 			"title": "Shooting star or flop? Acer Predator Helios Neo 16S AI review",
 			"link": "https://www.notebookcheck.net/Shooting-star-or-flop-Acer-Predator-Helios-Neo-16S-AI-gaming-laptop-review.1201655.0.html",
@@ -43,13 +50,6 @@
 			"title": "Asus ExpertBook PM3 AMD with Copilot+ in review",
 			"link": "https://www.notebookcheck.net/Asus-ExpertBook-PM3-Review-Office-laptop-with-AMD-long-battery-life-and-Copilot.1200511.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM3406/expertbook_pm3_case_04-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM3406/expertbook_pm3_case_04-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM3406/expertbook_pm3_case_04-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM3406/expertbook_pm3_case_04-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM3406/expertbook_pm3_case_04-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM3406/expertbook_pm3_case_04-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/5/csm_expertbook_pm3_case_04_dc57b1014b.jpg\" loading=\"lazy\" alt=\"Asus ExpertBook PM3 in review\"></picture><div class=\"intro_featured_bar_title\">Asus ExpertBook PM3 AMD with Copilot+ in review</div>",
-			"retrieved": 1768240842176
-		},
-		{
-			"id": "link-090182eeaeac3a4c88dd5177415abedd",
-			"title": "Hands-on with the new Lenovo ThinkPad X1 Carbon Gen 14",
-			"link": "https://www.notebookcheck.net/What-was-old-is-new-again-Hands-on-with-the-new-Lenovo-ThinkPad-X1-Carbon-Gen-14.1201280.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_103859712-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_103859712-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_103859712-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_103859712-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_103859712-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_103859712-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/d/csm__103859712_6f595c0f32.jpg\" loading=\"lazy\" alt=\"The new Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (image source: Alexander Wätzel)\"></picture><div class=\"intro_featured_bar_title\">Hands-on with the new Lenovo ThinkPad X1 Carbon Gen 14</div>",
 			"retrieved": 1768240842176
 		}
 	]
