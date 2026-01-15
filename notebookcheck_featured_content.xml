@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-01-15T18:38:51.494Z</updated>
+    <updated>2026-01-15T20:27:56.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[A camera champion with great staying power – Honor Magic 8 Pro review]]></title>
+        <id>link-971917204d73763e6175b59eb2ef2780</id>
+        <link href="https://www.notebookcheck.net/Flagship-power-with-an-XXL-battery-Honor-Magic8-Pro-smartphone-review.1204159.0.html"/>
+        <updated>2026-01-15T20:26:49.918Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Pro/aPic_Honor_Magic8_Pro-2037-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Pro/aPic_Honor_Magic8_Pro-2037-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Pro/aPic_Honor_Magic8_Pro-2037-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Pro/aPic_Honor_Magic8_Pro-2037-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Pro/aPic_Honor_Magic8_Pro-2037-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Pro/aPic_Honor_Magic8_Pro-2037-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/0/csm_aPic_Honor_Magic8_Pro-2037_046b717fcb.jpg" loading="lazy" alt="Flagship power with an XXL battery - Honor Magic8 Pro smartphone review"></picture><div class="intro_featured_bar_title">A camera champion with great staying power – Honor Magic 8 Pro review</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[▶ Is AMD the new, old Intel? - AMD Laptops @CES 2026]]></title>
         <id>link-fc8915e3699143a52a137379ded763e2</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/The-fastest-laptop-2026-the-best-thin-light-and-new-everyday-notebooks.1203547.0.html"/>
         <updated>2026-01-13T14:26:44.200Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/c/csm_thumb2716_16fe336901.jpg" loading="lazy" alt="The fastest laptop 2026, the best thin &amp; light, and new everyday notebooks!"></picture><div class="intro_featured_bar_title">▶ The fastest laptop 2026, the best thin &amp; light, and new everyday notebooks!</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivo's gaming phone shows flagship-class performance]]></title>
-        <id>link-9b8000da8d39c74a5cd094fab351c4fd</id>
-        <link href="https://www.notebookcheck.net/Android-smartphone-with-spectacular-hardware-at-a-bargain-price-Vivo-iQOO-15-review.1201656.0.html"/>
-        <updated>2026-01-13T12:49:23.627Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/6/csm_Vivo_IQOO_15_Test_Smartphone_1_492ed3749d.jpg" loading="lazy" alt="Test Vivo iQOO 15 smartphone"></picture><div class="intro_featured_bar_title">Vivo's gaming phone shows flagship-class performance</div>]]></content>
     </entry>
 </feed>
