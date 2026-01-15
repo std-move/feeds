@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-fc8915e3699143a52a137379ded763e2",
+			"title": "▶ Is AMD the new, old Intel? - AMD Laptops @CES 2026",
+			"link": "https://www.notebookcheck.net/Is-AMD-the-new-old-Intel-AMD-Laptops-CES-2026.1205204.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/8/csm_thumb59_ba65e6fd4e.jpg\" loading=\"lazy\" alt=\"Is AMD the new, old Intel? - AMD Laptops @CES 2026\"></picture><div class=\"intro_featured_bar_title\">▶ Is AMD the new, old Intel? - AMD Laptops @CES 2026</div>",
+			"retrieved": 1768487155639
+		},
+		{
 			"id": "link-9abf3c499d33bc16764bc6a934c7e68b",
 			"title": "A major win for AMD",
 			"link": "https://www.notebookcheck.net/Finally-embracing-AMD-for-the-pro-series-Dell-Pro-14-Plus-PB14255-laptop-review.1179867.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Android-smartphone-with-spectacular-hardware-at-a-bargain-price-Vivo-iQOO-15-review.1201656.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15/Vivo_IQOO_15_Test_Smartphone_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/6/csm_Vivo_IQOO_15_Test_Smartphone_1_492ed3749d.jpg\" loading=\"lazy\" alt=\"Test Vivo iQOO 15 smartphone\"></picture><div class=\"intro_featured_bar_title\">Vivo's gaming phone shows flagship-class performance</div>",
 			"retrieved": 1768308563627
-		},
-		{
-			"id": "link-c68ee56988d11ddac6478a3d44114bc4",
-			"title": "Camera comparison: Honor Magic8 Pro challenges the Vivo X300 Pro",
-			"link": "https://www.notebookcheck.net/Showdown-in-London-Honor-Magic8-Pro-vs-Vivo-X300-Pro-in-a-photo-comparison-review.1202578.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Photo_Compare_2026_Magic8_Pro_and_X300_Pro/Teaser_IMG_20260108_095249-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Photo_Compare_2026_Magic8_Pro_and_X300_Pro/Teaser_IMG_20260108_095249-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Photo_Compare_2026_Magic8_Pro_and_X300_Pro/Teaser_IMG_20260108_095249-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Photo_Compare_2026_Magic8_Pro_and_X300_Pro/Teaser_IMG_20260108_095249-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Photo_Compare_2026_Magic8_Pro_and_X300_Pro/Teaser_IMG_20260108_095249-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Photo_Compare_2026_Magic8_Pro_and_X300_Pro/Teaser_IMG_20260108_095249-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/9/csm_Teaser_IMG_20260108_095249_c473e9c462.jpg\" loading=\"lazy\" alt=\"Showdown in London: Honor Magic8 Pro vs. Vivo X300 Pro in a photo comparison review\"></picture><div class=\"intro_featured_bar_title\">Camera comparison: Honor Magic8 Pro challenges the Vivo X300 Pro</div>",
-			"retrieved": 1768240842176
 		}
 	]
 }
