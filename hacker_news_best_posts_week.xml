@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-15T21:41:10.098Z</updated>
+    <updated>2026-01-15T22:24:06.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-a1ad5d309eafd120275910fe6e0f9b38</id>
         <link href="https://news.ycombinator.com/item?id=46579864"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46579864">2736 points</span> by <a href="user?id=happosai" class="hnuser">happosai</a> <span class="age" title="2026-01-11T20:47:55 1768164475"><a href="item?id=46579864">4 days ago</a></span> <span id="unv_46579864"></span> | <a href="item?id=46579864">1196&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/">The struggle of resizing windows on macOS Tahoe</a><span class="sitebit comhead"> (<a href="from?site=noheger.at"><span class="sitestr">noheger.at</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46579864">2736 points</span> by <a href="user?id=happosai" class="hnuser">happosai</a> <span class="age" title="2026-01-11T20:47:55 1768164475"><a href="item?id=46579864">4 days ago</a></span> <span id="unv_46579864"></span> | <a href="item?id=46579864">1197&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/">The struggle of resizing windows on macOS Tahoe</a><span class="sitebit comhead"> (<a href="from?site=noheger.at"><span class="sitestr">noheger.at</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cowork: Claude Code for the rest of your work (claude.com)]]></title>
@@ -52,7 +52,7 @@
         <id>link-80335d71028153b8314aa09980e5a0da</id>
         <link href="https://news.ycombinator.com/item?id=46616745"/>
         <updated>2026-01-14T18:35:07.393Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46616745">924 points</span> by <a href="user?id=echelon_musk" class="hnuser">echelon_musk</a> <span class="age" title="2026-01-14T14:57:30 1768402650"><a href="item?id=46616745">1 day ago</a></span> <span id="unv_46616745"></span> | <a href="item?id=46616745">581&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson">FBI raids Washington Post reporter's home</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46616745">925 points</span> by <a href="user?id=echelon_musk" class="hnuser">echelon_musk</a> <span class="age" title="2026-01-14T14:57:30 1768402650"><a href="item?id=46616745">1 day ago</a></span> <span id="unv_46616745"></span> | <a href="item?id=46616745">581&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson">FBI raids Washington Post reporter's home</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statement from Jerome Powell (federalreserve.gov)]]></title>
@@ -73,14 +73,14 @@
         <id>link-5f96c289cb2bbccf48269069e36a59a4</id>
         <link href="https://news.ycombinator.com/item?id=46622328"/>
         <updated>2026-01-15T03:41:49.978Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46622328">834 points</span> by <a href="user?id=takira" class="hnuser">takira</a> <span class="age" title="2026-01-14T20:12:25 1768421545"><a href="item?id=46622328">1 day ago</a></span> <span id="unv_46622328"></span> | <a href="item?id=46622328">376&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files">Claude Cowork exfiltrates files</a><span class="sitebit comhead"> (<a href="from?site=promptarmor.com"><span class="sitestr">promptarmor.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46622328">836 points</span> by <a href="user?id=takira" class="hnuser">takira</a> <span class="age" title="2026-01-14T20:12:25 1768421545"><a href="item?id=46622328">1 day ago</a></span> <span id="unv_46622328"></span> | <a href="item?id=46622328">376&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files">Claude Cowork exfiltrates files</a><span class="sitebit comhead"> (<a href="from?site=promptarmor.com"><span class="sitestr">promptarmor.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: Share your personal website]]></title>
         <id>link-c52c67c2688f224b8e58c005f91a3553</id>
         <link href="https://news.ycombinator.com/item?id=46618714"/>
         <updated>2026-01-15T06:35:26.683Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618714">815 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-01-14T17:07:42 1768410462"><a href="item?id=46618714">1 day ago</a></span> <span id="unv_46618714"></span> | <a href="item?id=46618714">2184&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46618714">Ask HN: Share your personal website</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618714">819 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-01-14T17:07:42 1768410462"><a href="item?id=46618714">1 day ago</a></span> <span id="unv_46618714"></span> | <a href="item?id=46618714">2189&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46618714">Ask HN: Share your personal website</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Allow me to introduce, the Citroen C15 (eupolicy.social)]]></title>
@@ -101,28 +101,28 @@
         <id>link-3bae7dcbfd28cf7bead6c58e4fc33709</id>
         <link href="https://news.ycombinator.com/item?id=46566465"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46566465">768 points</span> by <a href="user?id=rorylawless" class="hnuser">rorylawless</a> <span class="age" title="2026-01-10T15:26:26 1768058786"><a href="item?id=46566465">5 days ago</a></span> <span id="unv_46566465"></span> | <a href="item?id=46566465">728&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/858910/linux-diary-gaming-desktop">I replaced Windows with Linux and everything's going great</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Floppy disks turn out to be the greatest TV remote for kids (smartere.dk)]]></title>
-        <id>link-dca6a11bee903c1896d065680c8fc348</id>
-        <link href="https://news.ycombinator.com/item?id=46587934"/>
-        <updated>2026-01-13T01:43:58.661Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46587934">745 points</span> by <a href="user?id=mchro" class="hnuser">mchro</a> <span class="age" title="2026-01-12T13:07:49 1768223269"><a href="item?id=46587934">3 days ago</a></span> <span id="unv_46587934"></span> | <a href="item?id=46587934">414&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/">Floppy disks turn out to be the greatest TV remote for kids</a><span class="sitebit comhead"> (<a href="from?site=smartere.dk"><span class="sitestr">smartere.dk</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46566465">768 points</span> by <a href="user?id=rorylawless" class="hnuser">rorylawless</a> <span class="age" title="2026-01-10T15:26:26 1768058786"><a href="item?id=46566465">5 days ago</a></span> <span id="unv_46566465"></span> | <a href="item?id=46566465">729&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/858910/linux-diary-gaming-desktop">I replaced Windows with Linux and everything's going great</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The URL shortener that makes your links look as suspicious as possible (creepylink.com)]]></title>
         <id>link-e90960de8ac9e3754532b76875c79572</id>
         <link href="https://news.ycombinator.com/item?id=46627652"/>
         <updated>2026-01-15T14:25:55.639Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46627652">743 points</span> by <a href="user?id=dreadsword" class="hnuser">dreadsword</a> <span class="age" title="2026-01-15T03:28:20 1768447700"><a href="item?id=46627652">18 hours ago</a></span> <span id="unv_46627652"></span> | <a href="item?id=46627652">140&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://creepylink.com/">The URL shortener that makes your links look as suspicious as possible</a><span class="sitebit comhead"> (<a href="from?site=creepylink.com"><span class="sitestr">creepylink.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46627652">746 points</span> by <a href="user?id=dreadsword" class="hnuser">dreadsword</a> <span class="age" title="2026-01-15T03:28:20 1768447700"><a href="item?id=46627652">18 hours ago</a></span> <span id="unv_46627652"></span> | <a href="item?id=46627652">141&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://creepylink.com/">The URL shortener that makes your links look as suspicious as possible</a><span class="sitebit comhead"> (<a href="from?site=creepylink.com"><span class="sitestr">creepylink.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Floppy disks turn out to be the greatest TV remote for kids (smartere.dk)]]></title>
+        <id>link-dca6a11bee903c1896d065680c8fc348</id>
+        <link href="https://news.ycombinator.com/item?id=46587934"/>
+        <updated>2026-01-13T01:43:58.661Z</updated>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46587934">745 points</span> by <a href="user?id=mchro" class="hnuser">mchro</a> <span class="age" title="2026-01-12T13:07:49 1768223269"><a href="item?id=46587934">3 days ago</a></span> <span id="unv_46587934"></span> | <a href="item?id=46587934">414&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/">Floppy disks turn out to be the greatest TV remote for kids</a><span class="sitebit comhead"> (<a href="from?site=smartere.dk"><span class="sitestr">smartere.dk</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[There's a ridiculous amount of tech in a disposable vape (jgc.org)]]></title>
         <id>link-d53d5e6300fbf17e0aa4de4df3128800</id>
         <link href="https://news.ycombinator.com/item?id=46591810"/>
         <updated>2026-01-14T12:48:27.551Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46591810">742 points</span> by <a href="user?id=abnercoimbre" class="hnuser">abnercoimbre</a> <span class="age" title="2026-01-12T17:50:01 1768240201"><a href="item?id=46591810">1 day ago</a></span> <span id="unv_46591810"></span> | <a href="item?id=46591810">644&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html">There's a ridiculous amount of tech in a disposable vape</a><span class="sitebit comhead"> (<a href="from?site=jgc.org"><span class="sitestr">jgc.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46591810">743 points</span> by <a href="user?id=abnercoimbre" class="hnuser">abnercoimbre</a> <span class="age" title="2026-01-12T17:50:01 1768240201"><a href="item?id=46591810">1 day ago</a></span> <span id="unv_46591810"></span> | <a href="item?id=46591810">644&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html">There's a ridiculous amount of tech in a disposable vape</a><span class="sitebit comhead"> (<a href="from?site=jgc.org"><span class="sitestr">jgc.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TimeCapsuleLLM: LLM trained only on data from 1800-1875 (github.com/haykgrigo3)]]></title>
@@ -143,14 +143,14 @@
         <id>link-084dddc17526e60010edeb84f7975716</id>
         <link href="https://news.ycombinator.com/item?id=46618901"/>
         <updated>2026-01-15T04:41:24.548Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618901">651 points</span> by <a href="user?id=MBCook" class="hnuser">MBCook</a> <span class="age" title="2026-01-14T17:20:09 1768411209"><a href="item?id=46618901">1 day ago</a></span> <span id="unv_46618901"></span> | <a href="item?id=46618901">918&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/">Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales</a><span class="sitebit comhead"> (<a href="from?site=electrek.co"><span class="sitestr">electrek.co</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618901">651 points</span> by <a href="user?id=MBCook" class="hnuser">MBCook</a> <span class="age" title="2026-01-14T17:20:09 1768411209"><a href="item?id=46618901">1 day ago</a></span> <span id="unv_46618901"></span> | <a href="item?id=46618901">920&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/">Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales</a><span class="sitebit comhead"> (<a href="from?site=electrek.co"><span class="sitestr">electrek.co</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iCloud Photos Downloader (github.com/icloud-photos-downloader)]]></title>
         <id>link-5c8c1a7490880b80a1bffaccbc33da26</id>
         <link href="https://news.ycombinator.com/item?id=46578921"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46578921">646 points</span> by <a href="user?id=reconnecting" class="hnuser">reconnecting</a> <span class="age" title="2026-01-11T19:23:58 1768159438"><a href="item?id=46578921">4 days ago</a></span> <span id="unv_46578921"></span> | <a href="item?id=46578921">245&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">iCloud Photos Downloader</a><span class="sitebit comhead"> (<a href="from?site=github.com/icloud-photos-downloader"><span class="sitestr">github.com/icloud-photos-downloader</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46578921">647 points</span> by <a href="user?id=reconnecting" class="hnuser">reconnecting</a> <span class="age" title="2026-01-11T19:23:58 1768159438"><a href="item?id=46578921">4 days ago</a></span> <span id="unv_46578921"></span> | <a href="item?id=46578921">245&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">iCloud Photos Downloader</a><span class="sitebit comhead"> (<a href="from?site=github.com/icloud-photos-downloader"><span class="sitestr">github.com/icloud-photos-downloader</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finding and fixing Ghostty's largest memory leak (mitchellh.com)]]></title>
@@ -185,7 +185,7 @@
         <id>link-75c41a65d2a236bec450f2501756a69a</id>
         <link href="https://news.ycombinator.com/item?id=46633378"/>
         <updated>2026-01-15T20:26:49.918Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46633378">554 points</span> by <a href="user?id=fajmccain" class="hnuser">fajmccain</a> <span class="age" title="2026-01-15T14:54:51 1768488891"><a href="item?id=46633378">6 hours ago</a></span> <span id="unv_46633378"></span> | <a href="item?id=46633378">679&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/">The Palantir app helping ICE raids in Minneapolis</a><span class="sitebit comhead"> (<a href="from?site=404media.co"><span class="sitestr">404media.co</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46633378">559 points</span> by <a href="user?id=fajmccain" class="hnuser">fajmccain</a> <span class="age" title="2026-01-15T14:54:51 1768488891"><a href="item?id=46633378">7 hours ago</a></span> <span id="unv_46633378"></span> | <a href="item?id=46633378">692&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/">The Palantir app helping ICE raids in Minneapolis</a><span class="sitebit comhead"> (<a href="from?site=404media.co"><span class="sitestr">404media.co</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postal Arbitrage (walzr.com)]]></title>
@@ -206,13 +206,13 @@
         <id>link-f7c281678a7d0ec3eff23cddb12f6939</id>
         <link href="https://news.ycombinator.com/item?id=46555807"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46555807">521 points</span> by <a href="user?id=fuck_flock" class="hnuser">fuck_flock</a> <span class="age" title="2026-01-09T16:49:59 1767977399"><a href="item?id=46555807">6 days ago</a></span> <span id="unv_46555807"></span> | <a href="item?id=46555807">175&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure">Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times</a><span class="sitebit comhead"> (<a href="from?site=nexanet.ai"><span class="sitestr">nexanet.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46555807">521 points</span> by <a href="user?id=fuck_flock" class="hnuser">fuck_flock</a> <span class="age" title="2026-01-09T16:49:59 1767977399"><a href="item?id=46555807">6 days ago</a></span> <span id="unv_46555807"></span> | <a href="item?id=46555807">176&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure">Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times</a><span class="sitebit comhead"> (<a href="from?site=nexanet.ai"><span class="sitestr">nexanet.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why some clothes shrink in the wash and how to unshrink them (swinburne.edu.au)]]></title>
         <id>link-ea5b0e142807ebdbc1ab7fa012ad1375</id>
         <link href="https://news.ycombinator.com/item?id=46572307"/>
         <updated>2026-01-15T21:39:56.117Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46572307">517 points</span> by <a href="user?id=OptionOfT" class="hnuser">OptionOfT</a> <span class="age" title="2026-01-11T02:58:36 1768100316"><a href="item?id=46572307">1 day ago</a></span> <span id="unv_46572307"></span> | <a href="item?id=46572307">273&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/">Why some clothes shrink in the wash and how to unshrink them</a><span class="sitebit comhead"> (<a href="from?site=swinburne.edu.au"><span class="sitestr">swinburne.edu.au</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46572307">519 points</span> by <a href="user?id=OptionOfT" class="hnuser">OptionOfT</a> <span class="age" title="2026-01-11T02:58:36 1768100316"><a href="item?id=46572307">1 day ago</a></span> <span id="unv_46572307"></span> | <a href="item?id=46572307">273&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/">Why some clothes shrink in the wash and how to unshrink them</a><span class="sitebit comhead"> (<a href="from?site=swinburne.edu.au"><span class="sitestr">swinburne.edu.au</span></a>)</span></span>]]></content>
     </entry>
 </feed>
