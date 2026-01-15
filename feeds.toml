@@ -169,7 +169,10 @@ waitUntil = "domcontentloaded"
 
 [opentrackers_org_posts]
 title = "OpenTrackers.org"
-url = "https://opentrackers.org/"
+url = [
+  "https://opentrackers.org/",
+  "https://opentrackers.org/page/2/"
+]
 waitForSelector = ".post-list > .post"
 entrySelector = ".post-list > .post"
 titleSelector = [".post-date", "h2"]
