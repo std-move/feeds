@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-bdda645ac7f057df8910942eaca8559a",
+			"title": "Lenovo ThinkPad P16v Gen 3 tested",
+			"link": "https://www.notebookcheck.net/Mobile-workstation-with-Nvidia-RTX-PRO-2000-Lenovo-ThinkPad-P16v-Gen-3-review.1204980.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/2/csm_thinkpad_p16v_g3_case_04_ed10f529a2.jpg\" loading=\"lazy\" alt=\"Mobile workstation with Nvidia RTX PRO 2000 - Lenovo ThinkPad P16v Gen 3 review\"></picture><div class=\"intro_featured_bar_title\">Lenovo ThinkPad P16v Gen 3 tested</div>",
+			"retrieved": 1768559108844
+		},
+		{
 			"id": "link-971917204d73763e6175b59eb2ef2780",
 			"title": "A camera champion with great staying power – Honor Magic 8 Pro review",
 			"link": "https://www.notebookcheck.net/Flagship-power-with-an-XXL-battery-Honor-Magic8-Pro-smartphone-review.1204159.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Nano-Banana-Pro-experiment-How-to-recognize-AI-with-the-naked-eye.1203358.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Frau-haelt-Banane-Fehler-im-Bild-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/4/csm_Frau-haelt-Banane-Fehler-im-Bild_0450ab24cd.jpg\" loading=\"lazy\" alt=\"Woman holding a banana: What clues to look for\"></picture><div class=\"intro_featured_bar_title\">\"Nano Banana Pro\" experiment: How to recognize AI ​​with the naked eye</div>",
 			"retrieved": 1768336006610
-		},
-		{
-			"id": "link-62c103eab5f65aae483bc4346db0205d",
-			"title": "▶ The fastest laptop 2026, the best thin & light, and new everyday notebooks!",
-			"link": "https://www.notebookcheck.net/The-fastest-laptop-2026-the-best-thin-light-and-new-everyday-notebooks.1203547.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb2716-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/c/csm_thumb2716_16fe336901.jpg\" loading=\"lazy\" alt=\"The fastest laptop 2026, the best thin &amp; light, and new everyday notebooks!\"></picture><div class=\"intro_featured_bar_title\">▶ The fastest laptop 2026, the best thin &amp; light, and new everyday notebooks!</div>",
-			"retrieved": 1768314404200
 		}
 	]
 }
