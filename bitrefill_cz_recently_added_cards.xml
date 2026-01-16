@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-01-16T18:35:18.731Z</updated>
+    <updated>2026-01-16T20:23:54.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[Aircash A-Bon Europe — €5 - €25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meta Quest Europe EU]]></title>
+        <id>link-45f3443150c6ad67592605b6f085830d</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/meta-quest-europe-eu/"/>
+        <updated>2026-01-16T20:22:31.761Z</updated>
+        <content type="html"><![CDATA[Meta Quest Europe EU — €15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ExitLag International]]></title>
         <id>link-f1c789c661d5261cd61b57b956c3464d</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/exitlag-international/"/>
@@ -95,6 +102,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/surfshark-vpn-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Surfshark VPN International — Surfshark 1M - Surfshark 2Y]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox Game Pass Ultimate EUR International]]></title>
+        <id>link-eb5ff08980928fd3077e725ec582a653</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/xbox-game-pass-ultimate-giftcard-international/"/>
+        <updated>2026-01-16T20:22:31.761Z</updated>
+        <content type="html"><![CDATA[Xbox Game Pass Ultimate EUR International — €14.99]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kinguin Games Store EUR International]]></title>
@@ -165,6 +179,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Minecraft Java International — $29.99]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Nitro USD]]></title>
+        <id>link-3b16b58e08b1cbee08b2a8185496decf</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/discord-nitro-us/"/>
+        <updated>2026-01-16T20:22:31.761Z</updated>
+        <content type="html"><![CDATA[Discord Nitro USD — $4.99 - $99.99]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
@@ -263,26 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/gocash-game-card-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[GoCash Card Multi-Game — $5 - $50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H&M]]></title>
-        <id>link-93d3cfbe9dd1eba163a8918ed3d0a2c1</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[H&amp;M — 100 CZK - 12500 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TripGift]]></title>
-        <id>link-a928540e7ad2f73f0ddbe8640da3eeee</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlystayGift]]></title>
-        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
-        <updated>2026-01-13T16:33:28.641Z</updated>
-        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
