@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-01-16T22:23:19.489Z</updated>
+    <updated>2026-01-17T01:43:57.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
-    <entry>
-        <title type="html"><![CDATA[LFA 224 — 2026-01-16 18:30:00 -0500]]></title>
-        <id>link-58dd7b373292db224c271f8d5654e41f</id>
-        <link href="https://www.tapology.com/fightcenter/events/137873-legacy-fighting-alliance-224-lfa-224"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137873-legacy-fighting-alliance-224-lfa-224">LFA 224</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-16 18:30:00 -0500">in 1 hour</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[OKTAGON 82 — 2026-01-17 11:00:00 -0500]]></title>
         <id>link-14b396075f284d983fabc9139f823fa8</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/134065-oktagon-82">OKTAGON 82</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-17 11:00:00 -0500">in 17 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-01-17 11:00:00 -0500">in 14 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136117-ksw-114">KSW 114</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-17 12:00:00 -0500">in 18 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-01-17 12:00:00 -0500">in 15 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -74,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137876-lfa-225-degli-vs-aguiar">LFA 225</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-23 20:00:00 -0500">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-01-23 20:00:00 -0500">in 6 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-01-31 08:00:00 -0500">in 2 weeks</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFC 325 — 2026-01-31 17:00:00 -0500]]></title>
+        <id>link-9e10fa8b938a6b1c16eb71cfd19d1b25</id>
+        <link href="https://www.tapology.com/fightcenter/events/136549-ufc-325-volkanovski-vs-lopes-2"/>
+        <updated>2026-01-17T01:42:50.360Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136549-ufc-325-volkanovski-vs-lopes-2">UFC 325</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-01-31 17:00:00 -0500">in 2 weeks</abbr>
 </td>]]></content>
     </entry>
 </feed>
