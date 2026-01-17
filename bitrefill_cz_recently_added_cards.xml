@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-01-17T06:33:05.771Z</updated>
+    <updated>2026-01-17T08:28:30.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -181,13 +181,6 @@
         <content type="html"><![CDATA[Minecraft Java International — $29.99]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord Nitro USD]]></title>
-        <id>link-3b16b58e08b1cbee08b2a8185496decf</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/discord-nitro-us/"/>
-        <updated>2026-01-16T20:22:31.761Z</updated>
-        <content type="html"><![CDATA[Discord Nitro USD — $4.99]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
         <id>link-0b5983c9af8853c3391b9a2a2ac6fcc6</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/g2a-international/"/>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/gocash-game-card-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[GoCash Card Multi-Game — $5 - $50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H&M]]></title>
+        <id>link-93d3cfbe9dd1eba163a8918ed3d0a2c1</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/"/>
+        <updated>2026-01-17T08:27:22.688Z</updated>
+        <content type="html"><![CDATA[H&amp;M — 100 CZK - 12500 CZK]]></content>
     </entry>
 </feed>
