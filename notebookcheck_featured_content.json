@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-1d09e7d97343d5ddf6af4c6753b2ec52",
+			"title": "Samsung Galaxy Tab A11+ 5G: Cheap and fast",
+			"link": "https://www.notebookcheck.net/Samsung-Galaxy-Tab-A11-5G-Review-High-performance-makes-this-Android-tablet-the-first-choice.1204979.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_A11_Plus/Samsung_Galaxy_Tab_A11_Plus_Test-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_A11_Plus/Samsung_Galaxy_Tab_A11_Plus_Test-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_A11_Plus/Samsung_Galaxy_Tab_A11_Plus_Test-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_A11_Plus/Samsung_Galaxy_Tab_A11_Plus_Test-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_A11_Plus/Samsung_Galaxy_Tab_A11_Plus_Test-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_A11_Plus/Samsung_Galaxy_Tab_A11_Plus_Test-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/9/csm_Samsung_Galaxy_Tab_A11_Plus_Test_8dd495a7e1.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy Tab A11 Plus in review\"></picture><div class=\"intro_featured_bar_title\">Samsung Galaxy Tab A11+ 5G: Cheap and fast</div>",
+			"retrieved": 1768624385821
+		},
+		{
 			"id": "link-7563753a579b1cb05eae06a1a23b53cf",
 			"title": "Monster projector: XXL laser projector Nebula X1 Pro review",
 			"link": "https://www.notebookcheck.net/Gigantic-laser-projector-with-impressive-sound-system-Anker-Soundcore-Nebula-X1-Pro-review.1202812.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Our-CES-2026-laptop-Wrap-Up.1204367.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/5/csm_thumb_yt_5fe66bb12a.jpg\" loading=\"lazy\" alt=\"Our CES 2026 (laptop) Wrap-Up!\"></picture><div class=\"intro_featured_bar_title\">▶ Our CES 2026 (laptop) Wrap-Up!</div>",
 			"retrieved": 1768408314838
-		},
-		{
-			"id": "link-603fec0476db6469d6e4e329f88dcf65",
-			"title": "Shooting star or flop? Acer Predator Helios Neo 16S AI review",
-			"link": "https://www.notebookcheck.net/Shooting-star-or-flop-Acer-Predator-Helios-Neo-16S-AI-gaming-laptop-review.1201655.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Predator_Helios_Neo_16S_AI_PHN16S-71-94L9/Neo16S-7-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Predator_Helios_Neo_16S_AI_PHN16S-71-94L9/Neo16S-7-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Acer/Predator_Helios_Neo_16S_AI_PHN16S-71-94L9/Neo16S-7-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Predator_Helios_Neo_16S_AI_PHN16S-71-94L9/Neo16S-7-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Acer/Predator_Helios_Neo_16S_AI_PHN16S-71-94L9/Neo16S-7-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Acer/Predator_Helios_Neo_16S_AI_PHN16S-71-94L9/Neo16S-7-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/c/csm_Neo16S-7_75fa30f458.jpg\" loading=\"lazy\" alt=\"Shooting star or flop? Acer Predator Helios Neo 16S AI gaming laptop review\"></picture><div class=\"intro_featured_bar_title\">Shooting star or flop? Acer Predator Helios Neo 16S AI review</div>",
-			"retrieved": 1768394907551
 		}
 	]
 }
