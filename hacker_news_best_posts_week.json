@@ -18,31 +18,31 @@
 			"retrieved": 1768268638661
 		},
 		{
-			"id": "link-c72a67a39539bb1196df9e4810160e4c",
-			"title": "Scott Adams has died (youtube.com)",
-			"link": "https://news.ycombinator.com/item?id=46602102",
-			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46602102\">1065 points</span> by <a href=\"user?id=ekianjo\" class=\"hnuser\">ekianjo</a> <span class=\"age\" title=\"2026-01-13T15:18:43 1768317523\"><a href=\"item?id=46602102\">4 days ago</a></span> <span id=\"unv_46602102\"></span> | <a href=\"item?id=46602102\">1783&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.youtube.com/watch?v=Rs_JrOIo3SE\">Scott Adams has died</a><span class=\"sitebit comhead\"> (<a href=\"from?site=youtube.com\"><span class=\"sitestr\">youtube.com</span></a>)</span></span>",
-			"retrieved": 1768342992948
-		},
-		{
 			"id": "link-b2a9df7fef6e287bbefc81ece715e637",
 			"title": "ASCII characters are not pixels: a deep dive into ASCII rendering (alexharri.com)",
 			"link": "https://news.ycombinator.com/item?id=46657122",
-			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46657122\">1038 points</span> by <a href=\"user?id=alexharri\" class=\"hnuser\">alexharri</a> <span class=\"age\" title=\"2026-01-17T11:15:26 1768648526\"><a href=\"item?id=46657122\">1 day ago</a></span> <span id=\"unv_46657122\"></span> | <a href=\"item?id=46657122\">119&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://alexharri.com/blog/ascii-rendering\">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class=\"sitebit comhead\"> (<a href=\"from?site=alexharri.com\"><span class=\"sitestr\">alexharri.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46657122\">1066 points</span> by <a href=\"user?id=alexharri\" class=\"hnuser\">alexharri</a> <span class=\"age\" title=\"2026-01-17T11:15:26 1768648526\"><a href=\"item?id=46657122\">1 day ago</a></span> <span id=\"unv_46657122\"></span> | <a href=\"item?id=46657122\">123&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://alexharri.com/blog/ascii-rendering\">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class=\"sitebit comhead\"> (<a href=\"from?site=alexharri.com\"><span class=\"sitestr\">alexharri.com</span></a>)</span></span>",
 			"retrieved": 1768681366013
+		},
+		{
+			"id": "link-c72a67a39539bb1196df9e4810160e4c",
+			"title": "Scott Adams has died (youtube.com)",
+			"link": "https://news.ycombinator.com/item?id=46602102",
+			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46602102\">1065 points</span> by <a href=\"user?id=ekianjo\" class=\"hnuser\">ekianjo</a> <span class=\"age\" title=\"2026-01-13T15:18:43 1768317523\"><a href=\"item?id=46602102\">4 days ago</a></span> <span id=\"unv_46602102\"></span> | <a href=\"item?id=46602102\">1784&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.youtube.com/watch?v=Rs_JrOIo3SE\">Scott Adams has died</a><span class=\"sitebit comhead\"> (<a href=\"from?site=youtube.com\"><span class=\"sitestr\">youtube.com</span></a>)</span></span>",
+			"retrieved": 1768342992948
 		},
 		{
 			"id": "link-6e8e0c73ca3b656031082d7a24fc112e",
 			"title": "Apple picks Gemini to power Siri (cnbc.com)",
 			"link": "https://news.ycombinator.com/item?id=46589675",
-			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46589675\">1034 points</span> by <a href=\"user?id=stygiansonic\" class=\"hnuser\">stygiansonic</a> <span class=\"age\" title=\"2026-01-12T15:22:21 1768231341\"><a href=\"item?id=46589675\">5 days ago</a></span> <span id=\"unv_46589675\"></span> | <a href=\"item?id=46589675\">649&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html\">Apple picks Gemini to power Siri</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cnbc.com\"><span class=\"sitestr\">cnbc.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46589675\">1035 points</span> by <a href=\"user?id=stygiansonic\" class=\"hnuser\">stygiansonic</a> <span class=\"age\" title=\"2026-01-12T15:22:21 1768231341\"><a href=\"item?id=46589675\">5 days ago</a></span> <span id=\"unv_46589675\"></span> | <a href=\"item?id=46589675\">649&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html\">Apple picks Gemini to power Siri</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cnbc.com\"><span class=\"sitestr\">cnbc.com</span></a>)</span></span>",
 			"retrieved": 1768256390510
 		},
 		{
 			"id": "link-aebcf09b5e5954c9ffb491aacbab85fe",
 			"title": "STFU (github.com/pankajtanwarbanna)",
 			"link": "https://news.ycombinator.com/item?id=46649142",
-			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46649142\">995 points</span> by <a href=\"user?id=tanelpoder\" class=\"hnuser\">tanelpoder</a> <span class=\"age\" title=\"2026-01-16T17:32:40 1768584760\"><a href=\"item?id=46649142\">1 day ago</a></span> <span id=\"unv_46649142\"></span> | <a href=\"item?id=46649142\">578&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/Pankajtanwarbanna/stfu\">STFU</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/pankajtanwarbanna\"><span class=\"sitestr\">github.com/pankajtanwarbanna</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46649142\">998 points</span> by <a href=\"user?id=tanelpoder\" class=\"hnuser\">tanelpoder</a> <span class=\"age\" title=\"2026-01-16T17:32:40 1768584760\"><a href=\"item?id=46649142\">1 day ago</a></span> <span id=\"unv_46649142\"></span> | <a href=\"item?id=46649142\">579&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/Pankajtanwarbanna/stfu\">STFU</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/pankajtanwarbanna\"><span class=\"sitestr\">github.com/pankajtanwarbanna</span></a>)</span></span>",
 			"retrieved": 1768602124262
 		},
 		{
@@ -63,14 +63,14 @@
 			"id": "link-afd90813907f22ca9f66b9c22d6aa8d4",
 			"title": "Cloudflare acquires Astro (astro.build)",
 			"link": "https://news.ycombinator.com/item?id=46646645",
-			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46646645\">927 points</span> by <a href=\"user?id=todotask2\" class=\"hnuser\">todotask2</a> <span class=\"age\" title=\"2026-01-16T14:25:54 1768573554\"><a href=\"item?id=46646645\">1 day ago</a></span> <span id=\"unv_46646645\"></span> | <a href=\"item?id=46646645\">387&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://astro.build/blog/joining-cloudflare/\">Cloudflare acquires Astro</a><span class=\"sitebit comhead\"> (<a href=\"from?site=astro.build\"><span class=\"sitestr\">astro.build</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46646645\">928 points</span> by <a href=\"user?id=todotask2\" class=\"hnuser\">todotask2</a> <span class=\"age\" title=\"2026-01-16T14:25:54 1768573554\"><a href=\"item?id=46646645\">1 day ago</a></span> <span id=\"unv_46646645\"></span> | <a href=\"item?id=46646645\">389&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://astro.build/blog/joining-cloudflare/\">Cloudflare acquires Astro</a><span class=\"sitebit comhead\"> (<a href=\"from?site=astro.build\"><span class=\"sitestr\">astro.build</span></a>)</span></span>",
 			"retrieved": 1768594951761
 		},
 		{
 			"id": "link-c52c67c2688f224b8e58c005f91a3553",
 			"title": "Ask HN: Share your personal website",
 			"link": "https://news.ycombinator.com/item?id=46618714",
-			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46618714\">924 points</span> by <a href=\"user?id=susam\" class=\"hnuser\">susam</a> <span class=\"age\" title=\"2026-01-14T17:07:42 1768410462\"><a href=\"item?id=46618714\">3 days ago</a></span> <span id=\"unv_46618714\"></span> | <a href=\"item?id=46618714\">2355&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"item?id=46618714\">Ask HN: Share your personal website</a></span>",
+			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46618714\">925 points</span> by <a href=\"user?id=susam\" class=\"hnuser\">susam</a> <span class=\"age\" title=\"2026-01-14T17:07:42 1768410462\"><a href=\"item?id=46618714\">3 days ago</a></span> <span id=\"unv_46618714\"></span> | <a href=\"item?id=46618714\">2357&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"item?id=46618714\">Ask HN: Share your personal website</a></span>",
 			"retrieved": 1768458926683
 		},
 		{
@@ -98,7 +98,7 @@
 			"id": "link-71b04b5f10d99468bec854eefd2a9b31",
 			"title": "Ask HN: How can we solve the loneliness epidemic?",
 			"link": "https://news.ycombinator.com/item?id=46635345",
-			"contents": "<span class=\"rank\">14.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46635345\">776 points</span> by <a href=\"user?id=publicdebates\" class=\"hnuser\">publicdebates</a> <span class=\"age\" title=\"2026-01-15T16:49:13 1768495753\"><a href=\"item?id=46635345\">2 days ago</a></span> <span id=\"unv_46635345\"></span> | <a href=\"item?id=46635345\">1210&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"item?id=46635345\">Ask HN: How can we solve the loneliness epidemic?</a></span>",
+			"contents": "<span class=\"rank\">14.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46635345\">776 points</span> by <a href=\"user?id=publicdebates\" class=\"hnuser\">publicdebates</a> <span class=\"age\" title=\"2026-01-15T16:49:13 1768495753\"><a href=\"item?id=46635345\">2 days ago</a></span> <span id=\"unv_46635345\"></span> | <a href=\"item?id=46635345\">1212&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"item?id=46635345\">Ask HN: How can we solve the loneliness epidemic?</a></span>",
 			"retrieved": 1768538448162
 		},
 		{
@@ -119,7 +119,7 @@
 			"id": "link-bd22ccb91d7e41f28cac6cfa0ff6ffd8",
 			"title": "Photos capture the breathtaking scale of China's wind and solar buildout (yale.edu)",
 			"link": "https://news.ycombinator.com/item?id=46630369",
-			"contents": "<span class=\"rank\">17.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46630369\">758 points</span> by <a href=\"user?id=mrtksn\" class=\"hnuser\">mrtksn</a> <span class=\"age\" title=\"2026-01-15T09:54:10 1768470850\"><a href=\"item?id=46630369\">3 days ago</a></span> <span id=\"unv_46630369\"></span> | <a href=\"item?id=46630369\">562&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://e360.yale.edu/digest/china-renewable-photo-essay\">Photos capture the breathtaking scale of China's wind and solar buildout</a><span class=\"sitebit comhead\"> (<a href=\"from?site=yale.edu\"><span class=\"sitestr\">yale.edu</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">17.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46630369\">759 points</span> by <a href=\"user?id=mrtksn\" class=\"hnuser\">mrtksn</a> <span class=\"age\" title=\"2026-01-15T09:54:10 1768470850\"><a href=\"item?id=46630369\">3 days ago</a></span> <span id=\"unv_46630369\"></span> | <a href=\"item?id=46630369\">563&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://e360.yale.edu/digest/china-renewable-photo-essay\">Photos capture the breathtaking scale of China's wind and solar buildout</a><span class=\"sitebit comhead\"> (<a href=\"from?site=yale.edu\"><span class=\"sitestr\">yale.edu</span></a>)</span></span>",
 			"retrieved": 1768528084314
 		},
 		{
@@ -133,7 +133,7 @@
 			"id": "link-dca6a11bee903c1896d065680c8fc348",
 			"title": "Floppy disks turn out to be the greatest TV remote for kids (smartere.dk)",
 			"link": "https://news.ycombinator.com/item?id=46587934",
-			"contents": "<span class=\"rank\">19.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46587934\">750 points</span> by <a href=\"user?id=mchro\" class=\"hnuser\">mchro</a> <span class=\"age\" title=\"2026-01-12T13:07:49 1768223269\"><a href=\"item?id=46587934\">5 days ago</a></span> <span id=\"unv_46587934\"></span> | <a href=\"item?id=46587934\">418&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/\">Floppy disks turn out to be the greatest TV remote for kids</a><span class=\"sitebit comhead\"> (<a href=\"from?site=smartere.dk\"><span class=\"sitestr\">smartere.dk</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">19.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46587934\">751 points</span> by <a href=\"user?id=mchro\" class=\"hnuser\">mchro</a> <span class=\"age\" title=\"2026-01-12T13:07:49 1768223269\"><a href=\"item?id=46587934\">6 days ago</a></span> <span id=\"unv_46587934\"></span> | <a href=\"item?id=46587934\">418&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/\">Floppy disks turn out to be the greatest TV remote for kids</a><span class=\"sitebit comhead\"> (<a href=\"from?site=smartere.dk\"><span class=\"sitestr\">smartere.dk</span></a>)</span></span>",
 			"retrieved": 1768268638661
 		},
 		{
@@ -147,14 +147,14 @@
 			"id": "link-aaff37fe5af6e70d20ba6f524ce0f1ac",
 			"title": "Cursor's latest “browser experiment” implied success without evidence (embedding-shapes.github.io)",
 			"link": "https://news.ycombinator.com/item?id=46646777",
-			"contents": "<span class=\"rank\">21.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46646777\">707 points</span> by <a href=\"user?id=embedding-shape\" class=\"hnuser\">embedding-shape</a> <span class=\"age\" title=\"2026-01-16T14:37:49 1768574269\"><a href=\"item?id=46646777\">1 day ago</a></span> <span id=\"unv_46646777\"></span> | <a href=\"item?id=46646777\">299&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://embedding-shapes.github.io/cursor-implied-success-without-evidence/\">Cursor's latest “browser experiment” implied success without evidence</a><span class=\"sitebit comhead\"> (<a href=\"from?site=embedding-shapes.github.io\"><span class=\"sitestr\">embedding-shapes.github.io</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">21.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46646777\">707 points</span> by <a href=\"user?id=embedding-shape\" class=\"hnuser\">embedding-shape</a> <span class=\"age\" title=\"2026-01-16T14:37:49 1768574269\"><a href=\"item?id=46646777\">1 day ago</a></span> <span id=\"unv_46646777\"></span> | <a href=\"item?id=46646777\">300&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://embedding-shapes.github.io/cursor-implied-success-without-evidence/\">Cursor's latest “browser experiment” implied success without evidence</a><span class=\"sitebit comhead\"> (<a href=\"from?site=embedding-shapes.github.io\"><span class=\"sitestr\">embedding-shapes.github.io</span></a>)</span></span>",
 			"retrieved": 1768645283590
 		},
 		{
 			"id": "link-f3616656cae7287a9a019ffc29474db6",
 			"title": "East Germany balloon escape (wikipedia.org)",
 			"link": "https://news.ycombinator.com/item?id=46648916",
-			"contents": "<span class=\"rank\">22.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46648916\">706 points</span> by <a href=\"user?id=robertvc\" class=\"hnuser\">robertvc</a> <span class=\"age\" title=\"2026-01-16T17:16:33 1768583793\"><a href=\"item?id=46648916\">1 day ago</a></span> <span id=\"unv_46648916\"></span> | <a href=\"item?id=46648916\">293&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://en.wikipedia.org/wiki/East_Germany_balloon_escape\">East Germany balloon escape</a><span class=\"sitebit comhead\"> (<a href=\"from?site=wikipedia.org\"><span class=\"sitestr\">wikipedia.org</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">22.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46648916\">706 points</span> by <a href=\"user?id=robertvc\" class=\"hnuser\">robertvc</a> <span class=\"age\" title=\"2026-01-16T17:16:33 1768583793\"><a href=\"item?id=46648916\">1 day ago</a></span> <span id=\"unv_46648916\"></span> | <a href=\"item?id=46648916\">292&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://en.wikipedia.org/wiki/East_Germany_balloon_escape\">East Germany balloon escape</a><span class=\"sitebit comhead\"> (<a href=\"from?site=wikipedia.org\"><span class=\"sitestr\">wikipedia.org</span></a>)</span></span>",
 			"retrieved": 1768653639311
 		},
 		{
@@ -182,28 +182,28 @@
 			"id": "link-791deacef26db93d8dfe331e47a22908",
 			"title": "Pocket TTS: A high quality TTS that gives your CPU a voice (kyutai.org)",
 			"link": "https://news.ycombinator.com/item?id=46628329",
-			"contents": "<span class=\"rank\">26.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46628329\">626 points</span> by <a href=\"user?id=pain_perdu\" class=\"hnuser\">pain_perdu</a> <span class=\"age\" title=\"2026-01-15T05:14:08 1768454048\"><a href=\"item?id=46628329\">2 days ago</a></span> <span id=\"unv_46628329\"></span> | <a href=\"item?id=46628329\">154&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://kyutai.org/blog/2026-01-13-pocket-tts\">Pocket TTS: A high quality TTS that gives your CPU a voice</a><span class=\"sitebit comhead\"> (<a href=\"from?site=kyutai.org\"><span class=\"sitestr\">kyutai.org</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">26.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46628329\">627 points</span> by <a href=\"user?id=pain_perdu\" class=\"hnuser\">pain_perdu</a> <span class=\"age\" title=\"2026-01-15T05:14:08 1768454048\"><a href=\"item?id=46628329\">2 days ago</a></span> <span id=\"unv_46628329\"></span> | <a href=\"item?id=46628329\">154&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://kyutai.org/blog/2026-01-13-pocket-tts\">Pocket TTS: A high quality TTS that gives your CPU a voice</a><span class=\"sitebit comhead\"> (<a href=\"from?site=kyutai.org\"><span class=\"sitestr\">kyutai.org</span></a>)</span></span>",
 			"retrieved": 1768567583434
-		},
-		{
-			"id": "link-6c384d7250d4c47df06299b535678d36",
-			"title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark (briarproject.org)",
-			"link": "https://news.ycombinator.com/item?id=46638013",
-			"contents": "<span class=\"rank\">27.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46638013\">595 points</span> by <a href=\"user?id=us321\" class=\"hnuser\">us321</a> <span class=\"age\" title=\"2026-01-15T19:38:02 1768505882\"><a href=\"item?id=46638013\">2 days ago</a></span> <span id=\"unv_46638013\"></span> | <a href=\"item?id=46638013\">362&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://briarproject.org/manual/fa/\">Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark</a><span class=\"sitebit comhead\"> (<a href=\"from?site=briarproject.org\"><span class=\"sitestr\">briarproject.org</span></a>)</span></span>",
-			"retrieved": 1768581023212
 		},
 		{
 			"id": "link-50a8fa2636779e4b284a0640a411d665",
 			"title": "If you put Apple icons in reverse it looks like someone getting good at design (mastodon.social)",
 			"link": "https://news.ycombinator.com/item?id=46663338",
-			"contents": "<span class=\"rank\">28.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46663338\">576 points</span> by <a href=\"user?id=lateforwork\" class=\"hnuser\">lateforwork</a> <span class=\"age\" title=\"2026-01-17T23:47:16 1768693636\"><a href=\"item?id=46663338\">12 hours ago</a></span> <span id=\"unv_46663338\"></span> | <a href=\"item?id=46663338\">221&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://mastodon.social/@heliographe_studio/115890819509545391\">If you put Apple icons in reverse it looks like someone getting good at design</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mastodon.social\"><span class=\"sitestr\">mastodon.social</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">27.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46663338\">624 points</span> by <a href=\"user?id=lateforwork\" class=\"hnuser\">lateforwork</a> <span class=\"age\" title=\"2026-01-17T23:47:16 1768693636\"><a href=\"item?id=46663338\">14 hours ago</a></span> <span id=\"unv_46663338\"></span> | <a href=\"item?id=46663338\">235&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://mastodon.social/@heliographe_studio/115890819509545391\">If you put Apple icons in reverse it looks like someone getting good at design</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mastodon.social\"><span class=\"sitestr\">mastodon.social</span></a>)</span></span>",
 			"retrieved": 1768740062957
+		},
+		{
+			"id": "link-6c384d7250d4c47df06299b535678d36",
+			"title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark (briarproject.org)",
+			"link": "https://news.ycombinator.com/item?id=46638013",
+			"contents": "<span class=\"rank\">28.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46638013\">596 points</span> by <a href=\"user?id=us321\" class=\"hnuser\">us321</a> <span class=\"age\" title=\"2026-01-15T19:38:02 1768505882\"><a href=\"item?id=46638013\">2 days ago</a></span> <span id=\"unv_46638013\"></span> | <a href=\"item?id=46638013\">363&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://briarproject.org/manual/fa/\">Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark</a><span class=\"sitebit comhead\"> (<a href=\"from?site=briarproject.org\"><span class=\"sitestr\">briarproject.org</span></a>)</span></span>",
+			"retrieved": 1768581023212
 		},
 		{
 			"id": "link-2c8f5c195ce393e532a6c73834d685f3",
 			"title": "25 Years of Wikipedia (wikipedia25.org)",
 			"link": "https://news.ycombinator.com/item?id=46632023",
-			"contents": "<span class=\"rank\">29.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46632023\">566 points</span> by <a href=\"user?id=easton\" class=\"hnuser\">easton</a> <span class=\"age\" title=\"2026-01-15T13:17:07 1768483027\"><a href=\"item?id=46632023\">2 days ago</a></span> <span id=\"unv_46632023\"></span> | <a href=\"item?id=46632023\">462&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://wikipedia25.org\">25 Years of Wikipedia</a><span class=\"sitebit comhead\"> (<a href=\"from?site=wikipedia25.org\"><span class=\"sitestr\">wikipedia25.org</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">29.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_46632023\">567 points</span> by <a href=\"user?id=easton\" class=\"hnuser\">easton</a> <span class=\"age\" title=\"2026-01-15T13:17:07 1768483027\"><a href=\"item?id=46632023\">3 days ago</a></span> <span id=\"unv_46632023\"></span> | <a href=\"item?id=46632023\">463&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://wikipedia25.org\">25 Years of Wikipedia</a><span class=\"sitebit comhead\"> (<a href=\"from?site=wikipedia25.org\"><span class=\"sitestr\">wikipedia25.org</span></a>)</span></span>",
 			"retrieved": 1768538448162
 		},
 		{

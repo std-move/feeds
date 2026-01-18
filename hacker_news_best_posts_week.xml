@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-18T12:42:11.071Z</updated>
+    <updated>2026-01-18T14:20:26.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -20,32 +20,32 @@
         <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46593022">1295 points</span> by <a href="user?id=adocomplete" class="hnuser">adocomplete</a> <span class="age" title="2026-01-12T19:27:19 1768246039"><a href="item?id=46593022">5 days ago</a></span> <span id="unv_46593022"></span> | <a href="item?id=46593022">564&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/cowork-research-preview">Cowork: Claude Code for the rest of your work</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scott Adams has died (youtube.com)]]></title>
-        <id>link-c72a67a39539bb1196df9e4810160e4c</id>
-        <link href="https://news.ycombinator.com/item?id=46602102"/>
-        <updated>2026-01-13T22:23:12.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46602102">1065 points</span> by <a href="user?id=ekianjo" class="hnuser">ekianjo</a> <span class="age" title="2026-01-13T15:18:43 1768317523"><a href="item?id=46602102">4 days ago</a></span> <span id="unv_46602102"></span> | <a href="item?id=46602102">1783&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.youtube.com/watch?v=Rs_JrOIo3SE">Scott Adams has died</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ASCII characters are not pixels: a deep dive into ASCII rendering (alexharri.com)]]></title>
         <id>link-b2a9df7fef6e287bbefc81ece715e637</id>
         <link href="https://news.ycombinator.com/item?id=46657122"/>
         <updated>2026-01-17T20:22:46.013Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46657122">1038 points</span> by <a href="user?id=alexharri" class="hnuser">alexharri</a> <span class="age" title="2026-01-17T11:15:26 1768648526"><a href="item?id=46657122">1 day ago</a></span> <span id="unv_46657122"></span> | <a href="item?id=46657122">119&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class="sitebit comhead"> (<a href="from?site=alexharri.com"><span class="sitestr">alexharri.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46657122">1066 points</span> by <a href="user?id=alexharri" class="hnuser">alexharri</a> <span class="age" title="2026-01-17T11:15:26 1768648526"><a href="item?id=46657122">1 day ago</a></span> <span id="unv_46657122"></span> | <a href="item?id=46657122">123&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class="sitebit comhead"> (<a href="from?site=alexharri.com"><span class="sitestr">alexharri.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scott Adams has died (youtube.com)]]></title>
+        <id>link-c72a67a39539bb1196df9e4810160e4c</id>
+        <link href="https://news.ycombinator.com/item?id=46602102"/>
+        <updated>2026-01-13T22:23:12.948Z</updated>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46602102">1065 points</span> by <a href="user?id=ekianjo" class="hnuser">ekianjo</a> <span class="age" title="2026-01-13T15:18:43 1768317523"><a href="item?id=46602102">4 days ago</a></span> <span id="unv_46602102"></span> | <a href="item?id=46602102">1784&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.youtube.com/watch?v=Rs_JrOIo3SE">Scott Adams has died</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple picks Gemini to power Siri (cnbc.com)]]></title>
         <id>link-6e8e0c73ca3b656031082d7a24fc112e</id>
         <link href="https://news.ycombinator.com/item?id=46589675"/>
         <updated>2026-01-12T22:19:50.510Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46589675">1034 points</span> by <a href="user?id=stygiansonic" class="hnuser">stygiansonic</a> <span class="age" title="2026-01-12T15:22:21 1768231341"><a href="item?id=46589675">5 days ago</a></span> <span id="unv_46589675"></span> | <a href="item?id=46589675">649&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html">Apple picks Gemini to power Siri</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46589675">1035 points</span> by <a href="user?id=stygiansonic" class="hnuser">stygiansonic</a> <span class="age" title="2026-01-12T15:22:21 1768231341"><a href="item?id=46589675">5 days ago</a></span> <span id="unv_46589675"></span> | <a href="item?id=46589675">649&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html">Apple picks Gemini to power Siri</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STFU (github.com/pankajtanwarbanna)]]></title>
         <id>link-aebcf09b5e5954c9ffb491aacbab85fe</id>
         <link href="https://news.ycombinator.com/item?id=46649142"/>
         <updated>2026-01-16T22:22:04.262Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46649142">995 points</span> by <a href="user?id=tanelpoder" class="hnuser">tanelpoder</a> <span class="age" title="2026-01-16T17:32:40 1768584760"><a href="item?id=46649142">1 day ago</a></span> <span id="unv_46649142"></span> | <a href="item?id=46649142">578&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/Pankajtanwarbanna/stfu">STFU</a><span class="sitebit comhead"> (<a href="from?site=github.com/pankajtanwarbanna"><span class="sitestr">github.com/pankajtanwarbanna</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46649142">998 points</span> by <a href="user?id=tanelpoder" class="hnuser">tanelpoder</a> <span class="age" title="2026-01-16T17:32:40 1768584760"><a href="item?id=46649142">1 day ago</a></span> <span id="unv_46649142"></span> | <a href="item?id=46649142">579&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/Pankajtanwarbanna/stfu">STFU</a><span class="sitebit comhead"> (<a href="from?site=github.com/pankajtanwarbanna"><span class="sitestr">github.com/pankajtanwarbanna</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI generated music barred from Bandcamp (reddit.com)]]></title>
@@ -66,14 +66,14 @@
         <id>link-afd90813907f22ca9f66b9c22d6aa8d4</id>
         <link href="https://news.ycombinator.com/item?id=46646645"/>
         <updated>2026-01-16T20:22:31.761Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646645">927 points</span> by <a href="user?id=todotask2" class="hnuser">todotask2</a> <span class="age" title="2026-01-16T14:25:54 1768573554"><a href="item?id=46646645">1 day ago</a></span> <span id="unv_46646645"></span> | <a href="item?id=46646645">387&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astro.build/blog/joining-cloudflare/">Cloudflare acquires Astro</a><span class="sitebit comhead"> (<a href="from?site=astro.build"><span class="sitestr">astro.build</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646645">928 points</span> by <a href="user?id=todotask2" class="hnuser">todotask2</a> <span class="age" title="2026-01-16T14:25:54 1768573554"><a href="item?id=46646645">1 day ago</a></span> <span id="unv_46646645"></span> | <a href="item?id=46646645">389&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astro.build/blog/joining-cloudflare/">Cloudflare acquires Astro</a><span class="sitebit comhead"> (<a href="from?site=astro.build"><span class="sitestr">astro.build</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: Share your personal website]]></title>
         <id>link-c52c67c2688f224b8e58c005f91a3553</id>
         <link href="https://news.ycombinator.com/item?id=46618714"/>
         <updated>2026-01-15T06:35:26.683Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618714">924 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-01-14T17:07:42 1768410462"><a href="item?id=46618714">3 days ago</a></span> <span id="unv_46618714"></span> | <a href="item?id=46618714">2355&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46618714">Ask HN: Share your personal website</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618714">925 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-01-14T17:07:42 1768410462"><a href="item?id=46618714">3 days ago</a></span> <span id="unv_46618714"></span> | <a href="item?id=46618714">2357&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46618714">Ask HN: Share your personal website</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statement from Jerome Powell (federalreserve.gov)]]></title>
@@ -101,7 +101,7 @@
         <id>link-71b04b5f10d99468bec854eefd2a9b31</id>
         <link href="https://news.ycombinator.com/item?id=46635345"/>
         <updated>2026-01-16T04:40:48.162Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46635345">776 points</span> by <a href="user?id=publicdebates" class="hnuser">publicdebates</a> <span class="age" title="2026-01-15T16:49:13 1768495753"><a href="item?id=46635345">2 days ago</a></span> <span id="unv_46635345"></span> | <a href="item?id=46635345">1210&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46635345">Ask HN: How can we solve the loneliness epidemic?</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46635345">776 points</span> by <a href="user?id=publicdebates" class="hnuser">publicdebates</a> <span class="age" title="2026-01-15T16:49:13 1768495753"><a href="item?id=46635345">2 days ago</a></span> <span id="unv_46635345"></span> | <a href="item?id=46635345">1212&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46635345">Ask HN: How can we solve the loneliness epidemic?</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CLI agents make self-hosting on a home server easier and fun (fulghum.io)]]></title>
@@ -122,7 +122,7 @@
         <id>link-bd22ccb91d7e41f28cac6cfa0ff6ffd8</id>
         <link href="https://news.ycombinator.com/item?id=46630369"/>
         <updated>2026-01-16T01:48:04.314Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46630369">758 points</span> by <a href="user?id=mrtksn" class="hnuser">mrtksn</a> <span class="age" title="2026-01-15T09:54:10 1768470850"><a href="item?id=46630369">3 days ago</a></span> <span id="unv_46630369"></span> | <a href="item?id=46630369">562&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://e360.yale.edu/digest/china-renewable-photo-essay">Photos capture the breathtaking scale of China's wind and solar buildout</a><span class="sitebit comhead"> (<a href="from?site=yale.edu"><span class="sitestr">yale.edu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46630369">759 points</span> by <a href="user?id=mrtksn" class="hnuser">mrtksn</a> <span class="age" title="2026-01-15T09:54:10 1768470850"><a href="item?id=46630369">3 days ago</a></span> <span id="unv_46630369"></span> | <a href="item?id=46630369">563&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://e360.yale.edu/digest/china-renewable-photo-essay">Photos capture the breathtaking scale of China's wind and solar buildout</a><span class="sitebit comhead"> (<a href="from?site=yale.edu"><span class="sitestr">yale.edu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[There's a ridiculous amount of tech in a disposable vape (jgc.org)]]></title>
@@ -136,7 +136,7 @@
         <id>link-dca6a11bee903c1896d065680c8fc348</id>
         <link href="https://news.ycombinator.com/item?id=46587934"/>
         <updated>2026-01-13T01:43:58.661Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46587934">750 points</span> by <a href="user?id=mchro" class="hnuser">mchro</a> <span class="age" title="2026-01-12T13:07:49 1768223269"><a href="item?id=46587934">5 days ago</a></span> <span id="unv_46587934"></span> | <a href="item?id=46587934">418&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/">Floppy disks turn out to be the greatest TV remote for kids</a><span class="sitebit comhead"> (<a href="from?site=smartere.dk"><span class="sitestr">smartere.dk</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46587934">751 points</span> by <a href="user?id=mchro" class="hnuser">mchro</a> <span class="age" title="2026-01-12T13:07:49 1768223269"><a href="item?id=46587934">6 days ago</a></span> <span id="unv_46587934"></span> | <a href="item?id=46587934">418&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/">Floppy disks turn out to be the greatest TV remote for kids</a><span class="sitebit comhead"> (<a href="from?site=smartere.dk"><span class="sitestr">smartere.dk</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TimeCapsuleLLM: LLM trained only on data from 1800-1875 (github.com/haykgrigo3)]]></title>
@@ -150,14 +150,14 @@
         <id>link-aaff37fe5af6e70d20ba6f524ce0f1ac</id>
         <link href="https://news.ycombinator.com/item?id=46646777"/>
         <updated>2026-01-17T10:21:23.590Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646777">707 points</span> by <a href="user?id=embedding-shape" class="hnuser">embedding-shape</a> <span class="age" title="2026-01-16T14:37:49 1768574269"><a href="item?id=46646777">1 day ago</a></span> <span id="unv_46646777"></span> | <a href="item?id=46646777">299&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://embedding-shapes.github.io/cursor-implied-success-without-evidence/">Cursor's latest “browser experiment” implied success without evidence</a><span class="sitebit comhead"> (<a href="from?site=embedding-shapes.github.io"><span class="sitestr">embedding-shapes.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646777">707 points</span> by <a href="user?id=embedding-shape" class="hnuser">embedding-shape</a> <span class="age" title="2026-01-16T14:37:49 1768574269"><a href="item?id=46646777">1 day ago</a></span> <span id="unv_46646777"></span> | <a href="item?id=46646777">300&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://embedding-shapes.github.io/cursor-implied-success-without-evidence/">Cursor's latest “browser experiment” implied success without evidence</a><span class="sitebit comhead"> (<a href="from?site=embedding-shapes.github.io"><span class="sitestr">embedding-shapes.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[East Germany balloon escape (wikipedia.org)]]></title>
         <id>link-f3616656cae7287a9a019ffc29474db6</id>
         <link href="https://news.ycombinator.com/item?id=46648916"/>
         <updated>2026-01-17T12:40:39.311Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46648916">706 points</span> by <a href="user?id=robertvc" class="hnuser">robertvc</a> <span class="age" title="2026-01-16T17:16:33 1768583793"><a href="item?id=46648916">1 day ago</a></span> <span id="unv_46648916"></span> | <a href="item?id=46648916">293&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://en.wikipedia.org/wiki/East_Germany_balloon_escape">East Germany balloon escape</a><span class="sitebit comhead"> (<a href="from?site=wikipedia.org"><span class="sitestr">wikipedia.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46648916">706 points</span> by <a href="user?id=robertvc" class="hnuser">robertvc</a> <span class="age" title="2026-01-16T17:16:33 1768583793"><a href="item?id=46648916">1 day ago</a></span> <span id="unv_46648916"></span> | <a href="item?id=46648916">292&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://en.wikipedia.org/wiki/East_Germany_balloon_escape">East Germany balloon escape</a><span class="sitebit comhead"> (<a href="from?site=wikipedia.org"><span class="sitestr">wikipedia.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales (electrek.co)]]></title>
@@ -185,28 +185,28 @@
         <id>link-791deacef26db93d8dfe331e47a22908</id>
         <link href="https://news.ycombinator.com/item?id=46628329"/>
         <updated>2026-01-16T12:46:23.434Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46628329">626 points</span> by <a href="user?id=pain_perdu" class="hnuser">pain_perdu</a> <span class="age" title="2026-01-15T05:14:08 1768454048"><a href="item?id=46628329">2 days ago</a></span> <span id="unv_46628329"></span> | <a href="item?id=46628329">154&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kyutai.org/blog/2026-01-13-pocket-tts">Pocket TTS: A high quality TTS that gives your CPU a voice</a><span class="sitebit comhead"> (<a href="from?site=kyutai.org"><span class="sitestr">kyutai.org</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark (briarproject.org)]]></title>
-        <id>link-6c384d7250d4c47df06299b535678d36</id>
-        <link href="https://news.ycombinator.com/item?id=46638013"/>
-        <updated>2026-01-16T16:30:23.212Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46638013">595 points</span> by <a href="user?id=us321" class="hnuser">us321</a> <span class="age" title="2026-01-15T19:38:02 1768505882"><a href="item?id=46638013">2 days ago</a></span> <span id="unv_46638013"></span> | <a href="item?id=46638013">362&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://briarproject.org/manual/fa/">Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark</a><span class="sitebit comhead"> (<a href="from?site=briarproject.org"><span class="sitestr">briarproject.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46628329">627 points</span> by <a href="user?id=pain_perdu" class="hnuser">pain_perdu</a> <span class="age" title="2026-01-15T05:14:08 1768454048"><a href="item?id=46628329">2 days ago</a></span> <span id="unv_46628329"></span> | <a href="item?id=46628329">154&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kyutai.org/blog/2026-01-13-pocket-tts">Pocket TTS: A high quality TTS that gives your CPU a voice</a><span class="sitebit comhead"> (<a href="from?site=kyutai.org"><span class="sitestr">kyutai.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[If you put Apple icons in reverse it looks like someone getting good at design (mastodon.social)]]></title>
         <id>link-50a8fa2636779e4b284a0640a411d665</id>
         <link href="https://news.ycombinator.com/item?id=46663338"/>
         <updated>2026-01-18T12:41:02.957Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46663338">576 points</span> by <a href="user?id=lateforwork" class="hnuser">lateforwork</a> <span class="age" title="2026-01-17T23:47:16 1768693636"><a href="item?id=46663338">12 hours ago</a></span> <span id="unv_46663338"></span> | <a href="item?id=46663338">221&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.social/@heliographe_studio/115890819509545391">If you put Apple icons in reverse it looks like someone getting good at design</a><span class="sitebit comhead"> (<a href="from?site=mastodon.social"><span class="sitestr">mastodon.social</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46663338">624 points</span> by <a href="user?id=lateforwork" class="hnuser">lateforwork</a> <span class="age" title="2026-01-17T23:47:16 1768693636"><a href="item?id=46663338">14 hours ago</a></span> <span id="unv_46663338"></span> | <a href="item?id=46663338">235&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.social/@heliographe_studio/115890819509545391">If you put Apple icons in reverse it looks like someone getting good at design</a><span class="sitebit comhead"> (<a href="from?site=mastodon.social"><span class="sitestr">mastodon.social</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark (briarproject.org)]]></title>
+        <id>link-6c384d7250d4c47df06299b535678d36</id>
+        <link href="https://news.ycombinator.com/item?id=46638013"/>
+        <updated>2026-01-16T16:30:23.212Z</updated>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46638013">596 points</span> by <a href="user?id=us321" class="hnuser">us321</a> <span class="age" title="2026-01-15T19:38:02 1768505882"><a href="item?id=46638013">2 days ago</a></span> <span id="unv_46638013"></span> | <a href="item?id=46638013">363&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://briarproject.org/manual/fa/">Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark</a><span class="sitebit comhead"> (<a href="from?site=briarproject.org"><span class="sitestr">briarproject.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[25 Years of Wikipedia (wikipedia25.org)]]></title>
         <id>link-2c8f5c195ce393e532a6c73834d685f3</id>
         <link href="https://news.ycombinator.com/item?id=46632023"/>
         <updated>2026-01-16T04:40:48.162Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46632023">566 points</span> by <a href="user?id=easton" class="hnuser">easton</a> <span class="age" title="2026-01-15T13:17:07 1768483027"><a href="item?id=46632023">2 days ago</a></span> <span id="unv_46632023"></span> | <a href="item?id=46632023">462&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://wikipedia25.org">25 Years of Wikipedia</a><span class="sitebit comhead"> (<a href="from?site=wikipedia25.org"><span class="sitestr">wikipedia25.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46632023">567 points</span> by <a href="user?id=easton" class="hnuser">easton</a> <span class="age" title="2026-01-15T13:17:07 1768483027"><a href="item?id=46632023">3 days ago</a></span> <span id="unv_46632023"></span> | <a href="item?id=46632023">463&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://wikipedia25.org">25 Years of Wikipedia</a><span class="sitebit comhead"> (<a href="from?site=wikipedia25.org"><span class="sitestr">wikipedia25.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postal Arbitrage (walzr.com)]]></title>
