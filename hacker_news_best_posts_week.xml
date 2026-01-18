@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-18T08:29:14.041Z</updated>
+    <updated>2026-01-18T10:23:17.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>link-482769e425b10664def69c7f61e2da2d</id>
         <link href="https://news.ycombinator.com/item?id=46574276"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574276">1289 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-01-11T10:26:18 1768127178"><a href="item?id=46574276">6 days ago</a></span> <span id="unv_46574276"></span> | <a href="item?id=46574276">1630&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirez.com/news/158">Don't fall into the anti-AI hype</a><span class="sitebit comhead"> (<a href="from?site=antirez.com"><span class="sitestr">antirez.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46574276">1290 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-01-11T10:26:18 1768127178"><a href="item?id=46574276">6 days ago</a></span> <span id="unv_46574276"></span> | <a href="item?id=46574276">1630&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirez.com/news/158">Don't fall into the anti-AI hype</a><span class="sitebit comhead"> (<a href="from?site=antirez.com"><span class="sitestr">antirez.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scott Adams has died (youtube.com)]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46589675">1034 points</span> by <a href="user?id=stygiansonic" class="hnuser">stygiansonic</a> <span class="age" title="2026-01-12T15:22:21 1768231341"><a href="item?id=46589675">5 days ago</a></span> <span id="unv_46589675"></span> | <a href="item?id=46589675">649&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html">Apple picks Gemini to power Siri</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STFU (github.com/pankajtanwarbanna)]]></title>
-        <id>link-aebcf09b5e5954c9ffb491aacbab85fe</id>
-        <link href="https://news.ycombinator.com/item?id=46649142"/>
-        <updated>2026-01-16T22:22:04.262Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46649142">989 points</span> by <a href="user?id=tanelpoder" class="hnuser">tanelpoder</a> <span class="age" title="2026-01-16T17:32:40 1768584760"><a href="item?id=46649142">1 day ago</a></span> <span id="unv_46649142"></span> | <a href="item?id=46649142">577&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/Pankajtanwarbanna/stfu">STFU</a><span class="sitebit comhead"> (<a href="from?site=github.com/pankajtanwarbanna"><span class="sitestr">github.com/pankajtanwarbanna</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ASCII characters are not pixels: a deep dive into ASCII rendering (alexharri.com)]]></title>
         <id>link-b2a9df7fef6e287bbefc81ece715e637</id>
         <link href="https://news.ycombinator.com/item?id=46657122"/>
         <updated>2026-01-17T20:22:46.013Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46657122">965 points</span> by <a href="user?id=alexharri" class="hnuser">alexharri</a> <span class="age" title="2026-01-17T11:15:26 1768648526"><a href="item?id=46657122">21 hours ago</a></span> <span id="unv_46657122"></span> | <a href="item?id=46657122">116&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class="sitebit comhead"> (<a href="from?site=alexharri.com"><span class="sitestr">alexharri.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46657122">999 points</span> by <a href="user?id=alexharri" class="hnuser">alexharri</a> <span class="age" title="2026-01-17T11:15:26 1768648526"><a href="item?id=46657122">23 hours ago</a></span> <span id="unv_46657122"></span> | <a href="item?id=46657122">117&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class="sitebit comhead"> (<a href="from?site=alexharri.com"><span class="sitestr">alexharri.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STFU (github.com/pankajtanwarbanna)]]></title>
+        <id>link-aebcf09b5e5954c9ffb491aacbab85fe</id>
+        <link href="https://news.ycombinator.com/item?id=46649142"/>
+        <updated>2026-01-16T22:22:04.262Z</updated>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46649142">993 points</span> by <a href="user?id=tanelpoder" class="hnuser">tanelpoder</a> <span class="age" title="2026-01-16T17:32:40 1768584760"><a href="item?id=46649142">1 day ago</a></span> <span id="unv_46649142"></span> | <a href="item?id=46649142">577&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/Pankajtanwarbanna/stfu">STFU</a><span class="sitebit comhead"> (<a href="from?site=github.com/pankajtanwarbanna"><span class="sitestr">github.com/pankajtanwarbanna</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI generated music barred from Bandcamp (reddit.com)]]></title>
@@ -69,32 +69,32 @@
         <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46616745">943 points</span> by <a href="user?id=echelon_musk" class="hnuser">echelon_musk</a> <span class="age" title="2026-01-14T14:57:30 1768402650"><a href="item?id=46616745">3 days ago</a></span> <span id="unv_46616745"></span> | <a href="item?id=46616745">583&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson">FBI raids Washington Post reporter's home</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cloudflare acquires Astro (astro.build)]]></title>
+        <id>link-afd90813907f22ca9f66b9c22d6aa8d4</id>
+        <link href="https://news.ycombinator.com/item?id=46646645"/>
+        <updated>2026-01-16T20:22:31.761Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646645">924 points</span> by <a href="user?id=todotask2" class="hnuser">todotask2</a> <span class="age" title="2026-01-16T14:25:54 1768573554"><a href="item?id=46646645">1 day ago</a></span> <span id="unv_46646645"></span> | <a href="item?id=46646645">387&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astro.build/blog/joining-cloudflare/">Cloudflare acquires Astro</a><span class="sitebit comhead"> (<a href="from?site=astro.build"><span class="sitestr">astro.build</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask HN: Share your personal website]]></title>
         <id>link-c52c67c2688f224b8e58c005f91a3553</id>
         <link href="https://news.ycombinator.com/item?id=46618714"/>
         <updated>2026-01-15T06:35:26.683Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618714">924 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-01-14T17:07:42 1768410462"><a href="item?id=46618714">3 days ago</a></span> <span id="unv_46618714"></span> | <a href="item?id=46618714">2351&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46618714">Ask HN: Share your personal website</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618714">924 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-01-14T17:07:42 1768410462"><a href="item?id=46618714">3 days ago</a></span> <span id="unv_46618714"></span> | <a href="item?id=46618714">2353&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46618714">Ask HN: Share your personal website</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statement from Jerome Powell (federalreserve.gov)]]></title>
         <id>link-9c6a13263310e7eb53c4eba18fbc5cad</id>
         <link href="https://news.ycombinator.com/item?id=46582420"/>
         <updated>2026-01-12T17:42:28.524Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46582420">923 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-01-12T01:02:48 1768179768"><a href="item?id=46582420">6 days ago</a></span> <span id="unv_46582420"></span> | <a href="item?id=46582420">808&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm">Statement from Jerome Powell</a><span class="sitebit comhead"> (<a href="from?site=federalreserve.gov"><span class="sitestr">federalreserve.gov</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare acquires Astro (astro.build)]]></title>
-        <id>link-afd90813907f22ca9f66b9c22d6aa8d4</id>
-        <link href="https://news.ycombinator.com/item?id=46646645"/>
-        <updated>2026-01-16T20:22:31.761Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646645">922 points</span> by <a href="user?id=todotask2" class="hnuser">todotask2</a> <span class="age" title="2026-01-16T14:25:54 1768573554"><a href="item?id=46646645">1 day ago</a></span> <span id="unv_46646645"></span> | <a href="item?id=46646645">387&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astro.build/blog/joining-cloudflare/">Cloudflare acquires Astro</a><span class="sitebit comhead"> (<a href="from?site=astro.build"><span class="sitestr">astro.build</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46582420">923 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-01-12T01:02:48 1768179768"><a href="item?id=46582420">6 days ago</a></span> <span id="unv_46582420"></span> | <a href="item?id=46582420">808&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm">Statement from Jerome Powell</a><span class="sitebit comhead"> (<a href="from?site=federalreserve.gov"><span class="sitestr">federalreserve.gov</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Cowork exfiltrates files (promptarmor.com)]]></title>
         <id>link-5f96c289cb2bbccf48269069e36a59a4</id>
         <link href="https://news.ycombinator.com/item?id=46622328"/>
         <updated>2026-01-15T03:41:49.978Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46622328">864 points</span> by <a href="user?id=takira" class="hnuser">takira</a> <span class="age" title="2026-01-14T20:12:25 1768421545"><a href="item?id=46622328">3 days ago</a></span> <span id="unv_46622328"></span> | <a href="item?id=46622328">398&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files">Claude Cowork exfiltrates files</a><span class="sitebit comhead"> (<a href="from?site=promptarmor.com"><span class="sitestr">promptarmor.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46622328">865 points</span> by <a href="user?id=takira" class="hnuser">takira</a> <span class="age" title="2026-01-14T20:12:25 1768421545"><a href="item?id=46622328">3 days ago</a></span> <span id="unv_46622328"></span> | <a href="item?id=46622328">398&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files">Claude Cowork exfiltrates files</a><span class="sitebit comhead"> (<a href="from?site=promptarmor.com"><span class="sitestr">promptarmor.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I dumped Windows 11 for Linux, and you should too (notebookcheck.net)]]></title>
@@ -115,7 +115,7 @@
         <id>link-71b04b5f10d99468bec854eefd2a9b31</id>
         <link href="https://news.ycombinator.com/item?id=46635345"/>
         <updated>2026-01-16T04:40:48.162Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46635345">774 points</span> by <a href="user?id=publicdebates" class="hnuser">publicdebates</a> <span class="age" title="2026-01-15T16:49:13 1768495753"><a href="item?id=46635345">2 days ago</a></span> <span id="unv_46635345"></span> | <a href="item?id=46635345">1207&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46635345">Ask HN: How can we solve the loneliness epidemic?</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46635345">776 points</span> by <a href="user?id=publicdebates" class="hnuser">publicdebates</a> <span class="age" title="2026-01-15T16:49:13 1768495753"><a href="item?id=46635345">2 days ago</a></span> <span id="unv_46635345"></span> | <a href="item?id=46635345">1207&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46635345">Ask HN: How can we solve the loneliness epidemic?</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CLI agents make self-hosting on a home server easier and fun (fulghum.io)]]></title>
@@ -129,14 +129,14 @@
         <id>link-3053c914a8f7fd544fe79fecfe042c6a</id>
         <link href="https://news.ycombinator.com/item?id=46633488"/>
         <updated>2026-01-16T01:48:04.314Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46633488">768 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-01-15T15:02:42 1768489362"><a href="item?id=46633488">2 days ago</a></span> <span id="unv_46633488"></span> | <a href="item?id=46633488">471&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc">Apple is fighting for TSMC capacity as Nvidia takes center stage</a><span class="sitebit comhead"> (<a href="from?site=culpium.com"><span class="sitestr">culpium.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46633488">769 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-01-15T15:02:42 1768489362"><a href="item?id=46633488">2 days ago</a></span> <span id="unv_46633488"></span> | <a href="item?id=46633488">471&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc">Apple is fighting for TSMC capacity as Nvidia takes center stage</a><span class="sitebit comhead"> (<a href="from?site=culpium.com"><span class="sitestr">culpium.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Photos capture the breathtaking scale of China's wind and solar buildout (yale.edu)]]></title>
         <id>link-bd22ccb91d7e41f28cac6cfa0ff6ffd8</id>
         <link href="https://news.ycombinator.com/item?id=46630369"/>
         <updated>2026-01-16T01:48:04.314Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46630369">757 points</span> by <a href="user?id=mrtksn" class="hnuser">mrtksn</a> <span class="age" title="2026-01-15T09:54:10 1768470850"><a href="item?id=46630369">2 days ago</a></span> <span id="unv_46630369"></span> | <a href="item?id=46630369">562&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://e360.yale.edu/digest/china-renewable-photo-essay">Photos capture the breathtaking scale of China's wind and solar buildout</a><span class="sitebit comhead"> (<a href="from?site=yale.edu"><span class="sitestr">yale.edu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46630369">757 points</span> by <a href="user?id=mrtksn" class="hnuser">mrtksn</a> <span class="age" title="2026-01-15T09:54:10 1768470850"><a href="item?id=46630369">3 days ago</a></span> <span id="unv_46630369"></span> | <a href="item?id=46630369">562&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://e360.yale.edu/digest/china-renewable-photo-essay">Photos capture the breathtaking scale of China's wind and solar buildout</a><span class="sitebit comhead"> (<a href="from?site=yale.edu"><span class="sitestr">yale.edu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[There's a ridiculous amount of tech in a disposable vape (jgc.org)]]></title>
@@ -164,14 +164,14 @@
         <id>link-aaff37fe5af6e70d20ba6f524ce0f1ac</id>
         <link href="https://news.ycombinator.com/item?id=46646777"/>
         <updated>2026-01-17T10:21:23.590Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646777">705 points</span> by <a href="user?id=embedding-shape" class="hnuser">embedding-shape</a> <span class="age" title="2026-01-16T14:37:49 1768574269"><a href="item?id=46646777">1 day ago</a></span> <span id="unv_46646777"></span> | <a href="item?id=46646777">299&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://embedding-shapes.github.io/cursor-implied-success-without-evidence/">Cursor's latest “browser experiment” implied success without evidence</a><span class="sitebit comhead"> (<a href="from?site=embedding-shapes.github.io"><span class="sitestr">embedding-shapes.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646777">707 points</span> by <a href="user?id=embedding-shape" class="hnuser">embedding-shape</a> <span class="age" title="2026-01-16T14:37:49 1768574269"><a href="item?id=46646777">1 day ago</a></span> <span id="unv_46646777"></span> | <a href="item?id=46646777">299&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://embedding-shapes.github.io/cursor-implied-success-without-evidence/">Cursor's latest “browser experiment” implied success without evidence</a><span class="sitebit comhead"> (<a href="from?site=embedding-shapes.github.io"><span class="sitestr">embedding-shapes.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[East Germany balloon escape (wikipedia.org)]]></title>
         <id>link-f3616656cae7287a9a019ffc29474db6</id>
         <link href="https://news.ycombinator.com/item?id=46648916"/>
         <updated>2026-01-17T12:40:39.311Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46648916">702 points</span> by <a href="user?id=robertvc" class="hnuser">robertvc</a> <span class="age" title="2026-01-16T17:16:33 1768583793"><a href="item?id=46648916">1 day ago</a></span> <span id="unv_46648916"></span> | <a href="item?id=46648916">291&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://en.wikipedia.org/wiki/East_Germany_balloon_escape">East Germany balloon escape</a><span class="sitebit comhead"> (<a href="from?site=wikipedia.org"><span class="sitestr">wikipedia.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46648916">704 points</span> by <a href="user?id=robertvc" class="hnuser">robertvc</a> <span class="age" title="2026-01-16T17:16:33 1768583793"><a href="item?id=46648916">1 day ago</a></span> <span id="unv_46648916"></span> | <a href="item?id=46648916">293&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://en.wikipedia.org/wiki/East_Germany_balloon_escape">East Germany balloon escape</a><span class="sitebit comhead"> (<a href="from?site=wikipedia.org"><span class="sitestr">wikipedia.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales (electrek.co)]]></title>
@@ -192,7 +192,7 @@
         <id>link-75c41a65d2a236bec450f2501756a69a</id>
         <link href="https://news.ycombinator.com/item?id=46633378"/>
         <updated>2026-01-15T20:26:49.918Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46633378">639 points</span> by <a href="user?id=fajmccain" class="hnuser">fajmccain</a> <span class="age" title="2026-01-15T14:54:51 1768488891"><a href="item?id=46633378">2 days ago</a></span> <span id="unv_46633378"></span> | <a href="item?id=46633378">847&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/">The Palantir app helping ICE raids in Minneapolis</a><span class="sitebit comhead"> (<a href="from?site=404media.co"><span class="sitestr">404media.co</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46633378">640 points</span> by <a href="user?id=fajmccain" class="hnuser">fajmccain</a> <span class="age" title="2026-01-15T14:54:51 1768488891"><a href="item?id=46633378">2 days ago</a></span> <span id="unv_46633378"></span> | <a href="item?id=46633378">848&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/">The Palantir app helping ICE raids in Minneapolis</a><span class="sitebit comhead"> (<a href="from?site=404media.co"><span class="sitestr">404media.co</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pocket TTS: A high quality TTS that gives your CPU a voice (kyutai.org)]]></title>
@@ -213,6 +213,6 @@
         <id>link-2c8f5c195ce393e532a6c73834d685f3</id>
         <link href="https://news.ycombinator.com/item?id=46632023"/>
         <updated>2026-01-16T04:40:48.162Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46632023">565 points</span> by <a href="user?id=easton" class="hnuser">easton</a> <span class="age" title="2026-01-15T13:17:07 1768483027"><a href="item?id=46632023">2 days ago</a></span> <span id="unv_46632023"></span> | <a href="item?id=46632023">460&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://wikipedia25.org">25 Years of Wikipedia</a><span class="sitebit comhead"> (<a href="from?site=wikipedia25.org"><span class="sitestr">wikipedia25.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46632023">565 points</span> by <a href="user?id=easton" class="hnuser">easton</a> <span class="age" title="2026-01-15T13:17:07 1768483027"><a href="item?id=46632023">2 days ago</a></span> <span id="unv_46632023"></span> | <a href="item?id=46632023">461&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://wikipedia25.org">25 Years of Wikipedia</a><span class="sitebit comhead"> (<a href="from?site=wikipedia25.org"><span class="sitestr">wikipedia25.org</span></a>)</span></span>]]></content>
     </entry>
 </feed>
