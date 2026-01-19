@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-19T04:54:32.933Z</updated>
+    <updated>2026-01-19T06:41:04.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-b2a9df7fef6e287bbefc81ece715e637</id>
         <link href="https://news.ycombinator.com/item?id=46657122"/>
         <updated>2026-01-17T20:22:46.013Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46657122">1209 points</span> by <a href="user?id=alexharri" class="hnuser">alexharri</a> <span class="age" title="2026-01-17T11:15:26 1768648526"><a href="item?id=46657122">1 day ago</a></span> <span id="unv_46657122"></span> | <a href="item?id=46657122">132&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class="sitebit comhead"> (<a href="from?site=alexharri.com"><span class="sitestr">alexharri.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46657122">1218 points</span> by <a href="user?id=alexharri" class="hnuser">alexharri</a> <span class="age" title="2026-01-17T11:15:26 1768648526"><a href="item?id=46657122">1 day ago</a></span> <span id="unv_46657122"></span> | <a href="item?id=46657122">131&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class="sitebit comhead"> (<a href="from?site=alexharri.com"><span class="sitestr">alexharri.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scott Adams has died (youtube.com)]]></title>
@@ -24,7 +24,7 @@
         <id>link-aebcf09b5e5954c9ffb491aacbab85fe</id>
         <link href="https://news.ycombinator.com/item?id=46649142"/>
         <updated>2026-01-16T22:22:04.262Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46649142">1011 points</span> by <a href="user?id=tanelpoder" class="hnuser">tanelpoder</a> <span class="age" title="2026-01-16T17:32:40 1768584760"><a href="item?id=46649142">2 days ago</a></span> <span id="unv_46649142"></span> | <a href="item?id=46649142">585&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/Pankajtanwarbanna/stfu">STFU</a><span class="sitebit comhead"> (<a href="from?site=github.com/pankajtanwarbanna"><span class="sitestr">github.com/pankajtanwarbanna</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46649142">1011 points</span> by <a href="user?id=tanelpoder" class="hnuser">tanelpoder</a> <span class="age" title="2026-01-16T17:32:40 1768584760"><a href="item?id=46649142">2 days ago</a></span> <span id="unv_46649142"></span> | <a href="item?id=46649142">586&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/Pankajtanwarbanna/stfu">STFU</a><span class="sitebit comhead"> (<a href="from?site=github.com/pankajtanwarbanna"><span class="sitestr">github.com/pankajtanwarbanna</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI generated music barred from Bandcamp (reddit.com)]]></title>
@@ -52,7 +52,7 @@
         <id>link-c52c67c2688f224b8e58c005f91a3553</id>
         <link href="https://news.ycombinator.com/item?id=46618714"/>
         <updated>2026-01-15T06:35:26.683Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618714">934 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-01-14T17:07:42 1768410462"><a href="item?id=46618714">4 days ago</a></span> <span id="unv_46618714"></span> | <a href="item?id=46618714">2368&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46618714">Ask HN: Share your personal website</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46618714">935 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-01-14T17:07:42 1768410462"><a href="item?id=46618714">4 days ago</a></span> <span id="unv_46618714"></span> | <a href="item?id=46618714">2369&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46618714">Ask HN: Share your personal website</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Cowork exfiltrates files (promptarmor.com)]]></title>
@@ -69,25 +69,25 @@
         <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46627652">804 points</span> by <a href="user?id=dreadsword" class="hnuser">dreadsword</a> <span class="age" title="2026-01-15T03:28:20 1768447700"><a href="item?id=46627652">4 days ago</a></span> <span id="unv_46627652"></span> | <a href="item?id=46627652">148&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://creepylink.com/">The URL shortener that makes your links look as suspicious as possible</a><span class="sitebit comhead"> (<a href="from?site=creepylink.com"><span class="sitestr">creepylink.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How can we solve the loneliness epidemic?]]></title>
-        <id>link-71b04b5f10d99468bec854eefd2a9b31</id>
-        <link href="https://news.ycombinator.com/item?id=46635345"/>
-        <updated>2026-01-16T04:40:48.162Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46635345">784 points</span> by <a href="user?id=publicdebates" class="hnuser">publicdebates</a> <span class="age" title="2026-01-15T16:49:13 1768495753"><a href="item?id=46635345">3 days ago</a></span> <span id="unv_46635345"></span> | <a href="item?id=46635345">1219&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46635345">Ask HN: How can we solve the loneliness epidemic?</a></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[If you put Apple icons in reverse it looks like someone getting good at design (mastodon.social)]]></title>
         <id>link-50a8fa2636779e4b284a0640a411d665</id>
         <link href="https://news.ycombinator.com/item?id=46663338"/>
         <updated>2026-01-18T12:41:02.957Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46663338">783 points</span> by <a href="user?id=lateforwork" class="hnuser">lateforwork</a> <span class="age" title="2026-01-17T23:47:16 1768693636"><a href="item?id=46663338">1 day ago</a></span> <span id="unv_46663338"></span> | <a href="item?id=46663338">294&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.social/@heliographe_studio/115890819509545391">If you put Apple icons in reverse it looks like someone getting good at design</a><span class="sitebit comhead"> (<a href="from?site=mastodon.social"><span class="sitestr">mastodon.social</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46663338">787 points</span> by <a href="user?id=lateforwork" class="hnuser">lateforwork</a> <span class="age" title="2026-01-17T23:47:16 1768693636"><a href="item?id=46663338">1 day ago</a></span> <span id="unv_46663338"></span> | <a href="item?id=46663338">295&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.social/@heliographe_studio/115890819509545391">If you put Apple icons in reverse it looks like someone getting good at design</a><span class="sitebit comhead"> (<a href="from?site=mastodon.social"><span class="sitestr">mastodon.social</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How can we solve the loneliness epidemic?]]></title>
+        <id>link-71b04b5f10d99468bec854eefd2a9b31</id>
+        <link href="https://news.ycombinator.com/item?id=46635345"/>
+        <updated>2026-01-16T04:40:48.162Z</updated>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46635345">785 points</span> by <a href="user?id=publicdebates" class="hnuser">publicdebates</a> <span class="age" title="2026-01-15T16:49:13 1768495753"><a href="item?id=46635345">3 days ago</a></span> <span id="unv_46635345"></span> | <a href="item?id=46635345">1220&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=46635345">Ask HN: How can we solve the loneliness epidemic?</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple is fighting for TSMC capacity as Nvidia takes center stage (culpium.com)]]></title>
         <id>link-3053c914a8f7fd544fe79fecfe042c6a</id>
         <link href="https://news.ycombinator.com/item?id=46633488"/>
         <updated>2026-01-16T01:48:04.314Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46633488">771 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-01-15T15:02:42 1768489362"><a href="item?id=46633488">3 days ago</a></span> <span id="unv_46633488"></span> | <a href="item?id=46633488">472&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc">Apple is fighting for TSMC capacity as Nvidia takes center stage</a><span class="sitebit comhead"> (<a href="from?site=culpium.com"><span class="sitestr">culpium.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46633488">772 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-01-15T15:02:42 1768489362"><a href="item?id=46633488">3 days ago</a></span> <span id="unv_46633488"></span> | <a href="item?id=46633488">472&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc">Apple is fighting for TSMC capacity as Nvidia takes center stage</a><span class="sitebit comhead"> (<a href="from?site=culpium.com"><span class="sitestr">culpium.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Photos capture the breathtaking scale of China's wind and solar buildout (yale.edu)]]></title>
@@ -101,7 +101,7 @@
         <id>link-85d8115d99e55480c44808bf5b707fff</id>
         <link href="https://news.ycombinator.com/item?id=46664755"/>
         <updated>2026-01-18T20:23:46.646Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46664755">743 points</span> by <a href="user?id=OuterVale" class="hnuser">OuterVale</a> <span class="age" title="2026-01-18T04:23:28 1768710208"><a href="item?id=46664755">1 day ago</a></span> <span id="unv_46664755"></span> | <a href="item?id=46664755">248&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.jquery.com/2026/01/17/jquery-4-0-0/">jQuery 4</a><span class="sitebit comhead"> (<a href="from?site=jquery.com"><span class="sitestr">jquery.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46664755">749 points</span> by <a href="user?id=OuterVale" class="hnuser">OuterVale</a> <span class="age" title="2026-01-18T04:23:28 1768710208"><a href="item?id=46664755">1 day ago</a></span> <span id="unv_46664755"></span> | <a href="item?id=46664755">250&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.jquery.com/2026/01/17/jquery-4-0-0/">jQuery 4</a><span class="sitebit comhead"> (<a href="from?site=jquery.com"><span class="sitestr">jquery.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[East Germany balloon escape (wikipedia.org)]]></title>
@@ -115,7 +115,7 @@
         <id>link-aaff37fe5af6e70d20ba6f524ce0f1ac</id>
         <link href="https://news.ycombinator.com/item?id=46646777"/>
         <updated>2026-01-17T10:21:23.590Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646777">709 points</span> by <a href="user?id=embedding-shape" class="hnuser">embedding-shape</a> <span class="age" title="2026-01-16T14:37:49 1768574269"><a href="item?id=46646777">2 days ago</a></span> <span id="unv_46646777"></span> | <a href="item?id=46646777">304&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://embedding-shapes.github.io/cursor-implied-success-without-evidence/">Cursor's latest “browser experiment” implied success without evidence</a><span class="sitebit comhead"> (<a href="from?site=embedding-shapes.github.io"><span class="sitestr">embedding-shapes.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646777">710 points</span> by <a href="user?id=embedding-shape" class="hnuser">embedding-shape</a> <span class="age" title="2026-01-16T14:37:49 1768574269"><a href="item?id=46646777">2 days ago</a></span> <span id="unv_46646777"></span> | <a href="item?id=46646777">304&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://embedding-shapes.github.io/cursor-implied-success-without-evidence/">Cursor's latest “browser experiment” implied success without evidence</a><span class="sitebit comhead"> (<a href="from?site=embedding-shapes.github.io"><span class="sitestr">embedding-shapes.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales (electrek.co)]]></title>
@@ -150,7 +150,7 @@
         <id>link-80d7ca1658a0606b3dfb7d687dd3e166</id>
         <link href="https://news.ycombinator.com/item?id=46658345"/>
         <updated>2026-01-18T18:29:05.922Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46658345">596 points</span> by <a href="user?id=glimshe" class="hnuser">glimshe</a> <span class="age" title="2026-01-17T14:31:33 1768660293"><a href="item?id=46658345">1 day ago</a></span> <span id="unv_46658345"></span> | <a href="item?id=46658345">489&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html">The recurring dream of replacing developers</a><span class="sitebit comhead"> (<a href="from?site=caimito.net"><span class="sitestr">caimito.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46658345">597 points</span> by <a href="user?id=glimshe" class="hnuser">glimshe</a> <span class="age" title="2026-01-17T14:31:33 1768660293"><a href="item?id=46658345">1 day ago</a></span> <span id="unv_46658345"></span> | <a href="item?id=46658345">490&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html">The recurring dream of replacing developers</a><span class="sitebit comhead"> (<a href="from?site=caimito.net"><span class="sitestr">caimito.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[25 Years of Wikipedia (wikipedia25.org)]]></title>
@@ -160,39 +160,39 @@
         <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46632023">568 points</span> by <a href="user?id=easton" class="hnuser">easton</a> <span class="age" title="2026-01-15T13:17:07 1768483027"><a href="item?id=46632023">3 days ago</a></span> <span id="unv_46632023"></span> | <a href="item?id=46632023">466&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://wikipedia25.org">25 Years of Wikipedia</a><span class="sitebit comhead"> (<a href="from?site=wikipedia25.org"><span class="sitestr">wikipedia25.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Just the Browser (justthebrowser.com)]]></title>
-        <id>link-d5ad093a46b1cb82e2dd7b0f9712e042</id>
-        <link href="https://news.ycombinator.com/item?id=46645615"/>
-        <updated>2026-01-18T22:20:22.321Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46645615">554 points</span> by <a href="user?id=cl3misch" class="hnuser">cl3misch</a> <span class="age" title="2026-01-16T12:03:52 1768565032"><a href="item?id=46645615">2 days ago</a></span> <span id="unv_46645615"></span> | <a href="item?id=46645615">253&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://justthebrowser.com/">Just the Browser</a><span class="sitebit comhead"> (<a href="from?site=justthebrowser.com"><span class="sitestr">justthebrowser.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gaussian Splatting – A$AP Rocky "Helicopter" music video (radiancefields.com)]]></title>
         <id>link-58143c53958649432590998c727b50eb</id>
         <link href="https://news.ycombinator.com/item?id=46670024"/>
         <updated>2026-01-19T03:51:23.202Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46670024">523 points</span> by <a href="user?id=ChrisArchitect" class="hnuser">ChrisArchitect</a> <span class="age" title="2026-01-18T17:40:55 1768758055"><a href="item?id=46670024">11 hours ago</a></span> <span id="unv_46670024"></span> | <a href="item?id=46670024">167&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting">Gaussian Splatting – A$AP Rocky "Helicopter" music video</a><span class="sitebit comhead"> (<a href="from?site=radiancefields.com"><span class="sitestr">radiancefields.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46670024">559 points</span> by <a href="user?id=ChrisArchitect" class="hnuser">ChrisArchitect</a> <span class="age" title="2026-01-18T17:40:55 1768758055"><a href="item?id=46670024">12 hours ago</a></span> <span id="unv_46670024"></span> | <a href="item?id=46670024">176&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting">Gaussian Splatting – A$AP Rocky "Helicopter" music video</a><span class="sitebit comhead"> (<a href="from?site=radiancefields.com"><span class="sitestr">radiancefields.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just the Browser (justthebrowser.com)]]></title>
+        <id>link-d5ad093a46b1cb82e2dd7b0f9712e042</id>
+        <link href="https://news.ycombinator.com/item?id=46645615"/>
+        <updated>2026-01-18T22:20:22.321Z</updated>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46645615">554 points</span> by <a href="user?id=cl3misch" class="hnuser">cl3misch</a> <span class="age" title="2026-01-16T12:03:52 1768565032"><a href="item?id=46645615">2 days ago</a></span> <span id="unv_46645615"></span> | <a href="item?id=46645615">253&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://justthebrowser.com/">Just the Browser</a><span class="sitebit comhead"> (<a href="from?site=justthebrowser.com"><span class="sitestr">justthebrowser.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Dilbert Afterlife (astralcodexten.com)]]></title>
         <id>link-bbfcbf00a6d730e0427251cae17643be</id>
         <link href="https://news.ycombinator.com/item?id=46646475"/>
         <updated>2026-01-18T22:20:22.321Z</updated>
-        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646475">522 points</span> by <a href="user?id=rendall" class="hnuser">rendall</a> <span class="age" title="2026-01-16T14:09:32 1768572572"><a href="item?id=46646475">1 day ago</a></span> <span id="unv_46646475"></span> | <a href="item?id=46646475">367&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.astralcodexten.com/p/the-dilbert-afterlife">The Dilbert Afterlife</a><span class="sitebit comhead"> (<a href="from?site=astralcodexten.com"><span class="sitestr">astralcodexten.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iconify: Library of Open Source Icons (iconify.design)]]></title>
-        <id>link-2af8b93b1fdd3d92bd6495a14444a6ff</id>
-        <link href="https://news.ycombinator.com/item?id=46665411"/>
-        <updated>2026-01-18T22:20:22.321Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46665411">517 points</span> by <a href="user?id=sea-gold" class="hnuser">sea-gold</a> <span class="age" title="2026-01-18T06:53:36 1768719216"><a href="item?id=46665411">22 hours ago</a></span> <span id="unv_46665411"></span> | <a href="item?id=46665411">59&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://icon-sets.iconify.design/">Iconify: Library of Open Source Icons</a><span class="sitebit comhead"> (<a href="from?site=iconify.design"><span class="sitestr">iconify.design</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46646475">524 points</span> by <a href="user?id=rendall" class="hnuser">rendall</a> <span class="age" title="2026-01-16T14:09:32 1768572572"><a href="item?id=46646475">1 day ago</a></span> <span id="unv_46646475"></span> | <a href="item?id=46646475">366&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.astralcodexten.com/p/the-dilbert-afterlife">The Dilbert Afterlife</a><span class="sitebit comhead"> (<a href="from?site=astralcodexten.com"><span class="sitestr">astralcodexten.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Predicting OpenAI's ad strategy (ossa-ma.github.io)]]></title>
         <id>link-62be140d68303112a14347a58a83af90</id>
         <link href="https://news.ycombinator.com/item?id=46668021"/>
         <updated>2026-01-19T01:52:49.215Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46668021">511 points</span> by <a href="user?id=calcifer" class="hnuser">calcifer</a> <span class="age" title="2026-01-18T14:25:49 1768746349"><a href="item?id=46668021">14 hours ago</a></span> <span id="unv_46668021"></span> | <a href="item?id=46668021">446&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ossa-ma.github.io/blog/openads">Predicting OpenAI's ad strategy</a><span class="sitebit comhead"> (<a href="from?site=ossa-ma.github.io"><span class="sitestr">ossa-ma.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46668021">522 points</span> by <a href="user?id=calcifer" class="hnuser">calcifer</a> <span class="age" title="2026-01-18T14:25:49 1768746349"><a href="item?id=46668021">16 hours ago</a></span> <span id="unv_46668021"></span> | <a href="item?id=46668021">457&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ossa-ma.github.io/blog/openads">Predicting OpenAI's ad strategy</a><span class="sitebit comhead"> (<a href="from?site=ossa-ma.github.io"><span class="sitestr">ossa-ma.github.io</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iconify: Library of Open Source Icons (iconify.design)]]></title>
+        <id>link-2af8b93b1fdd3d92bd6495a14444a6ff</id>
+        <link href="https://news.ycombinator.com/item?id=46665411"/>
+        <updated>2026-01-18T22:20:22.321Z</updated>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46665411">521 points</span> by <a href="user?id=sea-gold" class="hnuser">sea-gold</a> <span class="age" title="2026-01-18T06:53:36 1768719216"><a href="item?id=46665411">23 hours ago</a></span> <span id="unv_46665411"></span> | <a href="item?id=46665411">59&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://icon-sets.iconify.design/">Iconify: Library of Open Source Icons</a><span class="sitebit comhead"> (<a href="from?site=iconify.design"><span class="sitestr">iconify.design</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SparkFun Officially Dropping AdaFruit due to CoC Violation (sparkfun.com)]]></title>
@@ -206,7 +206,7 @@
         <id>link-d1800776929feb0bcc2beb9c80e30a08</id>
         <link href="https://news.ycombinator.com/item?id=46647491"/>
         <updated>2026-01-18T22:20:22.321Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46647491">502 points</span> by <a href="user?id=jaas" class="hnuser">jaas</a> <span class="age" title="2026-01-16T15:37:19 1768577839"><a href="item?id=46647491">2 days ago</a></span> <span id="unv_46647491"></span> | <a href="item?id=46647491">277&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability">6-Day and IP Address Certificates Are Generally Available</a><span class="sitebit comhead"> (<a href="from?site=letsencrypt.org"><span class="sitestr">letsencrypt.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46647491">502 points</span> by <a href="user?id=jaas" class="hnuser">jaas</a> <span class="age" title="2026-01-16T15:37:19 1768577839"><a href="item?id=46647491">2 days ago</a></span> <span id="unv_46647491"></span> | <a href="item?id=46647491">275&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability">6-Day and IP Address Certificates Are Generally Available</a><span class="sitebit comhead"> (<a href="from?site=letsencrypt.org"><span class="sitestr">letsencrypt.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I hate GitHub Actions with passion (xlii.space)]]></title>
