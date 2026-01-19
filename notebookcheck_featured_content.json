@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-4ded1a2d3da95a58665514f3cfa48a93",
+			"title": "Smartphone with exceptional durability – Honor Magic8 Lite review",
+			"link": "https://www.notebookcheck.net/Rugged-does-not-have-to-mean-a-brick-Honor-Magic8-Lite-review.1206677.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/9/csm_Outdoor_Honor_Magic8_Lite_3fd37d5f96.jpg\" loading=\"lazy\" alt=\"Rugged does not have to mean a brick – Honor Magic8 Lite review\"></picture><div class=\"intro_featured_bar_title\">Smartphone with exceptional durability – Honor Magic8 Lite review</div>",
+			"retrieved": 1768832907381
+		},
+		{
 			"id": "link-5d6b85ca01a355fdd5e8e4f15618c0d7",
 			"title": "Geekom A7 Max review: Good basis, but performance not fully utilized",
 			"link": "https://www.notebookcheck.net/Geekom-A7-Max-Mini-PC-review-Elegant-all-rounder-with-Ryzen-9-7940HS-and-wasted-performance.1205793.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Is-AMD-the-new-old-Intel-AMD-Laptops-CES-2026.1205204.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb59-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/8/csm_thumb59_ba65e6fd4e.jpg\" loading=\"lazy\" alt=\"Is AMD the new, old Intel? - AMD Laptops @CES 2026\"></picture><div class=\"intro_featured_bar_title\">▶ Is AMD the new, old Intel? - AMD Laptops @CES 2026</div>",
 			"retrieved": 1768487155639
-		},
-		{
-			"id": "link-9abf3c499d33bc16764bc6a934c7e68b",
-			"title": "A major win for AMD",
-			"link": "https://www.notebookcheck.net/Finally-embracing-AMD-for-the-pro-series-Dell-Pro-14-Plus-PB14255-laptop-review.1179867.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Dell_Pro_14_Plus_AMD/Dell_Pro14PlusAMD_teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Dell_Pro_14_Plus_AMD/Dell_Pro14PlusAMD_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/Dell_Pro_14_Plus_AMD/Dell_Pro14PlusAMD_teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Dell_Pro_14_Plus_AMD/Dell_Pro14PlusAMD_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/Dell_Pro_14_Plus_AMD/Dell_Pro14PlusAMD_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/Dell_Pro_14_Plus_AMD/Dell_Pro14PlusAMD_teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/b/csm_Dell_Pro14PlusAMD_teaser_da47f3f260.jpg\" loading=\"lazy\" alt=\"Finally embracing AMD for the pro-series: Dell Pro 14 Plus PB14255 laptop review\"></picture><div class=\"intro_featured_bar_title\">A major win for AMD</div>",
-			"retrieved": 1768448509978
 		}
 	]
 }
