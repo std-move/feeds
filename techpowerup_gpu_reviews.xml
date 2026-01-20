@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.techpowerup.com/review/?category=Graphics+Cards&amp;manufacturer=&amp;pp=25&amp;order=date</id>
     <title>TechPowerUp.com GPU reviews</title>
-    <updated>2026-01-20T14:33:10.114Z</updated>
+    <updated>2026-01-20T16:38:22.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.techpowerup.com/review/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MSI GeForce RTX 5070 Ti Ventus 3X PZ Review - Well-Hidden 16-Pin Power]]></title>
+        <id>link-05b4c00deecf92eda33e8e849252d74f</id>
+        <link href="https://www.techpowerup.com/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/"/>
+        <updated>2026-01-20T16:36:56.261Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/">MSI GeForce RTX 5070 Ti Ventus 3X PZ Review - Well-Hidden 16-Pin Power</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/">
+			<img alt="MSI GeForce RTX 5070 Ti Ventus 3X PZ" width="100" height="100" loading="lazy" src="/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/images/small@1x.png" srcset="/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/images/small@1x.png 100w, /review/msi-geforce-rtx-5070-ti-ventus-3x-pz/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The MSI RTX 5070 Ti Ventus PZ moves the 16-pin power connector to the back of the card, where it's neatly hidden under a magnetically attached metal cover. The card's thermal performance is noticeably improved compared to the original Ventus as well, achieving much better noise levels.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2026-01-20T15:09:00+00:00">Jan 20th, 2026</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Graphics Cards</div>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD FSR 4 Redstone Review]]></title>
         <id>link-73f5a08a1acdac593f513829cb13ade6</id>
@@ -624,32 +650,6 @@
 
 	<div class="meta">
 		<div class="date"><span>Posted:</span><time datetime="2025-04-28T15:56:00+00:00">Apr 28th, 2025</time></div>
-		<div class="author"><span>Author:</span>W1zzard</div>
-
-				<div class="category"><span>In:</span>Graphics Cards</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA GeForce RTX 5060 Ti 8 GB Review - So Many Compromises]]></title>
-        <id>link-34f896239f8a90d8066b9f0053f52007</id>
-        <link href="https://www.techpowerup.com/review/gainward-geforce-rtx-5060-ti-8-gb/"/>
-        <updated>2026-01-12T17:03:08.221Z</updated>
-        <content type="html"><![CDATA[<div class="title">
-		<a href="/review/gainward-geforce-rtx-5060-ti-8-gb/">NVIDIA GeForce RTX 5060 Ti 8 GB Review - So Many Compromises</a>
-	</div>
-
-	<div class="photo">
-		<a href="/review/gainward-geforce-rtx-5060-ti-8-gb/">
-			<img alt="NVIDIA GeForce RTX 5060 Ti 8 GB" width="100" height="100" loading="lazy" src="/review/gainward-geforce-rtx-5060-ti-8-gb/images/small@1x.png" srcset="/review/gainward-geforce-rtx-5060-ti-8-gb/images/small@1x.png 100w, /review/gainward-geforce-rtx-5060-ti-8-gb/images/small.png 256w">
-		</a>
-	</div>
-
-	<div class="teaser">
-		We review NVIDIA's GeForce RTX 5060 Ti 8 GB, the card that NVIDIA doesn't want tested. Especially in VRAM-heavy titles the performance drops, but many games are running fine, especially if you focus on 1080p, and disable ray tracing. But is that the way it's meant to be played in 2025?
-	</div>
-
-	<div class="meta">
-		<div class="date"><span>Posted:</span><time datetime="2025-04-22T19:15:00+00:00">Apr 22nd, 2025</time></div>
 		<div class="author"><span>Author:</span>W1zzard</div>
 
 				<div class="category"><span>In:</span>Graphics Cards</div>

@@ -4,6 +4,13 @@
 	"favicon": "https://www.techpowerup.com/review/favicon.ico",
 	"elements": [
 		{
+			"id": "link-05b4c00deecf92eda33e8e849252d74f",
+			"title": "MSI GeForce RTX 5070 Ti Ventus 3X PZ Review - Well-Hidden 16-Pin Power",
+			"link": "https://www.techpowerup.com/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/",
+			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/\">MSI GeForce RTX 5070 Ti Ventus 3X PZ Review - Well-Hidden 16-Pin Power</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/\">\n\t\t\t<img alt=\"MSI GeForce RTX 5070 Ti Ventus 3X PZ\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/images/small@1x.png\" srcset=\"/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/images/small@1x.png 100w, /review/msi-geforce-rtx-5070-ti-ventus-3x-pz/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe MSI RTX 5070 Ti Ventus PZ moves the 16-pin power connector to the back of the card, where it's neatly hidden under a magnetically attached metal cover. The card's thermal performance is noticeably improved compared to the original Ventus as well, achieving much better noise levels.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2026-01-20T15:09:00+00:00\">Jan 20th, 2026</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
+			"retrieved": 1768927016261
+		},
+		{
 			"id": "link-73f5a08a1acdac593f513829cb13ade6",
 			"title": "AMD FSR 4 Redstone Review",
 			"link": "https://www.techpowerup.com/review/amd-fsr-4-redstone/",
@@ -169,13 +176,6 @@
 			"title": "ASUS GeForce RTX 5090 Astral Liquid OC Review - The Most Expensive GPU I've Ever Tested",
 			"link": "https://www.techpowerup.com/review/asus-geforce-rtx-5090-astral-liquid-oc/",
 			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/asus-geforce-rtx-5090-astral-liquid-oc/\">ASUS GeForce RTX 5090 Astral Liquid OC Review - The Most Expensive GPU I've Ever Tested</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/asus-geforce-rtx-5090-astral-liquid-oc/\">\n\t\t\t<img alt=\"ASUS GeForce RTX 5090 Astral Liquid OC\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/asus-geforce-rtx-5090-astral-liquid-oc/images/small@1x.png\" srcset=\"/review/asus-geforce-rtx-5090-astral-liquid-oc/images/small@1x.png 100w, /review/asus-geforce-rtx-5090-astral-liquid-oc/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe $3400 ASUS GeForce RTX 5090 Astral Liquid OC is the company's flagship RTX 5090 model. It uses a 360 mm liquid cooling solution to handle the 600 W heat output of the RTX 5090 GPU. Testing in our review confirms: it's the fastest RTX 5090, with lowest temps and best thermals, but also with the highest price.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2025-04-28T15:56:00+00:00\">Apr 28th, 2025</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
-			"retrieved": 1768237388221
-		},
-		{
-			"id": "link-34f896239f8a90d8066b9f0053f52007",
-			"title": "NVIDIA GeForce RTX 5060 Ti 8 GB Review - So Many Compromises",
-			"link": "https://www.techpowerup.com/review/gainward-geforce-rtx-5060-ti-8-gb/",
-			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/gainward-geforce-rtx-5060-ti-8-gb/\">NVIDIA GeForce RTX 5060 Ti 8 GB Review - So Many Compromises</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/gainward-geforce-rtx-5060-ti-8-gb/\">\n\t\t\t<img alt=\"NVIDIA GeForce RTX 5060 Ti 8 GB\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/gainward-geforce-rtx-5060-ti-8-gb/images/small@1x.png\" srcset=\"/review/gainward-geforce-rtx-5060-ti-8-gb/images/small@1x.png 100w, /review/gainward-geforce-rtx-5060-ti-8-gb/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tWe review NVIDIA's GeForce RTX 5060 Ti 8 GB, the card that NVIDIA doesn't want tested. Especially in VRAM-heavy titles the performance drops, but many games are running fine, especially if you focus on 1080p, and disable ray tracing. But is that the way it's meant to be played in 2025?\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2025-04-22T19:15:00+00:00\">Apr 22nd, 2025</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
 			"retrieved": 1768237388221
 		}
 	]
