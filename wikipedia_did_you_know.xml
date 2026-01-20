@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-20T06:38:56.758Z</updated>
+    <updated>2026-01-20T08:34:47.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>link-33ffe7a5e41047f937fe872f7e88ffae</id>
         <link href="https://en.wikipedia.org/wiki/Michele_Singer_Reiner"/>
         <updated>2026-01-20T01:47:52.701Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Michele_Singer_Reiner" title="Michele Singer Reiner">Michele Singer Reiner</a></b> shot Donald Trump for his first book?]]></content>
+        <content type="html"><![CDATA[... that photographer <b><a href="/wiki/Michele_Singer_Reiner" title="Michele Singer Reiner">Michele Singer Reiner</a></b> shot Donald Trump for his first book?]]></content>
     </entry>
 </feed>
