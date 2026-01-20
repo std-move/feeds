@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-01-20T20:44:21.763Z</updated>
+    <updated>2026-01-20T22:25:05.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://www.notebookcheck.net/DLSS-4-5-image-quality-and-performance-analysis-2nd-gen-Transformer-brings-improved-visual-fidelity-with-hidden-performance-penalty.1194908.0.html"/>
         <updated>2026-01-20T10:29:16.525Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/7/csm_geforce-dlss4.5_transformer_comparison_6ecca041bd.jpg" loading="lazy" alt="Nvidia DLSS 4.5 further refines DLSS 4's already improved image quality. (Image Source: Nvidia)"></picture><div class="intro_featured_bar_title">DLSS 4.5 analysis: Better pixels with an fps trade-off</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kindle: Jailbreaking and installing apps how-to]]></title>
-        <id>link-95a9d39e17d078855879c054c2a75715</id>
-        <link href="https://www.notebookcheck.net/A-guide-to-jailbreaking-and-installing-Kindle-apps.1207399.0.html"/>
-        <updated>2026-01-20T12:52:11.943Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/JBKindleTeaser-19-1-26-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/JBKindleTeaser-19-1-26-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/JBKindleTeaser-19-1-26-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/JBKindleTeaser-19-1-26-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/JBKindleTeaser-19-1-26-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/JBKindleTeaser-19-1-26-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/5/csm_JBKindleTeaser-19-1-26_37587193ab.jpg" loading="lazy" alt="Far from practical, but still fun. There is a lot you can do with a jailbroken Kindle (Image Source: Notebookcheck)"></picture><div class="intro_featured_bar_title">Amazon Kindle: Jailbreaking and installing apps how-to</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Smartphone with exceptional durability – Honor Magic8 Lite review]]></title>
@@ -53,5 +46,12 @@
         <link href="https://www.notebookcheck.net/Gigantic-laser-projector-with-impressive-sound-system-Anker-Soundcore-Nebula-X1-Pro-review.1202812.0.html"/>
         <updated>2026-01-16T16:30:23.212Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Soundcore-Nebula-X1-Pro-Test31-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Soundcore-Nebula-X1-Pro-Test31-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Soundcore-Nebula-X1-Pro-Test31-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Soundcore-Nebula-X1-Pro-Test31-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Soundcore-Nebula-X1-Pro-Test31-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Soundcore-Nebula-X1-Pro-Test31-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/4/csm_Soundcore-Nebula-X1-Pro-Test31_92e571fbfa.jpg" loading="lazy" alt="Anker Nebula X1 Pro review"></picture><div class="intro_featured_bar_title">Monster projector: XXL laser projector Nebula X1 Pro review</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo ThinkPad P16v Gen 3 tested]]></title>
+        <id>link-bdda645ac7f057df8910942eaca8559a</id>
+        <link href="https://www.notebookcheck.net/Mobile-workstation-with-Nvidia-RTX-PRO-2000-Lenovo-ThinkPad-P16v-Gen-3-review.1204980.0.html"/>
+        <updated>2026-01-20T22:23:54.217Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16v_G3_21RS000DGE/thinkpad_p16v_g3_case_04-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/2/csm_thinkpad_p16v_g3_case_04_ed10f529a2.jpg" loading="lazy" alt="Mobile workstation with Nvidia RTX PRO 2000 - Lenovo ThinkPad P16v Gen 3 review"></picture><div class="intro_featured_bar_title">Lenovo ThinkPad P16v Gen 3 tested</div>]]></content>
     </entry>
 </feed>
