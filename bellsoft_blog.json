@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/favicon.ico",
 	"elements": [
 		{
+			"id": "link-86517abe42aa8031bb8c0123a4b5c439",
+			"title": "BellSoft 2025 Recap",
+			"link": "https://bell-sw.com/blog/growing-stronger-how-bellsoft-and-our-community-shaped-2025/",
+			"contents": "2025 was a year of growth, collaboration, and communication. This was a year marked not just by technical milestones, but by the deepening relationships with our community, the exceptional work of everyone at BellSoft, and the collaborative spirit of our partners. To our team, our partners, and everyone in the Java community who has been part of this journey: thank you. Your expertise, feedback, and collaboration have been the foundation of everything we've achieved this year.",
+			"retrieved": 1769020994758
+		},
+		{
 			"id": "link-38e42cf00b4a11fcb1fa8f1cbe1c5299",
 			"title": "BellSoft Releases Alpaquita Linux 25 LTS",
 			"link": "https://bell-sw.com/blog/bellsoft-releases-alpaquita-linux-25-lts/",
@@ -155,13 +162,6 @@
 			"title": "How to Contribute to OpenJDK",
 			"link": "https://bell-sw.com/blog/how-to-contribute-to-openjdk/",
 			"contents": "Learn about ways of contributing to OpenJDK and the process of integrating changes to the API.",
-			"retrieved": 1767777625776
-		},
-		{
-			"id": "link-2fa375fd67827f3aadb21c5132f2c847",
-			"title": "Liberica JDK 24 is Released",
-			"link": "https://bell-sw.com/blog/liberica-jdk-24-is-released/",
-			"contents": "Find out about the improvements in JDK 24 and downloads the new builds",
 			"retrieved": 1767777625776
 		}
 	]

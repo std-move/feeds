@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-01-21T16:51:18.687Z</updated>
+    <updated>2026-01-21T18:44:23.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teclast/T60_Pro/Teclast_T60_Pro_Test_3-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teclast/T60_Pro/Teclast_T60_Pro_Test_3-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Teclast/T60_Pro/Teclast_T60_Pro_Test_3-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teclast/T60_Pro/Teclast_T60_Pro_Test_3-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Teclast/T60_Pro/Teclast_T60_Pro_Test_3-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Teclast/T60_Pro/Teclast_T60_Pro_Test_3-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/1/csm_Teclast_T60_Pro_Test_3_72b79776f2.jpg" loading="lazy" alt="Teclast T60 Pro testing"></picture><div class="intro_featured_bar_title">Pen, LTE, satellite positioning: Teclast T60 Pro review</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New community-made Sonic game levels impress]]></title>
-        <id>link-de2b13314ffebc9bdf971af059a07262</id>
-        <link href="https://www.notebookcheck.net/Sega-quality-Sonic-X-Shadow-Generations-mod-pack-is-on-the-way-and-you-can-play-some-now.1208464.0.html"/>
-        <updated>2026-01-21T10:29:57.197Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-shadowgens-modhighlight-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-shadowgens-modhighlight-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-shadowgens-modhighlight-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-shadowgens-modhighlight-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-shadowgens-modhighlight-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-shadowgens-modhighlight-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/b/csm_teaser-shadowgens-modhighlight_1dc2c84cf0.jpg" loading="lazy" alt="A set of six massive levels with great production value and attention to player expression is coming to Shadow Generations, and one of them is already playable for the public. (Image Source: Shindash on YouTub)"></picture><div class="intro_featured_bar_title">New community-made Sonic game levels impress</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inexpensive and extra bright: Xiaomi Redmi Note 15 4G review]]></title>
         <id>link-108b003678a9e15746eea0d09a0b23bb</id>
         <link href="https://www.notebookcheck.net/Xiaomi-Redmi-Note-15-4G-smartphone-review-Star-of-the-affordable-mid-range-with-HDR-and-huge-battery.1207068.0.html"/>
@@ -53,5 +46,12 @@
         <link href="https://www.notebookcheck.net/DLSS-4-5-image-quality-and-performance-analysis-2nd-gen-Transformer-brings-improved-visual-fidelity-with-hidden-performance-penalty.1194908.0.html"/>
         <updated>2026-01-20T10:29:16.525Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/7/csm_geforce-dlss4.5_transformer_comparison_6ecca041bd.jpg" loading="lazy" alt="Nvidia DLSS 4.5 further refines DLSS 4's already improved image quality. (Image Source: Nvidia)"></picture><div class="intro_featured_bar_title">DLSS 4.5 analysis: Better pixels with an fps trade-off</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smartphone with exceptional durability – Honor Magic8 Lite review]]></title>
+        <id>link-4ded1a2d3da95a58665514f3cfa48a93</id>
+        <link href="https://www.notebookcheck.net/Rugged-does-not-have-to-mean-a-brick-Honor-Magic8-Lite-review.1206677.0.html"/>
+        <updated>2026-01-21T18:43:14.758Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/9/csm_Outdoor_Honor_Magic8_Lite_3fd37d5f96.jpg" loading="lazy" alt="Rugged does not have to mean a brick – Honor Magic8 Lite review"></picture><div class="intro_featured_bar_title">Smartphone with exceptional durability – Honor Magic8 Lite review</div>]]></content>
     </entry>
 </feed>

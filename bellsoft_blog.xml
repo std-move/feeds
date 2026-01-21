@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/</id>
     <title>The BellSoft Blog</title>
-    <updated>2026-01-21T16:51:18.678Z</updated>
+    <updated>2026-01-21T18:44:23.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BellSoft 2025 Recap]]></title>
+        <id>link-86517abe42aa8031bb8c0123a4b5c439</id>
+        <link href="https://bell-sw.com/blog/growing-stronger-how-bellsoft-and-our-community-shaped-2025/"/>
+        <updated>2026-01-21T18:43:14.758Z</updated>
+        <content type="html"><![CDATA[2025 was a year of growth, collaboration, and communication. This was a year marked not just by technical milestones, but by the deepening relationships with our community, the exceptional work of everyone at BellSoft, and the collaborative spirit of our partners. To our team, our partners, and everyone in the Java community who has been part of this journey: thank you. Your expertise, feedback, and collaboration have been the foundation of everything we've achieved this year.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BellSoft Releases Alpaquita Linux 25 LTS]]></title>
         <id>link-38e42cf00b4a11fcb1fa8f1cbe1c5299</id>
@@ -158,12 +165,5 @@
         <link href="https://bell-sw.com/blog/how-to-contribute-to-openjdk/"/>
         <updated>2026-01-07T09:20:25.776Z</updated>
         <content type="html"><![CDATA[Learn about ways of contributing to OpenJDK and the process of integrating changes to the API.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica JDK 24 is Released]]></title>
-        <id>link-2fa375fd67827f3aadb21c5132f2c847</id>
-        <link href="https://bell-sw.com/blog/liberica-jdk-24-is-released/"/>
-        <updated>2026-01-07T09:20:25.776Z</updated>
-        <content type="html"><![CDATA[Find out about the improvements in JDK 24 and downloads the new builds]]></content>
     </entry>
 </feed>
