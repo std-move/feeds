@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.techpowerup.com/review/?category=Graphics+Cards&amp;manufacturer=&amp;pp=25&amp;order=date</id>
     <title>TechPowerUp.com GPU reviews</title>
-    <updated>2026-01-21T12:53:16.026Z</updated>
+    <updated>2026-01-21T14:33:02.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.techpowerup.com/review/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AMD AI Bundle Review]]></title>
+        <id>link-9287f85b2dbfbdbbd131fe99172402d3</id>
+        <link href="https://www.techpowerup.com/review/amd-ai-bundle/"/>
+        <updated>2026-01-21T14:31:47.849Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ai-bundle/">AMD AI Bundle Review</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ai-bundle/">
+			<img alt="AMD AI Bundle" width="100" height="100" loading="lazy" src="/review/amd-ai-bundle/images/small@1x.png" srcset="/review/amd-ai-bundle/images/small@1x.png 100w, /review/amd-ai-bundle/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		AMD is finally making local AI easy. With the new AI Bundle, you can run image generation and LLMs directly on your PC, no cloud, no subscriptions, no data leaving your system. We could even run a massive 120B parameter model on a small laptop, something impossible on any consumer GPU.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2026-01-21T13:59:00+00:00">Jan 21st, 2026</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Graphics Cards</div>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSI GeForce RTX 5070 Ti Ventus 3X PZ Review - Well-Hidden 16-Pin Power]]></title>
         <id>link-05b4c00deecf92eda33e8e849252d74f</id>
@@ -624,32 +650,6 @@
 
 	<div class="meta">
 		<div class="date"><span>Posted:</span><time datetime="2025-05-01T15:07:00+00:00">May 1st, 2025</time></div>
-		<div class="author"><span>Author:</span>W1zzard</div>
-
-				<div class="category"><span>In:</span>Graphics Cards</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS GeForce RTX 5090 Astral Liquid OC Review - The Most Expensive GPU I've Ever Tested]]></title>
-        <id>link-c4dd2996387844bfff11bc5274124ade</id>
-        <link href="https://www.techpowerup.com/review/asus-geforce-rtx-5090-astral-liquid-oc/"/>
-        <updated>2026-01-12T17:03:08.221Z</updated>
-        <content type="html"><![CDATA[<div class="title">
-		<a href="/review/asus-geforce-rtx-5090-astral-liquid-oc/">ASUS GeForce RTX 5090 Astral Liquid OC Review - The Most Expensive GPU I've Ever Tested</a>
-	</div>
-
-	<div class="photo">
-		<a href="/review/asus-geforce-rtx-5090-astral-liquid-oc/">
-			<img alt="ASUS GeForce RTX 5090 Astral Liquid OC" width="100" height="100" loading="lazy" src="/review/asus-geforce-rtx-5090-astral-liquid-oc/images/small@1x.png" srcset="/review/asus-geforce-rtx-5090-astral-liquid-oc/images/small@1x.png 100w, /review/asus-geforce-rtx-5090-astral-liquid-oc/images/small.png 256w">
-		</a>
-	</div>
-
-	<div class="teaser">
-		The $3400 ASUS GeForce RTX 5090 Astral Liquid OC is the company's flagship RTX 5090 model. It uses a 360 mm liquid cooling solution to handle the 600 W heat output of the RTX 5090 GPU. Testing in our review confirms: it's the fastest RTX 5090, with lowest temps and best thermals, but also with the highest price.
-	</div>
-
-	<div class="meta">
-		<div class="date"><span>Posted:</span><time datetime="2025-04-28T15:56:00+00:00">Apr 28th, 2025</time></div>
 		<div class="author"><span>Author:</span>W1zzard</div>
 
 				<div class="category"><span>In:</span>Graphics Cards</div>

@@ -4,6 +4,13 @@
 	"favicon": "https://www.techpowerup.com/review/favicon.ico",
 	"elements": [
 		{
+			"id": "link-9287f85b2dbfbdbbd131fe99172402d3",
+			"title": "AMD AI Bundle Review",
+			"link": "https://www.techpowerup.com/review/amd-ai-bundle/",
+			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/amd-ai-bundle/\">AMD AI Bundle Review</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/amd-ai-bundle/\">\n\t\t\t<img alt=\"AMD AI Bundle\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/amd-ai-bundle/images/small@1x.png\" srcset=\"/review/amd-ai-bundle/images/small@1x.png 100w, /review/amd-ai-bundle/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tAMD is finally making local AI easy. With the new AI Bundle, you can run image generation and LLMs directly on your PC, no cloud, no subscriptions, no data leaving your system. We could even run a massive 120B parameter model on a small laptop, something impossible on any consumer GPU.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2026-01-21T13:59:00+00:00\">Jan 21st, 2026</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
+			"retrieved": 1769005907849
+		},
+		{
 			"id": "link-05b4c00deecf92eda33e8e849252d74f",
 			"title": "MSI GeForce RTX 5070 Ti Ventus 3X PZ Review - Well-Hidden 16-Pin Power",
 			"link": "https://www.techpowerup.com/review/msi-geforce-rtx-5070-ti-ventus-3x-pz/",
@@ -169,13 +176,6 @@
 			"title": "ASUS Radeon RX 9070 XT TUF OC Review",
 			"link": "https://www.techpowerup.com/review/asus-radeon-rx-9070-xt-tuf-oc/",
 			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/asus-radeon-rx-9070-xt-tuf-oc/\">ASUS Radeon RX 9070 XT TUF OC Review</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/asus-radeon-rx-9070-xt-tuf-oc/\">\n\t\t\t<img alt=\"ASUS Radeon RX 9070 XT TUF OC\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/asus-radeon-rx-9070-xt-tuf-oc/images/small@1x.png\" srcset=\"/review/asus-radeon-rx-9070-xt-tuf-oc/images/small@1x.png 100w, /review/asus-radeon-rx-9070-xt-tuf-oc/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe ASUS Radeon RX 9070 XT TUF OC is the company's flagship model. It comes with a thick, metal cooler frame that looks fantastic. Our testing confirms, that this is the most powerful cooler of all the cards tested so far, and noise levels with the quiet BIOS are excellent, too.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2025-05-01T15:07:00+00:00\">May 1st, 2025</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
-			"retrieved": 1768237388221
-		},
-		{
-			"id": "link-c4dd2996387844bfff11bc5274124ade",
-			"title": "ASUS GeForce RTX 5090 Astral Liquid OC Review - The Most Expensive GPU I've Ever Tested",
-			"link": "https://www.techpowerup.com/review/asus-geforce-rtx-5090-astral-liquid-oc/",
-			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/asus-geforce-rtx-5090-astral-liquid-oc/\">ASUS GeForce RTX 5090 Astral Liquid OC Review - The Most Expensive GPU I've Ever Tested</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/asus-geforce-rtx-5090-astral-liquid-oc/\">\n\t\t\t<img alt=\"ASUS GeForce RTX 5090 Astral Liquid OC\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/asus-geforce-rtx-5090-astral-liquid-oc/images/small@1x.png\" srcset=\"/review/asus-geforce-rtx-5090-astral-liquid-oc/images/small@1x.png 100w, /review/asus-geforce-rtx-5090-astral-liquid-oc/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe $3400 ASUS GeForce RTX 5090 Astral Liquid OC is the company's flagship RTX 5090 model. It uses a 360 mm liquid cooling solution to handle the 600 W heat output of the RTX 5090 GPU. Testing in our review confirms: it's the fastest RTX 5090, with lowest temps and best thermals, but also with the highest price.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2025-04-28T15:56:00+00:00\">Apr 28th, 2025</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
 			"retrieved": 1768237388221
 		}
 	]
