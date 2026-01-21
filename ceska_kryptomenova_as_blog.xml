@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-01-21T18:44:23.530Z</updated>
+    <updated>2026-01-21T20:33:58.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ckma.cz/cdn-ujdvt/images/favicon.png</icon>
     <entry>
@@ -30,7 +30,7 @@
         <link href="https://www.ckma.cz/cs/blog/tz-prezident-pavel-podepsal-kryptomenovy-balicek"/>
         <updated>2026-01-12T17:03:08.221Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/tz-prezident-pavel-podepsal-kryptomenovy-balicek" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="TZ: Prezident Pavel podepsal kryptoměnový balíček" src="/res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" width="298" height="199" srcset="/res/crc-572659721/pages/images/596x398crop/147982-9p-czech-republic-crypto-hub-of-europe.webp 2x, /res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img alt="TZ: Prezident Pavel podepsal kryptoměnový balíček" src="/res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" data-lazy="" width="298" height="199" srcset="/res/crc-572659721/pages/images/596x398crop/147982-9p-czech-republic-crypto-hub-of-europe.webp 2x, /res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp"></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">6.2.2025</div>
