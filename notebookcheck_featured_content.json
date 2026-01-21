@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-f66fbde55fe89e59f7baf2f125637c93",
+			"title": "▶ HP's best for 2026? - HP Omnibook Ultra 14",
+			"link": "https://www.notebookcheck.net/HP-s-best-for-2026-HP-Omnibook-Ultra-14.1209225.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/2/csm_thumb17_8e811e0211.jpg\" loading=\"lazy\" alt=\"HP's best for 2026? - HP Omnibook Ultra 14\"></picture><div class=\"intro_featured_bar_title\">▶ HP's best for 2026? - HP Omnibook Ultra 14</div>",
+			"retrieved": 1769014189383
+		},
+		{
 			"id": "link-d6e7bf1a5a45f6e7e260400c17394e00",
 			"title": "Acer Nitro V 17 AI review: How good is this affordable 17-inch RTX 5070 gaming laptop?",
 			"link": "https://www.notebookcheck.net/Acer-Nitro-V-17-AI-review-How-good-is-this-affordable-17-inch-RTX-5070-gaming-laptop.1209034.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/DLSS-4-5-image-quality-and-performance-analysis-2nd-gen-Transformer-brings-improved-visual-fidelity-with-hidden-performance-penalty.1194908.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/dlss_45_compares/geforce-dlss4.5_transformer_comparison-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/7/csm_geforce-dlss4.5_transformer_comparison_6ecca041bd.jpg\" loading=\"lazy\" alt=\"Nvidia DLSS 4.5 further refines DLSS 4's already improved image quality. (Image Source: Nvidia)\"></picture><div class=\"intro_featured_bar_title\">DLSS 4.5 analysis: Better pixels with an fps trade-off</div>",
 			"retrieved": 1768904956525
-		},
-		{
-			"id": "link-4ded1a2d3da95a58665514f3cfa48a93",
-			"title": "Smartphone with exceptional durability – Honor Magic8 Lite review",
-			"link": "https://www.notebookcheck.net/Rugged-does-not-have-to-mean-a-brick-Honor-Magic8-Lite-review.1206677.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic8_Lite/Outdoor_Honor_Magic8_Lite-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/9/csm_Outdoor_Honor_Magic8_Lite_3fd37d5f96.jpg\" loading=\"lazy\" alt=\"Rugged does not have to mean a brick – Honor Magic8 Lite review\"></picture><div class=\"intro_featured_bar_title\">Smartphone with exceptional durability – Honor Magic8 Lite review</div>",
-			"retrieved": 1768832907381
 		}
 	]
 }
