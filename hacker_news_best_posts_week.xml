@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-23T03:44:17.648Z</updated>
+    <updated>2026-01-23T04:44:39.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-b2a9df7fef6e287bbefc81ece715e637</id>
         <link href="https://news.ycombinator.com/item?id=46657122"/>
         <updated>2026-01-17T20:22:46.013Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46657122">1342 points</span> by <a href="user?id=alexharri" class="hnuser">alexharri</a> <span class="age" title="2026-01-17T11:15:26 1768648526"><a href="item?id=46657122">5 days ago</a></span> <span id="unv_46657122"></span> | <a href="item?id=46657122">149&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class="sitebit comhead"> (<a href="from?site=alexharri.com"><span class="sitestr">alexharri.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46657122">1343 points</span> by <a href="user?id=alexharri" class="hnuser">alexharri</a> <span class="age" title="2026-01-17T11:15:26 1768648526"><a href="item?id=46657122">5 days ago</a></span> <span id="unv_46657122"></span> | <a href="item?id=46657122">149&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexharri.com/blog/ascii-rendering">ASCII characters are not pixels: a deep dive into ASCII rendering</a><span class="sitebit comhead"> (<a href="from?site=alexharri.com"><span class="sitestr">alexharri.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STFU (github.com/pankajtanwarbanna)]]></title>
@@ -24,7 +24,7 @@
         <id>link-e5438d7e8e8c8fc2e70fdd38498f0366</id>
         <link href="https://news.ycombinator.com/item?id=46717556"/>
         <updated>2026-01-22T14:31:09.791Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46717556">887 points</span> by <a href="user?id=latexr" class="hnuser">latexr</a> <span class="age" title="2026-01-22T10:48:27 1769078907"><a href="item?id=46717556">16 hours ago</a></span> <span id="unv_46717556"></span> | <a href="item?id=46717556">575&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://curl.se/.well-known/security.txt">We will ban you and ridicule you in public if you waste our time on crap reports</a><span class="sitebit comhead"> (<a href="from?site=curl.se"><span class="sitestr">curl.se</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46717556">889 points</span> by <a href="user?id=latexr" class="hnuser">latexr</a> <span class="age" title="2026-01-22T10:48:27 1769078907"><a href="item?id=46717556">17 hours ago</a></span> <span id="unv_46717556"></span> | <a href="item?id=46717556">578&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://curl.se/.well-known/security.txt">We will ban you and ridicule you in public if you waste our time on crap reports</a><span class="sitebit comhead"> (<a href="from?site=curl.se"><span class="sitestr">curl.se</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[If you put Apple icons in reverse it looks like someone getting good at design (mastodon.social)]]></title>
@@ -38,7 +38,7 @@
         <id>link-85d8115d99e55480c44808bf5b707fff</id>
         <link href="https://news.ycombinator.com/item?id=46664755"/>
         <updated>2026-01-18T20:23:46.646Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46664755">806 points</span> by <a href="user?id=OuterVale" class="hnuser">OuterVale</a> <span class="age" title="2026-01-18T04:23:28 1768710208"><a href="item?id=46664755">4 days ago</a></span> <span id="unv_46664755"></span> | <a href="item?id=46664755">295&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.jquery.com/2026/01/17/jquery-4-0-0/">jQuery 4</a><span class="sitebit comhead"> (<a href="from?site=jquery.com"><span class="sitestr">jquery.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46664755">806 points</span> by <a href="user?id=OuterVale" class="hnuser">OuterVale</a> <span class="age" title="2026-01-18T04:23:28 1768710208"><a href="item?id=46664755">5 days ago</a></span> <span id="unv_46664755"></span> | <a href="item?id=46664755">295&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.jquery.com/2026/01/17/jquery-4-0-0/">jQuery 4</a><span class="sitebit comhead"> (<a href="from?site=jquery.com"><span class="sitestr">jquery.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[American importers and consumers bear the cost of 2025 tariffs: analysis (kielinstitut.de)]]></title>
@@ -59,7 +59,7 @@
         <id>link-6feb2653c7ce49eb2b0c93e3f8d50fa5</id>
         <link href="https://news.ycombinator.com/item?id=46692594"/>
         <updated>2026-01-21T01:50:32.981Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46692594">767 points</span> by <a href="user?id=mythical_39" class="hnuser">mythical_39</a> <span class="age" title="2026-01-20T15:11:45 1768921905"><a href="item?id=46692594">2 days ago</a></span> <span id="unv_46692594"></span> | <a href="item?id=46692594">785&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/">Danish pension fund divesting US Treasuries</a><span class="sitebit comhead"> (<a href="from?site=reuters.com"><span class="sitestr">reuters.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46692594">767 points</span> by <a href="user?id=mythical_39" class="hnuser">mythical_39</a> <span class="age" title="2026-01-20T15:11:45 1768921905"><a href="item?id=46692594">2 days ago</a></span> <span id="unv_46692594"></span> | <a href="item?id=46692594">788&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/">Danish pension fund divesting US Treasuries</a><span class="sitebit comhead"> (<a href="from?site=reuters.com"><span class="sitestr">reuters.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU–INC – A new pan-European legal entity (eu-inc.org)]]></title>
@@ -73,21 +73,21 @@
         <id>link-13107e19a54922b204ac184df944cc00</id>
         <link href="https://news.ycombinator.com/item?id=46720395"/>
         <updated>2026-01-22T20:28:48.788Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46720395">742 points</span> by <a href="user?id=segmenta" class="hnuser">segmenta</a> <span class="age" title="2026-01-22T15:20:48 1769095248"><a href="item?id=46720395">12 hours ago</a></span> <span id="unv_46720395"></span> | <a href="item?id=46720395">391&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://gptzero.me/news/neurips/">GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a><span class="sitebit comhead"> (<a href="from?site=gptzero.me"><span class="sitestr">gptzero.me</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[East Germany balloon escape (wikipedia.org)]]></title>
-        <id>link-f3616656cae7287a9a019ffc29474db6</id>
-        <link href="https://news.ycombinator.com/item?id=46648916"/>
-        <updated>2026-01-17T12:40:39.311Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46648916">720 points</span> by <a href="user?id=robertvc" class="hnuser">robertvc</a> <span class="age" title="2026-01-16T17:16:33 1768583793"><a href="item?id=46648916">6 days ago</a></span> <span id="unv_46648916"></span> | <a href="item?id=46648916">302&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://en.wikipedia.org/wiki/East_Germany_balloon_escape">East Germany balloon escape</a><span class="sitebit comhead"> (<a href="from?site=wikipedia.org"><span class="sitestr">wikipedia.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46720395">755 points</span> by <a href="user?id=segmenta" class="hnuser">segmenta</a> <span class="age" title="2026-01-22T15:20:48 1769095248"><a href="item?id=46720395">13 hours ago</a></span> <span id="unv_46720395"></span> | <a href="item?id=46720395">406&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://gptzero.me/news/neurips/">GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a><span class="sitebit comhead"> (<a href="from?site=gptzero.me"><span class="sitestr">gptzero.me</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: isometric.nyc – giant isometric pixel art map of NYC (cannoneyed.com)]]></title>
         <id>link-ce3b6303f8643bdf17b1159245a289e9</id>
         <link href="https://news.ycombinator.com/item?id=46721802"/>
         <updated>2026-01-23T01:47:32.142Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46721802">713 points</span> by <a href="user?id=cannoneyed" class="hnuser">cannoneyed</a> <span class="age" title="2026-01-22T16:52:35 1769100755"><a href="item?id=46721802">10 hours ago</a></span> <span id="unv_46721802"></span> | <a href="item?id=46721802">161&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://cannoneyed.com/isometric-nyc/">Show HN: isometric.nyc – giant isometric pixel art map of NYC</a><span class="sitebit comhead"> (<a href="from?site=cannoneyed.com"><span class="sitestr">cannoneyed.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46721802">744 points</span> by <a href="user?id=cannoneyed" class="hnuser">cannoneyed</a> <span class="age" title="2026-01-22T16:52:35 1769100755"><a href="item?id=46721802">11 hours ago</a></span> <span id="unv_46721802"></span> | <a href="item?id=46721802">163&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://cannoneyed.com/isometric-nyc/">Show HN: isometric.nyc – giant isometric pixel art map of NYC</a><span class="sitebit comhead"> (<a href="from?site=cannoneyed.com"><span class="sitestr">cannoneyed.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[East Germany balloon escape (wikipedia.org)]]></title>
+        <id>link-f3616656cae7287a9a019ffc29474db6</id>
+        <link href="https://news.ycombinator.com/item?id=46648916"/>
+        <updated>2026-01-17T12:40:39.311Z</updated>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46648916">720 points</span> by <a href="user?id=robertvc" class="hnuser">robertvc</a> <span class="age" title="2026-01-16T17:16:33 1768583793"><a href="item?id=46648916">6 days ago</a></span> <span id="unv_46648916"></span> | <a href="item?id=46648916">302&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://en.wikipedia.org/wiki/East_Germany_balloon_escape">East Germany balloon escape</a><span class="sitebit comhead"> (<a href="from?site=wikipedia.org"><span class="sitestr">wikipedia.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dead Internet Theory (kudmitry.com)]]></title>
@@ -101,14 +101,14 @@
         <id>link-db449df6d543a4fb3bb2e43ea89f01c4</id>
         <link href="https://news.ycombinator.com/item?id=46706528"/>
         <updated>2026-01-22T01:50:47.120Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46706528">656 points</span> by <a href="user?id=huntergemmer" class="hnuser">huntergemmer</a> <span class="age" title="2026-01-21T14:54:56 1769007296"><a href="item?id=46706528">1 day ago</a></span> <span id="unv_46706528"></span> | <a href="item?id=46706528">204&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/ChartGPU/ChartGPU">Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a><span class="sitebit comhead"> (<a href="from?site=github.com/chartgpu"><span class="sitestr">github.com/chartgpu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46706528">657 points</span> by <a href="user?id=huntergemmer" class="hnuser">huntergemmer</a> <span class="age" title="2026-01-21T14:54:56 1769007296"><a href="item?id=46706528">1 day ago</a></span> <span id="unv_46706528"></span> | <a href="item?id=46706528">206&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/ChartGPU/ChartGPU">Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a><span class="sitebit comhead"> (<a href="from?site=github.com/chartgpu"><span class="sitestr">github.com/chartgpu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant (media.mit.edu)]]></title>
         <id>link-e6fa9fa23fdbfd4a5a1862facdb15c24</id>
         <link href="https://news.ycombinator.com/item?id=46712678"/>
         <updated>2026-01-22T18:34:30.538Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46712678">643 points</span> by <a href="user?id=misswaterfairy" class="hnuser">misswaterfairy</a> <span class="age" title="2026-01-21T22:41:45 1769035305"><a href="item?id=46712678">1 day ago</a></span> <span id="unv_46712678"></span> | <a href="item?id=46712678">455&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.media.mit.edu/publications/your-brain-on-chatgpt/">Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant</a><span class="sitebit comhead"> (<a href="from?site=media.mit.edu"><span class="sitestr">media.mit.edu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46712678">648 points</span> by <a href="user?id=misswaterfairy" class="hnuser">misswaterfairy</a> <span class="age" title="2026-01-21T22:41:45 1769035305"><a href="item?id=46712678">1 day ago</a></span> <span id="unv_46712678"></span> | <a href="item?id=46712678">459&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.media.mit.edu/publications/your-brain-on-chatgpt/">Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant</a><span class="sitebit comhead"> (<a href="from?site=media.mit.edu"><span class="sitestr">media.mit.edu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The recurring dream of replacing developers (caimito.net)]]></title>
@@ -122,7 +122,7 @@
         <id>link-25ec23f69f54bc6a479454f02e8a2b2a</id>
         <link href="https://news.ycombinator.com/item?id=46675853"/>
         <updated>2026-01-19T20:25:43.674Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46675853">631 points</span> by <a href="user?id=no_creativity_" class="hnuser">no_creativity_</a> <span class="age" title="2026-01-19T07:14:19 1768806859"><a href="item?id=46675853">3 days ago</a></span> <span id="unv_46675853"></span> | <a href="item?id=46675853">338&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bitchat.free/">A decentralized peer-to-peer messaging application that operates over Bluetooth</a><span class="sitebit comhead"> (<a href="from?site=bitchat.free"><span class="sitestr">bitchat.free</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46675853">631 points</span> by <a href="user?id=no_creativity_" class="hnuser">no_creativity_</a> <span class="age" title="2026-01-19T07:14:19 1768806859"><a href="item?id=46675853">3 days ago</a></span> <span id="unv_46675853"></span> | <a href="item?id=46675853">337&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bitchat.free/">A decentralized peer-to-peer messaging application that operates over Bluetooth</a><span class="sitebit comhead"> (<a href="from?site=bitchat.free"><span class="sitestr">bitchat.free</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[De-dollarization: Is the US dollar losing its dominance? (2025) (jpmorgan.com)]]></title>
@@ -171,7 +171,7 @@
         <id>link-d1a0b1554d2aaf2357e527b812a52bd5</id>
         <link href="https://news.ycombinator.com/item?id=46707572"/>
         <updated>2026-01-22T12:51:50.648Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46707572">571 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-01-21T16:04:49 1769011489"><a href="item?id=46707572">1 day ago</a></span> <span id="unv_46707572"></span> | <a href="item?id=46707572">668&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-new-constitution">Claude's new constitution</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46707572">572 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-01-21T16:04:49 1769011489"><a href="item?id=46707572">1 day ago</a></span> <span id="unv_46707572"></span> | <a href="item?id=46707572">669&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-new-constitution">Claude's new constitution</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Iconify: Library of Open Source Icons (iconify.design)]]></title>
@@ -185,7 +185,7 @@
         <id>link-5b0bfdb6aaa7d2df4c3a51b3ef2355f6</id>
         <link href="https://news.ycombinator.com/item?id=46695628"/>
         <updated>2026-01-21T10:29:57.197Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46695628">562 points</span> by <a href="user?id=mkmk" class="hnuser">mkmk</a> <span class="age" title="2026-01-20T18:16:09 1768932969"><a href="item?id=46695628">2 days ago</a></span> <span id="unv_46695628"></span> | <a href="item?id=46695628">112&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/">A 26,000-year astronomical monument hidden in plain sight (2019)</a><span class="sitebit comhead"> (<a href="from?site=longnow.org"><span class="sitestr">longnow.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46695628">563 points</span> by <a href="user?id=mkmk" class="hnuser">mkmk</a> <span class="age" title="2026-01-20T18:16:09 1768932969"><a href="item?id=46695628">2 days ago</a></span> <span id="unv_46695628"></span> | <a href="item?id=46695628">112&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/">A 26,000-year astronomical monument hidden in plain sight (2019)</a><span class="sitebit comhead"> (<a href="from?site=longnow.org"><span class="sitestr">longnow.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK (presidentti.fi)]]></title>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46676276">534 points</span> by <a href="user?id=ardentsword" class="hnuser">ardentsword</a> <span class="age" title="2026-01-19T08:23:04 1768810984"><a href="item?id=46676276">3 days ago</a></span> <span id="unv_46676276"></span> | <a href="item?id=46676276">247&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees">Radboud University selects Fairphone as standard smartphone for employees</a><span class="sitebit comhead"> (<a href="from?site=ru.nl"><span class="sitestr">ru.nl</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[In Europe, wind and solar overtake fossil fuels (yale.edu)]]></title>
+        <id>link-9afaf5a6249169101dee9971bb65979c</id>
+        <link href="https://news.ycombinator.com/item?id=46719491"/>
+        <updated>2026-01-23T04:43:23.777Z</updated>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46719491">523 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-01-22T14:14:15 1769091255"><a href="item?id=46719491">14 hours ago</a></span> <span id="unv_46719491"></span> | <a href="item?id=46719491">536&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels">In Europe, wind and solar overtake fossil fuels</a><span class="sitebit comhead"> (<a href="from?site=yale.edu"><span class="sitestr">yale.edu</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Overcomplexity of the Shadcn Radio Button (paulmakeswebsites.com)]]></title>
         <id>link-152b3db415ef70f8582ce20f52b26ad4</id>
         <link href="https://news.ycombinator.com/item?id=46688971"/>
         <updated>2026-01-21T03:44:42.392Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46688971">518 points</span> by <a href="user?id=dbushell" class="hnuser">dbushell</a> <span class="age" title="2026-01-20T07:35:09 1768894509"><a href="item?id=46688971">2 days ago</a></span> <span id="unv_46688971"></span> | <a href="item?id=46688971">330&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://paulmakeswebsites.com/writing/shadcn-radio-button/">The Overcomplexity of the Shadcn Radio Button</a><span class="sitebit comhead"> (<a href="from?site=paulmakeswebsites.com"><span class="sitestr">paulmakeswebsites.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon is ending all inventory commingling as of March 31, 2026 (twitter.com/ghhughes)]]></title>
-        <id>link-cc18a17cfcb0fd11775486bb17069a90</id>
-        <link href="https://news.ycombinator.com/item?id=46678205"/>
-        <updated>2026-01-21T03:44:42.392Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46678205">516 points</span> by <a href="user?id=MrBuddyCasino" class="hnuser">MrBuddyCasino</a> <span class="age" title="2026-01-19T12:24:14 1768825454"><a href="item?id=46678205">3 days ago</a></span> <span id="unv_46678205"></span> | <a href="item?id=46678205">259&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/ghhughes/status/2012824754319753456">Amazon is ending all inventory commingling as of March 31, 2026</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/ghhughes"><span class="sitestr">twitter.com/ghhughes</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46688971">518 points</span> by <a href="user?id=dbushell" class="hnuser">dbushell</a> <span class="age" title="2026-01-20T07:35:09 1768894509"><a href="item?id=46688971">2 days ago</a></span> <span id="unv_46688971"></span> | <a href="item?id=46688971">330&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://paulmakeswebsites.com/writing/shadcn-radio-button/">The Overcomplexity of the Shadcn Radio Button</a><span class="sitebit comhead"> (<a href="from?site=paulmakeswebsites.com"><span class="sitestr">paulmakeswebsites.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
