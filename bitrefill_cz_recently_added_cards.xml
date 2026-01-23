@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-01-23T14:27:48.127Z</updated>
+    <updated>2026-01-23T16:32:58.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -67,13 +67,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Aircash A-Bon Europe — €5 - €25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Quest Europe EU]]></title>
-        <id>link-45f3443150c6ad67592605b6f085830d</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/meta-quest-europe-eu/"/>
-        <updated>2026-01-16T20:22:31.761Z</updated>
-        <content type="html"><![CDATA[Meta Quest Europe EU — €15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ExitLag International]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
         <updated>2026-01-19T06:39:57.029Z</updated>
         <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlystayGift]]></title>
+        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
+        <updated>2026-01-23T16:31:47.123Z</updated>
+        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
