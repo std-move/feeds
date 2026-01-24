@@ -178,3 +178,11 @@ entrySelector = ".post-list > .post"
 titleSelector = [".post-date", "h2"]
 # linkSelector = "a"
 
+
+[rtings_com_laptop_reviews]
+title = "rtings.com - laptop reviews"
+url = "https://www.rtings.com/laptop/latest"
+waitForSelector = ".latest_page-content .latest_page-preview"
+entrySelector = ".latest_page-content .latest_page-preview"
+titleSelector = ".latest_page-preview-title"
+linkSelector = "*"
