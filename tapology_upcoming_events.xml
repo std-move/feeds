@@ -2,33 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-01-23T22:20:43.234Z</updated>
+    <updated>2026-01-24T01:46:04.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Zuffa Boxing 1 — 2026-01-23 16:30:00 -0500]]></title>
-        <id>link-5fea62edc601f0f9b1834586faadce65</id>
-        <link href="https://www.tapology.com/fightcenter/events/137070-zuffa-boxing"/>
-        <updated>2026-01-07T02:58:48.495Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137070-zuffa-boxing">Zuffa Boxing 1</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-23 16:30:00 -0500">49 minutes ago</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LFA 225 — 2026-01-23 17:00:00 -0500]]></title>
-        <id>link-e23f6e06291c4c5ad57af60680bd4f8b</id>
-        <link href="https://www.tapology.com/fightcenter/events/137876-lfa-225-degli-vs-aguiar"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137876-lfa-225-degli-vs-aguiar">LFA 225</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-23 17:00:00 -0500">19 minutes ago</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ONE Fight Night 39 — 2026-01-23 21:00:00 -0500]]></title>
         <id>link-d912026b5c2126c2dd4dcaa6ab8ac08a</id>
@@ -38,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136786-one-fight-night-39">ONE Fight Night 39</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-23 21:00:00 -0500">in 3 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-01-23 21:00:00 -0500">in 14 minutes</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/135755-ufc-324">UFC 324</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-24 17:00:00 -0500">in 23 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-01-24 17:00:00 -0500">in 20 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +75,30 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-02-06 09:00:00 -0500">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LFA 226 — 2026-02-06 20:00:00 -0500]]></title>
+        <id>link-b59f8a04c6222c15596d4df4aebd3514</id>
+        <link href="https://www.tapology.com/fightcenter/events/138232-lfa-226-allakhverdiev-vs-kropschot"/>
+        <updated>2026-01-24T01:44:52.652Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/138232-lfa-226-allakhverdiev-vs-kropschot">LFA 226</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-02-06 20:00:00 -0500">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFL Dubai — 2026-02-07 09:00:00 -0500]]></title>
+        <id>link-54cc69067ccffe6e2412494286d6204a</id>
+        <link href="https://www.tapology.com/fightcenter/events/136268-pfl-nurmagomedov-vs-davis"/>
+        <updated>2026-01-24T01:44:52.652Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136268-pfl-nurmagomedov-vs-davis">PFL Dubai</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-02-07 09:00:00 -0500">in 2 weeks</abbr>
 </td>]]></content>
     </entry>
 </feed>
