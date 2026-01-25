@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-01-24T22:21:49.979Z</updated>
+    <updated>2026-01-25T01:58:40.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.66]]></title>
+        <id>title-5af56dc2b75488fa5090c7642fbeacfb</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-01-25T01:57:27.031Z</updated>
+        <content type="html"><![CDATA[Released Jan 25, 2026 - 337.4 KB — updated the UI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.65]]></title>
         <id>title-d6b50fd0c977214503ee96439189e28e</id>
@@ -172,12 +179,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released Mar 25, 2023 - 325.16 KB — Added an option to auto-expand the video description]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.37]]></title>
-        <id>title-b2fa9bc59641cac891b53f821f4bf47c</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released Mar 23, 2023 - 325.13 KB — fix redirect bug]]></content>
     </entry>
 </feed>
