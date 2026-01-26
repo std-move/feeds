@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-01-26T01:58:12.121Z</updated>
+    <updated>2026-01-26T04:01:24.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/surfshark-vpn-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Surfshark VPN International — Surfshark 1M - Surfshark 2Y]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox Game Pass Ultimate EUR International]]></title>
+        <id>link-eb5ff08980928fd3077e725ec582a653</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/xbox-game-pass-ultimate-giftcard-international/"/>
+        <updated>2026-01-26T04:00:04.218Z</updated>
+        <content type="html"><![CDATA[Xbox Game Pass Ultimate EUR International — €14.99]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kinguin Games Store EUR International]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
         <updated>2026-01-19T06:39:57.029Z</updated>
         <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlystayGift]]></title>
-        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
-        <updated>2026-01-23T16:31:47.123Z</updated>
-        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
