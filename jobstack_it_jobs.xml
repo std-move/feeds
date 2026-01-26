@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-01-26T06:39:51.754Z</updated>
+    <updated>2026-01-26T08:35:38.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
+    <entry>
+        <title type="html"><![CDATA[FULL STACK Developer (NODE.JS, Express.js) — až 95 000 Kč / měsíc]]></title>
+        <id>link-b6537a7d257b47c9171a59a8124c8b83</id>
+        <link href="https://www.jobstack.it/it-job/node-js-developer/691c475840ffc"/>
+        <updated>2026-01-12T17:03:08.221Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Node.js developer</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">TypeScript developer</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																			</div>
+			
+							<div class="jobposts-item_labels">
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																			</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>1. Web IT s.r.o.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 95 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Super příležitost pro Junior | Medior frontend Vue.js developera — až 150 000 Kč / měsíc]]></title>
         <id>link-233f849c95e5efc9c83a4656f827c5d6</id>
@@ -366,35 +395,6 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 120 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FULL STACK Developer (NODE.JS, Express.js) — až 95 000 Kč / měsíc]]></title>
-        <id>link-b6537a7d257b47c9171a59a8124c8b83</id>
-        <link href="https://www.jobstack.it/it-job/node-js-developer/691c475840ffc"/>
-        <updated>2026-01-12T17:03:08.221Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Node.js developer</span>
-				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">TypeScript developer</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																			</div>
-			
-							<div class="jobposts-item_labels">
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																			</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>1. Web IT s.r.o.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 95 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>

@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-88d5e119c25a7846bf56a67c9701d914",
+			"title": "AMD Ryzen AI 400 \"Gorgon Point\" analysis",
+			"link": "https://www.notebookcheck.net/AMD-Ryzen-AI-400-Performance-Analysis-Gorgon-Point-debuts-with-only-minor-improvements.1211982.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/0/csm_AMD_Ryzen_AI_400_5afcee411f.png\" loading=\"lazy\" alt=\"AMD Ryzen AI 400 Gorgon Point APU performance and efficiency analysis. (Image Source: AMD)\"></picture><div class=\"intro_featured_bar_title\">AMD Ryzen AI 400 \"Gorgon Point\" analysis</div>",
+			"retrieved": 1769416463172
+		},
+		{
 			"id": "link-9ed136ebf16bcdcca32881a3afe9daf7",
 			"title": "Huawei Pura 80 Ultra: For photo enthusiasts only",
 			"link": "https://www.notebookcheck.net/Huawei-Pura-80-Ultra-Smartphone-Review-Camera-monster-with-compromises.1209229.0.html",
@@ -12,9 +19,9 @@
 		},
 		{
 			"id": "link-8b6e7475f868a6bd16dbf75a78bb5053",
-			"title": "Demonstration of power - Test Xiaomi 17 Ultra",
+			"title": "Demonstration of power - Xiaomi 17 Ultra thoroughly tested",
 			"link": "https://www.notebookcheck.net/Xiaomi-17-Ultra-review-Best-overall-package-in-the-smartphone-sector-meets-Leica-APO-zoom.1211793.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/7/csm_Xiaomi_17_Ultra_Test_Smartphone_13_d02c23f3d5.jpg\" loading=\"lazy\" alt=\"Test Xiaomi 17 Ultra Smartphone review \"></picture><div class=\"intro_featured_bar_title\">Demonstration of power - Test Xiaomi 17 Ultra</div>",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/7/csm_Xiaomi_17_Ultra_Test_Smartphone_13_d02c23f3d5.jpg\" loading=\"lazy\" alt=\"Xiaomi 17 Ultra Smartphone review \"></picture><div class=\"intro_featured_bar_title\">Demonstration of power - Xiaomi 17 Ultra thoroughly tested</div>",
 			"retrieved": 1769400004218
 		},
 		{
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Premium-mid-range-headphones-with-bargain-appeal-Samsung-Galaxy-Buds3-FE-review.1211124.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/c/csm_aPic_Samsung_Galaxy_Buds3_FE_02_c3062d4ea3.jpg\" loading=\"lazy\" alt=\"Premium mid-range headphones with bargain appeal – Samsung Galaxy Buds3 FE review\"></picture><div class=\"intro_featured_bar_title\">Good and Affordable? Samsung Galaxy Buds3 FE review</div>",
 			"retrieved": 1769185907123
-		},
-		{
-			"id": "link-f66fbde55fe89e59f7baf2f125637c93",
-			"title": "▶ HP's best for 2026? - HP Omnibook Ultra 14",
-			"link": "https://www.notebookcheck.net/HP-s-best-for-2026-HP-Omnibook-Ultra-14.1209225.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb17-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/2/csm_thumb17_8e811e0211.jpg\" loading=\"lazy\" alt=\"HP's best for 2026? - HP Omnibook Ultra 14\"></picture><div class=\"intro_featured_bar_title\">▶ HP's best for 2026? - HP Omnibook Ultra 14</div>",
-			"retrieved": 1769014189383
 		}
 	]
 }
