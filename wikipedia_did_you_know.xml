@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-26T18:38:34.669Z</updated>
+    <updated>2026-01-26T20:29:55.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>link-3d09cca0c025c690cd0693c7e33e3576</id>
         <link href="https://en.wikipedia.org/wiki/Fish_maw"/>
         <updated>2026-01-26T01:56:50.274Z</updated>
-        <content type="html"><![CDATA[... that the "Dragon Cartel", a cooperation of Chinese triads and Mexican cartels, poach <b><a href="/wiki/Fish_maw" title="Fish maw">fish maw</a></b> in the Gulf of California and smuggle them to China?]]></content>
+        <content type="html"><![CDATA[... that the "Dragon Cartel", a cooperation of Chinese triads and Mexican cartels, poach <b><a href="/wiki/Fish_maw" title="Fish maw">fish maw</a></b> in the Gulf of California and smuggle it to China?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bernard Goldfine]]></title>
