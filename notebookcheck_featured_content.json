@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-60983f27d13d69873ed5da21006d574d",
+			"title": "Mini-PC review: Alliwava GH8 with Ryzen 9 against the competition",
+			"link": "https://www.notebookcheck.net/Alliwava-GH8-review-Powerful-and-efficient-mini-PC-with-Ryzen-9-8945HS-and-USB4.1212001.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/4/csm_GH8_4_0094eeae6e.jpg\" loading=\"lazy\" alt=\"Alliwava GH8\"></picture><div class=\"intro_featured_bar_title\">Mini-PC review: Alliwava GH8 with Ryzen 9 against the competition</div>",
+			"retrieved": 1769423297679
+		},
+		{
 			"id": "link-88d5e119c25a7846bf56a67c9701d914",
 			"title": "AMD Ryzen AI 400 \"Gorgon Point\" analysis",
 			"link": "https://www.notebookcheck.net/AMD-Ryzen-AI-400-Performance-Analysis-Gorgon-Point-debuts-with-only-minor-improvements.1211982.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/70mai-4K-T800-dash-cam-review-A-premium-dash-cam-with-premium-features-and-superior-video-quality.1208438.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/70mai-4K-T800-Intro11-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/70mai-4K-T800-Intro11-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/70mai-4K-T800-Intro11-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/70mai-4K-T800-Intro11-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/70mai-4K-T800-Intro11-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/70mai-4K-T800-Intro11-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/e/csm_70mai-4K-T800-Intro11_5b83205d0b.jpg\" loading=\"lazy\" alt=\"The 70mai 4K T800 3-channel dash cam (Image source: Abhinav Fating/Notebookcheck)\"></picture><div class=\"intro_featured_bar_title\">70mai 4K T800 3-channel dash cam review</div>",
 			"retrieved": 1769193316065
-		},
-		{
-			"id": "link-67d63bec7ebb48edc69293cafe782622",
-			"title": "Good and Affordable? Samsung Galaxy Buds3 FE review",
-			"link": "https://www.notebookcheck.net/Premium-mid-range-headphones-with-bargain-appeal-Samsung-Galaxy-Buds3-FE-review.1211124.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Buds3_FE/aPic_Samsung_Galaxy_Buds3_FE_02-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/c/csm_aPic_Samsung_Galaxy_Buds3_FE_02_c3062d4ea3.jpg\" loading=\"lazy\" alt=\"Premium mid-range headphones with bargain appeal – Samsung Galaxy Buds3 FE review\"></picture><div class=\"intro_featured_bar_title\">Good and Affordable? Samsung Galaxy Buds3 FE review</div>",
-			"retrieved": 1769185907123
 		}
 	]
 }
