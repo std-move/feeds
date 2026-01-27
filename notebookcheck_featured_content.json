@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-8389c0aecb9bce8752bbe6f3934f0923",
+			"title": "Intel Arc B390 analysis: Taking the fight to the RTX 4050",
+			"link": "https://www.notebookcheck.net/Intel-Panther-Lake-Arc-B390-performance-and-efficiency-analysis-Intel-s-new-iGPU-trades-blows-with-the-Nvidia-GeForce-RTX-4050.1212582.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/7/csm_b390_teaser_5ab31e13ca.png\" loading=\"lazy\" alt=\"Intel Arc B390 performance and efficiency analysis. (Image Source: Intel)\"></picture><div class=\"intro_featured_bar_title\">Intel Arc B390 analysis: Taking the fight to the RTX 4050</div>",
+			"retrieved": 1769478832276
+		},
+		{
 			"id": "link-222326bc6f2cfc43246fc01c604142af",
 			"title": "Intel Panther Lake Core Ultra X9 388H performance analysis",
 			"link": "https://www.notebookcheck.net/Intel-Panther-Lake-Core-Ultra-X9-388H-performance-analysis-Outpaces-Arrow-Lake-and-exceeds-Zen-5-in-efficiency.1212583.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Huawei-Pura-80-Ultra-Smartphone-Review-Camera-monster-with-compromises.1209229.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/b/csm_Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1_98ce9b8b03.jpg\" loading=\"lazy\" alt=\"Huawei Pura 80 Ultra in review\"></picture><div class=\"intro_featured_bar_title\">Huawei Pura 80 Ultra: For photo enthusiasts only</div>",
 			"retrieved": 1769409512518
-		},
-		{
-			"id": "link-8b6e7475f868a6bd16dbf75a78bb5053",
-			"title": "Demonstration of power - Xiaomi 17 Ultra thoroughly tested",
-			"link": "https://www.notebookcheck.net/Xiaomi-17-Ultra-review-Best-overall-package-in-the-smartphone-sector-meets-Leica-APO-zoom.1211793.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/Xiaomi_17_Ultra_Test_Smartphone_13-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/7/csm_Xiaomi_17_Ultra_Test_Smartphone_13_d02c23f3d5.jpg\" loading=\"lazy\" alt=\"Xiaomi 17 Ultra Smartphone review \"></picture><div class=\"intro_featured_bar_title\">Demonstration of power - Xiaomi 17 Ultra thoroughly tested</div>",
-			"retrieved": 1769459313246
 		}
 	]
 }
