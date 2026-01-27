@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-8492710bda7a31e5091bc7c2f246d17d",
+			"title": "▶ Intel's Panther Lake X9 - delivered as promised!",
+			"link": "https://www.notebookcheck.net/Intel-s-Panther-Lake-X9-delivered-as-promised-Asus-Zenbook-Duo-Review.1212511.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/9/csm_thumb_0151_e7b0910499.jpg\" loading=\"lazy\" alt=\"Intel's Panther Lake X9 - delivered as promised! Asus Zenbook Duo Review\"></picture><div class=\"intro_featured_bar_title\">▶ Intel's Panther Lake X9 - delivered as promised!</div>",
+			"retrieved": 1769445353969
+		},
+		{
 			"id": "link-8389c0aecb9bce8752bbe6f3934f0923",
 			"title": "Intel Arc B390 analysis: Taking the fight to the RTX 4050",
 			"link": "https://www.notebookcheck.net/Intel-Panther-Lake-Arc-B390-performance-and-efficiency-analysis-Intel-s-new-iGPU-trades-blows-with-the-Nvidia-GeForce-RTX-4050.1212582.0.html",
@@ -15,13 +22,6 @@
 			"title": "Intel Panther Lake Core Ultra X9 388H performance analysis",
 			"link": "https://www.notebookcheck.net/Intel-Panther-Lake-Core-Ultra-X9-388H-performance-analysis-Outpaces-Arrow-Lake-and-exceeds-Zen-5-in-efficiency.1212583.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/intel_core_ultra_3_intro-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/intel_core_ultra_3_intro-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/intel_core_ultra_3_intro-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/intel_core_ultra_3_intro-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/intel_core_ultra_3_intro-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/intel_core_ultra_3_intro-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/3/csm_intel_core_ultra_3_intro_a311923516.png\" loading=\"lazy\" alt=\"Intel Panther Lake Core Ultra X9 388H performance analysis - Outpaces Arrow Lake and exceeds Zen 5 in efficiency\"></picture><div class=\"intro_featured_bar_title\">Intel Panther Lake Core Ultra X9 388H performance analysis</div>",
-			"retrieved": 1769445353969
-		},
-		{
-			"id": "link-8492710bda7a31e5091bc7c2f246d17d",
-			"title": "▶ Intel's Panther Lake X9 - delivered as promised!",
-			"link": "https://www.notebookcheck.net/Intel-s-Panther-Lake-X9-delivered-as-promised-Asus-Zenbook-Duo-Review.1212511.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/9/csm_thumb_0151_e7b0910499.jpg\" loading=\"lazy\" alt=\"Intel's Panther Lake X9 - delivered as promised! Asus Zenbook Duo Review\"></picture><div class=\"intro_featured_bar_title\">▶ Intel's Panther Lake X9 - delivered as promised!</div>",
 			"retrieved": 1769445353969
 		},
 		{

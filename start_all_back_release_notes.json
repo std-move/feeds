@@ -4,6 +4,12 @@
 	"favicon": "https://www.startallback.com/favicon.ico",
 	"elements": [
 		{
+			"id": "title-56e84a9dc8637bb56833344460a55a72",
+			"title": "Version 3.9.21 27 Jan 2026",
+			"contents": "Version 3.9.21 27 Jan 2026\n\t\t\t\t<li>Support for ge_prereleaseserver</li>",
+			"retrieved": 1769518355773
+		},
+		{
 			"id": "title-9968c8f77a66ac079e7e54aeb78c60eb",
 			"title": "Version 3.9.20 9 Dec 2025",
 			"contents": "Version 3.9.20 9 Dec 2025\n\t\t\t\t<li>Fix for old 24H2 incompatibility</li>",
