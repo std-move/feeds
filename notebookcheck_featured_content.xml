@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-01-27T12:53:58.837Z</updated>
+    <updated>2026-01-27T14:35:22.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.notebookcheck.net/Intel-s-Panther-Lake-X9-delivered-as-promised-Asus-Zenbook-Duo-Review.1212511.0.html"/>
         <updated>2026-01-26T16:35:53.969Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/9/csm_thumb_0151_e7b0910499.jpg" loading="lazy" alt="Intel's Panther Lake X9 - delivered as promised! Asus Zenbook Duo Review"></picture><div class="intro_featured_bar_title">▶ Intel's Panther Lake X9 - delivered as promised!</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus ExpertBook Ultra review: One helluva debut for Intel Panther Lake X7]]></title>
+        <id>link-4dbbcb25e78c392c4c5795122b901d39</id>
+        <link href="https://www.notebookcheck.net/Asus-ExpertBook-Ultra-review-One-helluva-debut-for-Intel-Panther-Lake-X7.1209366.0.html"/>
+        <updated>2026-01-27T14:31:08.792Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_Ultra_B9406CAA/expertbookultrafeature_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_Ultra_B9406CAA/expertbookultrafeature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_Ultra_B9406CAA/expertbookultrafeature_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_Ultra_B9406CAA/expertbookultrafeature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_Ultra_B9406CAA/expertbookultrafeature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_Ultra_B9406CAA/expertbookultrafeature_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/4/csm_expertbookultrafeature_1_954978d5a5.jpg" loading="lazy" alt="Asus ExpertBook Ultra review: One helluva debut for Intel Panther Lake X7"></picture><div class="intro_featured_bar_title">Asus ExpertBook Ultra review: One helluva debut for Intel Panther Lake X7</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Intel Arc B390 analysis: Taking the fight to the RTX 4050]]></title>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/AMD-Ryzen-AI-400-Performance-Analysis-Gorgon-Point-debuts-with-only-minor-improvements.1211982.0.html"/>
         <updated>2026-01-26T08:34:23.172Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/0/csm_AMD_Ryzen_AI_400_5afcee411f.png" loading="lazy" alt="AMD Ryzen AI 400 Gorgon Point APU performance and efficiency analysis. (Image Source: AMD)"></picture><div class="intro_featured_bar_title">AMD Ryzen AI 400 "Gorgon Point" analysis</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei Pura 80 Ultra: For photo enthusiasts only]]></title>
-        <id>link-9ed136ebf16bcdcca32881a3afe9daf7</id>
-        <link href="https://www.notebookcheck.net/Huawei-Pura-80-Ultra-Smartphone-Review-Camera-monster-with-compromises.1209229.0.html"/>
-        <updated>2026-01-26T06:38:32.518Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/Pura_80_Ultra/Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1-JPEG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/b/csm_Fotos_Huawei_Pura_80_Ultra_4_zu_3-Teaser_1_98ce9b8b03.jpg" loading="lazy" alt="Huawei Pura 80 Ultra in review"></picture><div class="intro_featured_bar_title">Huawei Pura 80 Ultra: For photo enthusiasts only</div>]]></content>
     </entry>
 </feed>
