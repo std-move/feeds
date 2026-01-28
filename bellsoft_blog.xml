@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/</id>
     <title>The BellSoft Blog</title>
-    <updated>2026-01-28T08:34:56.488Z</updated>
+    <updated>2026-01-28T10:31:14.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Liberica JDK 8u482, 11.0.30, 17.0.18, 21.0.10, and 25.0.2 builds are generally available]]></title>
+        <id>link-81a50f0f9bbf4efd57e1cf923d7ae6fd</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-8u482-11-0-30-17-0-18-21-0-10-and-25-0-2-builds-are-generally-available/"/>
+        <updated>2026-01-28T10:29:53.102Z</updated>
+        <content type="html"><![CDATA[Download Liberica JDK CPU versions 8, 11, 17, 21, and 25 with improved security.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BellSoft 2025 Recap]]></title>
         <id>link-86517abe42aa8031bb8c0123a4b5c439</id>
@@ -158,12 +165,5 @@
         <link href="https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/"/>
         <updated>2026-01-07T09:20:25.776Z</updated>
         <content type="html"><![CDATA[Find out about enhancements in Liberica Native Image Kit 24.2.0 and downloads new builds]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to OpenJDK]]></title>
-        <id>link-9b166baea93eb05c8994a42419bf9368</id>
-        <link href="https://bell-sw.com/blog/how-to-contribute-to-openjdk/"/>
-        <updated>2026-01-07T09:20:25.776Z</updated>
-        <content type="html"><![CDATA[Learn about ways of contributing to OpenJDK and the process of integrating changes to the API.]]></content>
     </entry>
 </feed>
