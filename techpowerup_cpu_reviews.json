@@ -4,6 +4,13 @@
 	"favicon": "https://www.techpowerup.com/review/favicon.ico",
 	"elements": [
 		{
+			"id": "link-b1a4bc02d1d402d024b9be210b49387d",
+			"title": "AMD Ryzen 7 9850X3D Review - The Best Just Got Better",
+			"link": "https://www.techpowerup.com/review/amd-ryzen-7-9850x3d/",
+			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/amd-ryzen-7-9850x3d/\">AMD Ryzen 7 9850X3D Review - The Best Just Got Better</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/amd-ryzen-7-9850x3d/\">\n\t\t\t<img alt=\"AMD Ryzen 7 9850X3D\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/amd-ryzen-7-9850x3d/images/small@1x.png\" srcset=\"/review/amd-ryzen-7-9850x3d/images/small@1x.png 100w, /review/amd-ryzen-7-9850x3d/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe AMD Ryzen 9850X3D builds on the already excellent 9800X3D without trying to shake up the market. Instead, it focuses on refining what already works. AMD delivers modest improvements with smarter tuning, and the same cache magic that gamers love. Thanks to a reasonable price increase, this processor will be a no-brainer pick for future high-end gaming rigs.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2026-01-28T14:00:09+00:00\">Jan 28th, 2026</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Processors</div>\n\t\t\t</div>",
+			"retrieved": 1769610675980
+		},
+		{
 			"id": "link-4ea24aa460ab10d9e1a4faef135cb401",
 			"title": "Intel Panther Lake Technical Deep Dive",
 			"link": "https://www.techpowerup.com/review/intel-panther-lake-technical-deep-dive/",
@@ -169,13 +176,6 @@
 			"title": "Intel Core 14th Gen Unboxing & Preview - Raptor Lake Getting Refreshed",
 			"link": "https://www.techpowerup.com/review/intel-core-14th-gen-unboxing-preview/",
 			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/intel-core-14th-gen-unboxing-preview/\">Intel Core 14th Gen Unboxing &amp; Preview - Raptor Lake Getting Refreshed</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/intel-core-14th-gen-unboxing-preview/\">\n\t\t\t<img alt=\"Intel Core 14th Gen Unboxing &amp; Preview\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/intel-core-14th-gen-unboxing-preview/images/small@1x.png\" srcset=\"/review/intel-core-14th-gen-unboxing-preview/images/small@1x.png 100w, /review/intel-core-14th-gen-unboxing-preview/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tIntel's Core 14th Gen \"Raptor Lake Refresh\" processors are launching soon. Today marks the end of the unboxing and preview embargo, and we're excited to share hands-on pictures of the new processors with you. Additionally, we'll discuss the latest technologies and features they bring to the table.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2023-10-16T12:51:35+00:00\">Oct 16th, 2023</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Processors</div>\n\t\t\t</div>",
-			"retrieved": 1768237388221
-		},
-		{
-			"id": "link-3af23e743b6035459f015b44244313ae",
-			"title": "Intel Meteor Lake Technical Deep Dive",
-			"link": "https://www.techpowerup.com/review/intel-meteor-lake-technical-deep-dive/",
-			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/intel-meteor-lake-technical-deep-dive/\">Intel Meteor Lake Technical Deep Dive</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/intel-meteor-lake-technical-deep-dive/\">\n\t\t\t<img alt=\"Intel Meteor Lake Technical Deep Dive\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/intel-meteor-lake-technical-deep-dive/images/small@1x.png\" srcset=\"/review/intel-meteor-lake-technical-deep-dive/images/small@1x.png 100w, /review/intel-meteor-lake-technical-deep-dive/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tToday Intel is taking the wraps off their Meteor Lake Architecture. Our tech preview tells you everything you need to know about Intel's new ideas that will power the company's processors for years to come. Just like AMD, Intel is betting on chiplets, which combine multiple silicon dies into a single CPU to build faster, more-energy efficient designs that are cheaper to manufacture.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2023-09-19T15:35:00+00:00\">Sep 19th, 2023</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Processors</div>\n\t\t\t</div>",
 			"retrieved": 1768237388221
 		}
 	]
