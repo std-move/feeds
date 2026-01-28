@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-01-28T10:31:14.391Z</updated>
+    <updated>2026-01-28T12:53:49.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Best camera phones tested and compared]]></title>
+        <id>link-c09203f3c95ca0f3a858dab96dc35a8e</id>
+        <link href="https://www.notebookcheck.net/Ranking-Best-camera-smartphones-tested-by-Notebookcheck.283106.0.html"/>
+        <updated>2026-01-28T12:52:36.016Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/f/csm_bestcameraphone_8420e304d4.jpg" loading="lazy" alt="The best smartphones for digital photography"></picture><div class="intro_featured_bar_title">Best camera phones tested and compared</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[▶ Intel's Panther Lake X9 - delivered as promised!]]></title>
         <id>link-8492710bda7a31e5091bc7c2f246d17d</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Alliwava-GH8-review-Powerful-and-efficient-mini-PC-with-Ryzen-9-8945HS-and-USB4.1212001.0.html"/>
         <updated>2026-01-26T10:28:17.679Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Alliwava/GH8_R9_8945HS/GH8_4-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/4/csm_GH8_4_0094eeae6e.jpg" loading="lazy" alt="Alliwava GH8"></picture><div class="intro_featured_bar_title">Mini-PC review: Alliwava GH8 with Ryzen 9 against the competition</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen AI 400 "Gorgon Point" analysis]]></title>
-        <id>link-88d5e119c25a7846bf56a67c9701d914</id>
-        <link href="https://www.notebookcheck.net/AMD-Ryzen-AI-400-Performance-Analysis-Gorgon-Point-debuts-with-only-minor-improvements.1211982.0.html"/>
-        <updated>2026-01-26T08:34:23.172Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/AMD_Ryzen_AI_400-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/0/csm_AMD_Ryzen_AI_400_5afcee411f.png" loading="lazy" alt="AMD Ryzen AI 400 Gorgon Point APU performance and efficiency analysis. (Image Source: AMD)"></picture><div class="intro_featured_bar_title">AMD Ryzen AI 400 "Gorgon Point" analysis</div>]]></content>
     </entry>
 </feed>
