@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/favicon.ico",
 	"elements": [
 		{
+			"id": "link-0678bb0b367c3b410449092452087245",
+			"title": "A Guide to Java Application Security",
+			"link": "https://bell-sw.com/blog/a-guide-to-java-application-security/",
+			"contents": "Explore proven Java app security best practices, inluding safer deserialization, input validation, strong crypto, quarterly JDK patches, hardened containers, and SBOMs.",
+			"retrieved": 1769712495486
+		},
+		{
 			"id": "link-81a50f0f9bbf4efd57e1cf923d7ae6fd",
 			"title": "Liberica JDK 8u482, 11.0.30, 17.0.18, 21.0.10, and 25.0.2 builds are generally available",
 			"link": "https://bell-sw.com/blog/liberica-jdk-8u482-11-0-30-17-0-18-21-0-10-and-25-0-2-builds-are-generally-available/",
@@ -155,13 +162,6 @@
 			"title": "How to Create JavaFX Native Images",
 			"link": "https://bell-sw.com/blog/how-to-create-javafx-native-images/",
 			"contents": "Learn how to compile JavaFX applications into native executables using GraalVM. Step-by-step guide, metadata setup, and GitHub Actions automation.",
-			"retrieved": 1767777625776
-		},
-		{
-			"id": "link-b03ee35e92c1b355f873bdfdc959f369",
-			"title": "Liberica Native Image Kit 24.2.0 is released",
-			"link": "https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/",
-			"contents": "Find out about enhancements in Liberica Native Image Kit 24.2.0 and downloads new builds",
 			"retrieved": 1767777625776
 		}
 	]

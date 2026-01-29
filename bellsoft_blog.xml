@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/</id>
     <title>The BellSoft Blog</title>
-    <updated>2026-01-29T16:45:33.099Z</updated>
+    <updated>2026-01-29T18:49:38.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Java Application Security]]></title>
+        <id>link-0678bb0b367c3b410449092452087245</id>
+        <link href="https://bell-sw.com/blog/a-guide-to-java-application-security/"/>
+        <updated>2026-01-29T18:48:15.486Z</updated>
+        <content type="html"><![CDATA[Explore proven Java app security best practices, inluding safer deserialization, input validation, strong crypto, quarterly JDK patches, hardened containers, and SBOMs.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liberica JDK 8u482, 11.0.30, 17.0.18, 21.0.10, and 25.0.2 builds are generally available]]></title>
         <id>link-81a50f0f9bbf4efd57e1cf923d7ae6fd</id>
@@ -158,12 +165,5 @@
         <link href="https://bell-sw.com/blog/how-to-create-javafx-native-images/"/>
         <updated>2026-01-07T09:20:25.776Z</updated>
         <content type="html"><![CDATA[Learn how to compile JavaFX applications into native executables using GraalVM. Step-by-step guide, metadata setup, and GitHub Actions automation.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica Native Image Kit 24.2.0 is released]]></title>
-        <id>link-b03ee35e92c1b355f873bdfdc959f369</id>
-        <link href="https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/"/>
-        <updated>2026-01-07T09:20:25.776Z</updated>
-        <content type="html"><![CDATA[Find out about enhancements in Liberica Native Image Kit 24.2.0 and downloads new builds]]></content>
     </entry>
 </feed>
