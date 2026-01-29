@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-01-29T14:40:29.287Z</updated>
+    <updated>2026-01-29T16:45:33.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
+    <entry>
+        <title type="html"><![CDATA[Solution Architekt integrační platformy - Praha, IČO — až 200 000 Kč / měsíc]]></title>
+        <id>link-57de1a7a4280807e3f494b77b4130b60</id>
+        <link href="https://www.jobstack.it/it-job/architekt/697b7aba79416"/>
+        <updated>2026-01-29T16:44:18.356Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Architekt</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Enterprise architekt</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+														</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>Principal engineering s.r.o.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 200 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vedoucí aplikační architektury - IČO/HPP — až 200 000 Kč / měsíc]]></title>
         <id>link-c0e3ee4e6c197e1e4c843d9fcf8982e4</id>
@@ -574,36 +604,6 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 120 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BU/IT Analytik – Salesforce — až 190 000 Kč / měsíc]]></title>
-        <id>link-954e67b81d329d4164e0e66534da68b1</id>
-        <link href="https://www.jobstack.it/it-job/analytik/6968aedfd2732"/>
-        <updated>2026-01-15T10:26:29.147Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Analytik</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
-									</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>REDECO</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 190 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
