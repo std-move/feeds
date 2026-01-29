@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-01-29T02:04:26.908Z</updated>
+    <updated>2026-01-29T05:07:29.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.68]]></title>
+        <id>title-f5db3a14885049c49c16785cbcfa88e5</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-01-29T05:06:11.404Z</updated>
+        <content type="html"><![CDATA[Released Jan 29, 2026 - 340.66 KB — add announcement banner to YouTube homepage and revamp reveal boxes]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.67]]></title>
         <id>title-1db0606bd5bb2f1d84b1b0a3c5122f9a</id>
@@ -172,12 +179,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released May 7, 2023 - 325.43 KB — Added new options:<br>   - disable autoplay for the channel page<br>   - hide VODs on the subscriptions page<br>   - remove the “context” block]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.39]]></title>
-        <id>title-935009ba0423d534fe3f94e1ff7dbbf3</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released Apr 14, 2023 - 325.17 KB — Don't autofocus the search bar if there's text in it]]></content>
     </entry>
 </feed>

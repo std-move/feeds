@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-f5db3a14885049c49c16785cbcfa88e5",
+			"title": "Version 4.3.68",
+			"contents": "Released Jan 29, 2026 - 340.66 KB — add announcement banner to YouTube homepage and revamp reveal boxes",
+			"retrieved": 1769663171404
+		},
+		{
 			"id": "title-1db0606bd5bb2f1d84b1b0a3c5122f9a",
 			"title": "Version 4.3.67",
 			"contents": "Released Jan 28, 2026 - 337.89 KB — Add an announcement banner",
@@ -145,12 +151,6 @@
 			"id": "title-e2e717bb88ff56b0619ac22f9bb33977",
 			"title": "Version 4.3.40",
 			"contents": "Released May 7, 2023 - 325.43 KB — Added new options:<br>   - disable autoplay for the channel page<br>   - hide VODs on the subscriptions page<br>   - remove the “context” block",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-935009ba0423d534fe3f94e1ff7dbbf3",
-			"title": "Version 4.3.39",
-			"contents": "Released Apr 14, 2023 - 325.17 KB — Don't autofocus the search bar if there's text in it",
 			"retrieved": 1767548017655
 		}
 	]
