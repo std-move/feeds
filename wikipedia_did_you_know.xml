@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-30T16:42:10.703Z</updated>
+    <updated>2026-01-30T18:45:02.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[... that a giant mask was added to the <i><b><a href="/wiki/El_Colotero" title="El Colotero">El Colotero</a></b></i> sculpture in 2020 to raise awareness of COVID-19?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a nearly-vacant house]]></title>
+        <title type="html"><![CDATA[a nearly vacant house]]></title>
         <id>link-9ee5d8da5f34a678b10da7e824a06037</id>
         <link href="https://en.wikipedia.org/wiki/John_Henry_Hammond_House"/>
         <updated>2026-01-30T02:03:49.586Z</updated>
-        <content type="html"><![CDATA[... that the New York City Police Department was deceived into guarding <b><a href="/wiki/John_Henry_Hammond_House" title="John Henry Hammond House">a nearly-vacant house</a></b>?]]></content>
+        <content type="html"><![CDATA[... that the New York City Police Department was deceived into guarding <b><a href="/wiki/John_Henry_Hammond_House" title="John Henry Hammond House">a nearly vacant house</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a graduation song]]></title>
