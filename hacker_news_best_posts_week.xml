@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-01-31T06:42:00.177Z</updated>
+    <updated>2026-01-31T08:33:13.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-74ce5a5b2db3383f837f0455c26ec2d1</id>
         <link href="https://news.ycombinator.com/item?id=46795864"/>
         <updated>2026-01-28T18:38:56.866Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46795864">1844 points</span> by <a href="user?id=bobsterlobster" class="hnuser">bobsterlobster</a> <span class="age" title="2026-01-28T14:28:21 1769610501"><a href="item?id=46795864">2 days ago</a></span> <span id="unv_46795864"></span> | <a href="item?id=46795864">1482&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.himthe.dev/blog/microsoft-to-linux">Microsoft forced me to switch to Linux</a><span class="sitebit comhead"> (<a href="from?site=himthe.dev"><span class="sitestr">himthe.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46795864">1845 points</span> by <a href="user?id=bobsterlobster" class="hnuser">bobsterlobster</a> <span class="age" title="2026-01-28T14:28:21 1769610501"><a href="item?id=46795864">2 days ago</a></span> <span id="unv_46795864"></span> | <a href="item?id=46795864">1482&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.himthe.dev/blog/microsoft-to-linux">Microsoft forced me to switch to Linux</a><span class="sitebit comhead"> (<a href="from?site=himthe.dev"><span class="sitestr">himthe.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TikTok users can't upload anti-ICE videos. The company blames tech issues (cnn.com)]]></title>
@@ -31,21 +31,21 @@
         <id>link-bf3f16d26dd2eda6636431ce082d8e3c</id>
         <link href="https://news.ycombinator.com/item?id=46820360"/>
         <updated>2026-01-30T12:57:25.115Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46820360">1400 points</span> by <a href="user?id=teej" class="hnuser">teej</a> <span class="age" title="2026-01-30T03:55:34 1769745334"><a href="item?id=46820360">1 day ago</a></span> <span id="unv_46820360"></span> | <a href="item?id=46820360">663&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.moltbook.com/">Moltbook</a><span class="sitebit comhead"> (<a href="from?site=moltbook.com"><span class="sitestr">moltbook.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple to soon take up to 30% cut from all Patreon creators in iOS app (macrumors.com)]]></title>
-        <id>link-bf1274bef46024efa3c56a09e5c843f9</id>
-        <link href="https://news.ycombinator.com/item?id=46801419"/>
-        <updated>2026-01-29T14:38:26.771Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46801419">1090 points</span> by <a href="user?id=pier25" class="hnuser">pier25</a> <span class="age" title="2026-01-28T20:59:30 1769633970"><a href="item?id=46801419">2 days ago</a></span> <span id="unv_46801419"></span> | <a href="item?id=46801419">899&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.macrumors.com/2026/01/28/patreon-apple-tax/">Apple to soon take up to 30% cut from all Patreon creators in iOS app</a><span class="sitebit comhead"> (<a href="from?site=macrumors.com"><span class="sitestr">macrumors.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46820360">1437 points</span> by <a href="user?id=teej" class="hnuser">teej</a> <span class="age" title="2026-01-30T03:55:34 1769745334"><a href="item?id=46820360">1 day ago</a></span> <span id="unv_46820360"></span> | <a href="item?id=46820360">679&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.moltbook.com/">Moltbook</a><span class="sitebit comhead"> (<a href="from?site=moltbook.com"><span class="sitestr">moltbook.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Antirender: remove the glossy shine on architectural renderings (antirender.com)]]></title>
         <id>link-30ec5fa54f044edfd827c0015b777d21</id>
         <link href="https://news.ycombinator.com/item?id=46829147"/>
         <updated>2026-01-31T01:59:33.920Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46829147">988 points</span> by <a href="user?id=iambateman" class="hnuser">iambateman</a> <span class="age" title="2026-01-30T20:05:24 1769803524"><a href="item?id=46829147">10 hours ago</a></span> <span id="unv_46829147"></span> | <a href="item?id=46829147">231&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirender.com/">Antirender: remove the glossy shine on architectural renderings</a><span class="sitebit comhead"> (<a href="from?site=antirender.com"><span class="sitestr">antirender.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46829147">1114 points</span> by <a href="user?id=iambateman" class="hnuser">iambateman</a> <span class="age" title="2026-01-30T20:05:24 1769803524"><a href="item?id=46829147">12 hours ago</a></span> <span id="unv_46829147"></span> | <a href="item?id=46829147">254&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirender.com/">Antirender: remove the glossy shine on architectural renderings</a><span class="sitebit comhead"> (<a href="from?site=antirender.com"><span class="sitestr">antirender.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple to soon take up to 30% cut from all Patreon creators in iOS app (macrumors.com)]]></title>
+        <id>link-bf1274bef46024efa3c56a09e5c843f9</id>
+        <link href="https://news.ycombinator.com/item?id=46801419"/>
+        <updated>2026-01-29T14:38:26.771Z</updated>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46801419">1091 points</span> by <a href="user?id=pier25" class="hnuser">pier25</a> <span class="age" title="2026-01-28T20:59:30 1769633970"><a href="item?id=46801419">2 days ago</a></span> <span id="unv_46801419"></span> | <a href="item?id=46801419">901&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.macrumors.com/2026/01/28/patreon-apple-tax/">Apple to soon take up to 30% cut from all Patreon creators in iOS app</a><span class="sitebit comhead"> (<a href="from?site=macrumors.com"><span class="sitestr">macrumors.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FBI is investigating Minnesota Signal chats tracking ICE (nbcnews.com)]]></title>
@@ -59,7 +59,7 @@
         <id>link-0982f14d5b9227c827a2fd7e0afa499f</id>
         <link href="https://news.ycombinator.com/item?id=46808251"/>
         <updated>2026-01-29T16:44:18.356Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46808251">918 points</span> by <a href="user?id=mijailt" class="hnuser">mijailt</a> <span class="age" title="2026-01-29T10:35:00 1769682900"><a href="item?id=46808251">1 day ago</a></span> <span id="unv_46808251"></span> | <a href="item?id=46808251">630&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.ncase.me/on-depression/">Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a><span class="sitebit comhead"> (<a href="from?site=ncase.me"><span class="sitestr">ncase.me</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46808251">919 points</span> by <a href="user?id=mijailt" class="hnuser">mijailt</a> <span class="age" title="2026-01-29T10:35:00 1769682900"><a href="item?id=46808251">1 day ago</a></span> <span id="unv_46808251"></span> | <a href="item?id=46808251">631&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.ncase.me/on-depression/">Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a><span class="sitebit comhead"> (<a href="from?site=ncase.me"><span class="sitestr">ncase.me</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A few random notes from Claude coding quite a bit last few weeks (twitter.com/karpathy)]]></title>
@@ -73,7 +73,7 @@
         <id>link-d6875eb882ccead9eb2bd5eacd5713b0</id>
         <link href="https://news.ycombinator.com/item?id=46760329"/>
         <updated>2026-01-27T14:31:08.792Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46760329">902 points</span> by <a href="user?id=mhb" class="hnuser">mhb</a> <span class="age" title="2026-01-26T00:40:01 1769388001"><a href="item?id=46760329">5 days ago</a></span> <span id="unv_46760329"></span> | <a href="item?id=46760329">711&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.iranintl.com/en/202601255198">Over 36,500 killed in Iran's deadliest massacre, documents reveal</a><span class="sitebit comhead"> (<a href="from?site=iranintl.com"><span class="sitestr">iranintl.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46760329">902 points</span> by <a href="user?id=mhb" class="hnuser">mhb</a> <span class="age" title="2026-01-26T00:40:01 1769388001"><a href="item?id=46760329">5 days ago</a></span> <span id="unv_46760329"></span> | <a href="item?id=46760329">712&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.iranintl.com/en/202601255198">Over 36,500 killed in Iran's deadliest massacre, documents reveal</a><span class="sitebit comhead"> (<a href="from?site=iranintl.com"><span class="sitestr">iranintl.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc. (twitter.com/lellouchenico)]]></title>
@@ -108,35 +108,35 @@
         <id>link-e369d393493b75b4295aaabb2071f0c1</id>
         <link href="https://news.ycombinator.com/item?id=46810282"/>
         <updated>2026-01-30T05:08:41.630Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46810282">743 points</span> by <a href="user?id=qwesr123" class="hnuser">qwesr123</a> <span class="age" title="2026-01-29T13:59:07 1769695147"><a href="item?id=46810282">1 day ago</a></span> <span id="unv_46810282"></span> | <a href="item?id=46810282">344&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://marginlab.ai/trackers/claude-code/">Claude Code daily benchmarks for degradation tracking</a><span class="sitebit comhead"> (<a href="from?site=marginlab.ai"><span class="sitestr">marginlab.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46810282">744 points</span> by <a href="user?id=qwesr123" class="hnuser">qwesr123</a> <span class="age" title="2026-01-29T13:59:07 1769695147"><a href="item?id=46810282">1 day ago</a></span> <span id="unv_46810282"></span> | <a href="item?id=46810282">344&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://marginlab.ai/trackers/claude-code/">Claude Code daily benchmarks for degradation tracking</a><span class="sitebit comhead"> (<a href="from?site=marginlab.ai"><span class="sitestr">marginlab.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amazon cuts 16k jobs (reuters.com)]]></title>
         <id>link-3e116492cc9b78c88ebc175d2396d0e5</id>
         <link href="https://news.ycombinator.com/item?id=46796745"/>
         <updated>2026-01-29T05:06:11.404Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46796745">701 points</span> by <a href="user?id=DGAP" class="hnuser">DGAP</a> <span class="age" title="2026-01-28T15:39:11 1769614751"><a href="item?id=46796745">2 days ago</a></span> <span id="unv_46796745"></span> | <a href="item?id=46796745">972&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/">Amazon cuts 16k jobs</a><span class="sitebit comhead"> (<a href="from?site=reuters.com"><span class="sitestr">reuters.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46796745">701 points</span> by <a href="user?id=DGAP" class="hnuser">DGAP</a> <span class="age" title="2026-01-28T15:39:11 1769614751"><a href="item?id=46796745">2 days ago</a></span> <span id="unv_46796745"></span> | <a href="item?id=46796745">973&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/">Amazon cuts 16k jobs</a><span class="sitebit comhead"> (<a href="from?site=reuters.com"><span class="sitestr">reuters.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Europe’s next-generation weather satellite sends back first images (esa.int)]]></title>
         <id>link-9472108dc6742f07f49c495627124258</id>
         <link href="https://news.ycombinator.com/item?id=46806773"/>
         <updated>2026-01-29T20:31:53.422Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46806773">694 points</span> by <a href="user?id=saubeidl" class="hnuser">saubeidl</a> <span class="age" title="2026-01-29T07:07:17 1769670437"><a href="item?id=46806773">1 day ago</a></span> <span id="unv_46806773"></span> | <a href="item?id=46806773">98&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images">Europe’s next-generation weather satellite sends back first images</a><span class="sitebit comhead"> (<a href="from?site=esa.int"><span class="sitestr">esa.int</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A macOS app that blurs your screen when you slouch (github.com/tldev)]]></title>
-        <id>link-e1b499eff3a4aaef4f5645cdeddeef4f</id>
-        <link href="https://news.ycombinator.com/item?id=46754944"/>
-        <updated>2026-01-26T06:38:32.518Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46754944">683 points</span> by <a href="user?id=dnw" class="hnuser">dnw</a> <span class="age" title="2026-01-25T15:34:51 1769355291"><a href="item?id=46754944">5 days ago</a></span> <span id="unv_46754944"></span> | <a href="item?id=46754944">222&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/tldev/posturr">A macOS app that blurs your screen when you slouch</a><span class="sitebit comhead"> (<a href="from?site=github.com/tldev"><span class="sitestr">github.com/tldev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46806773">697 points</span> by <a href="user?id=saubeidl" class="hnuser">saubeidl</a> <span class="age" title="2026-01-29T07:07:17 1769670437"><a href="item?id=46806773">2 days ago</a></span> <span id="unv_46806773"></span> | <a href="item?id=46806773">98&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images">Europe’s next-generation weather satellite sends back first images</a><span class="sitebit comhead"> (<a href="from?site=esa.int"><span class="sitestr">esa.int</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GOG: Linux "the next major frontier" for gaming as it works on a native client (xda-developers.com)]]></title>
         <id>link-5f0b4ce721e031c56d2c0d60b838db93</id>
         <link href="https://news.ycombinator.com/item?id=46821774"/>
         <updated>2026-01-30T20:31:28.479Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46821774">674 points</span> by <a href="user?id=franczesko" class="hnuser">franczesko</a> <span class="age" title="2026-01-30T08:09:41 1769760581"><a href="item?id=46821774">22 hours ago</a></span> <span id="unv_46821774"></span> | <a href="item?id=46821774">358&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/">GOG: Linux "the next major frontier" for gaming as it works on a native client</a><span class="sitebit comhead"> (<a href="from?site=xda-developers.com"><span class="sitestr">xda-developers.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46821774">683 points</span> by <a href="user?id=franczesko" class="hnuser">franczesko</a> <span class="age" title="2026-01-30T08:09:41 1769760581"><a href="item?id=46821774">1 day ago</a></span> <span id="unv_46821774"></span> | <a href="item?id=46821774">367&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/">GOG: Linux "the next major frontier" for gaming as it works on a native client</a><span class="sitebit comhead"> (<a href="from?site=xda-developers.com"><span class="sitestr">xda-developers.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A macOS app that blurs your screen when you slouch (github.com/tldev)]]></title>
+        <id>link-e1b499eff3a4aaef4f5645cdeddeef4f</id>
+        <link href="https://news.ycombinator.com/item?id=46754944"/>
+        <updated>2026-01-26T06:38:32.518Z</updated>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46754944">683 points</span> by <a href="user?id=dnw" class="hnuser">dnw</a> <span class="age" title="2026-01-25T15:34:51 1769355291"><a href="item?id=46754944">5 days ago</a></span> <span id="unv_46754944"></span> | <a href="item?id=46754944">222&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/tldev/posturr">A macOS app that blurs your screen when you slouch</a><span class="sitebit comhead"> (<a href="from?site=github.com/tldev"><span class="sitestr">github.com/tldev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[flagged] Yes, It's Fascism (theatlantic.com)]]></title>
@@ -150,14 +150,14 @@
         <id>link-6aa496b5746c5cc66eda2708ca7dc74f</id>
         <link href="https://news.ycombinator.com/item?id=46805665"/>
         <updated>2026-01-29T20:31:53.422Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46805665">669 points</span> by <a href="user?id=giancarlostoro" class="hnuser">giancarlostoro</a> <span class="age" title="2026-01-29T03:58:33 1769659113"><a href="item?id=46805665">2 days ago</a></span> <span id="unv_46805665"></span> | <a href="item?id=46805665">112&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://web.mit.edu/jemorris/humor/500-miles">We can’t send mail farther than 500 miles (2002)</a><span class="sitebit comhead"> (<a href="from?site=web.mit.edu"><span class="sitestr">web.mit.edu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46805665">671 points</span> by <a href="user?id=giancarlostoro" class="hnuser">giancarlostoro</a> <span class="age" title="2026-01-29T03:58:33 1769659113"><a href="item?id=46805665">2 days ago</a></span> <span id="unv_46805665"></span> | <a href="item?id=46805665">112&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://web.mit.edu/jemorris/humor/500-miles">We can’t send mail farther than 500 miles (2002)</a><span class="sitebit comhead"> (<a href="from?site=web.mit.edu"><span class="sitestr">web.mit.edu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Please don't say mean things about the AI I just invested a billion dollars in (mcsweeneys.net)]]></title>
         <id>link-fb957963e1f85f7bf20d886fd1f1ce1a</id>
         <link href="https://news.ycombinator.com/item?id=46803356"/>
         <updated>2026-01-29T08:40:41.447Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46803356">667 points</span> by <a href="user?id=randycupertino" class="hnuser">randycupertino</a> <span class="age" title="2026-01-28T23:36:23 1769643383"><a href="item?id=46803356">2 days ago</a></span> <span id="unv_46803356"></span> | <a href="item?id=46803356">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in">Please don't say mean things about the AI I just invested a billion dollars in</a><span class="sitebit comhead"> (<a href="from?site=mcsweeneys.net"><span class="sitestr">mcsweeneys.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46803356">667 points</span> by <a href="user?id=randycupertino" class="hnuser">randycupertino</a> <span class="age" title="2026-01-28T23:36:23 1769643383"><a href="item?id=46803356">2 days ago</a></span> <span id="unv_46803356"></span> | <a href="item?id=46803356">304&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in">Please don't say mean things about the AI I just invested a billion dollars in</a><span class="sitebit comhead"> (<a href="from?site=mcsweeneys.net"><span class="sitestr">mcsweeneys.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Television is 100 years old today (diamondgeezer.blogspot.com)]]></title>
@@ -171,14 +171,14 @@
         <id>link-feb862d615caeffaa04acd9f1d033c19</id>
         <link href="https://news.ycombinator.com/item?id=46812933"/>
         <updated>2026-01-30T06:51:53.441Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46812933">648 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-01-29T17:02:39 1769706159"><a href="item?id=46812933">1 day ago</a></span> <span id="unv_46812933"></span> | <a href="item?id=46812933">320&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/">Project Genie: Experimenting with infinite, interactive worlds</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46812933">650 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-01-29T17:02:39 1769706159"><a href="item?id=46812933">1 day ago</a></span> <span id="unv_46812933"></span> | <a href="item?id=46812933">320&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/">Project Genie: Experimenting with infinite, interactive worlds</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenClaw – Moltbot Renamed Again (openclaw.ai)]]></title>
         <id>link-9296a9f77fcb03de872f1137384fa84b</id>
         <link href="https://news.ycombinator.com/item?id=46820783"/>
         <updated>2026-01-30T20:31:28.479Z</updated>
-        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46820783">619 points</span> by <a href="user?id=ed" class="hnuser">ed</a> <span class="age" title="2026-01-30T05:14:48 1769750088"><a href="item?id=46820783">1 day ago</a></span> <span id="unv_46820783"></span> | <a href="item?id=46820783">312&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openclaw.ai/blog/introducing-openclaw">OpenClaw – Moltbot Renamed Again</a><span class="sitebit comhead"> (<a href="from?site=openclaw.ai"><span class="sitestr">openclaw.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46820783">624 points</span> by <a href="user?id=ed" class="hnuser">ed</a> <span class="age" title="2026-01-30T05:14:48 1769750088"><a href="item?id=46820783">1 day ago</a></span> <span id="unv_46820783"></span> | <a href="item?id=46820783">314&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openclaw.ai/blog/introducing-openclaw">OpenClaw – Moltbot Renamed Again</a><span class="sitebit comhead"> (<a href="from?site=openclaw.ai"><span class="sitestr">openclaw.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple introduces new AirTag with longer range and improved findability (apple.com)]]></title>
