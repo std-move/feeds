@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-01-31T16:30:11.874Z</updated>
+    <updated>2026-01-31T18:35:05.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
-    <entry>
-        <title type="html"><![CDATA[OKTAGON 83 — 2026-01-31 11:00:00 -0500]]></title>
-        <id>link-290ea81cd41f304799243d84be4f67c8</id>
-        <link href="https://www.tapology.com/fightcenter/events/134546-oktagon-83-stuttgart"/>
-        <updated>2026-01-16T14:24:34.658Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/134546-oktagon-83-stuttgart">OKTAGON 83</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-31 11:00:00 -0500">29 minutes ago</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[UFC 325 — 2026-01-31 17:00:00 -0500]]></title>
         <id>link-9e10fa8b938a6b1c16eb71cfd19d1b25</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136549-ufc-325-volkanovski-vs-lopes-2">UFC 325</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-31 17:00:00 -0500">in 5 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-01-31 17:00:00 -0500">in 3 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136701-teofimo-vs-shakur-ring-vi">Teofimo vs. Shakur</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-01-31 17:00:00 -0500">in 5 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-01-31 17:00:00 -0500">in 3 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-02-07 18:00:00 -0500">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE Fight Night 40 — 2026-02-13 21:00:00 -0500]]></title>
+        <id>link-0b10194678bbb2ac8c19264519da3a06</id>
+        <link href="https://www.tapology.com/fightcenter/events/137456-one-fight-night-40-buntan-vs-hemetsberger"/>
+        <updated>2026-01-31T18:33:43.913Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137456-one-fight-night-40-buntan-vs-hemetsberger">ONE Fight Night 40</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-02-13 21:00:00 -0500">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>
