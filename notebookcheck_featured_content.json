@@ -4,6 +4,20 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-c6024498abe88996efcfe8eb147a3dca",
+			"title": "▶ AI - but it's actually fun and useful!",
+			"link": "https://www.notebookcheck.net/AI-but-it-s-actually-fun-and-useful.1217551.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb46-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb46-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb46-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb46-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb46-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb46-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/f/csm_thumb46_ac2044e122.jpg\" loading=\"lazy\" alt=\"AI - but it's actually fun and useful!\"></picture><div class=\"intro_featured_bar_title\">▶ AI - but it's actually fun and useful!</div>",
+			"retrieved": 1769956021659
+		},
+		{
+			"id": "link-b394a53d787e499d00ad81860172ae3b",
+			"title": "Panther Lake-powered Asus ZenBook Duo tested (Update)",
+			"link": "https://www.notebookcheck.net/Asus-ZenBook-Duo-UX8407-convertible-review-Intel-Panther-Lake-is-a-game-changer.1212285.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/zenbook_duo_2026_case_35-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/zenbook_duo_2026_case_35-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/zenbook_duo_2026_case_35-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/zenbook_duo_2026_case_35-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/zenbook_duo_2026_case_35-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/zenbook_duo_2026_case_35-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/7/csm_zenbook_duo_2026_case_35_66df06159a.jpg\" loading=\"lazy\" alt=\"Asus ZenBook Duo UX8407 convertible review - Intel Panther Lake is a game-changer\"></picture><div class=\"intro_featured_bar_title\">Panther Lake-powered Asus ZenBook Duo tested (Update)</div>",
+			"retrieved": 1769956021659
+		},
+		{
 			"id": "link-4f7430813b044cf12cdab68de93def42",
 			"title": "Affordable robot vacuum: Lefant M3 Max review",
 			"link": "https://www.notebookcheck.net/Affordable-robotic-vacuum-cleaner-with-mops-and-station-Lefant-M3-Max-review.1217291.0.html",
@@ -37,20 +51,6 @@
 			"link": "https://www.notebookcheck.net/Xiaomi-Redmi-Note-15-Pro-5G-Smartphone-Review-Near-bezel-less-mid-range-phone-with-IP68-rating-and-30-hour-battery-life.1212512.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro_5G/Xiaomi_Redmi_Note_15_Pro_5G_Teaser-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro_5G/Xiaomi_Redmi_Note_15_Pro_5G_Teaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro_5G/Xiaomi_Redmi_Note_15_Pro_5G_Teaser-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro_5G/Xiaomi_Redmi_Note_15_Pro_5G_Teaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro_5G/Xiaomi_Redmi_Note_15_Pro_5G_Teaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro_5G/Xiaomi_Redmi_Note_15_Pro_5G_Teaser-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/9/csm_Xiaomi_Redmi_Note_15_Pro_5G_Teaser_a063a00ab1.jpg\" loading=\"lazy\" alt=\"Xiaomi Redmi Note 15 Pro 5G Teaser\"></picture><div class=\"intro_featured_bar_title\">Redmi Note 15 Pro 5G: 30 hours run time</div>",
 			"retrieved": 1769669406828
-		},
-		{
-			"id": "link-c09203f3c95ca0f3a858dab96dc35a8e",
-			"title": "Best camera phones tested and compared",
-			"link": "https://www.notebookcheck.net/Ranking-Best-camera-smartphones-tested-by-Notebookcheck.283106.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/f/csm_bestcameraphone_8420e304d4.jpg\" loading=\"lazy\" alt=\"The best smartphones for digital photography\"></picture><div class=\"intro_featured_bar_title\">Best camera phones tested and compared</div>",
-			"retrieved": 1769604756016
-		},
-		{
-			"id": "link-8492710bda7a31e5091bc7c2f246d17d",
-			"title": "▶ Intel's Panther Lake X9 - delivered as promised!",
-			"link": "https://www.notebookcheck.net/Intel-s-Panther-Lake-X9-delivered-as-promised-Asus-Zenbook-Duo-Review.1212511.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0151-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/9/csm_thumb_0151_e7b0910499.jpg\" loading=\"lazy\" alt=\"Intel's Panther Lake X9 - delivered as promised! Asus Zenbook Duo Review\"></picture><div class=\"intro_featured_bar_title\">▶ Intel's Panther Lake X9 - delivered as promised!</div>",
-			"retrieved": 1769445353969
 		}
 	]
 }
