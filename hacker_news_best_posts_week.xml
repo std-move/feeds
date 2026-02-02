@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-02T10:05:21.612Z</updated>
+    <updated>2026-02-02T10:46:43.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-74ce5a5b2db3383f837f0455c26ec2d1</id>
         <link href="https://news.ycombinator.com/item?id=46795864"/>
         <updated>2026-01-28T18:38:56.866Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46795864">1860 points</span> by <a href="user?id=bobsterlobster" class="hnuser">bobsterlobster</a> <span class="age" title="2026-01-28T14:28:21 1769610501"><a href="item?id=46795864">4 days ago</a></span> <span id="unv_46795864"></span> | <a href="item?id=46795864">1493&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.himthe.dev/blog/microsoft-to-linux">Microsoft forced me to switch to Linux</a><span class="sitebit comhead"> (<a href="from?site=himthe.dev"><span class="sitestr">himthe.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46795864">1860 points</span> by <a href="user?id=bobsterlobster" class="hnuser">bobsterlobster</a> <span class="age" title="2026-01-28T14:28:21 1769610501"><a href="item?id=46795864">4 days ago</a></span> <span id="unv_46795864"></span> | <a href="item?id=46795864">1494&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.himthe.dev/blog/microsoft-to-linux">Microsoft forced me to switch to Linux</a><span class="sitebit comhead"> (<a href="from?site=himthe.dev"><span class="sitestr">himthe.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Antirender: remove the glossy shine on architectural renderings (antirender.com)]]></title>
@@ -52,21 +52,21 @@
         <id>link-0982f14d5b9227c827a2fd7e0afa499f</id>
         <link href="https://news.ycombinator.com/item?id=46808251"/>
         <updated>2026-01-29T16:44:18.356Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46808251">941 points</span> by <a href="user?id=mijailt" class="hnuser">mijailt</a> <span class="age" title="2026-01-29T10:35:00 1769682900"><a href="item?id=46808251">3 days ago</a></span> <span id="unv_46808251"></span> | <a href="item?id=46808251">636&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.ncase.me/on-depression/">Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a><span class="sitebit comhead"> (<a href="from?site=ncase.me"><span class="sitestr">ncase.me</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46808251">941 points</span> by <a href="user?id=mijailt" class="hnuser">mijailt</a> <span class="age" title="2026-01-29T10:35:00 1769682900"><a href="item?id=46808251">4 days ago</a></span> <span id="unv_46808251"></span> | <a href="item?id=46808251">636&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.ncase.me/on-depression/">Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a><span class="sitebit comhead"> (<a href="from?site=ncase.me"><span class="sitestr">ncase.me</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mobile carriers can get your GPS location (dywa.ng)]]></title>
         <id>link-3490681f2409f1919503b5fd2f75a297</id>
         <link href="https://news.ycombinator.com/item?id=46838597"/>
         <updated>2026-02-01T05:22:13.304Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838597">850 points</span> by <a href="user?id=cbeuw" class="hnuser">cbeuw</a> <span class="age" title="2026-01-31T17:21:34 1769880094"><a href="item?id=46838597">1 day ago</a></span> <span id="unv_46838597"></span> | <a href="item?id=46838597">541&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://an.dywa.ng/carrier-gnss.html">Mobile carriers can get your GPS location</a><span class="sitebit comhead"> (<a href="from?site=dywa.ng"><span class="sitestr">dywa.ng</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838597">851 points</span> by <a href="user?id=cbeuw" class="hnuser">cbeuw</a> <span class="age" title="2026-01-31T17:21:34 1769880094"><a href="item?id=46838597">1 day ago</a></span> <span id="unv_46838597"></span> | <a href="item?id=46838597">541&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://an.dywa.ng/carrier-gnss.html">Mobile carriers can get your GPS location</a><span class="sitebit comhead"> (<a href="from?site=dywa.ng"><span class="sitestr">dywa.ng</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Euro firms must ditch Uncle Sam's clouds and go EU-native (theregister.com)]]></title>
         <id>link-7546b61e58181ddff31da4a9e22ea4ab</id>
         <link href="https://news.ycombinator.com/item?id=46835336"/>
         <updated>2026-01-31T18:33:43.913Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46835336">787 points</span> by <a href="user?id=jamesblonde" class="hnuser">jamesblonde</a> <span class="age" title="2026-01-31T10:34:07 1769855647"><a href="item?id=46835336">1 day ago</a></span> <span id="unv_46835336"></span> | <a href="item?id=46835336">680&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/">Euro firms must ditch Uncle Sam's clouds and go EU-native</a><span class="sitebit comhead"> (<a href="from?site=theregister.com"><span class="sitestr">theregister.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46835336">790 points</span> by <a href="user?id=jamesblonde" class="hnuser">jamesblonde</a> <span class="age" title="2026-01-31T10:34:07 1769855647"><a href="item?id=46835336">2 days ago</a></span> <span id="unv_46835336"></span> | <a href="item?id=46835336">681&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/">Euro firms must ditch Uncle Sam's clouds and go EU-native</a><span class="sitebit comhead"> (<a href="from?site=theregister.com"><span class="sitestr">theregister.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Prism (openai.com)]]></title>
@@ -94,35 +94,35 @@
         <id>link-016f55dc5ff5c13601497d72388a81c9</id>
         <link href="https://news.ycombinator.com/item?id=46838417"/>
         <updated>2026-02-01T02:28:03.295Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838417">723 points</span> by <a href="user?id=Teever" class="hnuser">Teever</a> <span class="age" title="2026-01-31T17:06:22 1769879182"><a href="item?id=46838417">1 day ago</a></span> <span id="unv_46838417"></span> | <a href="item?id=46838417">544&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://yle.fi/a/74-20207494">Finland looks to introduce Australia-style ban on social media</a><span class="sitebit comhead"> (<a href="from?site=yle.fi"><span class="sitestr">yle.fi</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe’s next-generation weather satellite sends back first images (esa.int)]]></title>
-        <id>link-9472108dc6742f07f49c495627124258</id>
-        <link href="https://news.ycombinator.com/item?id=46806773"/>
-        <updated>2026-01-29T20:31:53.422Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46806773">705 points</span> by <a href="user?id=saubeidl" class="hnuser">saubeidl</a> <span class="age" title="2026-01-29T07:07:17 1769670437"><a href="item?id=46806773">4 days ago</a></span> <span id="unv_46806773"></span> | <a href="item?id=46806773">98&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images">Europe’s next-generation weather satellite sends back first images</a><span class="sitebit comhead"> (<a href="from?site=esa.int"><span class="sitestr">esa.int</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon cuts 16k jobs (reuters.com)]]></title>
-        <id>link-3e116492cc9b78c88ebc175d2396d0e5</id>
-        <link href="https://news.ycombinator.com/item?id=46796745"/>
-        <updated>2026-01-29T05:06:11.404Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46796745">702 points</span> by <a href="user?id=DGAP" class="hnuser">DGAP</a> <span class="age" title="2026-01-28T15:39:11 1769614751"><a href="item?id=46796745">4 days ago</a></span> <span id="unv_46796745"></span> | <a href="item?id=46796745">975&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/">Amazon cuts 16k jobs</a><span class="sitebit comhead"> (<a href="from?site=reuters.com"><span class="sitestr">reuters.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838417">723 points</span> by <a href="user?id=Teever" class="hnuser">Teever</a> <span class="age" title="2026-01-31T17:06:22 1769879182"><a href="item?id=46838417">1 day ago</a></span> <span id="unv_46838417"></span> | <a href="item?id=46838417">545&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://yle.fi/a/74-20207494">Finland looks to introduce Australia-style ban on social media</a><span class="sitebit comhead"> (<a href="from?site=yle.fi"><span class="sitestr">yle.fi</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Teaching my neighbor to keep the volume down (idiallo.com)]]></title>
         <id>link-97814a1694eeca491e72dc132c7324a2</id>
         <link href="https://news.ycombinator.com/item?id=46848415"/>
         <updated>2026-02-02T02:11:37.326Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46848415">697 points</span> by <a href="user?id=firefoxd" class="hnuser">firefoxd</a> <span class="age" title="2026-02-01T19:00:46 1769972446"><a href="item?id=46848415">15 hours ago</a></span> <span id="unv_46848415"></span> | <a href="item?id=46848415">328&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down">Teaching my neighbor to keep the volume down</a><span class="sitebit comhead"> (<a href="from?site=idiallo.com"><span class="sitestr">idiallo.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46848415">706 points</span> by <a href="user?id=firefoxd" class="hnuser">firefoxd</a> <span class="age" title="2026-02-01T19:00:46 1769972446"><a href="item?id=46848415">15 hours ago</a></span> <span id="unv_46848415"></span> | <a href="item?id=46848415">331&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down">Teaching my neighbor to keep the volume down</a><span class="sitebit comhead"> (<a href="from?site=idiallo.com"><span class="sitestr">idiallo.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe’s next-generation weather satellite sends back first images (esa.int)]]></title>
+        <id>link-9472108dc6742f07f49c495627124258</id>
+        <link href="https://news.ycombinator.com/item?id=46806773"/>
+        <updated>2026-01-29T20:31:53.422Z</updated>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46806773">705 points</span> by <a href="user?id=saubeidl" class="hnuser">saubeidl</a> <span class="age" title="2026-01-29T07:07:17 1769670437"><a href="item?id=46806773">4 days ago</a></span> <span id="unv_46806773"></span> | <a href="item?id=46806773">98&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images">Europe’s next-generation weather satellite sends back first images</a><span class="sitebit comhead"> (<a href="from?site=esa.int"><span class="sitestr">esa.int</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon cuts 16k jobs (reuters.com)]]></title>
+        <id>link-3e116492cc9b78c88ebc175d2396d0e5</id>
+        <link href="https://news.ycombinator.com/item?id=46796745"/>
+        <updated>2026-01-29T05:06:11.404Z</updated>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46796745">702 points</span> by <a href="user?id=DGAP" class="hnuser">DGAP</a> <span class="age" title="2026-01-28T15:39:11 1769614751"><a href="item?id=46796745">4 days ago</a></span> <span id="unv_46796745"></span> | <a href="item?id=46796745">975&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/">Amazon cuts 16k jobs</a><span class="sitebit comhead"> (<a href="from?site=reuters.com"><span class="sitestr">reuters.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netbird – Open Source Zero Trust Networking (netbird.io)]]></title>
         <id>link-2119f6e21504f4966c07e09532e1c96a</id>
         <link href="https://news.ycombinator.com/item?id=46844870"/>
         <updated>2026-02-01T18:36:08.579Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46844870">681 points</span> by <a href="user?id=l1am0" class="hnuser">l1am0</a> <span class="age" title="2026-02-01T09:44:01 1769939041"><a href="item?id=46844870">1 day ago</a></span> <span id="unv_46844870"></span> | <a href="item?id=46844870">262&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://netbird.io/">Netbird – Open Source Zero Trust Networking</a><span class="sitebit comhead"> (<a href="from?site=netbird.io"><span class="sitestr">netbird.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46844870">685 points</span> by <a href="user?id=l1am0" class="hnuser">l1am0</a> <span class="age" title="2026-02-01T09:44:01 1769939041"><a href="item?id=46844870">1 day ago</a></span> <span id="unv_46844870"></span> | <a href="item?id=46844870">264&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://netbird.io/">Netbird – Open Source Zero Trust Networking</a><span class="sitebit comhead"> (<a href="from?site=netbird.io"><span class="sitestr">netbird.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[We can’t send mail farther than 500 miles (2002) (web.mit.edu)]]></title>
@@ -157,7 +157,7 @@
         <id>link-772367a74868ed75cbe06394cf6e2541</id>
         <link href="https://news.ycombinator.com/item?id=46851548"/>
         <updated>2026-02-02T07:03:26.104Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">643 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">8 hours ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">350&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">659 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">8 hours ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">356&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Cats (http.cat)]]></title>
@@ -188,25 +188,25 @@
         <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46802867">564 points</span> by <a href="user?id=keyboardJones" class="hnuser">keyboardJones</a> <span class="age" title="2026-01-28T22:53:54 1769640834"><a href="item?id=46802867">4 days ago</a></span> <span id="unv_46802867"></span> | <a href="item?id=46802867">1187&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html">Tesla ending Models S and X production</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Defeating a 40-year-old copy protection dongle (dmitrybrant.com)]]></title>
+        <id>link-1cacbe4e0d7b5f063d796d18cec5283d</id>
+        <link href="https://news.ycombinator.com/item?id=46849567"/>
+        <updated>2026-02-02T10:03:56.026Z</updated>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46849567">560 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-01T21:30:51 1769981451"><a href="item?id=46849567">13 hours ago</a></span> <span id="unv_46849567"></span> | <a href="item?id=46849567">171&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle">Defeating a 40-year-old copy protection dongle</a><span class="sitebit comhead"> (<a href="from?site=dmitrybrant.com"><span class="sitestr">dmitrybrant.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PlayStation 2 Recompilation Project Is Absolutely Incredible (redgamingtech.com)]]></title>
         <id>link-7b8e206a54edf76e1d604148e094abda</id>
         <link href="https://news.ycombinator.com/item?id=46814743"/>
         <updated>2026-01-31T20:27:11.002Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46814743">556 points</span> by <a href="user?id=croes" class="hnuser">croes</a> <span class="age" title="2026-01-29T18:55:38 1769712938"><a href="item?id=46814743">3 days ago</a></span> <span id="unv_46814743"></span> | <a href="item?id=46814743">342&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/">PlayStation 2 Recompilation Project Is Absolutely Incredible</a><span class="sitebit comhead"> (<a href="from?site=redgamingtech.com"><span class="sitestr">redgamingtech.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46814743">556 points</span> by <a href="user?id=croes" class="hnuser">croes</a> <span class="age" title="2026-01-29T18:55:38 1769712938"><a href="item?id=46814743">3 days ago</a></span> <span id="unv_46814743"></span> | <a href="item?id=46814743">342&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/">PlayStation 2 Recompilation Project Is Absolutely Incredible</a><span class="sitebit comhead"> (<a href="from?site=redgamingtech.com"><span class="sitestr">redgamingtech.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Somebody used spoofed ADSB signals to raster the meme of JD Vance (alecmuffett.com)]]></title>
         <id>link-5daee784884d1e6aacdf1460018ea9e2</id>
         <link href="https://news.ycombinator.com/item?id=46802067"/>
         <updated>2026-01-31T20:27:11.002Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46802067">547 points</span> by <a href="user?id=wubin" class="hnuser">wubin</a> <span class="age" title="2026-01-28T21:50:47 1769637047"><a href="item?id=46802067">4 days ago</a></span> <span id="unv_46802067"></span> | <a href="item?id=46802067">149&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alecmuffett.com/article/143548">Somebody used spoofed ADSB signals to raster the meme of JD Vance</a><span class="sitebit comhead"> (<a href="from?site=alecmuffett.com"><span class="sitestr">alecmuffett.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defeating a 40-year-old copy protection dongle (dmitrybrant.com)]]></title>
-        <id>link-1cacbe4e0d7b5f063d796d18cec5283d</id>
-        <link href="https://news.ycombinator.com/item?id=46849567"/>
-        <updated>2026-02-02T10:03:56.026Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46849567">538 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-01T21:30:51 1769981451"><a href="item?id=46849567">12 hours ago</a></span> <span id="unv_46849567"></span> | <a href="item?id=46849567">167&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle">Defeating a 40-year-old copy protection dongle</a><span class="sitebit comhead"> (<a href="from?site=dmitrybrant.com"><span class="sitestr">dmitrybrant.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46802067">547 points</span> by <a href="user?id=wubin" class="hnuser">wubin</a> <span class="age" title="2026-01-28T21:50:47 1769637047"><a href="item?id=46802067">4 days ago</a></span> <span id="unv_46802067"></span> | <a href="item?id=46802067">149&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alecmuffett.com/article/143548">Somebody used spoofed ADSB signals to raster the meme of JD Vance</a><span class="sitebit comhead"> (<a href="from?site=alecmuffett.com"><span class="sitestr">alecmuffett.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron (blender.org)]]></title>
