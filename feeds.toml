@@ -178,7 +178,6 @@ entrySelector = ".post-list > .post"
 titleSelector = [".post-date", "h2"]
 # linkSelector = "a"
 
-
 [rtings_com_laptop_reviews]
 title = "rtings.com - laptop reviews"
 url = "https://www.rtings.com/laptop/latest"
@@ -195,6 +194,7 @@ entrySelector = "xpath=//*[@id='content-area']//table[not(.//thead)]//tr[positio
 titleSelector = ["td:nth-of-type(1)", "td:nth-of-type(2)"]
 contentSelector = ["td:nth-of-type(1)", "td:nth-of-type(2)", "td:nth-of-type(3)", 
                    "td:nth-of-type(4)", "td:nth-of-type(5)", "td:nth-of-type(6)"]
+
 [privazer_release_notes]
 title = "Privazer - release notes"
 url = "https://privazer.com/en/changelog.php"
