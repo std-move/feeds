@@ -207,6 +207,6 @@ title = "ČSFD - Adam Curtis - režijní dílo"
 url = "https://www.csfd.cz/tvurce/18336-adam-curtis/prehled/"
 waitForSelector = "xpath=//div[contains(@class, 'creator-filmography') and .//*[contains(@class, 'box-header')]/descendant-or-self::*[contains(normalize-space(.), 'Režisér')]]//td[@class='name']"
 entrySelector = "xpath=//div[contains(@class, 'creator-filmography') and .//*[contains(@class, 'box-header')]/descendant-or-self::*[contains(normalize-space(.), 'Režisér')]]//td[@class='name']"
-titleSelector = ["xpath=./preceding::*[@class='year'][normalize-space()]", "xpath=."]
+titleSelector = ["xpath=(./preceding::*[@class='year'][string-length(translate(string(.), '0123456789', '')) < string-length(string(.))])[last()]", "xpath=."]
 linkSelector = "optional:a"
 contentSelector = []
