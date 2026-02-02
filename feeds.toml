@@ -195,4 +195,9 @@ entrySelector = "xpath=//*[@id='content-area']//table[not(.//thead)]//tr[positio
 titleSelector = ["td:nth-of-type(1)", "td:nth-of-type(2)"]
 contentSelector = ["td:nth-of-type(1)", "td:nth-of-type(2)", "td:nth-of-type(3)", 
                    "td:nth-of-type(4)", "td:nth-of-type(5)", "td:nth-of-type(6)"]
-
+[privazer_release_notes]
+title = "Privazer - release notes"
+url = "https://privazer.com/en/changelog.php"
+waitForSelector = "xpath=(//*[contains(@class, 'page-header')]//table//p[@class='text1'][normalize-space()])[position() <= 20]"
+entrySelector = "xpath=(//*[contains(@class, 'page-header')]//table//p[@class='text1'][normalize-space()])[position() <= 20]"
+titleSelector = "strong:nth-of-type(1)"
