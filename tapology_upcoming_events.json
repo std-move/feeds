@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png",
 	"elements": [
 		{
-			"id": "link-a3b7e87ac19262f2b6fa91aec95b45ad",
-			"title": "Zuffa Boxing 2 — 2026-02-01 17:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/138880-zuffa-boxing-2-valenzuela-vs-torrez",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138880-zuffa-boxing-2-valenzuela-vs-torrez\">Zuffa Boxing 2</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-01 17:00:00 -0500\">26 minutes ago</abbr>\n</td>",
-			"retrieved": 1769225244821
-		},
-		{
 			"id": "link-d16fccc00701f91174c378cb0e59df66",
 			"title": "ACA 200 — 2026-02-06 09:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/136817-aca-200-gasanov-vs-tumenov",
@@ -21,7 +14,7 @@
 			"id": "link-b59f8a04c6222c15596d4df4aebd3514",
 			"title": "LFA 226 — 2026-02-06 20:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/138232-lfa-226-allakhverdiev-vs-kropschot",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138232-lfa-226-allakhverdiev-vs-kropschot\">LFA 226</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-06 20:00:00 -0500\">in 5 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138232-lfa-226-allakhverdiev-vs-kropschot\">LFA 226</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-06 20:00:00 -0500\">in 4 days</abbr>\n</td>",
 			"retrieved": 1769219092652
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/138399-ajagba-vs-martin-zuffa-boxing-2",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138399-ajagba-vs-martin-zuffa-boxing-2\">Zuffa Boxing 3</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-15 17:00:00 -0500\">in 1 week</abbr>\n</td>",
 			"retrieved": 1769912883295
+		},
+		{
+			"id": "link-0a206f8a14fe7f22a981d99ea63ad434",
+			"title": "Cage Warriors 200 — 2026-02-21 11:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/135610-cage-warriors-200",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/135610-cage-warriors-200\">Cage Warriors 200</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-21 11:00:00 -0500\">in 2 weeks</abbr>\n</td>",
+			"retrieved": 1769998297326
 		}
 	]
 }
