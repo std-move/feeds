@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - top stories (week)</title>
-    <updated>2026-02-03T10:42:30.099Z</updated>
+    <updated>2026-02-03T10:47:43.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -73,7 +73,7 @@
         <id>link-1cacbe4e0d7b5f063d796d18cec5283d</id>
         <link href="https://news.ycombinator.com/item?id=46849567"/>
         <updated>2026-02-02T12:37:26.637Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46849567"><span>Defeating a 40-year-old copy protection dongle</span></a><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle" target="_blank" class="Story_link">(https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46849567">828 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=zdw"><span>zdw</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46849567">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46849567">275 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46849567"><span>Defeating a 40-year-old copy protection dongle</span></a><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle" target="_blank" class="Story_link">(https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46849567">828 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=zdw"><span>zdw</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46849567">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46849567">276 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Teaching my neighbor to keep the volume down]]></title>
@@ -129,7 +129,7 @@
         <id>link-16ef5bea98a7f03fbf5393e4776340df</id>
         <link href="https://news.ycombinator.com/item?id=46862170"/>
         <updated>2026-02-03T05:15:27.436Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46862170"><span>xAI joins SpaceX</span></a><a href="https://www.spacex.com/updates#xai-joins-spacex" target="_blank" class="Story_link">(https://www.spacex.com/updates#xai-joins-spacex)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46862170">710 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=g-mork"><span>g-mork</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46862170">13 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46862170">1583 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46862170"><span>xAI joins SpaceX</span></a><a href="https://www.spacex.com/updates#xai-joins-spacex" target="_blank" class="Story_link">(https://www.spacex.com/updates#xai-joins-spacex)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46862170">712 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=g-mork"><span>g-mork</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46862170">13 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46862170">1587 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Europe’s next-generation weather satellite sends back first images]]></title>
@@ -150,7 +150,7 @@
         <id>link-8edfd3537302a567e1c3428ae7518c5c</id>
         <link href="https://news.ycombinator.com/item?id=46859054"/>
         <updated>2026-02-03T05:15:27.436Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46859054"><span>The Codex App</span></a><a href="https://openai.com/index/introducing-the-codex-app/" target="_blank" class="Story_link">(https://openai.com/index/introducing-the-codex-app/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46859054">686 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=meetpateltech"><span>meetpateltech</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46859054">17 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46859054">495 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=46859054"><span>The Codex App</span></a><a href="https://openai.com/index/introducing-the-codex-app/" target="_blank" class="Story_link">(https://openai.com/index/introducing-the-codex-app/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=46859054">686 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=meetpateltech"><span>meetpateltech</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46859054">17 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=46859054">498 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[We can’t send mail farther than 500 miles (2002)]]></title>

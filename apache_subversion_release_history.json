@@ -1,0 +1,1087 @@
+{
+	"title": "Apache Subversion release history",
+	"url": "https://subversion.apache.org/docs/release-notes/release-history.html",
+	"favicon": "https://subversion.apache.org/docs/release-notes/favicon.ico",
+	"elements": [
+		{
+			"id": "title-6c108b42a66fa0bc66ced28154a7c61a",
+			"title": "Subversion 1.14.5 (Sunday, 8 December 2024): Bugfix/security release.",
+			"contents": "<b>Subversion 1.14.5</b> (Sunday, 8 December 2024): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-6c279bfe6942d4cb39acf787dd2c2e92",
+			"title": "Subversion 1.14.4 (Tuesday, 8 October 2024): Bugfix/security release.",
+			"contents": "<b>Subversion 1.14.4</b> (Tuesday, 8 October 2024): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-bd777530da52ab002e76d49866325857",
+			"title": "Subversion 1.14.3 (Thursday, 28 December 2023): Bugfix release.",
+			"contents": "<b>Subversion 1.14.3</b> (Thursday, 28 December 2023): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e4c8912fbb4c1d4a28ea3c86b69ca60b",
+			"title": "Subversion 1.14.2 (Tuesday, 12 April 2022): Bugfix release.",
+			"contents": "<b>Subversion 1.14.2</b> (Tuesday, 12 April 2022): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-bb0b3d683481c0a0ec925e715f393f18",
+			"title": "Subversion 1.10.8 (Tuesday, 12 April 2022): Bugfix release.",
+			"contents": "<b>Subversion 1.10.8</b> (Tuesday, 12 April 2022): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-9411bfbedfc6182a2e4af5e4be700c8f",
+			"title": "Subversion 1.14.1 (Wednesday, 10 February 2021): Bugfix/security release.",
+			"contents": "<b>Subversion 1.14.1</b> (Wednesday, 10 February 2021): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-ad2731fb3352a81ad8bd97106717e6bf",
+			"title": "Subversion 1.10.7 (Wednesday, 10 February 2021): Bugfix/security release.",
+			"contents": "<b>Subversion 1.10.7</b> (Wednesday, 10 February 2021): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-13b48992f01b3d551ff5d7fdca00d30c",
+			"title": "Subversion 1.14.0 (Wednesday, 27 May 2020): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.14.0</b> (Wednesday, 27 May 2020): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.14.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b567ebad8b3b3b21a2f06c2b69d77a84",
+			"title": "Subversion 1.13.0 (Wednesday, 30 October 2019): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.13.0</b> (Wednesday, 30 October 2019): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.13.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c2920da782e71a4a0e15a34d13b5e8d9",
+			"title": "Subversion 1.12.2 (Wednesday, 24 July 2019): Bugfix release.",
+			"contents": "<b>Subversion 1.12.2</b> (Wednesday, 24 July 2019): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-3a07ed5db635237320b2311dc7b7c1ac",
+			"title": "Subversion 1.10.6 (Wednesday, 24 July 2019): Bugfix release.",
+			"contents": "<b>Subversion 1.10.6</b> (Wednesday, 24 July 2019): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-9a611e940dc6f86fc88110c6b6a18e6d",
+			"title": "Subversion 1.9.12 (Wednesday, 24 July 2019): Bugfix release.",
+			"contents": "<b>Subversion 1.9.12</b> (Wednesday, 24 July 2019): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-a396abbcb77bc8e8ac5ca8d4e03a85df",
+			"title": "Subversion 1.12.0 (Wednesday, 24 April 2019): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.12.0</b> (Wednesday, 24 April 2019): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.12.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-ca08283eb2eafe1211e876e3caafd082",
+			"title": "Subversion 1.11.1 (Friday, 11 January 2019): Bugfix release.",
+			"contents": "<b>Subversion 1.11.1</b> (Friday, 11 January 2019): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-f556a1a1bf41341a6421abd15fddac80",
+			"title": "Subversion 1.10.4 (Friday, 11 January 2019): Bugfix release.",
+			"contents": "<b>Subversion 1.10.4</b> (Friday, 11 January 2019): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-975d9b739f1d5cab743d5d0b2b514be4",
+			"title": "Subversion 1.9.10 (Friday, 11 January 2019): Bugfix release.",
+			"contents": "<b>Subversion 1.9.10</b> (Friday, 11 January 2019): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-d035ea5f5d8fe66e99fe2676ce97cbc3",
+			"title": "Subversion 1.11.0 (Tuesday, 30 October 2018): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.11.0</b> (Tuesday, 30 October 2018): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.11.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-ccf16090e6aaee811f9305202dbde28b",
+			"title": "Subversion 1.10.3 (Wednesday, 10 October 2018): Bugfix release.",
+			"contents": "<b>Subversion 1.10.3</b> (Wednesday, 10 October 2018): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-a8e6fa4f28068c6323c4c43b061bbd19",
+			"title": "Subversion 1.10.2 (Friday, 20 July 2018): Bugfix release.",
+			"contents": "<b>Subversion 1.10.2</b> (Friday, 20 July 2018): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-76bf839a11bdff03e73b297c3370e197",
+			"title": "Subversion 1.9.9 (Friday, 20 July 2018): Bugfix/security release.",
+			"contents": "<b>Subversion 1.9.9</b> (Friday, 20 July 2018): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-cc4dbafd60a9d8fac0bd942412bd470b",
+			"title": "Subversion 1.10.0 (Thursday, 12 April 2018): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.10.0</b> (Thursday, 12 April 2018): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.10.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-02b96fa322411deea75378e91a616983",
+			"title": "Subversion 1.9.7 (Thursday, 10 August 2017): Security release.",
+			"contents": "<b>Subversion 1.9.7</b> (Thursday, 10 August 2017): Security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e0b7bb3ca73d88737439d96070b5dc2c",
+			"title": "Subversion 1.8.19 (Thursday, 10 August 2017): Security release.",
+			"contents": "<b>Subversion 1.8.19</b> (Thursday, 10 August 2017): Security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-5bfc39182d6882202497774d53169432",
+			"title": "Subversion 1.8.18 (Friday, 07 July 2017): Bugfix release.",
+			"contents": "<b>Subversion 1.8.18</b> (Friday, 07 July 2017): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-7befb285b0011f9577211f741484e731",
+			"title": "Subversion 1.9.6 (Thursday, 06 July 2017): Bugfix release.",
+			"contents": "<b>Subversion 1.9.6</b> (Thursday, 06 July 2017): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-d1e0d3070a45935ace97b8968d4ac883",
+			"title": "Subversion 1.9.5 (Tuesday, 29 November 2016): Bugfix/security release.",
+			"contents": "<b>Subversion 1.9.5</b> (Tuesday, 29 November 2016): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-fbdf51a3dd45c46a60ec228afa5e7ee2",
+			"title": "Subversion 1.8.17 (Tuesday, 29 November 2016): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.17</b> (Tuesday, 29 November 2016): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b41315e9192ee255e1da76607ad00c09",
+			"title": "Subversion 1.9.4 (Thursday, 28 April 2016): Bugfix/security release.",
+			"contents": "<b>Subversion 1.9.4</b> (Thursday, 28 April 2016): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-7871d942bdbfe0b1600fd46e0031a7ec",
+			"title": "Subversion 1.8.16 (Thursday, 28 April 2016): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.16</b> (Thursday, 28 April 2016): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-7a5663d2cfe9433e0918a60b984c55ba",
+			"title": "Subversion 1.9.3 (Tuesday, 15 September 2015): Bugfix/security release.",
+			"contents": "<b>Subversion 1.9.3</b> (Tuesday, 15 September 2015): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b4b8d55e57d47ca1b07d07f589569cfe",
+			"title": "Subversion 1.8.15 (Tuesday, 15 September 2015): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.15</b> (Tuesday, 15 September 2015): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-cfbabe008f04b45744064f3aebbe1119",
+			"title": "Subversion 1.9.2 (Wednesday, 23 September 2015): Bugfix release.",
+			"contents": "<b>Subversion 1.9.2</b> (Wednesday, 23 September 2015): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-00b59e6845a0a63176aaf2bf8441ed9b",
+			"title": "Subversion 1.9.1 (Wednesday, 2 September 2015): Bugfix release.",
+			"contents": "<b>Subversion 1.9.1</b> (Wednesday, 2 September 2015): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-0d56153a2d2f0f93d00119fd29ead527",
+			"title": "Subversion 1.7.22 (Friday, 14 August 2015): Bugfix release.",
+			"contents": "<b>Subversion 1.7.22</b> (Friday, 14 August 2015): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-aeb05ecd1250e8acdc56864ac36ac56d",
+			"title": "Subversion 1.9.0 (Wednesday, 05 August 2015): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.9.0</b> (Wednesday, 05 August 2015): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.9.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c5d7ac9fb6234e3ac64bb7fcd569e991",
+			"title": "Subversion 1.8.14 (Wednesday, 05 August 2015): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.14</b> (Wednesday, 05 August 2015): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-d524bc4487623a78257ade6bd77c7eb7",
+			"title": "Subversion 1.7.21 (Wednesday, 05 August 2015): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.21</b> (Wednesday, 05 August 2015): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-98f5850054be9220a7283552dfcade2d",
+			"title": "Subversion 1.8.13 (Tuesday, 31 March 2015): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.13</b> (Tuesday, 31 March 2015): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-8dd062516e64bfa62d5e4ae0aeaacca7",
+			"title": "Subversion 1.7.20 (Tuesday, 31 March 2015): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.20</b> (Tuesday, 31 March 2015): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-aa1242925b203e22c25912c14f76ef33",
+			"title": "Subversion 1.8.11 (Monday, 15 December 2014): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.11</b> (Monday, 15 December 2014): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e76ae2dcc12324048d2c02b9f384ac13",
+			"title": "Subversion 1.7.19 (Monday, 15 December 2014): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.19</b> (Monday, 15 December 2014): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-630ae953836710b44411e00020c66bb7",
+			"title": "Subversion 1.8.10 (Monday, 11 August 2014): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.10</b> (Monday, 11 August 2014): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-88bff27e2a8889d3169baccf8c9048a3",
+			"title": "Subversion 1.7.18 (Monday, 11 August 2014): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.18</b> (Monday, 11 August 2014): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-5695ef4fd03ea547f24163c8a2b5b3ac",
+			"title": "Subversion 1.7.17 (Monday, 19 May 2014): Bugfix release.",
+			"contents": "<b>Subversion 1.7.17</b> (Monday, 19 May 2014): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-3f27abc82df4994e47e3d09401eecfaf",
+			"title": "Subversion 1.8.9 (Wednesday, 14 May 2014): Bugfix release.",
+			"contents": "<b>Subversion 1.8.9</b> (Wednesday, 14 May 2014): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-76898cc060f3b2c91ae5d8256637bf14",
+			"title": "Subversion 1.7.16 (Wednesday, 26 February 2014): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.16</b> (Wednesday, 26 February 2014): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-74e22616018bdc63535664fb28f41c21",
+			"title": "Subversion 1.8.8 (Thursday, 20 February 2014): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.8</b> (Thursday, 20 February 2014): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-29ec138403dc93fc71a889a7bb2b242d",
+			"title": "Subversion 1.8.5 (Monday, 25 November 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.5</b> (Monday, 25 November 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-ee50e81ae0acaf842a79f53d8647b56a",
+			"title": "Subversion 1.7.14 (Monday, 25 November 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.14</b> (Monday, 25 November 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-7473cb340187184526f14d2204ed430e",
+			"title": "Subversion 1.8.4 (Tuesday, 29 October 2013): Bugfix release.",
+			"contents": "<b>Subversion 1.8.4</b> (Tuesday, 29 October 2013): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-cc8affa33c04c4e089ef8f007dcd03c4",
+			"title": "Subversion 1.8.3 (Friday, 30 August 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.3</b> (Friday, 30 August 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-01ba1c42c90ad2e2d19b00d8363d4812",
+			"title": "Subversion 1.7.13 (Friday, 30 August 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.13</b> (Friday, 30 August 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-6a14ef2344d83aee0499f9ce29640c3f",
+			"title": "Subversion 1.8.1 (Wednesday, 24 July 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.8.1</b> (Wednesday, 24 July 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-a8d0b52be4f06dc680077f55f516459c",
+			"title": "Subversion 1.7.11 (Wednesday, 24 July 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.11</b> (Wednesday, 24 July 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c440f0425f4a7c81a207355d18ff0ef1",
+			"title": "Subversion 1.8.0 (Tuesday, 18 June 2013): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.8.0</b> (Tuesday, 18 June 2013): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.8.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-9291e27e84e8dfe68304bda1dc50bc55",
+			"title": "Subversion 1.7.10 (Friday, 31 May 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.10</b> (Friday, 31 May 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-722960c47403e3027170dee26ca8dc73",
+			"title": "Subversion 1.6.23 (Friday, 31 May 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.6.23</b> (Friday, 31 May 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-56cb192b6aee3657f4321b79a4d5473f",
+			"title": "Subversion 1.7.9 (Thursday, 4 April 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.9</b> (Thursday, 4 April 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-8e312c8ae03cfaa164ed2294afa0fd36",
+			"title": "Subversion 1.6.21 (Thursday, 4 April 2013): Bugfix/security release.",
+			"contents": "<b>Subversion 1.6.21</b> (Thursday, 4 April 2013): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-7c2820952185c5ea472f02373978ff5e",
+			"title": "Subversion 1.6.20 (Tuesday, 8 January 2013): Bugfix release.",
+			"contents": "<b>Subversion 1.6.20</b> (Tuesday, 8 January 2013): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e0df03bc5e2914081b13e57fa76760ca",
+			"title": "Subversion 1.7.8 (Thursday, 20 December 2012): Bugfix release.",
+			"contents": "<b>Subversion 1.7.8</b> (Thursday, 20 December 2012): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1ce1f919e27acca66bcf7be0cb54a7da",
+			"title": "Subversion 1.7.7 (Tuesday, 9 October 2012): Bugfix release.",
+			"contents": "<b>Subversion 1.7.7</b> (Tuesday, 9 October 2012): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-7d372c78bd1a97c379b3dddb073d7d5b",
+			"title": "Subversion 1.6.19 (Friday, 21 September 2012): Bugfix release.",
+			"contents": "<b>Subversion 1.6.19</b> (Friday, 21 September 2012): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-8c6f75b6ba8dba4777fab66e9767c0bb",
+			"title": "Subversion 1.7.6 (Wednesday, 15 August 2012): Bugfix release.",
+			"contents": "<b>Subversion 1.7.6</b> (Wednesday, 15 August 2012): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-0c97a188df7cbb5653bbb361b82fff06",
+			"title": "Subversion 1.7.5 (Thursday, 17 May 2012): Bugfix/security release.",
+			"contents": "<b>Subversion 1.7.5</b> (Thursday, 17 May 2012): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-a2ce3ccd8708c97c2cb94711326cdeef",
+			"title": "Subversion 1.7.4 (Thursday, 8 March 2012): Bugfix release.",
+			"contents": "<b>Subversion 1.7.4</b> (Thursday, 8 March 2012): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1f37155ff4ee2b8b67efdadd1821059c",
+			"title": "Subversion 1.7.3 (Monday, 13 February 2012): Bugfix release.",
+			"contents": "<b>Subversion 1.7.3</b> (Monday, 13 February 2012): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-10a48581d37ee28cbcd87989b0163b1d",
+			"title": "Subversion 1.7.2 (Monday, 5 December 2011): Bugfix release.",
+			"contents": "<b>Subversion 1.7.2</b> (Monday, 5 December 2011): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-5240429c4887eca9b250ed5f2e2a495e",
+			"title": "Subversion 1.7.1 (Sunday, 23 October 2011): Bugfix release.",
+			"contents": "<b>Subversion 1.7.1</b> (Sunday, 23 October 2011): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e21be617b51c3fe82028e3be9e53a083",
+			"title": "Subversion 1.7.0 (Tuesday, 11 October 2011): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.7.0</b> (Tuesday, 11 October 2011): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.7.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-127999257f0edc9909af06a59dd7bee5",
+			"title": "Subversion 1.6.18 (Thursday, 12 April 2012): Bugfix release.",
+			"contents": "<b>Subversion 1.6.18</b> (Thursday, 12 April 2012): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-7e1746b8bfa91990376b890ccee221a2",
+			"title": "Subversion 1.6.17 (Wednesday, 1 June 2011): Bugfix/security release.",
+			"contents": "<b>Subversion 1.6.17</b> (Wednesday, 1 June 2011): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-20cfe3d862448d3c4baa2f03322f9b20",
+			"title": "Subversion 1.6.16 (Thursday, 3 March 2011): Bugfix/security release.",
+			"contents": "<b>Subversion 1.6.16</b> (Thursday, 3 March 2011): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-2e9e5f350dbb3c0dc26838f051975b84",
+			"title": "Subversion 1.5.9 (Wednesday, 22 December 2010): Bugfix/stability release.",
+			"contents": "<b>Subversion 1.5.9</b> (Wednesday, 22 December 2010): Bugfix/stability release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-2d5f0e0454d5bfb176d597720c3ca71a",
+			"title": "Subversion 1.6.15 (Wednesday, 24 November 2010): Bugfix release.",
+			"contents": "<b>Subversion 1.6.15</b> (Wednesday, 24 November 2010): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-30d989be5ca1685a6df55ce0ac651a7a",
+			"title": "Subversion 1.6.13 (Friday, 1 October 2010): Bugfix/security release.",
+			"contents": "<b>Subversion 1.6.13</b> (Friday, 1 October 2010): Bugfix/security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-06c6e78b61dd8b939afb1827c1fd0e7e",
+			"title": "Subversion 1.6.12 (Monday, 21 June 2010): Bugfix release.",
+			"contents": "<b>Subversion 1.6.12</b> (Monday, 21 June 2010): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-f39ade05814d6b3d66c7a62717d0fc14",
+			"title": "Subversion 1.6.11 (Friday, 16 April 2010): Bugfix release.",
+			"contents": "<b>Subversion 1.6.11</b> (Friday, 16 April 2010): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-3133062f0599c278253c316a3145390a",
+			"title": "Subversion 1.6.9 (Monday, 25 January 2010): Bugfix release.",
+			"contents": "<b>Subversion 1.6.9</b> (Monday, 25 January 2010): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-56c42d4a280510ae95d333adc5de6004",
+			"title": "Subversion 1.6.6 (Thursday, 22 October 2009): Bugfix release.",
+			"contents": "<b>Subversion 1.6.6</b> (Thursday, 22 October 2009): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-4bd0ca075e2484df829314eb6ce677d7",
+			"title": "Subversion 1.6.5 (Saturday, 22 August 2009): Bugfix release.",
+			"contents": "<b>Subversion 1.6.5</b> (Saturday, 22 August 2009): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-bc7568dca1270434cb8e74a21bd1379a",
+			"title": "Subversion 1.6.4 (Thursday, 6 August 2009): Security release.",
+			"contents": "<b>Subversion 1.6.4</b> (Thursday, 6 August 2009): Security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c1722c61aef23f8d092d4a43dd72d7c1",
+			"title": "Subversion 1.6.3 (Monday, 22 June 2009): Bugfix release.",
+			"contents": "<b>Subversion 1.6.3</b> (Monday, 22 June 2009): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-8236cff360726d620faa0f03b89f0ae6",
+			"title": "Subversion 1.6.2 (Monday, 11 May 2009): Bugfix release.",
+			"contents": "<b>Subversion 1.6.2</b> (Monday, 11 May 2009): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b22896a82b43b13514bd44a219fd050d",
+			"title": "Subversion 1.6.1 (Thursday, 9 April 2009): Bugfix release.",
+			"contents": "<b>Subversion 1.6.1</b> (Thursday, 9 April 2009): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-4dc31cfbdedc3f2fefa1c3a5a13e3355",
+			"title": "Subversion 1.6.0 (Friday, 20 March 2009): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.6.0</b> (Friday, 20 March 2009): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.6.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-071cc3f3d726df74c3132c9c3b7a24b7",
+			"title": "Subversion 1.5.7 (Thursday, 6 August 2009): Security release.",
+			"contents": "<b>Subversion 1.5.7</b> (Thursday, 6 August 2009): Security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b5bd7dd5207e863948b176106be829b1",
+			"title": "Subversion 1.5.6 (Thursday, 26 February 2009): Bugfix release.",
+			"contents": "<b>Subversion 1.5.6</b> (Thursday, 26 February 2009): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-0827d139171428ad1c7551e7b63f2e6c",
+			"title": "Subversion 1.5.5 (Monday, 22 December 2008): Bugfix release.",
+			"contents": "<b>Subversion 1.5.5</b> (Monday, 22 December 2008): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-a02ee8c989cfddb8b8dbc998a104848a",
+			"title": "Subversion 1.5.4 (Friday, 24 October 2008): Bugfix release.",
+			"contents": "<b>Subversion 1.5.4</b> (Friday, 24 October 2008): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-208d952b2d13f6e974fbb2d93b9070fe",
+			"title": "Subversion 1.5.3 (Friday, 10 October 2008): Bugfix release.",
+			"contents": "<b>Subversion 1.5.3</b> (Friday, 10 October 2008): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-634080e754ae595f599b13e916ca62db",
+			"title": "Subversion 1.5.2 (Saturday, 30 August 2008): Bugfix release.",
+			"contents": "<b>Subversion 1.5.2</b> (Saturday, 30 August 2008): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-6ea8dfa38972e89e775033f8df2ceaae",
+			"title": "Subversion 1.5.1 (Saturday, 26 July 2008): Bugfix release.",
+			"contents": "<b>Subversion 1.5.1</b> (Saturday, 26 July 2008): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-145456210c8fdbb233889f69fb9bfd0f",
+			"title": "Subversion 1.5.0 (Thursday, 19 June 2008): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.5.0</b> (Thursday, 19 June 2008): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.5.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-2b2581a23fe6562ccf90491d6bbe9503",
+			"title": "Subversion 1.4.6 (Thursday, 20 December 2007): Bugfix release.",
+			"contents": "<b>Subversion 1.4.6</b> (Thursday, 20 December 2007): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-03a8f455e65e5c77beead6a9e6230e6d",
+			"title": "Subversion 1.4.5 (Friday, 28 August 2007): Win32 security release.",
+			"contents": "<b>Subversion 1.4.5</b> (Friday, 28 August 2007): Win32 security release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-028b98cc471d263173ea79918348a644",
+			"title": "Subversion 1.4.4 (Friday, 8 June 2007): Bugfix release.",
+			"contents": "<b>Subversion 1.4.4</b> (Friday, 8 June 2007): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-2b44f268854c003119416b4c651ddc25",
+			"title": "Subversion 1.4.3 (Thursday, 25 January 2007): Bugfix release.",
+			"contents": "<b>Subversion 1.4.3</b> (Thursday, 25 January 2007): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-a7d09ce9ac1c5f3fd2b48ef8564406f7",
+			"title": "Subversion 1.4.2 (Tuesday, 07 November 2006): Bugfix release.",
+			"contents": "<b>Subversion 1.4.2</b> (Tuesday, 07 November 2006): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1b8826c2c3d92571cfed099e06407b06",
+			"title": "Subversion 1.4.0 (Sunday, 10 September 2006, RC4 shipped Saturday, 22 July 2006; RC5 shipped Wednesday, 30 August 2006): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.4.0</b> (Sunday, 10 September 2006, RC4 shipped Saturday, 22 July 2006; RC5 shipped Wednesday, 30 August 2006): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.4.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b9d870e00dabf9ffc727bac1ac19623c",
+			"title": "Subversion 1.3.2 (Wednesday, 31 May 2006): Bugfix release.",
+			"contents": "<b>Subversion 1.3.2</b> (Wednesday, 31 May 2006): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-74e1b9083506f3a92598c36552f3bf23",
+			"title": "Subversion 1.3.1 (Monday, 3 April 2006): Bugfix release.",
+			"contents": "<b>Subversion 1.3.1</b> (Monday, 3 April 2006): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-52d20b6232e9d0cd97b9650838af2099",
+			"title": "Subversion 1.3.0 (Tuesday, 3 January 2006, RC4 shipped Wednesday, 30 November 2005; RC7 shipped Friday, 23 December 2005): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.3.0</b> (Tuesday, 3 January 2006, RC4 shipped Wednesday, 30 November 2005; RC7 shipped Friday, 23 December 2005): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.3.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-d1e5a7437ba6bd4e13078e8cd845ca3e",
+			"title": "Subversion 1.2.3 (Thursday, 25 August 2005): Bugfix release.",
+			"contents": "<b>Subversion 1.2.3</b> (Thursday, 25 August 2005): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-fbab28e1471491cb7dbdea2d92849852",
+			"title": "Subversion 1.2.1 (Tuesday, 5 July 2005): Bugfix release.",
+			"contents": "<b>Subversion 1.2.1</b> (Tuesday, 5 July 2005): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-94c457e9b6b694478e6e332ba8bb89c3",
+			"title": "Subversion 1.2.0 (Monday, 23 May 2005, RC1 shipped Thursday, 7 April 2005; RC2 shipped Monday, 25 April 2005; RC3 shipped Tuesday, 10 May 2005; RC4 shipped Friday, 13 May 2005): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.2.0</b> (Monday, 23 May 2005, RC1 shipped Thursday, 7 April 2005; RC2 shipped Monday, 25 April 2005; RC3 shipped Tuesday, 10 May 2005; RC4 shipped Friday, 13 May 2005): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.2.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1afab1de8b2adb1061292063a3e5bec0",
+			"title": "Subversion 1.1.4 (Friday, 1 April 2005): Bugfix release.",
+			"contents": "<b>Subversion 1.1.4</b> (Friday, 1 April 2005): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-2d6800403192fd93d143e93492b2148b",
+			"title": "Subversion 1.1.3 (Friday, 14 January 2005): Bugfix release.",
+			"contents": "<b>Subversion 1.1.3</b> (Friday, 14 January 2005): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c72dde91d6065db1b07dc1cf52b4f853",
+			"title": "Subversion 1.1.2 (Monday, 20 December 2004): Bugfix release.",
+			"contents": "<b>Subversion 1.1.2</b> (Monday, 20 December 2004): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-d7df4583ce17c32dc13dcc1ba7d829a5",
+			"title": "Subversion 1.1.1 (Friday, 22 October 2004): Bugfix release.",
+			"contents": "<b>Subversion 1.1.1</b> (Friday, 22 October 2004): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b29ac7dbaca8a66c603d6770603e8eb7",
+			"title": "Subversion 1.0.9 (Wednesday, 13 October 2004): Bugfix release.",
+			"contents": "<b>Subversion 1.0.9</b> (Wednesday, 13 October 2004): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-f1b2211812f37b8076e01b758d626ff9",
+			"title": "Subversion 1.1.0 (Wednesday, 29 September 2004, RC1 shipped Wednesday, 14 July 2004, RC2 shipped Tuesday, 10 August 2004, RC3 shipped Tuesday, 14 September 2004, RC4 shipped Wednesday, 22 September 2004): Bugfix and feature release, see the release notes.",
+			"contents": "<b>Subversion 1.1.0</b> (Wednesday, 29 September 2004, RC1 shipped Wednesday, 14 July 2004, RC2 shipped Tuesday, 10 August 2004, RC3 shipped Tuesday, 14 September 2004, RC4 shipped Wednesday, 22 September 2004): Bugfix and feature release, see the <a href=\"/docs/release-notes/1.1.html\">release notes</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-592c3d47e637dbaa1464d7194c63bfc1",
+			"title": "Subversion 1.0.8 (Wednesday, 22 September 2004): Security fix release.",
+			"contents": "<b>Subversion 1.0.8</b> (Wednesday, 22 September 2004): <a href=\"/security/CAN-2004-0749-advisory.txt\">Security fix release.</a>",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-ff7f7eda99c8b9d8f0d3845c673436f2",
+			"title": "Subversion 1.0.7 (Friday, 17 September 2004): Bugfix release.",
+			"contents": "<b>Subversion 1.0.7</b> (Friday, 17 September 2004): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-29aaaa29127f76cef24b8a98bdd49a0f",
+			"title": "Subversion 1.0.6 (Monday, 19 July 2004): Bugfix and Security fix release.",
+			"contents": "<b>Subversion 1.0.6</b> (Monday, 19 July 2004): Bugfix and <a href=\"/security/mod_authz_svn-copy-advisory.txt\">Security fix release.</a>",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-4adfd42b9e75c2632962027d54e73807",
+			"title": "Subversion 1.0.5 (Thursday, 10 June 2004): Security fix release.",
+			"contents": "<b>Subversion 1.0.5</b> (Thursday, 10 June 2004): <a href=\"/security/CAN-2004-0413-advisory.txt\">Security fix release.</a>",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-a8a6809bff24b2a5598bc46e358a179d",
+			"title": "Subversion 1.0.4 (Friday, 21 May 2004): Bugfix release.",
+			"contents": "<b>Subversion 1.0.4</b> (Friday, 21 May 2004): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e80d6d72cb0a7f29b4626593e7f673fc",
+			"title": "Subversion 1.0.3 (Wednesday, 19 May 2004): Security fix release.",
+			"contents": "<b>Subversion 1.0.3</b> (Wednesday, 19 May 2004): <a href=\"/security/svn-sscanf-advisory.txt\">Security fix release.</a>",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-f5ad5c5399836d446db4da3b78415176",
+			"title": "Subversion 1.0.2 (Monday, 19 April 2004): Bugfix release.",
+			"contents": "<b>Subversion 1.0.2</b> (Monday, 19 April 2004): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-59168b7be13ffe5cf09980b1b471f93b",
+			"title": "Subversion 1.0.1 (Friday, 12 March 2004): Bugfix release.",
+			"contents": "<b>Subversion 1.0.1</b> (Friday, 12 March 2004): Bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-2da6cfa86459b0406c9c1fd9cc8019ba",
+			"title": "Subversion 1.0.0 (Monday, 23 Feb 2004): Release.",
+			"contents": "<b>Subversion 1.0.0</b> (Monday, 23 Feb 2004): Release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-9079ec3b30f8a5b69747322fffd33f06",
+			"title": "Subversion 1.0.0-beta1 (Friday, 20 Feb 2004):\n    Pre-release test tarball.",
+			"contents": "<b>Subversion 1.0.0-beta1</b> (Friday, 20 Feb 2004):\n    Pre-release test tarball.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-ba8cea26ee1140ea2ac12ca34015682b",
+			"title": "Subversion 0.37 (1.0.0-RC1) (25 Jan 2004): First release candidate for Subversion-1.0.0.",
+			"contents": "<b>Subversion 0.37 (1.0.0-RC1)</b> (25 Jan 2004): First release candidate for Subversion-1.0.0.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-2e843da5dac8ef8c9696c30e3b78d0a4",
+			"title": "Subversion 0.36 (13 Jan 2004): Beta Interim release.",
+			"contents": "<b>Subversion 0.36</b> (13 Jan 2004): Beta Interim release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-3ca03f1c7b764c766e2b08980e9aa022",
+			"title": "Subversion 0.35.1 (20 December 2003): Interim bugfix\n    release.",
+			"contents": "<b>Subversion 0.35.1</b> (20 December 2003): Interim bugfix\n    release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-8d76c77e63a151644f97b90bdceda034",
+			"title": "Beta (1.0-stabilization): Branched from 0.35.0,\n       see https://svn.apache.org/repos/asf/subversion/branches/1.0-stabilization/.",
+			"contents": "<b>Beta (1.0-stabilization):</b> Branched from 0.35.0,\n       see <a href=\"https://svn.apache.org/repos/asf/subversion/branches/1.0-stabilization/\">https://svn.apache.org/repos/asf/subversion/branches/1.0-stabilization/</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-4a8106a9f17baa1bcacb79e496338938",
+			"title": "Subversion 0.35 (19 December 2003):\n        Interim release,\n        see issues marked with the \"0.35\" milestone.",
+			"contents": "<b>Subversion 0.35</b> (19 December 2003):\n        Interim release,\n        <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.35%22\">see issues marked with the \"0.35\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-3fb203f1efdf94a998ae3cb85512ee04",
+			"title": "Subversion 0.34 (03 December 2003):\n        Interim release,\n        see issues marked with the \"0.34\" milestone.",
+			"contents": "<span style=\"color: red\"><b><i>Subversion 0.34</i></b></span> (03 December 2003):\n        Interim release,\n        <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.34%22\">see issues marked with the \"0.34\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c49e4d8562e7d6a007a09c600aeb379b",
+			"title": "Subversion 0.33.1 (18 November 2003): Interim bugfix\n    release.",
+			"contents": "<b>Subversion 0.33.1</b> (18 November 2003): Interim bugfix\n    release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-71d08d7c8722c75cbd5e199f289fd666",
+			"title": "Subversion 0.33 (13 November 2003):\n    Interim release,\n    see issues marked with the \"0.33\" milestone.",
+			"contents": "<b>Subversion 0.33</b> (13 November 2003):\n    Interim release,\n    <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.33%22\">see issues marked with the \"0.33\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-d3939e343b9acdede4339b5c13829c2b",
+			"title": "Subversion 0.32.1 (23 October 2003):\n    Interim release,\n    see\n    issues marked with the \"0.32\" milestone.",
+			"contents": "<b>Subversion 0.32.1</b> (23 October 2003):\n    Interim release,\n    <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.32%22\">see\n    issues marked with the \"0.32\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-95f01b9b74d174b5ed8b58ce591bf94c",
+			"title": "Subversion 0.32.0\n    (22 October 2003):\n    This release is superseded by 0.32.1; see above.",
+			"contents": "<span style=\"text-decoration: line-through\"><b>Subversion 0.32.0</b>\n    (22 October 2003):</span>\n    <i>This release is superseded by 0.32.1; see above.</i>",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-81fa74565d96f426c71c557e8982f4a5",
+			"title": "Subversion 0.31 (7 October 2003):\n    Interim release,\n    see issues marked with the \"0.31\" milestone.",
+			"contents": "<b>Subversion 0.31</b> (7 October 2003):\n    Interim release,\n    <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.31%22\">see issues marked with the \"0.31\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1e80ab872e497a4a2b101d91a087bc36",
+			"title": "Subversion 0.30 (24 September 2003): Interim release,\n    see issues marked with the \"0.30\" milestone.",
+			"contents": "<b>Subversion 0.30</b> (24 September 2003): Interim release,\n    <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.30%22\">see issues marked with the \"0.30\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e4a6a605ffbda751d92d498e549496bd",
+			"title": "Subversion 0.29 (05 September 2003):    Interim release,\n    see issues marked with the \"0.29\" milestone.",
+			"contents": "<b>Subversion 0.29</b> (05 September 2003):    Interim release,\n    <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.29%22\">see issues marked with the \"0.29\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1748eeb741bf5b606e8310d3d302dd8c",
+			"title": "Subversion 0.28.2 (02 September 2003): Interim bugfix \n    release.",
+			"contents": "<b>Subversion 0.28.2</b> (02 September 2003): Interim bugfix \n    release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-558eb1a913465bdb22a96a832f34b97e",
+			"title": "Subversion 0.28.1 (28 August 2003): Interim bugfix \n    release.",
+			"contents": "<b>Subversion 0.28.1</b> (28 August 2003): Interim bugfix \n    release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-4c0392e2978009b745b44ed03ed2fced",
+			"title": "Subversion 0.28\n    (27 August 2003): Interim release;\n    see issues marked with the \"0.28\" milestone.",
+			"contents": "<span style=\"color: red\"><b><i>Subversion 0.28</i></b></span>\n    (27 August 2003): Interim release;\n    <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.28%22\">see issues marked with the \"0.28\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e3f1abeea5cd62bd1c0c35de5e34200b",
+			"title": "Subversion 0.27 (10 August 2003): Interim \n    release;\n    see issues marked with the \"0.27\" milestone.",
+			"contents": "<b>Subversion 0.27</b> (10 August 2003): Interim \n    release;\n    <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.27%22\">see issues marked with the \"0.27\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-9af371e93befe7df2c79d6eb9317b46e",
+			"title": "Subversion 0.26 (23 July 2003): Interim release; see issues marked with the \"0.26\" milestone.",
+			"contents": "<b>Subversion 0.26</b> (23 July 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.26%22\">see issues marked with the \"0.26\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-f9fff772388c6fda28b98e9409efaf28",
+			"title": "Subversion 0.25 (10 July 2003): Interim release; see issues marked with the \"0.25\" milestone.",
+			"contents": "<b>Subversion 0.25</b> (10 July 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.25%22\">see issues marked with the \"0.25\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-d4ac9ee5c96bc195df9a8bfb6b1288cf",
+			"title": "Subversion 0.24.2 (18 June 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.24.2</b> (18 June 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-72328e5ac92ecd7ec6807f09a33eb710",
+			"title": "Subversion 0.24.1 (16 June 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.24.1</b> (16 June 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-7ae116565b8ed126d6e5bfaaaad4f3f3",
+			"title": "Subversion 0.24 (15 June 2003): Interim release; see issues marked with the \"0.24\" milestone.",
+			"contents": "<b>Subversion 0.24</b> (15 June 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.24%22\">see issues marked with the \"0.24\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-f6c79042a0a53e9618040d2744158b65",
+			"title": "Subversion 0.23 (17 May 2003): Interim release; see issues marked with the \"0.23\" milestone.",
+			"contents": "<b>Subversion 0.23</b> (17 May 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.23%22\">see issues marked with the \"0.23\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c3d83dd5b8ef3411d816b335738458e6",
+			"title": "Subversion 0.22.2 (13 May 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.22.2</b> (13 May 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b0cb63ec546d1d7181c3fe625dd5153c",
+			"title": "Subversion 0.22.1 (9 May 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.22.1</b> (9 May 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c9c09b1100adbadc7e9dbd42135be5a0",
+			"title": "Subversion 0.22 (7 May 2003): Interim release; see issues marked with the \"0.22\" milestone.",
+			"contents": "<b>Subversion 0.22</b> (7 May 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.22%22\">see issues marked with the \"0.22\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-c1b028735e13d9fe54eb57bac88a65cd",
+			"title": "Subversion 0.21 (15 April 2003): Interim release; see issues marked with the \"0.21\" milestone.",
+			"contents": "<b>Subversion 0.21</b> (15 April 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.21%22\">see issues marked with the \"0.21\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-5234123fc8ee8d83a2cffbb1a5ee2725",
+			"title": "Subversion 0.20.1 (26 March 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.20.1</b> (26 March 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e40f7797fda4cdcb40c7b87bdf25e396",
+			"title": "Subversion 0.20 (20 March 2003): Interim release; see issues marked with the \"0.20\" milestone.",
+			"contents": "<b>Subversion 0.20</b> (20 March 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.20%22\">see issues marked with the \"0.20\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-75b2860916c6fa750f5d0f5867c740ab",
+			"title": "Subversion 0.19.1 (12 March 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.19.1</b> (12 March 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-596ea8fa8479f1ffbdda050b67055a3b",
+			"title": "Subversion 0.19 (10 March 2003): Interim release; see issues marked with the \"0.19\" milestone.",
+			"contents": "<b>Subversion 0.19</b> (10 March 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.19%22\">see issues marked with the \"0.19\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-db46f1327cd60f7089d72dc333b5eb8b",
+			"title": "Subversion 0.18.1 (26 February 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.18.1</b> (26 February 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1600335cca359c55463c612fa81ab703",
+			"title": "Subversion 0.18 (19 February 2003): Interim release; see issues marked with the \"0.18\" milestone.",
+			"contents": "<b>Subversion 0.18</b> (19 February 2003): Interim release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.18%22\">see issues marked with the \"0.18\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-79cc454077b9aa5900b72c3c043ba4d3",
+			"title": "Subversion 0.17.1 (22 January 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.17.1</b> (22 January 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-ca97cc299c222a764b8968429099f747",
+			"title": "Subversion 0.17 (20 January 2003): Interim \n    release; see issues marked with the \"0.17\" milestone.",
+			"contents": "<b>Subversion 0.17</b> (20 January 2003): Interim \n    release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.17%22\">see issues marked with the \"0.17\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-de7d27958e12783eff4100a37f71b205",
+			"title": "Subversion 0.16.1 (6 January 2003): Interim bugfix release.",
+			"contents": "<b>Subversion 0.16.1</b> (6 January 2003): Interim bugfix release.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-fc65c0e53851240268ea7198acc6d52e",
+			"title": "Subversion 0.16 (3 December 2002): Interim \n        release; see\n        issues marked with the \"0.16\" milestone.",
+			"contents": "<b>Subversion 0.16</b> (3 December 2002): Interim \n        release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.16%22\">see\n        issues marked with the \"0.16\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1a2f4c347d775e317130adca6dbdcda3",
+			"title": "Subversion 0.15 (7 November 2002): Interim\n        release; see\n        issues marked with the \"0.15\" milestone.",
+			"contents": "<b>Subversion 0.15</b> (7 November 2002): Interim\n        release; <a href=\"https://issues.apache.org/jira/issues/?jql=project%20%3D%20SVN%20AND%20fixVersion%3D%220.15%22\">see\n        issues marked with the \"0.15\" milestone</a>.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-b20f86f1d27c781e73b78de7a9530461",
+			"title": "Subversion 0.14.5 (29 October 2002): Interim\n        release; fixed a configuration bug found in 0.14.4.  This is\n        the last release in the \"0.14\" series.  Later releases, even\n        interim releases, will increment the minor (middle) number;\n        and the patch (rightmost) number will indicate the iteration\n        of the release, for cases where we do post-release bugfixing.\n        See https://apr.apache.org/versioning.html for more details.",
+			"contents": "<b>Subversion 0.14.5</b> (29 October 2002): Interim\n        release; fixed a configuration bug found in 0.14.4.  This is\n        the last release in the \"0.14\" series.  Later releases, even\n        interim releases, will increment the minor (middle) number;\n        and the patch (rightmost) number will indicate the iteration\n        of the release, for cases where we do post-release bugfixing.\n        See <a href=\"https://apr.apache.org/versioning.html\">https://apr.apache.org/versioning.html</a> for more details.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-65b2248f65dbe16288572fc710ad9fb9",
+			"title": "Subversion 0.14.4 (29 October 2002): Interim\n        release, again mostly general bugfixes.  Superseded\n        immediately by 0.14.5 (see above).",
+			"contents": "<b>Subversion 0.14.4</b> (29 October 2002): Interim\n        release, again mostly general bugfixes.  Superseded\n        immediately by 0.14.5 (see above).",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-063e8fb9191fd047f259a5cdf3cfd331",
+			"title": "Subversion 0.14.3 (20 September 2002): Interim\n        release, mostly general bugfixes.",
+			"contents": "<b>Subversion 0.14.3</b> (20 September 2002): Interim\n        release, mostly general bugfixes.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-d612224232d6e78c2f9052904b739454",
+			"title": "Subversion 0.14.2\n\t(22 August 2002): Interim release;\n        see issues marked with the \"0.14.2\" milestone.",
+			"contents": "<span style=\"color: red\"><b><i>Subversion 0.14.2</i></b></span>\n\t(22 August 2002): Interim release;\n        see issues marked with the \"0.14.2\" milestone.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-6b7fa99175a582fb1737eaf5aae337cb",
+			"title": "Subversion 0.14.1 (9 August 2002):\n        Interim release after Alpha, mostly bugfixes, some feature\n        enhancements.",
+			"contents": "<b>Subversion 0.14.1</b> (9 August 2002):\n        Interim release after Alpha, mostly bugfixes, some feature\n        enhancements.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-8925ecfe527668da75417a0a51086383",
+			"title": "Alpha (Subversion 0.14.0)\n\t(23 July 2002):\n        Most commonly used features completed.  Freeze on major\n        new features.",
+			"contents": "<span style=\"color: red\"><b><i>Alpha (Subversion 0.14.0)</i></b></span>\n\t(23 July 2002):\n        Most commonly used features completed.  Freeze on major\n        new features.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-56de2a0906b631c5006fb47724c87193",
+			"title": "Subversion 0.13.2 (28 June 2002): \n          Fixes to regression test suite, filesystem improvements,\n          bring win32 build up-to-date and allow configuration files\n          under Win32\n          (issue #579),\n          fix various command line client outputs\n          (issue #728),\n          add a man page, and of course the usual bug fixes.",
+			"contents": "<b>Subversion 0.13.2</b> (28 June 2002): \n          Fixes to regression test suite, filesystem improvements,\n          bring win32 build up-to-date and allow configuration files\n          under Win32\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-579\">issue #579</a>),\n          fix various command line client outputs\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-728\">issue #728</a>),\n          add a man page, and of course the usual bug fixes.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-95b6571ba72f514aa7fd35eb7f9b6710",
+			"title": "Subversion 0.13.1 (20 June 2002): continuing the\n      wrap-up for Alpha.\n          module system\n          (issue #517),\n          client feedback system rewrite\n          (issue #662), copy history traversal in many commands, a\n\tnew svn export command, versioned headers and libs,\n\timproved test framework, more SWIG work, the delta combiner,\n\tand the usual round of bug fixes.",
+			"contents": "<b>Subversion 0.13.1</b> (20 June 2002): continuing the\n      wrap-up for Alpha.\n          module system\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-517\">issue #517</a>),\n          client feedback system rewrite\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-662\">issue #662</a>), copy history traversal in many commands, a\n\tnew <tt>svn export</tt> command, versioned headers and libs,\n\timproved test framework, more SWIG work, the delta combiner,\n\tand the usual round of bug fixes.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e03671ee268aa6e303f65fbe429f0f17",
+			"title": "Subversion 0.13.0 (10 June 2002): Wrapping up\n           large work items in preparation for an Alpha release.\n           Primary issues fixed:\n\n          fs dump/load format\n          (issue #648);\n          new fs nodeID schema\n          (issue #654);\n          vsn-rsrc-urls use rev/path\n          (issue #652);\n          module system\n          (issue #517);\n\t  reporting deleted entries to the server\n          (issue #658);\n          eliminate skel_t usage\n          (issue #656).",
+			"contents": "<b>Subversion 0.13.0</b> (10 June 2002): Wrapping up\n           large work items in preparation for an Alpha release.\n           Primary issues fixed:\n\n          fs dump/load format\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-648\">issue #648</a>);\n          new fs nodeID schema\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-654\">issue #654</a>);\n          vsn-rsrc-urls use rev/path\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-652\">issue #652</a>);\n          module system\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-517\">issue #517</a>);\n\t  reporting deleted entries to the server\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-658\">issue #658</a>);\n          eliminate skel_t usage\n          (<a href=\"https://issues.apache.org/jira/browse/SVN-656\">issue #656</a>).",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-3eb13e4ef1eaa1188b2480fb2ff186de",
+			"title": "Subversion 0.12 (3 May 2002):\n        Updates to handle disjoint working copies\n           (issue #663);\n        version the execute bit on files\n           (issue #522);\n        use text-base checksums in working copies\n           (issue #549);\n        fix bug in keyword expansion (issue #646);\n        various fixes/improvements to the versioning filesystem (issues\n           #648,\n           #651, and\n           #653, and\n           #654), improvements to svn diff and svn rm.",
+			"contents": "<b>Subversion 0.12</b> (3 May 2002):\n        Updates to handle disjoint working copies\n           (<a href=\"https://issues.apache.org/jira/browse/SVN-663\">issue #663</a>);\n        version the execute bit on files\n           (<a href=\"https://issues.apache.org/jira/browse/SVN-522\">issue #522</a>);\n        use text-base checksums in working copies\n           (<a href=\"https://issues.apache.org/jira/browse/SVN-549\">issue #549</a>);\n        fix bug in keyword expansion (<a href=\"https://issues.apache.org/jira/browse/SVN-646\">issue #646</a>);\n        various fixes/improvements to the versioning filesystem (issues\n           <a href=\"https://issues.apache.org/jira/browse/SVN-648\">#648</a>,\n           <a href=\"https://issues.apache.org/jira/browse/SVN-651\">#651</a>, and\n           <a href=\"https://issues.apache.org/jira/browse/SVN-653\">#653</a>, and\n           <a href=\"https://issues.apache.org/jira/browse/SVN-654\">#654</a>), improvements to svn diff and svn rm.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-0171a82f7e3150b8d42fb1f97421f4f3",
+			"title": "Subversion 0.11 (12 April 2002): \n        Commits to handle disjoint working copies\n           (issue #575);\n        use 3-way merge in updates;\n        access to repository via http proxy\n           (issue #579);\n        svn merge (issue #504);\n        various fixes for text editor invocation (issues\n           #638,\n           #633, and\n           #615).",
+			"contents": "<b>Subversion 0.11</b> (12 April 2002): \n        Commits to handle disjoint working copies\n           (<a href=\"https://issues.apache.org/jira/browse/SVN-575\">issue #575</a>);\n        use 3-way merge in updates;\n        access to repository via http proxy\n           (<a href=\"https://issues.apache.org/jira/browse/SVN-579\">issue #579</a>);\n        <tt>svn&nbsp;merge</tt> (<a href=\"https://issues.apache.org/jira/browse/SVN-504\">issue #504</a>);\n        various fixes for text editor invocation (issues\n           <a href=\"https://issues.apache.org/jira/browse/SVN-638\">#638</a>,\n           <a href=\"https://issues.apache.org/jira/browse/SVN-633\">#633</a>, and\n           <a href=\"https://issues.apache.org/jira/browse/SVN-615\">#615</a>).",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-982e1c0e997d02350e1695fde54359ed",
+			"title": "Subversion 0.10 (8 March 2002): usability,\n         reliability, and performance: \n         Delta-editor interface changes to promote better memory usage;\n         \"streamy\" writes into the FS (issue #412); better pool management overall;\n         clearer error messages; configuration improvements.",
+			"contents": "<b>Subversion 0.10</b> (8 March 2002): usability,\n         reliability, and performance: \n         Delta-editor interface changes to promote better memory usage;\n         \"streamy\" writes into the FS (<a href=\"https://issues.apache.org/jira/browse/SVN-412\">issue #412</a>); better pool management overall;\n         clearer error messages; configuration improvements.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-e66e43f3f1b4d9b2b2375200e4c3e363",
+			"title": "Subversion 0.9 (18 February 2002):\n         \"svn switch\" (issue #575); resolution of some repository db stability\n         issues (issue\n         #608); and many small features and bugfixes since 0.8, all\n         praise to the Conquering Developer Hordes.  See the\n         CHANGES\n         file for details.",
+			"contents": "<b>Subversion 0.9</b> (18 February 2002):\n         \"svn&nbsp;switch\" (<a href=\"https://issues.apache.org/jira/browse/SVN-575\">issue #575</a>); resolution of some repository db stability\n         issues (<a href=\"https://issues.apache.org/jira/browse/SVN-608\">issue\n         #608</a>); and many small features and bugfixes since 0.8, all\n         praise to the Conquering Developer Hordes.  See the\n         <a href=\"https://svn.apache.org/repos/asf/subversion/trunk/CHANGES\">CHANGES</a>\n         file for details.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-38f7269515683d10612155c7de7fceb0",
+			"title": "Subversion 0.8 (14 January 2002): Commit system rewrite (issue\n         #463); diffs over the network in both directions (issue\n         #518); newline conversion and keyword substitution (issue\n         #524); and code migration from libsvn_fs to libsvn_repos (issue\n         #428).",
+			"contents": "<b>Subversion 0.8</b> (14 January 2002): Commit system rewrite (<a href=\"https://issues.apache.org/jira/browse/SVN-463\">issue\n         #463</a>); diffs over the network in both directions (<a href=\"https://issues.apache.org/jira/browse/SVN-518\">issue\n         #518</a>); newline conversion and keyword substitution (<a href=\"https://issues.apache.org/jira/browse/SVN-524\">issue\n         #524</a>); and code migration from libsvn_fs to libsvn_repos (<a href=\"https://issues.apache.org/jira/browse/SVN-428\">issue\n         #428</a>).",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-64d6436a128ac88baad4fc618cc8dacf",
+			"title": "Subversion 0.7 (3 December 2001): Branching and tagging.",
+			"contents": "<b>Subversion 0.7</b> (3 December 2001): Branching and tagging.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-1e83338c3ae7783fe892c2c0273ff8a5",
+			"title": "Subversion 0.6 (Milestone 6) (12 November 2001): Complete\n      \"svn log\", and have \"svn mv\",\n      \"svn cp\" working at least on files, with directory\n      support optional (for this milestone, that is, not in the long term).",
+			"contents": "<b>Subversion 0.6 (Milestone 6)</b> (12 November 2001): Complete\n      \"<tt>svn&nbsp;log</tt>\", and have \"<tt>svn&nbsp;mv</tt>\",\n      \"<tt>svn&nbsp;cp</tt>\" working at least on files, with directory\n      support optional (for this milestone, that is, not in the long term).",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-a3d04b330ca5a0f523e92ed48afbcada",
+			"title": "Milestones 4 and 5 (19 October 2001): These milestones\n      were reached together, and fix various bugs related to properties,\n      networking, and filesystem deltification.",
+			"contents": "<b>Milestones 4 and 5</b> (19 October 2001): These milestones\n      were reached together, and fix various bugs related to properties,\n      networking, and filesystem deltification.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-70db435464863725ae2b9de72281e66e",
+			"title": "Milestone 3 (30 August 2001): Subversion is now\n      self-hosting.",
+			"contents": "<b>Milestone 3</b> (30 August 2001): Subversion is now\n      self-hosting.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-59b1e20ca252a8e3e230e5bbe40077c4",
+			"title": "Milestone 2 (15 May 2001): Rudimentary working filesystem;\n           client can checkout/update/commit using WebDAV layer.",
+			"contents": "<b>Milestone 2</b> (15 May 2001): Rudimentary working filesystem;\n           client can checkout/update/commit using WebDAV layer.",
+			"retrieved": 1770115570812
+		},
+		{
+			"id": "title-ec4390eadc5bd4f397bab834dbba9098",
+			"title": "Milestone 1 (20 October 2000): Basic working copy\n           manipulation;\n           client can checkout/update/commit using XML files.",
+			"contents": "<b>Milestone 1</b> (20 October 2000): Basic working copy\n           manipulation;\n           client can checkout/update/commit using XML files.",
+			"retrieved": 1770115570812
+		}
+	]
+}

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-03T10:42:30.106Z</updated>
+    <updated>2026-02-03T10:47:43.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -129,7 +129,7 @@
         <id>link-16ef5bea98a7f03fbf5393e4776340df</id>
         <link href="https://news.ycombinator.com/item?id=46862170"/>
         <updated>2026-02-03T05:15:27.436Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">711 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">12 hours ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">1584&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">712 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">12 hours ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">1587&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Europe’s next-generation weather satellite sends back first images (esa.int)]]></title>
@@ -150,7 +150,7 @@
         <id>link-8edfd3537302a567e1c3428ae7518c5c</id>
         <link href="https://news.ycombinator.com/item?id=46859054"/>
         <updated>2026-02-03T05:15:27.436Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46859054">686 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-02T18:02:48 1770055368"><a href="item?id=46859054">16 hours ago</a></span> <span id="unv_46859054"></span> | <a href="item?id=46859054">495&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-the-codex-app/">The Codex App</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46859054">686 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-02T18:02:48 1770055368"><a href="item?id=46859054">16 hours ago</a></span> <span id="unv_46859054"></span> | <a href="item?id=46859054">498&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-the-codex-app/">The Codex App</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[We can’t send mail farther than 500 miles (2002) (web.mit.edu)]]></title>
