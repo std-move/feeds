@@ -219,3 +219,10 @@ entrySelector = "xpath=//div[contains(@class, 'creator-filmography')]//section[.
 titleSelector = ["xpath=(./preceding::*[@class='year'][string-length(translate(string(.), '0123456789', '')) < string-length(string(.))])[last()]", "xpath=."]
 linkSelector = "optional:a"
 contentSelector = []
+
+[apache_subversion_release_history]
+title = "Apache Subversion release history"
+url = "https://subversion.apache.org/docs/release-notes/release-history.html"
+waitForSelector = "#site-content ul li"
+entrySelector = "#site-content ul li"
+titleSelector = "*"
