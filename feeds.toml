@@ -157,6 +157,15 @@ titleSelector = ".titleline"
 linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
 contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
 
+[hacker_news_10_best_posts_week]
+title = "Hacker News - 10 best posts (week)"
+url = "https://news.ycombinator.com/best?h=168"
+waitForSelector = "xpath=(//tr[contains(@class, 'submission')])[position() <= 10]"
+entrySelector = "xpath=(//tr[contains(@class, 'submission')])[position() <= 10]"
+titleSelector = ".titleline"
+linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
+contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
+
 [notebookcheck_featured_content]
 title = "Notebookcheck - featured content"
 url = "https://www.notebookcheck.net/"
