@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-04T05:10:52.302Z</updated>
+    <updated>2026-02-04T06:55:06.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-74ce5a5b2db3383f837f0455c26ec2d1</id>
         <link href="https://news.ycombinator.com/item?id=46795864"/>
         <updated>2026-02-03T10:03:42.200Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46795864">1866 points</span> by <a href="user?id=bobsterlobster" class="hnuser">bobsterlobster</a> <span class="age" title="2026-01-28T14:28:21 1769610501"><a href="item?id=46795864">6 days ago</a></span> <span id="unv_46795864"></span> | <a href="item?id=46795864">1500&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.himthe.dev/blog/microsoft-to-linux">Microsoft forced me to switch to Linux</a><span class="sitebit comhead"> (<a href="from?site=himthe.dev"><span class="sitestr">himthe.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46795864">1866 points</span> by <a href="user?id=bobsterlobster" class="hnuser">bobsterlobster</a> <span class="age" title="2026-01-28T14:28:21 1769610501"><a href="item?id=46795864">6 days ago</a></span> <span id="unv_46795864"></span> | <a href="item?id=46795864">1501&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.himthe.dev/blog/microsoft-to-linux">Microsoft forced me to switch to Linux</a><span class="sitebit comhead"> (<a href="from?site=himthe.dev"><span class="sitestr">himthe.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Antirender: remove the glossy shine on architectural renderings (antirender.com)]]></title>
@@ -38,35 +38,35 @@
         <id>link-0982f14d5b9227c827a2fd7e0afa499f</id>
         <link href="https://news.ycombinator.com/item?id=46808251"/>
         <updated>2026-02-03T10:03:42.200Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46808251">948 points</span> by <a href="user?id=mijailt" class="hnuser">mijailt</a> <span class="age" title="2026-01-29T10:35:00 1769682900"><a href="item?id=46808251">5 days ago</a></span> <span id="unv_46808251"></span> | <a href="item?id=46808251">637&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.ncase.me/on-depression/">Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a><span class="sitebit comhead"> (<a href="from?site=ncase.me"><span class="sitestr">ncase.me</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46808251">948 points</span> by <a href="user?id=mijailt" class="hnuser">mijailt</a> <span class="age" title="2026-01-29T10:35:00 1769682900"><a href="item?id=46808251">5 days ago</a></span> <span id="unv_46808251"></span> | <a href="item?id=46808251">638&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.ncase.me/on-depression/">Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a><span class="sitebit comhead"> (<a href="from?site=ncase.me"><span class="sitestr">ncase.me</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notepad++ hijacked by state-sponsored actors (notepad-plus-plus.org)]]></title>
         <id>link-772367a74868ed75cbe06394cf6e2541</id>
         <link href="https://news.ycombinator.com/item?id=46851548"/>
         <updated>2026-02-03T10:03:42.200Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">902 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">2 days ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">506&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile carriers can get your GPS location (dywa.ng)]]></title>
-        <id>link-3490681f2409f1919503b5fd2f75a297</id>
-        <link href="https://news.ycombinator.com/item?id=46838597"/>
-        <updated>2026-02-03T10:03:42.200Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838597">886 points</span> by <a href="user?id=cbeuw" class="hnuser">cbeuw</a> <span class="age" title="2026-01-31T17:21:34 1769880094"><a href="item?id=46838597">3 days ago</a></span> <span id="unv_46838597"></span> | <a href="item?id=46838597">578&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://an.dywa.ng/carrier-gnss.html">Mobile carriers can get your GPS location</a><span class="sitebit comhead"> (<a href="from?site=dywa.ng"><span class="sitestr">dywa.ng</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI joins SpaceX (spacex.com)]]></title>
-        <id>link-16ef5bea98a7f03fbf5393e4776340df</id>
-        <link href="https://news.ycombinator.com/item?id=46862170"/>
-        <updated>2026-02-03T16:54:57.292Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">880 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">1 day ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2002&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">902 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">2 days ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">505&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France dumps Zoom and Teams as Europe seeks digital autonomy from the US (apnews.com)]]></title>
         <id>link-dad95c17ecedbdedc4d6eefc5f0843cb</id>
         <link href="https://news.ycombinator.com/item?id=46873294"/>
         <updated>2026-02-04T05:09:16.440Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46873294">849 points</span> by <a href="user?id=AareyBaba" class="hnuser">AareyBaba</a> <span class="age" title="2026-02-03T16:39:18 1770136758"><a href="item?id=46873294">12 hours ago</a></span> <span id="unv_46873294"></span> | <a href="item?id=46873294">451&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060">France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a><span class="sitebit comhead"> (<a href="from?site=apnews.com"><span class="sitestr">apnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46873294">893 points</span> by <a href="user?id=AareyBaba" class="hnuser">AareyBaba</a> <span class="age" title="2026-02-03T16:39:18 1770136758"><a href="item?id=46873294">14 hours ago</a></span> <span id="unv_46873294"></span> | <a href="item?id=46873294">464&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060">France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a><span class="sitebit comhead"> (<a href="from?site=apnews.com"><span class="sitestr">apnews.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile carriers can get your GPS location (dywa.ng)]]></title>
+        <id>link-3490681f2409f1919503b5fd2f75a297</id>
+        <link href="https://news.ycombinator.com/item?id=46838597"/>
+        <updated>2026-02-03T10:03:42.200Z</updated>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838597">886 points</span> by <a href="user?id=cbeuw" class="hnuser">cbeuw</a> <span class="age" title="2026-01-31T17:21:34 1769880094"><a href="item?id=46838597">3 days ago</a></span> <span id="unv_46838597"></span> | <a href="item?id=46838597">578&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://an.dywa.ng/carrier-gnss.html">Mobile carriers can get your GPS location</a><span class="sitebit comhead"> (<a href="from?site=dywa.ng"><span class="sitestr">dywa.ng</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xAI joins SpaceX (spacex.com)]]></title>
+        <id>link-16ef5bea98a7f03fbf5393e4776340df</id>
+        <link href="https://news.ycombinator.com/item?id=46862170"/>
+        <updated>2026-02-03T16:54:57.292Z</updated>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">881 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">1 day ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2012&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Defeating a 40-year-old copy protection dongle (dmitrybrant.com)]]></title>

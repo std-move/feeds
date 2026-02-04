@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-04T05:10:52.301Z</updated>
+    <updated>2026-02-04T06:55:06.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-74ce5a5b2db3383f837f0455c26ec2d1</id>
         <link href="https://news.ycombinator.com/item?id=46795864"/>
         <updated>2026-01-28T18:38:56.866Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46795864">1866 points</span> by <a href="user?id=bobsterlobster" class="hnuser">bobsterlobster</a> <span class="age" title="2026-01-28T14:28:21 1769610501"><a href="item?id=46795864">6 days ago</a></span> <span id="unv_46795864"></span> | <a href="item?id=46795864">1500&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.himthe.dev/blog/microsoft-to-linux">Microsoft forced me to switch to Linux</a><span class="sitebit comhead"> (<a href="from?site=himthe.dev"><span class="sitestr">himthe.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46795864">1866 points</span> by <a href="user?id=bobsterlobster" class="hnuser">bobsterlobster</a> <span class="age" title="2026-01-28T14:28:21 1769610501"><a href="item?id=46795864">6 days ago</a></span> <span id="unv_46795864"></span> | <a href="item?id=46795864">1501&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.himthe.dev/blog/microsoft-to-linux">Microsoft forced me to switch to Linux</a><span class="sitebit comhead"> (<a href="from?site=himthe.dev"><span class="sitestr">himthe.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Antirender: remove the glossy shine on architectural renderings (antirender.com)]]></title>
@@ -38,35 +38,35 @@
         <id>link-0982f14d5b9227c827a2fd7e0afa499f</id>
         <link href="https://news.ycombinator.com/item?id=46808251"/>
         <updated>2026-01-29T16:44:18.356Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46808251">948 points</span> by <a href="user?id=mijailt" class="hnuser">mijailt</a> <span class="age" title="2026-01-29T10:35:00 1769682900"><a href="item?id=46808251">5 days ago</a></span> <span id="unv_46808251"></span> | <a href="item?id=46808251">637&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.ncase.me/on-depression/">Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a><span class="sitebit comhead"> (<a href="from?site=ncase.me"><span class="sitestr">ncase.me</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46808251">948 points</span> by <a href="user?id=mijailt" class="hnuser">mijailt</a> <span class="age" title="2026-01-29T10:35:00 1769682900"><a href="item?id=46808251">5 days ago</a></span> <span id="unv_46808251"></span> | <a href="item?id=46808251">638&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.ncase.me/on-depression/">Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a><span class="sitebit comhead"> (<a href="from?site=ncase.me"><span class="sitestr">ncase.me</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notepad++ hijacked by state-sponsored actors (notepad-plus-plus.org)]]></title>
         <id>link-772367a74868ed75cbe06394cf6e2541</id>
         <link href="https://news.ycombinator.com/item?id=46851548"/>
         <updated>2026-02-02T07:03:26.104Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">902 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">2 days ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">506&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile carriers can get your GPS location (dywa.ng)]]></title>
-        <id>link-3490681f2409f1919503b5fd2f75a297</id>
-        <link href="https://news.ycombinator.com/item?id=46838597"/>
-        <updated>2026-02-01T05:22:13.304Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838597">886 points</span> by <a href="user?id=cbeuw" class="hnuser">cbeuw</a> <span class="age" title="2026-01-31T17:21:34 1769880094"><a href="item?id=46838597">3 days ago</a></span> <span id="unv_46838597"></span> | <a href="item?id=46838597">578&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://an.dywa.ng/carrier-gnss.html">Mobile carriers can get your GPS location</a><span class="sitebit comhead"> (<a href="from?site=dywa.ng"><span class="sitestr">dywa.ng</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI joins SpaceX (spacex.com)]]></title>
-        <id>link-16ef5bea98a7f03fbf5393e4776340df</id>
-        <link href="https://news.ycombinator.com/item?id=46862170"/>
-        <updated>2026-02-03T05:15:27.436Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">880 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">1 day ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2002&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">902 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">2 days ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">505&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France dumps Zoom and Teams as Europe seeks digital autonomy from the US (apnews.com)]]></title>
         <id>link-dad95c17ecedbdedc4d6eefc5f0843cb</id>
         <link href="https://news.ycombinator.com/item?id=46873294"/>
         <updated>2026-02-03T22:30:49.778Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46873294">849 points</span> by <a href="user?id=AareyBaba" class="hnuser">AareyBaba</a> <span class="age" title="2026-02-03T16:39:18 1770136758"><a href="item?id=46873294">12 hours ago</a></span> <span id="unv_46873294"></span> | <a href="item?id=46873294">451&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060">France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a><span class="sitebit comhead"> (<a href="from?site=apnews.com"><span class="sitestr">apnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46873294">893 points</span> by <a href="user?id=AareyBaba" class="hnuser">AareyBaba</a> <span class="age" title="2026-02-03T16:39:18 1770136758"><a href="item?id=46873294">14 hours ago</a></span> <span id="unv_46873294"></span> | <a href="item?id=46873294">464&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060">France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a><span class="sitebit comhead"> (<a href="from?site=apnews.com"><span class="sitestr">apnews.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile carriers can get your GPS location (dywa.ng)]]></title>
+        <id>link-3490681f2409f1919503b5fd2f75a297</id>
+        <link href="https://news.ycombinator.com/item?id=46838597"/>
+        <updated>2026-02-01T05:22:13.304Z</updated>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838597">886 points</span> by <a href="user?id=cbeuw" class="hnuser">cbeuw</a> <span class="age" title="2026-01-31T17:21:34 1769880094"><a href="item?id=46838597">3 days ago</a></span> <span id="unv_46838597"></span> | <a href="item?id=46838597">578&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://an.dywa.ng/carrier-gnss.html">Mobile carriers can get your GPS location</a><span class="sitebit comhead"> (<a href="from?site=dywa.ng"><span class="sitestr">dywa.ng</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xAI joins SpaceX (spacex.com)]]></title>
+        <id>link-16ef5bea98a7f03fbf5393e4776340df</id>
+        <link href="https://news.ycombinator.com/item?id=46862170"/>
+        <updated>2026-02-03T05:15:27.436Z</updated>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">881 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">1 day ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2012&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Defeating a 40-year-old copy protection dongle (dmitrybrant.com)]]></title>
@@ -80,7 +80,7 @@
         <id>link-97814a1694eeca491e72dc132c7324a2</id>
         <link href="https://news.ycombinator.com/item?id=46848415"/>
         <updated>2026-02-02T02:11:37.326Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46848415">828 points</span> by <a href="user?id=firefoxd" class="hnuser">firefoxd</a> <span class="age" title="2026-02-01T19:00:46 1769972446"><a href="item?id=46848415">2 days ago</a></span> <span id="unv_46848415"></span> | <a href="item?id=46848415">362&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down">Teaching my neighbor to keep the volume down</a><span class="sitebit comhead"> (<a href="from?site=idiallo.com"><span class="sitestr">idiallo.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46848415">828 points</span> by <a href="user?id=firefoxd" class="hnuser">firefoxd</a> <span class="age" title="2026-02-01T19:00:46 1769972446"><a href="item?id=46848415">2 days ago</a></span> <span id="unv_46848415"></span> | <a href="item?id=46848415">364&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down">Teaching my neighbor to keep the volume down</a><span class="sitebit comhead"> (<a href="from?site=idiallo.com"><span class="sitestr">idiallo.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Euro firms must ditch Uncle Sam's clouds and go EU-native (theregister.com)]]></title>
@@ -94,7 +94,7 @@
         <id>link-8edfd3537302a567e1c3428ae7518c5c</id>
         <link href="https://news.ycombinator.com/item?id=46859054"/>
         <updated>2026-02-03T05:15:27.436Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46859054">787 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-02T18:02:48 1770055368"><a href="item?id=46859054">1 day ago</a></span> <span id="unv_46859054"></span> | <a href="item?id=46859054">614&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-the-codex-app/">The Codex App</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46859054">787 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-02T18:02:48 1770055368"><a href="item?id=46859054">1 day ago</a></span> <span id="unv_46859054"></span> | <a href="item?id=46859054">616&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-the-codex-app/">The Codex App</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Code daily benchmarks for degradation tracking (marginlab.ai)]]></title>
@@ -108,7 +108,7 @@
         <id>link-016f55dc5ff5c13601497d72388a81c9</id>
         <link href="https://news.ycombinator.com/item?id=46838417"/>
         <updated>2026-02-01T02:28:03.295Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838417">738 points</span> by <a href="user?id=Teever" class="hnuser">Teever</a> <span class="age" title="2026-01-31T17:06:22 1769879182"><a href="item?id=46838417">3 days ago</a></span> <span id="unv_46838417"></span> | <a href="item?id=46838417">565&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://yle.fi/a/74-20207494">Finland looks to introduce Australia-style ban on social media</a><span class="sitebit comhead"> (<a href="from?site=yle.fi"><span class="sitestr">yle.fi</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46838417">738 points</span> by <a href="user?id=Teever" class="hnuser">Teever</a> <span class="age" title="2026-01-31T17:06:22 1769879182"><a href="item?id=46838417">3 days ago</a></span> <span id="unv_46838417"></span> | <a href="item?id=46838417">566&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://yle.fi/a/74-20207494">Finland looks to introduce Australia-style ban on social media</a><span class="sitebit comhead"> (<a href="from?site=yle.fi"><span class="sitestr">yle.fi</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GOG: Linux "the next major frontier" for gaming as it works on a native client (xda-developers.com)]]></title>
@@ -164,28 +164,28 @@
         <id>link-9296a9f77fcb03de872f1137384fa84b</id>
         <link href="https://news.ycombinator.com/item?id=46820783"/>
         <updated>2026-01-30T20:31:28.479Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46820783">665 points</span> by <a href="user?id=ed" class="hnuser">ed</a> <span class="age" title="2026-01-30T05:14:48 1769750088"><a href="item?id=46820783">4 days ago</a></span> <span id="unv_46820783"></span> | <a href="item?id=46820783">368&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openclaw.ai/blog/introducing-openclaw">OpenClaw – Moltbot Renamed Again</a><span class="sitebit comhead"> (<a href="from?site=openclaw.ai"><span class="sitestr">openclaw.ai</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's up with all those equals signs anyway? (ingebrigtsen.no)]]></title>
-        <id>link-b475e24bf6ec7a802ef0d770bf788dc1</id>
-        <link href="https://news.ycombinator.com/item?id=46868759"/>
-        <updated>2026-02-03T22:30:49.778Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46868759">620 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-02-03T09:37:40 1770111460"><a href="item?id=46868759">19 hours ago</a></span> <span id="unv_46868759"></span> | <a href="item?id=46868759">182&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/">What's up with all those equals signs anyway?</a><span class="sitebit comhead"> (<a href="from?site=ingebrigtsen.no"><span class="sitestr">ingebrigtsen.no</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46820783">666 points</span> by <a href="user?id=ed" class="hnuser">ed</a> <span class="age" title="2026-01-30T05:14:48 1769750088"><a href="item?id=46820783">5 days ago</a></span> <span id="unv_46820783"></span> | <a href="item?id=46820783">370&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openclaw.ai/blog/introducing-openclaw">OpenClaw – Moltbot Renamed Again</a><span class="sitebit comhead"> (<a href="from?site=openclaw.ai"><span class="sitestr">openclaw.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Qwen3-Coder-Next (qwen.ai)]]></title>
         <id>link-61991a9681aa444abed0fa247891b4f3</id>
         <link href="https://news.ycombinator.com/item?id=46872706"/>
         <updated>2026-02-04T02:05:14.257Z</updated>
-        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46872706">605 points</span> by <a href="user?id=danielhanchen" class="hnuser">danielhanchen</a> <span class="age" title="2026-02-03T16:01:50 1770134510"><a href="item?id=46872706">13 hours ago</a></span> <span id="unv_46872706"></span> | <a href="item?id=46872706">376&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3-coder-next">Qwen3-Coder-Next</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46872706">629 points</span> by <a href="user?id=danielhanchen" class="hnuser">danielhanchen</a> <span class="age" title="2026-02-03T16:01:50 1770134510"><a href="item?id=46872706">14 hours ago</a></span> <span id="unv_46872706"></span> | <a href="item?id=46872706">380&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3-coder-next">Qwen3-Coder-Next</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's up with all those equals signs anyway? (ingebrigtsen.no)]]></title>
+        <id>link-b475e24bf6ec7a802ef0d770bf788dc1</id>
+        <link href="https://news.ycombinator.com/item?id=46868759"/>
+        <updated>2026-02-03T22:30:49.778Z</updated>
+        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46868759">622 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-02-03T09:37:40 1770111460"><a href="item?id=46868759">21 hours ago</a></span> <span id="unv_46868759"></span> | <a href="item?id=46868759">183&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/">What's up with all those equals signs anyway?</a><span class="sitebit comhead"> (<a href="from?site=ingebrigtsen.no"><span class="sitestr">ingebrigtsen.no</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The TSA's New $45 Fee to Fly Without ID Is Illegal (frommers.com)]]></title>
         <id>link-1fd055cc0e1ed56d1c56a83b28e558ee</id>
         <link href="https://news.ycombinator.com/item?id=46863162"/>
         <updated>2026-02-03T16:54:57.292Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46863162">602 points</span> by <a href="user?id=donohoe" class="hnuser">donohoe</a> <span class="age" title="2026-02-02T22:48:10 1770072490"><a href="item?id=46863162">1 day ago</a></span> <span id="unv_46863162"></span> | <a href="item?id=46863162">716&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/">The TSA's New $45 Fee to Fly Without ID Is Illegal</a><span class="sitebit comhead"> (<a href="from?site=frommers.com"><span class="sitestr">frommers.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46863162">604 points</span> by <a href="user?id=donohoe" class="hnuser">donohoe</a> <span class="age" title="2026-02-02T22:48:10 1770072490"><a href="item?id=46863162">1 day ago</a></span> <span id="unv_46863162"></span> | <a href="item?id=46863162">717&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/">The TSA's New $45 Fee to Fly Without ID Is Illegal</a><span class="sitebit comhead"> (<a href="from?site=frommers.com"><span class="sitestr">frommers.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Cats (http.cat)]]></title>
@@ -199,7 +199,7 @@
         <id>link-28dfe4a24aae60fb1da92cad492a6801</id>
         <link href="https://news.ycombinator.com/item?id=46858577"/>
         <updated>2026-02-03T16:54:57.292Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46858577">584 points</span> by <a href="user?id=wodniok" class="hnuser">wodniok</a> <span class="age" title="2026-02-02T17:25:26 1770053126"><a href="item?id=46858577">1 day ago</a></span> <span id="unv_46858577"></span> | <a href="item?id=46858577">311&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.millert.dev/">Todd C. Miller – Sudo maintainer for over 30 years</a><span class="sitebit comhead"> (<a href="from?site=millert.dev"><span class="sitestr">millert.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46858577">584 points</span> by <a href="user?id=wodniok" class="hnuser">wodniok</a> <span class="age" title="2026-02-02T17:25:26 1770053126"><a href="item?id=46858577">1 day ago</a></span> <span id="unv_46858577"></span> | <a href="item?id=46858577">312&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.millert.dev/">Todd C. Miller – Sudo maintainer for over 30 years</a><span class="sitebit comhead"> (<a href="from?site=millert.dev"><span class="sitestr">millert.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tesla ending Models S and X production (cnbc.com)]]></title>
