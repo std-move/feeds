@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-02-04T02:06:49.597Z</updated>
+    <updated>2026-02-04T05:10:52.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -262,7 +262,7 @@
         <id>link-11f937a8887651100ab123c883e99d7b</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/gocash-game-card-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[GoCash Card Multi-Game — $10 - $50]]></content>
+        <content type="html"><![CDATA[GoCash Card Multi-Game — $5 - $50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[H&M]]></title>
