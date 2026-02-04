@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-04T18:55:33.919Z</updated>
+    <updated>2026-02-04T20:37:42.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-30ec5fa54f044edfd827c0015b777d21</id>
         <link href="https://news.ycombinator.com/item?id=46829147"/>
         <updated>2026-02-03T10:03:42.200Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46829147">1833 points</span> by <a href="user?id=iambateman" class="hnuser">iambateman</a> <span class="age" title="2026-01-30T20:05:24 1769803524"><a href="item?id=46829147">4 days ago</a></span> <span id="unv_46829147"></span> | <a href="item?id=46829147">448&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirender.com/">Antirender: remove the glossy shine on architectural renderings</a><span class="sitebit comhead"> (<a href="from?site=antirender.com"><span class="sitestr">antirender.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46829147">1834 points</span> by <a href="user?id=iambateman" class="hnuser">iambateman</a> <span class="age" title="2026-01-30T20:05:24 1769803524"><a href="item?id=46829147">5 days ago</a></span> <span id="unv_46829147"></span> | <a href="item?id=46829147">448&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://antirender.com/">Antirender: remove the glossy shine on architectural renderings</a><span class="sitebit comhead"> (<a href="from?site=antirender.com"><span class="sitestr">antirender.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moltbook (moltbook.com)]]></title>
@@ -24,28 +24,28 @@
         <id>link-315c04aedc61cc616fff3602c83acd59</id>
         <link href="https://news.ycombinator.com/item?id=46881264"/>
         <updated>2026-02-04T14:40:31.686Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46881264">1114 points</span> by <a href="user?id=jernestomg" class="hnuser">jernestomg</a> <span class="age" title="2026-02-04T03:54:11 1770177251"><a href="item?id=46881264">15 hours ago</a></span> <span id="unv_46881264"></span> | <a href="item?id=46881264">608&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jernesto.com/articles/thinking_hard">I miss thinking hard</a><span class="sitebit comhead"> (<a href="from?site=jernesto.com"><span class="sitestr">jernesto.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple to soon take up to 30% cut from all Patreon creators in iOS app (macrumors.com)]]></title>
-        <id>link-bf1274bef46024efa3c56a09e5c843f9</id>
-        <link href="https://news.ycombinator.com/item?id=46801419"/>
-        <updated>2026-02-03T10:03:42.200Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46801419">1114 points</span> by <a href="user?id=pier25" class="hnuser">pier25</a> <span class="age" title="2026-01-28T20:59:30 1769633970"><a href="item?id=46801419">6 days ago</a></span> <span id="unv_46801419"></span> | <a href="item?id=46801419">914&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.macrumors.com/2026/01/28/patreon-apple-tax/">Apple to soon take up to 30% cut from all Patreon creators in iOS app</a><span class="sitebit comhead"> (<a href="from?site=macrumors.com"><span class="sitestr">macrumors.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46881264">1170 points</span> by <a href="user?id=jernestomg" class="hnuser">jernestomg</a> <span class="age" title="2026-02-04T03:54:11 1770177251"><a href="item?id=46881264">16 hours ago</a></span> <span id="unv_46881264"></span> | <a href="item?id=46881264">636&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jernesto.com/articles/thinking_hard">I miss thinking hard</a><span class="sitebit comhead"> (<a href="from?site=jernesto.com"><span class="sitestr">jernesto.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France dumps Zoom and Teams as Europe seeks digital autonomy from the US (apnews.com)]]></title>
         <id>link-dad95c17ecedbdedc4d6eefc5f0843cb</id>
         <link href="https://news.ycombinator.com/item?id=46873294"/>
         <updated>2026-02-04T05:09:16.440Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46873294">1113 points</span> by <a href="user?id=AareyBaba" class="hnuser">AareyBaba</a> <span class="age" title="2026-02-03T16:39:18 1770136758"><a href="item?id=46873294">1 day ago</a></span> <span id="unv_46873294"></span> | <a href="item?id=46873294">561&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060">France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a><span class="sitebit comhead"> (<a href="from?site=apnews.com"><span class="sitestr">apnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46873294">1117 points</span> by <a href="user?id=AareyBaba" class="hnuser">AareyBaba</a> <span class="age" title="2026-02-03T16:39:18 1770136758"><a href="item?id=46873294">1 day ago</a></span> <span id="unv_46873294"></span> | <a href="item?id=46873294">570&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060">France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a><span class="sitebit comhead"> (<a href="from?site=apnews.com"><span class="sitestr">apnews.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple to soon take up to 30% cut from all Patreon creators in iOS app (macrumors.com)]]></title>
+        <id>link-bf1274bef46024efa3c56a09e5c843f9</id>
+        <link href="https://news.ycombinator.com/item?id=46801419"/>
+        <updated>2026-02-03T10:03:42.200Z</updated>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46801419">1114 points</span> by <a href="user?id=pier25" class="hnuser">pier25</a> <span class="age" title="2026-01-28T20:59:30 1769633970"><a href="item?id=46801419">6 days ago</a></span> <span id="unv_46801419"></span> | <a href="item?id=46801419">914&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.macrumors.com/2026/01/28/patreon-apple-tax/">Apple to soon take up to 30% cut from all Patreon creators in iOS app</a><span class="sitebit comhead"> (<a href="from?site=macrumors.com"><span class="sitestr">macrumors.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data centers in space makes no sense (civai.org)]]></title>
         <id>link-e15dfadec1663b13a0b8f6df4049772e</id>
         <link href="https://news.ycombinator.com/item?id=46876105"/>
         <updated>2026-02-04T16:51:05.506Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46876105">971 points</span> by <a href="user?id=ajyoon" class="hnuser">ajyoon</a> <span class="age" title="2026-02-03T19:37:30 1770147450"><a href="item?id=46876105">23 hours ago</a></span> <span id="unv_46876105"></span> | <a href="item?id=46876105">1125&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://civai.org/blog/space-data-centers">Data centers in space makes no sense</a><span class="sitebit comhead"> (<a href="from?site=civai.org"><span class="sitestr">civai.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46876105">1005 points</span> by <a href="user?id=ajyoon" class="hnuser">ajyoon</a> <span class="age" title="2026-02-03T19:37:30 1770147450"><a href="item?id=46876105">1 day ago</a></span> <span id="unv_46876105"></span> | <a href="item?id=46876105">1162&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://civai.org/blog/space-data-centers">Data centers in space makes no sense</a><span class="sitebit comhead"> (<a href="from?site=civai.org"><span class="sitestr">civai.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vitamin D and Omega-3 have a larger effect on depression than antidepressants (ncase.me)]]></title>
@@ -59,14 +59,14 @@
         <id>link-772367a74868ed75cbe06394cf6e2541</id>
         <link href="https://news.ycombinator.com/item?id=46851548"/>
         <updated>2026-02-03T10:03:42.200Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">907 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">2 days ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">510&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">908 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">2 days ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">510&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xAI joins SpaceX (spacex.com)]]></title>
         <id>link-16ef5bea98a7f03fbf5393e4776340df</id>
         <link href="https://news.ycombinator.com/item?id=46862170"/>
         <updated>2026-02-03T16:54:57.292Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">890 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">1 day ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2039&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">891 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">1 day ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2044&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mobile carriers can get your GPS location (dywa.ng)]]></title>
