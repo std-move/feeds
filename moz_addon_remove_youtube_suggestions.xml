@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-02-04T22:31:19.863Z</updated>
+    <updated>2026-02-05T02:08:12.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.69]]></title>
+        <id>title-097854fada2b4cead19bc2d4dc880547</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-02-05T02:06:14.889Z</updated>
+        <content type="html"><![CDATA[Released Feb 5, 2026 - 340.82 KB — Analytics changed to opt-in (consent banner added). Performance improvements to reduce CPU usage. Minor bug fixes and code cleanup.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.68]]></title>
         <id>title-f5db3a14885049c49c16785cbcfa88e5</id>
@@ -172,12 +179,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released May 8, 2023 - 325.42 KB — Fix undefined bug]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.40]]></title>
-        <id>title-e2e717bb88ff56b0619ac22f9bb33977</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released May 7, 2023 - 325.43 KB — Added new options:<br>   - disable autoplay for the channel page<br>   - hide VODs on the subscriptions page<br>   - remove the “context” block]]></content>
     </entry>
 </feed>

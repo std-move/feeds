@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-097854fada2b4cead19bc2d4dc880547",
+			"title": "Version 4.3.69",
+			"contents": "Released Feb 5, 2026 - 340.82 KB — Analytics changed to opt-in (consent banner added). Performance improvements to reduce CPU usage. Minor bug fixes and code cleanup.",
+			"retrieved": 1770257174889
+		},
+		{
 			"id": "title-f5db3a14885049c49c16785cbcfa88e5",
 			"title": "Version 4.3.68",
 			"contents": "Released Jan 29, 2026 - 340.66 KB — add announcement banner to YouTube homepage and revamp reveal boxes",
@@ -145,12 +151,6 @@
 			"id": "title-da6ea8c0e6987789e1e424311e2228a3",
 			"title": "Version 4.3.41",
 			"contents": "Released May 8, 2023 - 325.42 KB — Fix undefined bug",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-e2e717bb88ff56b0619ac22f9bb33977",
-			"title": "Version 4.3.40",
-			"contents": "Released May 7, 2023 - 325.43 KB — Added new options:<br>   - disable autoplay for the channel page<br>   - hide VODs on the subscriptions page<br>   - remove the “context” block",
 			"retrieved": 1767548017655
 		}
 	]
