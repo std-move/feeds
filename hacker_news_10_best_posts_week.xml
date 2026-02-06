@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-06T14:40:54.429Z</updated>
+    <updated>2026-02-06T16:46:20.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,49 +10,49 @@
         <id>link-699c83fea2537ae153c11be504fa2b00</id>
         <link href="https://news.ycombinator.com/item?id=46902223"/>
         <updated>2026-02-05T20:34:42.553Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902223">2114 points</span> by <a href="user?id=HellsMaddy" class="hnuser">HellsMaddy</a> <span class="age" title="2026-02-05T17:38:53 1770313133"><a href="item?id=46902223">21 hours ago</a></span> <span id="unv_46902223"></span> | <a href="item?id=46902223">909&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-6">Claude Opus 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902223">2175 points</span> by <a href="user?id=HellsMaddy" class="hnuser">HellsMaddy</a> <span class="age" title="2026-02-05T17:38:53 1770313133"><a href="item?id=46902223">23 hours ago</a></span> <span id="unv_46902223"></span> | <a href="item?id=46902223">941&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-6">Claude Opus 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.3-Codex (openai.com)]]></title>
         <id>link-972565bf20ea65274b74dc6665eda1de</id>
         <link href="https://news.ycombinator.com/item?id=46902638"/>
         <updated>2026-02-06T02:06:14.529Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902638">1397 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-05T18:08:08 1770314888"><a href="item?id=46902638">20 hours ago</a></span> <span id="unv_46902638"></span> | <a href="item?id=46902638">534&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex/">GPT-5.3-Codex</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902638">1422 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-05T18:08:08 1770314888"><a href="item?id=46902638">22 hours ago</a></span> <span id="unv_46902638"></span> | <a href="item?id=46902638">559&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex/">GPT-5.3-Codex</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I miss thinking hard (jernesto.com)]]></title>
         <id>link-315c04aedc61cc616fff3602c83acd59</id>
         <link href="https://news.ycombinator.com/item?id=46881264"/>
         <updated>2026-02-04T14:40:31.686Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46881264">1281 points</span> by <a href="user?id=jernestomg" class="hnuser">jernestomg</a> <span class="age" title="2026-02-04T03:54:11 1770177251"><a href="item?id=46881264">2 days ago</a></span> <span id="unv_46881264"></span> | <a href="item?id=46881264">697&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jernesto.com/articles/thinking_hard">I miss thinking hard</a><span class="sitebit comhead"> (<a href="from?site=jernesto.com"><span class="sitestr">jernesto.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46881264">1286 points</span> by <a href="user?id=jernestomg" class="hnuser">jernestomg</a> <span class="age" title="2026-02-04T03:54:11 1770177251"><a href="item?id=46881264">2 days ago</a></span> <span id="unv_46881264"></span> | <a href="item?id=46881264">698&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jernesto.com/articles/thinking_hard">I miss thinking hard</a><span class="sitebit comhead"> (<a href="from?site=jernesto.com"><span class="sitestr">jernesto.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Don't rent the cloud, own instead (comma.ai)]]></title>
         <id>link-9a3aa46fe711b92b09dc3f2b06fc9c0a</id>
         <link href="https://news.ycombinator.com/item?id=46896146"/>
         <updated>2026-02-05T18:48:45.825Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46896146">1158 points</span> by <a href="user?id=Torq_boi" class="hnuser">Torq_boi</a> <span class="age" title="2026-02-05T05:50:01 1770270601"><a href="item?id=46896146">1 day ago</a></span> <span id="unv_46896146"></span> | <a href="item?id=46896146">477&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.comma.ai/datacenter/">Don't rent the cloud, own instead</a><span class="sitebit comhead"> (<a href="from?site=comma.ai"><span class="sitestr">comma.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46896146">1162 points</span> by <a href="user?id=Torq_boi" class="hnuser">Torq_boi</a> <span class="age" title="2026-02-05T05:50:01 1770270601"><a href="item?id=46896146">1 day ago</a></span> <span id="unv_46896146"></span> | <a href="item?id=46896146">484&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.comma.ai/datacenter/">Don't rent the cloud, own instead</a><span class="sitebit comhead"> (<a href="from?site=comma.ai"><span class="sitestr">comma.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France dumps Zoom and Teams as Europe seeks digital autonomy from the US (apnews.com)]]></title>
         <id>link-dad95c17ecedbdedc4d6eefc5f0843cb</id>
         <link href="https://news.ycombinator.com/item?id=46873294"/>
         <updated>2026-02-04T05:09:16.440Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46873294">1141 points</span> by <a href="user?id=AareyBaba" class="hnuser">AareyBaba</a> <span class="age" title="2026-02-03T16:39:18 1770136758"><a href="item?id=46873294">2 days ago</a></span> <span id="unv_46873294"></span> | <a href="item?id=46873294">594&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060">France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a><span class="sitebit comhead"> (<a href="from?site=apnews.com"><span class="sitestr">apnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46873294">1141 points</span> by <a href="user?id=AareyBaba" class="hnuser">AareyBaba</a> <span class="age" title="2026-02-03T16:39:18 1770136758"><a href="item?id=46873294">3 days ago</a></span> <span id="unv_46873294"></span> | <a href="item?id=46873294">594&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060">France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a><span class="sitebit comhead"> (<a href="from?site=apnews.com"><span class="sitestr">apnews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data centers in space makes no sense (civai.org)]]></title>
         <id>link-e15dfadec1663b13a0b8f6df4049772e</id>
         <link href="https://news.ycombinator.com/item?id=46876105"/>
         <updated>2026-02-04T16:51:05.506Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46876105">1100 points</span> by <a href="user?id=ajyoon" class="hnuser">ajyoon</a> <span class="age" title="2026-02-03T19:37:30 1770147450"><a href="item?id=46876105">2 days ago</a></span> <span id="unv_46876105"></span> | <a href="item?id=46876105">1323&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://civai.org/blog/space-data-centers">Data centers in space makes no sense</a><span class="sitebit comhead"> (<a href="from?site=civai.org"><span class="sitestr">civai.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46876105">1102 points</span> by <a href="user?id=ajyoon" class="hnuser">ajyoon</a> <span class="age" title="2026-02-03T19:37:30 1770147450"><a href="item?id=46876105">2 days ago</a></span> <span id="unv_46876105"></span> | <a href="item?id=46876105">1325&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://civai.org/blog/space-data-centers">Data centers in space makes no sense</a><span class="sitebit comhead"> (<a href="from?site=civai.org"><span class="sitestr">civai.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Voxtral Transcribe 2 (mistral.ai)]]></title>
         <id>link-51ae39a2ae05c8a9578d8388a59ae4be</id>
         <link href="https://news.ycombinator.com/item?id=46886735"/>
         <updated>2026-02-05T05:17:06.174Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46886735">994 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-04T15:08:17 1770217697"><a href="item?id=46886735">1 day ago</a></span> <span id="unv_46886735"></span> | <a href="item?id=46886735">238&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mistral.ai/news/voxtral-transcribe-2">Voxtral Transcribe 2</a><span class="sitebit comhead"> (<a href="from?site=mistral.ai"><span class="sitestr">mistral.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46886735">996 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-04T15:08:17 1770217697"><a href="item?id=46886735">2 days ago</a></span> <span id="unv_46886735"></span> | <a href="item?id=46886735">238&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mistral.ai/news/voxtral-transcribe-2">Voxtral Transcribe 2</a><span class="sitebit comhead"> (<a href="from?site=mistral.ai"><span class="sitestr">mistral.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notepad++ hijacked by state-sponsored actors (notepad-plus-plus.org)]]></title>
