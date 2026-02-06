@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-02-06T10:41:54.964Z</updated>
+    <updated>2026-02-06T13:02:43.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
-    <entry>
-        <title type="html"><![CDATA[ACA 200 — 2026-02-06 06:00:00 -0500]]></title>
-        <id>link-d16fccc00701f91174c378cb0e59df66</id>
-        <link href="https://www.tapology.com/fightcenter/events/136817-aca-200-gasanov-vs-tumenov"/>
-        <updated>2026-01-17T18:29:54.923Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136817-aca-200-gasanov-vs-tumenov">ACA 200</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-06 06:00:00 -0500">in 19 minutes</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[LFA 226 — 2026-02-06 18:30:00 -0500]]></title>
         <id>link-b59f8a04c6222c15596d4df4aebd3514</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/138232-lfa-226-allakhverdiev-vs-kropschot">LFA 226</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-06 18:30:00 -0500">in 12 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-02-06 18:30:00 -0500">in 10 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-02-21 11:00:00 -0500">in 2 weeks</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wood vs. Warrington II — 2026-02-21 09:00:00 -0500]]></title>
+        <id>link-e0398748efb3a5698d0e48bb375b64a0</id>
+        <link href="https://www.tapology.com/fightcenter/events/135971-wood-vs-warrington-ii"/>
+        <updated>2026-02-06T13:00:53.411Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/135971-wood-vs-warrington-ii">Wood vs. Warrington II</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-02-21 09:00:00 -0500">in 2 weeks</abbr>
 </td>]]></content>
     </entry>
 </feed>
