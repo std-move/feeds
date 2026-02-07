@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-07T20:29:55.380Z</updated>
+    <updated>2026-02-07T20:35:08.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>link-f92f4c965aa63e6e8e667bf7213c758b</id>
         <link href="https://news.ycombinator.com/item?id=46911901"/>
         <updated>2026-02-06T16:44:42.346Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">1134 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">1 day ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">512&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">1135 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">1 day ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">512&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data centers in space makes no sense (civai.org)]]></title>
@@ -59,7 +59,7 @@
         <id>link-aab783bb583f5aefa392c12fbf00d482</id>
         <link href="https://news.ycombinator.com/item?id=46914785"/>
         <updated>2026-02-06T22:24:47.706Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46914785">1066 points</span> by <a href="user?id=xnx" class="hnuser">xnx</a> <span class="age" title="2026-02-06T16:20:42 1770394842"><a href="item?id=46914785">1 day ago</a></span> <span id="unv_46914785"></span> | <a href="item?id=46914785">614&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation">The Waymo World Model</a><span class="sitebit comhead"> (<a href="from?site=waymo.com"><span class="sitestr">waymo.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46914785">1067 points</span> by <a href="user?id=xnx" class="hnuser">xnx</a> <span class="age" title="2026-02-06T16:20:42 1770394842"><a href="item?id=46914785">1 day ago</a></span> <span id="unv_46914785"></span> | <a href="item?id=46914785">615&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation">The Waymo World Model</a><span class="sitebit comhead"> (<a href="from?site=waymo.com"><span class="sitestr">waymo.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Voxtral Transcribe 2 (mistral.ai)]]></title>
@@ -101,7 +101,7 @@
         <id>link-95f3357e4ffd6fc54e26f53601eb836f</id>
         <link href="https://news.ycombinator.com/item?id=46918612"/>
         <updated>2026-02-07T08:32:55.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46918612">838 points</span> by <a href="user?id=klaussilveira" class="hnuser">klaussilveira</a> <span class="age" title="2026-02-06T21:51:23 1770414683"><a href="item?id=46918612">22 hours ago</a></span> <span id="unv_46918612"></span> | <a href="item?id=46918612">251&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openciv3.org/">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a><span class="sitebit comhead"> (<a href="from?site=openciv3.org"><span class="sitestr">openciv3.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46918612">839 points</span> by <a href="user?id=klaussilveira" class="hnuser">klaussilveira</a> <span class="age" title="2026-02-06T21:51:23 1770414683"><a href="item?id=46918612">22 hours ago</a></span> <span id="unv_46918612"></span> | <a href="item?id=46918612">251&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openciv3.org/">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a><span class="sitebit comhead"> (<a href="from?site=openciv3.org"><span class="sitestr">openciv3.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Teaching my neighbor to keep the volume down (idiallo.com)]]></title>
@@ -199,7 +199,7 @@
         <id>link-2b23de6098e72f00d658cd7fdb0fa50a</id>
         <link href="https://news.ycombinator.com/item?id=46923736"/>
         <updated>2026-02-07T20:28:10.846Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46923736">580 points</span> by <a href="user?id=nar001" class="hnuser">nar001</a> <span class="age" title="2026-02-07T13:34:34 1770471274"><a href="item?id=46923736">6 hours ago</a></span> <span id="unv_46923736"></span> | <a href="item?id=46923736">261&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/suitenumerique">France's homegrown open source online office suite</a><span class="sitebit comhead"> (<a href="from?site=github.com/suitenumerique"><span class="sitestr">github.com/suitenumerique</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46923736">580 points</span> by <a href="user?id=nar001" class="hnuser">nar001</a> <span class="age" title="2026-02-07T13:34:34 1770471274"><a href="item?id=46923736">6 hours ago</a></span> <span id="unv_46923736"></span> | <a href="item?id=46923736">260&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/suitenumerique">France's homegrown open source online office suite</a><span class="sitebit comhead"> (<a href="from?site=github.com/suitenumerique"><span class="sitestr">github.com/suitenumerique</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anki ownership transferred to AnkiHub (ankiweb.net)]]></title>
