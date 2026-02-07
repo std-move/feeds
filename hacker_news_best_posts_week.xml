@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-07T06:44:35.954Z</updated>
+    <updated>2026-02-07T08:35:02.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>link-699c83fea2537ae153c11be504fa2b00</id>
         <link href="https://news.ycombinator.com/item?id=46902223"/>
         <updated>2026-02-05T18:48:45.825Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902223">2283 points</span> by <a href="user?id=HellsMaddy" class="hnuser">HellsMaddy</a> <span class="age" title="2026-02-05T17:38:53 1770313133"><a href="item?id=46902223">1 day ago</a></span> <span id="unv_46902223"></span> | <a href="item?id=46902223">984&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-6">Claude Opus 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902223">2287 points</span> by <a href="user?id=HellsMaddy" class="hnuser">HellsMaddy</a> <span class="age" title="2026-02-05T17:38:53 1770313133"><a href="item?id=46902223">1 day ago</a></span> <span id="unv_46902223"></span> | <a href="item?id=46902223">984&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-6">Claude Opus 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.3-Codex (openai.com)]]></title>
         <id>link-972565bf20ea65274b74dc6665eda1de</id>
         <link href="https://news.ycombinator.com/item?id=46902638"/>
         <updated>2026-02-05T20:34:42.553Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902638">1491 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-05T18:08:08 1770314888"><a href="item?id=46902638">1 day ago</a></span> <span id="unv_46902638"></span> | <a href="item?id=46902638">588&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex/">GPT-5.3-Codex</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902638">1493 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-05T18:08:08 1770314888"><a href="item?id=46902638">1 day ago</a></span> <span id="unv_46902638"></span> | <a href="item?id=46902638">591&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex/">GPT-5.3-Codex</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I miss thinking hard (jernesto.com)]]></title>
@@ -31,7 +31,7 @@
         <id>link-9a3aa46fe711b92b09dc3f2b06fc9c0a</id>
         <link href="https://news.ycombinator.com/item?id=46896146"/>
         <updated>2026-02-05T13:03:43.965Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46896146">1177 points</span> by <a href="user?id=Torq_boi" class="hnuser">Torq_boi</a> <span class="age" title="2026-02-05T05:50:01 1770270601"><a href="item?id=46896146">2 days ago</a></span> <span id="unv_46896146"></span> | <a href="item?id=46896146">491&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.comma.ai/datacenter/">Don't rent the cloud, own instead</a><span class="sitebit comhead"> (<a href="from?site=comma.ai"><span class="sitestr">comma.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46896146">1177 points</span> by <a href="user?id=Torq_boi" class="hnuser">Torq_boi</a> <span class="age" title="2026-02-05T05:50:01 1770270601"><a href="item?id=46896146">2 days ago</a></span> <span id="unv_46896146"></span> | <a href="item?id=46896146">492&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.comma.ai/datacenter/">Don't rent the cloud, own instead</a><span class="sitebit comhead"> (<a href="from?site=comma.ai"><span class="sitestr">comma.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France dumps Zoom and Teams as Europe seeks digital autonomy from the US (apnews.com)]]></title>
@@ -52,14 +52,14 @@
         <id>link-f92f4c965aa63e6e8e667bf7213c758b</id>
         <link href="https://news.ycombinator.com/item?id=46911901"/>
         <updated>2026-02-06T16:44:42.346Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">1023 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">18 hours ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">425&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">1038 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">20 hours ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">429&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Voxtral Transcribe 2 (mistral.ai)]]></title>
         <id>link-51ae39a2ae05c8a9578d8388a59ae4be</id>
         <link href="https://news.ycombinator.com/item?id=46886735"/>
         <updated>2026-02-04T22:29:37.657Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46886735">999 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-04T15:08:17 1770217697"><a href="item?id=46886735">2 days ago</a></span> <span id="unv_46886735"></span> | <a href="item?id=46886735">239&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mistral.ai/news/voxtral-transcribe-2">Voxtral Transcribe 2</a><span class="sitebit comhead"> (<a href="from?site=mistral.ai"><span class="sitestr">mistral.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46886735">1000 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-04T15:08:17 1770217697"><a href="item?id=46886735">2 days ago</a></span> <span id="unv_46886735"></span> | <a href="item?id=46886735">239&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mistral.ai/news/voxtral-transcribe-2">Voxtral Transcribe 2</a><span class="sitebit comhead"> (<a href="from?site=mistral.ai"><span class="sitestr">mistral.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notepad++ hijacked by state-sponsored actors (notepad-plus-plus.org)]]></title>
@@ -73,7 +73,7 @@
         <id>link-aa8ec2c5b6b33472722ebfce7beb9f68</id>
         <link href="https://news.ycombinator.com/item?id=46903558"/>
         <updated>2026-02-06T06:56:16.474Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46903558">900 points</span> by <a href="user?id=anurag" class="hnuser">anurag</a> <span class="age" title="2026-02-05T19:04:40 1770318280"><a href="item?id=46903558">1 day ago</a></span> <span id="unv_46903558"></span> | <a href="item?id=46903558">376&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mitchellh.com/writing/my-ai-adoption-journey">My AI Adoption Journey</a><span class="sitebit comhead"> (<a href="from?site=mitchellh.com"><span class="sitestr">mitchellh.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46903558">904 points</span> by <a href="user?id=anurag" class="hnuser">anurag</a> <span class="age" title="2026-02-05T19:04:40 1770318280"><a href="item?id=46903558">1 day ago</a></span> <span id="unv_46903558"></span> | <a href="item?id=46903558">378&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mitchellh.com/writing/my-ai-adoption-journey">My AI Adoption Journey</a><span class="sitebit comhead"> (<a href="from?site=mitchellh.com"><span class="sitestr">mitchellh.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xAI joins SpaceX (spacex.com)]]></title>
@@ -83,25 +83,25 @@
         <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">896 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">4 days ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2070&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Defeating a 40-year-old copy protection dongle (dmitrybrant.com)]]></title>
-        <id>link-1cacbe4e0d7b5f063d796d18cec5283d</id>
-        <link href="https://news.ycombinator.com/item?id=46849567"/>
-        <updated>2026-02-02T10:03:56.026Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46849567">855 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-01T21:30:51 1769981451"><a href="item?id=46849567">5 days ago</a></span> <span id="unv_46849567"></span> | <a href="item?id=46849567">286&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle">Defeating a 40-year-old copy protection dongle</a><span class="sitebit comhead"> (<a href="from?site=dmitrybrant.com"><span class="sitestr">dmitrybrant.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Waymo World Model (waymo.com)]]></title>
         <id>link-aab783bb583f5aefa392c12fbf00d482</id>
         <link href="https://news.ycombinator.com/item?id=46914785"/>
         <updated>2026-02-06T22:24:47.706Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46914785">850 points</span> by <a href="user?id=xnx" class="hnuser">xnx</a> <span class="age" title="2026-02-06T16:20:42 1770394842"><a href="item?id=46914785">14 hours ago</a></span> <span id="unv_46914785"></span> | <a href="item?id=46914785">508&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation">The Waymo World Model</a><span class="sitebit comhead"> (<a href="from?site=waymo.com"><span class="sitestr">waymo.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46914785">885 points</span> by <a href="user?id=xnx" class="hnuser">xnx</a> <span class="age" title="2026-02-06T16:20:42 1770394842"><a href="item?id=46914785">16 hours ago</a></span> <span id="unv_46914785"></span> | <a href="item?id=46914785">539&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation">The Waymo World Model</a><span class="sitebit comhead"> (<a href="from?site=waymo.com"><span class="sitestr">waymo.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defeating a 40-year-old copy protection dongle (dmitrybrant.com)]]></title>
+        <id>link-1cacbe4e0d7b5f063d796d18cec5283d</id>
+        <link href="https://news.ycombinator.com/item?id=46849567"/>
+        <updated>2026-02-02T10:03:56.026Z</updated>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46849567">855 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-01T21:30:51 1769981451"><a href="item?id=46849567">5 days ago</a></span> <span id="unv_46849567"></span> | <a href="item?id=46849567">286&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle">Defeating a 40-year-old copy protection dongle</a><span class="sitebit comhead"> (<a href="from?site=dmitrybrant.com"><span class="sitestr">dmitrybrant.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Teaching my neighbor to keep the volume down (idiallo.com)]]></title>
         <id>link-97814a1694eeca491e72dc132c7324a2</id>
         <link href="https://news.ycombinator.com/item?id=46848415"/>
         <updated>2026-02-02T02:11:37.326Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46848415">836 points</span> by <a href="user?id=firefoxd" class="hnuser">firefoxd</a> <span class="age" title="2026-02-01T19:00:46 1769972446"><a href="item?id=46848415">5 days ago</a></span> <span id="unv_46848415"></span> | <a href="item?id=46848415">367&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down">Teaching my neighbor to keep the volume down</a><span class="sitebit comhead"> (<a href="from?site=idiallo.com"><span class="sitestr">idiallo.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46848415">837 points</span> by <a href="user?id=firefoxd" class="hnuser">firefoxd</a> <span class="age" title="2026-02-01T19:00:46 1769972446"><a href="item?id=46848415">5 days ago</a></span> <span id="unv_46848415"></span> | <a href="item?id=46848415">367&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down">Teaching my neighbor to keep the volume down</a><span class="sitebit comhead"> (<a href="from?site=idiallo.com"><span class="sitestr">idiallo.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lessons learned shipping 500 units of my first hardware product (simonberens.com)]]></title>
@@ -129,7 +129,7 @@
         <id>link-0a1e4aa3fc55df83b4164127c7df61d1</id>
         <link href="https://news.ycombinator.com/item?id=46903616"/>
         <updated>2026-02-06T08:42:30.360Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46903616">707 points</span> by <a href="user?id=modeless" class="hnuser">modeless</a> <span class="age" title="2026-02-05T19:07:51 1770318471"><a href="item?id=46903616">1 day ago</a></span> <span id="unv_46903616"></span> | <a href="item?id=46903616">688&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/engineering/building-c-compiler">We tasked Opus 4.6 using agent teams to build a C Compiler</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46903616">708 points</span> by <a href="user?id=modeless" class="hnuser">modeless</a> <span class="age" title="2026-02-05T19:07:51 1770318471"><a href="item?id=46903616">1 day ago</a></span> <span id="unv_46903616"></span> | <a href="item?id=46903616">690&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/engineering/building-c-compiler">We tasked Opus 4.6 using agent teams to build a C Compiler</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What's up with all those equals signs anyway? (ingebrigtsen.no)]]></title>
@@ -143,21 +143,21 @@
         <id>link-7f5712b25a055efe5b62ceb669708a83</id>
         <link href="https://news.ycombinator.com/item?id=46872540"/>
         <updated>2026-02-04T16:51:05.506Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46872540">674 points</span> by <a href="user?id=ptorrone" class="hnuser">ptorrone</a> <span class="age" title="2026-02-03T15:51:42 1770133902"><a href="item?id=46872540">3 days ago</a></span> <span id="unv_46872540"></span> | <a href="item?id=46872540">816&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/">New York’s budget bill would require “blocking technology” on all 3D printers</a><span class="sitebit comhead"> (<a href="from?site=adafruit.com"><span class="sitestr">adafruit.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46872540">675 points</span> by <a href="user?id=ptorrone" class="hnuser">ptorrone</a> <span class="age" title="2026-02-03T15:51:42 1770133902"><a href="item?id=46872540">3 days ago</a></span> <span id="unv_46872540"></span> | <a href="item?id=46872540">818&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/">New York’s budget bill would require “blocking technology” on all 3D printers</a><span class="sitebit comhead"> (<a href="from?site=adafruit.com"><span class="sitestr">adafruit.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flock CEO calls Deflock a “terrorist organization” (2025) [video] (youtube.com)]]></title>
         <id>link-2425dcd26064ff9de138b93db86ef360</id>
         <link href="https://news.ycombinator.com/item?id=46903556"/>
         <updated>2026-02-06T05:15:35.036Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46903556">659 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-05T19:04:37 1770318277"><a href="item?id=46903556">1 day ago</a></span> <span id="unv_46903556"></span> | <a href="item?id=46903556">506&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.youtube.com/watch?v=l-kZGrDz7PU">Flock CEO calls Deflock a “terrorist organization” (2025) [video]</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46903556">660 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-05T19:04:37 1770318277"><a href="item?id=46903556">1 day ago</a></span> <span id="unv_46903556"></span> | <a href="item?id=46903556">507&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.youtube.com/watch?v=l-kZGrDz7PU">Flock CEO calls Deflock a “terrorist organization” (2025) [video]</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TikTok's 'addictive design' found to be illegal in Europe (nytimes.com)]]></title>
         <id>link-a53ddff0c49bb85f226b4d873029a264</id>
         <link href="https://news.ycombinator.com/item?id=46911869"/>
         <updated>2026-02-06T20:35:26.550Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911869">618 points</span> by <a href="user?id=thm" class="hnuser">thm</a> <span class="age" title="2026-02-06T12:11:48 1770379908"><a href="item?id=46911869">18 hours ago</a></span> <span id="unv_46911869"></span> | <a href="item?id=46911869">446&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html">TikTok's 'addictive design' found to be illegal in Europe</a><span class="sitebit comhead"> (<a href="from?site=nytimes.com"><span class="sitestr">nytimes.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911869">624 points</span> by <a href="user?id=thm" class="hnuser">thm</a> <span class="age" title="2026-02-06T12:11:48 1770379908"><a href="item?id=46911869">20 hours ago</a></span> <span id="unv_46911869"></span> | <a href="item?id=46911869">453&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html">TikTok's 'addictive design' found to be illegal in Europe</a><span class="sitebit comhead"> (<a href="from?site=nytimes.com"><span class="sitestr">nytimes.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The TSA's New $45 Fee to Fly Without ID Is Illegal (frommers.com)]]></title>
@@ -188,31 +188,31 @@
         <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46868998">592 points</span> by <a href="user?id=vikaveri" class="hnuser">vikaveri</a> <span class="age" title="2026-02-03T10:08:52 1770113332"><a href="item?id=46868998">3 days ago</a></span> <span id="unv_46868998"></span> | <a href="item?id=46868998">1104&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/news/articles/ce3ex92557jo">X offices raided in France as UK opens fresh investigation into Grok</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenCiv3: Open-source, cross-platform reimagining of Civilization III (openciv3.org)]]></title>
+        <id>link-95f3357e4ffd6fc54e26f53601eb836f</id>
+        <link href="https://news.ycombinator.com/item?id=46918612"/>
+        <updated>2026-02-07T08:32:55.807Z</updated>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46918612">569 points</span> by <a href="user?id=klaussilveira" class="hnuser">klaussilveira</a> <span class="age" title="2026-02-06T21:51:23 1770414683"><a href="item?id=46918612">10 hours ago</a></span> <span id="unv_46918612"></span> | <a href="item?id=46918612">161&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openciv3.org/">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a><span class="sitebit comhead"> (<a href="from?site=openciv3.org"><span class="sitestr">openciv3.org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anki ownership transferred to AnkiHub (ankiweb.net)]]></title>
         <id>link-c7e14bbc6d6a7ba2f43af9536db63771</id>
         <link href="https://news.ycombinator.com/item?id=46861313"/>
         <updated>2026-02-04T22:29:37.657Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46861313">569 points</span> by <a href="user?id=trms" class="hnuser">trms</a> <span class="age" title="2026-02-02T20:48:55 1770065335"><a href="item?id=46861313">4 days ago</a></span> <span id="unv_46861313"></span> | <a href="item?id=46861313">250&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://forums.ankiweb.net/t/ankis-growing-up/68610">Anki ownership transferred to AnkiHub</a><span class="sitebit comhead"> (<a href="from?site=ankiweb.net"><span class="sitestr">ankiweb.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46861313">569 points</span> by <a href="user?id=trms" class="hnuser">trms</a> <span class="age" title="2026-02-02T20:48:55 1770065335"><a href="item?id=46861313">4 days ago</a></span> <span id="unv_46861313"></span> | <a href="item?id=46861313">250&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://forums.ankiweb.net/t/ankis-growing-up/68610">Anki ownership transferred to AnkiHub</a><span class="sitebit comhead"> (<a href="from?site=ankiweb.net"><span class="sitestr">ankiweb.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Craftplan – I built my wife a production management tool for her bakery (github.com/puemos)]]></title>
         <id>link-e5b2276b068352ced66efa51dfad8d21</id>
         <link href="https://news.ycombinator.com/item?id=46847690"/>
         <updated>2026-02-04T22:29:37.657Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46847690">567 points</span> by <a href="user?id=deofoo" class="hnuser">deofoo</a> <span class="age" title="2026-02-01T17:25:39 1769966739"><a href="item?id=46847690">3 days ago</a></span> <span id="unv_46847690"></span> | <a href="item?id=46847690">166&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/puemos/craftplan">Show HN: Craftplan – I built my wife a production management tool for her bakery</a><span class="sitebit comhead"> (<a href="from?site=github.com/puemos"><span class="sitestr">github.com/puemos</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46847690">567 points</span> by <a href="user?id=deofoo" class="hnuser">deofoo</a> <span class="age" title="2026-02-01T17:25:39 1769966739"><a href="item?id=46847690">3 days ago</a></span> <span id="unv_46847690"></span> | <a href="item?id=46847690">166&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/puemos/craftplan">Show HN: Craftplan – I built my wife a production management tool for her bakery</a><span class="sitebit comhead"> (<a href="from?site=github.com/puemos"><span class="sitestr">github.com/puemos</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Agent Skills (agentskills.io)]]></title>
         <id>link-72bf7b434fc902e60da96e05a3bb75a1</id>
         <link href="https://news.ycombinator.com/item?id=46871173"/>
         <updated>2026-02-04T22:29:37.657Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46871173">538 points</span> by <a href="user?id=mooreds" class="hnuser">mooreds</a> <span class="age" title="2026-02-03T14:09:54 1770127794"><a href="item?id=46871173">3 days ago</a></span> <span id="unv_46871173"></span> | <a href="item?id=46871173">259&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://agentskills.io/home">Agent Skills</a><span class="sitebit comhead"> (<a href="from?site=agentskills.io"><span class="sitestr">agentskills.io</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new bill in New York would require disclaimers on AI-generated news content (niemanlab.org)]]></title>
-        <id>link-6ca73008b8071c86fd2a19d7ad8ed7c8</id>
-        <link href="https://news.ycombinator.com/item?id=46910963"/>
-        <updated>2026-02-07T06:42:45.231Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46910963">530 points</span> by <a href="user?id=giuliomagnifico" class="hnuser">giuliomagnifico</a> <span class="age" title="2026-02-06T09:56:55 1770371815"><a href="item?id=46910963">20 hours ago</a></span> <span id="unv_46910963"></span> | <a href="item?id=46910963">220&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/">A new bill in New York would require disclaimers on AI-generated news content</a><span class="sitebit comhead"> (<a href="from?site=niemanlab.org"><span class="sitestr">niemanlab.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46871173">539 points</span> by <a href="user?id=mooreds" class="hnuser">mooreds</a> <span class="age" title="2026-02-03T14:09:54 1770127794"><a href="item?id=46871173">3 days ago</a></span> <span id="unv_46871173"></span> | <a href="item?id=46871173">259&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://agentskills.io/home">Agent Skills</a><span class="sitebit comhead"> (<a href="from?site=agentskills.io"><span class="sitestr">agentskills.io</span></a>)</span></span>]]></content>
     </entry>
 </feed>
