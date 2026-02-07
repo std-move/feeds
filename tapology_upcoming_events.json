@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png",
 	"elements": [
 		{
-			"id": "link-17ad35d4b97b4f851f3649b32ecf1dff",
-			"title": "UFC Fight Night — 2026-02-07 17:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/136782-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136782-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-07 17:00:00 -0500\">in 1 hour</abbr>\n</td>",
-			"retrieved": 1769306247031
-		},
-		{
 			"id": "link-0b10194678bbb2ac8c19264519da3a06",
 			"title": "ONE Fight Night 40 — 2026-02-13 21:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/137456-one-fight-night-40-buntan-vs-hemetsberger",
@@ -56,8 +49,15 @@
 			"id": "link-d4aa46dfee2f6b8b2873cf45ffb5c6fe",
 			"title": "UFC Fight Night — 2026-02-21 17:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/136872-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136872-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-21 17:00:00 -0500\">in 2 weeks</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136872-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-21 17:00:00 -0500\">in 1 week</abbr>\n</td>",
 			"retrieved": 1770474419985
+		},
+		{
+			"id": "link-472ac2057e1ac5b4a6ccb8ff272d7271",
+			"title": "Barrios vs. Garcia — 2026-02-21 16:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/136905-barrios-vs-garcia",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136905-barrios-vs-garcia\">Barrios vs. Garcia</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-21 16:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"retrieved": 1770503219912
 		}
 	]
 }

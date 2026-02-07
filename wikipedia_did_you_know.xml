@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-02-07T20:35:08.592Z</updated>
+    <updated>2026-02-07T22:28:45.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://en.wikipedia.org/wiki/John_Vivian,_4th_Baron_Swansea"/>
         <updated>2026-02-07T02:01:45.515Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/John_Vivian,_4th_Baron_Swansea" title="John Vivian, 4th Baron Swansea">Wales's first Commonwealth Games medallist in shooting</a></b> walked off the podium when the wrong national anthem was played?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Booming Ben]]></title>
-        <id>link-1d8d832de0aab67399de90a87601d045</id>
-        <link href="https://en.wikipedia.org/wiki/Booming_Ben"/>
-        <updated>2026-02-07T02:01:45.515Z</updated>
-        <content type="html"><![CDATA[... that the death of the heath hen <b><a href="/wiki/Booming_Ben" title="Booming Ben">Booming Ben</a></b> marked the first time that biologists observed the extinction of a species firsthand?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SeaBed]]></title>
