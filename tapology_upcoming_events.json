@@ -4,31 +4,24 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png",
 	"elements": [
 		{
-			"id": "link-b59f8a04c6222c15596d4df4aebd3514",
-			"title": "LFA 226 — 2026-02-06 18:30:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/138232-lfa-226-allakhverdiev-vs-kropschot",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138232-lfa-226-allakhverdiev-vs-kropschot\">LFA 226</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-06 18:30:00 -0500\">in 1 hour</abbr>\n</td>",
-			"retrieved": 1769219092652
-		},
-		{
 			"id": "link-54cc69067ccffe6e2412494286d6204a",
 			"title": "PFL Dubai — 2026-02-07 09:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/136268-pfl-nurmagomedov-vs-davis",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136268-pfl-nurmagomedov-vs-davis\">PFL Dubai</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-07 09:00:00 -0500\">in 15 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136268-pfl-nurmagomedov-vs-davis\">PFL Dubai</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-07 09:00:00 -0500\">in 11 hours</abbr>\n</td>",
 			"retrieved": 1769219092652
 		},
 		{
 			"id": "link-17ad35d4b97b4f851f3649b32ecf1dff",
 			"title": "UFC Fight Night — 2026-02-07 17:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/136782-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136782-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-07 17:00:00 -0500\">in 23 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136782-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-07 17:00:00 -0500\">in 19 hours</abbr>\n</td>",
 			"retrieved": 1769306247031
 		},
 		{
 			"id": "link-0b10194678bbb2ac8c19264519da3a06",
 			"title": "ONE Fight Night 40 — 2026-02-13 21:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/137456-one-fight-night-40-buntan-vs-hemetsberger",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137456-one-fight-night-40-buntan-vs-hemetsberger\">ONE Fight Night 40</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-13 21:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137456-one-fight-night-40-buntan-vs-hemetsberger\">ONE Fight Night 40</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-13 21:00:00 -0500\">in 6 days</abbr>\n</td>",
 			"retrieved": 1769884423913
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/135971-wood-vs-warrington-ii",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/135971-wood-vs-warrington-ii\">Wood vs. Warrington II</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-21 09:00:00 -0500\">in 2 weeks</abbr>\n</td>",
 			"retrieved": 1770382853411
+		},
+		{
+			"id": "link-da7705f527486d158d66b259a786bac2",
+			"title": "KSW 115 — 2026-02-21 12:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/137484-ksw-115",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137484-ksw-115\">KSW 115</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-21 12:00:00 -0500\">in 2 weeks</abbr>\n</td>",
+			"retrieved": 1770429705515
 		}
 	]
 }

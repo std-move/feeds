@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-06T22:26:21.594Z</updated>
+    <updated>2026-02-07T02:03:26.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,28 +10,28 @@
         <id>link-699c83fea2537ae153c11be504fa2b00</id>
         <link href="https://news.ycombinator.com/item?id=46902223"/>
         <updated>2026-02-05T20:34:42.553Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902223">2256 points</span> by <a href="user?id=HellsMaddy" class="hnuser">HellsMaddy</a> <span class="age" title="2026-02-05T17:38:53 1770313133"><a href="item?id=46902223">1 day ago</a></span> <span id="unv_46902223"></span> | <a href="item?id=46902223">972&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-6">Claude Opus 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902223">2267 points</span> by <a href="user?id=HellsMaddy" class="hnuser">HellsMaddy</a> <span class="age" title="2026-02-05T17:38:53 1770313133"><a href="item?id=46902223">1 day ago</a></span> <span id="unv_46902223"></span> | <a href="item?id=46902223">979&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-6">Claude Opus 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.3-Codex (openai.com)]]></title>
         <id>link-972565bf20ea65274b74dc6665eda1de</id>
         <link href="https://news.ycombinator.com/item?id=46902638"/>
         <updated>2026-02-06T02:06:14.529Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902638">1471 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-05T18:08:08 1770314888"><a href="item?id=46902638">1 day ago</a></span> <span id="unv_46902638"></span> | <a href="item?id=46902638">579&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex/">GPT-5.3-Codex</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902638">1481 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-05T18:08:08 1770314888"><a href="item?id=46902638">1 day ago</a></span> <span id="unv_46902638"></span> | <a href="item?id=46902638">583&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex/">GPT-5.3-Codex</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I miss thinking hard (jernesto.com)]]></title>
         <id>link-315c04aedc61cc616fff3602c83acd59</id>
         <link href="https://news.ycombinator.com/item?id=46881264"/>
         <updated>2026-02-04T14:40:31.686Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46881264">1292 points</span> by <a href="user?id=jernestomg" class="hnuser">jernestomg</a> <span class="age" title="2026-02-04T03:54:11 1770177251"><a href="item?id=46881264">2 days ago</a></span> <span id="unv_46881264"></span> | <a href="item?id=46881264">698&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jernesto.com/articles/thinking_hard">I miss thinking hard</a><span class="sitebit comhead"> (<a href="from?site=jernesto.com"><span class="sitestr">jernesto.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46881264">1293 points</span> by <a href="user?id=jernestomg" class="hnuser">jernestomg</a> <span class="age" title="2026-02-04T03:54:11 1770177251"><a href="item?id=46881264">2 days ago</a></span> <span id="unv_46881264"></span> | <a href="item?id=46881264">701&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jernesto.com/articles/thinking_hard">I miss thinking hard</a><span class="sitebit comhead"> (<a href="from?site=jernesto.com"><span class="sitestr">jernesto.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Don't rent the cloud, own instead (comma.ai)]]></title>
         <id>link-9a3aa46fe711b92b09dc3f2b06fc9c0a</id>
         <link href="https://news.ycombinator.com/item?id=46896146"/>
         <updated>2026-02-05T18:48:45.825Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46896146">1171 points</span> by <a href="user?id=Torq_boi" class="hnuser">Torq_boi</a> <span class="age" title="2026-02-05T05:50:01 1770270601"><a href="item?id=46896146">1 day ago</a></span> <span id="unv_46896146"></span> | <a href="item?id=46896146">489&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.comma.ai/datacenter/">Don't rent the cloud, own instead</a><span class="sitebit comhead"> (<a href="from?site=comma.ai"><span class="sitestr">comma.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46896146">1173 points</span> by <a href="user?id=Torq_boi" class="hnuser">Torq_boi</a> <span class="age" title="2026-02-05T05:50:01 1770270601"><a href="item?id=46896146">1 day ago</a></span> <span id="unv_46896146"></span> | <a href="item?id=46896146">491&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.comma.ai/datacenter/">Don't rent the cloud, own instead</a><span class="sitebit comhead"> (<a href="from?site=comma.ai"><span class="sitestr">comma.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France dumps Zoom and Teams as Europe seeks digital autonomy from the US (apnews.com)]]></title>
@@ -45,7 +45,7 @@
         <id>link-e15dfadec1663b13a0b8f6df4049772e</id>
         <link href="https://news.ycombinator.com/item?id=46876105"/>
         <updated>2026-02-04T16:51:05.506Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46876105">1104 points</span> by <a href="user?id=ajyoon" class="hnuser">ajyoon</a> <span class="age" title="2026-02-03T19:37:30 1770147450"><a href="item?id=46876105">3 days ago</a></span> <span id="unv_46876105"></span> | <a href="item?id=46876105">1329&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://civai.org/blog/space-data-centers">Data centers in space makes no sense</a><span class="sitebit comhead"> (<a href="from?site=civai.org"><span class="sitestr">civai.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46876105">1104 points</span> by <a href="user?id=ajyoon" class="hnuser">ajyoon</a> <span class="age" title="2026-02-03T19:37:30 1770147450"><a href="item?id=46876105">3 days ago</a></span> <span id="unv_46876105"></span> | <a href="item?id=46876105">1330&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://civai.org/blog/space-data-centers">Data centers in space makes no sense</a><span class="sitebit comhead"> (<a href="from?site=civai.org"><span class="sitestr">civai.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Voxtral Transcribe 2 (mistral.ai)]]></title>
@@ -55,24 +55,24 @@
         <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46886735">999 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-04T15:08:17 1770217697"><a href="item?id=46886735">2 days ago</a></span> <span id="unv_46886735"></span> | <a href="item?id=46886735">239&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mistral.ai/news/voxtral-transcribe-2">Voxtral Transcribe 2</a><span class="sitebit comhead"> (<a href="from?site=mistral.ai"><span class="sitestr">mistral.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I now assume that all ads on Apple news are scams (kirkville.com)]]></title>
+        <id>link-f92f4c965aa63e6e8e667bf7213c758b</id>
+        <link href="https://news.ycombinator.com/item?id=46911901"/>
+        <updated>2026-02-07T02:01:45.515Z</updated>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">940 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">13 hours ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">408&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Notepad++ hijacked by state-sponsored actors (notepad-plus-plus.org)]]></title>
         <id>link-772367a74868ed75cbe06394cf6e2541</id>
         <link href="https://news.ycombinator.com/item?id=46851548"/>
         <updated>2026-02-03T10:03:42.200Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">911 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">4 days ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">517&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46851548">911 points</span> by <a href="user?id=mysterydip" class="hnuser">mysterydip</a> <span class="age" title="2026-02-02T01:59:56 1769997596"><a href="item?id=46851548">5 days ago</a></span> <span id="unv_46851548"></span> | <a href="item?id=46851548">517&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/">Notepad++ hijacked by state-sponsored actors</a><span class="sitebit comhead"> (<a href="from?site=notepad-plus-plus.org"><span class="sitestr">notepad-plus-plus.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xAI joins SpaceX (spacex.com)]]></title>
         <id>link-16ef5bea98a7f03fbf5393e4776340df</id>
         <link href="https://news.ycombinator.com/item?id=46862170"/>
         <updated>2026-02-03T16:54:57.292Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">896 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">4 days ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2068&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My AI Adoption Journey (mitchellh.com)]]></title>
-        <id>link-aa8ec2c5b6b33472722ebfce7beb9f68</id>
-        <link href="https://news.ycombinator.com/item?id=46903558"/>
-        <updated>2026-02-06T20:35:26.550Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46903558">875 points</span> by <a href="user?id=anurag" class="hnuser">anurag</a> <span class="age" title="2026-02-05T19:04:40 1770318280"><a href="item?id=46903558">1 day ago</a></span> <span id="unv_46903558"></span> | <a href="item?id=46903558">365&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mitchellh.com/writing/my-ai-adoption-journey">My AI Adoption Journey</a><span class="sitebit comhead"> (<a href="from?site=mitchellh.com"><span class="sitestr">mitchellh.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46862170">896 points</span> by <a href="user?id=g-mork" class="hnuser">g-mork</a> <span class="age" title="2026-02-02T21:51:22 1770069082"><a href="item?id=46862170">4 days ago</a></span> <span id="unv_46862170"></span> | <a href="item?id=46862170">2070&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.spacex.com/updates#xai-joins-spacex">xAI joins SpaceX</a><span class="sitebit comhead"> (<a href="from?site=spacex.com"><span class="sitestr">spacex.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
