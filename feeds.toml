@@ -236,11 +236,11 @@ waitForSelector = "#site-content ul li"
 entrySelector = "#site-content ul li"
 titleSelector = "*"
 
-[python_org_releases]
-title = "Python.org releases"
+[python_org_release_history]
+title = "Python.org release history"
 url = "https://www.python.org/downloads/"
 waitForSelector = "xpath=(//*[contains(@class, 'download-list-widget')]//*[contains(@class, 'list-row-container')]//li)[position() <= 35]"
 entrySelector = "xpath=(//*[contains(@class, 'download-list-widget')]//*[contains(@class, 'list-row-container')]//li)[position() <= 35]"
-titleSelector = [".release-date", ".release-number"]
+titleSelector = [".release-number", ".release-date"]
 linkSelector = ".release-enhancements a"
 contentSelector = [".release-number", ".release-date", ".release-download", ".release-enhancements"]
