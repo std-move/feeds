@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-0bac5ae74ca1ee32a42f9c785ff5fba1",
+			"title": "54 notebooks put to the test: These are the best laptops in winter 2025/26!",
+			"link": "https://www.notebookcheck.net/54-laptops-put-to-the-test-These-are-the-best-notebooks-in-winter-2025-2026.1215285.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/bestoflaptops46-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/bestoflaptops46-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Awards/bestoflaptops46-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/bestoflaptops46-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Awards/bestoflaptops46-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Awards/bestoflaptops46-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/a/csm_bestoflaptops46_02ed1b2fda.jpg\" loading=\"lazy\" alt=\"Best laptops of winter 2025/2026 tested and rated\"></picture><div class=\"intro_featured_bar_title\">54 notebooks put to the test: These are the best laptops in winter 2025/26!</div>",
+			"retrieved": 1770481881405
+		},
+		{
 			"id": "link-f13969471bd9dbc47fad3020d152daff",
 			"title": "Everyday notebook at a budget price: Chuwi CoreBook Air review",
 			"link": "https://www.notebookcheck.net/Looking-for-an-affordable-office-notebook-Chuwi-CoreBook-Air-review-with-AMD-Ryzen-power.1221443.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Samsung-Galaxy-Book6-Series-Hands-On-All-models-prices-and-launch-date.1219896.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/1/csm_aPic_Samsung_Galaxy_Book6_Pro-2064_0836c2a61c.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy Book6 Series Hands-On: All models, prices, and launch date\"></picture><div class=\"intro_featured_bar_title\">Prices &amp; hands-on experience with the Samsung Galaxy Book6 series</div>",
 			"retrieved": 1770223865506
-		},
-		{
-			"id": "link-850501c840361fd541f9e4c33f72c08c",
-			"title": "Powerful mini PC with USB4 & OCuLink at a top price - GMKtec NucBox M7 Ultra",
-			"link": "https://www.notebookcheck.net/GMKtec-NucBox-M7-Ultra-review-Price-performance-tip-among-mini-PCs-with-USB4-and-OCuLink.1217829.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/e/csm_M7_Ultra_5_cd4b65eb6a.jpg\" loading=\"lazy\" alt=\"GMKtec NucBox M7 Ultra\"></picture><div class=\"intro_featured_bar_title\">Powerful mini PC with USB4 &amp; OCuLink at a top price - GMKtec NucBox M7 Ultra</div>",
-			"retrieved": 1770201548203
 		}
 	]
 }
