@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-5e303abe9138e7b72eaf73bd8ff90372",
+			"title": "Everyday notebook at a budget price: Chuwi CoreBook Air review",
+			"link": "https://www.notebookcheck.net/Looking-for-an-affordable-office-notebook-Chuwi-CoreBook-Air-review-with-AMD-Ryzen-Power.1221443.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/3/csm_CoreBook_Air_6_00e3eb86fa.jpg\" loading=\"lazy\" alt=\"Chuwi CoreBook Air\"></picture><div class=\"intro_featured_bar_title\">Everyday notebook at a budget price: Chuwi CoreBook Air review</div>",
+			"retrieved": 1770468644571
+		},
+		{
 			"id": "link-424514b8ec66deefd5130ba73226c6ef",
 			"title": "ThinkPad T16g Gen 3 review - A poor performer despite the great feature set?",
 			"link": "https://www.notebookcheck.net/A-mobile-workstation-with-disappointing-performance-Lenovo-ThinkPad-T16g-Gen-3-review.1220451.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/GMKtec-NucBox-M7-Ultra-review-Price-performance-tip-among-mini-PCs-with-USB4-and-OCuLink.1217829.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_M7_Ultra/M7_Ultra_5-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/e/csm_M7_Ultra_5_cd4b65eb6a.jpg\" loading=\"lazy\" alt=\"GMKtec NucBox M7 Ultra\"></picture><div class=\"intro_featured_bar_title\">Powerful mini PC with USB4 &amp; OCuLink at a top price - GMKtec NucBox M7 Ultra</div>",
 			"retrieved": 1770201548203
-		},
-		{
-			"id": "link-6b9be9c14a5ad5b486a93049d9903390",
-			"title": "Tribit PocketGo Bluetooth Speaker Review",
-			"link": "https://www.notebookcheck.net/Tribit-PocketGo-Review-Pocket-size-dynamite.1215760.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Tribit-PocketGo-Teaser-Medium_2-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Tribit-PocketGo-Teaser-Medium_2-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Tribit-PocketGo-Teaser-Medium_2-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Tribit-PocketGo-Teaser-Medium_2-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Tribit-PocketGo-Teaser-Medium_2-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Tribit-PocketGo-Teaser-Medium_2-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/1/csm_Tribit-PocketGo-Teaser-Medium_2_ba8ced1a08.jpg\" loading=\"lazy\" alt=\"Tribit PocketGo Review: Pocket-size dynamite&nbsp;\"></picture><div class=\"intro_featured_bar_title\">Tribit PocketGo Bluetooth Speaker Review</div>",
-			"retrieved": 1770137697292
 		}
 	]
 }
