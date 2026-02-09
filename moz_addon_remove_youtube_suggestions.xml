@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-02-08T22:29:59.070Z</updated>
+    <updated>2026-02-09T02:15:00.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.70]]></title>
+        <id>title-77bb259f1f85eec68093866014cadb8c</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-02-09T02:13:22.181Z</updated>
+        <content type="html"><![CDATA[Released Feb 9, 2026 - 340.99 KB — New                                                         <br>  - Hide YouTube Playables shelf on the homepage (#158, #175)                                                                                                                    <br>  - Always theater mode option (#195)                                                                                                                                            <br>  - Hide search result descriptions (#197)<br>  - Hide bell notification count from page title (#199)<br>  - Extension no longer runs on YouTube Music (#152)<br><br>Fixed<br>  - "Hide extra rows" now works with YouTube's updated homepage layout<br>  - Shrink thumbnails now works on the homepage<br>  - Fixed thumbnail shrinking/overlapping on channel page tabs (#196)<br><br>Other<br>  - Deprecated "disable playlist autoplay" setting<br>  - Options page auto-selects Homepage section when on YouTube homepage]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.69]]></title>
         <id>title-097854fada2b4cead19bc2d4dc880547</id>
@@ -172,12 +179,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released Jun 8, 2023 - 325.51 KB — Handle the updated subscriptions page]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.41]]></title>
-        <id>title-da6ea8c0e6987789e1e424311e2228a3</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released May 8, 2023 - 325.42 KB — Fix undefined bug]]></content>
     </entry>
 </feed>

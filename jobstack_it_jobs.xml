@@ -2,36 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-02-08T22:29:59.076Z</updated>
+    <updated>2026-02-09T02:15:00.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
     <entry>
-        <title type="html"><![CDATA[Super příležitost pro Junior | Medior frontend Vue.js developera — až 90 000 Kč / měsíc]]></title>
-        <id>link-233f849c95e5efc9c83a4656f827c5d6</id>
-        <link href="https://www.jobstack.it/it-job/vue-js-developer/696f4a2cc2df4"/>
-        <updated>2026-01-20T10:29:16.525Z</updated>
+        <title type="html"><![CDATA[Node.js Developer senior — až 135 000 Kč / měsíc]]></title>
+        <id>link-3d115aa72425b1ea5f999f4e621c1cb2</id>
+        <link href="https://www.jobstack.it/it-job/node-js-developer/697a1916a88ef"/>
+        <updated>2026-02-02T17:30:40.653Z</updated>
         <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Vue.js developer</span>
-				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">TypeScript developer</span>
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Node.js developer</span>
 				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
 																			</div>
 			
 							<div class="jobposts-item_labels">
-											<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Junior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																			</div>
+																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+														</div>
 						<div class="jobposts-item_labels">
 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>REDECO</span>
+						<span>Apsaz Consulting a.s.</span>
 					</span>
 													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
+						<span>Praha (výjimečný onsite)</span>
 					</span>
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
-						<span><b>až 90 000 Kč / měsíc</b></span>
+						<span><b>až 135 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -61,6 +59,36 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 95 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super příležitost pro Junior | Medior frontend Vue.js developera — až 90 000 Kč / měsíc]]></title>
+        <id>link-233f849c95e5efc9c83a4656f827c5d6</id>
+        <link href="https://www.jobstack.it/it-job/vue-js-developer/696f4a2cc2df4"/>
+        <updated>2026-01-20T10:29:16.525Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Vue.js developer</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">TypeScript developer</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																			</div>
+			
+							<div class="jobposts-item_labels">
+											<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Junior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																			</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>REDECO</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 90 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -389,34 +417,6 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 165 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Developer senior — až 135 000 Kč / měsíc]]></title>
-        <id>link-3d115aa72425b1ea5f999f4e621c1cb2</id>
-        <link href="https://www.jobstack.it/it-job/node-js-developer/697a1916a88ef"/>
-        <updated>2026-02-02T17:30:40.653Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Node.js developer</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																			</div>
-			
-							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-														</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Apsaz Consulting a.s.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha (výjimečný onsite)</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 135 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>

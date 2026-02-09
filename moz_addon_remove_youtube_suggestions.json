@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-77bb259f1f85eec68093866014cadb8c",
+			"title": "Version 4.3.70",
+			"contents": "Released Feb 9, 2026 - 340.99 KB — New                                                         <br>  - Hide YouTube Playables shelf on the homepage (#158, #175)                                                                                                                    <br>  - Always theater mode option (#195)                                                                                                                                            <br>  - Hide search result descriptions (#197)<br>  - Hide bell notification count from page title (#199)<br>  - Extension no longer runs on YouTube Music (#152)<br><br>Fixed<br>  - \"Hide extra rows\" now works with YouTube's updated homepage layout<br>  - Shrink thumbnails now works on the homepage<br>  - Fixed thumbnail shrinking/overlapping on channel page tabs (#196)<br><br>Other<br>  - Deprecated \"disable playlist autoplay\" setting<br>  - Options page auto-selects Homepage section when on YouTube homepage",
+			"retrieved": 1770603202181
+		},
+		{
 			"id": "title-097854fada2b4cead19bc2d4dc880547",
 			"title": "Version 4.3.69",
 			"contents": "Released Feb 5, 2026 - 340.82 KB — Analytics changed to opt-in (consent banner added). Performance improvements to reduce CPU usage. Minor bug fixes and code cleanup.",
@@ -145,12 +151,6 @@
 			"id": "title-844df80b9c8107d5ce50365a2c752378",
 			"title": "Version 4.3.42",
 			"contents": "Released Jun 8, 2023 - 325.51 KB — Handle the updated subscriptions page",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-da6ea8c0e6987789e1e424311e2228a3",
-			"title": "Version 4.3.41",
-			"contents": "Released May 8, 2023 - 325.42 KB — Fix undefined bug",
 			"retrieved": 1767548017655
 		}
 	]
