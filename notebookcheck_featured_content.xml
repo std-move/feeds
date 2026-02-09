@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-02-09T20:40:45.115Z</updated>
+    <updated>2026-02-09T22:38:18.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Asus Zenbook S16 review - Now with Ryzen 400]]></title>
+        <id>link-b1daa706c7e97169ec7edc6aa1f7d849</id>
+        <link href="https://www.notebookcheck.net/The-perfect-everyday-laptop-with-AMD-Ryzen-400-Asus-Zenbook-S16-OLED-review.1221965.0.html"/>
+        <updated>2026-02-09T22:36:22.439Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/1/csm_zenbook_s16_ryzen_465_case_05_88f65edcdd.jpg" loading="lazy" alt="The perfect everyday laptop with AMD Ryzen 400 - Asus Zenbook S16 OLED review"></picture><div class="intro_featured_bar_title">Asus Zenbook S16 review - Now with Ryzen 400</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Motorola Moto G57 Power: an endurance runner]]></title>
         <id>link-a1aac776b2a96262aec13e49ef192a4f</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Looking-for-an-affordable-office-notebook-Chuwi-CoreBook-Air-review-with-AMD-Ryzen-power.1221443.0.html"/>
         <updated>2026-02-07T14:26:59.985Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Chuwi/CoreBook_Air/CoreBook_Air_6-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/3/csm_CoreBook_Air_6_00e3eb86fa.jpg" loading="lazy" alt="Chuwi CoreBook Air"></picture><div class="intro_featured_bar_title">Everyday notebook at a budget price: Chuwi CoreBook Air review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThinkPad T16g Gen 3 review - A poor performer despite the great feature set?]]></title>
-        <id>link-424514b8ec66deefd5130ba73226c6ef</id>
-        <link href="https://www.notebookcheck.net/A-mobile-workstation-with-disappointing-performance-Lenovo-ThinkPad-T16g-Gen-3-review.1220451.0.html"/>
-        <updated>2026-02-06T18:52:49.089Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T16g_Gen_3_RTX_5080/thinkpad_t16g_g3_case_02-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T16g_Gen_3_RTX_5080/thinkpad_t16g_g3_case_02-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T16g_Gen_3_RTX_5080/thinkpad_t16g_g3_case_02-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T16g_Gen_3_RTX_5080/thinkpad_t16g_g3_case_02-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T16g_Gen_3_RTX_5080/thinkpad_t16g_g3_case_02-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T16g_Gen_3_RTX_5080/thinkpad_t16g_g3_case_02-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/8/csm_thinkpad_t16g_g3_case_02_cd5fcf5185.jpg" loading="lazy" alt="A mobile workstation with disappointing performance - Lenovo ThinkPad T16g Gen 3 review"></picture><div class="intro_featured_bar_title">ThinkPad T16g Gen 3 review - A poor performer despite the great feature set?</div>]]></content>
     </entry>
 </feed>
