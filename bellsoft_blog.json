@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/favicon.ico",
 	"elements": [
 		{
+			"id": "link-9782eef1502b960b7004377e74f91c7e",
+			"title": "Liberica Native Image Kit 23.0.11, 23.1.10, and 25.0.2 builds are released",
+			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-11-23-1-10-and-25-0-2-builds-are-released/",
+			"contents": "New Liberica NIK versions 23.0.11, 23.1.10, and 25.0.2 include several important fixes in the JDK.",
+			"retrieved": 1770742985790
+		},
+		{
 			"id": "link-0678bb0b367c3b410449092452087245",
 			"title": "A Guide to Java Application Security",
 			"link": "https://bell-sw.com/blog/a-guide-to-java-application-security/",
@@ -155,13 +162,6 @@
 			"title": "Liberica JDK 8u452, 11.0.27, 17.0.15, 21.0.7, and 24.0.1 builds are generally available",
 			"link": "https://bell-sw.com/blog/liberica-jdk-8u452-11-0-27-17-0-15-21-0-7-and-24-0-1-builds-are-generally-available/",
 			"contents": "Download Liberica JDK CPU versions 8, 11, 17, 21, and 24 with improved security.",
-			"retrieved": 1767777625776
-		},
-		{
-			"id": "link-4a23d9600aea087f247163bd8a9ce905",
-			"title": "How to Create JavaFX Native Images",
-			"link": "https://bell-sw.com/blog/how-to-create-javafx-native-images/",
-			"contents": "Learn how to compile JavaFX applications into native executables using GraalVM. Step-by-step guide, metadata setup, and GitHub Actions automation.",
 			"retrieved": 1767777625776
 		}
 	]
