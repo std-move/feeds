@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-10T13:17:09.480Z</updated>
+    <updated>2026-02-10T15:01:07.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-6d884a6714acc10164ca0a741a45ebe9</id>
         <link href="https://news.ycombinator.com/item?id=46945663"/>
         <updated>2026-02-10T02:29:19.505Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46945663">1793 points</span> by <a href="user?id=x01" class="hnuser">x01</a> <span class="age" title="2026-02-09T14:37:38 1770647858"><a href="item?id=46945663">22 hours ago</a></span> <span id="unv_46945663"></span> | <a href="item?id=46945663">1729&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out">Discord will require a face scan or ID for full access next month</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46945663">1870 points</span> by <a href="user?id=x01" class="hnuser">x01</a> <span class="age" title="2026-02-09T14:37:38 1770647858"><a href="item?id=46945663">1 day ago</a></span> <span id="unv_46945663"></span> | <a href="item?id=46945663">1795&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out">Discord will require a face scan or ID for full access next month</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.3-Codex (openai.com)]]></title>
@@ -38,7 +38,7 @@
         <id>link-f92f4c965aa63e6e8e667bf7213c758b</id>
         <link href="https://news.ycombinator.com/item?id=46911901"/>
         <updated>2026-02-07T02:01:45.515Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">1175 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">4 days ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">546&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">1175 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">4 days ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">548&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Waymo World Model (waymo.com)]]></title>
@@ -52,7 +52,7 @@
         <id>link-87f68c4c077fcc4ed523af4f852f35b9</id>
         <link href="https://news.ycombinator.com/item?id=46930961"/>
         <updated>2026-02-09T08:54:37.410Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46930961">1058 points</span> by <a href="user?id=chwtutha" class="hnuser">chwtutha</a> <span class="age" title="2026-02-08T03:09:28 1770520168"><a href="item?id=46930961">1 day ago</a></span> <span id="unv_46930961"></span> | <a href="item?id=46930961">470&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/mitchellh/vouch">Vouch</a><span class="sitebit comhead"> (<a href="from?site=github.com/mitchellh"><span class="sitestr">github.com/mitchellh</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46930961">1059 points</span> by <a href="user?id=chwtutha" class="hnuser">chwtutha</a> <span class="age" title="2026-02-08T03:09:28 1770520168"><a href="item?id=46930961">1 day ago</a></span> <span id="unv_46930961"></span> | <a href="item?id=46930961">470&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/mitchellh/vouch">Vouch</a><span class="sitebit comhead"> (<a href="from?site=github.com/mitchellh"><span class="sitestr">github.com/mitchellh</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenCiv3: Open-source, cross-platform reimagining of Civilization III (openciv3.org)]]></title>
@@ -73,6 +73,6 @@
         <id>link-2b23de6098e72f00d658cd7fdb0fa50a</id>
         <link href="https://news.ycombinator.com/item?id=46923736"/>
         <updated>2026-02-10T05:27:53.032Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46923736">812 points</span> by <a href="user?id=nar001" class="hnuser">nar001</a> <span class="age" title="2026-02-07T13:34:34 1770471274"><a href="item?id=46923736">2 days ago</a></span> <span id="unv_46923736"></span> | <a href="item?id=46923736">338&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/suitenumerique">France's homegrown open source online office suite</a><span class="sitebit comhead"> (<a href="from?site=github.com/suitenumerique"><span class="sitestr">github.com/suitenumerique</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46923736">812 points</span> by <a href="user?id=nar001" class="hnuser">nar001</a> <span class="age" title="2026-02-07T13:34:34 1770471274"><a href="item?id=46923736">3 days ago</a></span> <span id="unv_46923736"></span> | <a href="item?id=46923736">338&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/suitenumerique">France's homegrown open source online office suite</a><span class="sitebit comhead"> (<a href="from?site=github.com/suitenumerique"><span class="sitestr">github.com/suitenumerique</span></a>)</span></span>]]></content>
     </entry>
 </feed>
