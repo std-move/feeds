@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-11T02:28:15.282Z</updated>
+    <updated>2026-02-11T05:29:06.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
-    <entry>
-        <title type="html"><![CDATA[Claude Opus 4.6 (anthropic.com)]]></title>
-        <id>link-699c83fea2537ae153c11be504fa2b00</id>
-        <link href="https://news.ycombinator.com/item?id=46902223"/>
-        <updated>2026-02-05T20:34:42.553Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902223">2345 points</span> by <a href="user?id=HellsMaddy" class="hnuser">HellsMaddy</a> <span class="age" title="2026-02-05T17:38:53 1770313133"><a href="item?id=46902223">5 days ago</a></span> <span id="unv_46902223"></span> | <a href="item?id=46902223">1029&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-6">Claude Opus 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Discord will require a face scan or ID for full access next month (theverge.com)]]></title>
         <id>link-6d884a6714acc10164ca0a741a45ebe9</id>
         <link href="https://news.ycombinator.com/item?id=46945663"/>
         <updated>2026-02-10T02:29:19.505Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46945663">1987 points</span> by <a href="user?id=x01" class="hnuser">x01</a> <span class="age" title="2026-02-09T14:37:38 1770647858"><a href="item?id=46945663">1 day ago</a></span> <span id="unv_46945663"></span> | <a href="item?id=46945663">1929&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out">Discord will require a face scan or ID for full access next month</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.3-Codex (openai.com)]]></title>
-        <id>link-972565bf20ea65274b74dc6665eda1de</id>
-        <link href="https://news.ycombinator.com/item?id=46902638"/>
-        <updated>2026-02-06T02:06:14.529Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46902638">1529 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-05T18:08:08 1770314888"><a href="item?id=46902638">5 days ago</a></span> <span id="unv_46902638"></span> | <a href="item?id=46902638">604&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex/">GPT-5.3-Codex</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't rent the cloud, own instead (comma.ai)]]></title>
-        <id>link-9a3aa46fe711b92b09dc3f2b06fc9c0a</id>
-        <link href="https://news.ycombinator.com/item?id=46896146"/>
-        <updated>2026-02-05T18:48:45.825Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46896146">1219 points</span> by <a href="user?id=Torq_boi" class="hnuser">Torq_boi</a> <span class="age" title="2026-02-05T05:50:01 1770270601"><a href="item?id=46896146">5 days ago</a></span> <span id="unv_46896146"></span> | <a href="item?id=46896146">499&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.comma.ai/datacenter/">Don't rent the cloud, own instead</a><span class="sitebit comhead"> (<a href="from?site=comma.ai"><span class="sitestr">comma.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46945663">1989 points</span> by <a href="user?id=x01" class="hnuser">x01</a> <span class="age" title="2026-02-09T14:37:38 1770647858"><a href="item?id=46945663">1 day ago</a></span> <span id="unv_46945663"></span> | <a href="item?id=46945663">1943&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out">Discord will require a face scan or ID for full access next month</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I now assume that all ads on Apple news are scams (kirkville.com)]]></title>
         <id>link-f92f4c965aa63e6e8e667bf7213c758b</id>
         <link href="https://news.ycombinator.com/item?id=46911901"/>
         <updated>2026-02-07T02:01:45.515Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">1176 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">4 days ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">551&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46911901">1176 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-02-06T12:16:43 1770380203"><a href="item?id=46911901">4 days ago</a></span> <span id="unv_46911901"></span> | <a href="item?id=46911901">551&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">I now assume that all ads on Apple news are scams</a><span class="sitebit comhead"> (<a href="from?site=kirkville.com"><span class="sitestr">kirkville.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Waymo World Model (waymo.com)]]></title>
         <id>link-aab783bb583f5aefa392c12fbf00d482</id>
         <link href="https://news.ycombinator.com/item?id=46914785"/>
         <updated>2026-02-07T10:27:19.795Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46914785">1153 points</span> by <a href="user?id=xnx" class="hnuser">xnx</a> <span class="age" title="2026-02-06T16:20:42 1770394842"><a href="item?id=46914785">4 days ago</a></span> <span id="unv_46914785"></span> | <a href="item?id=46914785">660&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation">The Waymo World Model</a><span class="sitebit comhead"> (<a href="from?site=waymo.com"><span class="sitestr">waymo.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46914785">1153 points</span> by <a href="user?id=xnx" class="hnuser">xnx</a> <span class="age" title="2026-02-06T16:20:42 1770394842"><a href="item?id=46914785">4 days ago</a></span> <span id="unv_46914785"></span> | <a href="item?id=46914785">660&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation">The Waymo World Model</a><span class="sitebit comhead"> (<a href="from?site=waymo.com"><span class="sitestr">waymo.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vouch (github.com/mitchellh)]]></title>
         <id>link-87f68c4c077fcc4ed523af4f852f35b9</id>
         <link href="https://news.ycombinator.com/item?id=46930961"/>
         <updated>2026-02-09T08:54:37.410Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46930961">1063 points</span> by <a href="user?id=chwtutha" class="hnuser">chwtutha</a> <span class="age" title="2026-02-08T03:09:28 1770520168"><a href="item?id=46930961">2 days ago</a></span> <span id="unv_46930961"></span> | <a href="item?id=46930961">478&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/mitchellh/vouch">Vouch</a><span class="sitebit comhead"> (<a href="from?site=github.com/mitchellh"><span class="sitestr">github.com/mitchellh</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46930961">1064 points</span> by <a href="user?id=chwtutha" class="hnuser">chwtutha</a> <span class="age" title="2026-02-08T03:09:28 1770520168"><a href="item?id=46930961">2 days ago</a></span> <span id="unv_46930961"></span> | <a href="item?id=46930961">479&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/mitchellh/vouch">Vouch</a><span class="sitebit comhead"> (<a href="from?site=github.com/mitchellh"><span class="sitestr">github.com/mitchellh</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenCiv3: Open-source, cross-platform reimagining of Civilization III (openciv3.org)]]></title>
         <id>link-95f3357e4ffd6fc54e26f53601eb836f</id>
         <link href="https://news.ycombinator.com/item?id=46918612"/>
         <updated>2026-02-09T02:13:22.181Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46918612">986 points</span> by <a href="user?id=klaussilveira" class="hnuser">klaussilveira</a> <span class="age" title="2026-02-06T21:51:23 1770414683"><a href="item?id=46918612">4 days ago</a></span> <span id="unv_46918612"></span> | <a href="item?id=46918612">307&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openciv3.org/">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a><span class="sitebit comhead"> (<a href="from?site=openciv3.org"><span class="sitestr">openciv3.org</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My AI Adoption Journey (mitchellh.com)]]></title>
-        <id>link-aa8ec2c5b6b33472722ebfce7beb9f68</id>
-        <link href="https://news.ycombinator.com/item?id=46903558"/>
-        <updated>2026-02-10T05:27:53.032Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46903558">972 points</span> by <a href="user?id=anurag" class="hnuser">anurag</a> <span class="age" title="2026-02-05T19:04:40 1770318280"><a href="item?id=46903558">5 days ago</a></span> <span id="unv_46903558"></span> | <a href="item?id=46903558">399&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mitchellh.com/writing/my-ai-adoption-journey">My AI Adoption Journey</a><span class="sitebit comhead"> (<a href="from?site=mitchellh.com"><span class="sitestr">mitchellh.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46918612">986 points</span> by <a href="user?id=klaussilveira" class="hnuser">klaussilveira</a> <span class="age" title="2026-02-06T21:51:23 1770414683"><a href="item?id=46918612">4 days ago</a></span> <span id="unv_46918612"></span> | <a href="item?id=46918612">307&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openciv3.org/">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a><span class="sitebit comhead"> (<a href="from?site=openciv3.org"><span class="sitestr">openciv3.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Singularity will occur on a Tuesday (campedersen.com)]]></title>
         <id>link-1daa6470b345d1ad4d8ad58273f8c691</id>
         <link href="https://news.ycombinator.com/item?id=46962996"/>
         <updated>2026-02-11T02:26:25.202Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46962996">845 points</span> by <a href="user?id=ecto" class="hnuser">ecto</a> <span class="age" title="2026-02-10T17:04:31 1770743071"><a href="item?id=46962996">9 hours ago</a></span> <span id="unv_46962996"></span> | <a href="item?id=46962996">481&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://campedersen.com/singularity">The Singularity will occur on a Tuesday</a><span class="sitebit comhead"> (<a href="from?site=campedersen.com"><span class="sitestr">campedersen.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46962996">919 points</span> by <a href="user?id=ecto" class="hnuser">ecto</a> <span class="age" title="2026-02-10T17:04:31 1770743071"><a href="item?id=46962996">12 hours ago</a></span> <span id="unv_46962996"></span> | <a href="item?id=46962996">531&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://campedersen.com/singularity">The Singularity will occur on a Tuesday</a><span class="sitebit comhead"> (<a href="from?site=campedersen.com"><span class="sitestr">campedersen.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We mourn our craft (nolanlawson.com)]]></title>
+        <id>link-b627c5f7742142c107195fafc911a343</id>
+        <link href="https://news.ycombinator.com/item?id=46926245"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46926245">814 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-02-07T18:32:27 1770489147"><a href="item?id=46926245">3 days ago</a></span> <span id="unv_46926245"></span> | <a href="item?id=46926245">862&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nolanlawson.com/2026/02/07/we-mourn-our-craft/">We mourn our craft</a><span class="sitebit comhead"> (<a href="from?site=nolanlawson.com"><span class="sitestr">nolanlawson.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[France's homegrown open source online office suite (github.com/suitenumerique)]]></title>
+        <id>link-2b23de6098e72f00d658cd7fdb0fa50a</id>
+        <link href="https://news.ycombinator.com/item?id=46923736"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46923736">812 points</span> by <a href="user?id=nar001" class="hnuser">nar001</a> <span class="age" title="2026-02-07T13:34:34 1770471274"><a href="item?id=46923736">3 days ago</a></span> <span id="unv_46923736"></span> | <a href="item?id=46923736">343&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/suitenumerique">France's homegrown open source online office suite</a><span class="sitebit comhead"> (<a href="from?site=github.com/suitenumerique"><span class="sitestr">github.com/suitenumerique</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the sky blue? (explainers.blog)]]></title>
+        <id>link-597477ad4d158593e39c9b6e7893cb5d</id>
+        <link href="https://news.ycombinator.com/item?id=46946401"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46946401">777 points</span> by <a href="user?id=udit99" class="hnuser">udit99</a> <span class="age" title="2026-02-09T15:39:51 1770651591"><a href="item?id=46946401">1 day ago</a></span> <span id="unv_46946401"></span> | <a href="item?id=46946401">253&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://explainers.blog/posts/why-is-the-sky-blue/">Why is the sky blue?</a><span class="sitebit comhead"> (<a href="from?site=explainers.blog"><span class="sitestr">explainers.blog</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe's $24T Breakup with Visa and Mastercard Has Begun (europeanbusinessmagazine.com)]]></title>
+        <id>link-f0e717447c4a4ef8d506d3467ac211d2</id>
+        <link href="https://news.ycombinator.com/item?id=46958399"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46958399">756 points</span> by <a href="user?id=NewCzech" class="hnuser">NewCzech</a> <span class="age" title="2026-02-10T11:42:14 1770723734"><a href="item?id=46958399">17 hours ago</a></span> <span id="unv_46958399"></span> | <a href="item?id=46958399">625&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/">Europe's $24T Breakup with Visa and Mastercard Has Begun</a><span class="sitebit comhead"> (<a href="from?site=europeanbusinessmagazine.com"><span class="sitestr">europeanbusinessmagazine.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
