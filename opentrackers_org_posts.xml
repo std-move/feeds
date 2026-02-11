@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://opentrackers.org/</id>
     <title>OpenTrackers.org</title>
-    <updated>2026-02-11T19:07:27.586Z</updated>
+    <updated>2026-02-11T20:41:23.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://opentrackers.org/favicon.ico</icon>
     <entry>
@@ -168,16 +168,16 @@
     <entry>
         <title type="html"><![CDATA[Dec
 			24
-			2025 — Seedpool (SP) is Open  for Limited Signup!]]></title>
-        <id>title-9ce4c2e9face62047f4972ed7ad9652f</id>
+			2025 — Seedpool  (SP)]]></title>
+        <id>title-51fa7059f1cf5df945d826ff75b6acff</id>
         <link href="https://opentrackers.org/?link_extraction_failed=true"/>
-        <updated>2026-01-13T17:25:46.361Z</updated>
+        <updated>2026-02-11T20:39:38.173Z</updated>
         <content type="html"><![CDATA[<h2>
 		<span class="post-format"></span>
-		<a href="https://opentrackers.org/seedpool/" title="Seedpool (SP) is Open for Limited Signup!" rel="bookmark"><span class="firstpart">Seedpool (SP) is Open </span> for Limited Signup! </a>
+		<a href="https://opentrackers.org/seedpool/" title="Seedpool (SP)" rel="bookmark"><span class="firstpart">Seedpool </span> (SP) </a>
 	</h2>
   
-	<div class="thumb-shadow"><div class="post-thumb"><a href="https://opentrackers.org/seedpool/"><div class="img_wrapper" style="display: block; width: 592px; height: 172px;"><img src="https://opentrackers.org/wp-content/uploads/2025/12/seedpool_banner-large-620x180-1.png" width="620" height="180" alt="Seedpool (SP) is Open for Limited Signup!" style="position: absolute; z-index: 998; opacity: 1;" class="img_grayscale"><img src="https://opentrackers.org/wp-content/uploads/2025/12/seedpool_banner-large-620x180-1.png" width="620" height="180" alt="Seedpool (SP) is Open for Limited Signup!" style="position: absolute;"></div></a></div></div>
+	<div class="thumb-shadow"><div class="post-thumb"><a href="https://opentrackers.org/seedpool/"><div class="img_wrapper" style="display: block; width: 592px; height: 172px;"><img src="https://opentrackers.org/wp-content/uploads/2025/12/seedpool_banner-large-620x180-1.png" width="620" height="180" alt="Seedpool (SP)" style="position: absolute; z-index: 998; opacity: 1;" class="img_grayscale"><img src="https://opentrackers.org/wp-content/uploads/2025/12/seedpool_banner-large-620x180-1.png" width="620" height="180" alt="Seedpool (SP)" style="position: absolute;"></div></a></div></div>
 	
 	<div class="post-bodycopy cf">
 	
@@ -194,7 +194,7 @@
 	<div class="post-footer">
 		<p class="post-categories"><i></i><a href="https://opentrackers.org/category/general/" rel="category tag">General</a></p>
 
-		<p class="post-tags"><i></i><a href="https://opentrackers.org/tag/0day/" rel="tag">0day</a> · <a href="https://opentrackers.org/tag/limited-signup/" rel="tag">limited signup</a></p>
+		<p class="post-tags"><i></i><a href="https://opentrackers.org/tag/0day/" rel="tag">0day</a></p>
 	</div>]]></content>
     </entry>
     <entry>
