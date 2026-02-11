@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-11T13:14:12.268Z</updated>
+    <updated>2026-02-11T14:55:48.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>link-6d884a6714acc10164ca0a741a45ebe9</id>
         <link href="https://news.ycombinator.com/item?id=46945663"/>
         <updated>2026-02-09T20:39:04.950Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46945663">2013 points</span> by <a href="user?id=x01" class="hnuser">x01</a> <span class="age" title="2026-02-09T14:37:38 1770647858"><a href="item?id=46945663">1 day ago</a></span> <span id="unv_46945663"></span> | <a href="item?id=46945663">1974&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out">Discord will require a face scan or ID for full access next month</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46945663">2015 points</span> by <a href="user?id=x01" class="hnuser">x01</a> <span class="age" title="2026-02-09T14:37:38 1770647858"><a href="item?id=46945663">2 days ago</a></span> <span id="unv_46945663"></span> | <a href="item?id=46945663">1980&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out">Discord will require a face scan or ID for full access next month</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Singularity will occur on a Tuesday (campedersen.com)]]></title>
         <id>link-1daa6470b345d1ad4d8ad58273f8c691</id>
         <link href="https://news.ycombinator.com/item?id=46962996"/>
         <updated>2026-02-10T22:40:04.954Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46962996">1182 points</span> by <a href="user?id=ecto" class="hnuser">ecto</a> <span class="age" title="2026-02-10T17:04:31 1770743071"><a href="item?id=46962996">20 hours ago</a></span> <span id="unv_46962996"></span> | <a href="item?id=46962996">641&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://campedersen.com/singularity">The Singularity will occur on a Tuesday</a><span class="sitebit comhead"> (<a href="from?site=campedersen.com"><span class="sitestr">campedersen.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46962996">1217 points</span> by <a href="user?id=ecto" class="hnuser">ecto</a> <span class="age" title="2026-02-10T17:04:31 1770743071"><a href="item?id=46962996">21 hours ago</a></span> <span id="unv_46962996"></span> | <a href="item?id=46962996">661&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://campedersen.com/singularity">The Singularity will occur on a Tuesday</a><span class="sitebit comhead"> (<a href="from?site=campedersen.com"><span class="sitestr">campedersen.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I now assume that all ads on Apple news are scams (kirkville.com)]]></title>
@@ -38,56 +38,56 @@
         <id>link-87f68c4c077fcc4ed523af4f852f35b9</id>
         <link href="https://news.ycombinator.com/item?id=46930961"/>
         <updated>2026-02-09T02:13:22.181Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46930961">1064 points</span> by <a href="user?id=chwtutha" class="hnuser">chwtutha</a> <span class="age" title="2026-02-08T03:09:28 1770520168"><a href="item?id=46930961">2 days ago</a></span> <span id="unv_46930961"></span> | <a href="item?id=46930961">479&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/mitchellh/vouch">Vouch</a><span class="sitebit comhead"> (<a href="from?site=github.com/mitchellh"><span class="sitestr">github.com/mitchellh</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCiv3: Open-source, cross-platform reimagining of Civilization III (openciv3.org)]]></title>
-        <id>link-95f3357e4ffd6fc54e26f53601eb836f</id>
-        <link href="https://news.ycombinator.com/item?id=46918612"/>
-        <updated>2026-02-07T08:32:55.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46918612">989 points</span> by <a href="user?id=klaussilveira" class="hnuser">klaussilveira</a> <span class="age" title="2026-02-06T21:51:23 1770414683"><a href="item?id=46918612">4 days ago</a></span> <span id="unv_46918612"></span> | <a href="item?id=46918612">307&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openciv3.org/">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a><span class="sitebit comhead"> (<a href="from?site=openciv3.org"><span class="sitestr">openciv3.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46930961">1064 points</span> by <a href="user?id=chwtutha" class="hnuser">chwtutha</a> <span class="age" title="2026-02-08T03:09:28 1770520168"><a href="item?id=46930961">2 days ago</a></span> <span id="unv_46930961"></span> | <a href="item?id=46930961">480&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/mitchellh/vouch">Vouch</a><span class="sitebit comhead"> (<a href="from?site=github.com/mitchellh"><span class="sitestr">github.com/mitchellh</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Europe's $24T Breakup with Visa and Mastercard Has Begun (europeanbusinessmagazine.com)]]></title>
         <id>link-f0e717447c4a4ef8d506d3467ac211d2</id>
         <link href="https://news.ycombinator.com/item?id=46958399"/>
         <updated>2026-02-10T22:40:04.954Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46958399">987 points</span> by <a href="user?id=NewCzech" class="hnuser">NewCzech</a> <span class="age" title="2026-02-10T11:42:14 1770723734"><a href="item?id=46958399">1 day ago</a></span> <span id="unv_46958399"></span> | <a href="item?id=46958399">844&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/">Europe's $24T Breakup with Visa and Mastercard Has Begun</a><span class="sitebit comhead"> (<a href="from?site=europeanbusinessmagazine.com"><span class="sitestr">europeanbusinessmagazine.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46958399">1037 points</span> by <a href="user?id=NewCzech" class="hnuser">NewCzech</a> <span class="age" title="2026-02-10T11:42:14 1770723734"><a href="item?id=46958399">1 day ago</a></span> <span id="unv_46958399"></span> | <a href="item?id=46958399">876&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/">Europe's $24T Breakup with Visa and Mastercard Has Begun</a><span class="sitebit comhead"> (<a href="from?site=europeanbusinessmagazine.com"><span class="sitestr">europeanbusinessmagazine.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCiv3: Open-source, cross-platform reimagining of Civilization III (openciv3.org)]]></title>
+        <id>link-95f3357e4ffd6fc54e26f53601eb836f</id>
+        <link href="https://news.ycombinator.com/item?id=46918612"/>
+        <updated>2026-02-07T08:32:55.807Z</updated>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46918612">989 points</span> by <a href="user?id=klaussilveira" class="hnuser">klaussilveira</a> <span class="age" title="2026-02-06T21:51:23 1770414683"><a href="item?id=46918612">4 days ago</a></span> <span id="unv_46918612"></span> | <a href="item?id=46918612">307&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openciv3.org/">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a><span class="sitebit comhead"> (<a href="from?site=openciv3.org"><span class="sitestr">openciv3.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[We mourn our craft (nolanlawson.com)]]></title>
         <id>link-b627c5f7742142c107195fafc911a343</id>
         <link href="https://news.ycombinator.com/item?id=46926245"/>
         <updated>2026-02-08T20:28:58.007Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46926245">815 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-02-07T18:32:27 1770489147"><a href="item?id=46926245">3 days ago</a></span> <span id="unv_46926245"></span> | <a href="item?id=46926245">862&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nolanlawson.com/2026/02/07/we-mourn-our-craft/">We mourn our craft</a><span class="sitebit comhead"> (<a href="from?site=nolanlawson.com"><span class="sitestr">nolanlawson.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46926245">815 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-02-07T18:32:27 1770489147"><a href="item?id=46926245">3 days ago</a></span> <span id="unv_46926245"></span> | <a href="item?id=46926245">863&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nolanlawson.com/2026/02/07/we-mourn-our-craft/">We mourn our craft</a><span class="sitebit comhead"> (<a href="from?site=nolanlawson.com"><span class="sitestr">nolanlawson.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France's homegrown open source online office suite (github.com/suitenumerique)]]></title>
         <id>link-2b23de6098e72f00d658cd7fdb0fa50a</id>
         <link href="https://news.ycombinator.com/item?id=46923736"/>
         <updated>2026-02-07T20:28:10.846Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46923736">813 points</span> by <a href="user?id=nar001" class="hnuser">nar001</a> <span class="age" title="2026-02-07T13:34:34 1770471274"><a href="item?id=46923736">3 days ago</a></span> <span id="unv_46923736"></span> | <a href="item?id=46923736">344&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/suitenumerique">France's homegrown open source online office suite</a><span class="sitebit comhead"> (<a href="from?site=github.com/suitenumerique"><span class="sitestr">github.com/suitenumerique</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46923736">813 points</span> by <a href="user?id=nar001" class="hnuser">nar001</a> <span class="age" title="2026-02-07T13:34:34 1770471274"><a href="item?id=46923736">4 days ago</a></span> <span id="unv_46923736"></span> | <a href="item?id=46923736">344&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/suitenumerique">France's homegrown open source online office suite</a><span class="sitebit comhead"> (<a href="from?site=github.com/suitenumerique"><span class="sitestr">github.com/suitenumerique</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why is the sky blue? (explainers.blog)]]></title>
         <id>link-597477ad4d158593e39c9b6e7893cb5d</id>
         <link href="https://news.ycombinator.com/item?id=46946401"/>
         <updated>2026-02-10T05:27:53.032Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46946401">785 points</span> by <a href="user?id=udit99" class="hnuser">udit99</a> <span class="age" title="2026-02-09T15:39:51 1770651591"><a href="item?id=46946401">1 day ago</a></span> <span id="unv_46946401"></span> | <a href="item?id=46946401">259&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://explainers.blog/posts/why-is-the-sky-blue/">Why is the sky blue?</a><span class="sitebit comhead"> (<a href="from?site=explainers.blog"><span class="sitestr">explainers.blog</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46946401">787 points</span> by <a href="user?id=udit99" class="hnuser">udit99</a> <span class="age" title="2026-02-09T15:39:51 1770651591"><a href="item?id=46946401">1 day ago</a></span> <span id="unv_46946401"></span> | <a href="item?id=46946401">260&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://explainers.blog/posts/why-is-the-sky-blue/">Why is the sky blue?</a><span class="sitebit comhead"> (<a href="from?site=explainers.blog"><span class="sitestr">explainers.blog</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number (theintercept.com)]]></title>
         <id>link-2bb48d10cdafc4b053edd92c7f6d19bc</id>
         <link href="https://news.ycombinator.com/item?id=46963804"/>
         <updated>2026-02-11T02:26:25.202Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46963804">757 points</span> by <a href="user?id=lehi" class="hnuser">lehi</a> <span class="age" title="2026-02-10T17:48:05 1770745685"><a href="item?id=46963804">19 hours ago</a></span> <span id="unv_46963804"></span> | <a href="item?id=46963804">309&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/">Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number</a><span class="sitebit comhead"> (<a href="from?site=theintercept.com"><span class="sitestr">theintercept.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46963804">760 points</span> by <a href="user?id=lehi" class="hnuser">lehi</a> <span class="age" title="2026-02-10T17:48:05 1770745685"><a href="item?id=46963804">21 hours ago</a></span> <span id="unv_46963804"></span> | <a href="item?id=46963804">312&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/">Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number</a><span class="sitebit comhead"> (<a href="from?site=theintercept.com"><span class="sitestr">theintercept.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I started programming when I was 7. I'm 50 now and the thing I loved has changed (jamesdrandall.com)]]></title>
         <id>link-7a26ada8e52d3ed58e9202e4a28235b2</id>
         <link href="https://news.ycombinator.com/item?id=46960675"/>
         <updated>2026-02-10T22:40:04.954Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46960675">749 points</span> by <a href="user?id=jamesrandall" class="hnuser">jamesrandall</a> <span class="age" title="2026-02-10T15:08:36 1770736116"><a href="item?id=46960675">22 hours ago</a></span> <span id="unv_46960675"></span> | <a href="item?id=46960675">596&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/">I started programming when I was 7. I'm 50 now and the thing I loved has changed</a><span class="sitebit comhead"> (<a href="from?site=jamesdrandall.com"><span class="sitestr">jamesdrandall.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46960675">760 points</span> by <a href="user?id=jamesrandall" class="hnuser">jamesrandall</a> <span class="age" title="2026-02-10T15:08:36 1770736116"><a href="item?id=46960675">23 hours ago</a></span> <span id="unv_46960675"></span> | <a href="item?id=46960675">602&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/">I started programming when I was 7. I'm 50 now and the thing I loved has changed</a><span class="sitebit comhead"> (<a href="from?site=jamesdrandall.com"><span class="sitestr">jamesdrandall.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TikTok's 'addictive design' found to be illegal in Europe (nytimes.com)]]></title>
@@ -101,14 +101,14 @@
         <id>link-1e961e8d1bad6b7962e0b93fc2a51649</id>
         <link href="https://news.ycombinator.com/item?id=46949564"/>
         <updated>2026-02-10T14:59:11.779Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46949564">649 points</span> by <a href="user?id=pseudalopex" class="hnuser">pseudalopex</a> <span class="age" title="2026-02-09T19:15:14 1770664514"><a href="item?id=46949564">1 day ago</a></span> <span id="unv_46949564"></span> | <a href="item?id=46949564">421&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://taggart-tech.com/discord-alternatives/">Discord Alternatives, Ranked</a><span class="sitebit comhead"> (<a href="from?site=taggart-tech.com"><span class="sitestr">taggart-tech.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46949564">653 points</span> by <a href="user?id=pseudalopex" class="hnuser">pseudalopex</a> <span class="age" title="2026-02-09T19:15:14 1770664514"><a href="item?id=46949564">1 day ago</a></span> <span id="unv_46949564"></span> | <a href="item?id=46949564">425&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://taggart-tech.com/discord-alternatives/">Discord Alternatives, Ranked</a><span class="sitebit comhead"> (<a href="from?site=taggart-tech.com"><span class="sitestr">taggart-tech.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hackers (1995) Animated Experience (hackers-1995.vercel.app)]]></title>
         <id>link-3eaea7f1ea7df72643c421ad89e5ae39</id>
         <link href="https://news.ycombinator.com/item?id=46912800"/>
         <updated>2026-02-08T02:34:57.542Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46912800">608 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-02-06T13:49:55 1770385795"><a href="item?id=46912800">4 days ago</a></span> <span id="unv_46912800"></span> | <a href="item?id=46912800">287&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hackers-1995.vercel.app/">Hackers (1995) Animated Experience</a><span class="sitebit comhead"> (<a href="from?site=hackers-1995.vercel.app"><span class="sitestr">hackers-1995.vercel.app</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46912800">609 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-02-06T13:49:55 1770385795"><a href="item?id=46912800">5 days ago</a></span> <span id="unv_46912800"></span> | <a href="item?id=46912800">287&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hackers-1995.vercel.app/">Hackers (1995) Animated Experience</a><span class="sitebit comhead"> (<a href="from?site=hackers-1995.vercel.app"><span class="sitestr">hackers-1995.vercel.app</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Art of Roads in Games (sandboxspirit.com)]]></title>
@@ -122,14 +122,14 @@
         <id>link-89795c89d5d82d6234d6af0f08674b20</id>
         <link href="https://news.ycombinator.com/item?id=46947096"/>
         <updated>2026-02-10T05:27:53.032Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46947096">596 points</span> by <a href="user?id=tokyobreakfast" class="hnuser">tokyobreakfast</a> <span class="age" title="2026-02-09T16:26:31 1770654391"><a href="item?id=46947096">1 day ago</a></span> <span id="unv_46947096"></span> | <a href="item?id=46947096">190&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock">Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock</a><span class="sitebit comhead"> (<a href="from?site=github.com/jim11662418"><span class="sitestr">github.com/jim11662418</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46947096">597 points</span> by <a href="user?id=tokyobreakfast" class="hnuser">tokyobreakfast</a> <span class="age" title="2026-02-09T16:26:31 1770654391"><a href="item?id=46947096">1 day ago</a></span> <span id="unv_46947096"></span> | <a href="item?id=46947096">191&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock">Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock</a><span class="sitebit comhead"> (<a href="from?site=github.com/jim11662418"><span class="sitestr">github.com/jim11662418</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oxide raises $200M Series C (oxide.computer)]]></title>
         <id>link-27cbe315ac133eddfb86396a777fce83</id>
         <link href="https://news.ycombinator.com/item?id=46960036"/>
         <updated>2026-02-11T02:26:25.202Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46960036">583 points</span> by <a href="user?id=igrunert" class="hnuser">igrunert</a> <span class="age" title="2026-02-10T14:20:49 1770733249"><a href="item?id=46960036">22 hours ago</a></span> <span id="unv_46960036"></span> | <a href="item?id=46960036">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://oxide.computer/blog/our-200m-series-c">Oxide raises $200M Series C</a><span class="sitebit comhead"> (<a href="from?site=oxide.computer"><span class="sitestr">oxide.computer</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46960036">588 points</span> by <a href="user?id=igrunert" class="hnuser">igrunert</a> <span class="age" title="2026-02-10T14:20:49 1770733249"><a href="item?id=46960036">1 day ago</a></span> <span id="unv_46960036"></span> | <a href="item?id=46960036">307&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://oxide.computer/blog/our-200m-series-c">Oxide raises $200M Series C</a><span class="sitebit comhead"> (<a href="from?site=oxide.computer"><span class="sitestr">oxide.computer</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A new bill in New York would require disclaimers on AI-generated news content (niemanlab.org)]]></title>
@@ -143,76 +143,76 @@
         <id>link-24dc9afeb70380ad5e2ad15243353a0d</id>
         <link href="https://news.ycombinator.com/item?id=46961345"/>
         <updated>2026-02-11T05:27:28.079Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46961345">538 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-10T15:44:47 1770738287"><a href="item?id=46961345">21 hours ago</a></span> <span id="unv_46961345"></span> | <a href="item?id=46961345">497&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://entire.io/blog/hello-entire-world/">Ex-GitHub CEO launches a new developer platform for AI agents</a><span class="sitebit comhead"> (<a href="from?site=entire.io"><span class="sitestr">entire.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46961345">553 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-10T15:44:47 1770738287"><a href="item?id=46961345">23 hours ago</a></span> <span id="unv_46961345"></span> | <a href="item?id=46961345">519&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://entire.io/blog/hello-entire-world/">Ex-GitHub CEO launches a new developer platform for AI agents</a><span class="sitebit comhead"> (<a href="from?site=entire.io"><span class="sitestr">entire.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs (arxiv.org)]]></title>
         <id>link-2489fa7362544575fd252fd9da822f78</id>
         <link href="https://news.ycombinator.com/item?id=46954920"/>
         <updated>2026-02-10T17:03:05.790Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46954920">531 points</span> by <a href="user?id=tiny-automates" class="hnuser">tiny-automates</a> <span class="age" title="2026-02-10T03:17:17 1770693437"><a href="item?id=46954920">1 day ago</a></span> <span id="unv_46954920"></span> | <a href="item?id=46954920">355&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arxiv.org/abs/2512.20798">Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs</a><span class="sitebit comhead"> (<a href="from?site=arxiv.org"><span class="sitestr">arxiv.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46954920">532 points</span> by <a href="user?id=tiny-automates" class="hnuser">tiny-automates</a> <span class="age" title="2026-02-10T03:17:17 1770693437"><a href="item?id=46954920">1 day ago</a></span> <span id="unv_46954920"></span> | <a href="item?id=46954920">356&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arxiv.org/abs/2512.20798">Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs</a><span class="sitebit comhead"> (<a href="from?site=arxiv.org"><span class="sitestr">arxiv.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI makes the easy part easier and the hard part harder (blundergoat.com)]]></title>
         <id>link-5fb18c8f4459bc71836a05956a635e13</id>
         <link href="https://news.ycombinator.com/item?id=46939593"/>
         <updated>2026-02-09T14:53:16.878Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46939593">524 points</span> by <a href="user?id=weaksauce" class="hnuser">weaksauce</a> <span class="age" title="2026-02-08T23:13:34 1770592414"><a href="item?id=46939593">2 days ago</a></span> <span id="unv_46939593"></span> | <a href="item?id=46939593">359&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder">AI makes the easy part easier and the hard part harder</a><span class="sitebit comhead"> (<a href="from?site=blundergoat.com"><span class="sitestr">blundergoat.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46939593">524 points</span> by <a href="user?id=weaksauce" class="hnuser">weaksauce</a> <span class="age" title="2026-02-08T23:13:34 1770592414"><a href="item?id=46939593">2 days ago</a></span> <span id="unv_46939593"></span> | <a href="item?id=46939593">361&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder">AI makes the easy part easier and the hard part harder</a><span class="sitebit comhead"> (<a href="from?site=blundergoat.com"><span class="sitestr">blundergoat.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[An Update on Heroku (heroku.com)]]></title>
         <id>link-cfde002a6a6cd1d366cf72d01e37c625</id>
         <link href="https://news.ycombinator.com/item?id=46913903"/>
         <updated>2026-02-11T05:27:28.079Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46913903">515 points</span> by <a href="user?id=lstoll" class="hnuser">lstoll</a> <span class="age" title="2026-02-06T15:20:23 1770391223"><a href="item?id=46913903">4 days ago</a></span> <span id="unv_46913903"></span> | <a href="item?id=46913903">345&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.heroku.com/blog/an-update-on-heroku/">An Update on Heroku</a><span class="sitebit comhead"> (<a href="from?site=heroku.com"><span class="sitestr">heroku.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub is down again (githubstatus.com)]]></title>
-        <id>link-171e90490a9fbeb098e390ec6ccfe520</id>
-        <link href="https://news.ycombinator.com/item?id=46946827"/>
-        <updated>2026-02-11T05:27:28.079Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46946827">508 points</span> by <a href="user?id=MattIPv4" class="hnuser">MattIPv4</a> <span class="age" title="2026-02-09T16:12:19 1770653539"><a href="item?id=46946827">1 day ago</a></span> <span id="unv_46946827"></span> | <a href="item?id=46946827">406&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.githubstatus.com/incidents/54hndjxft5bx">GitHub is down again</a><span class="sitebit comhead"> (<a href="from?site=githubstatus.com"><span class="sitestr">githubstatus.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jury told that Meta, Google 'engineered addiction' at landmark US trial (techxplore.com)]]></title>
-        <id>link-3caadf3fbb9e26fee1d032f50c5f11ef</id>
-        <link href="https://news.ycombinator.com/item?id=46959832"/>
-        <updated>2026-02-11T05:27:28.079Z</updated>
-        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46959832">480 points</span> by <a href="user?id=geox" class="hnuser">geox</a> <span class="age" title="2026-02-10T14:02:10 1770732130"><a href="item?id=46959832">23 hours ago</a></span> <span id="unv_46959832"></span> | <a href="item?id=46959832">368&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html">Jury told that Meta, Google 'engineered addiction' at landmark US trial</a><span class="sitebit comhead"> (<a href="from?site=techxplore.com"><span class="sitestr">techxplore.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheldon Brown's Bicycle Technical Info (sheldonbrown.com)]]></title>
-        <id>link-4e2b0d6f8900c59d19890e210efcad84</id>
-        <link href="https://news.ycombinator.com/item?id=46914159"/>
-        <updated>2026-02-11T05:27:28.079Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46914159">463 points</span> by <a href="user?id=ostacke" class="hnuser">ostacke</a> <span class="age" title="2026-02-06T15:40:42 1770392442"><a href="item?id=46914159">4 days ago</a></span> <span id="unv_46914159"></span> | <a href="item?id=46914159">115&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sheldonbrown.com/">Sheldon Brown's Bicycle Technical Info</a><span class="sitebit comhead"> (<a href="from?site=sheldonbrown.com"><span class="sitestr">sheldonbrown.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI fatigue is real and nobody talks about it (siddhantkhare.com)]]></title>
-        <id>link-12478a0870a6bfd3c15812ece6619551</id>
-        <link href="https://news.ycombinator.com/item?id=46934404"/>
-        <updated>2026-02-11T05:27:28.079Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46934404">457 points</span> by <a href="user?id=sidk24" class="hnuser">sidk24</a> <span class="age" title="2026-02-08T14:19:32 1770560372"><a href="item?id=46934404">2 days ago</a></span> <span id="unv_46934404"></span> | <a href="item?id=46934404">314&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://siddhantkhare.com/writing/ai-fatigue-is-real">AI fatigue is real and nobody talks about it</a><span class="sitebit comhead"> (<a href="from?site=siddhantkhare.com"><span class="sitestr">siddhantkhare.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vocal Guide – belt sing without killing yourself (jesperordrup.github.io)]]></title>
-        <id>link-6336599178e6a69bd9f43d09d3e49f24</id>
-        <link href="https://news.ycombinator.com/item?id=46922049"/>
-        <updated>2026-02-11T05:27:28.079Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46922049">429 points</span> by <a href="user?id=jesperordrup" class="hnuser">jesperordrup</a> <span class="age" title="2026-02-07T07:37:03 1770449823"><a href="item?id=46922049">4 days ago</a></span> <span id="unv_46922049"></span> | <a href="item?id=46922049">135&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jesperordrup.github.io/vocal-guide/">Vocal Guide – belt sing without killing yourself</a><span class="sitebit comhead"> (<a href="from?site=jesperordrup.github.io"><span class="sitestr">jesperordrup.github.io</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DoNotNotify is now Open Source (donotnotify.com)]]></title>
-        <id>link-d516b5a156095e38ecbd4f2ba836c826</id>
-        <link href="https://news.ycombinator.com/item?id=46932192"/>
-        <updated>2026-02-11T05:27:28.079Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46932192">414 points</span> by <a href="user?id=awaaz" class="hnuser">awaaz</a> <span class="age" title="2026-02-08T07:39:49 1770536389"><a href="item?id=46932192">3 days ago</a></span> <span id="unv_46932192"></span> | <a href="item?id=46932192">48&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://donotnotify.com/opensource.html">DoNotNotify is now Open Source</a><span class="sitebit comhead"> (<a href="from?site=donotnotify.com"><span class="sitestr">donotnotify.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46913903">516 points</span> by <a href="user?id=lstoll" class="hnuser">lstoll</a> <span class="age" title="2026-02-06T15:20:23 1770391223"><a href="item?id=46913903">4 days ago</a></span> <span id="unv_46913903"></span> | <a href="item?id=46913903">345&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.heroku.com/blog/an-update-on-heroku/">An Update on Heroku</a><span class="sitebit comhead"> (<a href="from?site=heroku.com"><span class="sitestr">heroku.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows Notepad App Remote Code Execution Vulnerability (cve.org)]]></title>
         <id>link-73d62df5b224f6115fed7c650fcd6225</id>
         <link href="https://news.ycombinator.com/item?id=46971516"/>
         <updated>2026-02-11T13:11:47.805Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46971516">409 points</span> by <a href="user?id=riffraff" class="hnuser">riffraff</a> <span class="age" title="2026-02-11T06:15:33 1770790533"><a href="item?id=46971516">6 hours ago</a></span> <span id="unv_46971516"></span> | <a href="item?id=46971516">236&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cve.org/CVERecord?id=CVE-2026-20841">Windows Notepad App Remote Code Execution Vulnerability</a><span class="sitebit comhead"> (<a href="from?site=cve.org"><span class="sitestr">cve.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46971516">512 points</span> by <a href="user?id=riffraff" class="hnuser">riffraff</a> <span class="age" title="2026-02-11T06:15:33 1770790533"><a href="item?id=46971516">8 hours ago</a></span> <span id="unv_46971516"></span> | <a href="item?id=46971516">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cve.org/CVERecord?id=CVE-2026-20841">Windows Notepad App Remote Code Execution Vulnerability</a><span class="sitebit comhead"> (<a href="from?site=cve.org"><span class="sitestr">cve.org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub is down again (githubstatus.com)]]></title>
+        <id>link-171e90490a9fbeb098e390ec6ccfe520</id>
+        <link href="https://news.ycombinator.com/item?id=46946827"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46946827">508 points</span> by <a href="user?id=MattIPv4" class="hnuser">MattIPv4</a> <span class="age" title="2026-02-09T16:12:19 1770653539"><a href="item?id=46946827">1 day ago</a></span> <span id="unv_46946827"></span> | <a href="item?id=46946827">406&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.githubstatus.com/incidents/54hndjxft5bx">GitHub is down again</a><span class="sitebit comhead"> (<a href="from?site=githubstatus.com"><span class="sitestr">githubstatus.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jury told that Meta, Google 'engineered addiction' at landmark US trial (techxplore.com)]]></title>
+        <id>link-3caadf3fbb9e26fee1d032f50c5f11ef</id>
+        <link href="https://news.ycombinator.com/item?id=46959832"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46959832">481 points</span> by <a href="user?id=geox" class="hnuser">geox</a> <span class="age" title="2026-02-10T14:02:10 1770732130"><a href="item?id=46959832">1 day ago</a></span> <span id="unv_46959832"></span> | <a href="item?id=46959832">376&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html">Jury told that Meta, Google 'engineered addiction' at landmark US trial</a><span class="sitebit comhead"> (<a href="from?site=techxplore.com"><span class="sitestr">techxplore.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sheldon Brown's Bicycle Technical Info (sheldonbrown.com)]]></title>
+        <id>link-4e2b0d6f8900c59d19890e210efcad84</id>
+        <link href="https://news.ycombinator.com/item?id=46914159"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46914159">463 points</span> by <a href="user?id=ostacke" class="hnuser">ostacke</a> <span class="age" title="2026-02-06T15:40:42 1770392442"><a href="item?id=46914159">4 days ago</a></span> <span id="unv_46914159"></span> | <a href="item?id=46914159">115&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sheldonbrown.com/">Sheldon Brown's Bicycle Technical Info</a><span class="sitebit comhead"> (<a href="from?site=sheldonbrown.com"><span class="sitestr">sheldonbrown.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI fatigue is real and nobody talks about it (siddhantkhare.com)]]></title>
+        <id>link-12478a0870a6bfd3c15812ece6619551</id>
+        <link href="https://news.ycombinator.com/item?id=46934404"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46934404">457 points</span> by <a href="user?id=sidk24" class="hnuser">sidk24</a> <span class="age" title="2026-02-08T14:19:32 1770560372"><a href="item?id=46934404">3 days ago</a></span> <span id="unv_46934404"></span> | <a href="item?id=46934404">314&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://siddhantkhare.com/writing/ai-fatigue-is-real">AI fatigue is real and nobody talks about it</a><span class="sitebit comhead"> (<a href="from?site=siddhantkhare.com"><span class="sitestr">siddhantkhare.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vocal Guide – belt sing without killing yourself (jesperordrup.github.io)]]></title>
+        <id>link-6336599178e6a69bd9f43d09d3e49f24</id>
+        <link href="https://news.ycombinator.com/item?id=46922049"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46922049">429 points</span> by <a href="user?id=jesperordrup" class="hnuser">jesperordrup</a> <span class="age" title="2026-02-07T07:37:03 1770449823"><a href="item?id=46922049">4 days ago</a></span> <span id="unv_46922049"></span> | <a href="item?id=46922049">135&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jesperordrup.github.io/vocal-guide/">Vocal Guide – belt sing without killing yourself</a><span class="sitebit comhead"> (<a href="from?site=jesperordrup.github.io"><span class="sitestr">jesperordrup.github.io</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoNotNotify is now Open Source (donotnotify.com)]]></title>
+        <id>link-d516b5a156095e38ecbd4f2ba836c826</id>
+        <link href="https://news.ycombinator.com/item?id=46932192"/>
+        <updated>2026-02-11T05:27:28.079Z</updated>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46932192">415 points</span> by <a href="user?id=awaaz" class="hnuser">awaaz</a> <span class="age" title="2026-02-08T07:39:49 1770536389"><a href="item?id=46932192">3 days ago</a></span> <span id="unv_46932192"></span> | <a href="item?id=46932192">48&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://donotnotify.com/opensource.html">DoNotNotify is now Open Source</a><span class="sitebit comhead"> (<a href="from?site=donotnotify.com"><span class="sitestr">donotnotify.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
