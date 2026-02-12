@@ -4,6 +4,13 @@
 	"favicon": "https://www.techpowerup.com/review/favicon.ico",
 	"elements": [
 		{
+			"id": "link-a5b1ebe7e7ff090e25eb99237aa0d53e",
+			"title": "MSI GeForce RTX 5090 Lightning Z Review - Up to 1000 W",
+			"link": "https://www.techpowerup.com/review/msi-geforce-rtx-5090-lightning-z/",
+			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/msi-geforce-rtx-5090-lightning-z/\">MSI GeForce RTX 5090 Lightning Z Review - Up to 1000 W</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/msi-geforce-rtx-5090-lightning-z/\">\n\t\t\t<img alt=\"MSI GeForce RTX 5090 Lightning Z\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/msi-geforce-rtx-5090-lightning-z/images/small@1x.png\" srcset=\"/review/msi-geforce-rtx-5090-lightning-z/images/small@1x.png 100w, /review/msi-geforce-rtx-5090-lightning-z/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe MSI GeForce RTX 5090 Lightning Z pushes the boundaries of gaming performance, achieving 10% higher performance than the NVIDIA Founders Edition, this is what we'd expect from a hypothetical RTX 5090 Ti. Cooling performance is outstanding as well, surpassing any other RTX 5090 we've tested.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2026-02-12T14:00:27+00:00\">Feb 12th, 2026</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
+			"retrieved": 1770907710711
+		},
+		{
 			"id": "link-9287f85b2dbfbdbbd131fe99172402d3",
 			"title": "AMD AI Bundle Review",
 			"link": "https://www.techpowerup.com/review/amd-ai-bundle/",
@@ -169,13 +176,6 @@
 			"title": "ASRock Radeon RX 9070 Steel Legend OC Review",
 			"link": "https://www.techpowerup.com/review/asrock-radeon-rx-9070-steel-legend-oc/",
 			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/asrock-radeon-rx-9070-steel-legend-oc/\">ASRock Radeon RX 9070 Steel Legend OC Review</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/asrock-radeon-rx-9070-steel-legend-oc/\">\n\t\t\t<img alt=\"ASRock Radeon RX 9070 Steel Legend OC\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/asrock-radeon-rx-9070-steel-legend-oc/images/small@1x.png\" srcset=\"/review/asrock-radeon-rx-9070-steel-legend-oc/images/small@1x.png 100w, /review/asrock-radeon-rx-9070-steel-legend-oc/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe ASRock Radeon RX 9070 Steel Legend OC is a factory-overclocked custom design model with a white color theme. It comes with excellent RGB lighting and a cooling solution that's incredibly quiet. Testing in our review confirms that this is the card that you want for a low noise gaming experience.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2025-05-06T16:20:18+00:00\">May 6th, 2025</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
-			"retrieved": 1770879759277
-		},
-		{
-			"id": "link-aa99a80df8372f534df04069985230f1",
-			"title": "ASUS Radeon RX 9070 XT TUF OC Review",
-			"link": "https://www.techpowerup.com/review/asus-radeon-rx-9070-xt-tuf-oc/",
-			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/asus-radeon-rx-9070-xt-tuf-oc/\">ASUS Radeon RX 9070 XT TUF OC Review</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/asus-radeon-rx-9070-xt-tuf-oc/\">\n\t\t\t<img alt=\"ASUS Radeon RX 9070 XT TUF OC\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/asus-radeon-rx-9070-xt-tuf-oc/images/small@1x.png\" srcset=\"/review/asus-radeon-rx-9070-xt-tuf-oc/images/small@1x.png 100w, /review/asus-radeon-rx-9070-xt-tuf-oc/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe ASUS Radeon RX 9070 XT TUF OC is the company's flagship model. It comes with a thick, metal cooler frame that looks fantastic. Our testing confirms, that this is the most powerful cooler of all the cards tested so far, and noise levels with the quiet BIOS are excellent, too.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2025-05-01T15:07:00+00:00\">May 1st, 2025</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
 			"retrieved": 1770879759277
 		}
 	]
