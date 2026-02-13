@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-02-13T16:49:54.514Z</updated>
+    <updated>2026-02-13T18:53:23.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
+        <title type="html"><![CDATA[New generation AI dictation device: Comulytic Note Pro review]]></title>
+        <id>link-c22f80a5c31d304f71520ea98da1cbc1</id>
+        <link href="https://www.notebookcheck.net/Comulytic-Note-Pro-review-An-AI-dictation-device-with-a-lot-of-additional-features.1226283.0.html"/>
+        <updated>2026-02-13T18:51:37.005Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Comulyte_Note_Pro-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Comulyte_Note_Pro-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Comulyte_Note_Pro-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Comulyte_Note_Pro-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Comulyte_Note_Pro-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Comulyte_Note_Pro-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/9/csm_Comulyte_Note_Pro_d57c56672a.jpg" loading="lazy" alt="To match the new iPhone, the AI recorder is also available in orange."></picture><div class="intro_featured_bar_title">New generation AI dictation device: Comulytic Note Pro review</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intel Core Ultra 5 w/ Arc B370 initial benchmarks]]></title>
-        <id>link-479e1a6cce8503f4988774315bce2a5f</id>
-        <link href="https://www.notebookcheck.net/Intel-Core-Ultra-5-338H-Arc-B370-Benchmarks-Almost-as-fast-as-the-Acr-B390.1225433.0.html"/>
-        <updated>2026-02-13T16:48:16.414Z</updated>
+        <id>link-bce7be7a64b59420069e12b3c87e9441</id>
+        <link href="https://www.notebookcheck.net/Intel-Core-Ultra-5-338H-Arc-B370-Benchmarks-Almost-as-fast-as-the-Arc-B390.1225433.0.html"/>
+        <updated>2026-02-13T18:51:37.005Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/7/csm_b390_teaser_5ab31e13ca.png" loading="lazy" alt="Intel Core Ultra 5 338H w/ Arc B370"></picture><div class="intro_featured_bar_title">Intel Core Ultra 5 w/ Arc B370 initial benchmarks</div>]]></content>
     </entry>
     <entry>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Unbloated-Alternatives-to-NitroSense-PredatorSense-Why-Acer-users-are-left-behind-Part-3.1223457.0.html"/>
         <updated>2026-02-10T13:15:33.464Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/4/csm_Unbloated-Teil-3_c06d43452b.jpg" loading="lazy" alt="Browser windows of SpeedFan, Fan Control, and Notebook FanControl alongside the NitroSense app"></picture><div class="intro_featured_bar_title">Unbloated: Alternatives to NitroSense &amp; PredatorSense - Part 3</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus Zenbook S16 review - Now with Ryzen 400]]></title>
-        <id>link-b1daa706c7e97169ec7edc6aa1f7d849</id>
-        <link href="https://www.notebookcheck.net/The-perfect-everyday-laptop-with-AMD-Ryzen-400-Asus-Zenbook-S16-OLED-review.1221965.0.html"/>
-        <updated>2026-02-09T22:36:22.439Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/1/csm_zenbook_s16_ryzen_465_case_05_88f65edcdd.jpg" loading="lazy" alt="The perfect everyday laptop with AMD Ryzen 400 - Asus Zenbook S16 OLED review"></picture><div class="intro_featured_bar_title">Asus Zenbook S16 review - Now with Ryzen 400</div>]]></content>
     </entry>
 </feed>
