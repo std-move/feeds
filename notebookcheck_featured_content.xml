@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-02-13T14:42:37.955Z</updated>
+    <updated>2026-02-13T16:49:54.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Intel Core Ultra 5 w/ Arc B370 initial benchmarks]]></title>
+        <id>link-479e1a6cce8503f4988774315bce2a5f</id>
+        <link href="https://www.notebookcheck.net/Intel-Core-Ultra-5-338H-Arc-B370-Benchmarks-Almost-as-fast-as-the-Acr-B390.1225433.0.html"/>
+        <updated>2026-02-13T16:48:16.414Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/7/csm_b390_teaser_5ab31e13ca.png" loading="lazy" alt="Intel Core Ultra 5 338H w/ Arc B370"></picture><div class="intro_featured_bar_title">Intel Core Ultra 5 w/ Arc B370 initial benchmarks</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unbloated Network: Replacing provider routers with OpenWRT (part 1)]]></title>
         <id>link-18002aae1d87a0bb84ecaf83dfea1f6c</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/The-perfect-everyday-laptop-with-AMD-Ryzen-400-Asus-Zenbook-S16-OLED-review.1221965.0.html"/>
         <updated>2026-02-09T22:36:22.439Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S16_UM5606GA/zenbook_s16_ryzen_465_case_05-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/1/csm_zenbook_s16_ryzen_465_case_05_88f65edcdd.jpg" loading="lazy" alt="The perfect everyday laptop with AMD Ryzen 400 - Asus Zenbook S16 OLED review"></picture><div class="intro_featured_bar_title">Asus Zenbook S16 review - Now with Ryzen 400</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorola Moto G57 Power: an endurance runner]]></title>
-        <id>link-a1aac776b2a96262aec13e49ef192a4f</id>
-        <link href="https://www.notebookcheck.net/Huge-battery-and-sleek-design-Is-that-still-enough-against-Xiaomi-and-rivals-Motorola-Moto-G57-Power-review.1221966.0.html"/>
-        <updated>2026-02-09T19:12:41.678Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/e/csm_IMG_20260205_085052_bca53bde45.jpg" loading="lazy" alt="Motorola Moto G57 Power review"></picture><div class="intro_featured_bar_title">Motorola Moto G57 Power: an endurance runner</div>]]></content>
     </entry>
 </feed>
