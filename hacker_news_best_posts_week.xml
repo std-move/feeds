@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-13T05:23:08.543Z</updated>
+    <updated>2026-02-13T07:01:38.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-d448002f80aa2678ebc65776e4e2c05a</id>
         <link href="https://news.ycombinator.com/item?id=46990729"/>
         <updated>2026-02-12T19:03:27.211Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46990729">1600 points</span> by <a href="user?id=scottshambaugh" class="hnuser">scottshambaugh</a> <span class="age" title="2026-02-12T16:23:24 1770913404"><a href="item?id=46990729">12 hours ago</a></span> <span id="unv_46990729"></span> | <a href="item?id=46990729">660&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/">An AI agent published a hit piece on me</a><span class="sitebit comhead"> (<a href="from?site=theshamblog.com"><span class="sitestr">theshamblog.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46990729">1665 points</span> by <a href="user?id=scottshambaugh" class="hnuser">scottshambaugh</a> <span class="age" title="2026-02-12T16:23:24 1770913404"><a href="item?id=46990729">14 hours ago</a></span> <span id="unv_46990729"></span> | <a href="item?id=46990729">694&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/">An AI agent published a hit piece on me</a><span class="sitebit comhead"> (<a href="from?site=theshamblog.com"><span class="sitestr">theshamblog.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Singularity will occur on a Tuesday (campedersen.com)]]></title>
@@ -45,7 +45,7 @@
         <id>link-fdd56414f452f2069c2c4a0a0d2adee6</id>
         <link href="https://news.ycombinator.com/item?id=46978710"/>
         <updated>2026-02-11T22:29:50.338Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46978710">1049 points</span> by <a href="user?id=WXLCKNO" class="hnuser">WXLCKNO</a> <span class="age" title="2026-02-11T18:23:39 1770834219"><a href="item?id=46978710">1 day ago</a></span> <span id="unv_46978710"></span> | <a href="item?id=46978710">678&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/">Claude Code is being dumbed down?</a><span class="sitebit comhead"> (<a href="from?site=symmetrybreak.ing"><span class="sitestr">symmetrybreak.ing</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46978710">1051 points</span> by <a href="user?id=WXLCKNO" class="hnuser">WXLCKNO</a> <span class="age" title="2026-02-11T18:23:39 1770834219"><a href="item?id=46978710">1 day ago</a></span> <span id="unv_46978710"></span> | <a href="item?id=46978710">678&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/">Claude Code is being dumbed down?</a><span class="sitebit comhead"> (<a href="from?site=symmetrybreak.ing"><span class="sitestr">symmetrybreak.ing</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Warcraft III Peon Voice Notifications for Claude Code (github.com/tonyyont)]]></title>
@@ -59,21 +59,21 @@
         <id>link-a704c82667acbd3d3071d848fbd51762</id>
         <link href="https://news.ycombinator.com/item?id=46982421"/>
         <updated>2026-02-12T05:25:11.676Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46982421">930 points</span> by <a href="user?id=JustSkyfall" class="hnuser">JustSkyfall</a> <span class="age" title="2026-02-11T22:56:41 1770850601"><a href="item?id=46982421">1 day ago</a></span> <span id="unv_46982421"></span> | <a href="item?id=46982421">443&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://age-verifier.kibty.town/">Discord/Twitch/Snapchat age verification bypass</a><span class="sitebit comhead"> (<a href="from?site=kibty.town"><span class="sitestr">kibty.town</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46982421">933 points</span> by <a href="user?id=JustSkyfall" class="hnuser">JustSkyfall</a> <span class="age" title="2026-02-11T22:56:41 1770850601"><a href="item?id=46982421">1 day ago</a></span> <span id="unv_46982421"></span> | <a href="item?id=46982421">444&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://age-verifier.kibty.town/">Discord/Twitch/Snapchat age verification bypass</a><span class="sitebit comhead"> (<a href="from?site=kibty.town"><span class="sitestr">kibty.town</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI agent opens a PR write a blogpost to shames the maintainer who closes it (github.com/matplotlib)]]></title>
         <id>link-c22308752b6bbf1e748f87ccc0842c35</id>
         <link href="https://news.ycombinator.com/item?id=46987559"/>
         <updated>2026-02-12T14:48:30.711Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46987559">874 points</span> by <a href="user?id=wrxd" class="hnuser">wrxd</a> <span class="age" title="2026-02-12T11:46:01 1770896761"><a href="item?id=46987559">17 hours ago</a></span> <span id="unv_46987559"></span> | <a href="item?id=46987559">685&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/matplotlib/matplotlib/pull/31132">AI agent opens a PR write a blogpost to shames the maintainer who closes it</a><span class="sitebit comhead"> (<a href="from?site=github.com/matplotlib"><span class="sitestr">github.com/matplotlib</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46987559">879 points</span> by <a href="user?id=wrxd" class="hnuser">wrxd</a> <span class="age" title="2026-02-12T11:46:01 1770896761"><a href="item?id=46987559">19 hours ago</a></span> <span id="unv_46987559"></span> | <a href="item?id=46987559">688&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/matplotlib/matplotlib/pull/31132">AI agent opens a PR write a blogpost to shames the maintainer who closes it</a><span class="sitebit comhead"> (<a href="from?site=github.com/matplotlib"><span class="sitestr">github.com/matplotlib</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I started programming when I was 7. I'm 50 now and the thing I loved has changed (jamesdrandall.com)]]></title>
         <id>link-7a26ada8e52d3ed58e9202e4a28235b2</id>
         <link href="https://news.ycombinator.com/item?id=46960675"/>
         <updated>2026-02-10T22:40:04.954Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46960675">822 points</span> by <a href="user?id=jamesrandall" class="hnuser">jamesrandall</a> <span class="age" title="2026-02-10T15:08:36 1770736116"><a href="item?id=46960675">2 days ago</a></span> <span id="unv_46960675"></span> | <a href="item?id=46960675">665&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/">I started programming when I was 7. I'm 50 now and the thing I loved has changed</a><span class="sitebit comhead"> (<a href="from?site=jamesdrandall.com"><span class="sitestr">jamesdrandall.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46960675">823 points</span> by <a href="user?id=jamesrandall" class="hnuser">jamesrandall</a> <span class="age" title="2026-02-10T15:08:36 1770736116"><a href="item?id=46960675">2 days ago</a></span> <span id="unv_46960675"></span> | <a href="item?id=46960675">666&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/">I started programming when I was 7. I'm 50 now and the thing I loved has changed</a><span class="sitebit comhead"> (<a href="from?site=jamesdrandall.com"><span class="sitestr">jamesdrandall.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[We mourn our craft (nolanlawson.com)]]></title>
@@ -101,7 +101,7 @@
         <id>link-73d62df5b224f6115fed7c650fcd6225</id>
         <link href="https://news.ycombinator.com/item?id=46971516"/>
         <updated>2026-02-11T13:11:47.805Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46971516">797 points</span> by <a href="user?id=riffraff" class="hnuser">riffraff</a> <span class="age" title="2026-02-11T06:15:33 1770790533"><a href="item?id=46971516">1 day ago</a></span> <span id="unv_46971516"></span> | <a href="item?id=46971516">509&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cve.org/CVERecord?id=CVE-2026-20841">Windows Notepad App Remote Code Execution Vulnerability</a><span class="sitebit comhead"> (<a href="from?site=cve.org"><span class="sitestr">cve.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46971516">798 points</span> by <a href="user?id=riffraff" class="hnuser">riffraff</a> <span class="age" title="2026-02-11T06:15:33 1770790533"><a href="item?id=46971516">2 days ago</a></span> <span id="unv_46971516"></span> | <a href="item?id=46971516">509&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cve.org/CVERecord?id=CVE-2026-20841">Windows Notepad App Remote Code Execution Vulnerability</a><span class="sitebit comhead"> (<a href="from?site=cve.org"><span class="sitestr">cve.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number (theintercept.com)]]></title>
@@ -115,7 +115,7 @@
         <id>link-2f7268bbbf575752492640346debdd6b</id>
         <link href="https://news.ycombinator.com/item?id=46991240"/>
         <updated>2026-02-12T22:33:26.764Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46991240">743 points</span> by <a href="user?id=tosh" class="hnuser">tosh</a> <span class="age" title="2026-02-12T16:55:50 1770915350"><a href="item?id=46991240">12 hours ago</a></span> <span id="unv_46991240"></span> | <a href="item?id=46991240">469&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/">Gemini 3 Deep Think</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46991240">788 points</span> by <a href="user?id=tosh" class="hnuser">tosh</a> <span class="age" title="2026-02-12T16:55:50 1770915350"><a href="item?id=46991240">14 hours ago</a></span> <span id="unv_46991240"></span> | <a href="item?id=46991240">498&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/">Gemini 3 Deep Think</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Discord Alternatives, Ranked (taggart-tech.com)]]></title>
@@ -125,32 +125,32 @@
         <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46949564">668 points</span> by <a href="user?id=pseudalopex" class="hnuser">pseudalopex</a> <span class="age" title="2026-02-09T19:15:14 1770664514"><a href="item?id=46949564">3 days ago</a></span> <span id="unv_46949564"></span> | <a href="item?id=46949564">469&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://taggart-tech.com/discord-alternatives/">Discord Alternatives, Ranked</a><span class="sitebit comhead"> (<a href="from?site=taggart-tech.com"><span class="sitestr">taggart-tech.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance (theverge.com)]]></title>
-        <id>link-fc6ceb26e067897815b062bd7d7ec896</id>
-        <link href="https://news.ycombinator.com/item?id=46978966"/>
-        <updated>2026-02-12T02:13:08.649Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46978966">655 points</span> by <a href="user?id=jedberg" class="hnuser">jedberg</a> <span class="age" title="2026-02-11T18:43:01 1770835381"><a href="item?id=46978966">1 day ago</a></span> <span id="unv_46978966"></span> | <a href="item?id=46978966">374&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash">Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT‑5.3‑Codex‑Spark (openai.com)]]></title>
         <id>link-0df4994ed1d894180118d7cfded1aa3b</id>
         <link href="https://news.ycombinator.com/item?id=46992553"/>
         <updated>2026-02-13T02:22:47.665Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46992553">621 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-12T18:06:09 1770919569"><a href="item?id=46992553">11 hours ago</a></span> <span id="unv_46992553"></span> | <a href="item?id=46992553">252&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex-spark/">GPT‑5.3‑Codex‑Spark</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46992553">665 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-02-12T18:06:09 1770919569"><a href="item?id=46992553">12 hours ago</a></span> <span id="unv_46992553"></span> | <a href="item?id=46992553">269&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-3-codex-spark/">GPT‑5.3‑Codex‑Spark</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ai;dr (0xsid.com)]]></title>
-        <id>link-5935ad87367a045e6c412d0518c8c7f0</id>
-        <link href="https://news.ycombinator.com/item?id=46991394"/>
-        <updated>2026-02-13T02:22:47.665Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46991394">616 points</span> by <a href="user?id=ssiddharth" class="hnuser">ssiddharth</a> <span class="age" title="2026-02-12T17:03:30 1770915810"><a href="item?id=46991394">12 hours ago</a></span> <span id="unv_46991394"></span> | <a href="item?id=46991394">244&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.0xsid.com/blog/aidr">ai;dr</a><span class="sitebit comhead"> (<a href="from?site=0xsid.com"><span class="sitestr">0xsid.com</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance (theverge.com)]]></title>
+        <id>link-fc6ceb26e067897815b062bd7d7ec896</id>
+        <link href="https://news.ycombinator.com/item?id=46978966"/>
+        <updated>2026-02-12T02:13:08.649Z</updated>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46978966">655 points</span> by <a href="user?id=jedberg" class="hnuser">jedberg</a> <span class="age" title="2026-02-11T18:43:01 1770835381"><a href="item?id=46978966">1 day ago</a></span> <span id="unv_46978966"></span> | <a href="item?id=46978966">375&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash">Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed (can.ac)]]></title>
         <id>link-98b7b8325985dc9ef582bfa6248e109d</id>
         <link href="https://news.ycombinator.com/item?id=46988596"/>
         <updated>2026-02-12T22:33:26.764Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46988596">609 points</span> by <a href="user?id=kachapopopow" class="hnuser">kachapopopow</a> <span class="age" title="2026-02-12T13:30:20 1770903020"><a href="item?id=46988596">15 hours ago</a></span> <span id="unv_46988596"></span> | <a href="item?id=46988596">236&nbsp;comments</a></span></td> — <span class="titleline"><a href="http://blog.can.ac/2026/02/12/the-harness-problem/">Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed</a><span class="sitebit comhead"> (<a href="from?site=can.ac"><span class="sitestr">can.ac</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46988596">630 points</span> by <a href="user?id=kachapopopow" class="hnuser">kachapopopow</a> <span class="age" title="2026-02-12T13:30:20 1770903020"><a href="item?id=46988596">17 hours ago</a></span> <span id="unv_46988596"></span> | <a href="item?id=46988596">240&nbsp;comments</a></span></td> — <span class="titleline"><a href="http://blog.can.ac/2026/02/12/the-harness-problem/">Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed</a><span class="sitebit comhead"> (<a href="from?site=can.ac"><span class="sitestr">can.ac</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ai;dr (0xsid.com)]]></title>
+        <id>link-5935ad87367a045e6c412d0518c8c7f0</id>
+        <link href="https://news.ycombinator.com/item?id=46991394"/>
+        <updated>2026-02-13T02:22:47.665Z</updated>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46991394">623 points</span> by <a href="user?id=ssiddharth" class="hnuser">ssiddharth</a> <span class="age" title="2026-02-12T17:03:30 1770915810"><a href="item?id=46991394">13 hours ago</a></span> <span id="unv_46991394"></span> | <a href="item?id=46991394">248&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.0xsid.com/blog/aidr">ai;dr</a><span class="sitebit comhead"> (<a href="from?site=0xsid.com"><span class="sitestr">0xsid.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ex-GitHub CEO launches a new developer platform for AI agents (entire.io)]]></title>
@@ -199,7 +199,7 @@
         <id>link-9600065f2217852deddd28cc08640a3d</id>
         <link href="https://news.ycombinator.com/item?id=46976911"/>
         <updated>2026-02-12T05:25:11.676Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46976911">522 points</span> by <a href="user?id=bsimpson" class="hnuser">bsimpson</a> <span class="age" title="2026-02-11T16:21:10 1770826870"><a href="item?id=46976911">1 day ago</a></span> <span id="unv_46976911"></span> | <a href="item?id=46976911">298&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fluorite.game/">Fluorite – A console-grade game engine fully integrated with Flutter</a><span class="sitebit comhead"> (<a href="from?site=fluorite.game"><span class="sitestr">fluorite.game</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46976911">522 points</span> by <a href="user?id=bsimpson" class="hnuser">bsimpson</a> <span class="age" title="2026-02-11T16:21:10 1770826870"><a href="item?id=46976911">1 day ago</a></span> <span id="unv_46976911"></span> | <a href="item?id=46976911">299&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fluorite.game/">Fluorite – A console-grade game engine fully integrated with Flutter</a><span class="sitebit comhead"> (<a href="from?site=fluorite.game"><span class="sitestr">fluorite.game</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub is down again (githubstatus.com)]]></title>
