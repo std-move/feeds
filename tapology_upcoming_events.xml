@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-02-13T20:41:16.172Z</updated>
+    <updated>2026-02-13T22:36:31.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137456-one-fight-night-40-buntan-vs-hemetsberger">ONE Fight Night 40</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-13 21:00:00 -0500">in 5 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-02-13 21:00:00 -0500">in 3 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/135739-oktagon-84">OKTAGON 84</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-14 11:00:00 -0500">in 19 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-02-14 11:00:00 -0500">in 17 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/138399-ajagba-vs-martin-zuffa-boxing-2">Zuffa Boxing 3</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-15 17:00:00 -0500">in 2 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-02-15 17:00:00 -0500">in 1 day</abbr>
 </td>]]></content>
     </entry>
     <entry>
