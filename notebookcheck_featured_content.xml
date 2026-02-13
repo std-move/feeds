@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-02-13T10:42:00.964Z</updated>
+    <updated>2026-02-13T13:02:57.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Unbloated Network: Replacing provider routers with OpenWRT (part 1)]]></title>
+        <id>link-18002aae1d87a0bb84ecaf83dfea1f6c</id>
+        <link href="https://www.notebookcheck.net/Unbloated-network-Replacing-provider-routers-with-OpenWRT-project-overview-part-1.1225410.0.html"/>
+        <updated>2026-02-13T13:01:02.233Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/4/csm_Unbloated-Network_f978f66133.png" loading="lazy" alt="Provider router vs. OpenWRT network"></picture><div class="intro_featured_bar_title">Unbloated Network: Replacing provider routers with OpenWRT (part 1)</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XMG Apex 17 review: RTX 5060 laptop with Ryzen 9 9955HX even outruns some RTX 5070 rivals]]></title>
+        <id>link-33f5b9d4b3e67ba5a62ca5eefa1a9538</id>
+        <link href="https://www.notebookcheck.net/XMG-Apex-17-review-RTX-5060-laptop-with-Ryzen-9-9955HX-even-outruns-some-RTX-5070-rivals.1225941.0.html"/>
+        <updated>2026-02-13T13:01:02.233Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/1/csm_title-1_814b87f6b1.jpg" loading="lazy" alt="XMG Apex 17 M25 on the desk"></picture><div class="intro_featured_bar_title">XMG Apex 17 review: RTX 5060 laptop with Ryzen 9 9955HX even outruns some RTX 5070 rivals</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Affordable entry-level gaming: Acer Nitro V 15 in test]]></title>
         <id>link-5b0a2028d32df2fac2ceedcd92a295b9</id>
@@ -39,19 +53,5 @@
         <link href="https://www.notebookcheck.net/Huge-battery-and-sleek-design-Is-that-still-enough-against-Xiaomi-and-rivals-Motorola-Moto-G57-Power-review.1221966.0.html"/>
         <updated>2026-02-09T19:12:41.678Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G57_Power/IMG_20260205_085052-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/e/csm_IMG_20260205_085052_bca53bde45.jpg" loading="lazy" alt="Motorola Moto G57 Power review"></picture><div class="intro_featured_bar_title">Motorola Moto G57 Power: an endurance runner</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AceFast 6-in-1 80 W GaN charging station review]]></title>
-        <id>link-b810d16a1ee498e5c3e545ba68519e6d</id>
-        <link href="https://www.notebookcheck.net/AceFast-6-in-1-80-W-GaN-charging-station-review-The-coolest-wireless-and-wired-charging-station-with-a-small-footprint.1221313.0.html"/>
-        <updated>2026-02-08T14:28:42.931Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/AceFast-6-in-1-80-W-charging-station-teaser83-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/AceFast-6-in-1-80-W-charging-station-teaser83-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AceFast-6-in-1-80-W-charging-station-teaser83-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/AceFast-6-in-1-80-W-charging-station-teaser83-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AceFast-6-in-1-80-W-charging-station-teaser83-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AceFast-6-in-1-80-W-charging-station-teaser83-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/2/csm_AceFast-6-in-1-80-W-charging-station-teaser83_2bf8feeae2.jpg" loading="lazy" alt="AceFast 6-in-1 80 W GaN charging station review: The coolest wireless and wired charging station with a small footprint"></picture><div class="intro_featured_bar_title">AceFast 6-in-1 80 W GaN charging station review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dell XPS 14 2026 review: An evolution in all the right ways]]></title>
-        <id>link-93fd541a9229ab86a53ad00b44a9ab7e</id>
-        <link href="https://www.notebookcheck.net/Dell-XPS-14-2026-review-Fully-reborn-with-Intel-Panther-Lake-X7.1218670.0.html"/>
-        <updated>2026-02-08T05:23:41.771Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_X7_358H/xps14feature-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_X7_358H/xps14feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_X7_358H/xps14feature-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_X7_358H/xps14feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_X7_358H/xps14feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_X7_358H/xps14feature-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/a/csm_xps14feature_d73bf3f9e1.jpg" loading="lazy" alt="Dell XPS 14 2026 review: Fully reborn with Intel Panther Lake X7"></picture><div class="intro_featured_bar_title">Dell XPS 14 2026 review: An evolution in all the right ways</div>]]></content>
     </entry>
 </feed>

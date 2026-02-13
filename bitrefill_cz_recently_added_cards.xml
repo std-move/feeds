@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-02-13T10:42:00.947Z</updated>
+    <updated>2026-02-13T13:02:57.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -108,7 +108,7 @@
         <id>link-0136c97f969773bc358a5afe41efa368</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Kinguin Games Store EUR International — €5 - €100]]></content>
+        <content type="html"><![CDATA[Kinguin Games Store EUR International — €5 - €250]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Yo International]]></title>
@@ -172,6 +172,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Minecraft Java International — $29.99]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Nitro USD]]></title>
+        <id>link-3b16b58e08b1cbee08b2a8185496decf</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/discord-nitro-us/"/>
+        <updated>2026-02-13T13:01:02.233Z</updated>
+        <content type="html"><![CDATA[Discord Nitro USD — 12 Months]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/"/>
         <updated>2026-01-17T08:27:22.688Z</updated>
         <content type="html"><![CDATA[H&amp;M — 100 CZK - 12500 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TripGift]]></title>
-        <id>link-a928540e7ad2f73f0ddbe8640da3eeee</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
-        <updated>2026-02-10T13:15:33.464Z</updated>
-        <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
