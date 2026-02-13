@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-02-13T02:24:46.738Z</updated>
+    <updated>2026-02-13T05:23:08.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>link-0ffbe9a04f555915c84ee509ba72164c</id>
         <link href="https://en.wikipedia.org/wiki/Kent_Kammerer"/>
         <updated>2026-02-13T02:22:47.665Z</updated>
-        <content type="html"><![CDATA[... that to teach high school photography, <b><a href="/wiki/Kent_Kammerer" title="Kent Kammerer">Kent Kammerer</a></b> took students on trips to the North Cascades and Olympic Peninsula in a home-built camper?]]></content>
+        <content type="html"><![CDATA[... that to teach high school photography, <b><a href="/wiki/Kent_Kammerer" title="Kent Kammerer">Kent Kammerer</a></b> took students on trips to the <a href="/wiki/North_Cascades" title="North Cascades">North Cascades</a> and <a href="/wiki/Olympic_Peninsula" title="Olympic Peninsula">Olympic Peninsula</a> in a home-built camper?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oblivion]]></title>

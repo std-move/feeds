@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/favicon.ico",
 	"elements": [
 		{
+			"id": "link-922e197c3f9215622e599656a805ff3e",
+			"title": "How to Create UI in Java with Vaadin: Security Configuration, Layouts, Grid, Filter Search",
+			"link": "https://bell-sw.com/blog/how-to-create-ui-in-java-with-vaadin-security-configuration-layouts-grid-filter-search/",
+			"contents": "Learn how to build modern web apps with rich UI completely in Java with Vaadin. This tutorial explores grids, layouts, security, filters",
+			"retrieved": 1770960079337
+		},
+		{
 			"id": "link-9782eef1502b960b7004377e74f91c7e",
 			"title": "Liberica Native Image Kit 23.0.11, 23.1.10, and 25.0.2 builds are released",
 			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-11-23-1-10-and-25-0-2-builds-are-released/",
@@ -155,13 +162,6 @@
 			"title": "Creating Modern Desktop Apps with JavaFX and Spring Boot",
 			"link": "https://bell-sw.com/blog/creating-modern-desktop-apps-with-javafx-and-spring-boot/",
 			"contents": "Learn how to build modern desktop applications using JavaFX and Spring Boot. Step-by-step guide with practical examples, UI design tips, and backend integration.",
-			"retrieved": 1767777625776
-		},
-		{
-			"id": "link-10a52ae5cbd853fbcae26885a87d945a",
-			"title": "Liberica JDK 8u452, 11.0.27, 17.0.15, 21.0.7, and 24.0.1 builds are generally available",
-			"link": "https://bell-sw.com/blog/liberica-jdk-8u452-11-0-27-17-0-15-21-0-7-and-24-0-1-builds-are-generally-available/",
-			"contents": "Download Liberica JDK CPU versions 8, 11, 17, 21, and 24 with improved security.",
 			"retrieved": 1767777625776
 		}
 	]

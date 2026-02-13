@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/</id>
     <title>The BellSoft Blog</title>
-    <updated>2026-02-13T02:24:46.712Z</updated>
+    <updated>2026-02-13T05:23:08.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to Create UI in Java with Vaadin: Security Configuration, Layouts, Grid, Filter Search]]></title>
+        <id>link-922e197c3f9215622e599656a805ff3e</id>
+        <link href="https://bell-sw.com/blog/how-to-create-ui-in-java-with-vaadin-security-configuration-layouts-grid-filter-search/"/>
+        <updated>2026-02-13T05:21:19.337Z</updated>
+        <content type="html"><![CDATA[Learn how to build modern web apps with rich UI completely in Java with Vaadin. This tutorial explores grids, layouts, security, filters]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liberica Native Image Kit 23.0.11, 23.1.10, and 25.0.2 builds are released]]></title>
         <id>link-9782eef1502b960b7004377e74f91c7e</id>
@@ -158,12 +165,5 @@
         <link href="https://bell-sw.com/blog/creating-modern-desktop-apps-with-javafx-and-spring-boot/"/>
         <updated>2026-01-07T09:20:25.776Z</updated>
         <content type="html"><![CDATA[Learn how to build modern desktop applications using JavaFX and Spring Boot. Step-by-step guide with practical examples, UI design tips, and backend integration.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica JDK 8u452, 11.0.27, 17.0.15, 21.0.7, and 24.0.1 builds are generally available]]></title>
-        <id>link-10a52ae5cbd853fbcae26885a87d945a</id>
-        <link href="https://bell-sw.com/blog/liberica-jdk-8u452-11-0-27-17-0-15-21-0-7-and-24-0-1-builds-are-generally-available/"/>
-        <updated>2026-01-07T09:20:25.776Z</updated>
-        <content type="html"><![CDATA[Download Liberica JDK CPU versions 8, 11, 17, 21, and 24 with improved security.]]></content>
     </entry>
 </feed>
