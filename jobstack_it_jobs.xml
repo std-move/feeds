@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-02-13T13:02:57.267Z</updated>
+    <updated>2026-02-13T14:42:37.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
-    <entry>
-        <title type="html"><![CDATA[Senior Test Analytik - bankovní prostředí, hybrid — až 120 000 Kč / měsíc]]></title>
-        <id>link-ad7e9061df57312ae7b9471d8fd74280</id>
-        <link href="https://www.jobstack.it/it-job/test-analytik/698b5b8ef3d15"/>
-        <updated>2026-02-11T10:52:06.461Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Test analytik</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																			</div>
-			
-							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-														</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Principal engineering s.r.o.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha 5</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 120 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Super příležitost pro Junior | Medior frontend Vue.js developera — až 90 000 Kč / měsíc]]></title>
         <id>link-233f849c95e5efc9c83a4656f827c5d6</id>
@@ -60,6 +32,94 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 90 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medior - Senior ASP.NET Core Developer | longterm project — až 165 000 Kč / měsíc]]></title>
+        <id>link-ba73b1971842b85f072a1a978372a61d</id>
+        <link href="https://www.jobstack.it/it-job/dot-net-developer/68a816e7d4a16"/>
+        <updated>2026-01-12T17:03:08.221Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">.NET developer</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+														</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>Connection Builders s.r.o.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha, Stodůlky</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 165 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React. TypeScript. GraphQL. A ty? — až 80 000 Kč / měsíc]]></title>
+        <id>link-8a9d0a8174f82fa98f63038dbc62af87</id>
+        <link href="https://www.jobstack.it/it-job/typescript-developer/680f7cb22ad24"/>
+        <updated>2026-02-13T14:40:41.763Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">TypeScript developer</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																			</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>speedlo s.r.o.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Hlaváčova 207, 530 02, Pardubice I-Zelené Předměstí</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 80 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Test Analytik - bankovní prostředí, hybrid — až 120 000 Kč / měsíc]]></title>
+        <id>link-ad7e9061df57312ae7b9471d8fd74280</id>
+        <link href="https://www.jobstack.it/it-job/test-analytik/698b5b8ef3d15"/>
+        <updated>2026-02-11T10:52:06.461Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Test analytik</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																			</div>
+			
+							<div class="jobposts-item_labels">
+																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+														</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>Principal engineering s.r.o.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha 5</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 120 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -149,36 +209,6 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 70 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medior - Senior ASP.NET Core Developer | longterm project — až 165 000 Kč / měsíc]]></title>
-        <id>link-ba73b1971842b85f072a1a978372a61d</id>
-        <link href="https://www.jobstack.it/it-job/dot-net-developer/68a816e7d4a16"/>
-        <updated>2026-01-12T17:03:08.221Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">.NET developer</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-														</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Connection Builders s.r.o.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha, Stodůlky</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 165 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -581,35 +611,6 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 95 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Tester s roční praxí - onsite, Praha — až 46 000 Kč / měsíc]]></title>
-        <id>link-3fca24ce62504c5a2243e3a198a0b75f</id>
-        <link href="https://www.jobstack.it/it-job/tester/69862b1b610c8"/>
-        <updated>2026-02-06T18:52:49.089Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Tester</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																			</div>
-			
-							<div class="jobposts-item_labels">
-											<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Junior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																			</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Principal engineering s.r.o.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha 5</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 46 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
