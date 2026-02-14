@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-02-14T12:52:06.918Z</updated>
+    <updated>2026-02-14T14:29:44.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Affordable 2 kWh power station: Aferiy P280 review]]></title>
+        <id>link-9834fd0021945cf19386e252ad080ec0</id>
+        <link href="https://www.notebookcheck.net/Affordable-2-kWh-power-station-with-2-800-W-and-UPS-Aferiy-P280-in-practical-test.1226801.0.html"/>
+        <updated>2026-02-14T14:27:49.176Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/e/csm_Aferiy-P280-Powerstation-Test55_bfeac8b698.jpg" loading="lazy" alt="Aferiy P280 Powerstation review"></picture><div class="intro_featured_bar_title">Affordable 2 kWh power station: Aferiy P280 review</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New generation AI dictation device: Comulytic Note Pro review]]></title>
         <id>link-c22f80a5c31d304f71520ea98da1cbc1</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Forget-the-iPhone-17-Pro-who-makes-best-pro-camera-phone.1225419.0.html"/>
         <updated>2026-02-12T14:48:30.711Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/d/csm_thumb4365_faead15114.jpg" loading="lazy" alt="Forget the iPhone 17 Pro? - who makes best &quot;pro&quot; camera phone?"></picture><div class="intro_featured_bar_title">▶ Forget the iPhone 17 Pro? - who makes best "pro" camera phone?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unbloated: Alternatives to NitroSense & PredatorSense - Part 3]]></title>
-        <id>link-bf179f2fca8377158bffb7e5271381a0</id>
-        <link href="https://www.notebookcheck.net/Unbloated-Alternatives-to-NitroSense-PredatorSense-Why-Acer-users-are-left-behind-Part-3.1223457.0.html"/>
-        <updated>2026-02-10T13:15:33.464Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Teil-3-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/4/csm_Unbloated-Teil-3_c06d43452b.jpg" loading="lazy" alt="Browser windows of SpeedFan, Fan Control, and Notebook FanControl alongside the NitroSense app"></picture><div class="intro_featured_bar_title">Unbloated: Alternatives to NitroSense &amp; PredatorSense - Part 3</div>]]></content>
     </entry>
 </feed>
