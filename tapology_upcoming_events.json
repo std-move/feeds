@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png",
 	"elements": [
 		{
-			"id": "link-4fe0b2e9616472f3f2f5960a130940e5",
-			"title": "OKTAGON 84 — 2026-02-14 11:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/135739-oktagon-84",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/135739-oktagon-84\">OKTAGON 84</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-14 11:00:00 -0500\">30 minutes ago</abbr>\n</td>",
-			"retrieved": 1769898240027
-		},
-		{
 			"id": "link-dd652b30ff31b922df3e6c027f2d0149",
 			"title": "Zuffa Boxing 3 — 2026-02-15 17:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/138399-ajagba-vs-martin-zuffa-boxing-2",
@@ -35,7 +28,7 @@
 			"id": "link-da7705f527486d158d66b259a786bac2",
 			"title": "KSW 115 — 2026-02-21 12:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/137484-ksw-115",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137484-ksw-115\">KSW 115</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-21 12:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137484-ksw-115\">KSW 115</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-21 12:00:00 -0500\">in 6 days</abbr>\n</td>",
 			"retrieved": 1770429705515
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/138813-lfa-227-do-nascimento-vs-kamikubo",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138813-lfa-227-do-nascimento-vs-kamikubo\">LFA 227</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-27 20:00:00 -0500\">in 1 week</abbr>\n</td>",
 			"retrieved": 1771045747860
+		},
+		{
+			"id": "link-744b2633d97e1a949ad87399e796600f",
+			"title": "UFC Fight Night — 2026-02-28 17:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/136702-ufc-fight-night",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136702-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-02-28 17:00:00 -0500\">in 2 weeks</abbr>\n</td>",
+			"retrieved": 1771094155458
 		}
 	]
 }
