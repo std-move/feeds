@@ -2,35 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-02-14T10:29:23.462Z</updated>
+    <updated>2026-02-14T12:52:06.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
     <entry>
-        <title type="html"><![CDATA[FULL STACK Developer (NODE.JS, Express.js) — až 95 000 Kč / měsíc]]></title>
-        <id>link-b6537a7d257b47c9171a59a8124c8b83</id>
-        <link href="https://www.jobstack.it/it-job/node-js-developer/691c475840ffc"/>
-        <updated>2026-02-08T16:32:20.996Z</updated>
+        <title type="html"><![CDATA[Medior - Senior ASP.NET Core Developer | longterm project — až 165 000 Kč / měsíc]]></title>
+        <id>link-ba73b1971842b85f072a1a978372a61d</id>
+        <link href="https://www.jobstack.it/it-job/dot-net-developer/68a816e7d4a16"/>
+        <updated>2026-01-12T17:03:08.221Z</updated>
         <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Node.js developer</span>
-				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">TypeScript developer</span>
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">.NET developer</span>
 				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																			</div>
+																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
+											</div>
 			
 							<div class="jobposts-item_labels">
 																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																			</div>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+														</div>
 						<div class="jobposts-item_labels">
 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>1. Web IT s.r.o.</span>
+						<span>Connection Builders s.r.o.</span>
 					</span>
 													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
+						<span>Praha, Stodůlky</span>
 					</span>
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
-						<span><b>až 95 000 Kč / měsíc</b></span>
+						<span><b>až 165 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full-stack Developer (Next.js/Node.js/GraphQL) pro Realingo — až 120 000 Kč / měsíc]]></title>
+        <id>link-80eabbcb1be9ad93b114eebf91c81e9c</id>
+        <link href="https://www.jobstack.it/it-job/full-stack-developer/6949120dcd3a8"/>
+        <updated>2026-02-09T17:29:10.430Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Full stack developer</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
+									</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>Hyponamíru</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Brno</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 120 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -65,32 +96,31 @@
 							</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Medior - Senior ASP.NET Core Developer | longterm project — až 165 000 Kč / měsíc]]></title>
-        <id>link-ba73b1971842b85f072a1a978372a61d</id>
-        <link href="https://www.jobstack.it/it-job/dot-net-developer/68a816e7d4a16"/>
-        <updated>2026-01-12T17:03:08.221Z</updated>
+        <title type="html"><![CDATA[FULL STACK Developer (NODE.JS, Express.js) — až 95 000 Kč / měsíc]]></title>
+        <id>link-b6537a7d257b47c9171a59a8124c8b83</id>
+        <link href="https://www.jobstack.it/it-job/node-js-developer/691c475840ffc"/>
+        <updated>2026-02-08T16:32:20.996Z</updated>
         <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">.NET developer</span>
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Node.js developer</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">TypeScript developer</span>
 				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
-											</div>
+																			</div>
 			
 							<div class="jobposts-item_labels">
 																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-														</div>
+																			</div>
 						<div class="jobposts-item_labels">
 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Connection Builders s.r.o.</span>
+						<span>1. Web IT s.r.o.</span>
 					</span>
 													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha, Stodůlky</span>
+						<span>Praha</span>
 					</span>
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
-						<span><b>až 165 000 Kč / měsíc</b></span>
+						<span><b>až 95 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -551,36 +581,6 @@
 												<i class="icon icon--salary-gray"></i>
 						<span><b>Navrhni si mzdu</b></span>
 											</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full-stack Developer (Next.js/Node.js/GraphQL) pro Realingo — až 120 000 Kč / měsíc]]></title>
-        <id>link-80eabbcb1be9ad93b114eebf91c81e9c</id>
-        <link href="https://www.jobstack.it/it-job/full-stack-developer/6949120dcd3a8"/>
-        <updated>2026-02-09T17:29:10.430Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Full stack developer</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Homeoffice</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
-									</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Hyponamíru</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Brno</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 120 000 Kč / měsíc</b></span>
-					</span>
 							</div>]]></content>
     </entry>
     <entry>
