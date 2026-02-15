@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-02-15T18:39:26.660Z</updated>
+    <updated>2026-02-15T20:30:08.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -227,7 +227,7 @@
         <id>link-44eb8e40b6d868fa627e6fda0347039d</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/blizzard-battle_net-eu/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Battle.net EU — €20 - €100]]></content>
+        <content type="html"><![CDATA[Battle.net EU — €50 - €100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eneba Games Store EUR]]></title>
