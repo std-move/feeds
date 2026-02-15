@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-5cd087e674bd91cb802f1467b523d1ef",
+			"title": "▶ Forget the iPhone 17 Pro? - who makes best \"pro\" camera phone?",
+			"link": "https://www.notebookcheck.net/Forget-the-iPhone-17-Pro-who-makes-best-pro-camera-phone.1225419.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4365-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/d/csm_thumb4365_faead15114.jpg\" loading=\"lazy\" alt=\"Forget the iPhone 17 Pro? - who makes best &quot;pro&quot; camera phone?\"></picture><div class=\"intro_featured_bar_title\">▶ Forget the iPhone 17 Pro? - who makes best \"pro\" camera phone?</div>",
+			"retrieved": 1771144468387
+		},
+		{
 			"id": "link-5a020ee1d939a959118020f5495dd3f2",
 			"title": "Dell XPS 14 Core Ultra 7 355 review: Panther Lake U-series debut",
 			"link": "https://www.notebookcheck.net/Dell-XPS-14-Core-Ultra-7-355-review-Still-great-but-not-nearly-as-special.1222645.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/XMG-Apex-17-review-RTX-5060-laptop-with-Ryzen-9-9955HX-even-outruns-some-RTX-5070-rivals.1225941.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Apex_17_M25/title-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/1/csm_title-1_814b87f6b1.jpg\" loading=\"lazy\" alt=\"XMG Apex 17 M25 on the desk\"></picture><div class=\"intro_featured_bar_title\">XMG Apex 17 review: RTX 5060 laptop with Ryzen 9 9955HX even outruns some RTX 5070 rivals</div>",
 			"retrieved": 1770987662233
-		},
-		{
-			"id": "link-5b0a2028d32df2fac2ceedcd92a295b9",
-			"title": "Affordable entry-level gaming: Acer Nitro V 15 in test",
-			"link": "https://www.notebookcheck.net/Affordable-gaming-entry-Acer-Nitro-V-15-doesn-t-impress-across-the-board.1220757.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Nitro_V_15_ANV15-52-50S2/feature_nitrov15-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Nitro_V_15_ANV15-52-50S2/feature_nitrov15-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Acer/Nitro_V_15_ANV15-52-50S2/feature_nitrov15-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Nitro_V_15_ANV15-52-50S2/feature_nitrov15-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Acer/Nitro_V_15_ANV15-52-50S2/feature_nitrov15-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Acer/Nitro_V_15_ANV15-52-50S2/feature_nitrov15-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/b/csm_feature_nitrov15_02d1abc361.jpg\" loading=\"lazy\" alt=\"Affordable gaming entry: Acer Nitro V 15 doesn't impress across the board\"></picture><div class=\"intro_featured_bar_title\">Affordable entry-level gaming: Acer Nitro V 15 in test</div>",
-			"retrieved": 1770935606764
 		}
 	]
 }
