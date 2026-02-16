@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-02-15T22:27:27.257Z</updated>
+    <updated>2026-02-16T02:13:03.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.71]]></title>
+        <id>title-fdf16f24a7536d17551af269601ae4fc</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-02-16T02:11:02.762Z</updated>
+        <content type="html"><![CDATA[Released Feb 15, 2026 - 351.09 KB — RYS Premium — Optional paid tier<br><br>And improvements:
+<ul><li>"Hide all Shorts" is now enabled by default</li><li>"Hide all but the first row" now works with YouTube's latest homepage layout</li><li>Sidebar ad panels are now hidden by default</li><li>Dark mode fixes and UI polish throughout</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.70]]></title>
         <id>title-77bb259f1f85eec68093866014cadb8c</id>
@@ -172,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released Jun 16, 2023 - 326.76 KB — - Added a button which reveals hidden suggestions<br> - Fixed VODs removal<br> - Reduced the empty space on the subs page<br> - Added an option to hide the extra tags (only show "all" and "related")<br> - Added an option to blur video thumbnails<br> - Added an option to hide a video’s description<br> - Fixed “reverse channel videos” make it only apply on the channel page]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.42]]></title>
-        <id>title-844df80b9c8107d5ce50365a2c752378</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released Jun 8, 2023 - 325.51 KB — Handle the updated subscriptions page]]></content>
     </entry>
 </feed>
