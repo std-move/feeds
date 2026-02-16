@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-959382679b03e2d14e9845aebec78702",
+			"title": "Prices & hands-on experience with the Samsung Galaxy Book6 series",
+			"link": "https://www.notebookcheck.net/Samsung-Galaxy-Book6-Series-Hands-On-All-models-prices-and-launch-date.1219896.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/aPic_Samsung_Galaxy_Book6_Pro-2064-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/1/csm_aPic_Samsung_Galaxy_Book6_Pro-2064_0836c2a61c.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy Book6 Series Hands-On: All models, prices, and launch date\"></picture><div class=\"intro_featured_bar_title\">Prices &amp; hands-on experience with the Samsung Galaxy Book6 series</div>",
+			"retrieved": 1771239090080
+		},
+		{
 			"id": "link-a1f71fd31aa7d335ef0e6be36e78a2d2",
 			"title": "Cheaper than a Redmi smartphone - Xiaomi Poco M8 Pro 5G review",
 			"link": "https://www.notebookcheck.net/This-mid-range-smartphone-often-makes-Samsung-Co-look-old-Xiaomi-Poco-M8-Pro-5G-review.1227137.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Intel-Core-Ultra-5-338H-Arc-B370-Benchmarks-Almost-as-fast-as-the-Arc-B390.1225433.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_Duo_UX8407AA/b390_teaser-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/7/csm_b390_teaser_5ab31e13ca.png\" loading=\"lazy\" alt=\"Intel Core Ultra 5 338H w/ Arc B370\"></picture><div class=\"intro_featured_bar_title\">Intel Core Ultra 5 w/ Arc B370 initial benchmarks</div>",
 			"retrieved": 1771008697005
-		},
-		{
-			"id": "link-18002aae1d87a0bb84ecaf83dfea1f6c",
-			"title": "Unbloated Network: Replacing provider routers with OpenWRT (part 1)",
-			"link": "https://www.notebookcheck.net/Unbloated-network-Replacing-provider-routers-with-OpenWRT-project-overview-part-1.1225410.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-Network-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/4/csm_Unbloated-Network_f978f66133.png\" loading=\"lazy\" alt=\"Provider router vs. OpenWRT network\"></picture><div class=\"intro_featured_bar_title\">Unbloated Network: Replacing provider routers with OpenWRT (part 1)</div>",
-			"retrieved": 1770987662233
 		}
 	]
 }
