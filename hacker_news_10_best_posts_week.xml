@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-16T16:45:49.549Z</updated>
+    <updated>2026-02-16T18:45:37.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,49 +17,49 @@
         <id>link-9522ad0d4679a2f17eab2cc5c9881ccf</id>
         <link href="https://news.ycombinator.com/item?id=47003064"/>
         <updated>2026-02-13T20:39:18.399Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47003064">1612 points</span> by <a href="user?id=ozzyphantom" class="hnuser">ozzyphantom</a> <span class="age" title="2026-02-13T14:21:01 1770992461"><a href="item?id=47003064">3 days ago</a></span> <span id="unv_47003064"></span> | <a href="item?id=47003064">782&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ios-countdown.win/">Fix the iOS keyboard before the timer hits zero or I'm switching back to&nbsp;Android</a><span class="sitebit comhead"> (<a href="from?site=ios-countdown.win"><span class="sitestr">ios-countdown.win</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47003064">1613 points</span> by <a href="user?id=ozzyphantom" class="hnuser">ozzyphantom</a> <span class="age" title="2026-02-13T14:21:01 1770992461"><a href="item?id=47003064">3 days ago</a></span> <span id="unv_47003064"></span> | <a href="item?id=47003064">782&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ios-countdown.win/">Fix the iOS keyboard before the timer hits zero or I'm switching back to&nbsp;Android</a><span class="sitebit comhead"> (<a href="from?site=ios-countdown.win"><span class="sitestr">ios-countdown.win</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I’m joining OpenAI (steipete.me)]]></title>
         <id>link-dfd56594c09bb1e427bc26128d73132b</id>
         <link href="https://news.ycombinator.com/item?id=47028013"/>
         <updated>2026-02-16T08:50:24.404Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47028013">1273 points</span> by <a href="user?id=mfiguiere" class="hnuser">mfiguiere</a> <span class="age" title="2026-02-15T21:54:15 1771192455"><a href="item?id=47028013">18 hours ago</a></span> <span id="unv_47028013"></span> | <a href="item?id=47028013">958&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://steipete.me/posts/2026/openclaw">I’m joining OpenAI</a><span class="sitebit comhead"> (<a href="from?site=steipete.me"><span class="sitestr">steipete.me</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU bans the destruction of unsold apparel, clothing, accessories and footwear (europa.eu)]]></title>
-        <id>link-a21f0d7276c423851f038d516f754bc1</id>
-        <link href="https://news.ycombinator.com/item?id=47025378"/>
-        <updated>2026-02-16T08:50:24.404Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47025378">1151 points</span> by <a href="user?id=giuliomagnifico" class="hnuser">giuliomagnifico</a> <span class="age" title="2026-02-15T17:10:18 1771175418"><a href="item?id=47025378">23 hours ago</a></span> <span id="unv_47025378"></span> | <a href="item?id=47025378">757&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en">EU bans the destruction of unsold apparel, clothing, accessories and footwear</a><span class="sitebit comhead"> (<a href="from?site=europa.eu"><span class="sitestr">europa.eu</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uBlock filter list to hide all YouTube Shorts (github.com/i5heu)]]></title>
-        <id>link-841e3c3e430a3795ae50566a8872adac</id>
-        <link href="https://news.ycombinator.com/item?id=47016443"/>
-        <updated>2026-02-15T10:27:31.800Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47016443">1147 points</span> by <a href="user?id=i5heu" class="hnuser">i5heu</a> <span class="age" title="2026-02-14T17:36:45 1771090605"><a href="item?id=47016443">1 day ago</a></span> <span id="unv_47016443"></span> | <a href="item?id=47016443">338&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/i5heu/ublock-hide-yt-shorts/">uBlock filter list to hide all YouTube Shorts</a><span class="sitebit comhead"> (<a href="from?site=github.com/i5heu"><span class="sitestr">github.com/i5heu</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code is being dumbed down? (symmetrybreak.ing)]]></title>
-        <id>link-fdd56414f452f2069c2c4a0a0d2adee6</id>
-        <link href="https://news.ycombinator.com/item?id=46978710"/>
-        <updated>2026-02-12T05:25:11.676Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46978710">1080 points</span> by <a href="user?id=WXLCKNO" class="hnuser">WXLCKNO</a> <span class="age" title="2026-02-11T18:23:39 1770834219"><a href="item?id=46978710">4 days ago</a></span> <span id="unv_46978710"></span> | <a href="item?id=46978710">699&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/">Claude Code is being dumbed down?</a><span class="sitebit comhead"> (<a href="from?site=symmetrybreak.ing"><span class="sitestr">symmetrybreak.ing</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3 Deep Think (blog.google)]]></title>
-        <id>link-2f7268bbbf575752492640346debdd6b</id>
-        <link href="https://news.ycombinator.com/item?id=46991240"/>
-        <updated>2026-02-13T08:42:58.950Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46991240">1076 points</span> by <a href="user?id=tosh" class="hnuser">tosh</a> <span class="age" title="2026-02-12T16:55:50 1770915350"><a href="item?id=46991240">3 days ago</a></span> <span id="unv_46991240"></span> | <a href="item?id=46991240">692&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/">Gemini 3 Deep Think</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47028013">1327 points</span> by <a href="user?id=mfiguiere" class="hnuser">mfiguiere</a> <span class="age" title="2026-02-15T21:54:15 1771192455"><a href="item?id=47028013">20 hours ago</a></span> <span id="unv_47028013"></span> | <a href="item?id=47028013">1003&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://steipete.me/posts/2026/openclaw">I’m joining OpenAI</a><span class="sitebit comhead"> (<a href="from?site=steipete.me"><span class="sitestr">steipete.me</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I want to wash my car. The car wash is 50 meters away. Should I walk or drive? (mastodon.world)]]></title>
         <id>link-a5ad109a4d5e2e141e81e97cf3ec0a52</id>
         <link href="https://news.ycombinator.com/item?id=47031580"/>
         <updated>2026-02-16T16:43:54.820Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47031580">1063 points</span> by <a href="user?id=novemp" class="hnuser">novemp</a> <span class="age" title="2026-02-16T06:31:48 1771223508"><a href="item?id=47031580">10 hours ago</a></span> <span id="unv_47031580"></span> | <a href="item?id=47031580">674&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.world/@knowmadd/116072773118828295">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a><span class="sitebit comhead"> (<a href="from?site=mastodon.world"><span class="sitestr">mastodon.world</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47031580">1208 points</span> by <a href="user?id=novemp" class="hnuser">novemp</a> <span class="age" title="2026-02-16T06:31:48 1771223508"><a href="item?id=47031580">12 hours ago</a></span> <span id="unv_47031580"></span> | <a href="item?id=47031580">747&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.world/@knowmadd/116072773118828295">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a><span class="sitebit comhead"> (<a href="from?site=mastodon.world"><span class="sitestr">mastodon.world</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU bans the destruction of unsold apparel, clothing, accessories and footwear (europa.eu)]]></title>
+        <id>link-a21f0d7276c423851f038d516f754bc1</id>
+        <link href="https://news.ycombinator.com/item?id=47025378"/>
+        <updated>2026-02-16T08:50:24.404Z</updated>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47025378">1165 points</span> by <a href="user?id=giuliomagnifico" class="hnuser">giuliomagnifico</a> <span class="age" title="2026-02-15T17:10:18 1771175418"><a href="item?id=47025378">1 day ago</a></span> <span id="unv_47025378"></span> | <a href="item?id=47025378">770&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en">EU bans the destruction of unsold apparel, clothing, accessories and footwear</a><span class="sitebit comhead"> (<a href="from?site=europa.eu"><span class="sitestr">europa.eu</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uBlock filter list to hide all YouTube Shorts (github.com/i5heu)]]></title>
+        <id>link-841e3c3e430a3795ae50566a8872adac</id>
+        <link href="https://news.ycombinator.com/item?id=47016443"/>
+        <updated>2026-02-15T10:27:31.800Z</updated>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47016443">1150 points</span> by <a href="user?id=i5heu" class="hnuser">i5heu</a> <span class="age" title="2026-02-14T17:36:45 1771090605"><a href="item?id=47016443">2 days ago</a></span> <span id="unv_47016443"></span> | <a href="item?id=47016443">338&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/i5heu/ublock-hide-yt-shorts/">uBlock filter list to hide all YouTube Shorts</a><span class="sitebit comhead"> (<a href="from?site=github.com/i5heu"><span class="sitestr">github.com/i5heu</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code is being dumbed down? (symmetrybreak.ing)]]></title>
+        <id>link-fdd56414f452f2069c2c4a0a0d2adee6</id>
+        <link href="https://news.ycombinator.com/item?id=46978710"/>
+        <updated>2026-02-12T05:25:11.676Z</updated>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46978710">1080 points</span> by <a href="user?id=WXLCKNO" class="hnuser">WXLCKNO</a> <span class="age" title="2026-02-11T18:23:39 1770834219"><a href="item?id=46978710">5 days ago</a></span> <span id="unv_46978710"></span> | <a href="item?id=46978710">699&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/">Claude Code is being dumbed down?</a><span class="sitebit comhead"> (<a href="from?site=symmetrybreak.ing"><span class="sitestr">symmetrybreak.ing</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3 Deep Think (blog.google)]]></title>
+        <id>link-2f7268bbbf575752492640346debdd6b</id>
+        <link href="https://news.ycombinator.com/item?id=46991240"/>
+        <updated>2026-02-13T08:42:58.950Z</updated>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_46991240">1076 points</span> by <a href="user?id=tosh" class="hnuser">tosh</a> <span class="age" title="2026-02-12T16:55:50 1770915350"><a href="item?id=46991240">4 days ago</a></span> <span id="unv_46991240"></span> | <a href="item?id=46991240">692&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/">Gemini 3 Deep Think</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Warcraft III Peon Voice Notifications for Claude Code (github.com/tonyyont)]]></title>
