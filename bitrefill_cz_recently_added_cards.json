@@ -88,13 +88,6 @@
 			"retrieved": 1767548017655
 		},
 		{
-			"id": "link-3384d2074505ab2be3ef28f1813cbf7e",
-			"title": "Jawaker Tokens International",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/jawaker-tokens-international/",
-			"contents": "Jawaker Tokens International — 10000 tokens - 1000000 tokens",
-			"retrieved": 1767548017655
-		},
-		{
 			"id": "link-283fa537c2c7fe7a32a497ca00a1c4ef",
 			"title": "Surfshark VPN International",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/surfshark-vpn-international/",
@@ -282,6 +275,13 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/",
 			"contents": "TripGift — 1000 CZK - 40000 CZK",
 			"retrieved": 1771034636537
+		},
+		{
+			"id": "link-db90be2bdf54763e93557f830b8cee7e",
+			"title": "FlystayGift",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/",
+			"contents": "FlystayGift — 500 CZK - 40000 CZK",
+			"retrieved": 1771252909544
 		}
 	]
 }
