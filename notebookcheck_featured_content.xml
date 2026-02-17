@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-02-17T14:47:34.996Z</updated>
+    <updated>2026-02-17T16:59:32.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Sony's high-end peripherals - for the average gamer!?]]></title>
+        <id>link-3e64914088b5c595f3956a794512c35f</id>
+        <link href="https://www.notebookcheck.net/Sony-s-high-end-peripherals-for-the-average-gamer.1228606.0.html"/>
+        <updated>2026-02-17T16:57:50.924Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6394-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6394-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6394-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6394-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6394-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6394-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/9/csm_thumb6394_0b7fdd67af.jpg" loading="lazy" alt="Sony's high-end peripherals - for the average gamer!?"></picture><div class="intro_featured_bar_title">▶ Sony's high-end peripherals - for the average gamer!?</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GeekBook X14 Pro - Geekom's first notebook surprises in our review]]></title>
         <id>link-3436d5c81edccf2a5e5fd41acc4f1922</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Dell-XPS-14-Core-Ultra-7-355-review-Still-great-but-not-nearly-as-special.1222645.0.html"/>
         <updated>2026-02-14T20:27:35.428Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_7_355/xps14feature-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_7_355/xps14feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_7_355/xps14feature-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_7_355/xps14feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_7_355/xps14feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_14_Core_Ultra_7_355/xps14feature-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/8/csm_xps14feature_8e4308839e.jpg" loading="lazy" alt="Dell XPS 14 Core Ultra 7 355 review: Still great, but not nearly as special"></picture><div class="intro_featured_bar_title">Dell XPS 14 Core Ultra 7 355 review: Panther Lake U-series debut</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affordable 2 kWh power station: Aferiy P280 review]]></title>
-        <id>link-9834fd0021945cf19386e252ad080ec0</id>
-        <link href="https://www.notebookcheck.net/Affordable-2-kWh-power-station-with-2-800-W-and-UPS-Aferiy-P280-in-practical-test.1226801.0.html"/>
-        <updated>2026-02-14T14:27:49.176Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Aferiy-P280-Powerstation-Test55-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/e/csm_Aferiy-P280-Powerstation-Test55_bfeac8b698.jpg" loading="lazy" alt="Aferiy P280 Powerstation review"></picture><div class="intro_featured_bar_title">Affordable 2 kWh power station: Aferiy P280 review</div>]]></content>
     </entry>
 </feed>

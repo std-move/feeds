@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-02-17T14:47:34.979Z</updated>
+    <updated>2026-02-17T16:59:32.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>link-ac04b19fac2e18286601b16c391b3ab7</id>
         <link href="https://en.wikipedia.org/wiki/National_Association_of_Priest_Pilots"/>
         <updated>2026-02-17T13:04:58.729Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/National_Association_of_Priest_Pilots" title="National Association of Priest Pilots">Flying Padres</a></b> use aviation to spread the teaching of Jesus Christ?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/National_Association_of_Priest_Pilots" title="National Association of Priest Pilots">Flying Padres</a></b> use aviation to evangelize?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a dead man]]></title>
