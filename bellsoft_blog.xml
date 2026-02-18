@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/</id>
     <title>The BellSoft Blog</title>
-    <updated>2026-02-18T07:03:55.257Z</updated>
+    <updated>2026-02-18T08:48:52.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to Create UI in Java with Vaadin: Dialog, Forms with Validation, Real-Time Updates]]></title>
+        <id>link-e4727d91b53cccb0c16e1495a3c54f03</id>
+        <link href="https://bell-sw.com/blog/how-to-create-ui-in-java-with-vaadin-dialog-forms-with-validation-real-time-updates/"/>
+        <updated>2026-02-18T08:46:57.620Z</updated>
+        <content type="html"><![CDATA[Build modern Java UIs with Vaadin: open detail dialogs from grids, create admin-only edit forms with Binder validation, and add real-time updates using server push.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create UI in Java with Vaadin: Security Configuration, Layouts, Grid, Filter Search]]></title>
         <id>link-922e197c3f9215622e599656a805ff3e</id>
@@ -158,12 +165,5 @@
         <link href="https://bell-sw.com/blog/liberica-native-image-kit-23-0-8-23-1-7-and-24-2-1-builds-are-released/"/>
         <updated>2026-01-07T09:20:25.776Z</updated>
         <content type="html"><![CDATA[New Liberica NIK versions 23.0.8, 23.1.7, and 24.2.1 include several important fixes in the JDK.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Modern Desktop Apps with JavaFX and Spring Boot]]></title>
-        <id>link-cd4dfa27c998d2ba6dc302761ead9647</id>
-        <link href="https://bell-sw.com/blog/creating-modern-desktop-apps-with-javafx-and-spring-boot/"/>
-        <updated>2026-01-07T09:20:25.776Z</updated>
-        <content type="html"><![CDATA[Learn how to build modern desktop applications using JavaFX and Spring Boot. Step-by-step guide with practical examples, UI design tips, and backend integration.]]></content>
     </entry>
 </feed>

@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/favicon.ico",
 	"elements": [
 		{
+			"id": "link-e4727d91b53cccb0c16e1495a3c54f03",
+			"title": "How to Create UI in Java with Vaadin: Dialog, Forms with Validation, Real-Time Updates",
+			"link": "https://bell-sw.com/blog/how-to-create-ui-in-java-with-vaadin-dialog-forms-with-validation-real-time-updates/",
+			"contents": "Build modern Java UIs with Vaadin: open detail dialogs from grids, create admin-only edit forms with Binder validation, and add real-time updates using server push.",
+			"retrieved": 1771404417620
+		},
+		{
 			"id": "link-922e197c3f9215622e599656a805ff3e",
 			"title": "How to Create UI in Java with Vaadin: Security Configuration, Layouts, Grid, Filter Search",
 			"link": "https://bell-sw.com/blog/how-to-create-ui-in-java-with-vaadin-security-configuration-layouts-grid-filter-search/",
@@ -155,13 +162,6 @@
 			"title": "Liberica Native Image Kit 23.0.8, 23.1.7, and 24.2.1 builds are released",
 			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-8-23-1-7-and-24-2-1-builds-are-released/",
 			"contents": "New Liberica NIK versions 23.0.8, 23.1.7, and 24.2.1 include several important fixes in the JDK.",
-			"retrieved": 1767777625776
-		},
-		{
-			"id": "link-cd4dfa27c998d2ba6dc302761ead9647",
-			"title": "Creating Modern Desktop Apps with JavaFX and Spring Boot",
-			"link": "https://bell-sw.com/blog/creating-modern-desktop-apps-with-javafx-and-spring-boot/",
-			"contents": "Learn how to build modern desktop applications using JavaFX and Spring Boot. Step-by-step guide with practical examples, UI design tips, and backend integration.",
 			"retrieved": 1767777625776
 		}
 	]
