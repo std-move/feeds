@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-02-18T02:13:25.999Z</updated>
+    <updated>2026-02-18T05:25:15.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
     <entry>
@@ -18,7 +18,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wood vs. Warrington II — 2026-02-21 09:00:00 -0500]]></title>
+        <title type="html"><![CDATA[Wood vs. Warrington II — 2026-02-21 11:00:00 -0500]]></title>
         <id>link-e0398748efb3a5698d0e48bb375b64a0</id>
         <link href="https://www.tapology.com/fightcenter/events/135971-wood-vs-warrington-ii"/>
         <updated>2026-02-06T13:00:53.411Z</updated>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/135971-wood-vs-warrington-ii">Wood vs. Warrington II</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-21 09:00:00 -0500">in 3 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-02-21 11:00:00 -0500">in 3 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -54,7 +54,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Barrios vs. Garcia — 2026-02-21 16:00:00 -0500]]></title>
+        <title type="html"><![CDATA[Barrios vs. Garcia — 2026-02-21 18:00:00 -0500]]></title>
         <id>link-472ac2057e1ac5b4a6ccb8ff272d7271</id>
         <link href="https://www.tapology.com/fightcenter/events/136905-barrios-vs-garcia"/>
         <updated>2026-02-07T22:26:59.912Z</updated>
@@ -62,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136905-barrios-vs-garcia">Barrios vs. Garcia</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-21 16:00:00 -0500">in 3 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-02-21 18:00:00 -0500">in 3 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
