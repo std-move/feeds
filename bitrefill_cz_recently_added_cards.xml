@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-02-19T16:55:54.393Z</updated>
+    <updated>2026-02-19T18:53:59.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -116,6 +116,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-international/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Kinguin Games Store EUR International — €5 - €100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Yo International]]></title>
+        <id>link-93c9c10d040354f416d60b776823aa42</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/hello-yo-international/"/>
+        <updated>2026-02-19T18:52:21.804Z</updated>
+        <content type="html"><![CDATA[Hello Yo International — $50 - $100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LiveMe Coins International]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/"/>
         <updated>2026-01-17T08:27:22.688Z</updated>
         <content type="html"><![CDATA[H&amp;M — 100 CZK - 12500 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TripGift]]></title>
-        <id>link-a928540e7ad2f73f0ddbe8640da3eeee</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
-        <updated>2026-02-14T02:03:56.537Z</updated>
-        <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
