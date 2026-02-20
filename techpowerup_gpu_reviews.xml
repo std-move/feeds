@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.techpowerup.com/review/?category=Graphics+Cards&amp;manufacturer=&amp;pp=25&amp;order=date</id>
     <title>TechPowerUp.com GPU reviews</title>
-    <updated>2026-02-20T18:52:14.843Z</updated>
+    <updated>2026-02-20T20:35:16.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.techpowerup.com/review/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Colorful GeForce RTX 5070 Mini OC Review]]></title>
+        <id>link-a3d15ea1d61891e1d6f8bbb5cf8d05d7</id>
+        <link href="https://www.techpowerup.com/review/colorful-geforce-rtx-5070-mini-oc/"/>
+        <updated>2026-02-20T20:33:20.908Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/colorful-geforce-rtx-5070-mini-oc/">Colorful GeForce RTX 5070 Mini OC Review</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/colorful-geforce-rtx-5070-mini-oc/">
+			<img alt="Colorful GeForce RTX 5070 Mini OC" width="100" height="100" loading="lazy" src="/review/colorful-geforce-rtx-5070-mini-oc/images/small@1x.png" srcset="/review/colorful-geforce-rtx-5070-mini-oc/images/small@1x.png 100w, /review/colorful-geforce-rtx-5070-mini-oc/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The Colorful GeForce RTX 5070 Mini OC delivers impressive performance in a compact metal design, perfect for SFF builds. This is the smallest high-end graphics card on the market, measuring just 18 cm long, and its dual-slot design is more than enough for powerful gaming.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2026-02-20T19:00:17+00:00">Feb 20th, 2026</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Graphics Cards</div>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSI GeForce RTX 5090 Lightning Z Review - Up to 1000 W]]></title>
         <id>link-a5b1ebe7e7ff090e25eb99237aa0d53e</id>
@@ -624,32 +650,6 @@
 
 	<div class="meta">
 		<div class="date"><span>Posted:</span><time datetime="2025-05-14T13:07:00+00:00">May 14th, 2025</time></div>
-		<div class="author"><span>Author:</span>W1zzard</div>
-
-				<div class="category"><span>In:</span>Graphics Cards</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASRock Radeon RX 9070 Steel Legend OC Review]]></title>
-        <id>link-2c8ac3b5d2c8c0335ace1e2759a67478</id>
-        <link href="https://www.techpowerup.com/review/asrock-radeon-rx-9070-steel-legend-oc/"/>
-        <updated>2026-02-12T07:02:39.277Z</updated>
-        <content type="html"><![CDATA[<div class="title">
-		<a href="/review/asrock-radeon-rx-9070-steel-legend-oc/">ASRock Radeon RX 9070 Steel Legend OC Review</a>
-	</div>
-
-	<div class="photo">
-		<a href="/review/asrock-radeon-rx-9070-steel-legend-oc/">
-			<img alt="ASRock Radeon RX 9070 Steel Legend OC" width="100" height="100" loading="lazy" src="/review/asrock-radeon-rx-9070-steel-legend-oc/images/small@1x.png" srcset="/review/asrock-radeon-rx-9070-steel-legend-oc/images/small@1x.png 100w, /review/asrock-radeon-rx-9070-steel-legend-oc/images/small.png 256w">
-		</a>
-	</div>
-
-	<div class="teaser">
-		The ASRock Radeon RX 9070 Steel Legend OC is a factory-overclocked custom design model with a white color theme. It comes with excellent RGB lighting and a cooling solution that's incredibly quiet. Testing in our review confirms that this is the card that you want for a low noise gaming experience.
-	</div>
-
-	<div class="meta">
-		<div class="date"><span>Posted:</span><time datetime="2025-05-06T16:20:18+00:00">May 6th, 2025</time></div>
 		<div class="author"><span>Author:</span>W1zzard</div>
 
 				<div class="category"><span>In:</span>Graphics Cards</div>

@@ -4,6 +4,13 @@
 	"favicon": "https://www.techpowerup.com/review/favicon.ico",
 	"elements": [
 		{
+			"id": "link-a3d15ea1d61891e1d6f8bbb5cf8d05d7",
+			"title": "Colorful GeForce RTX 5070 Mini OC Review",
+			"link": "https://www.techpowerup.com/review/colorful-geforce-rtx-5070-mini-oc/",
+			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/colorful-geforce-rtx-5070-mini-oc/\">Colorful GeForce RTX 5070 Mini OC Review</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/colorful-geforce-rtx-5070-mini-oc/\">\n\t\t\t<img alt=\"Colorful GeForce RTX 5070 Mini OC\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/colorful-geforce-rtx-5070-mini-oc/images/small@1x.png\" srcset=\"/review/colorful-geforce-rtx-5070-mini-oc/images/small@1x.png 100w, /review/colorful-geforce-rtx-5070-mini-oc/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe Colorful GeForce RTX 5070 Mini OC delivers impressive performance in a compact metal design, perfect for SFF builds. This is the smallest high-end graphics card on the market, measuring just 18 cm long, and its dual-slot design is more than enough for powerful gaming.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2026-02-20T19:00:17+00:00\">Feb 20th, 2026</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
+			"retrieved": 1771619600908
+		},
+		{
 			"id": "link-a5b1ebe7e7ff090e25eb99237aa0d53e",
 			"title": "MSI GeForce RTX 5090 Lightning Z Review - Up to 1000 W",
 			"link": "https://www.techpowerup.com/review/msi-geforce-rtx-5090-lightning-z/",
@@ -169,13 +176,6 @@
 			"title": "PNY GeForce RTX 5070 Ti Epic-X RGB Plus OC Review",
 			"link": "https://www.techpowerup.com/review/pny-geforce-rtx-5070-ti-epic-x-rgb-plus-oc/",
 			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/pny-geforce-rtx-5070-ti-epic-x-rgb-plus-oc/\">PNY GeForce RTX 5070 Ti Epic-X RGB Plus OC Review</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/pny-geforce-rtx-5070-ti-epic-x-rgb-plus-oc/\">\n\t\t\t<img alt=\"PNY GeForce RTX 5070 Ti Epic-X RGB Plus OC\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/pny-geforce-rtx-5070-ti-epic-x-rgb-plus-oc/images/small@1x.png\" srcset=\"/review/pny-geforce-rtx-5070-ti-epic-x-rgb-plus-oc/images/small@1x.png 100w, /review/pny-geforce-rtx-5070-ti-epic-x-rgb-plus-oc/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe PNY GeForce RTX 5070 Ti Epic-X RGB Plus OC combines strong performance with whisper-quiet acoustics, even during demanding gameplay. It keeps temperatures impressively low and features a clean design with an excellent RGB implementation.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2025-05-14T13:07:00+00:00\">May 14th, 2025</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
-			"retrieved": 1770879759277
-		},
-		{
-			"id": "link-2c8ac3b5d2c8c0335ace1e2759a67478",
-			"title": "ASRock Radeon RX 9070 Steel Legend OC Review",
-			"link": "https://www.techpowerup.com/review/asrock-radeon-rx-9070-steel-legend-oc/",
-			"contents": "<div class=\"title\">\n\t\t<a href=\"/review/asrock-radeon-rx-9070-steel-legend-oc/\">ASRock Radeon RX 9070 Steel Legend OC Review</a>\n\t</div>\n\n\t<div class=\"photo\">\n\t\t<a href=\"/review/asrock-radeon-rx-9070-steel-legend-oc/\">\n\t\t\t<img alt=\"ASRock Radeon RX 9070 Steel Legend OC\" width=\"100\" height=\"100\" loading=\"lazy\" src=\"/review/asrock-radeon-rx-9070-steel-legend-oc/images/small@1x.png\" srcset=\"/review/asrock-radeon-rx-9070-steel-legend-oc/images/small@1x.png 100w, /review/asrock-radeon-rx-9070-steel-legend-oc/images/small.png 256w\">\n\t\t</a>\n\t</div>\n\n\t<div class=\"teaser\">\n\t\tThe ASRock Radeon RX 9070 Steel Legend OC is a factory-overclocked custom design model with a white color theme. It comes with excellent RGB lighting and a cooling solution that's incredibly quiet. Testing in our review confirms that this is the card that you want for a low noise gaming experience.\n\t</div>\n\n\t<div class=\"meta\">\n\t\t<div class=\"date\"><span>Posted:</span><time datetime=\"2025-05-06T16:20:18+00:00\">May 6th, 2025</time></div>\n\t\t<div class=\"author\"><span>Author:</span>W1zzard</div>\n\n\t\t\t\t<div class=\"category\"><span>In:</span>Graphics Cards</div>\n\t\t\t</div>",
 			"retrieved": 1770879759277
 		}
 	]
