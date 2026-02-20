@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-20T06:59:40.729Z</updated>
+    <updated>2026-02-20T08:43:31.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -59,20 +59,20 @@
         <id>link-2dbe01ec0b3e131aa39f1237f5ddb5be</id>
         <link href="https://news.ycombinator.com/item?id=47058219"/>
         <updated>2026-02-19T20:34:12.023Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47058219">892 points</span> by <a href="user?id=soheilpro" class="hnuser">soheilpro</a> <span class="age" title="2026-02-18T07:18:50 1771399130"><a href="item?id=47058219">1 day ago</a></span> <span id="unv_47058219"></span> | <a href="item?id=47058219">385&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://annas-archive.li/blog/llms-txt.html">If you’re an LLM, please read this</a><span class="sitebit comhead"> (<a href="from?site=annas-archive.li"><span class="sitestr">annas-archive.li</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47058219">893 points</span> by <a href="user?id=soheilpro" class="hnuser">soheilpro</a> <span class="age" title="2026-02-18T07:18:50 1771399130"><a href="item?id=47058219">2 days ago</a></span> <span id="unv_47058219"></span> | <a href="item?id=47058219">385&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://annas-archive.li/blog/llms-txt.html">If you’re an LLM, please read this</a><span class="sitebit comhead"> (<a href="from?site=annas-archive.li"><span class="sitestr">annas-archive.li</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sizing chaos (pudding.cool)]]></title>
         <id>link-0fe1d11bdbeea9eb82ba8a299fe39c88</id>
         <link href="https://news.ycombinator.com/item?id=47066552"/>
         <updated>2026-02-19T20:34:12.023Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47066552">799 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-18T21:18:20 1771449500"><a href="item?id=47066552">1 day ago</a></span> <span id="unv_47066552"></span> | <a href="item?id=47066552">418&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pudding.cool/2026/02/womens-sizing/">Sizing chaos</a><span class="sitebit comhead"> (<a href="from?site=pudding.cool"><span class="sitestr">pudding.cool</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47066552">801 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-18T21:18:20 1771449500"><a href="item?id=47066552">1 day ago</a></span> <span id="unv_47066552"></span> | <a href="item?id=47066552">419&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pudding.cool/2026/02/womens-sizing/">Sizing chaos</a><span class="sitebit comhead"> (<a href="from?site=pudding.cool"><span class="sitestr">pudding.cool</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI adoption and Solow's productivity paradox (fortune.com)]]></title>
         <id>link-04499619da4a1b16798f81c83751a4fe</id>
         <link href="https://news.ycombinator.com/item?id=47055979"/>
         <updated>2026-02-19T20:34:12.023Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47055979">782 points</span> by <a href="user?id=virgildotcodes" class="hnuser">virgildotcodes</a> <span class="age" title="2026-02-18T01:40:52 1771378852"><a href="item?id=47055979">2 days ago</a></span> <span id="unv_47055979"></span> | <a href="item?id=47055979">741&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/">AI adoption and Solow's productivity paradox</a><span class="sitebit comhead"> (<a href="from?site=fortune.com"><span class="sitestr">fortune.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47055979">783 points</span> by <a href="user?id=virgildotcodes" class="hnuser">virgildotcodes</a> <span class="age" title="2026-02-18T01:40:52 1771378852"><a href="item?id=47055979">2 days ago</a></span> <span id="unv_47055979"></span> | <a href="item?id=47055979">741&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/">AI adoption and Solow's productivity paradox</a><span class="sitebit comhead"> (<a href="from?site=fortune.com"><span class="sitestr">fortune.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>

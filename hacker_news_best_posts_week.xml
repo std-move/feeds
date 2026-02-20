@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-20T06:59:40.728Z</updated>
+    <updated>2026-02-20T08:43:31.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -59,56 +59,56 @@
         <id>link-2dbe01ec0b3e131aa39f1237f5ddb5be</id>
         <link href="https://news.ycombinator.com/item?id=47058219"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47058219">892 points</span> by <a href="user?id=soheilpro" class="hnuser">soheilpro</a> <span class="age" title="2026-02-18T07:18:50 1771399130"><a href="item?id=47058219">1 day ago</a></span> <span id="unv_47058219"></span> | <a href="item?id=47058219">385&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://annas-archive.li/blog/llms-txt.html">If you’re an LLM, please read this</a><span class="sitebit comhead"> (<a href="from?site=annas-archive.li"><span class="sitestr">annas-archive.li</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47058219">893 points</span> by <a href="user?id=soheilpro" class="hnuser">soheilpro</a> <span class="age" title="2026-02-18T07:18:50 1771399130"><a href="item?id=47058219">2 days ago</a></span> <span id="unv_47058219"></span> | <a href="item?id=47058219">385&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://annas-archive.li/blog/llms-txt.html">If you’re an LLM, please read this</a><span class="sitebit comhead"> (<a href="from?site=annas-archive.li"><span class="sitestr">annas-archive.li</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sizing chaos (pudding.cool)]]></title>
         <id>link-0fe1d11bdbeea9eb82ba8a299fe39c88</id>
         <link href="https://news.ycombinator.com/item?id=47066552"/>
         <updated>2026-02-19T08:44:14.661Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47066552">799 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-18T21:18:20 1771449500"><a href="item?id=47066552">1 day ago</a></span> <span id="unv_47066552"></span> | <a href="item?id=47066552">418&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pudding.cool/2026/02/womens-sizing/">Sizing chaos</a><span class="sitebit comhead"> (<a href="from?site=pudding.cool"><span class="sitestr">pudding.cool</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47066552">801 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-18T21:18:20 1771449500"><a href="item?id=47066552">1 day ago</a></span> <span id="unv_47066552"></span> | <a href="item?id=47066552">419&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pudding.cool/2026/02/womens-sizing/">Sizing chaos</a><span class="sitebit comhead"> (<a href="from?site=pudding.cool"><span class="sitestr">pudding.cool</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI adoption and Solow's productivity paradox (fortune.com)]]></title>
         <id>link-04499619da4a1b16798f81c83751a4fe</id>
         <link href="https://news.ycombinator.com/item?id=47055979"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47055979">782 points</span> by <a href="user?id=virgildotcodes" class="hnuser">virgildotcodes</a> <span class="age" title="2026-02-18T01:40:52 1771378852"><a href="item?id=47055979">2 days ago</a></span> <span id="unv_47055979"></span> | <a href="item?id=47055979">741&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/">AI adoption and Solow's productivity paradox</a><span class="sitebit comhead"> (<a href="from?site=fortune.com"><span class="sitestr">fortune.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47055979">783 points</span> by <a href="user?id=virgildotcodes" class="hnuser">virgildotcodes</a> <span class="age" title="2026-02-18T01:40:52 1771378852"><a href="item?id=47055979">2 days ago</a></span> <span id="unv_47055979"></span> | <a href="item?id=47055979">741&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/">AI adoption and Solow's productivity paradox</a><span class="sitebit comhead"> (<a href="from?site=fortune.com"><span class="sitestr">fortune.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021) (sceneandheardnu.com)]]></title>
         <id>link-b5b90438fad0f82b181bd6b55499f2f8</id>
         <link href="https://news.ycombinator.com/item?id=47056314"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47056314">748 points</span> by <a href="user?id=walterbell" class="hnuser">walterbell</a> <span class="age" title="2026-02-18T02:18:29 1771381109"><a href="item?id=47056314">2 days ago</a></span> <span id="unv_47056314"></span> | <a href="item?id=47056314">388&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire">Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)</a><span class="sitebit comhead"> (<a href="from?site=sceneandheardnu.com"><span class="sitestr">sceneandheardnu.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47056314">749 points</span> by <a href="user?id=walterbell" class="hnuser">walterbell</a> <span class="age" title="2026-02-18T02:18:29 1771381109"><a href="item?id=47056314">2 days ago</a></span> <span id="unv_47056314"></span> | <a href="item?id=47056314">388&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire">Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)</a><span class="sitebit comhead"> (<a href="from?site=sceneandheardnu.com"><span class="sitestr">sceneandheardnu.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gemini 3.1 Pro (blog.google)]]></title>
         <id>link-4cbe729d942575c686039a7672ab420e</id>
         <link href="https://news.ycombinator.com/item?id=47074735"/>
         <updated>2026-02-20T02:06:56.703Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47074735">671 points</span> by <a href="user?id=MallocVoidstar" class="hnuser">MallocVoidstar</a> <span class="age" title="2026-02-19T15:19:57 1771514397"><a href="item?id=47074735">15 hours ago</a></span> <span id="unv_47074735"></span> | <a href="item?id=47074735">762&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47074735">726 points</span> by <a href="user?id=MallocVoidstar" class="hnuser">MallocVoidstar</a> <span class="age" title="2026-02-19T15:19:57 1771514397"><a href="item?id=47074735">17 hours ago</a></span> <span id="unv_47074735"></span> | <a href="item?id=47074735">792&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic officially bans using subscription auth for third party use (claude.com)]]></title>
         <id>link-6858b746e77b79ea5fa66fc31a9000e0</id>
         <link href="https://news.ycombinator.com/item?id=47069299"/>
         <updated>2026-02-19T14:48:09.628Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47069299">629 points</span> by <a href="user?id=theahura" class="hnuser">theahura</a> <span class="age" title="2026-02-19T02:52:26 1771469546"><a href="item?id=47069299">1 day ago</a></span> <span id="unv_47069299"></span> | <a href="item?id=47069299">754&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://code.claude.com/docs/en/legal-and-compliance">Anthropic officially bans using subscription auth for third party use</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.1 Pro (deepmind.google)]]></title>
-        <id>link-d108ee3195b710d9cb52d064996d3eb8</id>
-        <link href="https://news.ycombinator.com/item?id=47075318"/>
-        <updated>2026-02-19T20:34:12.023Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075318">602 points</span> by <a href="user?id=PunchTornado" class="hnuser">PunchTornado</a> <span class="age" title="2026-02-19T16:14:07 1771517647"><a href="item?id=47075318">14 hours ago</a></span> <span id="unv_47075318"></span> | <a href="item?id=47075318">8&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/model-cards/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47069299">633 points</span> by <a href="user?id=theahura" class="hnuser">theahura</a> <span class="age" title="2026-02-19T02:52:26 1771469546"><a href="item?id=47069299">1 day ago</a></span> <span id="unv_47069299"></span> | <a href="item?id=47069299">758&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://code.claude.com/docs/en/legal-and-compliance">Anthropic officially bans using subscription auth for third party use</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI makes you boring (marginalia.nu)]]></title>
         <id>link-c4e6b495664c3277c7c8b7d37bfab989</id>
         <link href="https://news.ycombinator.com/item?id=47076966"/>
         <updated>2026-02-19T22:32:35.254Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47076966">591 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-02-19T18:12:16 1771524736"><a href="item?id=47076966">12 hours ago</a></span> <span id="unv_47076966"></span> | <a href="item?id=47076966">329&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/log/a_132_ai_bores/">AI makes you boring</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47076966">612 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-02-19T18:12:16 1771524736"><a href="item?id=47076966">14 hours ago</a></span> <span id="unv_47076966"></span> | <a href="item?id=47076966">334&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/log/a_132_ai_bores/">AI makes you boring</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.1 Pro (deepmind.google)]]></title>
+        <id>link-d108ee3195b710d9cb52d064996d3eb8</id>
+        <link href="https://news.ycombinator.com/item?id=47075318"/>
+        <updated>2026-02-19T20:34:12.023Z</updated>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075318">603 points</span> by <a href="user?id=PunchTornado" class="hnuser">PunchTornado</a> <span class="age" title="2026-02-19T16:14:07 1771517647"><a href="item?id=47075318">16 hours ago</a></span> <span id="unv_47075318"></span> | <a href="item?id=47075318">8&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/model-cards/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dark web agent spotted bedroom wall clue to rescue girl from abuse (bbc.com)]]></title>
@@ -129,7 +129,7 @@
         <id>link-17347676aefaa3f93cb7238cf40b6517</id>
         <link href="https://news.ycombinator.com/item?id=47060486"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47060486">535 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-02-18T13:00:11 1771419611"><a href="item?id=47060486">1 day ago</a></span> <span id="unv_47060486"></span> | <a href="item?id=47060486">316&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/">Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony</a><span class="sitebit comhead"> (<a href="from?site=techoversight.org"><span class="sitestr">techoversight.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47060486">537 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-02-18T13:00:11 1771419611"><a href="item?id=47060486">1 day ago</a></span> <span id="unv_47060486"></span> | <a href="item?id=47060486">316&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/">Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony</a><span class="sitebit comhead"> (<a href="from?site=techoversight.org"><span class="sitestr">techoversight.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CBS didn't air Rep. James Talarico interview out of fear of FCC (nbcnews.com)]]></title>
@@ -139,39 +139,39 @@
         <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47049426">532 points</span> by <a href="user?id=theahura" class="hnuser">theahura</a> <span class="age" title="2026-02-17T16:37:41 1771346261"><a href="item?id=47049426">2 days ago</a></span> <span id="unv_47049426"></span> | <a href="item?id=47049426">255&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341">CBS didn't air Rep. James Talarico interview out of fear of FCC</a><span class="sitebit comhead"> (<a href="from?site=nbcnews.com"><span class="sitestr">nbcnews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Micasa – track your house from the terminal (micasa.dev)]]></title>
+        <id>link-153cf0446e071ac511a65038b889a57d</id>
+        <link href="https://news.ycombinator.com/item?id=47075124"/>
+        <updated>2026-02-20T02:06:56.703Z</updated>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075124">529 points</span> by <a href="user?id=cpcloud" class="hnuser">cpcloud</a> <span class="age" title="2026-02-19T15:54:14 1771516454"><a href="item?id=47075124">16 hours ago</a></span> <span id="unv_47075124"></span> | <a href="item?id=47075124">176&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://micasa.dev">Show HN: Micasa – track your house from the terminal</a><span class="sitebit comhead"> (<a href="from?site=micasa.dev"><span class="sitestr">micasa.dev</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ministry of Justice orders deletion of the UK's largest court reporting database (legalcheek.com)]]></title>
         <id>link-337340aef9a5516be7e497c9a469e476</id>
         <link href="https://news.ycombinator.com/item?id=47034713"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47034713">522 points</span> by <a href="user?id=harel" class="hnuser">harel</a> <span class="age" title="2026-02-16T13:30:07 1771248607"><a href="item?id=47034713">3 days ago</a></span> <span id="unv_47034713"></span> | <a href="item?id=47034713">346&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/">Ministry of Justice orders deletion of the UK's largest court reporting database</a><span class="sitebit comhead"> (<a href="from?site=legalcheek.com"><span class="sitestr">legalcheek.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47034713">522 points</span> by <a href="user?id=harel" class="hnuser">harel</a> <span class="age" title="2026-02-16T13:30:07 1771248607"><a href="item?id=47034713">3 days ago</a></span> <span id="unv_47034713"></span> | <a href="item?id=47034713">346&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/">Ministry of Justice orders deletion of the UK's largest court reporting database</a><span class="sitebit comhead"> (<a href="from?site=legalcheek.com"><span class="sitestr">legalcheek.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Is Show HN dead? No, but it's drowning (arthurcnops.blog)]]></title>
         <id>link-26f14475d025f0beadfc750614ff57b1</id>
         <link href="https://news.ycombinator.com/item?id=47045804"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47045804">516 points</span> by <a href="user?id=acnops" class="hnuser">acnops</a> <span class="age" title="2026-02-17T10:29:14 1771324154"><a href="item?id=47045804">2 days ago</a></span> <span id="unv_47045804"></span> | <a href="item?id=47045804">422&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.arthurcnops.blog/death-of-show-hn/">Is Show HN dead? No, but it's drowning</a><span class="sitebit comhead"> (<a href="from?site=arthurcnops.blog"><span class="sitestr">arthurcnops.blog</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Micasa – track your house from the terminal (micasa.dev)]]></title>
-        <id>link-153cf0446e071ac511a65038b889a57d</id>
-        <link href="https://news.ycombinator.com/item?id=47075124"/>
-        <updated>2026-02-20T02:06:56.703Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075124">507 points</span> by <a href="user?id=cpcloud" class="hnuser">cpcloud</a> <span class="age" title="2026-02-19T15:54:14 1771516454"><a href="item?id=47075124">15 hours ago</a></span> <span id="unv_47075124"></span> | <a href="item?id=47075124">165&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://micasa.dev">Show HN: Micasa – track your house from the terminal</a><span class="sitebit comhead"> (<a href="from?site=micasa.dev"><span class="sitestr">micasa.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47045804">516 points</span> by <a href="user?id=acnops" class="hnuser">acnops</a> <span class="age" title="2026-02-17T10:29:14 1771324154"><a href="item?id=47045804">2 days ago</a></span> <span id="unv_47045804"></span> | <a href="item?id=47045804">422&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.arthurcnops.blog/death-of-show-hn/">Is Show HN dead? No, but it's drowning</a><span class="sitebit comhead"> (<a href="from?site=arthurcnops.blog"><span class="sitestr">arthurcnops.blog</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terminals should generate the 256-color palette (gist.github.com)]]></title>
         <id>link-43a5dcb3701f2044bff18b3140fde913</id>
         <link href="https://news.ycombinator.com/item?id=47057824"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47057824">486 points</span> by <a href="user?id=tosh" class="hnuser">tosh</a> <span class="age" title="2026-02-18T06:19:37 1771395577"><a href="item?id=47057824">2 days ago</a></span> <span id="unv_47057824"></span> | <a href="item?id=47057824">203&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783">Terminals should generate the 256-color palette</a><span class="sitebit comhead"> (<a href="from?site=gist.github.com"><span class="sitestr">gist.github.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47057824">486 points</span> by <a href="user?id=tosh" class="hnuser">tosh</a> <span class="age" title="2026-02-18T06:19:37 1771395577"><a href="item?id=47057824">2 days ago</a></span> <span id="unv_47057824"></span> | <a href="item?id=47057824">205&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783">Terminals should generate the 256-color palette</a><span class="sitebit comhead"> (<a href="from?site=gist.github.com"><span class="sitestr">gist.github.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Jemini – Gemini for the Epstein Files (jmail.world)]]></title>
         <id>link-5815899acab4c9ca96398278c1cc178f</id>
         <link href="https://news.ycombinator.com/item?id=47031334"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47031334">483 points</span> by <a href="user?id=dvrp" class="hnuser">dvrp</a> <span class="age" title="2026-02-16T05:53:03 1771221183"><a href="item?id=47031334">3 days ago</a></span> <span id="unv_47031334"></span> | <a href="item?id=47031334">98&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jmail.world/jemini">Show HN: Jemini – Gemini for the Epstein Files</a><span class="sitebit comhead"> (<a href="from?site=jmail.world"><span class="sitestr">jmail.world</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47031334">484 points</span> by <a href="user?id=dvrp" class="hnuser">dvrp</a> <span class="age" title="2026-02-16T05:53:03 1771221183"><a href="item?id=47031334">3 days ago</a></span> <span id="unv_47031334"></span> | <a href="item?id=47031334">98&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jmail.world/jemini">Show HN: Jemini – Gemini for the Epstein Files</a><span class="sitebit comhead"> (<a href="from?site=jmail.world"><span class="sitestr">jmail.world</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway (asteroidos.org)]]></title>
@@ -185,7 +185,7 @@
         <id>link-244e66789514a6fb37d8c370e32bb1d8</id>
         <link href="https://news.ycombinator.com/item?id=47063005"/>
         <updated>2026-02-19T20:34:12.023Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47063005">463 points</span> by <a href="user?id=sz4kerto" class="hnuser">sz4kerto</a> <span class="age" title="2026-02-18T16:46:12 1771433172"><a href="item?id=47063005">1 day ago</a></span> <span id="unv_47063005"></span> | <a href="item?id=47063005">239&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tailscale.com/blog/peer-relays-ga">Tailscale Peer Relays is now generally available</a><span class="sitebit comhead"> (<a href="from?site=tailscale.com"><span class="sitestr">tailscale.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47063005">464 points</span> by <a href="user?id=sz4kerto" class="hnuser">sz4kerto</a> <span class="age" title="2026-02-18T16:46:12 1771433172"><a href="item?id=47063005">1 day ago</a></span> <span id="unv_47063005"></span> | <a href="item?id=47063005">244&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tailscale.com/blog/peer-relays-ga">Tailscale Peer Relays is now generally available</a><span class="sitebit comhead"> (<a href="from?site=tailscale.com"><span class="sitestr">tailscale.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans (electrek.co)]]></title>
@@ -206,7 +206,7 @@
         <id>link-e8c95de8e266774427eaef34c31a6e72</id>
         <link href="https://news.ycombinator.com/item?id=47064490"/>
         <updated>2026-02-19T20:34:12.023Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47064490">454 points</span> by <a href="user?id=jfantl" class="hnuser">jfantl</a> <span class="age" title="2026-02-18T18:37:22 1771439842"><a href="item?id=47064490">1 day ago</a></span> <span id="unv_47064490"></span> | <a href="item?id=47064490">150&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jasonfantl.com/posts/Universal-Unique-IDs/">Cosmologically Unique IDs</a><span class="sitebit comhead"> (<a href="from?site=jasonfantl.com"><span class="sitestr">jasonfantl.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47064490">456 points</span> by <a href="user?id=jfantl" class="hnuser">jfantl</a> <span class="age" title="2026-02-18T18:37:22 1771439842"><a href="item?id=47064490">1 day ago</a></span> <span id="unv_47064490"></span> | <a href="item?id=47064490">150&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jasonfantl.com/posts/Universal-Unique-IDs/">Cosmologically Unique IDs</a><span class="sitebit comhead"> (<a href="from?site=jasonfantl.com"><span class="sitestr">jasonfantl.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Asahi Linux Progress Report: Linux 6.19 (asahilinux.org)]]></title>
