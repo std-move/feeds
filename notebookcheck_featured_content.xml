@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-02-21T08:34:13.311Z</updated>
+    <updated>2026-02-21T10:28:47.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Dell XPS 14 2026 review - (A LOT) better?!]]></title>
+        <id>link-5f48d147961354e95a410e5c9bdc4c6c</id>
+        <link href="https://www.notebookcheck.net/Dell-XPS-14-2026-review-A-LOT-better.1230150.0.html"/>
+        <updated>2026-02-19T18:52:21.804Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/1/csm_thumb4648_548c1eb577.jpg" loading="lazy" alt="Dell XPS 14 2026 review - (A LOT) better?!"></picture><div class="intro_featured_bar_title">▶ Dell XPS 14 2026 review - (A LOT) better?!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Powerhouse: Anker Solix F3000 review]]></title>
         <id>link-7905c7ecfe81d62f4df0dc5a93ce5013</id>
@@ -32,13 +39,6 @@
         <link href="https://www.notebookcheck.net/Windows-11-KB5077181-Microsoft-claims-stability-my-Lenovo-LOQ-proves-otherwise.1230119.0.html"/>
         <updated>2026-02-19T18:52:21.804Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo-Loq-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo-Loq-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo-Loq-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo-Loq-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo-Loq-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo-Loq-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/1/csm_Lenovo-Loq_8baf1f1e98.jpg" loading="lazy" alt="The Lenovo LOQ 16IRH8 (Type 82XW, SKU 82XW0042SA)"></picture><div class="intro_featured_bar_title">KB5077181 hit my LOQ hard</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ Dell XPS 14 2026 review - (A LOT) better?!]]></title>
-        <id>link-5f48d147961354e95a410e5c9bdc4c6c</id>
-        <link href="https://www.notebookcheck.net/Dell-XPS-14-2026-review-A-LOT-better.1230150.0.html"/>
-        <updated>2026-02-19T18:52:21.804Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4648-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/1/csm_thumb4648_548c1eb577.jpg" loading="lazy" alt="Dell XPS 14 2026 review - (A LOT) better?!"></picture><div class="intro_featured_bar_title">▶ Dell XPS 14 2026 review - (A LOT) better?!</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Joyroom Podix 140W - Charge with a smile]]></title>
