@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-21T14:29:25.665Z</updated>
+    <updated>2026-02-21T16:31:17.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,49 +10,49 @@
         <id>link-91918a9a6ff12ed93c88156aaccbcad0</id>
         <link href="https://news.ycombinator.com/item?id=47091419"/>
         <updated>2026-02-21T02:01:21.320Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091419">1720 points</span> by <a href="user?id=LorenDB" class="hnuser">LorenDB</a> <span class="age" title="2026-02-20T17:58:51 1771610331"><a href="item?id=47091419">20 hours ago</a></span> <span id="unv_47091419"></span> | <a href="item?id=47091419">613&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://f-droid.org/2026/02/20/twif.html">Keep Android Open</a><span class="sitebit comhead"> (<a href="from?site=f-droid.org"><span class="sitestr">f-droid.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091419">1808 points</span> by <a href="user?id=LorenDB" class="hnuser">LorenDB</a> <span class="age" title="2026-02-20T17:58:51 1771610331"><a href="item?id=47091419">22 hours ago</a></span> <span id="unv_47091419"></span> | <a href="item?id=47091419">624&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://f-droid.org/2026/02/20/twif.html">Keep Android Open</a><span class="sitebit comhead"> (<a href="from?site=f-droid.org"><span class="sitestr">f-droid.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I want to wash my car. The car wash is 50 meters away. Should I walk or drive? (mastodon.world)]]></title>
         <id>link-a5ad109a4d5e2e141e81e97cf3ec0a52</id>
         <link href="https://news.ycombinator.com/item?id=47031580"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47031580">1511 points</span> by <a href="user?id=novemp" class="hnuser">novemp</a> <span class="age" title="2026-02-16T06:31:48 1771223508"><a href="item?id=47031580">5 days ago</a></span> <span id="unv_47031580"></span> | <a href="item?id=47031580">948&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.world/@knowmadd/116072773118828295">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a><span class="sitebit comhead"> (<a href="from?site=mastodon.world"><span class="sitestr">mastodon.world</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m joining OpenAI (steipete.me)]]></title>
-        <id>link-dfd56594c09bb1e427bc26128d73132b</id>
-        <link href="https://news.ycombinator.com/item?id=47028013"/>
-        <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47028013">1443 points</span> by <a href="user?id=mfiguiere" class="hnuser">mfiguiere</a> <span class="age" title="2026-02-15T21:54:15 1771192455"><a href="item?id=47028013">5 days ago</a></span> <span id="unv_47028013"></span> | <a href="item?id=47028013">1126&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://steipete.me/posts/2026/openclaw">I’m joining OpenAI</a><span class="sitebit comhead"> (<a href="from?site=steipete.me"><span class="sitestr">steipete.me</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47031580">1512 points</span> by <a href="user?id=novemp" class="hnuser">novemp</a> <span class="age" title="2026-02-16T06:31:48 1771223508"><a href="item?id=47031580">5 days ago</a></span> <span id="unv_47031580"></span> | <a href="item?id=47031580">948&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.world/@knowmadd/116072773118828295">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a><span class="sitebit comhead"> (<a href="from?site=mastodon.world"><span class="sitestr">mastodon.world</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trump's global tariffs struck down by US Supreme Court (bbc.com)]]></title>
         <id>link-d8f63d227db5fe21665afc4e9bb51f8b</id>
         <link href="https://news.ycombinator.com/item?id=47089213"/>
         <updated>2026-02-20T20:33:20.908Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47089213">1442 points</span> by <a href="user?id=blackguardx" class="hnuser">blackguardx</a> <span class="age" title="2026-02-20T15:27:38 1771601258"><a href="item?id=47089213">23 hours ago</a></span> <span id="unv_47089213"></span> | <a href="item?id=47089213">1181&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/news/live/c0l9r67drg7t">Trump's global tariffs struck down by US Supreme Court</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47089213">1456 points</span> by <a href="user?id=blackguardx" class="hnuser">blackguardx</a> <span class="age" title="2026-02-20T15:27:38 1771601258"><a href="item?id=47089213">1 day ago</a></span> <span id="unv_47089213"></span> | <a href="item?id=47089213">1208&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/news/live/c0l9r67drg7t">Trump's global tariffs struck down by US Supreme Court</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m joining OpenAI (steipete.me)]]></title>
+        <id>link-dfd56594c09bb1e427bc26128d73132b</id>
+        <link href="https://news.ycombinator.com/item?id=47028013"/>
+        <updated>2026-02-19T05:22:16.502Z</updated>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47028013">1443 points</span> by <a href="user?id=mfiguiere" class="hnuser">mfiguiere</a> <span class="age" title="2026-02-15T21:54:15 1771192455"><a href="item?id=47028013">5 days ago</a></span> <span id="unv_47028013"></span> | <a href="item?id=47028013">1126&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://steipete.me/posts/2026/openclaw">I’m joining OpenAI</a><span class="sitebit comhead"> (<a href="from?site=steipete.me"><span class="sitestr">steipete.me</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Sonnet 4.6 (anthropic.com)]]></title>
         <id>link-dea4ddf585eec1c0c9b46da55694c209</id>
         <link href="https://news.ycombinator.com/item?id=47050488"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47050488">1337 points</span> by <a href="user?id=adocomplete" class="hnuser">adocomplete</a> <span class="age" title="2026-02-17T17:48:52 1771350532"><a href="item?id=47050488">3 days ago</a></span> <span id="unv_47050488"></span> | <a href="item?id=47050488">1216&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-sonnet-4-6">Claude Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47050488">1337 points</span> by <a href="user?id=adocomplete" class="hnuser">adocomplete</a> <span class="age" title="2026-02-17T17:48:52 1771350532"><a href="item?id=47050488">3 days ago</a></span> <span id="unv_47050488"></span> | <a href="item?id=47050488">1217&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-sonnet-4-6">Claude Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Facebook is cooked (pilk.website)]]></title>
         <id>link-79bc68853abf0396e65514fe58396cc6</id>
         <link href="https://news.ycombinator.com/item?id=47091748"/>
         <updated>2026-02-21T06:42:42.231Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091748">1233 points</span> by <a href="user?id=npilk" class="hnuser">npilk</a> <span class="age" title="2026-02-20T18:25:07 1771611907"><a href="item?id=47091748">20 hours ago</a></span> <span id="unv_47091748"></span> | <a href="item?id=47091748">671&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pilk.website/3/facebook-is-absolutely-cooked">Facebook is cooked</a><span class="sitebit comhead"> (<a href="from?site=pilk.website"><span class="sitestr">pilk.website</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091748">1308 points</span> by <a href="user?id=npilk" class="hnuser">npilk</a> <span class="age" title="2026-02-20T18:25:07 1771611907"><a href="item?id=47091748">22 hours ago</a></span> <span id="unv_47091748"></span> | <a href="item?id=47091748">715&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pilk.website/3/facebook-is-absolutely-cooked">Facebook is cooked</a><span class="sitebit comhead"> (<a href="from?site=pilk.website"><span class="sitestr">pilk.website</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GrapheneOS – Break Free from Google and Apple (blog.tomaszdunia.pl)]]></title>
         <id>link-d588401fcbd6e85fc27fe0fcc2992e0c</id>
         <link href="https://news.ycombinator.com/item?id=47045612"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47045612">1174 points</span> by <a href="user?id=to3k" class="hnuser">to3k</a> <span class="age" title="2026-02-17T10:02:36 1771322556"><a href="item?id=47045612">4 days ago</a></span> <span id="unv_47045612"></span> | <a href="item?id=47045612">915&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.tomaszdunia.pl/grapheneos-eng/">GrapheneOS – Break Free from Google and Apple</a><span class="sitebit comhead"> (<a href="from?site=blog.tomaszdunia.pl"><span class="sitestr">blog.tomaszdunia.pl</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47045612">1175 points</span> by <a href="user?id=to3k" class="hnuser">to3k</a> <span class="age" title="2026-02-17T10:02:36 1771322556"><a href="item?id=47045612">4 days ago</a></span> <span id="unv_47045612"></span> | <a href="item?id=47045612">915&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.tomaszdunia.pl/grapheneos-eng/">GrapheneOS – Break Free from Google and Apple</a><span class="sitebit comhead"> (<a href="from?site=blog.tomaszdunia.pl"><span class="sitestr">blog.tomaszdunia.pl</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thank HN: You helped save 33k lives]]></title>
@@ -73,6 +73,6 @@
         <id>link-4cbe729d942575c686039a7672ab420e</id>
         <link href="https://news.ycombinator.com/item?id=47074735"/>
         <updated>2026-02-20T13:00:06.066Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47074735">941 points</span> by <a href="user?id=MallocVoidstar" class="hnuser">MallocVoidstar</a> <span class="age" title="2026-02-19T15:19:57 1771514397"><a href="item?id=47074735">1 day ago</a></span> <span id="unv_47074735"></span> | <a href="item?id=47074735">893&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47074735">943 points</span> by <a href="user?id=MallocVoidstar" class="hnuser">MallocVoidstar</a> <span class="age" title="2026-02-19T15:19:57 1771514397"><a href="item?id=47074735">2 days ago</a></span> <span id="unv_47074735"></span> | <a href="item?id=47074735">896&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
     </entry>
 </feed>
