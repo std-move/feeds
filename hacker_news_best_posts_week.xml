@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-21T10:28:47.293Z</updated>
+    <updated>2026-02-21T12:51:03.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
-    <entry>
-        <title type="html"><![CDATA[I want to wash my car. The car wash is 50 meters away. Should I walk or drive? (mastodon.world)]]></title>
-        <id>link-a5ad109a4d5e2e141e81e97cf3ec0a52</id>
-        <link href="https://news.ycombinator.com/item?id=47031580"/>
-        <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47031580">1511 points</span> by <a href="user?id=novemp" class="hnuser">novemp</a> <span class="age" title="2026-02-16T06:31:48 1771223508"><a href="item?id=47031580">5 days ago</a></span> <span id="unv_47031580"></span> | <a href="item?id=47031580">948&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.world/@knowmadd/116072773118828295">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a><span class="sitebit comhead"> (<a href="from?site=mastodon.world"><span class="sitestr">mastodon.world</span></a>)</span></span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Keep Android Open (f-droid.org)]]></title>
         <id>link-91918a9a6ff12ed93c88156aaccbcad0</id>
         <link href="https://news.ycombinator.com/item?id=47091419"/>
         <updated>2026-02-20T20:33:20.908Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091419">1505 points</span> by <a href="user?id=LorenDB" class="hnuser">LorenDB</a> <span class="age" title="2026-02-20T17:58:51 1771610331"><a href="item?id=47091419">16 hours ago</a></span> <span id="unv_47091419"></span> | <a href="item?id=47091419">563&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://f-droid.org/2026/02/20/twif.html">Keep Android Open</a><span class="sitebit comhead"> (<a href="from?site=f-droid.org"><span class="sitestr">f-droid.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091419">1631 points</span> by <a href="user?id=LorenDB" class="hnuser">LorenDB</a> <span class="age" title="2026-02-20T17:58:51 1771610331"><a href="item?id=47091419">18 hours ago</a></span> <span id="unv_47091419"></span> | <a href="item?id=47091419">588&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://f-droid.org/2026/02/20/twif.html">Keep Android Open</a><span class="sitebit comhead"> (<a href="from?site=f-droid.org"><span class="sitestr">f-droid.org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I want to wash my car. The car wash is 50 meters away. Should I walk or drive? (mastodon.world)]]></title>
+        <id>link-a5ad109a4d5e2e141e81e97cf3ec0a52</id>
+        <link href="https://news.ycombinator.com/item?id=47031580"/>
+        <updated>2026-02-19T05:22:16.502Z</updated>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47031580">1511 points</span> by <a href="user?id=novemp" class="hnuser">novemp</a> <span class="age" title="2026-02-16T06:31:48 1771223508"><a href="item?id=47031580">5 days ago</a></span> <span id="unv_47031580"></span> | <a href="item?id=47031580">948&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://mastodon.world/@knowmadd/116072773118828295">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a><span class="sitebit comhead"> (<a href="from?site=mastodon.world"><span class="sitestr">mastodon.world</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I’m joining OpenAI (steipete.me)]]></title>
@@ -31,35 +31,35 @@
         <id>link-d8f63d227db5fe21665afc4e9bb51f8b</id>
         <link href="https://news.ycombinator.com/item?id=47089213"/>
         <updated>2026-02-20T18:50:29.379Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47089213">1398 points</span> by <a href="user?id=blackguardx" class="hnuser">blackguardx</a> <span class="age" title="2026-02-20T15:27:38 1771601258"><a href="item?id=47089213">19 hours ago</a></span> <span id="unv_47089213"></span> | <a href="item?id=47089213">1142&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/news/live/c0l9r67drg7t">Trump's global tariffs struck down by US Supreme Court</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47089213">1425 points</span> by <a href="user?id=blackguardx" class="hnuser">blackguardx</a> <span class="age" title="2026-02-20T15:27:38 1771601258"><a href="item?id=47089213">21 hours ago</a></span> <span id="unv_47089213"></span> | <a href="item?id=47089213">1165&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/news/live/c0l9r67drg7t">Trump's global tariffs struck down by US Supreme Court</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Sonnet 4.6 (anthropic.com)]]></title>
         <id>link-dea4ddf585eec1c0c9b46da55694c209</id>
         <link href="https://news.ycombinator.com/item?id=47050488"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47050488">1336 points</span> by <a href="user?id=adocomplete" class="hnuser">adocomplete</a> <span class="age" title="2026-02-17T17:48:52 1771350532"><a href="item?id=47050488">3 days ago</a></span> <span id="unv_47050488"></span> | <a href="item?id=47050488">1216&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-sonnet-4-6">Claude Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47050488">1337 points</span> by <a href="user?id=adocomplete" class="hnuser">adocomplete</a> <span class="age" title="2026-02-17T17:48:52 1771350532"><a href="item?id=47050488">3 days ago</a></span> <span id="unv_47050488"></span> | <a href="item?id=47050488">1216&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-sonnet-4-6">Claude Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GrapheneOS – Break Free from Google and Apple (blog.tomaszdunia.pl)]]></title>
         <id>link-d588401fcbd6e85fc27fe0fcc2992e0c</id>
         <link href="https://news.ycombinator.com/item?id=47045612"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47045612">1173 points</span> by <a href="user?id=to3k" class="hnuser">to3k</a> <span class="age" title="2026-02-17T10:02:36 1771322556"><a href="item?id=47045612">4 days ago</a></span> <span id="unv_47045612"></span> | <a href="item?id=47045612">914&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.tomaszdunia.pl/grapheneos-eng/">GrapheneOS – Break Free from Google and Apple</a><span class="sitebit comhead"> (<a href="from?site=blog.tomaszdunia.pl"><span class="sitestr">blog.tomaszdunia.pl</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank HN: You helped save 33k lives]]></title>
-        <id>link-828fe816fbe64ebc21b458fa0d7cea34</id>
-        <link href="https://news.ycombinator.com/item?id=47049824"/>
-        <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47049824">1136 points</span> by <a href="user?id=chaseadam17" class="hnuser">chaseadam17</a> <span class="age" title="2026-02-17T17:06:18 1771347978"><a href="item?id=47049824">3 days ago</a></span> <span id="unv_47049824"></span> | <a href="item?id=47049824">113&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47049824">Thank HN: You helped save 33k lives</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47045612">1174 points</span> by <a href="user?id=to3k" class="hnuser">to3k</a> <span class="age" title="2026-02-17T10:02:36 1771322556"><a href="item?id=47045612">4 days ago</a></span> <span id="unv_47045612"></span> | <a href="item?id=47045612">915&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.tomaszdunia.pl/grapheneos-eng/">GrapheneOS – Break Free from Google and Apple</a><span class="sitebit comhead"> (<a href="from?site=blog.tomaszdunia.pl"><span class="sitestr">blog.tomaszdunia.pl</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Facebook is cooked (pilk.website)]]></title>
         <id>link-79bc68853abf0396e65514fe58396cc6</id>
         <link href="https://news.ycombinator.com/item?id=47091748"/>
         <updated>2026-02-21T02:01:21.320Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091748">1097 points</span> by <a href="user?id=npilk" class="hnuser">npilk</a> <span class="age" title="2026-02-20T18:25:07 1771611907"><a href="item?id=47091748">16 hours ago</a></span> <span id="unv_47091748"></span> | <a href="item?id=47091748">590&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pilk.website/3/facebook-is-absolutely-cooked">Facebook is cooked</a><span class="sitebit comhead"> (<a href="from?site=pilk.website"><span class="sitestr">pilk.website</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091748">1166 points</span> by <a href="user?id=npilk" class="hnuser">npilk</a> <span class="age" title="2026-02-20T18:25:07 1771611907"><a href="item?id=47091748">18 hours ago</a></span> <span id="unv_47091748"></span> | <a href="item?id=47091748">642&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pilk.website/3/facebook-is-absolutely-cooked">Facebook is cooked</a><span class="sitebit comhead"> (<a href="from?site=pilk.website"><span class="sitestr">pilk.website</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank HN: You helped save 33k lives]]></title>
+        <id>link-828fe816fbe64ebc21b458fa0d7cea34</id>
+        <link href="https://news.ycombinator.com/item?id=47049824"/>
+        <updated>2026-02-19T05:22:16.502Z</updated>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47049824">1137 points</span> by <a href="user?id=chaseadam17" class="hnuser">chaseadam17</a> <span class="age" title="2026-02-17T17:06:18 1771347978"><a href="item?id=47049824">3 days ago</a></span> <span id="unv_47049824"></span> | <a href="item?id=47049824">113&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47049824">Thank HN: You helped save 33k lives</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[15 years later, Microsoft morged my diagram (nvie.com)]]></title>
@@ -73,7 +73,7 @@
         <id>link-4cbe729d942575c686039a7672ab420e</id>
         <link href="https://news.ycombinator.com/item?id=47074735"/>
         <updated>2026-02-20T02:06:56.703Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47074735">936 points</span> by <a href="user?id=MallocVoidstar" class="hnuser">MallocVoidstar</a> <span class="age" title="2026-02-19T15:19:57 1771514397"><a href="item?id=47074735">1 day ago</a></span> <span id="unv_47074735"></span> | <a href="item?id=47074735">892&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47074735">940 points</span> by <a href="user?id=MallocVoidstar" class="hnuser">MallocVoidstar</a> <span class="age" title="2026-02-19T15:19:57 1771514397"><a href="item?id=47074735">1 day ago</a></span> <span id="unv_47074735"></span> | <a href="item?id=47074735">893&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=blog.google"><span class="sitestr">blog.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14-year-old Miles Wu folded origami pattern that holds 10k times its own weight (smithsonianmag.com)]]></title>
@@ -94,7 +94,7 @@
         <id>link-0fe1d11bdbeea9eb82ba8a299fe39c88</id>
         <link href="https://news.ycombinator.com/item?id=47066552"/>
         <updated>2026-02-19T08:44:14.661Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47066552">818 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-18T21:18:20 1771449500"><a href="item?id=47066552">2 days ago</a></span> <span id="unv_47066552"></span> | <a href="item?id=47066552">421&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pudding.cool/2026/02/womens-sizing/">Sizing chaos</a><span class="sitebit comhead"> (<a href="from?site=pudding.cool"><span class="sitestr">pudding.cool</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47066552">817 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-02-18T21:18:20 1771449500"><a href="item?id=47066552">2 days ago</a></span> <span id="unv_47066552"></span> | <a href="item?id=47066552">421&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pudding.cool/2026/02/womens-sizing/">Sizing chaos</a><span class="sitebit comhead"> (<a href="from?site=pudding.cool"><span class="sitestr">pudding.cool</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI adoption and Solow's productivity paradox (fortune.com)]]></title>
@@ -104,74 +104,74 @@
         <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47055979">786 points</span> by <a href="user?id=virgildotcodes" class="hnuser">virgildotcodes</a> <span class="age" title="2026-02-18T01:40:52 1771378852"><a href="item?id=47055979">3 days ago</a></span> <span id="unv_47055979"></span> | <a href="item?id=47055979">747&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/">AI adoption and Solow's productivity paradox</a><span class="sitebit comhead"> (<a href="from?site=fortune.com"><span class="sitestr">fortune.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021) (sceneandheardnu.com)]]></title>
-        <id>link-b5b90438fad0f82b181bd6b55499f2f8</id>
-        <link href="https://news.ycombinator.com/item?id=47056314"/>
-        <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47056314">753 points</span> by <a href="user?id=walterbell" class="hnuser">walterbell</a> <span class="age" title="2026-02-18T02:18:29 1771381109"><a href="item?id=47056314">3 days ago</a></span> <span id="unv_47056314"></span> | <a href="item?id=47056314">391&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire">Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)</a><span class="sitebit comhead"> (<a href="from?site=sceneandheardnu.com"><span class="sitestr">sceneandheardnu.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The path to ubiquitous AI (17k tokens/sec) (taalas.com)]]></title>
         <id>link-75f6198df9f7e2669e50f7a70d6e0b9c</id>
         <link href="https://news.ycombinator.com/item?id=47086181"/>
         <updated>2026-02-20T18:50:29.379Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47086181">742 points</span> by <a href="user?id=sidnarsipur" class="hnuser">sidnarsipur</a> <span class="age" title="2026-02-20T10:32:52 1771583572"><a href="item?id=47086181">23 hours ago</a></span> <span id="unv_47086181"></span> | <a href="item?id=47086181">412&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://taalas.com/the-path-to-ubiquitous-ai/">The path to ubiquitous AI (17k tokens/sec)</a><span class="sitebit comhead"> (<a href="from?site=taalas.com"><span class="sitestr">taalas.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47086181">756 points</span> by <a href="user?id=sidnarsipur" class="hnuser">sidnarsipur</a> <span class="age" title="2026-02-20T10:32:52 1771583572"><a href="item?id=47086181">1 day ago</a></span> <span id="unv_47086181"></span> | <a href="item?id=47086181">418&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://taalas.com/the-path-to-ubiquitous-ai/">The path to ubiquitous AI (17k tokens/sec)</a><span class="sitebit comhead"> (<a href="from?site=taalas.com"><span class="sitestr">taalas.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI (github.com/ggml-org)]]></title>
         <id>link-3e73e8b4d8588096909ead177a3b1bb0</id>
         <link href="https://news.ycombinator.com/item?id=47088037"/>
         <updated>2026-02-20T20:33:20.908Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47088037">737 points</span> by <a href="user?id=lairv" class="hnuser">lairv</a> <span class="age" title="2026-02-20T13:51:04 1771595464"><a href="item?id=47088037">20 hours ago</a></span> <span id="unv_47088037"></span> | <a href="item?id=47088037">181&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/ggml-org/llama.cpp/discussions/19759">Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a><span class="sitebit comhead"> (<a href="from?site=github.com/ggml-org"><span class="sitestr">github.com/ggml-org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47088037">753 points</span> by <a href="user?id=lairv" class="hnuser">lairv</a> <span class="age" title="2026-02-20T13:51:04 1771595464"><a href="item?id=47088037">22 hours ago</a></span> <span id="unv_47088037"></span> | <a href="item?id=47088037">193&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/ggml-org/llama.cpp/discussions/19759">Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a><span class="sitebit comhead"> (<a href="from?site=github.com/ggml-org"><span class="sitestr">github.com/ggml-org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021) (sceneandheardnu.com)]]></title>
+        <id>link-b5b90438fad0f82b181bd6b55499f2f8</id>
+        <link href="https://news.ycombinator.com/item?id=47056314"/>
+        <updated>2026-02-19T05:22:16.502Z</updated>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47056314">753 points</span> by <a href="user?id=walterbell" class="hnuser">walterbell</a> <span class="age" title="2026-02-18T02:18:29 1771381109"><a href="item?id=47056314">3 days ago</a></span> <span id="unv_47056314"></span> | <a href="item?id=47056314">392&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire">Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)</a><span class="sitebit comhead"> (<a href="from?site=sceneandheardnu.com"><span class="sitestr">sceneandheardnu.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I tried building my startup entirely on European infrastructure (coinerella.com)]]></title>
         <id>link-f65756d28dac2092600c77e1b1b75ae4</id>
         <link href="https://news.ycombinator.com/item?id=47085483"/>
         <updated>2026-02-20T14:39:22.525Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47085483">707 points</span> by <a href="user?id=willy__" class="hnuser">willy__</a> <span class="age" title="2026-02-20T09:02:05 1771578125"><a href="item?id=47085483">1 day ago</a></span> <span id="unv_47085483"></span> | <a href="item?id=47085483">362&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/">I tried building my startup entirely on European infrastructure</a><span class="sitebit comhead"> (<a href="from?site=coinerella.com"><span class="sitestr">coinerella.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47085483">711 points</span> by <a href="user?id=willy__" class="hnuser">willy__</a> <span class="age" title="2026-02-20T09:02:05 1771578125"><a href="item?id=47085483">1 day ago</a></span> <span id="unv_47085483"></span> | <a href="item?id=47085483">364&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/">I tried building my startup entirely on European infrastructure</a><span class="sitebit comhead"> (<a href="from?site=coinerella.com"><span class="sitestr">coinerella.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI makes you boring (marginalia.nu)]]></title>
         <id>link-c4e6b495664c3277c7c8b7d37bfab989</id>
         <link href="https://news.ycombinator.com/item?id=47076966"/>
         <updated>2026-02-19T22:32:35.254Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47076966">685 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-02-19T18:12:16 1771524736"><a href="item?id=47076966">1 day ago</a></span> <span id="unv_47076966"></span> | <a href="item?id=47076966">368&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/log/a_132_ai_bores/">AI makes you boring</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47076966">687 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-02-19T18:12:16 1771524736"><a href="item?id=47076966">1 day ago</a></span> <span id="unv_47076966"></span> | <a href="item?id=47076966">368&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/log/a_132_ai_bores/">AI makes you boring</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I found a useful Git one liner buried in leaked CIA developer docs (spencer.wtf)]]></title>
         <id>link-8f05bbf2d0afafccf6ce7cba4406e0b8</id>
         <link href="https://news.ycombinator.com/item?id=47088181"/>
         <updated>2026-02-20T20:33:20.908Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47088181">652 points</span> by <a href="user?id=spencerldixon" class="hnuser">spencerldixon</a> <span class="age" title="2026-02-20T14:03:06 1771596186"><a href="item?id=47088181">20 hours ago</a></span> <span id="unv_47088181"></span> | <a href="item?id=47088181">231&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html">I found a useful Git one liner buried in leaked CIA developer docs</a><span class="sitebit comhead"> (<a href="from?site=spencer.wtf"><span class="sitestr">spencer.wtf</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic officially bans using subscription auth for third party use (claude.com)]]></title>
-        <id>link-6858b746e77b79ea5fa66fc31a9000e0</id>
-        <link href="https://news.ycombinator.com/item?id=47069299"/>
-        <updated>2026-02-19T14:48:09.628Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47069299">646 points</span> by <a href="user?id=theahura" class="hnuser">theahura</a> <span class="age" title="2026-02-19T02:52:26 1771469546"><a href="item?id=47069299">2 days ago</a></span> <span id="unv_47069299"></span> | <a href="item?id=47069299">779&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://code.claude.com/docs/en/legal-and-compliance">Anthropic officially bans using subscription auth for third party use</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Micasa – track your house from the terminal (micasa.dev)]]></title>
-        <id>link-153cf0446e071ac511a65038b889a57d</id>
-        <link href="https://news.ycombinator.com/item?id=47075124"/>
-        <updated>2026-02-20T02:06:56.703Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075124">627 points</span> by <a href="user?id=cpcloud" class="hnuser">cpcloud</a> <span class="age" title="2026-02-19T15:54:14 1771516454"><a href="item?id=47075124">1 day ago</a></span> <span id="unv_47075124"></span> | <a href="item?id=47075124">200&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://micasa.dev">Show HN: Micasa – track your house from the terminal</a><span class="sitebit comhead"> (<a href="from?site=micasa.dev"><span class="sitestr">micasa.dev</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.1 Pro (deepmind.google)]]></title>
-        <id>link-d108ee3195b710d9cb52d064996d3eb8</id>
-        <link href="https://news.ycombinator.com/item?id=47075318"/>
-        <updated>2026-02-19T20:34:12.023Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075318">608 points</span> by <a href="user?id=PunchTornado" class="hnuser">PunchTornado</a> <span class="age" title="2026-02-19T16:14:07 1771517647"><a href="item?id=47075318">1 day ago</a></span> <span id="unv_47075318"></span> | <a href="item?id=47075318">9&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/model-cards/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47088181">660 points</span> by <a href="user?id=spencerldixon" class="hnuser">spencerldixon</a> <span class="age" title="2026-02-20T14:03:06 1771596186"><a href="item?id=47088181">22 hours ago</a></span> <span id="unv_47088181"></span> | <a href="item?id=47088181">234&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html">I found a useful Git one liner buried in leaked CIA developer docs</a><span class="sitebit comhead"> (<a href="from?site=spencer.wtf"><span class="sitestr">spencer.wtf</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I found a Vulnerability. They found a Lawyer (dixken.de)]]></title>
         <id>link-641f2f8d388e0123c2229afd4041556c</id>
         <link href="https://news.ycombinator.com/item?id=47092578"/>
         <updated>2026-02-21T08:32:37.203Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47092578">597 points</span> by <a href="user?id=toomuchtodo" class="hnuser">toomuchtodo</a> <span class="age" title="2026-02-20T19:19:58 1771615198"><a href="item?id=47092578">15 hours ago</a></span> <span id="unv_47092578"></span> | <a href="item?id=47092578">269&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer">I found a Vulnerability. They found a Lawyer</a><span class="sitebit comhead"> (<a href="from?site=dixken.de"><span class="sitestr">dixken.de</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47092578">653 points</span> by <a href="user?id=toomuchtodo" class="hnuser">toomuchtodo</a> <span class="age" title="2026-02-20T19:19:58 1771615198"><a href="item?id=47092578">17 hours ago</a></span> <span id="unv_47092578"></span> | <a href="item?id=47092578">299&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer">I found a Vulnerability. They found a Lawyer</a><span class="sitebit comhead"> (<a href="from?site=dixken.de"><span class="sitestr">dixken.de</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic officially bans using subscription auth for third party use (claude.com)]]></title>
+        <id>link-6858b746e77b79ea5fa66fc31a9000e0</id>
+        <link href="https://news.ycombinator.com/item?id=47069299"/>
+        <updated>2026-02-19T14:48:09.628Z</updated>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47069299">647 points</span> by <a href="user?id=theahura" class="hnuser">theahura</a> <span class="age" title="2026-02-19T02:52:26 1771469546"><a href="item?id=47069299">2 days ago</a></span> <span id="unv_47069299"></span> | <a href="item?id=47069299">781&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://code.claude.com/docs/en/legal-and-compliance">Anthropic officially bans using subscription auth for third party use</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Micasa – track your house from the terminal (micasa.dev)]]></title>
+        <id>link-153cf0446e071ac511a65038b889a57d</id>
+        <link href="https://news.ycombinator.com/item?id=47075124"/>
+        <updated>2026-02-20T02:06:56.703Z</updated>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075124">630 points</span> by <a href="user?id=cpcloud" class="hnuser">cpcloud</a> <span class="age" title="2026-02-19T15:54:14 1771516454"><a href="item?id=47075124">1 day ago</a></span> <span id="unv_47075124"></span> | <a href="item?id=47075124">200&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://micasa.dev">Show HN: Micasa – track your house from the terminal</a><span class="sitebit comhead"> (<a href="from?site=micasa.dev"><span class="sitestr">micasa.dev</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.1 Pro (deepmind.google)]]></title>
+        <id>link-d108ee3195b710d9cb52d064996d3eb8</id>
+        <link href="https://news.ycombinator.com/item?id=47075318"/>
+        <updated>2026-02-19T20:34:12.023Z</updated>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075318">608 points</span> by <a href="user?id=PunchTornado" class="hnuser">PunchTornado</a> <span class="age" title="2026-02-19T16:14:07 1771517647"><a href="item?id=47075318">1 day ago</a></span> <span id="unv_47075318"></span> | <a href="item?id=47075318">9&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/model-cards/gemini-3-1-pro/">Gemini 3.1 Pro</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dark web agent spotted bedroom wall clue to rescue girl from abuse (bbc.com)]]></title>
@@ -199,7 +199,7 @@
         <id>link-be239a85f80317832dfe3436e8b3ca79</id>
         <link href="https://news.ycombinator.com/item?id=47049426"/>
         <updated>2026-02-19T05:22:16.502Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47049426">533 points</span> by <a href="user?id=theahura" class="hnuser">theahura</a> <span class="age" title="2026-02-17T16:37:41 1771346261"><a href="item?id=47049426">3 days ago</a></span> <span id="unv_47049426"></span> | <a href="item?id=47049426">258&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341">CBS didn't air Rep. James Talarico interview out of fear of FCC</a><span class="sitebit comhead"> (<a href="from?site=nbcnews.com"><span class="sitestr">nbcnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47049426">533 points</span> by <a href="user?id=theahura" class="hnuser">theahura</a> <span class="age" title="2026-02-17T16:37:41 1771346261"><a href="item?id=47049426">3 days ago</a></span> <span id="unv_47049426"></span> | <a href="item?id=47049426">259&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341">CBS didn't air Rep. James Talarico interview out of fear of FCC</a><span class="sitebit comhead"> (<a href="from?site=nbcnews.com"><span class="sitestr">nbcnews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ministry of Justice orders deletion of the UK's largest court reporting database (legalcheek.com)]]></title>
@@ -213,6 +213,6 @@
         <id>link-ceb1c808edba474633a7192e82815216</id>
         <link href="https://news.ycombinator.com/item?id=47083145"/>
         <updated>2026-02-20T14:39:22.525Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47083145">519 points</span> by <a href="user?id=scottshambaugh" class="hnuser">scottshambaugh</a> <span class="age" title="2026-02-20T03:05:08 1771556708"><a href="item?id=47083145">1 day ago</a></span> <span id="unv_47083145"></span> | <a href="item?id=47083145">468&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/">An AI Agent Published a Hit Piece on Me – The Operator Came Forward</a><span class="sitebit comhead"> (<a href="from?site=theshamblog.com"><span class="sitestr">theshamblog.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47083145">519 points</span> by <a href="user?id=scottshambaugh" class="hnuser">scottshambaugh</a> <span class="age" title="2026-02-20T03:05:08 1771556708"><a href="item?id=47083145">1 day ago</a></span> <span id="unv_47083145"></span> | <a href="item?id=47083145">470&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/">An AI Agent Published a Hit Piece on Me – The Operator Came Forward</a><span class="sitebit comhead"> (<a href="from?site=theshamblog.com"><span class="sitestr">theshamblog.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
