@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-02-22T06:53:18.441Z</updated>
+    <updated>2026-02-22T08:35:33.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>link-ef94b5b56ccba7c3958a305b3ea6bf36</id>
         <link href="https://en.wikipedia.org/wiki/Beta-propeller_protein-associated_neurodegeneration"/>
         <updated>2026-02-22T02:10:52.590Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Beta-propeller_protein-associated_neurodegeneration" title="Beta-propeller protein-associated neurodegeneration">beta-propeller protein-associated neurodegeneration</a></b> can mostly be seen in girls due to its inheritance nature?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Beta-propeller_protein-associated_neurodegeneration" title="Beta-propeller protein-associated neurodegeneration">beta-propeller protein-associated neurodegeneration</a></b> can more often be seen in girls due to its inheritance nature?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jerry Welsh]]></title>
