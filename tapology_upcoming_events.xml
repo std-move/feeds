@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-02-21T22:26:28.544Z</updated>
+    <updated>2026-02-22T02:14:28.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Barrios vs. Garcia — 2026-02-21 18:00:00 -0500]]></title>
-        <id>link-472ac2057e1ac5b4a6ccb8ff272d7271</id>
-        <link href="https://www.tapology.com/fightcenter/events/136905-barrios-vs-garcia"/>
-        <updated>2026-02-07T22:26:59.912Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136905-barrios-vs-garcia">Barrios vs. Garcia</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-21 18:00:00 -0500">in 35 minutes</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[LFA 227 — 2026-02-27 20:00:00 -0500]]></title>
         <id>link-54eaf1e999656dfa12af92ee7364c98c</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/138813-lfa-227-do-nascimento-vs-kamikubo">LFA 227</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-02-27 20:00:00 -0500">in 6 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-02-27 20:00:00 -0500">in 5 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-03-08 17:00:00 -0400">in 2 weeks</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cage Warriors 201 — 2026-03-13 11:00:00 -0400]]></title>
+        <id>link-e7b379f8490ef83aa303727708d75563</id>
+        <link href="https://www.tapology.com/fightcenter/events/136751-cage-warriors-201"/>
+        <updated>2026-02-22T02:10:52.590Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136751-cage-warriors-201">Cage Warriors 201</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-03-13 11:00:00 -0400">in 2 weeks</abbr>
 </td>]]></content>
     </entry>
 </feed>
