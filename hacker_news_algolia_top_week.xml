@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - top stories (week)</title>
-    <updated>2026-02-23T08:53:48.956Z</updated>
+    <updated>2026-02-23T10:53:57.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -101,7 +101,7 @@
         <id>link-0fe1d11bdbeea9eb82ba8a299fe39c88</id>
         <link href="https://news.ycombinator.com/item?id=47066552"/>
         <updated>2026-02-19T13:07:05.639Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47066552"><span>Sizing chaos</span></a><a href="https://pudding.cool/2026/02/womens-sizing/" target="_blank" class="Story_link">(https://pudding.cool/2026/02/womens-sizing/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47066552">823 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=zdw"><span>zdw</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47066552">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47066552">423 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47066552"><span>Sizing chaos</span></a><a href="https://pudding.cool/2026/02/womens-sizing/" target="_blank" class="Story_link">(https://pudding.cool/2026/02/womens-sizing/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47066552">823 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=zdw"><span>zdw</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47066552">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47066552">423 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI]]></title>
@@ -178,7 +178,7 @@
         <id>link-41e45cc9955a85e041ba929fe33d0b80</id>
         <link href="https://news.ycombinator.com/item?id=47094192"/>
         <updated>2026-02-21T22:12:19.820Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47094192"><span>Turn Dependabot off</span></a><a href="https://words.filippo.io/dependabot/" target="_blank" class="Story_link">(https://words.filippo.io/dependabot/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47094192">629 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=todsacerdoti"><span>todsacerdoti</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47094192">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47094192">185 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47094192"><span>Turn Dependabot off</span></a><a href="https://words.filippo.io/dependabot/" target="_blank" class="Story_link">(https://words.filippo.io/dependabot/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47094192">629 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=todsacerdoti"><span>todsacerdoti</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47094192">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47094192">185 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gemini 3.1 Pro]]></title>
