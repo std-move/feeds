@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-02-23T13:08:25.753Z</updated>
+    <updated>2026-02-23T14:49:22.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>link-0403fb94c067c514d6c0015c323054dd</id>
         <link href="https://en.wikipedia.org/wiki/Mason_Howell"/>
         <updated>2026-02-23T13:06:01.033Z</updated>
-        <content type="html"><![CDATA[... that 2025 <a href="/wiki/U.S._Amateur" title="U.S. Amateur">U.S. Amateur</a> champion <b><a href="/wiki/Mason_Howell" title="Mason Howell">Mason Howell</a></b> dressed as golfer <a href="/wiki/Bobby_Jones_(golfer)" title="Bobby Jones (golfer)">Bobby Jones</a> for Halloween at the age of four?]]></content>
+        <content type="html"><![CDATA[... that when 2025 <a href="/wiki/U.S._Amateur" title="U.S. Amateur">U.S. Amateur</a> champion <b><a href="/wiki/Mason_Howell" title="Mason Howell">Mason Howell</a></b> was four, he dressed as golfer <a href="/wiki/Bobby_Jones_(golfer)" title="Bobby Jones (golfer)">Bobby Jones</a> for Halloween?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Real Madrid's 1927 tour of the Americas]]></title>
