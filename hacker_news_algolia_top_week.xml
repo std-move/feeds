@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - top stories (week)</title>
-    <updated>2026-02-23T10:53:57.803Z</updated>
+    <updated>2026-02-23T13:08:25.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -136,7 +136,7 @@
         <id>link-4236c9ce1bad1dafcc3f5c1ef2b63b86</id>
         <link href="https://news.ycombinator.com/item?id=47106686"/>
         <updated>2026-02-22T12:51:36.654Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47106686"><span>How I use Claude Code: Separation of planning and execution</span></a><a href="https://boristane.com/blog/how-i-use-claude-code/" target="_blank" class="Story_link">(https://boristane.com/blog/how-i-use-claude-code/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47106686">716 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=vinhnx"><span>vinhnx</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47106686">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47106686">454 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47106686"><span>How I use Claude Code: Separation of planning and execution</span></a><a href="https://boristane.com/blog/how-i-use-claude-code/" target="_blank" class="Story_link">(https://boristane.com/blog/how-i-use-claude-code/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47106686">716 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=vinhnx"><span>vinhnx</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47106686">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47106686">454 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I found a useful Git one liner buried in leaked CIA developer docs]]></title>
@@ -199,7 +199,7 @@
         <id>link-5c95b846a6890460d3d468f562e519d9</id>
         <link href="https://news.ycombinator.com/item?id=47042396"/>
         <updated>2026-02-22T18:37:10.010Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47042396"><span>Dark web agent spotted bedroom wall clue to rescue girl from abuse</span></a><a href="https://www.bbc.com/news/articles/cx2gn239exlo" target="_blank" class="Story_link">(https://www.bbc.com/news/articles/cx2gn239exlo)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47042396">569 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=colinprince"><span>colinprince</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47042396">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47042396">357 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47042396"><span>Dark web agent spotted bedroom wall clue to rescue girl from abuse</span></a><a href="https://www.bbc.com/news/articles/cx2gn239exlo" target="_blank" class="Story_link">(https://www.bbc.com/news/articles/cx2gn239exlo)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47042396">569 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=colinprince"><span>colinprince</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47042396">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47042396">357 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony]]></title>
