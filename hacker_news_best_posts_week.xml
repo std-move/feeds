@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-24T08:52:44.440Z</updated>
+    <updated>2026-02-24T10:52:42.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>link-91918a9a6ff12ed93c88156aaccbcad0</id>
         <link href="https://news.ycombinator.com/item?id=47091419"/>
         <updated>2026-02-20T20:33:20.908Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091419">2233 points</span> by <a href="user?id=LorenDB" class="hnuser">LorenDB</a> <span class="age" title="2026-02-20T17:58:51 1771610331"><a href="item?id=47091419">3 days ago</a></span> <span id="unv_47091419"></span> | <a href="item?id=47091419">729&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://f-droid.org/2026/02/20/twif.html">Keep Android Open</a><span class="sitebit comhead"> (<a href="from?site=f-droid.org"><span class="sitestr">f-droid.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091419">2236 points</span> by <a href="user?id=LorenDB" class="hnuser">LorenDB</a> <span class="age" title="2026-02-20T17:58:51 1771610331"><a href="item?id=47091419">3 days ago</a></span> <span id="unv_47091419"></span> | <a href="item?id=47091419">729&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://f-droid.org/2026/02/20/twif.html">Keep Android Open</a><span class="sitebit comhead"> (<a href="from?site=f-droid.org"><span class="sitestr">f-droid.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I built Timeframe, our family e-paper dashboard (hawksley.org)]]></title>
         <id>link-579db3967befc679e12c294c92152bf7</id>
         <link href="https://news.ycombinator.com/item?id=47113728"/>
         <updated>2026-02-23T02:11:33.170Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47113728">1547 points</span> by <a href="user?id=saeedesmaili" class="hnuser">saeedesmaili</a> <span class="age" title="2026-02-22T19:12:31 1771787551"><a href="item?id=47113728">1 day ago</a></span> <span id="unv_47113728"></span> | <a href="item?id=47113728">356&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hawksley.org/2026/02/17/timeframe.html">I built Timeframe, our family e-paper dashboard</a><span class="sitebit comhead"> (<a href="from?site=hawksley.org"><span class="sitestr">hawksley.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47113728">1551 points</span> by <a href="user?id=saeedesmaili" class="hnuser">saeedesmaili</a> <span class="age" title="2026-02-22T19:12:31 1771787551"><a href="item?id=47113728">1 day ago</a></span> <span id="unv_47113728"></span> | <a href="item?id=47113728">359&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hawksley.org/2026/02/17/timeframe.html">I built Timeframe, our family e-paper dashboard</a><span class="sitebit comhead"> (<a href="from?site=hawksley.org"><span class="sitestr">hawksley.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trump's global tariffs struck down by US Supreme Court (bbc.com)]]></title>
@@ -34,67 +34,67 @@
         <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091748">1496 points</span> by <a href="user?id=npilk" class="hnuser">npilk</a> <span class="age" title="2026-02-20T18:25:07 1771611907"><a href="item?id=47091748">3 days ago</a></span> <span id="unv_47091748"></span> | <a href="item?id=47091748">838&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pilk.website/3/facebook-is-absolutely-cooked">Facebook is cooked</a><span class="sitebit comhead"> (<a href="from?site=pilk.website"><span class="sitestr">pilk.website</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I verified my LinkedIn identity. Here's what I handed over (thelocalstack.eu)]]></title>
-        <id>link-3fb0eddd4c92060aab1fab678c6e1f31</id>
-        <link href="https://news.ycombinator.com/item?id=47098245"/>
-        <updated>2026-02-21T16:29:40.546Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47098245">1459 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-02-21T07:06:18 1771657578"><a href="item?id=47098245">3 days ago</a></span> <span id="unv_47098245"></span> | <a href="item?id=47098245">490&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/">I verified my LinkedIn identity. Here's what I handed over</a><span class="sitebit comhead"> (<a href="from?site=thelocalstack.eu"><span class="sitestr">thelocalstack.eu</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Age Verification Trap: Verifying age undermines everyone's data protection (ieee.org)]]></title>
         <id>link-92b0988841b530d2e384be654e477c15</id>
         <link href="https://news.ycombinator.com/item?id=47122715"/>
         <updated>2026-02-23T19:03:53.458Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47122715">1422 points</span> by <a href="user?id=oldnetguy" class="hnuser">oldnetguy</a> <span class="age" title="2026-02-23T14:22:39 1771856559"><a href="item?id=47122715">18 hours ago</a></span> <span id="unv_47122715"></span> | <a href="item?id=47122715">1078&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://spectrum.ieee.org/age-verification">The Age Verification Trap: Verifying age undermines everyone's data protection</a><span class="sitebit comhead"> (<a href="from?site=ieee.org"><span class="sitestr">ieee.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47122715">1470 points</span> by <a href="user?id=oldnetguy" class="hnuser">oldnetguy</a> <span class="age" title="2026-02-23T14:22:39 1771856559"><a href="item?id=47122715">20 hours ago</a></span> <span id="unv_47122715"></span> | <a href="item?id=47122715">1123&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://spectrum.ieee.org/age-verification">The Age Verification Trap: Verifying age undermines everyone's data protection</a><span class="sitebit comhead"> (<a href="from?site=ieee.org"><span class="sitestr">ieee.org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I verified my LinkedIn identity. Here's what I handed over (thelocalstack.eu)]]></title>
+        <id>link-3fb0eddd4c92060aab1fab678c6e1f31</id>
+        <link href="https://news.ycombinator.com/item?id=47098245"/>
+        <updated>2026-02-21T16:29:40.546Z</updated>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47098245">1462 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-02-21T07:06:18 1771657578"><a href="item?id=47098245">3 days ago</a></span> <span id="unv_47098245"></span> | <a href="item?id=47098245">491&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/">I verified my LinkedIn identity. Here's what I handed over</a><span class="sitebit comhead"> (<a href="from?site=thelocalstack.eu"><span class="sitestr">thelocalstack.eu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ladybird adopts Rust, with help from AI (ladybird.org)]]></title>
         <id>link-62e38c7976ebb3c4d8514e92c46c04ce</id>
         <link href="https://news.ycombinator.com/item?id=47120899"/>
         <updated>2026-02-23T16:58:12.688Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47120899">1157 points</span> by <a href="user?id=adius" class="hnuser">adius</a> <span class="age" title="2026-02-23T11:29:22 1771846162"><a href="item?id=47120899">21 hours ago</a></span> <span id="unv_47120899"></span> | <a href="item?id=47120899">635&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ladybird.org/posts/adopting-rust/">Ladybird adopts Rust, with help from AI</a><span class="sitebit comhead"> (<a href="from?site=ladybird.org"><span class="sitestr">ladybird.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47120899">1181 points</span> by <a href="user?id=adius" class="hnuser">adius</a> <span class="age" title="2026-02-23T11:29:22 1771846162"><a href="item?id=47120899">23 hours ago</a></span> <span id="unv_47120899"></span> | <a href="item?id=47120899">650&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ladybird.org/posts/adopting-rust/">Ladybird adopts Rust, with help from AI</a><span class="sitebit comhead"> (<a href="from?site=ladybird.org"><span class="sitestr">ladybird.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How I use Claude Code: Separation of planning and execution (boristane.com)]]></title>
         <id>link-4236c9ce1bad1dafcc3f5c1ef2b63b86</id>
         <link href="https://news.ycombinator.com/item?id=47106686"/>
         <updated>2026-02-22T10:26:37.535Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47106686">949 points</span> by <a href="user?id=vinhnx" class="hnuser">vinhnx</a> <span class="age" title="2026-02-22T00:29:05 1771720145"><a href="item?id=47106686">2 days ago</a></span> <span id="unv_47106686"></span> | <a href="item?id=47106686">583&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://boristane.com/blog/how-i-use-claude-code/">How I use Claude Code: Separation of planning and execution</a><span class="sitebit comhead"> (<a href="from?site=boristane.com"><span class="sitestr">boristane.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47106686">949 points</span> by <a href="user?id=vinhnx" class="hnuser">vinhnx</a> <span class="age" title="2026-02-22T00:29:05 1771720145"><a href="item?id=47106686">2 days ago</a></span> <span id="unv_47106686"></span> | <a href="item?id=47106686">584&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://boristane.com/blog/how-i-use-claude-code/">How I use Claude Code: Separation of planning and execution</a><span class="sitebit comhead"> (<a href="from?site=boristane.com"><span class="sitestr">boristane.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I found a vulnerability. they found a lawyer (dixken.de)]]></title>
         <id>link-641f2f8d388e0123c2229afd4041556c</id>
         <link href="https://news.ycombinator.com/item?id=47092578"/>
         <updated>2026-02-21T08:32:37.203Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47092578">904 points</span> by <a href="user?id=toomuchtodo" class="hnuser">toomuchtodo</a> <span class="age" title="2026-02-20T19:19:58 1771615198"><a href="item?id=47092578">3 days ago</a></span> <span id="unv_47092578"></span> | <a href="item?id=47092578">432&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer">I found a vulnerability. they found a lawyer</a><span class="sitebit comhead"> (<a href="from?site=dixken.de"><span class="sitestr">dixken.de</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47092578">905 points</span> by <a href="user?id=toomuchtodo" class="hnuser">toomuchtodo</a> <span class="age" title="2026-02-20T19:19:58 1771615198"><a href="item?id=47092578">3 days ago</a></span> <span id="unv_47092578"></span> | <a href="item?id=47092578">433&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer">I found a vulnerability. they found a lawyer</a><span class="sitebit comhead"> (<a href="from?site=dixken.de"><span class="sitestr">dixken.de</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The path to ubiquitous AI (17k tokens/sec) (taalas.com)]]></title>
         <id>link-75f6198df9f7e2669e50f7a70d6e0b9c</id>
         <link href="https://news.ycombinator.com/item?id=47086181"/>
         <updated>2026-02-20T18:50:29.379Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47086181">838 points</span> by <a href="user?id=sidnarsipur" class="hnuser">sidnarsipur</a> <span class="age" title="2026-02-20T10:32:52 1771583572"><a href="item?id=47086181">3 days ago</a></span> <span id="unv_47086181"></span> | <a href="item?id=47086181">451&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://taalas.com/the-path-to-ubiquitous-ai/">The path to ubiquitous AI (17k tokens/sec)</a><span class="sitebit comhead"> (<a href="from?site=taalas.com"><span class="sitestr">taalas.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47086181">838 points</span> by <a href="user?id=sidnarsipur" class="hnuser">sidnarsipur</a> <span class="age" title="2026-02-20T10:32:52 1771583572"><a href="item?id=47086181">4 days ago</a></span> <span id="unv_47086181"></span> | <a href="item?id=47086181">451&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://taalas.com/the-path-to-ubiquitous-ai/">The path to ubiquitous AI (17k tokens/sec)</a><span class="sitebit comhead"> (<a href="from?site=taalas.com"><span class="sitestr">taalas.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI (github.com/ggml-org)]]></title>
         <id>link-3e73e8b4d8588096909ead177a3b1bb0</id>
         <link href="https://news.ycombinator.com/item?id=47088037"/>
         <updated>2026-02-20T20:33:20.908Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47088037">834 points</span> by <a href="user?id=lairv" class="hnuser">lairv</a> <span class="age" title="2026-02-20T13:51:04 1771595464"><a href="item?id=47088037">3 days ago</a></span> <span id="unv_47088037"></span> | <a href="item?id=47088037">224&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/ggml-org/llama.cpp/discussions/19759">Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a><span class="sitebit comhead"> (<a href="from?site=github.com/ggml-org"><span class="sitestr">github.com/ggml-org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47088037">834 points</span> by <a href="user?id=lairv" class="hnuser">lairv</a> <span class="age" title="2026-02-20T13:51:04 1771595464"><a href="item?id=47088037">3 days ago</a></span> <span id="unv_47088037"></span> | <a href="item?id=47088037">225&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/ggml-org/llama.cpp/discussions/19759">Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a><span class="sitebit comhead"> (<a href="from?site=github.com/ggml-org"><span class="sitestr">github.com/ggml-org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google restricting Google AI Pro/Ultra subscribers for using OpenClaw (ai.google.dev)]]></title>
         <id>link-efda5bbd062b9ec0e848d16244b790fa</id>
         <link href="https://news.ycombinator.com/item?id=47115805"/>
         <updated>2026-02-23T07:05:44.938Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47115805">791 points</span> by <a href="user?id=srigi" class="hnuser">srigi</a> <span class="age" title="2026-02-22T23:07:55 1771801675"><a href="item?id=47115805">1 day ago</a></span> <span id="unv_47115805"></span> | <a href="item?id=47115805">683&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778">Google restricting Google AI Pro/Ultra subscribers for using OpenClaw</a><span class="sitebit comhead"> (<a href="from?site=ai.google.dev"><span class="sitestr">ai.google.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47115805">791 points</span> by <a href="user?id=srigi" class="hnuser">srigi</a> <span class="age" title="2026-02-22T23:07:55 1771801675"><a href="item?id=47115805">1 day ago</a></span> <span id="unv_47115805"></span> | <a href="item?id=47115805">685&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778">Google restricting Google AI Pro/Ultra subscribers for using OpenClaw</a><span class="sitebit comhead"> (<a href="from?site=ai.google.dev"><span class="sitestr">ai.google.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I tried building my startup entirely on European infrastructure (coinerella.com)]]></title>
         <id>link-f65756d28dac2092600c77e1b1b75ae4</id>
         <link href="https://news.ycombinator.com/item?id=47085483"/>
         <updated>2026-02-20T14:39:22.525Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47085483">746 points</span> by <a href="user?id=willy__" class="hnuser">willy__</a> <span class="age" title="2026-02-20T09:02:05 1771578125"><a href="item?id=47085483">3 days ago</a></span> <span id="unv_47085483"></span> | <a href="item?id=47085483">374&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/">I tried building my startup entirely on European infrastructure</a><span class="sitebit comhead"> (<a href="from?site=coinerella.com"><span class="sitestr">coinerella.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47085483">746 points</span> by <a href="user?id=willy__" class="hnuser">willy__</a> <span class="age" title="2026-02-20T09:02:05 1771578125"><a href="item?id=47085483">4 days ago</a></span> <span id="unv_47085483"></span> | <a href="item?id=47085483">374&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/">I tried building my startup entirely on European infrastructure</a><span class="sitebit comhead"> (<a href="from?site=coinerella.com"><span class="sitestr">coinerella.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I found a useful Git one liner buried in leaked CIA developer docs (spencer.wtf)]]></title>
@@ -108,28 +108,28 @@
         <id>link-c4e6b495664c3277c7c8b7d37bfab989</id>
         <link href="https://news.ycombinator.com/item?id=47076966"/>
         <updated>2026-02-19T22:32:35.254Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47076966">698 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-02-19T18:12:16 1771524736"><a href="item?id=47076966">4 days ago</a></span> <span id="unv_47076966"></span> | <a href="item?id=47076966">371&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/log/a_132_ai_bores/">AI makes you boring</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Micasa – track your house from the terminal (micasa.dev)]]></title>
-        <id>link-153cf0446e071ac511a65038b889a57d</id>
-        <link href="https://news.ycombinator.com/item?id=47075124"/>
-        <updated>2026-02-20T02:06:56.703Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075124">653 points</span> by <a href="user?id=cpcloud" class="hnuser">cpcloud</a> <span class="age" title="2026-02-19T15:54:14 1771516454"><a href="item?id=47075124">4 days ago</a></span> <span id="unv_47075124"></span> | <a href="item?id=47075124">215&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://micasa.dev">Show HN: Micasa – track your house from the terminal</a><span class="sitebit comhead"> (<a href="from?site=micasa.dev"><span class="sitestr">micasa.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47076966">699 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-02-19T18:12:16 1771524736"><a href="item?id=47076966">4 days ago</a></span> <span id="unv_47076966"></span> | <a href="item?id=47076966">371&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/log/a_132_ai_bores/">AI makes you boring</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Americans are destroying Flock surveillance cameras (techcrunch.com)]]></title>
         <id>link-7a883fd31aff52631f0c845f2a2de916</id>
         <link href="https://news.ycombinator.com/item?id=47127081"/>
         <updated>2026-02-24T02:08:39.397Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47127081">646 points</span> by <a href="user?id=mikece" class="hnuser">mikece</a> <span class="age" title="2026-02-23T19:04:34 1771873474"><a href="item?id=47127081">13 hours ago</a></span> <span id="unv_47127081"></span> | <a href="item?id=47127081">430&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/">Americans are destroying Flock surveillance cameras</a><span class="sitebit comhead"> (<a href="from?site=techcrunch.com"><span class="sitestr">techcrunch.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47127081">654 points</span> by <a href="user?id=mikece" class="hnuser">mikece</a> <span class="age" title="2026-02-23T19:04:34 1771873474"><a href="item?id=47127081">15 hours ago</a></span> <span id="unv_47127081"></span> | <a href="item?id=47127081">439&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/">Americans are destroying Flock surveillance cameras</a><span class="sitebit comhead"> (<a href="from?site=techcrunch.com"><span class="sitestr">techcrunch.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Micasa – track your house from the terminal (micasa.dev)]]></title>
+        <id>link-153cf0446e071ac511a65038b889a57d</id>
+        <link href="https://news.ycombinator.com/item?id=47075124"/>
+        <updated>2026-02-20T02:06:56.703Z</updated>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47075124">653 points</span> by <a href="user?id=cpcloud" class="hnuser">cpcloud</a> <span class="age" title="2026-02-19T15:54:14 1771516454"><a href="item?id=47075124">4 days ago</a></span> <span id="unv_47075124"></span> | <a href="item?id=47075124">215&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://micasa.dev">Show HN: Micasa – track your house from the terminal</a><span class="sitebit comhead"> (<a href="from?site=micasa.dev"><span class="sitestr">micasa.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Attention Media ≠ Social Networks (susam.net)]]></title>
         <id>link-161ab584811c2f59c500434bb4735799</id>
         <link href="https://news.ycombinator.com/item?id=47110515"/>
         <updated>2026-02-23T02:11:33.170Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47110515">643 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-02-22T12:36:46 1771763806"><a href="item?id=47110515">1 day ago</a></span> <span id="unv_47110515"></span> | <a href="item?id=47110515">267&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://susam.net/attention-media-vs-social-networks.html">Attention Media ≠ Social Networks</a><span class="sitebit comhead"> (<a href="from?site=susam.net"><span class="sitestr">susam.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47110515">644 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-02-22T12:36:46 1771763806"><a href="item?id=47110515">1 day ago</a></span> <span id="unv_47110515"></span> | <a href="item?id=47110515">267&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://susam.net/attention-media-vs-social-networks.html">Attention Media ≠ Social Networks</a><span class="sitebit comhead"> (<a href="from?site=susam.net"><span class="sitestr">susam.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Turn Dependabot off (filippo.io)]]></title>
@@ -157,21 +157,21 @@
         <id>link-a4abfe4d2190039252086e65d909615e</id>
         <link href="https://news.ycombinator.com/item?id=47113618"/>
         <updated>2026-02-23T13:06:01.033Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47113618">564 points</span> by <a href="user?id=Gooblebrai" class="hnuser">Gooblebrai</a> <span class="age" title="2026-02-22T18:56:40 1771786600"><a href="item?id=47113618">1 day ago</a></span> <span id="unv_47113618"></span> | <a href="item?id=47113618">383&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://joinloops.org/">Loops is a federated, open-source TikTok</a><span class="sitebit comhead"> (<a href="from?site=joinloops.org"><span class="sitestr">joinloops.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47113618">565 points</span> by <a href="user?id=Gooblebrai" class="hnuser">Gooblebrai</a> <span class="age" title="2026-02-22T18:56:40 1771786600"><a href="item?id=47113618">1 day ago</a></span> <span id="unv_47113618"></span> | <a href="item?id=47113618">384&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://joinloops.org/">Loops is a federated, open-source TikTok</a><span class="sitebit comhead"> (<a href="from?site=joinloops.org"><span class="sitestr">joinloops.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pope tells priests to use their brains, not AI, to write homilies (ewtnnews.com)]]></title>
         <id>link-f4f8f0e34b220b980d55601622c16a4c</id>
         <link href="https://news.ycombinator.com/item?id=47119210"/>
         <updated>2026-02-24T02:08:39.397Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47119210">546 points</span> by <a href="user?id=josephcsible" class="hnuser">josephcsible</a> <span class="age" title="2026-02-23T07:33:57 1771832037"><a href="item?id=47119210">1 day ago</a></span> <span id="unv_47119210"></span> | <a href="item?id=47119210">433&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies">Pope tells priests to use their brains, not AI, to write homilies</a><span class="sitebit comhead"> (<a href="from?site=ewtnnews.com"><span class="sitestr">ewtnnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47119210">549 points</span> by <a href="user?id=josephcsible" class="hnuser">josephcsible</a> <span class="age" title="2026-02-23T07:33:57 1771832037"><a href="item?id=47119210">1 day ago</a></span> <span id="unv_47119210"></span> | <a href="item?id=47119210">435&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies">Pope tells priests to use their brains, not AI, to write homilies</a><span class="sitebit comhead"> (<a href="from?site=ewtnnews.com"><span class="sitestr">ewtnnews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Elsevier shuts down its finance journal citation cartel (chrisbrunet.com)]]></title>
         <id>link-6390c62b61dc5c83badd535cf3238811</id>
         <link href="https://news.ycombinator.com/item?id=47119530"/>
         <updated>2026-02-24T02:08:39.397Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47119530">543 points</span> by <a href="user?id=qsi" class="hnuser">qsi</a> <span class="age" title="2026-02-23T08:22:34 1771834954"><a href="item?id=47119530">1 day ago</a></span> <span id="unv_47119530"></span> | <a href="item?id=47119530">97&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal">Elsevier shuts down its finance journal citation cartel</a><span class="sitebit comhead"> (<a href="from?site=chrisbrunet.com"><span class="sitestr">chrisbrunet.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47119530">544 points</span> by <a href="user?id=qsi" class="hnuser">qsi</a> <span class="age" title="2026-02-23T08:22:34 1771834954"><a href="item?id=47119530">1 day ago</a></span> <span id="unv_47119530"></span> | <a href="item?id=47119530">99&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal">Elsevier shuts down its finance journal citation cartel</a><span class="sitebit comhead"> (<a href="from?site=chrisbrunet.com"><span class="sitestr">chrisbrunet.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[An AI Agent Published a Hit Piece on Me – The Operator Came Forward (theshamblog.com)]]></title>
@@ -195,24 +195,24 @@
         <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47079222">516 points</span> by <a href="user?id=mitchbob" class="hnuser">mitchbob</a> <span class="age" title="2026-02-19T20:56:23 1771534583"><a href="item?id=47079222">4 days ago</a></span> <span id="unv_47079222"></span> | <a href="item?id=47079222">543&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts">We're no longer attracting top talent: the brain drain killing American science</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What not to write on your security clearance form (1988) (milk.com)]]></title>
-        <id>link-dfedec25c7a5e7475334722a3bd2f55b</id>
-        <link href="https://news.ycombinator.com/item?id=47102576"/>
-        <updated>2026-02-24T08:50:53.752Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47102576">503 points</span> by <a href="user?id=wizardforhire" class="hnuser">wizardforhire</a> <span class="age" title="2026-02-21T17:08:12 1771693692"><a href="item?id=47102576">2 days ago</a></span> <span id="unv_47102576"></span> | <a href="item?id=47102576">219&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://milk.com/wall-o-shame/security_clearance.html">What not to write on your security clearance form (1988)</a><span class="sitebit comhead"> (<a href="from?site=milk.com"><span class="sitestr">milk.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Binance fired employees who found $1.7B in crypto was sent to Iran (nytimes.com)]]></title>
         <id>link-3a990804a5dafb1ea09eb536aaa04bd2</id>
         <link href="https://news.ycombinator.com/item?id=47127396"/>
         <updated>2026-02-24T08:50:53.752Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47127396">495 points</span> by <a href="user?id=boplicity" class="hnuser">boplicity</a> <span class="age" title="2026-02-23T19:23:30 1771874610"><a href="item?id=47127396">13 hours ago</a></span> <span id="unv_47127396"></span> | <a href="item?id=47127396">211&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html">Binance fired employees who found $1.7B in crypto was sent to Iran</a><span class="sitebit comhead"> (<a href="from?site=nytimes.com"><span class="sitestr">nytimes.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47127396">508 points</span> by <a href="user?id=boplicity" class="hnuser">boplicity</a> <span class="age" title="2026-02-23T19:23:30 1771874610"><a href="item?id=47127396">15 hours ago</a></span> <span id="unv_47127396"></span> | <a href="item?id=47127396">218&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html">Binance fired employees who found $1.7B in crypto was sent to Iran</a><span class="sitebit comhead"> (<a href="from?site=nytimes.com"><span class="sitestr">nytimes.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What not to write on your security clearance form (1988) (milk.com)]]></title>
+        <id>link-dfedec25c7a5e7475334722a3bd2f55b</id>
+        <link href="https://news.ycombinator.com/item?id=47102576"/>
+        <updated>2026-02-24T08:50:53.752Z</updated>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47102576">503 points</span> by <a href="user?id=wizardforhire" class="hnuser">wizardforhire</a> <span class="age" title="2026-02-21T17:08:12 1771693692"><a href="item?id=47102576">2 days ago</a></span> <span id="unv_47102576"></span> | <a href="item?id=47102576">219&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://milk.com/wall-o-shame/security_clearance.html">What not to write on your security clearance form (1988)</a><span class="sitebit comhead"> (<a href="from?site=milk.com"><span class="sitestr">milk.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable (cia-factbook-archive.fly.dev)]]></title>
         <id>link-e86954f65e067f64aa20aedd453b854f</id>
         <link href="https://news.ycombinator.com/item?id=47114530"/>
         <updated>2026-02-24T08:50:53.752Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47114530">477 points</span> by <a href="user?id=MilkMp" class="hnuser">MilkMp</a> <span class="age" title="2026-02-22T20:50:23 1771793423"><a href="item?id=47114530">1 day ago</a></span> <span id="unv_47114530"></span> | <a href="item?id=47114530">99&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://cia-factbook-archive.fly.dev/">Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable</a><span class="sitebit comhead"> (<a href="from?site=cia-factbook-archive.fly.dev"><span class="sitestr">cia-factbook-archive.fly.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47114530">480 points</span> by <a href="user?id=MilkMp" class="hnuser">MilkMp</a> <span class="age" title="2026-02-22T20:50:23 1771793423"><a href="item?id=47114530">1 day ago</a></span> <span id="unv_47114530"></span> | <a href="item?id=47114530">99&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://cia-factbook-archive.fly.dev/">Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable</a><span class="sitebit comhead"> (<a href="from?site=cia-factbook-archive.fly.dev"><span class="sitestr">cia-factbook-archive.fly.dev</span></a>)</span></span>]]></content>
     </entry>
 </feed>
