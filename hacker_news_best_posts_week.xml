@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-02-26T14:49:06.771Z</updated>
+    <updated>2026-02-26T17:01:13.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,14 +17,14 @@
         <id>link-5ed19624c407c5ba3c3b01d48b695cb8</id>
         <link href="https://news.ycombinator.com/item?id=47136179"/>
         <updated>2026-02-24T20:36:36.094Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47136179">2055 points</span> by <a href="user?id=Qem" class="hnuser">Qem</a> <span class="age" title="2026-02-24T12:16:45 1771935405"><a href="item?id=47136179">2 days ago</a></span> <span id="unv_47136179"></span> | <a href="item?id=47136179">933&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot">IDF killed Gaza aid workers at point blank range in 2025 massacre: Report</a><span class="sitebit comhead"> (<a href="from?site=dropsitenews.com"><span class="sitestr">dropsitenews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47136179">2059 points</span> by <a href="user?id=Qem" class="hnuser">Qem</a> <span class="age" title="2026-02-24T12:16:45 1771935405"><a href="item?id=47136179">2 days ago</a></span> <span id="unv_47136179"></span> | <a href="item?id=47136179">942&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot">IDF killed Gaza aid workers at point blank range in 2025 massacre: Report</a><span class="sitebit comhead"> (<a href="from?site=dropsitenews.com"><span class="sitestr">dropsitenews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Age Verification Trap: Verifying age undermines everyone's data protection (ieee.org)]]></title>
         <id>link-92b0988841b530d2e384be654e477c15</id>
         <link href="https://news.ycombinator.com/item?id=47122715"/>
         <updated>2026-02-23T19:03:53.458Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47122715">1660 points</span> by <a href="user?id=oldnetguy" class="hnuser">oldnetguy</a> <span class="age" title="2026-02-23T14:22:39 1771856559"><a href="item?id=47122715">3 days ago</a></span> <span id="unv_47122715"></span> | <a href="item?id=47122715">1294&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://spectrum.ieee.org/age-verification">The Age Verification Trap: Verifying age undermines everyone's data protection</a><span class="sitebit comhead"> (<a href="from?site=ieee.org"><span class="sitestr">ieee.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47122715">1660 points</span> by <a href="user?id=oldnetguy" class="hnuser">oldnetguy</a> <span class="age" title="2026-02-23T14:22:39 1771856559"><a href="item?id=47122715">3 days ago</a></span> <span id="unv_47122715"></span> | <a href="item?id=47122715">1295&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://spectrum.ieee.org/age-verification">The Age Verification Trap: Verifying age undermines everyone's data protection</a><span class="sitebit comhead"> (<a href="from?site=ieee.org"><span class="sitestr">ieee.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I built Timeframe, our family e-paper dashboard (hawksley.org)]]></title>
@@ -38,7 +38,7 @@
         <id>link-79bc68853abf0396e65514fe58396cc6</id>
         <link href="https://news.ycombinator.com/item?id=47091748"/>
         <updated>2026-02-21T02:01:21.320Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091748">1508 points</span> by <a href="user?id=npilk" class="hnuser">npilk</a> <span class="age" title="2026-02-20T18:25:07 1771611907"><a href="item?id=47091748">5 days ago</a></span> <span id="unv_47091748"></span> | <a href="item?id=47091748">843&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pilk.website/3/facebook-is-absolutely-cooked">Facebook is cooked</a><span class="sitebit comhead"> (<a href="from?site=pilk.website"><span class="sitestr">pilk.website</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47091748">1508 points</span> by <a href="user?id=npilk" class="hnuser">npilk</a> <span class="age" title="2026-02-20T18:25:07 1771611907"><a href="item?id=47091748">5 days ago</a></span> <span id="unv_47091748"></span> | <a href="item?id=47091748">844&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pilk.website/3/facebook-is-absolutely-cooked">Facebook is cooked</a><span class="sitebit comhead"> (<a href="from?site=pilk.website"><span class="sitestr">pilk.website</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I verified my LinkedIn identity. Here's what I handed over (thelocalstack.eu)]]></title>
@@ -52,28 +52,28 @@
         <id>link-62e38c7976ebb3c4d8514e92c46c04ce</id>
         <link href="https://news.ycombinator.com/item?id=47120899"/>
         <updated>2026-02-23T16:58:12.688Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47120899">1268 points</span> by <a href="user?id=adius" class="hnuser">adius</a> <span class="age" title="2026-02-23T11:29:22 1771846162"><a href="item?id=47120899">3 days ago</a></span> <span id="unv_47120899"></span> | <a href="item?id=47120899">697&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ladybird.org/posts/adopting-rust/">Ladybird adopts Rust, with help from AI</a><span class="sitebit comhead"> (<a href="from?site=ladybird.org"><span class="sitestr">ladybird.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47120899">1268 points</span> by <a href="user?id=adius" class="hnuser">adius</a> <span class="age" title="2026-02-23T11:29:22 1771846162"><a href="item?id=47120899">3 days ago</a></span> <span id="unv_47120899"></span> | <a href="item?id=47120899">696&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ladybird.org/posts/adopting-rust/">Ladybird adopts Rust, with help from AI</a><span class="sitebit comhead"> (<a href="from?site=ladybird.org"><span class="sitestr">ladybird.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm helping my dog vibe code games (calebleak.com)]]></title>
         <id>link-8ca617bef1226c8b7001b17023296560</id>
         <link href="https://news.ycombinator.com/item?id=47139675"/>
         <updated>2026-02-25T02:10:12.310Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47139675">1096 points</span> by <a href="user?id=cleak" class="hnuser">cleak</a> <span class="age" title="2026-02-24T17:15:17 1771953317"><a href="item?id=47139675">1 day ago</a></span> <span id="unv_47139675"></span> | <a href="item?id=47139675">368&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.calebleak.com/posts/dog-game/">I'm helping my dog vibe code games</a><span class="sitebit comhead"> (<a href="from?site=calebleak.com"><span class="sitestr">calebleak.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I use Claude Code: Separation of planning and execution (boristane.com)]]></title>
-        <id>link-4236c9ce1bad1dafcc3f5c1ef2b63b86</id>
-        <link href="https://news.ycombinator.com/item?id=47106686"/>
-        <updated>2026-02-22T10:26:37.535Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47106686">965 points</span> by <a href="user?id=vinhnx" class="hnuser">vinhnx</a> <span class="age" title="2026-02-22T00:29:05 1771720145"><a href="item?id=47106686">4 days ago</a></span> <span id="unv_47106686"></span> | <a href="item?id=47106686">589&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://boristane.com/blog/how-i-use-claude-code/">How I use Claude Code: Separation of planning and execution</a><span class="sitebit comhead"> (<a href="from?site=boristane.com"><span class="sitestr">boristane.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47139675">1098 points</span> by <a href="user?id=cleak" class="hnuser">cleak</a> <span class="age" title="2026-02-24T17:15:17 1771953317"><a href="item?id=47139675">1 day ago</a></span> <span id="unv_47139675"></span> | <a href="item?id=47139675">368&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.calebleak.com/posts/dog-game/">I'm helping my dog vibe code games</a><span class="sitebit comhead"> (<a href="from?site=calebleak.com"><span class="sitestr">calebleak.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google API keys weren't secrets, but then Gemini changed the rules (trufflesecurity.com)]]></title>
         <id>link-d8b17b56f9c8d01b74928fcb545bcadd</id>
         <link href="https://news.ycombinator.com/item?id=47156925"/>
         <updated>2026-02-26T10:46:28.172Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47156925">926 points</span> by <a href="user?id=hiisthisthingon" class="hnuser">hiisthisthingon</a> <span class="age" title="2026-02-25T19:54:14 1772049254"><a href="item?id=47156925">13 hours ago</a></span> <span id="unv_47156925"></span> | <a href="item?id=47156925">215&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">Google API keys weren't secrets, but then Gemini changed the rules</a><span class="sitebit comhead"> (<a href="from?site=trufflesecurity.com"><span class="sitestr">trufflesecurity.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47156925">1017 points</span> by <a href="user?id=hiisthisthingon" class="hnuser">hiisthisthingon</a> <span class="age" title="2026-02-25T19:54:14 1772049254"><a href="item?id=47156925">15 hours ago</a></span> <span id="unv_47156925"></span> | <a href="item?id=47156925">246&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">Google API keys weren't secrets, but then Gemini changed the rules</a><span class="sitebit comhead"> (<a href="from?site=trufflesecurity.com"><span class="sitestr">trufflesecurity.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I use Claude Code: Separation of planning and execution (boristane.com)]]></title>
+        <id>link-4236c9ce1bad1dafcc3f5c1ef2b63b86</id>
+        <link href="https://news.ycombinator.com/item?id=47106686"/>
+        <updated>2026-02-22T10:26:37.535Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47106686">965 points</span> by <a href="user?id=vinhnx" class="hnuser">vinhnx</a> <span class="age" title="2026-02-22T00:29:05 1771720145"><a href="item?id=47106686">4 days ago</a></span> <span id="unv_47106686"></span> | <a href="item?id=47106686">589&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://boristane.com/blog/how-i-use-claude-code/">How I use Claude Code: Separation of planning and execution</a><span class="sitebit comhead"> (<a href="from?site=boristane.com"><span class="sitestr">boristane.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I found a vulnerability. they found a lawyer (dixken.de)]]></title>
@@ -87,56 +87,56 @@
         <id>link-9f5399772b8d838bbe2379d9b65ac3bf</id>
         <link href="https://news.ycombinator.com/item?id=47149701"/>
         <updated>2026-02-25T17:08:47.202Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47149701">809 points</span> by <a href="user?id=robtherobber" class="hnuser">robtherobber</a> <span class="age" title="2026-02-25T10:16:22 1772014582"><a href="item?id=47149701">1 day ago</a></span> <span id="unv_47149701"></span> | <a href="item?id=47149701">411&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://therecord.media/denmark-digital-agency-microsoft-digital-independence">Danish government agency to ditch Microsoft software (2025)</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47149701">813 points</span> by <a href="user?id=robtherobber" class="hnuser">robtherobber</a> <span class="age" title="2026-02-25T10:16:22 1772014582"><a href="item?id=47149701">1 day ago</a></span> <span id="unv_47149701"></span> | <a href="item?id=47149701">414&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://therecord.media/denmark-digital-agency-microsoft-digital-independence">Danish government agency to ditch Microsoft software (2025)</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google restricting Google AI Pro/Ultra subscribers for using OpenClaw (ai.google.dev)]]></title>
         <id>link-efda5bbd062b9ec0e848d16244b790fa</id>
         <link href="https://news.ycombinator.com/item?id=47115805"/>
         <updated>2026-02-23T07:05:44.938Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47115805">801 points</span> by <a href="user?id=srigi" class="hnuser">srigi</a> <span class="age" title="2026-02-22T23:07:55 1771801675"><a href="item?id=47115805">3 days ago</a></span> <span id="unv_47115805"></span> | <a href="item?id=47115805">697&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778">Google restricting Google AI Pro/Ultra subscribers for using OpenClaw</a><span class="sitebit comhead"> (<a href="from?site=ai.google.dev"><span class="sitestr">ai.google.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47115805">802 points</span> by <a href="user?id=srigi" class="hnuser">srigi</a> <span class="age" title="2026-02-22T23:07:55 1771801675"><a href="item?id=47115805">3 days ago</a></span> <span id="unv_47115805"></span> | <a href="item?id=47115805">697&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778">Google restricting Google AI Pro/Ultra subscribers for using OpenClaw</a><span class="sitebit comhead"> (<a href="from?site=ai.google.dev"><span class="sitestr">ai.google.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Never buy a .online domain (0xsid.com)]]></title>
         <id>link-fe99cca3b5a3305c5016b7611b3e197d</id>
         <link href="https://news.ycombinator.com/item?id=47151233"/>
         <updated>2026-02-25T19:07:17.561Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47151233">742 points</span> by <a href="user?id=ssiddharth" class="hnuser">ssiddharth</a> <span class="age" title="2026-02-25T13:31:17 1772026277"><a href="item?id=47151233">1 day ago</a></span> <span id="unv_47151233"></span> | <a href="item?id=47151233">458&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.0xsid.com/blog/online-tld-is-pain">Never buy a .online domain</a><span class="sitebit comhead"> (<a href="from?site=0xsid.com"><span class="sitestr">0xsid.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47151233">749 points</span> by <a href="user?id=ssiddharth" class="hnuser">ssiddharth</a> <span class="age" title="2026-02-25T13:31:17 1772026277"><a href="item?id=47151233">1 day ago</a></span> <span id="unv_47151233"></span> | <a href="item?id=47151233">465&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.0xsid.com/blog/online-tld-is-pain">Never buy a .online domain</a><span class="sitebit comhead"> (<a href="from?site=0xsid.com"><span class="sitestr">0xsid.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Americans are destroying Flock surveillance cameras (techcrunch.com)]]></title>
         <id>link-7a883fd31aff52631f0c845f2a2de916</id>
         <link href="https://news.ycombinator.com/item?id=47127081"/>
         <updated>2026-02-24T02:08:39.397Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47127081">703 points</span> by <a href="user?id=mikece" class="hnuser">mikece</a> <span class="age" title="2026-02-23T19:04:34 1771873474"><a href="item?id=47127081">2 days ago</a></span> <span id="unv_47127081"></span> | <a href="item?id=47127081">491&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/">Americans are destroying Flock surveillance cameras</a><span class="sitebit comhead"> (<a href="from?site=techcrunch.com"><span class="sitestr">techcrunch.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47127081">703 points</span> by <a href="user?id=mikece" class="hnuser">mikece</a> <span class="age" title="2026-02-23T19:04:34 1771873474"><a href="item?id=47127081">2 days ago</a></span> <span id="unv_47127081"></span> | <a href="item?id=47127081">492&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/">Americans are destroying Flock surveillance cameras</a><span class="sitebit comhead"> (<a href="from?site=techcrunch.com"><span class="sitestr">techcrunch.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[New accounts on HN more likely to use em-dashes (marginalia.nu)]]></title>
         <id>link-c858358d1ea02708deaf3c7bb3d685bb</id>
         <link href="https://news.ycombinator.com/item?id=47152085"/>
         <updated>2026-02-25T22:34:50.364Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47152085">682 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-02-25T14:37:21 1772030241"><a href="item?id=47152085">1 day ago</a></span> <span id="unv_47152085"></span> | <a href="item?id=47152085">569&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/weird-ai-crap/hn/">New accounts on HN more likely to use em-dashes</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47152085">686 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-02-25T14:37:21 1772030241"><a href="item?id=47152085">1 day ago</a></span> <span id="unv_47152085"></span> | <a href="item?id=47152085">580&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/weird-ai-crap/hn/">New accounts on HN more likely to use em-dashes</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amazon accused of widespread scheme to inflate prices across the economy (thebignewsletter.com)]]></title>
         <id>link-a7ed48562f9359ba0f678bb6a1fb7e6b</id>
         <link href="https://news.ycombinator.com/item?id=47145907"/>
         <updated>2026-02-25T13:06:13.332Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47145907">675 points</span> by <a href="user?id=toomuchtodo" class="hnuser">toomuchtodo</a> <span class="age" title="2026-02-25T01:00:45 1771981245"><a href="item?id=47145907">1 day ago</a></span> <span id="unv_47145907"></span> | <a href="item?id=47145907">271&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price">Amazon accused of widespread scheme to inflate prices across the economy</a><span class="sitebit comhead"> (<a href="from?site=thebignewsletter.com"><span class="sitestr">thebignewsletter.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attention Media ≠ Social Networks (susam.net)]]></title>
-        <id>link-161ab584811c2f59c500434bb4735799</id>
-        <link href="https://news.ycombinator.com/item?id=47110515"/>
-        <updated>2026-02-23T02:11:33.170Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47110515">649 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-02-22T12:36:46 1771763806"><a href="item?id=47110515">4 days ago</a></span> <span id="unv_47110515"></span> | <a href="item?id=47110515">268&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://susam.net/attention-media-vs-social-networks.html">Attention Media ≠ Social Networks</a><span class="sitebit comhead"> (<a href="from?site=susam.net"><span class="sitestr">susam.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47145907">677 points</span> by <a href="user?id=toomuchtodo" class="hnuser">toomuchtodo</a> <span class="age" title="2026-02-25T01:00:45 1771981245"><a href="item?id=47145907">1 day ago</a></span> <span id="unv_47145907"></span> | <a href="item?id=47145907">272&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price">Amazon accused of widespread scheme to inflate prices across the economy</a><span class="sitebit comhead"> (<a href="from?site=thebignewsletter.com"><span class="sitestr">thebignewsletter.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic Drops Flagship Safety Pledge (time.com)]]></title>
         <id>link-adced0ff12db5c6cd455da98d9f43448</id>
         <link href="https://news.ycombinator.com/item?id=47145963"/>
         <updated>2026-02-25T14:50:17.567Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47145963">648 points</span> by <a href="user?id=cwwc" class="hnuser">cwwc</a> <span class="age" title="2026-02-25T01:08:46 1771981726"><a href="item?id=47145963">1 day ago</a></span> <span id="unv_47145963"></span> | <a href="item?id=47145963">304&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/">Anthropic Drops Flagship Safety Pledge</a><span class="sitebit comhead"> (<a href="from?site=time.com"><span class="sitestr">time.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47145963">653 points</span> by <a href="user?id=cwwc" class="hnuser">cwwc</a> <span class="age" title="2026-02-25T01:08:46 1771981726"><a href="item?id=47145963">1 day ago</a></span> <span id="unv_47145963"></span> | <a href="item?id=47145963">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/">Anthropic Drops Flagship Safety Pledge</a><span class="sitebit comhead"> (<a href="from?site=time.com"><span class="sitestr">time.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attention Media ≠ Social Networks (susam.net)]]></title>
+        <id>link-161ab584811c2f59c500434bb4735799</id>
+        <link href="https://news.ycombinator.com/item?id=47110515"/>
+        <updated>2026-02-23T02:11:33.170Z</updated>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47110515">649 points</span> by <a href="user?id=susam" class="hnuser">susam</a> <span class="age" title="2026-02-22T12:36:46 1771763806"><a href="item?id=47110515">4 days ago</a></span> <span id="unv_47110515"></span> | <a href="item?id=47110515">268&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://susam.net/attention-media-vs-social-networks.html">Attention Media ≠ Social Networks</a><span class="sitebit comhead"> (<a href="from?site=susam.net"><span class="sitestr">susam.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Turn Dependabot off (filippo.io)]]></title>
@@ -150,14 +150,14 @@
         <id>link-aa5026cae3cfebd58f03d73de90c3311</id>
         <link href="https://news.ycombinator.com/item?id=47140632"/>
         <updated>2026-02-25T07:02:57.522Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47140632">644 points</span> by <a href="user?id=rzk" class="hnuser">rzk</a> <span class="age" title="2026-02-24T18:23:03 1771957383"><a href="item?id=47140632">1 day ago</a></span> <span id="unv_47140632"></span> | <a href="item?id=47140632">197&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://vmfunc.re/blog/persona/">OpenAI, the US government and Persona built an identity surveillance machine</a><span class="sitebit comhead"> (<a href="from?site=vmfunc.re"><span class="sitestr">vmfunc.re</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47140632">645 points</span> by <a href="user?id=rzk" class="hnuser">rzk</a> <span class="age" title="2026-02-24T18:23:03 1771957383"><a href="item?id=47140632">1 day ago</a></span> <span id="unv_47140632"></span> | <a href="item?id=47140632">197&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://vmfunc.re/blog/persona/">OpenAI, the US government and Persona built an identity surveillance machine</a><span class="sitebit comhead"> (<a href="from?site=vmfunc.re"><span class="sitestr">vmfunc.re</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mac mini will be made at a new facility in Houston (apple.com)]]></title>
         <id>link-8e425dc6b4e0725be5319fc805aa86da</id>
         <link href="https://news.ycombinator.com/item?id=47143152"/>
         <updated>2026-02-25T08:51:23.265Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47143152">624 points</span> by <a href="user?id=haunter" class="hnuser">haunter</a> <span class="age" title="2026-02-24T21:13:45 1771967625"><a href="item?id=47143152">1 day ago</a></span> <span id="unv_47143152"></span> | <a href="item?id=47143152">661&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/">Mac&nbsp;mini will be made at a new facility in Houston</a><span class="sitebit comhead"> (<a href="from?site=apple.com"><span class="sitestr">apple.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47143152">625 points</span> by <a href="user?id=haunter" class="hnuser">haunter</a> <span class="age" title="2026-02-24T21:13:45 1771967625"><a href="item?id=47143152">1 day ago</a></span> <span id="unv_47143152"></span> | <a href="item?id=47143152">664&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/">Mac&nbsp;mini will be made at a new facility in Houston</a><span class="sitebit comhead"> (<a href="from?site=apple.com"><span class="sitestr">apple.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wikipedia deprecates Archive.today, starts removing archive links (arstechnica.com)]]></title>
@@ -167,32 +167,32 @@
         <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47092006">615 points</span> by <a href="user?id=nobody9999" class="hnuser">nobody9999</a> <span class="age" title="2026-02-20T18:42:21 1771612941"><a href="item?id=47092006">5 days ago</a></span> <span id="unv_47092006"></span> | <a href="item?id=47092006">367&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/">Wikipedia deprecates Archive.today, starts removing archive links</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jimi Hendrix was a systems engineer (ieee.org)]]></title>
+        <id>link-ae57e7b18d14e8ebf7c035ca0f548608</id>
+        <link href="https://news.ycombinator.com/item?id=47157224"/>
+        <updated>2026-02-26T14:47:26.786Z</updated>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47157224">595 points</span> by <a href="user?id=tintinnabula" class="hnuser">tintinnabula</a> <span class="age" title="2026-02-25T20:16:47 1772050607"><a href="item?id=47157224">20 hours ago</a></span> <span id="unv_47157224"></span> | <a href="item?id=47157224">193&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://spectrum.ieee.org/jimi-hendrix-systems-engineer">Jimi Hendrix was a systems engineer</a><span class="sitebit comhead"> (<a href="from?site=ieee.org"><span class="sitestr">ieee.org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pi – A minimal terminal coding harness (pi.dev)]]></title>
         <id>link-b5264f78a12fe66394617db2d65214b8</id>
         <link href="https://news.ycombinator.com/item?id=47143754"/>
         <updated>2026-02-25T14:50:17.567Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47143754">578 points</span> by <a href="user?id=kristianpaul" class="hnuser">kristianpaul</a> <span class="age" title="2026-02-24T21:53:59 1771970039"><a href="item?id=47143754">1 day ago</a></span> <span id="unv_47143754"></span> | <a href="item?id=47143754">297&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pi.dev">Pi – A minimal terminal coding harness</a><span class="sitebit comhead"> (<a href="from?site=pi.dev"><span class="sitestr">pi.dev</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loops is a federated, open-source TikTok (joinloops.org)]]></title>
-        <id>link-a4abfe4d2190039252086e65d909615e</id>
-        <link href="https://news.ycombinator.com/item?id=47113618"/>
-        <updated>2026-02-23T13:06:01.033Z</updated>
-        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47113618">572 points</span> by <a href="user?id=Gooblebrai" class="hnuser">Gooblebrai</a> <span class="age" title="2026-02-22T18:56:40 1771786600"><a href="item?id=47113618">3 days ago</a></span> <span id="unv_47113618"></span> | <a href="item?id=47113618">385&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://joinloops.org/">Loops is a federated, open-source TikTok</a><span class="sitebit comhead"> (<a href="from?site=joinloops.org"><span class="sitestr">joinloops.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47143754">582 points</span> by <a href="user?id=kristianpaul" class="hnuser">kristianpaul</a> <span class="age" title="2026-02-24T21:53:59 1771970039"><a href="item?id=47143754">1 day ago</a></span> <span id="unv_47143754"></span> | <a href="item?id=47143754">300&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://pi.dev">Pi – A minimal terminal coding harness</a><span class="sitebit comhead"> (<a href="from?site=pi.dev"><span class="sitestr">pi.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pope tells priests to use their brains, not AI, to write homilies (ewtnnews.com)]]></title>
         <id>link-f4f8f0e34b220b980d55601622c16a4c</id>
         <link href="https://news.ycombinator.com/item?id=47119210"/>
         <updated>2026-02-24T02:08:39.397Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47119210">571 points</span> by <a href="user?id=josephcsible" class="hnuser">josephcsible</a> <span class="age" title="2026-02-23T07:33:57 1771832037"><a href="item?id=47119210">3 days ago</a></span> <span id="unv_47119210"></span> | <a href="item?id=47119210">443&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies">Pope tells priests to use their brains, not AI, to write homilies</a><span class="sitebit comhead"> (<a href="from?site=ewtnnews.com"><span class="sitestr">ewtnnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47119210">572 points</span> by <a href="user?id=josephcsible" class="hnuser">josephcsible</a> <span class="age" title="2026-02-23T07:33:57 1771832037"><a href="item?id=47119210">3 days ago</a></span> <span id="unv_47119210"></span> | <a href="item?id=47119210">443&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies">Pope tells priests to use their brains, not AI, to write homilies</a><span class="sitebit comhead"> (<a href="from?site=ewtnnews.com"><span class="sitestr">ewtnnews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jimi Hendrix was a systems engineer (ieee.org)]]></title>
-        <id>link-ae57e7b18d14e8ebf7c035ca0f548608</id>
-        <link href="https://news.ycombinator.com/item?id=47157224"/>
-        <updated>2026-02-26T14:47:26.786Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47157224">563 points</span> by <a href="user?id=tintinnabula" class="hnuser">tintinnabula</a> <span class="age" title="2026-02-25T20:16:47 1772050607"><a href="item?id=47157224">18 hours ago</a></span> <span id="unv_47157224"></span> | <a href="item?id=47157224">184&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://spectrum.ieee.org/jimi-hendrix-systems-engineer">Jimi Hendrix was a systems engineer</a><span class="sitebit comhead"> (<a href="from?site=ieee.org"><span class="sitestr">ieee.org</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[Loops is a federated, open-source TikTok (joinloops.org)]]></title>
+        <id>link-a4abfe4d2190039252086e65d909615e</id>
+        <link href="https://news.ycombinator.com/item?id=47113618"/>
+        <updated>2026-02-23T13:06:01.033Z</updated>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47113618">572 points</span> by <a href="user?id=Gooblebrai" class="hnuser">Gooblebrai</a> <span class="age" title="2026-02-22T18:56:40 1771786600"><a href="item?id=47113618">3 days ago</a></span> <span id="unv_47113618"></span> | <a href="item?id=47113618">385&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://joinloops.org/">Loops is a federated, open-source TikTok</a><span class="sitebit comhead"> (<a href="from?site=joinloops.org"><span class="sitestr">joinloops.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Elsevier shuts down its finance journal citation cartel (chrisbrunet.com)]]></title>
@@ -206,7 +206,7 @@
         <id>link-d2ad24fc121662b3c144e91a6ab56982</id>
         <link href="https://news.ycombinator.com/item?id=47136604"/>
         <updated>2026-02-25T08:51:23.265Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47136604">551 points</span> by <a href="user?id=wordglyph" class="hnuser">wordglyph</a> <span class="age" title="2026-02-24T13:03:51 1771938231"><a href="item?id=47136604">2 days ago</a></span> <span id="unv_47136604"></span> | <a href="item?id=47136604">194&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://wordglyph.xyz/one-piece-at-a-time">I pitched a roller coaster to Disneyland at age 10 in 1978</a><span class="sitebit comhead"> (<a href="from?site=wordglyph.xyz"><span class="sitestr">wordglyph.xyz</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47136604">551 points</span> by <a href="user?id=wordglyph" class="hnuser">wordglyph</a> <span class="age" title="2026-02-24T13:03:51 1771938231"><a href="item?id=47136604">2 days ago</a></span> <span id="unv_47136604"></span> | <a href="item?id=47136604">196&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://wordglyph.xyz/one-piece-at-a-time">I pitched a roller coaster to Disneyland at age 10 in 1978</a><span class="sitebit comhead"> (<a href="from?site=wordglyph.xyz"><span class="sitestr">wordglyph.xyz</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Binance fired employees who found $1.7B in crypto was sent to Iran (nytimes.com)]]></title>
