@@ -4,6 +4,13 @@
 	"favicon": "https://www.bitrefill.com/cz/en/gift-cards/favicon.ico",
 	"elements": [
 		{
+			"id": "link-10d925f3e39a153ce722ede355167a1b",
+			"title": "Ludo Star International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/ludo-star-usd-international/",
+			"contents": "Ludo Star International — $10 - $500",
+			"retrieved": 1772224117371
+		},
+		{
 			"id": "link-ace6c246fa7ccbbac456bf5ab79ccb9b",
 			"title": "OneKey USD",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/onekey-usd/",
@@ -275,13 +282,6 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/",
 			"contents": "H&amp;M — 100 CZK - 12500 CZK",
 			"retrieved": 1768638442688
-		},
-		{
-			"id": "link-a928540e7ad2f73f0ddbe8640da3eeee",
-			"title": "TripGift",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/",
-			"contents": "TripGift — 1000 CZK - 40000 CZK",
-			"retrieved": 1772009483265
 		}
 	]
 }
