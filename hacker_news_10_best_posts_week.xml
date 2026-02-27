@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-27T08:43:15.044Z</updated>
+    <updated>2026-02-27T10:40:16.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>link-5ed19624c407c5ba3c3b01d48b695cb8</id>
         <link href="https://news.ycombinator.com/item?id=47136179"/>
         <updated>2026-02-24T22:35:00.593Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47136179">2066 points</span> by <a href="user?id=Qem" class="hnuser">Qem</a> <span class="age" title="2026-02-24T12:16:45 1771935405"><a href="item?id=47136179">2 days ago</a></span> <span id="unv_47136179"></span> | <a href="item?id=47136179">959&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot">IDF killed Gaza aid workers at point blank range in 2025 massacre: Report</a><span class="sitebit comhead"> (<a href="from?site=dropsitenews.com"><span class="sitestr">dropsitenews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47136179">2066 points</span> by <a href="user?id=Qem" class="hnuser">Qem</a> <span class="age" title="2026-02-24T12:16:45 1771935405"><a href="item?id=47136179">2 days ago</a></span> <span id="unv_47136179"></span> | <a href="item?id=47136179">963&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot">IDF killed Gaza aid workers at point blank range in 2025 massacre: Report</a><span class="sitebit comhead"> (<a href="from?site=dropsitenews.com"><span class="sitestr">dropsitenews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statement from Dario Amodei on our discussions with the Department of War (anthropic.com)]]></title>
         <id>link-08826ccb0b5f44ccc4d1159640f1e174</id>
         <link href="https://news.ycombinator.com/item?id=47173121"/>
         <updated>2026-02-27T05:15:00.865Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47173121">1752 points</span> by <a href="user?id=qwertox" class="hnuser">qwertox</a> <span class="age" title="2026-02-26T22:42:47 1772145767"><a href="item?id=47173121">9 hours ago</a></span> <span id="unv_47173121"></span> | <a href="item?id=47173121">914&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/statement-department-of-war">Statement from Dario Amodei on our discussions with the Department of War</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47173121">1918 points</span> by <a href="user?id=qwertox" class="hnuser">qwertox</a> <span class="age" title="2026-02-26T22:42:47 1772145767"><a href="item?id=47173121">11 hours ago</a></span> <span id="unv_47173121"></span> | <a href="item?id=47173121">1034&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/statement-department-of-war">Statement from Dario Amodei on our discussions with the Department of War</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Age Verification Trap: Verifying age undermines everyone's data protection (ieee.org)]]></title>
@@ -31,7 +31,7 @@
         <id>link-d8b17b56f9c8d01b74928fcb545bcadd</id>
         <link href="https://news.ycombinator.com/item?id=47156925"/>
         <updated>2026-02-26T14:47:26.786Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47156925">1233 points</span> by <a href="user?id=hiisthisthingon" class="hnuser">hiisthisthingon</a> <span class="age" title="2026-02-25T19:54:14 1772049254"><a href="item?id=47156925">1 day ago</a></span> <span id="unv_47156925"></span> | <a href="item?id=47156925">295&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">Google API keys weren't secrets, but then Gemini changed the rules</a><span class="sitebit comhead"> (<a href="from?site=trufflesecurity.com"><span class="sitestr">trufflesecurity.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47156925">1240 points</span> by <a href="user?id=hiisthisthingon" class="hnuser">hiisthisthingon</a> <span class="age" title="2026-02-25T19:54:14 1772049254"><a href="item?id=47156925">1 day ago</a></span> <span id="unv_47156925"></span> | <a href="item?id=47156925">295&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">Google API keys weren't secrets, but then Gemini changed the rules</a><span class="sitebit comhead"> (<a href="from?site=trufflesecurity.com"><span class="sitestr">trufflesecurity.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm helping my dog vibe code games (calebleak.com)]]></title>
@@ -45,34 +45,34 @@
         <id>link-9f5399772b8d838bbe2379d9b65ac3bf</id>
         <link href="https://news.ycombinator.com/item?id=47149701"/>
         <updated>2026-02-27T06:55:56.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47149701">828 points</span> by <a href="user?id=robtherobber" class="hnuser">robtherobber</a> <span class="age" title="2026-02-25T10:16:22 1772014582"><a href="item?id=47149701">1 day ago</a></span> <span id="unv_47149701"></span> | <a href="item?id=47149701">421&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://therecord.media/denmark-digital-agency-microsoft-digital-independence">Danish government agency to ditch Microsoft software (2025)</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47149701">830 points</span> by <a href="user?id=robtherobber" class="hnuser">robtherobber</a> <span class="age" title="2026-02-25T10:16:22 1772014582"><a href="item?id=47149701">2 days ago</a></span> <span id="unv_47149701"></span> | <a href="item?id=47149701">425&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://therecord.media/denmark-digital-agency-microsoft-digital-independence">Danish government agency to ditch Microsoft software (2025)</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Never buy a .online domain (0xsid.com)]]></title>
         <id>link-fe99cca3b5a3305c5016b7611b3e197d</id>
         <link href="https://news.ycombinator.com/item?id=47151233"/>
         <updated>2026-02-27T06:55:56.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47151233">769 points</span> by <a href="user?id=ssiddharth" class="hnuser">ssiddharth</a> <span class="age" title="2026-02-25T13:31:17 1772026277"><a href="item?id=47151233">1 day ago</a></span> <span id="unv_47151233"></span> | <a href="item?id=47151233">482&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.0xsid.com/blog/online-tld-is-pain">Never buy a .online domain</a><span class="sitebit comhead"> (<a href="from?site=0xsid.com"><span class="sitestr">0xsid.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47151233">770 points</span> by <a href="user?id=ssiddharth" class="hnuser">ssiddharth</a> <span class="age" title="2026-02-25T13:31:17 1772026277"><a href="item?id=47151233">1 day ago</a></span> <span id="unv_47151233"></span> | <a href="item?id=47151233">484&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.0xsid.com/blog/online-tld-is-pain">Never buy a .online domain</a><span class="sitebit comhead"> (<a href="from?site=0xsid.com"><span class="sitestr">0xsid.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layoffs at Block (twitter.com/jack)]]></title>
+        <id>link-60e8389253fbb5960acc6be3df28fb6f</id>
+        <link href="https://news.ycombinator.com/item?id=47172119"/>
+        <updated>2026-02-27T10:38:31.653Z</updated>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47172119">731 points</span> by <a href="user?id=mlex" class="hnuser">mlex</a> <span class="age" title="2026-02-26T21:17:56 1772140676"><a href="item?id=47172119">13 hours ago</a></span> <span id="unv_47172119"></span> | <a href="item?id=47172119">794&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/jack/status/2027129697092731343">Layoffs at Block</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/jack"><span class="sitestr">twitter.com/jack</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic drops flagship safety pledge (time.com)]]></title>
         <id>link-adced0ff12db5c6cd455da98d9f43448</id>
         <link href="https://news.ycombinator.com/item?id=47145963"/>
         <updated>2026-02-27T06:55:56.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47145963">709 points</span> by <a href="user?id=cwwc" class="hnuser">cwwc</a> <span class="age" title="2026-02-25T01:08:46 1771981726"><a href="item?id=47145963">2 days ago</a></span> <span id="unv_47145963"></span> | <a href="item?id=47145963">666&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/">Anthropic drops flagship safety pledge</a><span class="sitebit comhead"> (<a href="from?site=time.com"><span class="sitestr">time.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Americans are destroying Flock surveillance cameras (techcrunch.com)]]></title>
-        <id>link-7a883fd31aff52631f0c845f2a2de916</id>
-        <link href="https://news.ycombinator.com/item?id=47127081"/>
-        <updated>2026-02-27T06:55:56.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47127081">705 points</span> by <a href="user?id=mikece" class="hnuser">mikece</a> <span class="age" title="2026-02-23T19:04:34 1771873474"><a href="item?id=47127081">3 days ago</a></span> <span id="unv_47127081"></span> | <a href="item?id=47127081">494&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/">Americans are destroying Flock surveillance cameras</a><span class="sitebit comhead"> (<a href="from?site=techcrunch.com"><span class="sitestr">techcrunch.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47145963">709 points</span> by <a href="user?id=cwwc" class="hnuser">cwwc</a> <span class="age" title="2026-02-25T01:08:46 1771981726"><a href="item?id=47145963">2 days ago</a></span> <span id="unv_47145963"></span> | <a href="item?id=47145963">668&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/">Anthropic drops flagship safety pledge</a><span class="sitebit comhead"> (<a href="from?site=time.com"><span class="sitestr">time.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[New accounts on HN more likely to use em-dashes (marginalia.nu)]]></title>
         <id>link-c858358d1ea02708deaf3c7bb3d685bb</id>
         <link href="https://news.ycombinator.com/item?id=47152085"/>
         <updated>2026-02-27T06:55:56.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47152085">702 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-02-25T14:37:21 1772030241"><a href="item?id=47152085">1 day ago</a></span> <span id="unv_47152085"></span> | <a href="item?id=47152085">591&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/weird-ai-crap/hn/">New accounts on HN more likely to use em-dashes</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47152085">705 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-02-25T14:37:21 1772030241"><a href="item?id=47152085">1 day ago</a></span> <span id="unv_47152085"></span> | <a href="item?id=47152085">593&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marginalia.nu/weird-ai-crap/hn/">New accounts on HN more likely to use em-dashes</a><span class="sitebit comhead"> (<a href="from?site=marginalia.nu"><span class="sitestr">marginalia.nu</span></a>)</span></span>]]></content>
     </entry>
 </feed>
