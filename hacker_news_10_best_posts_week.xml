@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-02-27T20:30:19.356Z</updated>
+    <updated>2026-02-27T22:25:48.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,21 +10,21 @@
         <id>link-08826ccb0b5f44ccc4d1159640f1e174</id>
         <link href="https://news.ycombinator.com/item?id=47173121"/>
         <updated>2026-02-27T05:15:00.865Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47173121">2776 points</span> by <a href="user?id=qwertox" class="hnuser">qwertox</a> <span class="age" title="2026-02-26T22:42:47 1772145767"><a href="item?id=47173121">21 hours ago</a></span> <span id="unv_47173121"></span> | <a href="item?id=47173121">1476&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/statement-department-of-war">Statement from Dario Amodei on our discussions with the Department of War</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47173121">2818 points</span> by <a href="user?id=qwertox" class="hnuser">qwertox</a> <span class="age" title="2026-02-26T22:42:47 1772145767"><a href="item?id=47173121">23 hours ago</a></span> <span id="unv_47173121"></span> | <a href="item?id=47173121">1499&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/statement-department-of-war">Statement from Dario Amodei on our discussions with the Department of War</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IDF killed Gaza aid workers at point blank range in 2025 massacre: Report (dropsitenews.com)]]></title>
         <id>link-5ed19624c407c5ba3c3b01d48b695cb8</id>
         <link href="https://news.ycombinator.com/item?id=47136179"/>
         <updated>2026-02-24T22:35:00.593Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47136179">2069 points</span> by <a href="user?id=Qem" class="hnuser">Qem</a> <span class="age" title="2026-02-24T12:16:45 1771935405"><a href="item?id=47136179">3 days ago</a></span> <span id="unv_47136179"></span> | <a href="item?id=47136179">980&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot">IDF killed Gaza aid workers at point blank range in 2025 massacre: Report</a><span class="sitebit comhead"> (<a href="from?site=dropsitenews.com"><span class="sitestr">dropsitenews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47136179">2069 points</span> by <a href="user?id=Qem" class="hnuser">Qem</a> <span class="age" title="2026-02-24T12:16:45 1771935405"><a href="item?id=47136179">3 days ago</a></span> <span id="unv_47136179"></span> | <a href="item?id=47136179">991&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot">IDF killed Gaza aid workers at point blank range in 2025 massacre: Report</a><span class="sitebit comhead"> (<a href="from?site=dropsitenews.com"><span class="sitestr">dropsitenews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google API keys weren't secrets, but then Gemini changed the rules (trufflesecurity.com)]]></title>
         <id>link-d8b17b56f9c8d01b74928fcb545bcadd</id>
         <link href="https://news.ycombinator.com/item?id=47156925"/>
         <updated>2026-02-26T14:47:26.786Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47156925">1260 points</span> by <a href="user?id=hiisthisthingon" class="hnuser">hiisthisthingon</a> <span class="age" title="2026-02-25T19:54:14 1772049254"><a href="item?id=47156925">1 day ago</a></span> <span id="unv_47156925"></span> | <a href="item?id=47156925">302&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">Google API keys weren't secrets, but then Gemini changed the rules</a><span class="sitebit comhead"> (<a href="from?site=trufflesecurity.com"><span class="sitestr">trufflesecurity.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47156925">1262 points</span> by <a href="user?id=hiisthisthingon" class="hnuser">hiisthisthingon</a> <span class="age" title="2026-02-25T19:54:14 1772049254"><a href="item?id=47156925">1 day ago</a></span> <span id="unv_47156925"></span> | <a href="item?id=47156925">303&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">Google API keys weren't secrets, but then Gemini changed the rules</a><span class="sitebit comhead"> (<a href="from?site=trufflesecurity.com"><span class="sitestr">trufflesecurity.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm helping my dog vibe code games (calebleak.com)]]></title>
@@ -38,14 +38,14 @@
         <id>link-60e8389253fbb5960acc6be3df28fb6f</id>
         <link href="https://news.ycombinator.com/item?id=47172119"/>
         <updated>2026-02-27T10:38:31.653Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47172119">869 points</span> by <a href="user?id=mlex" class="hnuser">mlex</a> <span class="age" title="2026-02-26T21:17:56 1772140676"><a href="item?id=47172119">23 hours ago</a></span> <span id="unv_47172119"></span> | <a href="item?id=47172119">1011&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/jack/status/2027129697092731343">Layoffs at Block</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/jack"><span class="sitestr">twitter.com/jack</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47172119">874 points</span> by <a href="user?id=mlex" class="hnuser">mlex</a> <span class="age" title="2026-02-26T21:17:56 1772140676"><a href="item?id=47172119">1 day ago</a></span> <span id="unv_47172119"></span> | <a href="item?id=47172119">1018&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/jack/status/2027129697092731343">Layoffs at Block</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/jack"><span class="sitestr">twitter.com/jack</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Danish government agency to ditch Microsoft software (2025) (therecord.media)]]></title>
         <id>link-9f5399772b8d838bbe2379d9b65ac3bf</id>
         <link href="https://news.ycombinator.com/item?id=47149701"/>
         <updated>2026-02-27T06:55:56.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47149701">832 points</span> by <a href="user?id=robtherobber" class="hnuser">robtherobber</a> <span class="age" title="2026-02-25T10:16:22 1772014582"><a href="item?id=47149701">2 days ago</a></span> <span id="unv_47149701"></span> | <a href="item?id=47149701">428&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://therecord.media/denmark-digital-agency-microsoft-digital-independence">Danish government agency to ditch Microsoft software (2025)</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47149701">833 points</span> by <a href="user?id=robtherobber" class="hnuser">robtherobber</a> <span class="age" title="2026-02-25T10:16:22 1772014582"><a href="item?id=47149701">2 days ago</a></span> <span id="unv_47149701"></span> | <a href="item?id=47149701">429&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://therecord.media/denmark-digital-agency-microsoft-digital-independence">Danish government agency to ditch Microsoft software (2025)</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Never buy a .online domain (0xsid.com)]]></title>
@@ -73,6 +73,6 @@
         <id>link-a7ed48562f9359ba0f678bb6a1fb7e6b</id>
         <link href="https://news.ycombinator.com/item?id=47145907"/>
         <updated>2026-02-27T18:44:03.353Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47145907">685 points</span> by <a href="user?id=toomuchtodo" class="hnuser">toomuchtodo</a> <span class="age" title="2026-02-25T01:00:45 1771981245"><a href="item?id=47145907">2 days ago</a></span> <span id="unv_47145907"></span> | <a href="item?id=47145907">281&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price">Amazon accused of widespread scheme to inflate prices across the economy</a><span class="sitebit comhead"> (<a href="from?site=thebignewsletter.com"><span class="sitestr">thebignewsletter.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47145907">686 points</span> by <a href="user?id=toomuchtodo" class="hnuser">toomuchtodo</a> <span class="age" title="2026-02-25T01:00:45 1771981245"><a href="item?id=47145907">2 days ago</a></span> <span id="unv_47145907"></span> | <a href="item?id=47145907">281&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price">Amazon accused of widespread scheme to inflate prices across the economy</a><span class="sitebit comhead"> (<a href="from?site=thebignewsletter.com"><span class="sitestr">thebignewsletter.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
