@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-02-27T10:40:16.474Z</updated>
+    <updated>2026-02-27T13:03:05.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Unbloated Network - Installing OpenWRT on an x86 PC]]></title>
+        <id>link-44469bf217f23258233adf9d7b1ee0c8</id>
+        <link href="https://www.notebookcheck.net/Unbloated-Network-Replacing-your-ISP-router-Installing-OpenWRT-on-an-x86-PC-part-3.1236616.0.html"/>
+        <updated>2026-02-27T13:00:32.501Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/8/csm_Unbloated-network-OpenWRT-installieren18_0c2a73ee05.jpg" loading="lazy" alt="Connected Zimaboard with a boot stick next to a keyboard"></picture><div class="intro_featured_bar_title">Unbloated Network - Installing OpenWRT on an x86 PC</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[▶ The best looking "laptops" of 2026 - ROG Flow Z13-KJP / ProArt PX13]]></title>
         <id>link-f5761b67cb73e763921f7c8fbd08abda</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Open-ear-headphones-with-glamour-factor-Huawei-FreeClip-2-review.1232768.0.html"/>
         <updated>2026-02-23T14:47:35.288Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Huawei/FreeClip_2/aPic_Huawei_FreeClip_2-2135-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Huawei/FreeClip_2/aPic_Huawei_FreeClip_2-2135-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/FreeClip_2/aPic_Huawei_FreeClip_2-2135-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Huawei/FreeClip_2/aPic_Huawei_FreeClip_2-2135-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/FreeClip_2/aPic_Huawei_FreeClip_2-2135-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/FreeClip_2/aPic_Huawei_FreeClip_2-2135-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/6/csm_aPic_Huawei_FreeClip_2-2135_c724c6485d.jpg" loading="lazy" alt="Open-ear headphones with glamour factor – Huawei FreeClip 2 review"></picture><div class="intro_featured_bar_title">Pimp your TWS – Huawei FreeClip 2 review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affordable AMD ThinkPad with 32 GB RAM]]></title>
-        <id>link-b3afb65845067881a53bb3d988576624</id>
-        <link href="https://www.notebookcheck.net/This-affordable-laptop-has-32-GB-RAM-for-cheap-Lenovo-ThinkPad-L16-Gen-2-AMD-review.1144661.0.html"/>
-        <updated>2026-02-22T18:37:10.010Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_L16_Gen_2_AMD/Lenovo_ThinkPad_L16G2a_teaser-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_L16_Gen_2_AMD/Lenovo_ThinkPad_L16G2a_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_L16_Gen_2_AMD/Lenovo_ThinkPad_L16G2a_teaser-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_L16_Gen_2_AMD/Lenovo_ThinkPad_L16G2a_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_L16_Gen_2_AMD/Lenovo_ThinkPad_L16G2a_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_L16_Gen_2_AMD/Lenovo_ThinkPad_L16G2a_teaser-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/c/csm_Lenovo_ThinkPad_L16G2a_teaser_8502610d66.jpg" loading="lazy" alt="This affordable laptop has 32 GB RAM for cheap: Lenovo ThinkPad L16 Gen 2 AMD review"></picture><div class="intro_featured_bar_title">Affordable AMD ThinkPad with 32 GB RAM</div>]]></content>
     </entry>
 </feed>
