@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-49f7a4ba5f16a1b425679378afdfa6f4",
+			"title": "Climbing flagship robot vacuum: Roborock Saros 20 review",
+			"link": "https://www.notebookcheck.net/No-door-threshold-can-stop-this-flagship-robot-vacuum-Roborock-Saros-20-review.1236857.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Saros-20-Testbericht-Teaser62-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Saros-20-Testbericht-Teaser62-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Saros-20-Testbericht-Teaser62-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Saros-20-Testbericht-Teaser62-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Saros-20-Testbericht-Teaser62-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Saros-20-Testbericht-Teaser62-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/4/csm_Roborock-Saros-20-Testbericht-Teaser62_ce4b090900.jpg\" loading=\"lazy\" alt=\"Roborock Saros 20 review\"></picture><div class=\"intro_featured_bar_title\">Climbing flagship robot vacuum: Roborock Saros 20 review</div>",
+			"retrieved": 1772331869421
+		},
+		{
 			"id": "link-a18a9c8cd4f983a8c32c901645949aa6",
 			"title": "The compact smartphone I actually want: Xiaomi 17 in a Galaxy S26 world",
 			"link": "https://www.notebookcheck.net/The-compact-smartphone-I-actually-want-Xiaomi-17-in-a-Galaxy-S26-world.1236850.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/LG-Gram-Book-15U55T-laptop-review-Way-too-many-cut-corners.1233770.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/0/csm_grambook15feature1_594575df3e.jpg\" loading=\"lazy\" alt=\"LG Gram Book 15U55T laptop review: Way too many cut corners\"></picture><div class=\"intro_featured_bar_title\">LG Gram Book 15U55T review: Cheapest Gram is also one of the worst</div>",
 			"retrieved": 1772217843353
-		},
-		{
-			"id": "link-44469bf217f23258233adf9d7b1ee0c8",
-			"title": "Unbloated Network - Installing OpenWRT on an x86 PC",
-			"link": "https://www.notebookcheck.net/Unbloated-Network-Replacing-your-ISP-router-Installing-OpenWRT-on-an-x86-PC-part-3.1236616.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Unbloated-network-OpenWRT-installieren18-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/8/csm_Unbloated-network-OpenWRT-installieren18_0c2a73ee05.jpg\" loading=\"lazy\" alt=\"Connected Zimaboard with a boot stick next to a keyboard\"></picture><div class=\"intro_featured_bar_title\">Unbloated Network - Installing OpenWRT on an x86 PC</div>",
-			"retrieved": 1772197232501
 		}
 	]
 }
