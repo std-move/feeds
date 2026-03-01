@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-82d4771757e2efebac8aca0465ef8a58",
+			"title": "Version 4.3.72",
+			"contents": "Released Mar 1, 2026 - 352.05 KB — New \"Active\" tab in the sidebar — quickly see and manage all your enabled options in one place.",
+			"retrieved": 1772403894479
+		},
+		{
 			"id": "title-fdf16f24a7536d17551af269601ae4fc",
 			"title": "Version 4.3.71",
 			"contents": "Released Feb 15, 2026 - 351.09 KB — RYS Premium — Optional paid tier<br><br>And improvements:\n<ul><li>\"Hide all Shorts\" is now enabled by default</li><li>\"Hide all but the first row\" now works with YouTube's latest homepage layout</li><li>Sidebar ad panels are now hidden by default</li><li>Dark mode fixes and UI polish throughout</li></ul>",
@@ -145,12 +151,6 @@
 			"id": "title-f2079db280506867067c920dc5ca91ef",
 			"title": "Version 4.3.46",
 			"contents": "Released Aug 31, 2023 - 326.76 KB — fixed search bar bug",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-966e3da7b233005958117e0017cea5d9",
-			"title": "Version 4.3.45",
-			"contents": "Released Jun 16, 2023 - 326.76 KB — - Added a button which reveals hidden suggestions<br> - Fixed VODs removal<br> - Reduced the empty space on the subs page<br> - Added an option to hide the extra tags (only show \"all\" and \"related\")<br> - Added an option to blur video thumbnails<br> - Added an option to hide a video’s description<br> - Fixed “reverse channel videos” make it only apply on the channel page",
 			"retrieved": 1767548017655
 		}
 	]
