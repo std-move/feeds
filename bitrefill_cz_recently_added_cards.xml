@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-01T08:34:06.782Z</updated>
+    <updated>2026-03-01T10:27:47.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -160,13 +160,6 @@
         <content type="html"><![CDATA[Global Experiences Card CZ — 250 CZK - 22000 CZK]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CASHlib EU]]></title>
-        <id>link-634360beaee0c793858da705cf25788d</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/cashlib-eu/"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[CASHlib EU — €150]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NordPass Password Manager International]]></title>
         <id>link-43c899761e000d0bebc131ed6d1f4b60</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/nordpass-international/"/>
@@ -192,14 +185,14 @@
         <id>link-44eb8e40b6d868fa627e6fda0347039d</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/blizzard-battle_net-eu/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Battle.net EU — €20 - €100]]></content>
+        <content type="html"><![CDATA[Battle.net EU — €20 - €50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eneba Games Store EUR]]></title>
         <id>link-7bcb43fa1807749a7ca77a34fa82f097</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/eneba-gift-card-eu/"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Eneba Games Store EUR — €5 - €200]]></content>
+        <content type="html"><![CDATA[Eneba Games Store EUR — €5 - €100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valorant EU]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/coined-international/"/>
         <updated>2026-03-01T05:17:54.750Z</updated>
         <content type="html"><![CDATA[CoinEd — $80]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundation Bitcoin Wallets]]></title>
+        <id>link-78e2fdfbb577edb5d1a561c02b569d78</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/foundation-international/"/>
+        <updated>2026-03-01T10:25:47.071Z</updated>
+        <content type="html"><![CDATA[Foundation Bitcoin Wallets — $300]]></content>
     </entry>
 </feed>

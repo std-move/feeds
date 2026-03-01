@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-03-01T08:34:06.797Z</updated>
+    <updated>2026-03-01T10:27:47.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/apple_macbook_budget-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/apple_macbook_budget-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/apple_macbook_budget-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/apple_macbook_budget-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/apple_macbook_budget-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/apple_macbook_budget-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/0/csm_apple_macbook_budget_4206df9f6d.jpg" loading="lazy" alt="Apple's low-cost MacBook is likely set to launch next week."></picture><div class="intro_featured_bar_title">Analysis: Low-cost MacBook and its downgrades</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The compact smartphone I actually want: Xiaomi 17 in a Galaxy S26 world]]></title>
+        <id>link-a18a9c8cd4f983a8c32c901645949aa6</id>
+        <link href="https://www.notebookcheck.net/The-compact-smartphone-I-actually-want-Xiaomi-17-in-a-Galaxy-S26-world.1236850.0.html"/>
+        <updated>2026-03-01T10:25:47.071Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17-Teaser22-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17-Teaser22-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17-Teaser22-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17-Teaser22-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17-Teaser22-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17-Teaser22-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/b/csm_Xiaomi-17-Teaser22_8250d9d54f.jpg" loading="lazy" alt="The compact smartphone I actually want: Xiaomi 17 in a Galaxy S26 world"></picture><div class="intro_featured_bar_title">The compact smartphone I actually want: Xiaomi 17 in a Galaxy S26 world</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Xiaomi 17 Ultra vs iPhone 16 Pro]]></title>
         <id>link-b505d202dd0a8f914d6e1864bf084df6</id>
         <link href="https://www.notebookcheck.net/I-switched-to-Xiaomi-17-Ultra-camera-phone-for-a-month-now-my-iPhone-16-Pro-feels-outdated.1236595.0.html"/>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/External-desktop-graphics-card-on-a-mini-PC-laptop-or-tablet-The-Minisforum-DEG2-makes-it-possible.1236528.0.html"/>
         <updated>2026-02-28T12:47:11.328Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Minisforum/DEG2_OCuLink/DEG2_6-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Minisforum/DEG2_OCuLink/DEG2_6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Minisforum/DEG2_OCuLink/DEG2_6-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Minisforum/DEG2_OCuLink/DEG2_6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Minisforum/DEG2_OCuLink/DEG2_6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Minisforum/DEG2_OCuLink/DEG2_6-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/6/csm_DEG2_6_ca05221b6b.jpg" loading="lazy" alt="Mini forum DEG2"></picture><div class="intro_featured_bar_title">OCuLink vs. USB4 V2 vs. USB4: Which delivers better performance?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For the first time with mop roller: Roborock Qrevo Curv 2 Flow review]]></title>
-        <id>link-145a918c607ff73f622f488c869a2226</id>
-        <link href="https://www.notebookcheck.net/Roborock-now-also-mops-with-a-roller-Roborock-Qrevo-Curv-2-Flow-review.1234769.0.html"/>
-        <updated>2026-02-28T01:55:04.001Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/c/csm_Roborock-Qrevo-Curv-2-Flow-Test81_59dabe7f50.jpg" loading="lazy" alt="Roborock Qrevo Curv 2 Flow review"></picture><div class="intro_featured_bar_title">For the first time with mop roller: Roborock Qrevo Curv 2 Flow review</div>]]></content>
     </entry>
 </feed>
