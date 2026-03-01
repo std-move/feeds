@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-a03e8a94c81e78edb6791b447fb9f768",
+			"title": "Trendsetter - Realme GT 8 Pro",
+			"link": "https://www.notebookcheck.net/The-most-unusual-smartphone-design-of-2026-including-Ricoh-camera-Realme-GT-8-Pro-review.1237926.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/5/csm_realme_GT_8_Pro_Test_review_112_bc6ef50855.jpg\" loading=\"lazy\" alt=\"Test Realme GT 8 Pro smartphone \"></picture><div class=\"intro_featured_bar_title\">Trendsetter - Realme GT 8 Pro</div>",
+			"retrieved": 1772347652424
+		},
+		{
 			"id": "link-49f7a4ba5f16a1b425679378afdfa6f4",
 			"title": "Climbing flagship robot vacuum: Roborock Saros 20 review",
 			"link": "https://www.notebookcheck.net/No-door-threshold-can-stop-this-flagship-robot-vacuum-Roborock-Saros-20-review.1236857.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Roborock-now-also-mops-with-a-roller-Roborock-Qrevo-Curv-2-Flow-review.1234769.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Roborock-Qrevo-Curv-2-Flow-Test81-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/c/csm_Roborock-Qrevo-Curv-2-Flow-Test81_59dabe7f50.jpg\" loading=\"lazy\" alt=\"Roborock Qrevo Curv 2 Flow review\"></picture><div class=\"intro_featured_bar_title\">For the first time with mop roller: Roborock Qrevo Curv 2 Flow review</div>",
 			"retrieved": 1772243704001
-		},
-		{
-			"id": "link-b75ba08f4a70d2b7f05e54aaf87f9444",
-			"title": "LG Gram Book 15U55T review: Cheapest Gram is also one of the worst",
-			"link": "https://www.notebookcheck.net/LG-Gram-Book-15U55T-laptop-review-Way-too-many-cut-corners.1233770.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/LG/Gram_15U55T/grambook15feature1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/0/csm_grambook15feature1_594575df3e.jpg\" loading=\"lazy\" alt=\"LG Gram Book 15U55T laptop review: Way too many cut corners\"></picture><div class=\"intro_featured_bar_title\">LG Gram Book 15U55T review: Cheapest Gram is also one of the worst</div>",
-			"retrieved": 1772217843353
 		}
 	]
 }
