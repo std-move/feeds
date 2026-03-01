@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-03-01T12:52:18.072Z</updated>
+    <updated>2026-03-01T14:27:24.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>link-48519b9ac59367e91f362f9d5075bf98</id>
         <link href="https://en.wikipedia.org/wiki/OpenDesk"/>
         <updated>2026-03-01T12:50:28.141Z</updated>
-        <content type="html"><![CDATA[... that the German government spends barely a thousandth of previous expenses for office suites after switching to the <a href="/wiki/Free_and_open-source_software" title="Free and open-source software">free and open-source</a> <b><a href="/wiki/OpenDesk" title="OpenDesk">OpenDesk</a></b>?]]></content>
+        <content type="html"><![CDATA[... that the <a href="/wiki/International_Criminal_Court" title="International Criminal Court">International Criminal Court</a> decided to switch from <a href="/wiki/Microsoft_Office" title="Microsoft Office">Microsoft Office</a> to <b><a href="/wiki/OpenDesk" title="OpenDesk">OpenDesk</a></b> after its chief prosecutor was disconnected from his Microsoft-hosted email account?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Guillermo Pfening]]></title>
