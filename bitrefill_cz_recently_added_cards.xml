@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-01T10:27:47.702Z</updated>
+    <updated>2026-03-01T12:52:18.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -255,7 +255,7 @@
         <id>link-c9fb66fbec19b4c3539f42d86e283df9</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/flixtrain-international/"/>
         <updated>2026-03-01T05:17:54.750Z</updated>
-        <content type="html"><![CDATA[FlixTrain EUR international — €10 - €40]]></content>
+        <content type="html"><![CDATA[FlixTrain EUR international — €10 - €50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PUBG New State International]]></title>
