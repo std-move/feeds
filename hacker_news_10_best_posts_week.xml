@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-02T13:02:36.912Z</updated>
+    <updated>2026-03-02T14:46:28.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-08826ccb0b5f44ccc4d1159640f1e174</id>
         <link href="https://news.ycombinator.com/item?id=47173121"/>
         <updated>2026-02-27T05:15:00.865Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47173121">2910 points</span> by <a href="user?id=qwertox" class="hnuser">qwertox</a> <span class="age" title="2026-02-26T22:42:47 1772145767"><a href="item?id=47173121">3 days ago</a></span> <span id="unv_47173121"></span> | <a href="item?id=47173121">1565&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/statement-department-of-war">Statement from Dario Amodei on our discussions with the Department of War</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47173121">2911 points</span> by <a href="user?id=qwertox" class="hnuser">qwertox</a> <span class="age" title="2026-02-26T22:42:47 1772145767"><a href="item?id=47173121">3 days ago</a></span> <span id="unv_47173121"></span> | <a href="item?id=47173121">1565&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/statement-department-of-war">Statement from Dario Amodei on our discussions with the Department of War</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[We Will Not Be Divided (notdivided.org)]]></title>
@@ -24,14 +24,14 @@
         <id>link-8c5f77b1737e49cede5e2a151fb3a7bf</id>
         <link href="https://news.ycombinator.com/item?id=47193478"/>
         <updated>2026-02-28T14:23:22.606Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47193478">1913 points</span> by <a href="user?id=carlosrg" class="hnuser">carlosrg</a> <span class="age" title="2026-02-28T10:41:55 1772275315"><a href="item?id=47193478">2 days ago</a></span> <span id="unv_47193478"></span> | <a href="item?id=47193478">361&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://help.openai.com/en/articles/6378407-how-to-delete-your-account">OpenAI – How to delete your account</a><span class="sitebit comhead"> (<a href="from?site=help.openai.com"><span class="sitestr">help.openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47193478">1914 points</span> by <a href="user?id=carlosrg" class="hnuser">carlosrg</a> <span class="age" title="2026-02-28T10:41:55 1772275315"><a href="item?id=47193478">2 days ago</a></span> <span id="unv_47193478"></span> | <a href="item?id=47193478">362&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://help.openai.com/en/articles/6378407-how-to-delete-your-account">OpenAI – How to delete your account</a><span class="sitebit comhead"> (<a href="from?site=help.openai.com"><span class="sitestr">help.openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microgpt (karpathy.github.io)]]></title>
         <id>link-baf67332cb5010a59d74ea505fb05f89</id>
         <link href="https://news.ycombinator.com/item?id=47202708"/>
         <updated>2026-03-01T12:50:28.141Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47202708">1833 points</span> by <a href="user?id=tambourine_man" class="hnuser">tambourine_man</a> <span class="age" title="2026-03-01T01:39:26 1772329166"><a href="item?id=47202708">1 day ago</a></span> <span id="unv_47202708"></span> | <a href="item?id=47202708">305&nbsp;comments</a></span></td> — <span class="titleline"><a href="http://karpathy.github.io/2026/02/12/microgpt/">Microgpt</a><span class="sitebit comhead"> (<a href="from?site=karpathy.github.io"><span class="sitestr">karpathy.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47202708">1847 points</span> by <a href="user?id=tambourine_man" class="hnuser">tambourine_man</a> <span class="age" title="2026-03-01T01:39:26 1772329166"><a href="item?id=47202708">1 day ago</a></span> <span id="unv_47202708"></span> | <a href="item?id=47202708">309&nbsp;comments</a></span></td> — <span class="titleline"><a href="http://karpathy.github.io/2026/02/12/microgpt/">Microgpt</a><span class="sitebit comhead"> (<a href="from?site=karpathy.github.io"><span class="sitestr">karpathy.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI agrees with Dept. of War to deploy models in their classified network (twitter.com/sama)]]></title>
@@ -45,7 +45,7 @@
         <id>link-69c4cbc1cab1ca3f285f28a55b35b57b</id>
         <link href="https://news.ycombinator.com/item?id=47186677"/>
         <updated>2026-02-28T01:55:04.001Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47186677">1349 points</span> by <a href="user?id=jacobedawson" class="hnuser">jacobedawson</a> <span class="age" title="2026-02-27T22:31:18 1772231478"><a href="item?id=47186677">2 days ago</a></span> <span id="unv_47186677"></span> | <a href="item?id=47186677">1076&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/secwar/status/2027507717469049070">I am directing the Department of War to designate Anthropic a supply-chain risk</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/secwar"><span class="sitestr">twitter.com/secwar</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47186677">1350 points</span> by <a href="user?id=jacobedawson" class="hnuser">jacobedawson</a> <span class="age" title="2026-02-27T22:31:18 1772231478"><a href="item?id=47186677">2 days ago</a></span> <span id="unv_47186677"></span> | <a href="item?id=47186677">1076&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/secwar/status/2027507717469049070">I am directing the Department of War to designate Anthropic a supply-chain risk</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/secwar"><span class="sitestr">twitter.com/secwar</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google API keys weren't secrets, but then Gemini changed the rules (trufflesecurity.com)]]></title>
@@ -59,7 +59,7 @@
         <id>link-8df4ee42a5f1fee85779ebc9a5684f7e</id>
         <link href="https://news.ycombinator.com/item?id=47191232"/>
         <updated>2026-02-28T22:23:48.221Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47191232">1188 points</span> by <a href="user?id=lavp" class="hnuser">lavp</a> <span class="age" title="2026-02-28T06:34:07 1772260447"><a href="item?id=47191232">2 days ago</a></span> <span id="unv_47191232"></span> | <a href="item?id=47191232">2608&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk">The United States and Israel have launched a major attack on Iran</a><span class="sitebit comhead"> (<a href="from?site=cnn.com"><span class="sitestr">cnn.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47191232">1188 points</span> by <a href="user?id=lavp" class="hnuser">lavp</a> <span class="age" title="2026-02-28T06:34:07 1772260447"><a href="item?id=47191232">2 days ago</a></span> <span id="unv_47191232"></span> | <a href="item?id=47191232">2610&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk">The United States and Israel have launched a major attack on Iran</a><span class="sitebit comhead"> (<a href="from?site=cnn.com"><span class="sitestr">cnn.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statement on the comments from Secretary of War Pete Hegseth (anthropic.com)]]></title>
@@ -69,10 +69,10 @@
         <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47188697">1162 points</span> by <a href="user?id=surprisetalk" class="hnuser">surprisetalk</a> <span class="age" title="2026-02-28T01:20:10 1772241610"><a href="item?id=47188697">2 days ago</a></span> <span id="unv_47188697"></span> | <a href="item?id=47188697">356&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/statement-comments-secretary-war">Statement on the comments from Secretary of War Pete Hegseth</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do I cancel my ChatGPT subscription? (help.openai.com)]]></title>
-        <id>link-993ce5a542aabcdea05a5450383a95c0</id>
-        <link href="https://news.ycombinator.com/item?id=47190997"/>
-        <updated>2026-03-02T05:15:24.042Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47190997">1060 points</span> by <a href="user?id=tobr" class="hnuser">tobr</a> <span class="age" title="2026-02-28T05:55:01 1772258101"><a href="item?id=47190997">2 days ago</a></span> <span id="unv_47190997"></span> | <a href="item?id=47190997">252&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription">How do I cancel my ChatGPT subscription?</a><span class="sitebit comhead"> (<a href="from?site=help.openai.com"><span class="sitestr">help.openai.com</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[Motorola announces a partnership with GrapheneOS Foundation (motorolanews.com)]]></title>
+        <id>link-5f24a20728698d17e48c49233661a7af</id>
+        <link href="https://news.ycombinator.com/item?id=47214645"/>
+        <updated>2026-03-02T14:42:16.510Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47214645">1131 points</span> by <a href="user?id=km" class="hnuser">km</a> <span class="age" title="2026-03-02T06:48:07 1772434087"><a href="item?id=47214645">7 hours ago</a></span> <span id="unv_47214645"></span> | <a href="item?id=47214645">392&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/">Motorola announces a partnership with GrapheneOS Foundation</a><span class="sitebit comhead"> (<a href="from?site=motorolanews.com"><span class="sitestr">motorolanews.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
