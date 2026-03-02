@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-03-02T05:18:04.570Z</updated>
+    <updated>2026-03-02T07:02:00.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.73]]></title>
+        <id>title-6709c4bc6b7cdb2af1ed9e46fcd4deb6</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-03-02T06:59:18.180Z</updated>
+        <content type="html"><![CDATA[Released Mar 2, 2026 - 352.1 KB — Added a "Secure checkout by Stripe" notice to the upgrade modal so you know what to expect when checking out.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.72]]></title>
         <id>title-82d4771757e2efebac8aca0465ef8a58</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released Sep 26, 2023 - 326.54 KB — Added a close button to the reveal buttons.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.46]]></title>
-        <id>title-f2079db280506867067c920dc5ca91ef</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released Aug 31, 2023 - 326.76 KB — fixed search bar bug]]></content>
     </entry>
 </feed>

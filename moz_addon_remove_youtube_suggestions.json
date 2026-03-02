@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-6709c4bc6b7cdb2af1ed9e46fcd4deb6",
+			"title": "Version 4.3.73",
+			"contents": "Released Mar 2, 2026 - 352.1 KB — Added a \"Secure checkout by Stripe\" notice to the upgrade modal so you know what to expect when checking out.",
+			"retrieved": 1772434758180
+		},
+		{
 			"id": "title-82d4771757e2efebac8aca0465ef8a58",
 			"title": "Version 4.3.72",
 			"contents": "Released Mar 1, 2026 - 352.05 KB — New \"Active\" tab in the sidebar — quickly see and manage all your enabled options in one place.",
@@ -145,12 +151,6 @@
 			"id": "title-0e85389c7db7601be0940370381c1dcf",
 			"title": "Version 4.3.47",
 			"contents": "Released Sep 26, 2023 - 326.54 KB — Added a close button to the reveal buttons.",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-f2079db280506867067c920dc5ca91ef",
-			"title": "Version 4.3.46",
-			"contents": "Released Aug 31, 2023 - 326.76 KB — fixed search bar bug",
 			"retrieved": 1767548017655
 		}
 	]
