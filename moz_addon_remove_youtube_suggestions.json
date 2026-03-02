@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-6402cfdc8597423bacdb1d6831333403",
+			"title": "Version 4.3.74",
+			"contents": "Released Mar 2, 2026 - 352.06 KB — Remove host permission for <a href=\"https://prod.outgoing.prod.webservices.mozgcp.net/v1/e36c68840cd17034822928820dfa5918d548d3ab899ebd0786a403f446af11e1/http%3A//server.lawrencehook.com\" rel=\"nofollow\">server.lawrencehook.com</a>.",
+			"retrieved": 1772490441125
+		},
+		{
 			"id": "title-6709c4bc6b7cdb2af1ed9e46fcd4deb6",
 			"title": "Version 4.3.73",
 			"contents": "Released Mar 2, 2026 - 352.1 KB — Added a \"Secure checkout by Stripe\" notice to the upgrade modal so you know what to expect when checking out.",
@@ -145,12 +151,6 @@
 			"id": "title-73d79e849859ff4b30325f96f72c91a9",
 			"title": "Version 4.3.48",
 			"contents": "Released Oct 28, 2023 - 326.91 KB — Added compatibility for the new skip button",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-0e85389c7db7601be0940370381c1dcf",
-			"title": "Version 4.3.47",
-			"contents": "Released Sep 26, 2023 - 326.54 KB — Added a close button to the reveal buttons.",
 			"retrieved": 1767548017655
 		}
 	]
