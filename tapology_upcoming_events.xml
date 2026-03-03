@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-03-03T20:36:29.357Z</updated>
+    <updated>2026-03-03T22:33:06.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136871-ufc-326-holloway-vs-oliveira-2">UFC 326</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-03-07 17:00:00 -0500">in 4 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-03-07 17:00:00 -0500">in 3 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
