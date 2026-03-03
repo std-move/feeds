@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-03-03T10:42:34.979Z</updated>
+    <updated>2026-03-03T13:01:42.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
     <entry>
@@ -152,35 +152,6 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 80 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tester/Test Analytik - bankovní prostředí, hybrid — až 90 000 Kč / měsíc]]></title>
-        <id>link-a82ab2307e7dc63760e7d877a884e218</id>
-        <link href="https://www.jobstack.it/it-job/test-analytik/699c5b489841d"/>
-        <updated>2026-03-02T13:00:05.727Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Test analytik</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																			</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Principal engineering s.r.o.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha/remote</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 90 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -608,6 +579,36 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 100 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medior-senior IT analytik – informační systémy pojištění — až 140 000 Kč / měsíc]]></title>
+        <id>link-3ad5c3216247fa2bf76900d446f72061</id>
+        <link href="https://www.jobstack.it/it-job/analytik/6992fc22aa6be"/>
+        <updated>2026-03-03T12:58:56.605Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Analytik</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+														</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>Three systems</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 140 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
