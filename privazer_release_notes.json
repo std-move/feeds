@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-de98c0870d47e05826d0f618e4251a8f",
+			"title": "v4.0.118",
+			"contents": "<strong>v4.0.118</strong> (03 March 2026)<br>\n             + Improved speed<br> \n             + Improved portable version <br>  \n             + Improved cleanup : Firefox\n             + New cleanup : r3dfox\n             + Improved UI<br> \n             + New command lines :  /INTERNET_TRACES<br>\n             + New command lines :  /CREATE_RESTORE_POINT<br>\n             + New command lines :  /CLOSE_WEB_BROSER<br> \n             <u>More info</u>  : <a href=\"https://privazer.com/download.php#commandlines\">https://privazer.com/download.php#commandlines</a>               <br>",
+			"retrieved": 1772563744623
+		},
+		{
 			"id": "title-a588c318ee23650cc4ed41815f457b7b",
 			"title": "v4.0.117",
 			"contents": "<strong>v4.0.117</strong> (30 January 2026)<br>\n             + Improved speed<br>  \n             + Improved cleanup : Delivery Optimization<br>  \n             + Minor bug fixes minimizing, null file<br>",
@@ -115,12 +121,6 @@
 			"id": "title-a7e963249008bfa4d16d0b2ff2dbaf0a",
 			"title": "v4.0.99",
 			"contents": "<strong>v4.0.99</strong> (10 February 2025)<br>\n                + Fixed issues : Download of updates<br>\n                + Fixed issues :  Cookies <br>  \n                + Fixed issues : XP compatibility <br>    \n                + Minor bug fixes<br>             \n                <u>More info</u>  : <a href=\"https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-124#post-3223242\">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>",
-			"retrieved": 1770024983636
-		},
-		{
-			"id": "title-1450bb7f5995026f43d3c2897dced2e2",
-			"title": "v4.0.98",
-			"contents": "<strong>v4.0.98</strong> (07 February 2025)<br>\n                + New option : Import cookies from Ccleaner<br> \n                + Improved cleanup : Cookies<br>  \n                + Improved cleanup : Windows Apps<br> \n                + Improved cleanup : RAM / Pagefile.sys<br>  \n                + Improved support : TRIM (SSD)<br> \n                + Improved support : TRIM (USB)<br>   \n                + Improved UI <br> \n                + Fixed issues<br>",
 			"retrieved": 1770024983636
 		}
 	]
