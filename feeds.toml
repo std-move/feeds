@@ -30,7 +30,7 @@ entrySelector = "[class*='gridStyles'] a[class*='linkContainer']"
 titleSelector = "h2"
 linkSelector = "*"
 contentSelector = ["h2", "p[class*='price']"]
-suppressFailureUntilEpochSec = 1772652140
+suppressFailureUntilEpochSec = 1772816772
 
 [kobo_libra_2_firmware]
 title = "Kobo Libra 2 latest firmware"
