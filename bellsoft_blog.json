@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/favicon.ico",
 	"elements": [
 		{
+			"id": "link-aa578432740c0afb6373e79612066edd",
+			"title": "Build AI Agents in Java with Embabel: Step-by-Step Guide",
+			"link": "https://bell-sw.com/blog/build-ai-agents-in-java-with-embabel-step-by-step-guide/",
+			"contents": "Find out how to use the Embabel framework to build production-ready, goal-driven AI agents guarded by domain logic and strong typing on the JVM. Step-by-step guide.",
+			"retrieved": 1772606998499
+		},
+		{
 			"id": "link-e4727d91b53cccb0c16e1495a3c54f03",
 			"title": "How to Create UI in Java with Vaadin: Dialog, Forms with Validation, Real-Time Updates",
 			"link": "https://bell-sw.com/blog/how-to-create-ui-in-java-with-vaadin-dialog-forms-with-validation-real-time-updates/",
@@ -155,13 +162,6 @@
 			"title": "30 Years with Java: A BellSoft Love Story",
 			"link": "https://bell-sw.com/blog/30-years-with-java-a-bellsoft-love-story/",
 			"contents": "The BellSoft engineers reminiscent about their journey with Java",
-			"retrieved": 1767777625776
-		},
-		{
-			"id": "link-eb2dec9654e08dd44a292c945c5c5ee0",
-			"title": "Liberica Native Image Kit 23.0.8, 23.1.7, and 24.2.1 builds are released",
-			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-8-23-1-7-and-24-2-1-builds-are-released/",
-			"contents": "New Liberica NIK versions 23.0.8, 23.1.7, and 24.2.1 include several important fixes in the JDK.",
 			"retrieved": 1767777625776
 		}
 	]

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/</id>
     <title>The BellSoft Blog</title>
-    <updated>2026-03-04T05:11:49.545Z</updated>
+    <updated>2026-03-04T06:52:51.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Build AI Agents in Java with Embabel: Step-by-Step Guide]]></title>
+        <id>link-aa578432740c0afb6373e79612066edd</id>
+        <link href="https://bell-sw.com/blog/build-ai-agents-in-java-with-embabel-step-by-step-guide/"/>
+        <updated>2026-03-04T06:49:58.499Z</updated>
+        <content type="html"><![CDATA[Find out how to use the Embabel framework to build production-ready, goal-driven AI agents guarded by domain logic and strong typing on the JVM. Step-by-step guide.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create UI in Java with Vaadin: Dialog, Forms with Validation, Real-Time Updates]]></title>
         <id>link-e4727d91b53cccb0c16e1495a3c54f03</id>
@@ -158,12 +165,5 @@
         <link href="https://bell-sw.com/blog/30-years-with-java-a-bellsoft-love-story/"/>
         <updated>2026-01-07T09:20:25.776Z</updated>
         <content type="html"><![CDATA[The BellSoft engineers reminiscent about their journey with Java]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica Native Image Kit 23.0.8, 23.1.7, and 24.2.1 builds are released]]></title>
-        <id>link-eb2dec9654e08dd44a292c945c5c5ee0</id>
-        <link href="https://bell-sw.com/blog/liberica-native-image-kit-23-0-8-23-1-7-and-24-2-1-builds-are-released/"/>
-        <updated>2026-01-07T09:20:25.776Z</updated>
-        <content type="html"><![CDATA[New Liberica NIK versions 23.0.8, 23.1.7, and 24.2.1 include several important fixes in the JDK.]]></content>
     </entry>
 </feed>
