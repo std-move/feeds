@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-03-04T13:00:25.884Z</updated>
+    <updated>2026-03-04T14:40:58.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Lenovo ThinkPad T14 G7 & T16 G6 hands on: LPCAMM2 for the mainstream]]></title>
+        <id>link-8045c04388f9d045c0b9dabee7a8a19e</id>
+        <link href="https://www.notebookcheck.net/Hands-on-with-the-only-Intel-Core-Ultra-X7-laptops-with-upgradable-RAM-Lenovo-s-singular-new-ThinkPad-T14-G7-and-T16-G5.1241172.0.html"/>
+        <updated>2026-03-04T14:38:23.506Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260228_103937-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260228_103937-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260228_103937-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260228_103937-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260228_103937-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260228_103937-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/5/csm_IMG_20260228_103937_dbde6309e0.jpg" loading="lazy" alt="The first mainstream commercial laptop with LPCAMM2: The Lenovo ThinkPad T14 Gen 7."></picture><div class="intro_featured_bar_title">Lenovo ThinkPad T14 G7 &amp; T16 G6 hands on: LPCAMM2 for the mainstream</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minisforum AI X1 Pro with HX 470: More power - theoretically.]]></title>
         <id>link-8f6b941cec289042867a23e3b7243765</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Can-the-Redmi-Note-15-5G-win-everyone-over.1237258.0.html"/>
         <updated>2026-03-02T18:50:53.732Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/8/csm_aPic_Xiaomi_Redmi_Note_15_5G-2144_7034718bb1.jpg" loading="lazy" alt="Can the Redmi Note 15 5G win everyone over?"></picture><div class="intro_featured_bar_title">Now with Snapdragon - Redmi Note 15 5G tested</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia GeForce Now hands-on: One way to beat absurd hardware prices]]></title>
-        <id>link-30845df863d928fad93441a4c30d77a6</id>
-        <link href="https://www.notebookcheck.net/NGL-Nvidia-s-GeForce-Now-India-showcase-was-genuinely-impressive-but-it-left-us-with-more-questions-than-answers.1225456.0.html"/>
-        <updated>2026-03-02T16:50:17.760Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/geforce-now-gamescom-2025-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/geforce-now-gamescom-2025-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geforce-now-gamescom-2025-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/geforce-now-gamescom-2025-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geforce-now-gamescom-2025-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geforce-now-gamescom-2025-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/c/csm_geforce-now-gamescom-2025_f6327f28fb.jpg" loading="lazy" alt="Nvidia's GeForce Now service finally arrives in India"></picture><div class="intro_featured_bar_title">Nvidia GeForce Now hands-on: One way to beat absurd hardware prices</div>]]></content>
     </entry>
 </feed>
