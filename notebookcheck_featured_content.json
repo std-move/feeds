@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-d8393bb9070a7dcea76bde8354e00194",
+			"title": "A counter-design to obese flagship smartphones: Motorola Signature review",
+			"link": "https://www.notebookcheck.net/Motorola-Signature-review-DxO-award-winning-attack-on-Apple-and-Samsung.1237925.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/3/csm_Fotos_Motorola_Signature_4_zu_3_Teaser_3_81d6832497.jpg\" loading=\"lazy\" alt=\"Motorola Signature\"></picture><div class=\"intro_featured_bar_title\">A counter-design to obese flagship smartphones: Motorola Signature review</div>",
+			"retrieved": 1772600939148
+		},
+		{
 			"id": "link-981cc4785ad483b45ccfcb20703cd178",
 			"title": "Horror deluxe: Resident Evil Requiem review",
 			"link": "https://www.notebookcheck.net/Resident-Evil-Requiem-blows-us-away-in-our-benchmark-test.1241698.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Taking-on-Samsung-Apple-Honor-MWC-2026.1238781.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0220-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0220-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0220-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0220-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0220-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0220-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/a/csm_thumb_0220_7f62a98652.jpg\" loading=\"lazy\" alt=\"Taking on Samsung &amp; Apple - Honor @MWC 2026\"></picture><div class=\"intro_featured_bar_title\">▶ Taking on Samsung &amp; Apple - Honor @MWC 2026</div>",
 			"retrieved": 1772375122258
-		},
-		{
-			"id": "link-a03e8a94c81e78edb6791b447fb9f768",
-			"title": "Trendsetter - Realme GT 8 Pro",
-			"link": "https://www.notebookcheck.net/The-most-unusual-smartphone-design-of-2026-including-Ricoh-camera-Realme-GT-8-Pro-review.1237926.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Realme/GT_8_Pro/realme_GT_8_Pro_Test_review_112-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/5/csm_realme_GT_8_Pro_Test_review_112_bc6ef50855.jpg\" loading=\"lazy\" alt=\"Test Realme GT 8 Pro smartphone \"></picture><div class=\"intro_featured_bar_title\">Trendsetter - Realme GT 8 Pro</div>",
-			"retrieved": 1772347652424
 		}
 	]
 }
