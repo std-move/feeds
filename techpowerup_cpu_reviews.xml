@@ -2,6 +2,657 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.techpowerup.com/review/?category=Processors&amp;manufacturer=&amp;pp=25&amp;order=date</id>
     <title>TechPowerUp.com CPU reviews</title>
-    <updated>2026-03-05T14:48:30.728Z</updated>
+    <updated>2026-03-05T18:07:24.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.techpowerup.com/review/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7 9850X3D Review - The Best Just Got Better]]></title>
+        <id>link-b1a4bc02d1d402d024b9be210b49387d</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-7-9850x3d/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-7-9850x3d/">AMD Ryzen 7 9850X3D Review - The Best Just Got Better</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-7-9850x3d/">
+			<img alt="AMD Ryzen 7 9850X3D" width="100" height="100" loading="lazy" src="/review/amd-ryzen-7-9850x3d/images/small@1x.png" srcset="/review/amd-ryzen-7-9850x3d/images/small@1x.png 100w, /review/amd-ryzen-7-9850x3d/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The AMD Ryzen 9850X3D builds on the already excellent 9800X3D without trying to shake up the market. Instead, it focuses on refining what already works. AMD delivers modest improvements with smarter tuning, and the same cache magic that gamers love. Thanks to a reasonable price increase, this processor will be a no-brainer pick for future high-end gaming rigs.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2026-01-28T14:00:09+00:00">Jan 28th, 2026</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Panther Lake Technical Deep Dive]]></title>
+        <id>link-4ea24aa460ab10d9e1a4faef135cb401</id>
+        <link href="https://www.techpowerup.com/review/intel-panther-lake-technical-deep-dive/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-panther-lake-technical-deep-dive/">Intel Panther Lake Technical Deep Dive</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-panther-lake-technical-deep-dive/">
+			<img alt="Intel Panther Lake Technical Deep Dive" width="100" height="100" loading="lazy" src="/review/intel-panther-lake-technical-deep-dive/images/small@1x.png" srcset="/review/intel-panther-lake-technical-deep-dive/images/small@1x.png 100w, /review/intel-panther-lake-technical-deep-dive/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Panther Lake is Intel’s new mobile architecture built on the 18A process, featuring RibbonFET transistors, PowerVia backside power delivery, and Foveros-S packaging. With new Cougar Cove and Darkmont cores, Xe3 graphics, and smarter AI, it’s Intel’s most advanced design yet—our writeup breaks down the tech and explains how it all works.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2025-10-09T13:00:30+00:00">Oct 9th, 2025</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 9 9950X3D Review - Great for Gaming and Productivity]]></title>
+        <id>link-b368101823d9fd2621bf6da844e42bc1</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-9-9950x3d/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-9-9950x3d/">AMD Ryzen 9 9950X3D Review - Great for Gaming and Productivity</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-9-9950x3d/">
+			<img alt="AMD Ryzen 9 9950X3D" width="100" height="100" loading="lazy" src="/review/amd-ryzen-9-9950x3d/images/small@1x.png" srcset="/review/amd-ryzen-9-9950x3d/images/small@1x.png 100w, /review/amd-ryzen-9-9950x3d/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The new AMD Ryzen 9 9950X3D brings Zen 5 with 3D V-Cache to the high-end. This new $700 flagship offers the best application performance, beating even the 9950X, and at the same time you get a fantastic gaming experience that's better than any other non-X3D processor on the market.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2025-03-11T12:59:00+00:00">Mar 11th, 2025</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrow Lake Retested with Latest 24H2 Updates and 0x114 Microcode]]></title>
+        <id>link-c2e337aafb203bd019f13afdf4c1e8c8</id>
+        <link href="https://www.techpowerup.com/review/arrow-lake-retested-with-latest-24h2-updates-and-new-bios/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/arrow-lake-retested-with-latest-24h2-updates-and-new-bios/">Arrow Lake Retested with Latest 24H2 Updates and 0x114 Microcode</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/arrow-lake-retested-with-latest-24h2-updates-and-new-bios/">
+			<img alt="Arrow Lake Retested with Latest 24H2 Updates and 0x114 Microcode" width="100" height="100" loading="lazy" src="/review/arrow-lake-retested-with-latest-24h2-updates-and-new-bios/images/small@1x.png" srcset="/review/arrow-lake-retested-with-latest-24h2-updates-and-new-bios/images/small@1x.png 100w, /review/arrow-lake-retested-with-latest-24h2-updates-and-new-bios/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Yesterday, Intel announced that they had root-caused the majority of Arrow Lake Core Ultra 200 performance problems, and that OS updates are already available. We tested Windows 11 24H2 with the new patches, and also compare results with 23H2 and a new motherboard BIOS.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-12-19T15:47:00+00:00">Dec 19th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7 9800X3D Review - The Best Gaming Processor]]></title>
+        <id>link-8d78f89720e6f0fa49d7b7461589ae55</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-7-9800x3d/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-7-9800x3d/">AMD Ryzen 7 9800X3D Review - The Best Gaming Processor</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-7-9800x3d/">
+			<img alt="AMD Ryzen 7 9800X3D" width="100" height="100" loading="lazy" src="/review/amd-ryzen-7-9800x3d/images/small@1x.png" srcset="/review/amd-ryzen-7-9800x3d/images/small@1x.png 100w, /review/amd-ryzen-7-9800x3d/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The Ryzen 7 9800X3D establishes AMD as the leader in gaming performance. This Zen 5-based X3D chip is not only fast, it also comes with full support for overclocking. Besides gaming, application performance is considerably improved over the 7800X3D, but that comes at a price.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-11-06T13:59:46+00:00">Nov 6th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core Ultra 9 285K Review]]></title>
+        <id>link-945ad802420154edac03cc4e6d129982</id>
+        <link href="https://www.techpowerup.com/review/intel-core-ultra-9-285k/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-ultra-9-285k/">Intel Core Ultra 9 285K Review</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-ultra-9-285k/">
+			<img alt="Intel Core Ultra 9 285K" width="100" height="100" loading="lazy" src="/review/intel-core-ultra-9-285k/images/small@1x.png" srcset="/review/intel-core-ultra-9-285k/images/small@1x.png 100w, /review/intel-core-ultra-9-285k/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Finally! Intel's new Arrow Lake architecture is launched. The new CPUs are full of design changes, like removal of Hyper-Threading, new Lion Cove P-Cores, an improved Thread Director and more. In our review we got surprising results that were both impressive and disappointing.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-10-24T15:00:03+00:00">Oct 24th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core Ultra 7 265K Review]]></title>
+        <id>link-afd5a3eba3dd9fc653e28b1c338b139a</id>
+        <link href="https://www.techpowerup.com/review/intel-core-ultra-7-265k/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-ultra-7-265k/">Intel Core Ultra 7 265K Review</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-ultra-7-265k/">
+			<img alt="Intel Core Ultra 7 265K" width="100" height="100" loading="lazy" src="/review/intel-core-ultra-7-265k/images/small@1x.png" srcset="/review/intel-core-ultra-7-265k/images/small@1x.png 100w, /review/intel-core-ultra-7-265k/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The Intel Core Ultra 7 265K offers eight strong Lion Cove cores, just like the 285K, and merely four E-Cores fewer, for an almost 50% price difference. Despite the "Ultra 7" branding it offers plenty of application performance that can beat even the Ryzen 9 9900X. Things don't look so good in gaming though.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-10-24T15:00:02+00:00">Oct 24th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core Ultra 5 245K Review]]></title>
+        <id>link-91cf17b737920811ad54390e1e678338</id>
+        <link href="https://www.techpowerup.com/review/intel-core-ultra-5-245k/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-ultra-5-245k/">Intel Core Ultra 5 245K Review</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-ultra-5-245k/">
+			<img alt="Intel Core Ultra 5 245K" width="100" height="100" loading="lazy" src="/review/intel-core-ultra-5-245k/images/small@1x.png" srcset="/review/intel-core-ultra-5-245k/images/small@1x.png 100w, /review/intel-core-ultra-5-245k/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The Intel Core Ultra 5 245K is the company's most affordable Arrow Lake release today. While its 6+8 core config without Hyper-Threading might make it appear weak at first, it actually punches well above its weight, especially in applications. Unfortunately gaming isn't working so well.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-10-24T15:00:00+00:00">Oct 24th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core Ultra Arrow Lake Preview]]></title>
+        <id>link-1e0868a0befd781587b91175385f8208</id>
+        <link href="https://www.techpowerup.com/review/intel-core-ultra-arrow-lake-preview/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-ultra-arrow-lake-preview/">Intel Core Ultra Arrow Lake Preview</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-ultra-arrow-lake-preview/">
+			<img alt="Intel Core Ultra Arrow Lake Preview" width="100" height="100" loading="lazy" src="/review/intel-core-ultra-arrow-lake-preview/images/small@1x.png" srcset="/review/intel-core-ultra-arrow-lake-preview/images/small@1x.png 100w, /review/intel-core-ultra-arrow-lake-preview/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Intel has just lifted the curtain on its highly anticipated Arrow Lake microarchitecture, we also learned about the processor models that are launching this month. In our preview we explain technical details, such as why Hyper-Threading was removed and how Foveros fuses multiple dies into a seamless, high-performance product.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-10-10T15:12:00+00:00">Oct 10th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDR5 Memory Performance Scaling with AMD Zen 5]]></title>
+        <id>link-69e52e037da6cb4e5ab35e9128aa2569</id>
+        <link href="https://www.techpowerup.com/review/ddr5-memory-performance-scaling-with-amd-zen-5/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/ddr5-memory-performance-scaling-with-amd-zen-5/">DDR5 Memory Performance Scaling with AMD Zen 5</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/ddr5-memory-performance-scaling-with-amd-zen-5/">
+			<img alt="DDR5 Memory Performance Scaling with AMD Zen 5" width="100" height="100" loading="lazy" src="/review/ddr5-memory-performance-scaling-with-amd-zen-5/images/small@1x.png" srcset="/review/ddr5-memory-performance-scaling-with-amd-zen-5/images/small@1x.png 100w, /review/ddr5-memory-performance-scaling-with-amd-zen-5/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Our AMD Zen 5 Memory Scaling Review examines six different DDR5 memory speeds, including DDR5-8000, DDR5-6400 1:1, DDR5-6400 CL28 and others. We looked into how these speeds impact performance in gaming at four resolutions and a wide range of application workloads.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-09-27T19:48:00+00:00">Sep 27th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 9 9950X Review - The New Flagship]]></title>
+        <id>link-28dd2e026fa099cd5ec7d0b44a26d96f</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-9-9950x/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-9-9950x/">AMD Ryzen 9 9950X Review - The New Flagship</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-9-9950x/">
+			<img alt="AMD Ryzen 9 9950X" width="100" height="100" loading="lazy" src="/review/amd-ryzen-9-9950x/images/small@1x.png" srcset="/review/amd-ryzen-9-9950x/images/small@1x.png 100w, /review/amd-ryzen-9-9950x/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		With 16 cores and 32 threads, the Ryzen 9 9950X, powered by AMD’s Zen 5 architecture, is the fastest desktop processor we've ever tested. In our review, it breezed through application workloads and delivered high FPS rates in gaming. But at $650, it doesn’t come cheap.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-08-14T13:00:01+00:00">Aug 14th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 9 9900X Review - But that Price]]></title>
+        <id>link-9f0035e89f142f1a2affa8a10c82f7f1</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-9-9900x/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-9-9900x/">AMD Ryzen 9 9900X Review - But that Price</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-9-9900x/">
+			<img alt="AMD Ryzen 9 9900X" width="100" height="100" loading="lazy" src="/review/amd-ryzen-9-9900x/images/small@1x.png" srcset="/review/amd-ryzen-9-9900x/images/small@1x.png 100w, /review/amd-ryzen-9-9900x/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The Ryzen 9 9900X, with its 12-core/24-thread design, is designed for those looking to go beyond eight cores. It delivers solid gaming performance and benefits from a 120W TDP. Despite its performance, the $500 cost is high, especially when considering similar products in its category.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-08-14T13:00:00+00:00">Aug 14th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We found the Missing Performance: Zen 5 Tested with SMT Disabled]]></title>
+        <id>link-180d675d36d51a574ec25c748f07e656</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-9-9700x-performance-smt-disabled/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-9-9700x-performance-smt-disabled/">We found the Missing Performance: Zen 5 Tested with SMT Disabled</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-9-9700x-performance-smt-disabled/">
+			<img alt="We found the Missing Performance: Zen 5 Tested with SMT Disabled" width="100" height="100" loading="lazy" src="/review/amd-ryzen-9-9700x-performance-smt-disabled/images/small@1x.png" srcset="/review/amd-ryzen-9-9700x-performance-smt-disabled/images/small@1x.png 100w, /review/amd-ryzen-9-9700x-performance-smt-disabled/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Reviews of AMD’s Zen 5 processors this week surprised many, with lower-than-expected results. After some investigation, we discovered that turning off Simultaneous Multithreading (SMT) can yield notable performance gains, particularly in gaming. This article presents our findings, including comparisons with the 7800X3D and 7700X with SMT turned off.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-08-10T13:00:36+00:00">Aug 10th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7 9700X Review - The Magic of Zen 5]]></title>
+        <id>link-898fd24d92abc00f8dee29fcae0b953f</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-7-9700x/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-7-9700x/">AMD Ryzen 7 9700X Review - The Magic of Zen 5</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-7-9700x/">
+			<img alt="AMD Ryzen 7 9700X" width="100" height="100" loading="lazy" src="/review/amd-ryzen-7-9700x/images/small@1x.png" srcset="/review/amd-ryzen-7-9700x/images/small@1x.png 100w, /review/amd-ryzen-7-9700x/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The AMD Ryzen 7 9700X boasts a robust eight-core design and exceptional single-threaded performance with great power efficiency. In our review we saw good gains with PBO overclocking and TDP increases. Unfortunately, the $360 price tag is steep, and there are several good alternatives available.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-08-07T13:00:02+00:00">Aug 7th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 5 9600X Review - The Best Sub-$300 Gaming CPU]]></title>
+        <id>link-7005046d9d630013a62b4d95a5b4088d</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-5-9600x/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-5-9600x/">AMD Ryzen 5 9600X Review - The Best Sub-$300 Gaming CPU</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-5-9600x/">
+			<img alt="AMD Ryzen 5 9600X" width="100" height="100" loading="lazy" src="/review/amd-ryzen-5-9600x/images/small@1x.png" srcset="/review/amd-ryzen-5-9600x/images/small@1x.png 100w, /review/amd-ryzen-5-9600x/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The AMD Ryzen 5 9600X excels in energy efficiency and single-threaded performance. It offers great FPS for gamers and solid application performance. Our review confirms: at just $280, the 9600X is a compelling option against the pricier 7800X3D.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-08-07T13:00:01+00:00">Aug 7th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i3-14100 Review]]></title>
+        <id>link-5bdc774da16f3fd76149d5b92c57e21a</id>
+        <link href="https://www.techpowerup.com/review/intel-core-i3-14100/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-i3-14100/">Intel Core i3-14100 Review</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-i3-14100/">
+			<img alt="Intel Core i3-14100" width="100" height="100" loading="lazy" src="/review/intel-core-i3-14100/images/small@1x.png" srcset="/review/intel-core-i3-14100/images/small@1x.png 100w, /review/intel-core-i3-14100/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The Intel Core i3-14100 processor impresses with its low price of just $140. Thanks to the high boost clocks, single-threaded performance is better than most alternatives and gaming with a graphics card works very well. Power efficiency is good, too, running at less than 40 W most of the time.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-08-01T17:08:00+00:00">Aug 1st, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 5 8500G Review - Zen 4 + Zen 4c Tested]]></title>
+        <id>link-af2030806042e7a815c17cd7739fa0e7</id>
+        <link href="https://www.techpowerup.com/review/amd-ryzen-5-8500g/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-ryzen-5-8500g/">AMD Ryzen 5 8500G Review - Zen 4 + Zen 4c Tested</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-ryzen-5-8500g/">
+			<img alt="AMD Ryzen 5 8500G" width="100" height="100" loading="lazy" src="/review/amd-ryzen-5-8500g/images/small@1x.png" srcset="/review/amd-ryzen-5-8500g/images/small@1x.png 100w, /review/amd-ryzen-5-8500g/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The AMD Ryzen 5 8500G is a highly affordable Socket AM5 processor. It features the Phoenix 2 core, which combines the Zen 4 and Zen 4c architecture, for improved energy efficiency. In our review we test gaming performance with both integrated graphics and a discrete graphics card.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-07-24T19:04:00+00:00">Jul 24th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Zen 5 Technical Deep Dive]]></title>
+        <id>link-4cde01e1ea2dee683df3ab499889ecc5</id>
+        <link href="https://www.techpowerup.com/review/amd-zen-5-technical-deep-dive/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/amd-zen-5-technical-deep-dive/">AMD Zen 5 Technical Deep Dive</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/amd-zen-5-technical-deep-dive/">
+			<img alt="AMD Zen 5 Technical Deep Dive" width="100" height="100" loading="lazy" src="/review/amd-zen-5-technical-deep-dive/images/small@1x.png" srcset="/review/amd-zen-5-technical-deep-dive/images/small@1x.png 100w, /review/amd-zen-5-technical-deep-dive/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		AMD has finally shared technical details for their next-gen Zen 5 microarchitecture, which will power the new Ryzen 9000 desktop processors and the Ryzen AI 300 Series laptop CPUs. We detail all the technical innovations, including overclocking, and how AMD achieved +16% IPC.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-07-15T12:59:00+00:00">Jul 15th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Lunar Lake Technical Deep Dive - So many Revolutions in One Chip]]></title>
+        <id>link-d6a33455334225c326db5fe201a0fa69</id>
+        <link href="https://www.techpowerup.com/review/intel-lunar-lake-technical-deep-dive/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-lunar-lake-technical-deep-dive/">Intel Lunar Lake Technical Deep Dive - So many Revolutions in One Chip</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-lunar-lake-technical-deep-dive/">
+			<img alt="Intel Lunar Lake Technical Deep Dive" width="100" height="100" loading="lazy" src="/review/intel-lunar-lake-technical-deep-dive/images/small@1x.png" srcset="/review/intel-lunar-lake-technical-deep-dive/images/small@1x.png 100w, /review/intel-lunar-lake-technical-deep-dive/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Intel today unveiled its ambitious Lunar Lake microarchitecture, which takes the fight to the likes of the Apple M3, the Snapdragon X Elite, and more, bringing high end AI PC experiences within an ultraportable footprint, with smartphone-like battery life and availability. We have all the technical details.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-06-04T03:00:14+00:00">Jun 3rd, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i9-14900KS Review - The Last of its Kind]]></title>
+        <id>link-8f6272c3ea6e60d2a0b7507f913b0384</id>
+        <link href="https://www.techpowerup.com/review/intel-core-i9-14900ks/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-i9-14900ks/">Intel Core i9-14900KS Review - The Last of its Kind</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-i9-14900ks/">
+			<img alt="Intel Core i9-14900KS" width="100" height="100" loading="lazy" src="/review/intel-core-i9-14900ks/images/small@1x.png" srcset="/review/intel-core-i9-14900ks/images/small@1x.png 100w, /review/intel-core-i9-14900ks/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		The Intel Core i9-14900KS reaches impressive clock frequencies up to 6.2 GHz, which yields remarkable performance in applications and gaming. However, this comes at the cost of serious power consumption, especially if you go beyond stock, where we saw over 500 W during testing.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2024-03-14T14:58:00+00:00">Mar 14th, 2024</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i9-14900K Raptor Lake Tested at Power Limits Down to 35 W]]></title>
+        <id>link-d0b4975feed155b93a9baf59066aed2d</id>
+        <link href="https://www.techpowerup.com/review/intel-core-i9-14900k-raptor-lake-tested-at-power-limits-down-to-35-w/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-i9-14900k-raptor-lake-tested-at-power-limits-down-to-35-w/">Intel Core i9-14900K Raptor Lake Tested at Power Limits Down to 35 W</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-i9-14900k-raptor-lake-tested-at-power-limits-down-to-35-w/">
+			<img alt="Intel Core i9-14900K Raptor Lake Tested at Power Limits Down to 35 W" width="100" height="100" loading="lazy" src="/review/intel-core-i9-14900k-raptor-lake-tested-at-power-limits-down-to-35-w/images/small@1x.png" srcset="/review/intel-core-i9-14900k-raptor-lake-tested-at-power-limits-down-to-35-w/images/small@1x.png 100w, /review/intel-core-i9-14900k-raptor-lake-tested-at-power-limits-down-to-35-w/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		There's no denying that Intel's Core i9-14900K is a power hog. This article examines the power, performance and thermals effects of limiting its power consumption, with very interesting results. Additionally, we investigate undervolting to determine if efficiency can be optimized even further.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2023-10-27T18:00:00+00:00">Oct 27th, 2023</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i9-14900K Review - Reaching for the Performance Crown]]></title>
+        <id>link-eda96411c755bd2efed6c01b4859303d</id>
+        <link href="https://www.techpowerup.com/review/intel-core-i9-14900k/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-i9-14900k/">Intel Core i9-14900K Review - Reaching for the Performance Crown</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-i9-14900k/">
+			<img alt="Intel Core i9-14900K" width="100" height="100" loading="lazy" src="/review/intel-core-i9-14900k/images/small@1x.png" srcset="/review/intel-core-i9-14900k/images/small@1x.png 100w, /review/intel-core-i9-14900k/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Core i9-14900K is Intel's new flagship with clock speeds of up to 6 GHz. It's actually clocked even higher than the 13900KS, thanks to an extra 100 MHz when more than two cores are active. Our review confirms that Raptor Lake Refresh is amazing for both applications and gaming, if you can live with the power consumption.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2023-10-17T13:00:03+00:00">Oct 17th, 2023</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i7-14700K Review - Catching the 13900K]]></title>
+        <id>link-c7fa3dc5dbe15b17c583855b5aed79f4</id>
+        <link href="https://www.techpowerup.com/review/intel-core-i7-14700k/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-i7-14700k/">Intel Core i7-14700K Review - Catching the 13900K</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-i7-14700k/">
+			<img alt="Intel Core i7-14700K" width="100" height="100" loading="lazy" src="/review/intel-core-i7-14700k/images/small@1x.png" srcset="/review/intel-core-i7-14700k/images/small@1x.png 100w, /review/intel-core-i7-14700k/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Intel Core i7-14700K is the only processor released today with an upgraded core configuration. Thanks to an additional four E-Cores, more cache and a 200 MHz frequency bump, the 14700K reaches performance quite close to the 13900K, at much better pricing.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2023-10-17T13:00:02+00:00">Oct 17th, 2023</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i5-14600K Review - Impressive OC Potential]]></title>
+        <id>link-d2c63b70b49b95b25cbeac3fed3825e7</id>
+        <link href="https://www.techpowerup.com/review/intel-core-i5-14600k/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-i5-14600k/">Intel Core i5-14600K Review - Impressive OC Potential</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-i5-14600k/">
+			<img alt="Intel Core i5-14600K" width="100" height="100" loading="lazy" src="/review/intel-core-i5-14600k/images/small@1x.png" srcset="/review/intel-core-i5-14600k/images/small@1x.png 100w, /review/intel-core-i5-14600k/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Intel Core i5-14600K is the most affordable new processor released today. While it may look weaker on paper it still packs an impressive punch, especially for gaming. In our review we reached an impressive 5.7 GHz on all cores, which unlocks quite a bit of additional performance.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2023-10-17T13:00:01+00:00">Oct 17th, 2023</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core 14th Gen Unboxing & Preview - Raptor Lake Getting Refreshed]]></title>
+        <id>link-d6ede39a239da2561ca53d9fb63c4689</id>
+        <link href="https://www.techpowerup.com/review/intel-core-14th-gen-unboxing-preview/"/>
+        <updated>2026-03-05T18:05:07.870Z</updated>
+        <content type="html"><![CDATA[<div class="title">
+		<a href="/review/intel-core-14th-gen-unboxing-preview/">Intel Core 14th Gen Unboxing &amp; Preview - Raptor Lake Getting Refreshed</a>
+	</div>
+
+	<div class="photo">
+		<a href="/review/intel-core-14th-gen-unboxing-preview/">
+			<img alt="Intel Core 14th Gen Unboxing &amp; Preview" width="100" height="100" loading="lazy" src="/review/intel-core-14th-gen-unboxing-preview/images/small@1x.png" srcset="/review/intel-core-14th-gen-unboxing-preview/images/small@1x.png 100w, /review/intel-core-14th-gen-unboxing-preview/images/small.png 256w">
+		</a>
+	</div>
+
+	<div class="teaser">
+		Intel's Core 14th Gen "Raptor Lake Refresh" processors are launching soon. Today marks the end of the unboxing and preview embargo, and we're excited to share hands-on pictures of the new processors with you. Additionally, we'll discuss the latest technologies and features they bring to the table.
+	</div>
+
+	<div class="meta">
+		<div class="date"><span>Posted:</span><time datetime="2023-10-16T12:51:35+00:00">Oct 16th, 2023</time></div>
+		<div class="author"><span>Author:</span>W1zzard</div>
+
+				<div class="category"><span>In:</span>Processors</div>
+			</div>]]></content>
+    </entry>
 </feed>
