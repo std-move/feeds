@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-03-05T13:03:34.389Z</updated>
+    <updated>2026-03-05T14:48:30.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ We are moving! - Studio update 2026]]></title>
+        <id>link-b6ec532f211b38ad71c94ecb378e61e5</id>
+        <link href="https://www.notebookcheck.net/We-are-moving-Studio-update-2026.1243317.0.html"/>
+        <updated>2026-03-05T14:44:50.461Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/b/csm_thumb3812_037b0d4c4c.jpg" loading="lazy" alt="We are moving! - Studio update 2026"></picture><div class="intro_featured_bar_title">▶ We are moving! - Studio update 2026</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4K MiniLED für $470 - TITAN ARMY P275MV PLUS review]]></title>
         <id>link-869e654b72a2d7fcdefc5ad081f74c6d</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Motorola-Signature-review-DxO-award-winning-attack-on-Apple-and-Samsung.1237925.0.html"/>
         <updated>2026-03-04T05:08:59.148Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature/Fotos_Motorola_Signature_4_zu_3_Teaser_3-JPEG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/3/csm_Fotos_Motorola_Signature_4_zu_3_Teaser_3_81d6832497.jpg" loading="lazy" alt="Motorola Signature"></picture><div class="intro_featured_bar_title">A counter-design to obese flagship smartphones: Motorola Signature review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horror deluxe: Resident Evil Requiem review]]></title>
-        <id>link-981cc4785ad483b45ccfcb20703cd178</id>
-        <link href="https://www.notebookcheck.net/Resident-Evil-Requiem-blows-us-away-in-our-benchmark-test.1241698.0.html"/>
-        <updated>2026-03-04T02:03:41.670Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/c/csm_intro2-requiem_1bcf54fc24.jpg" loading="lazy" alt="Resident Evil Requiem blows us away in our benchmark test"></picture><div class="intro_featured_bar_title">Horror deluxe: Resident Evil Requiem review</div>]]></content>
     </entry>
 </feed>
