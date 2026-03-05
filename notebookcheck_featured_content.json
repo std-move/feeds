@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-869e654b72a2d7fcdefc5ad081f74c6d",
+			"title": "4K MiniLED für $470 - TITAN ARMY P275MV PLUS review",
+			"link": "https://www.notebookcheck.net/27-inch-4K-MiniLED-with-dual-mode-160-320-Hz-for-470-TITAN-ARMY-P275MV-PLUS-gaming-monitor-review.1242607.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/title-278-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/title-278-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/title-278-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/title-278-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/title-278-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/title-278-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/f/csm_title-278_5c89a601cf.jpg\" loading=\"lazy\" alt=\"The Titan Army P275MV PLUS behind a gaming keyboard\"></picture><div class=\"intro_featured_bar_title\">4K MiniLED für $470 - TITAN ARMY P275MV PLUS review</div>",
+			"retrieved": 1772715709150
+		},
+		{
 			"id": "link-8045c04388f9d045c0b9dabee7a8a19e",
 			"title": "Lenovo ThinkPad T14 G7 & T16 G5 hands on: LPCAMM2 for the mainstream",
 			"link": "https://www.notebookcheck.net/Hands-on-with-the-only-Intel-Core-Ultra-X7-laptops-with-upgradable-RAM-Lenovo-s-singular-new-ThinkPad-T14-G7-and-T16-G5.1241172.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Resident-Evil-Requiem-blows-us-away-in-our-benchmark-test.1241698.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ResidentEvilRequiem/intro2-requiem-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/c/csm_intro2-requiem_1bcf54fc24.jpg\" loading=\"lazy\" alt=\"Resident Evil Requiem blows us away in our benchmark test\"></picture><div class=\"intro_featured_bar_title\">Horror deluxe: Resident Evil Requiem review</div>",
 			"retrieved": 1772589821670
-		},
-		{
-			"id": "link-9b16a4c085ec65d1428b2249d27839ef",
-			"title": "Now with Snapdragon - Redmi Note 15 5G tested",
-			"link": "https://www.notebookcheck.net/Can-the-Redmi-Note-15-5G-win-everyone-over.1237258.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_5G/aPic_Xiaomi_Redmi_Note_15_5G-2144-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/8/csm_aPic_Xiaomi_Redmi_Note_15_5G-2144_7034718bb1.jpg\" loading=\"lazy\" alt=\"Can the Redmi Note 15 5G win everyone over?\"></picture><div class=\"intro_featured_bar_title\">Now with Snapdragon - Redmi Note 15 5G tested</div>",
-			"retrieved": 1772477453732
 		}
 	]
 }
