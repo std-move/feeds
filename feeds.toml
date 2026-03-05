@@ -30,7 +30,7 @@ entrySelector = "[class*='gridStyles'] a[class*='linkContainer']"
 titleSelector = "h2"
 linkSelector = "*"
 contentSelector = ["h2", "p[class*='price']"]
-suppressFailureUntilEpochSec = 1772816772
+suppressFailureUntilEpochSec = 1772987252
 
 [kobo_libra_2_firmware]
 title = "Kobo Libra 2 latest firmware"
@@ -99,6 +99,7 @@ waitForSelector = ".mailpoet_archive li"
 entrySelector = ".mailpoet_archive li"
 titleSelector = "a"
 linkSelector = "a"
+suppressFailureUntilEpochSec = 1772987252
 
 [jobstack_it_jobs]
 title = "Jobstack.it jobs"
