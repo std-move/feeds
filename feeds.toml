@@ -118,22 +118,6 @@ entrySelector = "article"
 titleSelector = ".ArticleLink-heading"
 linkSelector = "a"
 
-[techpowerup_gpu_reviews]
-title = "TechPowerUp.com GPU reviews"
-url = "https://www.techpowerup.com/review/?category=Graphics+Cards&manufacturer=&pp=25&order=date"
-waitForSelector = "#list"
-entrySelector = "#list .reviewlist-bit"
-titleSelector = ".title"
-linkSelector = ".title a"
-
-[techpowerup_cpu_reviews]
-title = "TechPowerUp.com CPU reviews"
-url = "https://www.techpowerup.com/review/?category=Processors&manufacturer=&pp=25&order=date"
-waitForSelector = "#list"
-entrySelector = "#list .reviewlist-bit"
-titleSelector = ".title"
-linkSelector = ".title a"
-
 [getty_images_ufc_weigh_ins]
 title = "Getty images - UFC weigh-ins"
 url = "https://www.gettyimages.com/editorial-images/ufc"
