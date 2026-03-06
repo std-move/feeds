@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-06T18:54:05.942Z</updated>
+    <updated>2026-03-06T19:11:33.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>link-005cdff7fe19947747e0bd59065f069b</id>
         <link href="https://news.ycombinator.com/item?id=47225130"/>
         <updated>2026-03-03T12:58:56.605Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47225130">1427 points</span> by <a href="user?id=sandbach" class="hnuser">sandbach</a> <span class="age" title="2026-03-02T22:32:35 1772490755"><a href="item?id=47225130">3 days ago</a></span> <span id="unv_47225130"></span> | <a href="item?id=47225130">805&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">Meta’s AI smart glasses and data privacy concerns</a><span class="sitebit comhead"> (<a href="from?site=svd.se"><span class="sitestr">svd.se</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47225130">1428 points</span> by <a href="user?id=sandbach" class="hnuser">sandbach</a> <span class="age" title="2026-03-02T22:32:35 1772490755"><a href="item?id=47225130">3 days ago</a></span> <span id="unv_47225130"></span> | <a href="item?id=47225130">805&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">Meta’s AI smart glasses and data privacy concerns</a><span class="sitebit comhead"> (<a href="from?site=svd.se"><span class="sitestr">svd.se</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI agrees with Dept. of War to deploy models in their classified network (twitter.com/sama)]]></title>
@@ -73,6 +73,6 @@
         <id>link-fd5601298bc97df16fc1459248553eea</id>
         <link href="https://news.ycombinator.com/item?id=47241551"/>
         <updated>2026-03-05T02:07:03.112Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47241551">1281 points</span> by <a href="user?id=pabs3" class="hnuser">pabs3</a> <span class="age" title="2026-03-04T00:58:31 1772585911"><a href="item?id=47241551">2 days ago</a></span> <span id="unv_47241551"></span> | <a href="item?id=47241551">551&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://grapheneos.social/@GrapheneOS/116160393783585567">Motorola GrapheneOS devices will be bootloader unlockable/relockable</a><span class="sitebit comhead"> (<a href="from?site=grapheneos.social"><span class="sitestr">grapheneos.social</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47241551">1282 points</span> by <a href="user?id=pabs3" class="hnuser">pabs3</a> <span class="age" title="2026-03-04T00:58:31 1772585911"><a href="item?id=47241551">2 days ago</a></span> <span id="unv_47241551"></span> | <a href="item?id=47241551">551&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://grapheneos.social/@GrapheneOS/116160393783585567">Motorola GrapheneOS devices will be bootloader unlockable/relockable</a><span class="sitebit comhead"> (<a href="from?site=grapheneos.social"><span class="sitestr">grapheneos.social</span></a>)</span></span>]]></content>
     </entry>
 </feed>
