@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-03-06T19:15:33.774Z</updated>
+    <updated>2026-03-06T19:22:43.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -80,7 +80,7 @@
         <id>link-8df4ee42a5f1fee85779ebc9a5684f7e</id>
         <link href="https://news.ycombinator.com/item?id=47191232"/>
         <updated>2026-02-28T16:27:48.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47191232">1205 points</span> by <a href="user?id=lavp" class="hnuser">lavp</a> <span class="age" title="2026-02-28T06:34:07 1772260447"><a href="item?id=47191232">6 days ago</a></span> <span id="unv_47191232"></span> | <a href="item?id=47191232">2642&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk">The United States and Israel have launched a major attack on Iran</a><span class="sitebit comhead"> (<a href="from?site=cnn.com"><span class="sitestr">cnn.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47191232">1205 points</span> by <a href="user?id=lavp" class="hnuser">lavp</a> <span class="age" title="2026-02-28T06:34:07 1772260447"><a href="item?id=47191232">6 days ago</a></span> <span id="unv_47191232"></span> | <a href="item?id=47191232">2641&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk">The United States and Israel have launched a major attack on Iran</a><span class="sitebit comhead"> (<a href="from?site=cnn.com"><span class="sitestr">cnn.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Microslop” filtered in the official Microsoft Copilot Discord server (windowslatest.com)]]></title>
@@ -115,7 +115,7 @@
         <id>link-972ad1f9708878a74c0a315b0f01b564</id>
         <link href="https://news.ycombinator.com/item?id=47261688"/>
         <updated>2026-03-05T18:05:07.870Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47261688">1038 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-05T14:05:46 1772719546"><a href="item?id=47261688">1 day ago</a></span> <span id="unv_47261688"></span> | <a href="item?id=47261688">736&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c">Judge orders government to begin refunding more than $130B in tariffs</a><span class="sitebit comhead"> (<a href="from?site=wsj.com"><span class="sitestr">wsj.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47261688">1038 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-05T14:05:46 1772719546"><a href="item?id=47261688">1 day ago</a></span> <span id="unv_47261688"></span> | <a href="item?id=47261688">737&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c">Judge orders government to begin refunding more than $130B in tariffs</a><span class="sitebit comhead"> (<a href="from?site=wsj.com"><span class="sitestr">wsj.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wikipedia was in read-only mode following mass admin account compromise (wikimediastatus.net)]]></title>
@@ -143,7 +143,7 @@
         <id>link-4c5aa84b4666b63624accdf58a8729bd</id>
         <link href="https://news.ycombinator.com/item?id=47265045"/>
         <updated>2026-03-06T05:10:13.135Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47265045">964 points</span> by <a href="user?id=mudkipdev" class="hnuser">mudkipdev</a> <span class="age" title="2026-03-05T18:08:10 1772734090"><a href="item?id=47265045">1 day ago</a></span> <span id="unv_47265045"></span> | <a href="item?id=47265045">755&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-4/">GPT-5.4</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47265045">964 points</span> by <a href="user?id=mudkipdev" class="hnuser">mudkipdev</a> <span class="age" title="2026-03-05T18:08:10 1772734090"><a href="item?id=47265045">1 day ago</a></span> <span id="unv_47265045"></span> | <a href="item?id=47265045">756&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/introducing-gpt-5-4/">GPT-5.4</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Workspace CLI (github.com/googleworkspace)]]></title>
@@ -213,6 +213,6 @@
         <id>link-8fe03d68e39875546e3645457fba9a65</id>
         <link href="https://news.ycombinator.com/item?id=47270784"/>
         <updated>2026-03-06T18:50:35.561Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47270784">741 points</span> by <a href="user?id=LorenDB" class="hnuser">LorenDB</a> <span class="age" title="2026-03-06T04:12:26 1772770346"><a href="item?id=47270784">15 hours ago</a></span> <span id="unv_47270784"></span> | <a href="item?id=47270784">539&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.system76.com/post/system76-on-age-verification/">System76 on Age Verification Laws</a><span class="sitebit comhead"> (<a href="from?site=system76.com"><span class="sitestr">system76.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47270784">742 points</span> by <a href="user?id=LorenDB" class="hnuser">LorenDB</a> <span class="age" title="2026-03-06T04:12:26 1772770346"><a href="item?id=47270784">15 hours ago</a></span> <span id="unv_47270784"></span> | <a href="item?id=47270784">539&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.system76.com/post/system76-on-age-verification/">System76 on Age Verification Laws</a><span class="sitebit comhead"> (<a href="from?site=system76.com"><span class="sitestr">system76.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-03-06T19:15:33.769Z</updated>
+    <updated>2026-03-06T19:22:43.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ckma.cz/cdn-ujdvt/images/favicon.png</icon>
     <entry>
@@ -91,7 +91,7 @@ S takto širokou politickou podporou se Česká republika právem stává evrops
         <link href="https://www.ckma.cz/cs/blog/pripomen-se-svemu-poslanci"/>
         <updated>2026-01-12T17:03:08.221Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/pripomen-se-svemu-poslanci" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Připomeň se svému poslanci" data-srcset="/res/crc-4212209115/pages/images/596x398crop/hw-img-3228.jpg 2x, /res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" data-src="/res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img alt="Připomeň se svému poslanci" src="/res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" width="298" height="199" srcset="/res/crc-4212209115/pages/images/596x398crop/hw-img-3228.jpg 2x, /res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">12.11.2024</div>
@@ -118,7 +118,7 @@ V mezičase se ve&nbsp;veřejném prostoru ovšem objevilo několik více či m�
         <link href="https://www.ckma.cz/cs/stanovisko-ckma-k-dopisu-ncoz"/>
         <updated>2026-01-12T17:03:08.221Z</updated>
         <content type="html"><![CDATA[<a href="/cs/stanovisko-ckma-k-dopisu-ncoz" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Stanovisko ČKMA k dopisu NCOZ" data-srcset="/res/crc-2919507168/pages/images/596x398crop/141764-s3-ncoz-header.webp 2x, /res/crc-3118610648/pages/images/298x199crop/141764-s3-ncoz-header.webp" data-src="/res/crc-3118610648/pages/images/298x199crop/141764-s3-ncoz-header.webp" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img alt="Stanovisko ČKMA k dopisu NCOZ" src="/res/crc-3118610648/pages/images/298x199crop/141764-s3-ncoz-header.webp" width="298" height="199" srcset="/res/crc-2919507168/pages/images/596x398crop/141764-s3-ncoz-header.webp 2x, /res/crc-3118610648/pages/images/298x199crop/141764-s3-ncoz-header.webp" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">23.10.2024</div>
@@ -138,7 +138,7 @@ V mezičase se ve&nbsp;veřejném prostoru ovšem objevilo několik více či m�
         <link href="https://www.ckma.cz/cs/blog/casovy-a-hodnotovy-test-fakta-omyly-myty"/>
         <updated>2026-01-12T17:03:08.221Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/casovy-a-hodnotovy-test-fakta-omyly-myty" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Časový a hodnotový test: fakta vs omyly a mýty" data-srcset="/res/crc-1386619344/pages/images/596x398crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp 2x, /res/crc-3067301955/pages/images/298x199crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp" data-src="/res/crc-3067301955/pages/images/298x199crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img alt="Časový a hodnotový test: fakta vs omyly a mýty" src="/res/crc-3067301955/pages/images/298x199crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp" width="298" height="199" srcset="/res/crc-1386619344/pages/images/596x398crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp 2x, /res/crc-3067301955/pages/images/298x199crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">22.10.2024</div>
