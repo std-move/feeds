@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-06T08:41:03.531Z</updated>
+    <updated>2026-03-06T10:37:53.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -87,7 +87,7 @@
         <id>link-0d81b74861fe54aa696fe78f55653a65</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Aircash A-Bon Europe — €5 - €25]]></content>
+        <content type="html"><![CDATA[Aircash A-Bon Europe — €10 - €25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ExitLag International]]></title>
@@ -122,7 +122,7 @@
         <id>link-0136c97f969773bc358a5afe41efa368</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-international/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Kinguin Games Store EUR International — €25 - €500]]></content>
+        <content type="html"><![CDATA[Kinguin Games Store EUR International — €5 - €500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Yo International]]></title>
