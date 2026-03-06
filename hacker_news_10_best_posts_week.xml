@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-06T19:22:43.242Z</updated>
+    <updated>2026-03-06T20:34:20.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-23546de377c72668fcd04a3e224ef6ad</id>
         <link href="https://news.ycombinator.com/item?id=47188473"/>
         <updated>2026-02-28T03:56:05.484Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47188473">2642 points</span> by <a href="user?id=BloondAndDoom" class="hnuser">BloondAndDoom</a> <span class="age" title="2026-02-28T00:54:53 1772240093"><a href="item?id=47188473">6 days ago</a></span> <span id="unv_47188473"></span> | <a href="item?id=47188473">834&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notdivided.org">We Will Not Be Divided</a><span class="sitebit comhead"> (<a href="from?site=notdivided.org"><span class="sitestr">notdivided.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47188473">2643 points</span> by <a href="user?id=BloondAndDoom" class="hnuser">BloondAndDoom</a> <span class="age" title="2026-02-28T00:54:53 1772240093"><a href="item?id=47188473">6 days ago</a></span> <span id="unv_47188473"></span> | <a href="item?id=47188473">834&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notdivided.org">We Will Not Be Divided</a><span class="sitebit comhead"> (<a href="from?site=notdivided.org"><span class="sitestr">notdivided.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motorola announces a partnership with GrapheneOS (motorolanews.com)]]></title>
@@ -24,7 +24,7 @@
         <id>link-1187b050b577e11b8b558d94dfed0251</id>
         <link href="https://news.ycombinator.com/item?id=47247645"/>
         <updated>2026-03-04T22:32:21.403Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47247645">1948 points</span> by <a href="user?id=dm" class="hnuser">dm</a> <span class="age" title="2026-03-04T14:16:41 1772633801"><a href="item?id=47247645">2 days ago</a></span> <span id="unv_47247645"></span> | <a href="item?id=47247645">2285&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/">MacBook Neo</a><span class="sitebit comhead"> (<a href="from?site=apple.com"><span class="sitestr">apple.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47247645">1948 points</span> by <a href="user?id=dm" class="hnuser">dm</a> <span class="age" title="2026-03-04T14:16:41 1772633801"><a href="item?id=47247645">2 days ago</a></span> <span id="unv_47247645"></span> | <a href="item?id=47247645">2287&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/">MacBook Neo</a><span class="sitebit comhead"> (<a href="from?site=apple.com"><span class="sitestr">apple.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microgpt (karpathy.github.io)]]></title>
