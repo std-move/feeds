@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-06T05:12:15.860Z</updated>
+    <updated>2026-03-06T06:53:15.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-d81c436189332d9d9afc2c24cb66a9e0</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/my-instant-ai-international/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[My Instant AI International — $10 - $50]]></content>
+        <content type="html"><![CDATA[My Instant AI International — $50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OneKey USD]]></title>
