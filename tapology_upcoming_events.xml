@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-03-07T20:28:26.848Z</updated>
+    <updated>2026-03-07T22:26:09.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
-    <entry>
-        <title type="html"><![CDATA[UFC 326 — 2026-03-07 17:00:00 -0500]]></title>
-        <id>link-f2dc5c774781ee3ccb963a8b466bf1ec</id>
-        <link href="https://www.tapology.com/fightcenter/events/136871-ufc-326-holloway-vs-oliveira-2"/>
-        <updated>2026-02-21T18:36:28.424Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136871-ufc-326-holloway-vs-oliveira-2">UFC 326</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-03-07 17:00:00 -0500">in 1 hour</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Zuffa Boxing 4 — 2026-03-08 17:00:00 -0400]]></title>
         <id>link-cbe4b54733e27dd35798a9b9f1f03b8a</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/138955-zuffa-boxing-opetaia-vs-mikaelian">Zuffa Boxing 4</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-03-08 17:00:00 -0400">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-03-08 17:00:00 -0400">in 22 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -98,7 +86,19 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136874-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-03-14 17:00:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-03-14 17:00:00 -0400">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cage Warriors 203 — 2026-03-20 11:00:00 -0400]]></title>
+        <id>link-14a5b8f6be7905d32ad0541945440fb1</id>
+        <link href="https://www.tapology.com/fightcenter/events/136753-cage-warriors-203"/>
+        <updated>2026-03-07T22:24:24.145Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136753-cage-warriors-203">Cage Warriors 203</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-03-20 11:00:00 -0400">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>

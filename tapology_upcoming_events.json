@@ -4,17 +4,10 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png",
 	"elements": [
 		{
-			"id": "link-f2dc5c774781ee3ccb963a8b466bf1ec",
-			"title": "UFC 326 — 2026-03-07 17:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/136871-ufc-326-holloway-vs-oliveira-2",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136871-ufc-326-holloway-vs-oliveira-2\">UFC 326</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-07 17:00:00 -0500\">in 1 hour</abbr>\n</td>",
-			"retrieved": 1771698988424
-		},
-		{
 			"id": "link-cbe4b54733e27dd35798a9b9f1f03b8a",
 			"title": "Zuffa Boxing 4 — 2026-03-08 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/138955-zuffa-boxing-opetaia-vs-mikaelian",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138955-zuffa-boxing-opetaia-vs-mikaelian\">Zuffa Boxing 4</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-08 17:00:00 -0400\">in 1 day</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138955-zuffa-boxing-opetaia-vs-mikaelian\">Zuffa Boxing 4</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-08 17:00:00 -0400\">in 22 hours</abbr>\n</td>",
 			"retrieved": 1771711939820
 		},
 		{
@@ -56,8 +49,15 @@
 			"id": "link-7dfda7a9612213b77b9ab1f597c2a9ec",
 			"title": "UFC Fight Night — 2026-03-14 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/136874-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136874-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-14 17:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136874-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-14 17:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1772908501602
+		},
+		{
+			"id": "link-14a5b8f6be7905d32ad0541945440fb1",
+			"title": "Cage Warriors 203 — 2026-03-20 11:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/136753-cage-warriors-203",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136753-cage-warriors-203\">Cage Warriors 203</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-20 11:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1772922264145
 		}
 	]
 }
