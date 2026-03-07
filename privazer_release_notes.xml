@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-03-07T04:07:58.782Z</updated>
+    <updated>2026-03-07T06:43:27.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[v4.0.118]]></title>
-        <id>title-de98c0870d47e05826d0f618e4251a8f</id>
+        <title type="html"><![CDATA[v4.0.119]]></title>
+        <id>title-42d7bf7981f73360de638953c085d667</id>
         <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-03-03T18:49:04.623Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.118</strong> (03 March 2026)<br>
+        <updated>2026-03-07T06:41:39.455Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.119</strong> (07 March 2026)<br>
              + Improved speed<br> 
              + Improved portable version <br>  
              + Improved cleanup : Firefox
@@ -20,6 +20,14 @@
              + New command lines :  /CREATE_RESTORE_POINT<br>
              + New command lines :  /CLOSE_WEB_BROSER<br> 
              <u>More info</u>  : <a href="https://privazer.com/download.php#commandlines">https://privazer.com/download.php#commandlines</a>               <br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.118]]></title>
+        <id>title-de98c0870d47e05826d0f618e4251a8f</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-03-03T18:49:04.623Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.118</strong> (03 March 2026)<br>
+            + Replaced by v4.0.119, Minor bug fixes : PrivaZer hangs <br>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.117]]></title>
@@ -111,7 +119,7 @@
         <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
         <updated>2026-02-02T09:36:23.636Z</updated>
         <content type="html"><![CDATA[<strong>v4.0.111</strong> (26 September 2025)<br>
-            + replaced by v4.0.112
+            + replaced by v4.0.112<br>
             + Minor bug fixes : "Close, restart,... when completed"<br>]]></content>
     </entry>
     <entry>
@@ -230,17 +238,5 @@
                 + Fixed issues :  Cookies <br>    
                 + Minor bug fixes<br>             
                 <u>More info</u>  : <a href="https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-125#post-3223740">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.99]]></title>
-        <id>title-a7e963249008bfa4d16d0b2ff2dbaf0a</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-02-02T09:36:23.636Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.99</strong> (10 February 2025)<br>
-                + Fixed issues : Download of updates<br>
-                + Fixed issues :  Cookies <br>  
-                + Fixed issues : XP compatibility <br>    
-                + Minor bug fixes<br>             
-                <u>More info</u>  : <a href="https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-124#post-3223242">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>]]></content>
     </entry>
 </feed>
