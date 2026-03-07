@@ -4,74 +4,74 @@
 	"favicon": "https://news.ycombinator.com/y18.svg",
 	"elements": [
 		{
-			"id": "link-23546de377c72668fcd04a3e224ef6ad",
-			"title": "We Will Not Be Divided (notdivided.org)",
-			"link": "https://news.ycombinator.com/item?id=47188473",
-			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47188473\">2643 points</span> by <a href=\"user?id=BloondAndDoom\" class=\"hnuser\">BloondAndDoom</a> <span class=\"age\" title=\"2026-02-28T00:54:53 1772240093\"><a href=\"item?id=47188473\">6 days ago</a></span> <span id=\"unv_47188473\"></span> | <a href=\"item?id=47188473\">834&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://notdivided.org\">We Will Not Be Divided</a><span class=\"sitebit comhead\"> (<a href=\"from?site=notdivided.org\"><span class=\"sitestr\">notdivided.org</span></a>)</span></span>",
-			"retrieved": 1772250965484
-		},
-		{
-			"id": "link-5f24a20728698d17e48c49233661a7af",
-			"title": "Motorola announces a partnership with GrapheneOS (motorolanews.com)",
-			"link": "https://news.ycombinator.com/item?id=47214645",
-			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47214645\">2346 points</span> by <a href=\"user?id=km\" class=\"hnuser\">km</a> <span class=\"age\" title=\"2026-03-02T06:48:07 1772434087\"><a href=\"item?id=47214645\">4 days ago</a></span> <span id=\"unv_47214645\"></span> | <a href=\"item?id=47214645\">878&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/\">Motorola announces a partnership with GrapheneOS</a><span class=\"sitebit comhead\"> (<a href=\"from?site=motorolanews.com\"><span class=\"sitestr\">motorolanews.com</span></a>)</span></span>",
-			"retrieved": 1772462536510
-		},
-		{
 			"id": "link-1187b050b577e11b8b558d94dfed0251",
 			"title": "MacBook Neo (apple.com)",
 			"link": "https://news.ycombinator.com/item?id=47247645",
-			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47247645\">1948 points</span> by <a href=\"user?id=dm\" class=\"hnuser\">dm</a> <span class=\"age\" title=\"2026-03-04T14:16:41 1772633801\"><a href=\"item?id=47247645\">2 days ago</a></span> <span id=\"unv_47247645\"></span> | <a href=\"item?id=47247645\">2289&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/\">MacBook Neo</a><span class=\"sitebit comhead\"> (<a href=\"from?site=apple.com\"><span class=\"sitestr\">apple.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47247645\">1951 points</span> by <a href=\"user?id=dm\" class=\"hnuser\">dm</a> <span class=\"age\" title=\"2026-03-04T14:16:41 1772633801\"><a href=\"item?id=47247645\">2 days ago</a></span> <span id=\"unv_47247645\"></span> | <a href=\"item?id=47247645\">2294&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/\">MacBook Neo</a><span class=\"sitebit comhead\"> (<a href=\"from?site=apple.com\"><span class=\"sitestr\">apple.com</span></a>)</span></span>",
 			"retrieved": 1772663541403
-		},
-		{
-			"id": "link-baf67332cb5010a59d74ea505fb05f89",
-			"title": "Microgpt (karpathy.github.io)",
-			"link": "https://news.ycombinator.com/item?id=47202708",
-			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47202708\">1931 points</span> by <a href=\"user?id=tambourine_man\" class=\"hnuser\">tambourine_man</a> <span class=\"age\" title=\"2026-03-01T01:39:26 1772329166\"><a href=\"item?id=47202708\">5 days ago</a></span> <span id=\"unv_47202708\"></span> | <a href=\"item?id=47202708\">326&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"http://karpathy.github.io/2026/02/12/microgpt/\">Microgpt</a><span class=\"sitebit comhead\"> (<a href=\"from?site=karpathy.github.io\"><span class=\"sitestr\">karpathy.github.io</span></a>)</span></span>",
-			"retrieved": 1772369428141
-		},
-		{
-			"id": "link-8c5f77b1737e49cede5e2a151fb3a7bf",
-			"title": "OpenAI – How to delete your account (help.openai.com)",
-			"link": "https://news.ycombinator.com/item?id=47193478",
-			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47193478\">1929 points</span> by <a href=\"user?id=carlosrg\" class=\"hnuser\">carlosrg</a> <span class=\"age\" title=\"2026-02-28T10:41:55 1772275315\"><a href=\"item?id=47193478\">6 days ago</a></span> <span id=\"unv_47193478\"></span> | <a href=\"item?id=47193478\">363&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://help.openai.com/en/articles/6378407-how-to-delete-your-account\">OpenAI – How to delete your account</a><span class=\"sitebit comhead\"> (<a href=\"from?site=help.openai.com\"><span class=\"sitestr\">help.openai.com</span></a>)</span></span>",
-			"retrieved": 1772288602606
-		},
-		{
-			"id": "link-005cdff7fe19947747e0bd59065f069b",
-			"title": "Meta’s AI smart glasses and data privacy concerns (svd.se)",
-			"link": "https://news.ycombinator.com/item?id=47225130",
-			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47225130\">1428 points</span> by <a href=\"user?id=sandbach\" class=\"hnuser\">sandbach</a> <span class=\"age\" title=\"2026-03-02T22:32:35 1772490755\"><a href=\"item?id=47225130\">3 days ago</a></span> <span id=\"unv_47225130\"></span> | <a href=\"item?id=47225130\">805&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything\">Meta’s AI smart glasses and data privacy concerns</a><span class=\"sitebit comhead\"> (<a href=\"from?site=svd.se\"><span class=\"sitestr\">svd.se</span></a>)</span></span>",
-			"retrieved": 1772542736605
-		},
-		{
-			"id": "link-1265ee0b2161416a549e10bf97125054",
-			"title": "OpenAI agrees with Dept. of War to deploy models in their classified network (twitter.com/sama)",
-			"link": "https://news.ycombinator.com/item?id=47189650",
-			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47189650\">1406 points</span> by <a href=\"user?id=eoskx\" class=\"hnuser\">eoskx</a> <span class=\"age\" title=\"2026-02-28T02:59:02 1772247542\"><a href=\"item?id=47189650\">6 days ago</a></span> <span id=\"unv_47189650\"></span> | <a href=\"item?id=47189650\">648&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://twitter.com/sama/status/2027578652477821175\">OpenAI agrees with Dept. of War to deploy models in their classified network</a><span class=\"sitebit comhead\"> (<a href=\"from?site=twitter.com/sama\"><span class=\"sitestr\">twitter.com/sama</span></a>)</span></span>",
-			"retrieved": 1772282831328
-		},
-		{
-			"id": "link-69c4cbc1cab1ca3f285f28a55b35b57b",
-			"title": "I am directing the Department of War to designate Anthropic a supply-chain risk (twitter.com/secwar)",
-			"link": "https://news.ycombinator.com/item?id=47186677",
-			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47186677\">1362 points</span> by <a href=\"user?id=jacobedawson\" class=\"hnuser\">jacobedawson</a> <span class=\"age\" title=\"2026-02-27T22:31:18 1772231478\"><a href=\"item?id=47186677\">6 days ago</a></span> <span id=\"unv_47186677\"></span> | <a href=\"item?id=47186677\">1084&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://twitter.com/secwar/status/2027507717469049070\">I am directing the Department of War to designate Anthropic a supply-chain risk</a><span class=\"sitebit comhead\"> (<a href=\"from?site=twitter.com/secwar\"><span class=\"sitestr\">twitter.com/secwar</span></a>)</span></span>",
-			"retrieved": 1772243704001
 		},
 		{
 			"id": "link-b2447f8af0df87e60ecb9c70a98c357d",
 			"title": "The Xkcd thing, now interactive (p5js.org)",
 			"link": "https://news.ycombinator.com/item?id=47230704",
-			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47230704\">1311 points</span> by <a href=\"user?id=memalign\" class=\"hnuser\">memalign</a> <span class=\"age\" title=\"2026-03-03T10:56:52 1772535412\"><a href=\"item?id=47230704\">3 days ago</a></span> <span id=\"unv_47230704\"></span> | <a href=\"item?id=47230704\">158&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://editor.p5js.org/isohedral/full/vJa5RiZWs\">The Xkcd thing, now interactive</a><span class=\"sitebit comhead\"> (<a href=\"from?site=p5js.org\"><span class=\"sitestr\">p5js.org</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47230704\">1311 points</span> by <a href=\"user?id=memalign\" class=\"hnuser\">memalign</a> <span class=\"age\" title=\"2026-03-03T10:56:52 1772535412\"><a href=\"item?id=47230704\">3 days ago</a></span> <span id=\"unv_47230704\"></span> | <a href=\"item?id=47230704\">158&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://editor.p5js.org/isohedral/full/vJa5RiZWs\">The Xkcd thing, now interactive</a><span class=\"sitebit comhead\"> (<a href=\"from?site=p5js.org\"><span class=\"sitestr\">p5js.org</span></a>)</span></span>",
 			"retrieved": 1772600939148
 		},
 		{
 			"id": "link-fd5601298bc97df16fc1459248553eea",
 			"title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable (grapheneos.social)",
 			"link": "https://news.ycombinator.com/item?id=47241551",
-			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47241551\">1284 points</span> by <a href=\"user?id=pabs3\" class=\"hnuser\">pabs3</a> <span class=\"age\" title=\"2026-03-04T00:58:31 1772585911\"><a href=\"item?id=47241551\">2 days ago</a></span> <span id=\"unv_47241551\"></span> | <a href=\"item?id=47241551\">555&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://grapheneos.social/@GrapheneOS/116160393783585567\">Motorola GrapheneOS devices will be bootloader unlockable/relockable</a><span class=\"sitebit comhead\"> (<a href=\"from?site=grapheneos.social\"><span class=\"sitestr\">grapheneos.social</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47241551\">1286 points</span> by <a href=\"user?id=pabs3\" class=\"hnuser\">pabs3</a> <span class=\"age\" title=\"2026-03-04T00:58:31 1772585911\"><a href=\"item?id=47241551\">3 days ago</a></span> <span id=\"unv_47241551\"></span> | <a href=\"item?id=47241551\">556&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://grapheneos.social/@GrapheneOS/116160393783585567\">Motorola GrapheneOS devices will be bootloader unlockable/relockable</a><span class=\"sitebit comhead\"> (<a href=\"from?site=grapheneos.social\"><span class=\"sitestr\">grapheneos.social</span></a>)</span></span>",
 			"retrieved": 1772676423112
+		},
+		{
+			"id": "link-972ad1f9708878a74c0a315b0f01b564",
+			"title": "Judge orders government to begin refunding more than $130B in tariffs (wsj.com)",
+			"link": "https://news.ycombinator.com/item?id=47261688",
+			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47261688\">1050 points</span> by <a href=\"user?id=JumpCrisscross\" class=\"hnuser\">JumpCrisscross</a> <span class=\"age\" title=\"2026-03-05T14:05:46 1772719546\"><a href=\"item?id=47261688\">1 day ago</a></span> <span id=\"unv_47261688\"></span> | <a href=\"item?id=47261688\">755&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c\">Judge orders government to begin refunding more than $130B in tariffs</a><span class=\"sitebit comhead\"> (<a href=\"from?site=wsj.com\"><span class=\"sitestr\">wsj.com</span></a>)</span></span>",
+			"retrieved": 1772848736179
+		},
+		{
+			"id": "link-d54786c749baa7c9ae6853947afb13d8",
+			"title": "Wikipedia was in read-only mode following mass admin account compromise (wikimediastatus.net)",
+			"link": "https://news.ycombinator.com/item?id=47263323",
+			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47263323\">1032 points</span> by <a href=\"user?id=greyface-\" class=\"hnuser\">greyface-</a> <span class=\"age\" title=\"2026-03-05T16:04:54 1772726694\"><a href=\"item?id=47263323\">1 day ago</a></span> <span id=\"unv_47263323\"></span> | <a href=\"item?id=47263323\">374&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.wikimediastatus.net\">Wikipedia was in read-only mode following mass admin account compromise</a><span class=\"sitebit comhead\"> (<a href=\"from?site=wikimediastatus.net\"><span class=\"sitestr\">wikimediastatus.net</span></a>)</span></span>",
+			"retrieved": 1772848736179
+		},
+		{
+			"id": "link-4c5aa84b4666b63624accdf58a8729bd",
+			"title": "GPT-5.4 (openai.com)",
+			"link": "https://news.ycombinator.com/item?id=47265045",
+			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47265045\">983 points</span> by <a href=\"user?id=mudkipdev\" class=\"hnuser\">mudkipdev</a> <span class=\"age\" title=\"2026-03-05T18:08:10 1772734090\"><a href=\"item?id=47265045\">1 day ago</a></span> <span id=\"unv_47265045\"></span> | <a href=\"item?id=47265045\">779&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://openai.com/index/introducing-gpt-5-4/\">GPT-5.4</a><span class=\"sitebit comhead\"> (<a href=\"from?site=openai.com\"><span class=\"sitestr\">openai.com</span></a>)</span></span>",
+			"retrieved": 1772848736179
+		},
+		{
+			"id": "link-d2d6beb8ad89bfdd9b38bca5a9bc6382",
+			"title": "I'm reluctant to verify my identity or age for any online services (neilzone.co.uk)",
+			"link": "https://news.ycombinator.com/item?id=47232768",
+			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47232768\">971 points</span> by <a href=\"user?id=speckx\" class=\"hnuser\">speckx</a> <span class=\"age\" title=\"2026-03-03T14:22:25 1772547745\"><a href=\"item?id=47232768\">3 days ago</a></span> <span id=\"unv_47232768\"></span> | <a href=\"item?id=47232768\">620&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/\">I'm reluctant to verify my identity or age for any online services</a><span class=\"sitebit comhead\"> (<a href=\"from?site=neilzone.co.uk\"><span class=\"sitestr\">neilzone.co.uk</span></a>)</span></span>",
+			"retrieved": 1772848736179
+		},
+		{
+			"id": "link-057d178319f73d22e0f9cad6891f3944",
+			"title": "Global warming has accelerated significantly (researchsquare.com)",
+			"link": "https://news.ycombinator.com/item?id=47275088",
+			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47275088\">970 points</span> by <a href=\"user?id=morsch\" class=\"hnuser\">morsch</a> <span class=\"age\" title=\"2026-03-06T14:10:03 1772806203\"><a href=\"item?id=47275088\">11 hours ago</a></span> <span id=\"unv_47275088\"></span> | <a href=\"item?id=47275088\">961&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.researchsquare.com/article/rs-6079807/v1\">Global warming has accelerated significantly</a><span class=\"sitebit comhead\"> (<a href=\"from?site=researchsquare.com\"><span class=\"sitestr\">researchsquare.com</span></a>)</span></span>",
+			"retrieved": 1772848736179
+		},
+		{
+			"id": "link-dca053f7fa362ddc46a7d95dd4144eb6",
+			"title": "Google Workspace CLI (github.com/googleworkspace)",
+			"link": "https://news.ycombinator.com/item?id=47255881",
+			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47255881\">932 points</span> by <a href=\"user?id=gonzalovargas\" class=\"hnuser\">gonzalovargas</a> <span class=\"age\" title=\"2026-03-05T00:22:09 1772670129\"><a href=\"item?id=47255881\">2 days ago</a></span> <span id=\"unv_47255881\"></span> | <a href=\"item?id=47255881\">288&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/googleworkspace/cli\">Google Workspace CLI</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/googleworkspace\"><span class=\"sitestr\">github.com/googleworkspace</span></a>)</span></span>",
+			"retrieved": 1772848736179
+		},
+		{
+			"id": "link-6f1785d31c7cb8a0940b74e504c07279",
+			"title": "[dupe] Nobody gets promoted for simplicity (terriblesoftware.org)",
+			"link": "https://news.ycombinator.com/item?id=47246110",
+			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47246110\">880 points</span> by <a href=\"user?id=aamederen\" class=\"hnuser\">aamederen</a> <span class=\"age\" title=\"2026-03-04T11:43:32 1772624612\"><a href=\"item?id=47246110\">2 days ago</a></span> <span id=\"unv_47246110\"></span> | <a href=\"item?id=47246110\">510&nbsp;comments</a></span></td> — <span class=\"titleline\"> [dupe] <a href=\"https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/\">Nobody gets promoted for simplicity</a><span class=\"sitebit comhead\"> (<a href=\"from?site=terriblesoftware.org\"><span class=\"sitestr\">terriblesoftware.org</span></a>)</span></span>",
+			"retrieved": 1772848736179
 		}
 	]
 }

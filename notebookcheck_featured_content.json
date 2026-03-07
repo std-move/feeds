@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-76a61ed9ee8019165fd71ca78891b962",
+			"title": "Insane performance - Apple MacBook Air 13 M5 Entry review",
+			"link": "https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_13_M4_Entry/mba_13_m4_case_07-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_13_M4_Entry/mba_13_m4_case_07-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_13_M4_Entry/mba_13_m4_case_07-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_13_M4_Entry/mba_13_m4_case_07-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_13_M4_Entry/mba_13_m4_case_07-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_13_M4_Entry/mba_13_m4_case_07-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/7/csm_mba_13_m4_case_07_b64e9017f6.jpg\" loading=\"lazy\" alt=\"Insane performance and efficiency without fans - Apple MacBook Air 13 M5 Entry Review\"></picture><div class=\"intro_featured_bar_title\">Insane performance - Apple MacBook Air 13 M5 Entry review</div>",
+			"retrieved": 1772848736179
+		},
+		{
 			"id": "link-e54e1511efe79194288bf0d3ee7801a7",
 			"title": "Samsung Galaxy Book6 Ultra Review - A better MacBook Pro?",
 			"link": "https://www.notebookcheck.net/Samsung-Galaxy-Book6-Ultra-Review-Impressive-multimedia-laptop-with-gorgeous-OLED-RTX-5070.1242686.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Unbloated-Network-Activating-Vodafone-bridge-mode-Using-your-router-as-a-pure-modem-part-4.1242261.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Titel-Teil-4-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Titel-Teil-4-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Titel-Teil-4-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Titel-Teil-4-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Titel-Teil-4-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Titel-Teil-4-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/6/csm_Titel-Teil-4_2a6e0989ec.jpg\" loading=\"lazy\" alt=\"Zimaboard router and Zyxel AP on the desk\"></picture><div class=\"intro_featured_bar_title\">Unbloated Network - Activating Vodafone bridge mode (part4)</div>",
 			"retrieved": 1772629073066
-		},
-		{
-			"id": "link-de9ab4331affc1386dbae2782c565467",
-			"title": "Motorola Moto G77: Radiant mid-range",
-			"link": "https://www.notebookcheck.net/Motorola-Moto-G77-Smartphone-Review-The-brightest-mid-range-AMOLED-phone-is-elegant-and-slim.1239294.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G77/Motorola_Moto_G77_im_Test_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G77/Motorola_Moto_G77_im_Test_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G77/Motorola_Moto_G77_im_Test_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G77/Motorola_Moto_G77_im_Test_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G77/Motorola_Moto_G77_im_Test_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G77/Motorola_Moto_G77_im_Test_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/9/csm_Motorola_Moto_G77_im_Test_1_15c5bcdfeb.jpg\" loading=\"lazy\" alt=\"Motorola Moto G77 in review\"></picture><div class=\"intro_featured_bar_title\">Motorola Moto G77: Radiant mid-range</div>",
-			"retrieved": 1772613606070
 		}
 	]
 }
