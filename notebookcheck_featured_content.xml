@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-03-08T10:28:01.921Z</updated>
+    <updated>2026-03-08T12:52:23.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Baseus X1 Pro wireless security camera review]]></title>
+        <id>link-6e1151327c20273d66588c5f85d65fae</id>
+        <link href="https://www.notebookcheck.net/Baseus-Security-X1-Pro-camera-review-AI-dual-tracking-security-camera-with-zero-subscription-fees.1242606.0.html"/>
+        <updated>2026-03-08T12:50:38.015Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Baseus-X1-Pro-security-camera-intro-98-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Baseus-X1-Pro-security-camera-intro-98-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Baseus-X1-Pro-security-camera-intro-98-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Baseus-X1-Pro-security-camera-intro-98-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Baseus-X1-Pro-security-camera-intro-98-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Baseus-X1-Pro-security-camera-intro-98-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/a/csm_Baseus-X1-Pro-security-camera-intro-98_be7d1109e5.jpg" loading="lazy" alt="Baseus Security X1 Pro camera review: AI dual-tracking security camera with zero subscription fees"></picture><div class="intro_featured_bar_title">Baseus X1 Pro wireless security camera review</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insane performance - Apple MacBook Air 13 M5 Entry review (update)]]></title>
         <id>link-76a61ed9ee8019165fd71ca78891b962</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Samsung-Galaxy-Book6-Ultra-Review-Impressive-multimedia-laptop-with-gorgeous-OLED-RTX-5070.1242686.0.html"/>
         <updated>2026-03-06T02:06:22.465Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Ultra/galaxy_book_6_ultra_case_03-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Ultra/galaxy_book_6_ultra_case_03-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Ultra/galaxy_book_6_ultra_case_03-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Ultra/galaxy_book_6_ultra_case_03-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Ultra/galaxy_book_6_ultra_case_03-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Ultra/galaxy_book_6_ultra_case_03-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/d/csm_galaxy_book_6_ultra_case_03_a9e0758c67.jpg" loading="lazy" alt="Samsung Galaxy Book6 Ultra Review - Impressive multimedia laptop with gorgeous OLED &amp; RTX 5070"></picture><div class="intro_featured_bar_title">Samsung Galaxy Book6 Ultra Review - A better MacBook Pro?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ We are moving! - Studio update 2026]]></title>
-        <id>link-b6ec532f211b38ad71c94ecb378e61e5</id>
-        <link href="https://www.notebookcheck.net/We-are-moving-Studio-update-2026.1243317.0.html"/>
-        <updated>2026-03-05T14:44:50.461Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3812-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/b/csm_thumb3812_037b0d4c4c.jpg" loading="lazy" alt="We are moving! - Studio update 2026"></picture><div class="intro_featured_bar_title">▶ We are moving! - Studio update 2026</div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-03-08T10:28:01.912Z</updated>
+    <updated>2026-03-08T12:52:23.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/138955-zuffa-boxing-opetaia-vs-mikaelian">Zuffa Boxing 4</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-03-08 17:00:00 -0400">in 10 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-03-08 17:00:00 -0400">in 8 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
