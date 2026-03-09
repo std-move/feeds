@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-03-09T10:47:21.528Z</updated>
+    <updated>2026-03-09T13:06:51.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.119.1]]></title>
+        <id>title-1375b230de2c5041a94bd090f1cbcdb6</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-03-09T13:04:49.599Z</updated>
+        <content type="html"><![CDATA[<br>
+            <strong>v4.0.119.1</strong> (09 March 2026)<br>
+             Minor bug fixes]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.119]]></title>
         <id>title-42d7bf7981f73360de638953c085d667</id>
@@ -222,21 +231,5 @@
         <updated>2026-02-02T09:36:23.636Z</updated>
         <content type="html"><![CDATA[<strong>v4.0.101</strong> (03 March 2025)<br>
              + Minor bug fixes : old CPUs compatibility<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.100]]></title>
-        <id>title-ae6c3ce1045bd90837959d3d2ae1f3d3</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-02-02T09:36:23.636Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.100</strong> (28 February 2025)<br>
-                + Improved speed<br>
-                + Improved cleanup : Recycle bin<br>
-                + Improved cleanup : Local storage (Chrome)<br>
-                + Improved cleanup : DuckDuckGo Browser<br>
-                + Improved scan SSD<br>
-                + Improved scan USN Journal<br>
-                + Fixed issues :  Cookies <br>    
-                + Minor bug fixes<br>             
-                <u>More info</u>  : <a href="https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-125#post-3223740">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>]]></content>
     </entry>
 </feed>

@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-1375b230de2c5041a94bd090f1cbcdb6",
+			"title": "v4.0.119.1",
+			"contents": "<br>\n            <strong>v4.0.119.1</strong> (09 March 2026)<br>\n             Minor bug fixes",
+			"retrieved": 1773061489599
+		},
+		{
 			"id": "title-42d7bf7981f73360de638953c085d667",
 			"title": "v4.0.119",
 			"contents": "<strong>v4.0.119</strong> (07 March 2026)<br>\n             + Improved speed<br> \n             + Improved portable version <br>  \n             + Improved cleanup : Firefox\n             + New cleanup : r3dfox\n             + Improved UI<br> \n             + New command lines :  /INTERNET_TRACES<br>\n             + New command lines :  /CREATE_RESTORE_POINT<br>\n             + New command lines :  /CLOSE_WEB_BROSER<br> \n             <u>More info</u>  : <a href=\"https://privazer.com/download.php#commandlines\">https://privazer.com/download.php#commandlines</a>               <br>",
@@ -115,12 +121,6 @@
 			"id": "title-30516116c7ba38b6c4d515156c88adc7",
 			"title": "v4.0.101",
 			"contents": "<strong>v4.0.101</strong> (03 March 2025)<br>\n             + Minor bug fixes : old CPUs compatibility<br>",
-			"retrieved": 1770024983636
-		},
-		{
-			"id": "title-ae6c3ce1045bd90837959d3d2ae1f3d3",
-			"title": "v4.0.100",
-			"contents": "<strong>v4.0.100</strong> (28 February 2025)<br>\n                + Improved speed<br>\n                + Improved cleanup : Recycle bin<br>\n                + Improved cleanup : Local storage (Chrome)<br>\n                + Improved cleanup : DuckDuckGo Browser<br>\n                + Improved scan SSD<br>\n                + Improved scan USN Journal<br>\n                + Fixed issues :  Cookies <br>    \n                + Minor bug fixes<br>             \n                <u>More info</u>  : <a href=\"https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-125#post-3223740\">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>",
 			"retrieved": 1770024983636
 		}
 	]
