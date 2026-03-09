@@ -4,6 +4,20 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-fa17b57bf690d024adb7634261c67d60",
+			"title": "Xiaomi 17 Ultra: LOFIC and mechanical zoom put to the test",
+			"link": "https://www.notebookcheck.net/Xiaomi-17-Ultra-camera-review-LOFIC-sensor-and-mechanical-zoom-explained.1246157.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260210_155137-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260210_155137-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260210_155137-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260210_155137-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260210_155137-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260210_155137-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/f/csm_IMG_20260210_155137_eb025c7275.jpg\" loading=\"lazy\" alt=\"Camera system of the Xiaomi 17 Ultra\"></picture><div class=\"intro_featured_bar_title\">Xiaomi 17 Ultra: LOFIC and mechanical zoom put to the test</div>",
+			"retrieved": 1773067920901
+		},
+		{
+			"id": "link-609e3a7df74766a4372f849d8181ad13",
+			"title": "▶ Perfect, despite AMD?! - Asus Zenbook S16 Review",
+			"link": "https://www.notebookcheck.net/Perfect-despite-AMD-Asus-Zenbook-S16-Review.1246082.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8277-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8277-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8277-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8277-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8277-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8277-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/2/csm_thumb8277_f9bf4c030d.jpg\" loading=\"lazy\" alt=\"Perfect, despite AMD?! - Asus Zenbook S16 Review\"></picture><div class=\"intro_featured_bar_title\">▶ Perfect, despite AMD?! - Asus Zenbook S16 Review</div>",
+			"retrieved": 1773067920901
+		},
+		{
 			"id": "link-40bbe68c287b259bc7f76e8c894624ff",
 			"title": "Almost 20 hours of battery life - MSI Prestige 14 Flip AI+ review",
 			"link": "https://www.notebookcheck.net/Nearly-20-hours-of-battery-life-with-Panther-Lake-MSI-Prestige-14-Flip-AI-Convertible-review.1243401.0.html",
@@ -37,20 +51,6 @@
 			"link": "https://www.notebookcheck.net/Xiaomi-Redmi-Note-15-Pro-smartphone-review-Pro-even-without-5G.1243402.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro/Fotos_Xiaomi_Redmi_Note_15_Pro_4_zu_3_Teaser_01-JPEG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro/Fotos_Xiaomi_Redmi_Note_15_Pro_4_zu_3_Teaser_01-JPEG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro/Fotos_Xiaomi_Redmi_Note_15_Pro_4_zu_3_Teaser_01-JPEG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro/Fotos_Xiaomi_Redmi_Note_15_Pro_4_zu_3_Teaser_01-JPEG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro/Fotos_Xiaomi_Redmi_Note_15_Pro_4_zu_3_Teaser_01-JPEG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_15_Pro/Fotos_Xiaomi_Redmi_Note_15_Pro_4_zu_3_Teaser_01-JPEG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/0/csm_Fotos_Xiaomi_Redmi_Note_15_Pro_4_zu_3_Teaser_01_28b17e30e7.jpg\" loading=\"lazy\" alt=\"Xiaomi Redmi Note 15 Pro\"></picture><div class=\"intro_featured_bar_title\">Maximum 4G still works: Xiaomi Redmi Note 15 Pro review</div>",
 			"retrieved": 1772908501602
-		},
-		{
-			"id": "link-f978f570f1a66acb038dd9023aa46626",
-			"title": "Marathon preview: bold ideas, layered systems, and early friction",
-			"link": "https://www.notebookcheck.net/Marathon-hands-on-preview.1244120.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/9/csm_Marathon-hands-on-Preview_9b89ea0d2b.jpg\" loading=\"lazy\" alt=\"Early hands-on time spanning roughly 12 hours points to a distinctive extraction shooter with strong shell-based class design, layered faction progression, surreal presentation, and a dense UI that still needs smoothing out.\"></picture><div class=\"intro_featured_bar_title\">Marathon preview: bold ideas, layered systems, and early friction</div>",
-			"retrieved": 1772893487488
-		},
-		{
-			"id": "link-8a92f7f7e617a664d90b9e6d22a0909c",
-			"title": "Camera king for bargain hunters? - Vivo V70 review",
-			"link": "https://www.notebookcheck.net/Vivo-V70-review-A-standout-feature-leaves-Xiaomi-behind-in-the-mid-range-smartphone-segment.1244797.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/V70/Vivo_V70_Smartphone_Test_2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/V70/Vivo_V70_Smartphone_Test_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/V70/Vivo_V70_Smartphone_Test_2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/V70/Vivo_V70_Smartphone_Test_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/V70/Vivo_V70_Smartphone_Test_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/V70/Vivo_V70_Smartphone_Test_2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/b/csm_Vivo_V70_Smartphone_Test_2_89a21d8c31.jpg\" loading=\"lazy\" alt=\"Vivo V70 Android Phone Review\"></picture><div class=\"intro_featured_bar_title\">Camera king for bargain hunters? - Vivo V70 review</div>",
-			"retrieved": 1772893487488
 		}
 	]
 }
