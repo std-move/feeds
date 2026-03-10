@@ -186,13 +186,6 @@
 			"retrieved": 1772707193121
 		},
 		{
-			"id": "link-44eb8e40b6d868fa627e6fda0347039d",
-			"title": "Battle.net EU",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/blizzard-battle_net-eu/",
-			"contents": "Battle.net EU — €20 - €50",
-			"retrieved": 1772707193121
-		},
-		{
 			"id": "link-7bcb43fa1807749a7ca77a34fa82f097",
 			"title": "Eneba Games Store EUR",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/eneba-gift-card-eu/",
@@ -282,6 +275,13 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/foundation-international/",
 			"contents": "Foundation Bitcoin Wallets — $300",
 			"retrieved": 1773168629156
+		},
+		{
+			"id": "link-a6f405bfbcff59fc990f3dc9973d2a0a",
+			"title": "Primark",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/primark-czech-republic/",
+			"contents": "Primark — 150 CZK - 5400 CZK",
+			"retrieved": 1773181755994
 		}
 	]
 }

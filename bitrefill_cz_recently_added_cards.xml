@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-10T20:36:35.946Z</updated>
+    <updated>2026-03-10T22:31:34.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -188,13 +188,6 @@
         <content type="html"><![CDATA[Global Experience Card CZE — 250 CZK - 22000 CZK]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Battle.net EU]]></title>
-        <id>link-44eb8e40b6d868fa627e6fda0347039d</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/blizzard-battle_net-eu/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Battle.net EU — €20 - €50]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Eneba Games Store EUR]]></title>
         <id>link-7bcb43fa1807749a7ca77a34fa82f097</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/eneba-gift-card-eu/"/>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/foundation-international/"/>
         <updated>2026-03-10T18:50:29.156Z</updated>
         <content type="html"><![CDATA[Foundation Bitcoin Wallets — $300]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primark]]></title>
+        <id>link-a6f405bfbcff59fc990f3dc9973d2a0a</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/primark-czech-republic/"/>
+        <updated>2026-03-10T22:29:15.994Z</updated>
+        <content type="html"><![CDATA[Primark — 150 CZK - 5400 CZK]]></content>
     </entry>
 </feed>
