@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-03-09T22:31:16.358Z</updated>
+    <updated>2026-03-10T02:04:17.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Apple M5 Pro & M5 Max GPU Analysis]]></title>
+        <id>link-570b249feadc1feb4c68622f0fb7ab68</id>
+        <link href="https://www.notebookcheck.net/Apple-M5-Pro-M5-Max-GPU-Analysis-M5-Max-GPU-on-par-with-the-GeForce-RTX-5070-and-faster-than-Strix-Halo.1246060.0.html"/>
+        <updated>2026-03-10T02:02:17.423Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/apple_m5_pro_max_gpu_intro-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/apple_m5_pro_max_gpu_intro-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/apple_m5_pro_max_gpu_intro-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/apple_m5_pro_max_gpu_intro-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/apple_m5_pro_max_gpu_intro-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/apple_m5_pro_max_gpu_intro-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/a/csm_apple_m5_pro_max_gpu_intro_d15bfdccf8.png" loading="lazy" alt="Apple M5 Pro &amp; M5 Max GPU Analysis - M5 Max GPU on par with the GeForce RTX 5070 and faster than Strix Halo"></picture><div class="intro_featured_bar_title">Apple M5 Pro &amp; M5 Max GPU Analysis</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple M5 Pro/Max CPU Analysis - M5 Max is not faster than M4 Max]]></title>
         <id>link-800e5300cc8176cebe5cc00e9807af17</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Nearly-20-hours-of-battery-life-with-Panther-Lake-MSI-Prestige-14-Flip-AI-Convertible-review.1243401.0.html"/>
         <updated>2026-03-09T02:09:47.113Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Prestige_14_Flip_AI_2026/msi_prestige_14_flip_ai_case_01-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Prestige_14_Flip_AI_2026/msi_prestige_14_flip_ai_case_01-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige_14_Flip_AI_2026/msi_prestige_14_flip_ai_case_01-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Prestige_14_Flip_AI_2026/msi_prestige_14_flip_ai_case_01-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige_14_Flip_AI_2026/msi_prestige_14_flip_ai_case_01-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige_14_Flip_AI_2026/msi_prestige_14_flip_ai_case_01-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/7/csm_msi_prestige_14_flip_ai_case_01_e7e423679c.jpg" loading="lazy" alt="Nearly 20 hours of battery life with Panther Lake - MSI Prestige 14 Flip AI+ Convertible review"></picture><div class="intro_featured_bar_title">Almost 20 hours of battery life - MSI Prestige 14 Flip AI+ review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple MacBook Air 15 M5 review - Impressive and silent]]></title>
-        <id>link-98c91a22bb3067cf346b3a1de51daa4e</id>
-        <link href="https://www.notebookcheck.net/Apple-MacBook-Air-15-M5-Review-Very-powerful-fanless-and-without-competition.1244905.0.html"/>
-        <updated>2026-03-09T02:09:47.113Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_15_M4/mba_15_m4_case_03-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_15_M4/mba_15_m4_case_03-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_15_M4/mba_15_m4_case_03-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_15_M4/mba_15_m4_case_03-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_15_M4/mba_15_m4_case_03-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Air_15_M4/mba_15_m4_case_03-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/e/csm_mba_15_m4_case_03_ecd6fcdd26.jpg" loading="lazy" alt="Apple MacBook Air 15 M5 Review - Very powerful, fanless and without competition"></picture><div class="intro_featured_bar_title">Apple MacBook Air 15 M5 review - Impressive and silent</div>]]></content>
     </entry>
 </feed>
