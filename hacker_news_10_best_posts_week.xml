@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-11T10:41:30.391Z</updated>
+    <updated>2026-03-11T13:03:12.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-e2869bb4a29ca2c147e76a532abbb071</id>
         <link href="https://news.ycombinator.com/item?id=47324054"/>
         <updated>2026-03-10T18:50:29.156Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47324054">1800 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-10T14:50:16 1773154216"><a href="item?id=47324054">19 hours ago</a></span> <span id="unv_47324054"></span> | <a href="item?id=47324054">230&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html">Tony Hoare has died</a><span class="sitebit comhead"> (<a href="from?site=computationalcomplexity.org"><span class="sitestr">computationalcomplexity.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47324054">1854 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-10T14:50:16 1773154216"><a href="item?id=47324054">22 hours ago</a></span> <span id="unv_47324054"></span> | <a href="item?id=47324054">242&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html">Tony Hoare has died</a><span class="sitebit comhead"> (<a href="from?site=computationalcomplexity.org"><span class="sitestr">computationalcomplexity.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Global warming has accelerated significantly (researchsquare.com)]]></title>
@@ -38,7 +38,7 @@
         <id>link-aa5f23b4bd1dafadee5c4dd16d5f0174</id>
         <link href="https://news.ycombinator.com/item?id=47307055"/>
         <updated>2026-03-09T22:29:36.557Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47307055">1015 points</span> by <a href="user?id=robin_reala" class="hnuser">robin_reala</a> <span class="age" title="2026-03-09T10:14:59 1773051299"><a href="item?id=47307055">2 days ago</a></span> <span id="unv_47307055"></span> | <a href="item?id=47307055">647&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/">Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)</a><span class="sitebit comhead"> (<a href="from?site=pv-magazine.com"><span class="sitestr">pv-magazine.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47307055">1015 points</span> by <a href="user?id=robin_reala" class="hnuser">robin_reala</a> <span class="age" title="2026-03-09T10:14:59 1773051299"><a href="item?id=47307055">2 days ago</a></span> <span id="unv_47307055"></span> | <a href="item?id=47307055">651&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/">Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)</a><span class="sitebit comhead"> (<a href="from?site=pv-magazine.com"><span class="sitestr">pv-magazine.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Agent Safehouse – macOS-native sandboxing for local agents (agent-safehouse.dev)]]></title>
@@ -52,14 +52,14 @@
         <id>link-24e621e6aff1b4a67fbc94cd450a46b3</id>
         <link href="https://news.ycombinator.com/item?id=47300329"/>
         <updated>2026-03-09T22:29:36.557Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47300329">707 points</span> by <a href="user?id=Oras" class="hnuser">Oras</a> <span class="age" title="2026-03-08T19:26:59 1772998019"><a href="item?id=47300329">2 days ago</a></span> <span id="unv_47300329"></span> | <a href="item?id=47300329">502&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47300329">Ask HN: Please restrict new accounts from posting</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47300329">708 points</span> by <a href="user?id=Oras" class="hnuser">Oras</a> <span class="age" title="2026-03-08T19:26:59 1772998019"><a href="item?id=47300329">2 days ago</a></span> <span id="unv_47300329"></span> | <a href="item?id=47300329">503&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47300329">Ask HN: Please restrict new accounts from posting</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: How to be alone?]]></title>
         <id>link-a0a55c36992689f75302e027b9485e47</id>
         <link href="https://news.ycombinator.com/item?id=47296547"/>
         <updated>2026-03-10T20:35:02.851Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47296547">671 points</span> by <a href="user?id=sillysaurusx" class="hnuser">sillysaurusx</a> <span class="age" title="2026-03-08T11:41:17 1772970077"><a href="item?id=47296547">2 days ago</a></span> <span id="unv_47296547"></span> | <a href="item?id=47296547">552&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47296547">Ask HN: How to be alone?</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47296547">671 points</span> by <a href="user?id=sillysaurusx" class="hnuser">sillysaurusx</a> <span class="age" title="2026-03-08T11:41:17 1772970077"><a href="item?id=47296547">3 days ago</a></span> <span id="unv_47296547"></span> | <a href="item?id=47296547">552&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47296547">Ask HN: How to be alone?</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plasma Bigscreen – 10-foot interface for KDE plasma (plasma-bigscreen.org)]]></title>
@@ -73,6 +73,6 @@
         <id>link-18e7217fc85e50e2c2dd7cbb426727d1</id>
         <link href="https://news.ycombinator.com/item?id=47291876"/>
         <updated>2026-03-10T22:29:15.994Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47291876">628 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-03-07T22:03:37 1772921017"><a href="item?id=47291876">2 days ago</a></span> <span id="unv_47291876"></span> | <a href="item?id=47291876">87&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.youtube.com/watch?v=qZuR-772cks">Microscopes can see video on a laserdisc</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47291876">629 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-03-07T22:03:37 1772921017"><a href="item?id=47291876">2 days ago</a></span> <span id="unv_47291876"></span> | <a href="item?id=47291876">87&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.youtube.com/watch?v=qZuR-772cks">Microscopes can see video on a laserdisc</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
