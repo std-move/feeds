@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-11T08:44:10.042Z</updated>
+    <updated>2026-03-11T10:41:30.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -67,13 +67,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-usd/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
         <content type="html"><![CDATA[Kinguin Games Store USD International — $5 - $500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aircash A-Bon Europe]]></title>
-        <id>link-0d81b74861fe54aa696fe78f55653a65</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Aircash A-Bon Europe — €5 - €25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ExitLag International]]></title>
@@ -167,6 +160,13 @@
         <content type="html"><![CDATA[Global Experiences Card CZ — 250 CZK - 22000 CZK]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CASHlib EU]]></title>
+        <id>link-634360beaee0c793858da705cf25788d</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/cashlib-eu/"/>
+        <updated>2026-03-11T10:39:56.973Z</updated>
+        <content type="html"><![CDATA[CASHlib EU — €150]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NordPass Password Manager International]]></title>
         <id>link-43c899761e000d0bebc131ed6d1f4b60</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/nordpass-international/"/>
@@ -188,11 +188,18 @@
         <content type="html"><![CDATA[Global Experience Card CZE — 250 CZK - 22000 CZK]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Battle.net EU]]></title>
+        <id>link-44eb8e40b6d868fa627e6fda0347039d</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/blizzard-battle_net-eu/"/>
+        <updated>2026-03-11T10:39:56.973Z</updated>
+        <content type="html"><![CDATA[Battle.net EU — €20 - €100]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Eneba Games Store EUR]]></title>
         <id>link-7bcb43fa1807749a7ca77a34fa82f097</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/eneba-gift-card-eu/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Eneba Games Store EUR — €5 - €100]]></content>
+        <content type="html"><![CDATA[Eneba Games Store EUR — €5 - €200]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valorant EU]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/foundation-international/"/>
         <updated>2026-03-10T18:50:29.156Z</updated>
         <content type="html"><![CDATA[Foundation Bitcoin Wallets — $300]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primark]]></title>
-        <id>link-a6f405bfbcff59fc990f3dc9973d2a0a</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/primark-czech-republic/"/>
-        <updated>2026-03-10T22:29:15.994Z</updated>
-        <content type="html"><![CDATA[Primark — 150 CZK - 5400 CZK]]></content>
     </entry>
 </feed>
