@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-567784b931995fc9bc9e55278ca2ac3d",
+			"title": "CPU fraud: Chuwi CoreBook Plus with supposed 7430U also affected",
+			"link": "https://www.notebookcheck.net/CPU-fraud-next-round-Chuwi-CoreBook-Plus-with-supposed-AMD-Ryzen-5-7430U-also-affected.1248660.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/chuwi_corebook_plus_7430U_opn_teaser.jpg-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/chuwi_corebook_plus_7430U_opn_teaser.jpg-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/chuwi_corebook_plus_7430U_opn_teaser.jpg-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/chuwi_corebook_plus_7430U_opn_teaser.jpg-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/chuwi_corebook_plus_7430U_opn_teaser.jpg-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/chuwi_corebook_plus_7430U_opn_teaser.jpg-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/c/csm_chuwi_corebook_plus_7430U_opn_teaser.jpg_2cd4432960.jpg\" loading=\"lazy\" alt=\"CPU fraud, next round: Chuwi CoreBook Plus with supposed 7430U also affected\"></picture><div class=\"intro_featured_bar_title\">CPU fraud: Chuwi CoreBook Plus with supposed 7430U also affected</div>",
+			"retrieved": 1773311968517
+		},
+		{
 			"id": "link-800e5300cc8176cebe5cc00e9807af17",
 			"title": "Apple M5 Pro/Max CPU Analysis - M5 Max is not faster than M4 Max (update)",
 			"link": "https://www.notebookcheck.net/Apple-M5-Pro-M5-Max-CPU-Analysis-M5-Max-is-not-much-faster-than-the-M4-Max.1246054.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Maximum-gaming-experience-on-an-18-incher-Acer-Nitro-18-AI-gaming-laptop-review.1246836.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Nitro_18_AI_AN18-61-R10V/feature-nitro18-0-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Nitro_18_AI_AN18-61-R10V/feature-nitro18-0-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Acer/Nitro_18_AI_AN18-61-R10V/feature-nitro18-0-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acer/Nitro_18_AI_AN18-61-R10V/feature-nitro18-0-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Acer/Nitro_18_AI_AN18-61-R10V/feature-nitro18-0-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Acer/Nitro_18_AI_AN18-61-R10V/feature-nitro18-0-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/8/csm_feature-nitro18-0_20cf6d6bad.jpg\" loading=\"lazy\" alt=\"Maximum gaming experience on an 18-incher? Acer Nitro 18 AI gaming laptop review\"></picture><div class=\"intro_featured_bar_title\">Among the best 18-inch gamers? Acer Nitro 18 AI in the test</div>",
 			"retrieved": 1773205913967
-		},
-		{
-			"id": "link-4d513a5036749c247801c96439c37355",
-			"title": "RICOH 360 Meeting Hub review: All-in-one conferencing system",
-			"link": "https://www.notebookcheck.net/RICOH-360-Meeting-Hub-review-All-in-one-conferencing-system-with-speaker-tracking-for-Teams-Zoom-more.1246050.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/title-16228-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/title-16228-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/title-16228-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/title-16228-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/title-16228-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/title-16228-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/f/csm_title-16228_bdcc7d7108.jpg\" loading=\"lazy\" alt=\"RICOH 360 Meeting in front of a keyboard and monitor\"></picture><div class=\"intro_featured_bar_title\">RICOH 360 Meeting Hub review: All-in-one conferencing system</div>",
-			"retrieved": 1773218537626
 		}
 	]
 }
