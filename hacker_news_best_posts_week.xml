@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-03-12T11:42:25.853Z</updated>
+    <updated>2026-03-12T11:46:12.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-404cac80cef40e35324d923801772cff</id>
         <link href="https://news.ycombinator.com/item?id=47340079"/>
         <updated>2026-03-11T20:34:30.693Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47340079">3660 points</span> by <a href="user?id=usefulposter" class="hnuser">usefulposter</a> <span class="age" title="2026-03-11T19:29:29 1773257369"><a href="item?id=47340079">16 hours ago</a></span> <span id="unv_47340079"></span> | <a href="item?id=47340079">1363&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.ycombinator.com/newsguidelines.html#generated">Don't post generated/AI-edited comments. HN is for conversation between humans</a><span class="sitebit comhead"> (<a href="from?site=news.ycombinator.com"><span class="sitestr">news.ycombinator.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47340079">3668 points</span> by <a href="user?id=usefulposter" class="hnuser">usefulposter</a> <span class="age" title="2026-03-11T19:29:29 1773257369"><a href="item?id=47340079">16 hours ago</a></span> <span id="unv_47340079"></span> | <a href="item?id=47340079">1363&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.ycombinator.com/newsguidelines.html#generated">Don't post generated/AI-edited comments. HN is for conversation between humans</a><span class="sitebit comhead"> (<a href="from?site=news.ycombinator.com"><span class="sitestr">news.ycombinator.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tony Hoare has died (computationalcomplexity.org)]]></title>
@@ -66,21 +66,21 @@
         <id>link-4584676606db574475f60fa567fc3ba9</id>
         <link href="https://news.ycombinator.com/item?id=47336989"/>
         <updated>2026-03-12T02:08:17.259Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47336989">700 points</span> by <a href="user?id=robpalmer" class="hnuser">robpalmer</a> <span class="age" title="2026-03-11T15:35:50 1773243350"><a href="item?id=47336989">20 hours ago</a></span> <span id="unv_47336989"></span> | <a href="item?id=47336989">222&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bloomberg.github.io/js-blog/post/temporal/">Temporal: The 9-year journey to fix time in JavaScript</a><span class="sitebit comhead"> (<a href="from?site=bloomberg.github.io"><span class="sitestr">bloomberg.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47336989">702 points</span> by <a href="user?id=robpalmer" class="hnuser">robpalmer</a> <span class="age" title="2026-03-11T15:35:50 1773243350"><a href="item?id=47336989">20 hours ago</a></span> <span id="unv_47336989"></span> | <a href="item?id=47336989">222&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bloomberg.github.io/js-blog/post/temporal/">Temporal: The 9-year journey to fix time in JavaScript</a><span class="sitebit comhead"> (<a href="from?site=bloomberg.github.io"><span class="sitestr">bloomberg.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: How to be alone?]]></title>
         <id>link-a0a55c36992689f75302e027b9485e47</id>
         <link href="https://news.ycombinator.com/item?id=47296547"/>
         <updated>2026-03-09T08:45:40.823Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47296547">680 points</span> by <a href="user?id=sillysaurusx" class="hnuser">sillysaurusx</a> <span class="age" title="2026-03-08T11:41:17 1772970077"><a href="item?id=47296547">3 days ago</a></span> <span id="unv_47296547"></span> | <a href="item?id=47296547">556&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47296547">Ask HN: How to be alone?</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47296547">680 points</span> by <a href="user?id=sillysaurusx" class="hnuser">sillysaurusx</a> <span class="age" title="2026-03-08T11:41:17 1772970077"><a href="item?id=47296547">4 days ago</a></span> <span id="unv_47296547"></span> | <a href="item?id=47296547">556&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47296547">Ask HN: How to be alone?</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Create value for others and don’t worry about the returns (geohot.github.io)]]></title>
         <id>link-009c2304bc42f324bbfd78c24840cd8c</id>
         <link href="https://news.ycombinator.com/item?id=47332074"/>
         <updated>2026-03-11T13:01:36.201Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47332074">677 points</span> by <a href="user?id=ppew" class="hnuser">ppew</a> <span class="age" title="2026-03-11T05:45:49 1773207949"><a href="item?id=47332074">1 day ago</a></span> <span id="unv_47332074"></span> | <a href="item?id=47332074">443&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html">Create value for others and don’t worry about the returns</a><span class="sitebit comhead"> (<a href="from?site=geohot.github.io"><span class="sitestr">geohot.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47332074">678 points</span> by <a href="user?id=ppew" class="hnuser">ppew</a> <span class="age" title="2026-03-11T05:45:49 1773207949"><a href="item?id=47332074">1 day ago</a></span> <span id="unv_47332074"></span> | <a href="item?id=47332074">443&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html">Create value for others and don’t worry about the returns</a><span class="sitebit comhead"> (<a href="from?site=geohot.github.io"><span class="sitestr">geohot.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plasma Bigscreen – 10-foot interface for KDE plasma (plasma-bigscreen.org)]]></title>
@@ -129,21 +129,21 @@
         <id>link-971aef191f07de2b38299b1e68da0601</id>
         <link href="https://news.ycombinator.com/item?id=47320600"/>
         <updated>2026-03-11T06:55:17.402Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47320600">604 points</span> by <a href="user?id=helloplanets" class="hnuser">helloplanets</a> <span class="age" title="2026-03-10T08:46:53 1773132413"><a href="item?id=47320600">1 day ago</a></span> <span id="unv_47320600"></span> | <a href="item?id=47320600">484&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/">Yann LeCun raises $1B to build AI that understands the physical world</a><span class="sitebit comhead"> (<a href="from?site=wired.com"><span class="sitestr">wired.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47320600">604 points</span> by <a href="user?id=helloplanets" class="hnuser">helloplanets</a> <span class="age" title="2026-03-10T08:46:53 1773132413"><a href="item?id=47320600">1 day ago</a></span> <span id="unv_47320600"></span> | <a href="item?id=47320600">485&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/">Yann LeCun raises $1B to build AI that understands the physical world</a><span class="sitebit comhead"> (<a href="from?site=wired.com"><span class="sitestr">wired.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Whistleblower claims ex-DOGE member says he took Social Security data to new job (washingtonpost.com)]]></title>
         <id>link-2b98b4cc3ddf6d037f1be2430dcbe287</id>
         <link href="https://news.ycombinator.com/item?id=47335572"/>
         <updated>2026-03-11T16:53:30.956Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47335572">599 points</span> by <a href="user?id=raldi" class="hnuser">raldi</a> <span class="age" title="2026-03-11T13:52:01 1773237121"><a href="item?id=47335572">21 hours ago</a></span> <span id="unv_47335572"></span> | <a href="item?id=47335572">260&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/">Whistleblower claims ex-DOGE member says he took Social Security data to new job</a><span class="sitebit comhead"> (<a href="from?site=washingtonpost.com"><span class="sitestr">washingtonpost.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47335572">599 points</span> by <a href="user?id=raldi" class="hnuser">raldi</a> <span class="age" title="2026-03-11T13:52:01 1773237121"><a href="item?id=47335572">21 hours ago</a></span> <span id="unv_47335572"></span> | <a href="item?id=47335572">261&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/">Whistleblower claims ex-DOGE member says he took Social Security data to new job</a><span class="sitebit comhead"> (<a href="from?site=washingtonpost.com"><span class="sitestr">washingtonpost.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Making WebAssembly a first-class language on the Web (hacks.mozilla.org)]]></title>
         <id>link-fe785f9c01ab49b15923b293ee563432</id>
         <link href="https://news.ycombinator.com/item?id=47331811"/>
         <updated>2026-03-12T06:56:49.654Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47331811">581 points</span> by <a href="user?id=mikece" class="hnuser">mikece</a> <span class="age" title="2026-03-11T04:44:46 1773204286"><a href="item?id=47331811">20 hours ago</a></span> <span id="unv_47331811"></span> | <a href="item?id=47331811">206&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/">Making WebAssembly a first-class language on the Web</a><span class="sitebit comhead"> (<a href="from?site=hacks.mozilla.org"><span class="sitestr">hacks.mozilla.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47331811">584 points</span> by <a href="user?id=mikece" class="hnuser">mikece</a> <span class="age" title="2026-03-11T04:44:46 1773204286"><a href="item?id=47331811">20 hours ago</a></span> <span id="unv_47331811"></span> | <a href="item?id=47331811">207&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/">Making WebAssembly a first-class language on the Web</a><span class="sitebit comhead"> (<a href="from?site=hacks.mozilla.org"><span class="sitestr">hacks.mozilla.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Building a Procedural Hex Map with Wave Function Collapse (felixturner.github.io)]]></title>
@@ -171,7 +171,7 @@
         <id>link-cc4c8fe472dfa165588d83211293cbe6</id>
         <link href="https://news.ycombinator.com/item?id=47334293"/>
         <updated>2026-03-12T06:56:49.654Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47334293">555 points</span> by <a href="user?id=etothet" class="hnuser">etothet</a> <span class="age" title="2026-03-11T11:37:24 1773229044"><a href="item?id=47334293">21 hours ago</a></span> <span id="unv_47334293"></span> | <a href="item?id=47334293">888&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://daringfireball.net/2026/03/the_macbook_neo">The MacBook Neo</a><span class="sitebit comhead"> (<a href="from?site=daringfireball.net"><span class="sitestr">daringfireball.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47334293">557 points</span> by <a href="user?id=etothet" class="hnuser">etothet</a> <span class="age" title="2026-03-11T11:37:24 1773229044"><a href="item?id=47334293">21 hours ago</a></span> <span id="unv_47334293"></span> | <a href="item?id=47334293">889&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://daringfireball.net/2026/03/the_macbook_neo">The MacBook Neo</a><span class="sitebit comhead"> (<a href="from?site=daringfireball.net"><span class="sitestr">daringfireball.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta acquires Moltbook (axios.com)]]></title>
