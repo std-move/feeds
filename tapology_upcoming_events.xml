@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-03-12T05:17:24.326Z</updated>
+    <updated>2026-03-12T06:58:25.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-370ecfb95027d620ed333a9aada3d48634d39f579cf0c1646d47dbc21c547219.png</icon>
     <entry>
-        <title type="html"><![CDATA[Cage Warriors 201 — 2026-03-13 11:00:00 -0400]]></title>
+        <title type="html"><![CDATA[Cage Warriors 201 — 2026-03-13 14:00:00 -0400]]></title>
         <id>link-e7b379f8490ef83aa303727708d75563</id>
         <link href="https://www.tapology.com/fightcenter/events/136751-cage-warriors-201"/>
         <updated>2026-02-22T02:10:52.590Z</updated>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136751-cage-warriors-201">Cage Warriors 201</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-03-13 11:00:00 -0400">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-03-13 14:00:00 -0400">in 1 day</abbr>
 </td>]]></content>
     </entry>
     <entry>
