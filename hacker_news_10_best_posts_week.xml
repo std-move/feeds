@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-12T13:03:15.004Z</updated>
+    <updated>2026-03-12T14:51:12.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,28 +10,28 @@
         <id>link-404cac80cef40e35324d923801772cff</id>
         <link href="https://news.ycombinator.com/item?id=47340079"/>
         <updated>2026-03-11T20:34:30.693Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47340079">3755 points</span> by <a href="user?id=usefulposter" class="hnuser">usefulposter</a> <span class="age" title="2026-03-11T19:29:29 1773257369"><a href="item?id=47340079">17 hours ago</a></span> <span id="unv_47340079"></span> | <a href="item?id=47340079">1408&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.ycombinator.com/newsguidelines.html#generated">Don't post generated/AI-edited comments. HN is for conversation between humans</a><span class="sitebit comhead"> (<a href="from?site=news.ycombinator.com"><span class="sitestr">news.ycombinator.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47340079">3878 points</span> by <a href="user?id=usefulposter" class="hnuser">usefulposter</a> <span class="age" title="2026-03-11T19:29:29 1773257369"><a href="item?id=47340079">19 hours ago</a></span> <span id="unv_47340079"></span> | <a href="item?id=47340079">1448&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.ycombinator.com/newsguidelines.html#generated">Don't post generated/AI-edited comments. HN is for conversation between humans</a><span class="sitebit comhead"> (<a href="from?site=news.ycombinator.com"><span class="sitestr">news.ycombinator.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tony Hoare has died (computationalcomplexity.org)]]></title>
         <id>link-e2869bb4a29ca2c147e76a532abbb071</id>
         <link href="https://news.ycombinator.com/item?id=47324054"/>
         <updated>2026-03-10T18:50:29.156Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47324054">1997 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-10T14:50:16 1773154216"><a href="item?id=47324054">1 day ago</a></span> <span id="unv_47324054"></span> | <a href="item?id=47324054">260&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html">Tony Hoare has died</a><span class="sitebit comhead"> (<a href="from?site=computationalcomplexity.org"><span class="sitestr">computationalcomplexity.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47324054">1999 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-10T14:50:16 1773154216"><a href="item?id=47324054">1 day ago</a></span> <span id="unv_47324054"></span> | <a href="item?id=47324054">260&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html">Tony Hoare has died</a><span class="sitebit comhead"> (<a href="from?site=computationalcomplexity.org"><span class="sitestr">computationalcomplexity.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Global warming has accelerated significantly (researchsquare.com)]]></title>
         <id>link-057d178319f73d22e0f9cad6891f3944</id>
         <link href="https://news.ycombinator.com/item?id=47275088"/>
         <updated>2026-03-07T01:58:56.179Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47275088">1189 points</span> by <a href="user?id=morsch" class="hnuser">morsch</a> <span class="age" title="2026-03-06T14:10:03 1772806203"><a href="item?id=47275088">5 days ago</a></span> <span id="unv_47275088"></span> | <a href="item?id=47275088">1210&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.researchsquare.com/article/rs-6079807/v1">Global warming has accelerated significantly</a><span class="sitebit comhead"> (<a href="from?site=researchsquare.com"><span class="sitestr">researchsquare.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47275088">1190 points</span> by <a href="user?id=morsch" class="hnuser">morsch</a> <span class="age" title="2026-03-06T14:10:03 1772806203"><a href="item?id=47275088">6 days ago</a></span> <span id="unv_47275088"></span> | <a href="item?id=47275088">1210&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.researchsquare.com/article/rs-6079807/v1">Global warming has accelerated significantly</a><span class="sitebit comhead"> (<a href="from?site=researchsquare.com"><span class="sitestr">researchsquare.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: I'm 60 years old. Claude Code has re-ignited a passion]]></title>
         <id>link-24288a242182412a2c095ed767e78116</id>
         <link href="https://news.ycombinator.com/item?id=47282777"/>
         <updated>2026-03-07T22:24:24.145Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47282777">1070 points</span> by <a href="user?id=shannoncc" class="hnuser">shannoncc</a> <span class="age" title="2026-03-07T00:05:06 1772841906"><a href="item?id=47282777">5 days ago</a></span> <span id="unv_47282777"></span> | <a href="item?id=47282777">976&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47282777">Tell HN: I'm 60 years old. Claude Code has re-ignited a passion</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47282777">1071 points</span> by <a href="user?id=shannoncc" class="hnuser">shannoncc</a> <span class="age" title="2026-03-07T00:05:06 1772841906"><a href="item?id=47282777">5 days ago</a></span> <span id="unv_47282777"></span> | <a href="item?id=47282777">978&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47282777">Tell HN: I'm 60 years old. Claude Code has re-ignited a passion</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tech employment now significantly worse than the 2008 or 2020 recessions (twitter.com/josephpolitano)]]></title>
@@ -45,7 +45,7 @@
         <id>link-aa5f23b4bd1dafadee5c4dd16d5f0174</id>
         <link href="https://news.ycombinator.com/item?id=47307055"/>
         <updated>2026-03-09T22:29:36.557Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47307055">1018 points</span> by <a href="user?id=robin_reala" class="hnuser">robin_reala</a> <span class="age" title="2026-03-09T10:14:59 1773051299"><a href="item?id=47307055">3 days ago</a></span> <span id="unv_47307055"></span> | <a href="item?id=47307055">659&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/">Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)</a><span class="sitebit comhead"> (<a href="from?site=pv-magazine.com"><span class="sitestr">pv-magazine.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47307055">1018 points</span> by <a href="user?id=robin_reala" class="hnuser">robin_reala</a> <span class="age" title="2026-03-09T10:14:59 1773051299"><a href="item?id=47307055">3 days ago</a></span> <span id="unv_47307055"></span> | <a href="item?id=47307055">660&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/">Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)</a><span class="sitebit comhead"> (<a href="from?site=pv-magazine.com"><span class="sitestr">pv-magazine.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Agent Safehouse – macOS-native sandboxing for local agents (agent-safehouse.dev)]]></title>
@@ -59,20 +59,20 @@
         <id>link-4584676606db574475f60fa567fc3ba9</id>
         <link href="https://news.ycombinator.com/item?id=47336989"/>
         <updated>2026-03-12T10:39:28.517Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47336989">720 points</span> by <a href="user?id=robpalmer" class="hnuser">robpalmer</a> <span class="age" title="2026-03-11T15:35:50 1773243350"><a href="item?id=47336989">21 hours ago</a></span> <span id="unv_47336989"></span> | <a href="item?id=47336989">229&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bloomberg.github.io/js-blog/post/temporal/">Temporal: The 9-year journey to fix time in JavaScript</a><span class="sitebit comhead"> (<a href="from?site=bloomberg.github.io"><span class="sitestr">bloomberg.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47336989">743 points</span> by <a href="user?id=robpalmer" class="hnuser">robpalmer</a> <span class="age" title="2026-03-11T15:35:50 1773243350"><a href="item?id=47336989">23 hours ago</a></span> <span id="unv_47336989"></span> | <a href="item?id=47336989">239&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bloomberg.github.io/js-blog/post/temporal/">Temporal: The 9-year journey to fix time in JavaScript</a><span class="sitebit comhead"> (<a href="from?site=bloomberg.github.io"><span class="sitestr">bloomberg.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: Please restrict new accounts from posting]]></title>
         <id>link-24e621e6aff1b4a67fbc94cd450a46b3</id>
         <link href="https://news.ycombinator.com/item?id=47300329"/>
         <updated>2026-03-09T22:29:36.557Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47300329">712 points</span> by <a href="user?id=Oras" class="hnuser">Oras</a> <span class="age" title="2026-03-08T19:26:59 1772998019"><a href="item?id=47300329">3 days ago</a></span> <span id="unv_47300329"></span> | <a href="item?id=47300329">505&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47300329">Ask HN: Please restrict new accounts from posting</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47300329">712 points</span> by <a href="user?id=Oras" class="hnuser">Oras</a> <span class="age" title="2026-03-08T19:26:59 1772998019"><a href="item?id=47300329">3 days ago</a></span> <span id="unv_47300329"></span> | <a href="item?id=47300329">506&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47300329">Ask HN: Please restrict new accounts from posting</a></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How to be alone?]]></title>
-        <id>link-a0a55c36992689f75302e027b9485e47</id>
-        <link href="https://news.ycombinator.com/item?id=47296547"/>
-        <updated>2026-03-10T20:35:02.851Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47296547">680 points</span> by <a href="user?id=sillysaurusx" class="hnuser">sillysaurusx</a> <span class="age" title="2026-03-08T11:41:17 1772970077"><a href="item?id=47296547">4 days ago</a></span> <span id="unv_47296547"></span> | <a href="item?id=47296547">557&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47296547">Ask HN: How to be alone?</a></span>]]></content>
+        <title type="html"><![CDATA[Create value for others and don’t worry about the returns (geohot.github.io)]]></title>
+        <id>link-009c2304bc42f324bbfd78c24840cd8c</id>
+        <link href="https://news.ycombinator.com/item?id=47332074"/>
+        <updated>2026-03-12T14:49:35.510Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47332074">685 points</span> by <a href="user?id=ppew" class="hnuser">ppew</a> <span class="age" title="2026-03-11T05:45:49 1773207949"><a href="item?id=47332074">1 day ago</a></span> <span id="unv_47332074"></span> | <a href="item?id=47332074">444&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html">Create value for others and don’t worry about the returns</a><span class="sitebit comhead"> (<a href="from?site=geohot.github.io"><span class="sitestr">geohot.github.io</span></a>)</span></span>]]></content>
     </entry>
 </feed>

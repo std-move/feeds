@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-d79d5fc04064066578d50c52d83c7ba6",
+			"title": "▶ Why did they make this? - MSI Claw A8 review",
+			"link": "https://www.notebookcheck.net/Why-did-they-make-this-MSI-Claw-A8-review.1248971.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/f/csm_thumb81_b015f01a28.jpg\" loading=\"lazy\" alt=\"Why did they make this? - MSI Claw A8 review\"></picture><div class=\"intro_featured_bar_title\">▶ Why did they make this? - MSI Claw A8 review</div>",
+			"retrieved": 1773326975510
+		},
+		{
 			"id": "link-74bbc3bea041d7af5fca9049ba50d0fb",
 			"title": "Affordable & good: Mova S70 Roller vacuum robot in test",
 			"link": "https://www.notebookcheck.net/Premium-mopping-technology-in-an-affordable-robot-vacuum-Mova-S70-Roller-review.1248139.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/AMD-Ryzen-AI-Max-395-with-128-GB-RAM-in-a-cube-Is-the-Acemagic-M1A-Pro-the-new-performance-king-among-mini-PCs.1246642.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acemagic/M1A_Pro_Plus/M1A_Pro_Plus_18-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acemagic/M1A_Pro_Plus/M1A_Pro_Plus_18-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Acemagic/M1A_Pro_Plus/M1A_Pro_Plus_18-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Acemagic/M1A_Pro_Plus/M1A_Pro_Plus_18-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Acemagic/M1A_Pro_Plus/M1A_Pro_Plus_18-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Acemagic/M1A_Pro_Plus/M1A_Pro_Plus_18-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/a/csm_M1A_Pro_Plus_18_154a31c071.jpg\" loading=\"lazy\" alt=\"Acemagic M1A Pro+ with AMD Ryzen AI Max+ 395 and 128 GB RAM\"></picture><div class=\"intro_featured_bar_title\">Cube Mini-PC with Ryzen AI Max+ 395 and 128 GB RAM review</div>",
 			"retrieved": 1773218537626
-		},
-		{
-			"id": "link-a2bba445f29a122efe5c2708aea815a8",
-			"title": "M5 Max with throttling issues - Apple MacBook Pro 14 Review",
-			"link": "https://www.notebookcheck.net/M5-Max-with-inconsistent-performance-and-throttling-issues-Apple-MacBook-Pro-14-Review.1246064.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2026_M5_Max/mbp_14_m5_max_case_13-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2026_M5_Max/mbp_14_m5_max_case_13-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2026_M5_Max/mbp_14_m5_max_case_13-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2026_M5_Max/mbp_14_m5_max_case_13-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2026_M5_Max/mbp_14_m5_max_case_13-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2026_M5_Max/mbp_14_m5_max_case_13-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/0/csm_mbp_14_m5_max_case_13_3f821840b8.jpg\" loading=\"lazy\" alt=\"M5 Max with inconsistent performance and throttling issues - Apple MacBook Pro 14 Review\"></picture><div class=\"intro_featured_bar_title\">M5 Max with throttling issues - Apple MacBook Pro 14 Review</div>",
-			"retrieved": 1773194512157
 		}
 	]
 }
