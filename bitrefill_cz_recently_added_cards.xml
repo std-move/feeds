@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-11T22:29:48.895Z</updated>
+    <updated>2026-03-12T02:09:53.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -116,13 +116,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/surfshark-vpn-international/"/>
         <updated>2026-03-11T13:01:36.201Z</updated>
         <content type="html"><![CDATA[Surfshark VPN International — Surfshark 1M - Surfshark 2Y]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinguin Games Store EUR International]]></title>
-        <id>link-0136c97f969773bc358a5afe41efa368</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Kinguin Games Store EUR International — €5 - €500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Yo International]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/gocash-game-card-international/"/>
         <updated>2026-03-11T13:01:36.201Z</updated>
         <content type="html"><![CDATA[GoCash Card Multi-Game — $5 - $50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H&M]]></title>
+        <id>link-93d3cfbe9dd1eba163a8918ed3d0a2c1</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/"/>
+        <updated>2026-03-12T02:08:17.259Z</updated>
+        <content type="html"><![CDATA[H&amp;M — 100 CZK - 12500 CZK]]></content>
     </entry>
 </feed>
