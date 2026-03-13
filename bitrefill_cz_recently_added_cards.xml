@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-13T10:39:34.006Z</updated>
+    <updated>2026-03-13T13:01:56.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/ludo-star-usd-international/"/>
         <updated>2026-03-11T13:01:36.201Z</updated>
         <content type="html"><![CDATA[Ludo Star International — $10 - $500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Instant AI International]]></title>
-        <id>link-d81c436189332d9d9afc2c24cb66a9e0</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/my-instant-ai-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[My Instant AI International — $50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OneKey USD]]></title>
@@ -129,7 +122,7 @@
         <id>link-8d75130138882e451dbfcae9c43ec0dc</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/liveme-coins-international/"/>
         <updated>2026-03-11T13:01:36.201Z</updated>
-        <content type="html"><![CDATA[LiveMe Coins International — LiveMe 629 Coins - LiveMe 8999 Coins]]></content>
+        <content type="html"><![CDATA[LiveMe Coins International — LiveMe 899 Coins - LiveMe 8999 Coins]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Likee International]]></title>
@@ -172,6 +165,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/playstation-cz/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
         <content type="html"><![CDATA[PlayStation Store CZ — 200 CZK - 6000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft Java International]]></title>
+        <id>link-2ed5593b41173f5bf43fc350ebfb1c85</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/"/>
+        <updated>2026-03-13T12:59:48.920Z</updated>
+        <content type="html"><![CDATA[Minecraft Java International — $29.99]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
