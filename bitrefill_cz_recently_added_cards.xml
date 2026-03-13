@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-13T20:37:35.748Z</updated>
+    <updated>2026-03-13T22:30:37.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ludo Star International]]></title>
+        <id>link-10d925f3e39a153ce722ede355167a1b</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/ludo-star-usd-international/"/>
+        <updated>2026-03-13T22:28:40.490Z</updated>
+        <content type="html"><![CDATA[Ludo Star International — $10 - $500]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneKey USD]]></title>
         <id>link-ace6c246fa7ccbbac456bf5ab79ccb9b</id>
@@ -62,6 +69,13 @@
         <content type="html"><![CDATA[Kinguin Games Store USD International — $5 - $200]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yalla Ludo Diamond International]]></title>
+        <id>link-8c88f38eb774f1eae1e7750f7635fa18</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/yalla-ludo-diamond-international/"/>
+        <updated>2026-03-13T22:28:40.490Z</updated>
+        <content type="html"><![CDATA[Yalla Ludo Diamond International — $2 - $500]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aircash A-Bon Europe]]></title>
         <id>link-0d81b74861fe54aa696fe78f55653a65</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/"/>
@@ -90,11 +104,32 @@
         <content type="html"><![CDATA[Jawaker Tokens International — 10000 tokens - 1000000 tokens]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Surfshark VPN International]]></title>
+        <id>link-283fa537c2c7fe7a32a497ca00a1c4ef</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/surfshark-vpn-international/"/>
+        <updated>2026-03-13T22:28:40.490Z</updated>
+        <content type="html"><![CDATA[Surfshark VPN International — Surfshark 1M - Surfshark 2Y]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Yo International]]></title>
+        <id>link-93c9c10d040354f416d60b776823aa42</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/hello-yo-international/"/>
+        <updated>2026-03-13T22:28:40.490Z</updated>
+        <content type="html"><![CDATA[Hello Yo International — $50 - $100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiveMe Coins International]]></title>
+        <id>link-8d75130138882e451dbfcae9c43ec0dc</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/liveme-coins-international/"/>
+        <updated>2026-03-13T22:28:40.490Z</updated>
+        <content type="html"><![CDATA[LiveMe Coins International — LiveMe 899 Coins - LiveMe 8999 Coins]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Likee International]]></title>
         <id>link-3a8d763f1e2c3630dde87bc71fb972fb</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/likee-international/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Likee International — $250]]></content>
+        <content type="html"><![CDATA[Likee International — $5 - $100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAUFLAND]]></title>
@@ -130,6 +165,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/playstation-cz/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
         <content type="html"><![CDATA[PlayStation Store CZ — 200 CZK - 6000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft Java International]]></title>
+        <id>link-2ed5593b41173f5bf43fc350ebfb1c85</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/"/>
+        <updated>2026-03-13T22:28:40.490Z</updated>
+        <content type="html"><![CDATA[Minecraft Java International — $29.99]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
@@ -209,6 +251,13 @@
         <content type="html"><![CDATA[Global Hotel Card by Expedia — 500 CZK - 22000 CZK]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GoCash Card Multi-Game]]></title>
+        <id>link-11f937a8887651100ab123c883e99d7b</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/gocash-game-card-international/"/>
+        <updated>2026-03-13T22:28:40.490Z</updated>
+        <content type="html"><![CDATA[GoCash Card Multi-Game — $5 - $50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[H&M]]></title>
         <id>link-93d3cfbe9dd1eba163a8918ed3d0a2c1</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/"/>
@@ -235,54 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/elearngift-cz/"/>
         <updated>2026-03-13T18:43:05.248Z</updated>
         <content type="html"><![CDATA[eLearnGift — 500 CZK - 40000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlixTrain EUR international]]></title>
-        <id>link-c9fb66fbec19b4c3539f42d86e283df9</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/flixtrain-international/"/>
-        <updated>2026-03-13T18:43:05.248Z</updated>
-        <content type="html"><![CDATA[FlixTrain EUR international — €10 - €40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUBG New State International]]></title>
-        <id>link-cfb3a712c94a8274f35ede8c046bf09a</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/pubg-new-state-international/"/>
-        <updated>2026-03-13T18:43:05.248Z</updated>
-        <content type="html"><![CDATA[PUBG New State International — $0.99 - $99.99]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ticketmaster CZ]]></title>
-        <id>link-a2fad700aab32520a56292c84e71c615</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/ticketmaster-cz/"/>
-        <updated>2026-03-13T18:43:05.248Z</updated>
-        <content type="html"><![CDATA[Ticketmaster CZ — 50 CZK - 7500 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinEd]]></title>
-        <id>link-edde392fc39e10cd598a0f98b8fb0bf2</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/coined-international/"/>
-        <updated>2026-03-13T18:43:05.248Z</updated>
-        <content type="html"><![CDATA[CoinEd — $80]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundation Bitcoin Wallets]]></title>
-        <id>link-78e2fdfbb577edb5d1a561c02b569d78</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/foundation-international/"/>
-        <updated>2026-03-13T18:43:05.248Z</updated>
-        <content type="html"><![CDATA[Foundation Bitcoin Wallets — $300]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primark]]></title>
-        <id>link-a6f405bfbcff59fc990f3dc9973d2a0a</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/primark-czech-republic/"/>
-        <updated>2026-03-13T18:43:05.248Z</updated>
-        <content type="html"><![CDATA[Primark — 150 CZK - 5400 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adidas]]></title>
-        <id>link-e548eaea2f12fbcd46484c091827d3c2</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/adidas-cz/"/>
-        <updated>2026-03-13T18:43:05.248Z</updated>
-        <content type="html"><![CDATA[Adidas — 500 CZK - 1000 CZK]]></content>
     </entry>
 </feed>
