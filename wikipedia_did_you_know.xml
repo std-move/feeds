@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-03-13T18:44:51.887Z</updated>
+    <updated>2026-03-13T20:37:35.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -60,12 +60,5 @@
         <link href="https://en.wikipedia.org/wiki/2021_Pennsylvania_Amendment_3"/>
         <updated>2026-03-13T12:59:48.920Z</updated>
         <content type="html"><![CDATA[... that more than a quarter of Pennsylvania voters opposed <b><a href="/wiki/2021_Pennsylvania_Amendment_3" title="2021 Pennsylvania Amendment 3">a 2021 constitutional amendment</a></b> to prohibit racial and ethnic discrimination?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernard Chen]]></title>
-        <id>link-d906ecef08de25935b1a778ac1e0cfaa</id>
-        <link href="https://en.wikipedia.org/wiki/Bernard_Chen"/>
-        <updated>2026-03-13T12:59:48.920Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Bernard_Chen" title="Bernard Chen">Bernard Chen</a></b>, the general manager of <a href="/wiki/Fraser_and_Neave" title="Fraser and Neave">Fraser and Neave</a>'s soft‑drinks division, was allergic to alcohol?]]></content>
     </entry>
 </feed>
