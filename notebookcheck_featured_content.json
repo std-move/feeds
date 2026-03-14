@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-a2242abe4e00320187fa050c4684af71",
+			"title": "M5 Pro, Wi-Fi 7 & PCIe 5.0 - Apple MacBook Pro 16 Review (Update)",
+			"link": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/3/csm_mbp_16_m5_pro_case_04_22bd5d2a07.jpg\" loading=\"lazy\" alt=\"Apple MacBook Pro 16 2026 Review - M5 Pro makes one of the best multimedia laptops even better\"></picture><div class=\"intro_featured_bar_title\">M5 Pro, Wi-Fi 7 &amp; PCIe 5.0 - Apple MacBook Pro 16 Review (Update)</div>",
+			"retrieved": 1773505961905
+		},
+		{
 			"id": "link-944c856d4454d84be3abf1ba2a041278",
 			"title": "Flagship nightmare: Ecovacs Deebot T90 Pro Omni review",
 			"link": "https://www.notebookcheck.net/Mid-range-robot-vacuum-puts-flagships-to-shame-Ecovacs-Deebot-T90-Pro-Omni-review.1249595.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Why-did-they-make-this-MSI-Claw-A8-review.1248971.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb81-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/f/csm_thumb81_b015f01a28.jpg\" loading=\"lazy\" alt=\"Why did they make this? - MSI Claw A8 review\"></picture><div class=\"intro_featured_bar_title\">▶ Why did they make this? - MSI Claw A8 review</div>",
 			"retrieved": 1773326975510
-		},
-		{
-			"id": "link-74bbc3bea041d7af5fca9049ba50d0fb",
-			"title": "Affordable & good: Mova S70 Roller vacuum robot in test",
-			"link": "https://www.notebookcheck.net/Premium-mopping-technology-in-an-affordable-robot-vacuum-Mova-S70-Roller-review.1248139.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Mova-S70-Roller-Test17-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Mova-S70-Roller-Test17-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Mova-S70-Roller-Test17-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Mova-S70-Roller-Test17-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Mova-S70-Roller-Test17-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Mova-S70-Roller-Test17-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/8/csm_Mova-S70-Roller-Test17_326373ddbc.jpg\" loading=\"lazy\" alt=\"Mova S70 Roller review\"></picture><div class=\"intro_featured_bar_title\">Affordable &amp; good: Mova S70 Roller vacuum robot in test</div>",
-			"retrieved": 1773320477711
 		}
 	]
 }
