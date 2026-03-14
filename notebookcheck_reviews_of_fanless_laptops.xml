@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/Laptop-Search.8223.0.html?&amp;manufacturer=&amp;model=&amp;lang=2&amp;modelSearchAjax_1=&amp;ajax_getgpu_result_gpu=&amp;ajax_getgpu_gpu=0&amp;gpu_manu=&amp;gpu_architecture=&amp;gpu_class=&amp;modelSearchAjax_2=&amp;ajax_getgpu_result_cpu=&amp;ajax_getgpu_cpu=0&amp;cpu_manu=&amp;exclude_cpu_manu=&amp;cpu_generation=&amp;cpu_cores=&amp;inch=&amp;inch_from=&amp;inch_to=&amp;screen_ratio=&amp;screen_resolution_x=&amp;screen_resolution_y=&amp;screen_glossy=&amp;screen_panel_type=&amp;screen_panel=&amp;screen_refresh_rate=&amp;class=-1&amp;rating=66&amp;reviewcount=&amp;dr_workmanship=&amp;dr_display=&amp;dr_emissions=&amp;dr_ergonomy=&amp;dr_performance=&amp;dr_mobility=&amp;dr_temperature=&amp;dr_audio=&amp;dr_camera=&amp;ratingversion=&amp;age=&amp;min_age=&amp;year_from=&amp;year_till=&amp;weight=&amp;size_width=&amp;size_length=&amp;size_depth=&amp;price=&amp;min_price=&amp;min_list_price=&amp;list_price=&amp;ram=&amp;fanless=1&amp;battery_capacity=&amp;battery_capacity_mah=&amp;hdd_size=&amp;hdd_type=&amp;odd_type=&amp;lan_type=&amp;wlan_type=&amp;brightness_center=&amp;de2000_colorchecker=&amp;percent_of_srgb=&amp;percent_of_adobergb=&amp;pwm=&amp;loudness_min=&amp;loudness_cp2077=&amp;loudness_load=&amp;battery_wlan=&amp;os_type=&amp;tag_type=&amp;nbcReviews=1&amp;orderby=0&amp;scatterplot_x=&amp;scatterplot_y=&amp;scatterplot_r=</id>
     <title>Notebookcheck - reviews of fanless laptops</title>
-    <updated>2026-03-14T12:55:08.311Z</updated>
+    <updated>2026-03-14T14:31:24.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[14.03.2026 — 86% — Apple MacBook Neo Review - Surprisingly good and capable laptop for $599 with one big flaw]]></title>
+        <id>link-52084ab6d4c497281083ef39b13ffe3f</id>
+        <link href="https://www.notebookcheck.net/Apple-MacBook-Neo-Review-Surprisingly-good-and-capable-laptop-for-599-with-one-big-flaw.1247679.0.html"/>
+        <updated>2026-03-14T14:29:10.729Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Apple-MacBook-Neo-Review-Surprisingly-good-and-capable-laptop-for-599-with-one-big-flaw.1247679.0.html">Apple MacBook Neo Review - Surprisingly good and capable laptop for $599 with one big flaw</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(360076);">[+] Add to comparison</a></div><br><b>Apple MacBook Neo 256 GB</b>: Apple A18 GPU, Apple A18 Pro, 13.00"  2408x1506, 1.235&nbsp;kg, 699.00&nbsp;Euro]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[08.03.2026 — 92% — Apple MacBook Air 15 M5 Review - Very powerful, fanless and without competition]]></title>
+        <id>link-98c91a22bb3067cf346b3a1de51daa4e</id>
+        <link href="https://www.notebookcheck.net/Apple-MacBook-Air-15-M5-Review-Very-powerful-fanless-and-without-competition.1244905.0.html"/>
+        <updated>2026-03-14T14:29:10.729Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Apple-MacBook-Air-15-M5-Review-Very-powerful-fanless-and-without-competition.1244905.0.html">Apple MacBook Air 15 M5 Review - Very powerful, fanless and without competition</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(359963);">[+] Add to comparison</a></div><br><b>Apple MacBook Air 15 M5</b>: Apple M5 10-Core GPU, Apple M5 10-Core, 15.30"  2880x1864, 1.512&nbsp;kg]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[07.03.2026 — 92% — Insane performance and efficiency without fans - Apple MacBook Air 13 M5 Entry Review]]></title>
+        <id>link-76a61ed9ee8019165fd71ca78891b962</id>
+        <link href="https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html"/>
+        <updated>2026-03-14T14:29:10.729Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html">Insane performance and efficiency without fans - Apple MacBook Air 13 M5 Entry Review</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(359903);">[+] Add to comparison</a></div><br><b>Apple MacBook Air 13 M5</b>: Apple M5 8-Core GPU, Apple M5 10-Core, 13.60"  2560x1664, 1.23&nbsp;kg, 1,199.00&nbsp;Euro]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22.06.2025 — 86% — Finally a silent Snapdragon 2-in-1 - Microsoft Surface Pro 12 review]]></title>
         <id>link-c9e5057edb2d297f62bbbbeaf67d5e56</id>
