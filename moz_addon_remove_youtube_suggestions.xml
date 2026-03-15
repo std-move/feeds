@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-03-15T20:32:28.292Z</updated>
+    <updated>2026-03-15T22:30:34.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.75]]></title>
+        <id>title-eb597c25f8a08763e2520aa532e70470</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-03-15T22:28:53.219Z</updated>
+        <content type="html"><![CDATA[Released Mar 15, 2026 - 352.21 KB — Added an option to hide the "Most relevant" section on the Subscriptions page.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.74]]></title>
         <id>title-6402cfdc8597423bacdb1d6831333403</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released Oct 29, 2023 - 326.98 KB — add a feature for hiding the likes<br>thank you to porobertdev!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.48]]></title>
-        <id>title-73d79e849859ff4b30325f96f72c91a9</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released Oct 28, 2023 - 326.91 KB — Added compatibility for the new skip button]]></content>
     </entry>
 </feed>
