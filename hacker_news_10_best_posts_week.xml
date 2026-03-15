@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-15T12:56:45.562Z</updated>
+    <updated>2026-03-15T14:32:42.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-404cac80cef40e35324d923801772cff</id>
         <link href="https://news.ycombinator.com/item?id=47340079"/>
         <updated>2026-03-11T20:34:30.693Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47340079">4204 points</span> by <a href="user?id=usefulposter" class="hnuser">usefulposter</a> <span class="age" title="2026-03-11T19:29:29 1773257369"><a href="item?id=47340079">3 days ago</a></span> <span id="unv_47340079"></span> | <a href="item?id=47340079">1656&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.ycombinator.com/newsguidelines.html#generated">Don't post generated/AI-edited comments. HN is for conversation between humans</a><span class="sitebit comhead"> (<a href="from?site=news.ycombinator.com"><span class="sitestr">news.ycombinator.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47340079">4204 points</span> by <a href="user?id=usefulposter" class="hnuser">usefulposter</a> <span class="age" title="2026-03-11T19:29:29 1773257369"><a href="item?id=47340079">3 days ago</a></span> <span id="unv_47340079"></span> | <a href="item?id=47340079">1657&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.ycombinator.com/newsguidelines.html#generated">Don't post generated/AI-edited comments. HN is for conversation between humans</a><span class="sitebit comhead"> (<a href="from?site=news.ycombinator.com"><span class="sitestr">news.ycombinator.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shall I implement it? No (gist.github.com)]]></title>
@@ -24,28 +24,28 @@
         <id>link-d545f8e0d261738ce36633daec16f4e9</id>
         <link href="https://news.ycombinator.com/item?id=47363754"/>
         <updated>2026-03-14T02:03:38.793Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47363754">1435 points</span> by <a href="user?id=ricardbejarano" class="hnuser">ricardbejarano</a> <span class="age" title="2026-03-13T12:46:10 1773405970"><a href="item?id=47363754">2 days ago</a></span> <span id="unv_47363754"></span> | <a href="item?id=47363754">343&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.canirun.ai/">Can I run AI locally?</a><span class="sitebit comhead"> (<a href="from?site=canirun.ai"><span class="sitestr">canirun.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47363754">1438 points</span> by <a href="user?id=ricardbejarano" class="hnuser">ricardbejarano</a> <span class="age" title="2026-03-13T12:46:10 1773405970"><a href="item?id=47363754">2 days ago</a></span> <span id="unv_47363754"></span> | <a href="item?id=47363754">343&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.canirun.ai/">Can I run AI locally?</a><span class="sitebit comhead"> (<a href="from?site=canirun.ai"><span class="sitestr">canirun.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Malus – Clean Room as a Service (malus.sh)]]></title>
         <id>link-d5211ca8f94c240dbe6c75239153bfcb</id>
         <link href="https://news.ycombinator.com/item?id=47350424"/>
         <updated>2026-03-12T20:36:28.570Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47350424">1412 points</span> by <a href="user?id=microflash" class="hnuser">microflash</a> <span class="age" title="2026-03-12T13:42:04 1773322924"><a href="item?id=47350424">2 days ago</a></span> <span id="unv_47350424"></span> | <a href="item?id=47350424">522&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://malus.sh">Malus – Clean Room as a Service</a><span class="sitebit comhead"> (<a href="from?site=malus.sh"><span class="sitestr">malus.sh</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47350424">1412 points</span> by <a href="user?id=microflash" class="hnuser">microflash</a> <span class="age" title="2026-03-12T13:42:04 1773322924"><a href="item?id=47350424">3 days ago</a></span> <span id="unv_47350424"></span> | <a href="item?id=47350424">522&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://malus.sh">Malus – Clean Room as a Service</a><span class="sitebit comhead"> (<a href="from?site=malus.sh"><span class="sitestr">malus.sh</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta Platforms: Lobbying, dark money, and the App Store Accountability Act (github.com/upper-up)]]></title>
         <id>link-20c838794323f0584e51cfb9676d267d</id>
         <link href="https://news.ycombinator.com/item?id=47362528"/>
         <updated>2026-03-13T16:40:50.748Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47362528">1265 points</span> by <a href="user?id=shaicoleman" class="hnuser">shaicoleman</a> <span class="age" title="2026-03-13T10:15:56 1773396956"><a href="item?id=47362528">2 days ago</a></span> <span id="unv_47362528"></span> | <a href="item?id=47362528">536&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/upper-up/meta-lobbying-and-other-findings">Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a><span class="sitebit comhead"> (<a href="from?site=github.com/upper-up"><span class="sitestr">github.com/upper-up</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47362528">1266 points</span> by <a href="user?id=shaicoleman" class="hnuser">shaicoleman</a> <span class="age" title="2026-03-13T10:15:56 1773396956"><a href="item?id=47362528">2 days ago</a></span> <span id="unv_47362528"></span> | <a href="item?id=47362528">538&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/upper-up/meta-lobbying-and-other-findings">Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a><span class="sitebit comhead"> (<a href="from?site=github.com/upper-up"><span class="sitestr">github.com/upper-up</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1M context is now generally available for Opus 4.6 and Sonnet 4.6 (claude.com)]]></title>
         <id>link-c46fe4a572015063c53b23d9751460f0</id>
         <link href="https://news.ycombinator.com/item?id=47367129"/>
         <updated>2026-03-14T10:29:03.085Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47367129">1166 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-03-13T17:19:01 1773422341"><a href="item?id=47367129">1 day ago</a></span> <span id="unv_47367129"></span> | <a href="item?id=47367129">496&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/1m-context-ga">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47367129">1171 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-03-13T17:19:01 1773422341"><a href="item?id=47367129">1 day ago</a></span> <span id="unv_47367129"></span> | <a href="item?id=47367129">497&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/1m-context-ga">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“This is not the computer for you” (samhenri.gold)]]></title>
@@ -66,13 +66,13 @@
         <id>link-57e2508493d7b93597ac49893d84d496</id>
         <link href="https://news.ycombinator.com/item?id=47356968"/>
         <updated>2026-03-14T05:11:06.597Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47356968">748 points</span> by <a href="user?id=rectang" class="hnuser">rectang</a> <span class="age" title="2026-03-12T20:55:51 1773348951"><a href="item?id=47356968">2 days ago</a></span> <span id="unv_47356968"></span> | <a href="item?id=47356968">384&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case">Innocent woman jailed after being misidentified using AI facial recognition</a><span class="sitebit comhead"> (<a href="from?site=grandforksherald.com"><span class="sitestr">grandforksherald.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47356968">749 points</span> by <a href="user?id=rectang" class="hnuser">rectang</a> <span class="age" title="2026-03-12T20:55:51 1773348951"><a href="item?id=47356968">2 days ago</a></span> <span id="unv_47356968"></span> | <a href="item?id=47356968">384&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case">Innocent woman jailed after being misidentified using AI facial recognition</a><span class="sitebit comhead"> (<a href="from?site=grandforksherald.com"><span class="sitestr">grandforksherald.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create value for others and don’t worry about the returns (geohot.github.io)]]></title>
-        <id>link-009c2304bc42f324bbfd78c24840cd8c</id>
-        <link href="https://news.ycombinator.com/item?id=47332074"/>
-        <updated>2026-03-15T05:28:04.507Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47332074">713 points</span> by <a href="user?id=ppew" class="hnuser">ppew</a> <span class="age" title="2026-03-11T05:45:49 1773207949"><a href="item?id=47332074">4 days ago</a></span> <span id="unv_47332074"></span> | <a href="item?id=47332074">455&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html">Create value for others and don’t worry about the returns</a><span class="sitebit comhead"> (<a href="from?site=geohot.github.io"><span class="sitestr">geohot.github.io</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[Ageless Linux – Software for humans of indeterminate age (agelesslinux.org)]]></title>
+        <id>link-adc0e40284ad5c0049d0a14e5aa0624f</id>
+        <link href="https://news.ycombinator.com/item?id=47381791"/>
+        <updated>2026-03-15T14:30:45.877Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47381791">716 points</span> by <a href="user?id=nateb2022" class="hnuser">nateb2022</a> <span class="age" title="2026-03-14T22:10:26 1773526226"><a href="item?id=47381791">16 hours ago</a></span> <span id="unv_47381791"></span> | <a href="item?id=47381791">468&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://agelesslinux.org/">Ageless Linux – Software for humans of indeterminate age</a><span class="sitebit comhead"> (<a href="from?site=agelesslinux.org"><span class="sitestr">agelesslinux.org</span></a>)</span></span>]]></content>
     </entry>
 </feed>
