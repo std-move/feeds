@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-03-15T08:39:32.608Z</updated>
+    <updated>2026-03-15T10:32:58.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,14 +17,14 @@
         <id>link-d35cc82c5922b9cf77c5c204d5a4a15f</id>
         <link href="https://news.ycombinator.com/item?id=47357042"/>
         <updated>2026-03-13T02:05:56.978Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47357042">1543 points</span> by <a href="user?id=breton" class="hnuser">breton</a> <span class="age" title="2026-03-12T21:01:10 1773349270"><a href="item?id=47357042">2 days ago</a></span> <span id="unv_47357042"></span> | <a href="item?id=47357042">558&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0">Shall I implement it? No</a><span class="sitebit comhead"> (<a href="from?site=gist.github.com"><span class="sitestr">gist.github.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47357042">1543 points</span> by <a href="user?id=breton" class="hnuser">breton</a> <span class="age" title="2026-03-12T21:01:10 1773349270"><a href="item?id=47357042">2 days ago</a></span> <span id="unv_47357042"></span> | <a href="item?id=47357042">559&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0">Shall I implement it? No</a><span class="sitebit comhead"> (<a href="from?site=gist.github.com"><span class="sitestr">gist.github.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Can I run AI locally? (canirun.ai)]]></title>
         <id>link-d545f8e0d261738ce36633daec16f4e9</id>
         <link href="https://news.ycombinator.com/item?id=47363754"/>
         <updated>2026-03-13T20:35:41.441Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47363754">1422 points</span> by <a href="user?id=ricardbejarano" class="hnuser">ricardbejarano</a> <span class="age" title="2026-03-13T12:46:10 1773405970"><a href="item?id=47363754">1 day ago</a></span> <span id="unv_47363754"></span> | <a href="item?id=47363754">343&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.canirun.ai/">Can I run AI locally?</a><span class="sitebit comhead"> (<a href="from?site=canirun.ai"><span class="sitestr">canirun.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47363754">1428 points</span> by <a href="user?id=ricardbejarano" class="hnuser">ricardbejarano</a> <span class="age" title="2026-03-13T12:46:10 1773405970"><a href="item?id=47363754">1 day ago</a></span> <span id="unv_47363754"></span> | <a href="item?id=47363754">343&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.canirun.ai/">Can I run AI locally?</a><span class="sitebit comhead"> (<a href="from?site=canirun.ai"><span class="sitestr">canirun.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Malus – Clean Room as a Service (malus.sh)]]></title>
@@ -38,14 +38,14 @@
         <id>link-20c838794323f0584e51cfb9676d267d</id>
         <link href="https://news.ycombinator.com/item?id=47362528"/>
         <updated>2026-03-13T14:41:54.636Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47362528">1264 points</span> by <a href="user?id=shaicoleman" class="hnuser">shaicoleman</a> <span class="age" title="2026-03-13T10:15:56 1773396956"><a href="item?id=47362528">1 day ago</a></span> <span id="unv_47362528"></span> | <a href="item?id=47362528">535&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/upper-up/meta-lobbying-and-other-findings">Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a><span class="sitebit comhead"> (<a href="from?site=github.com/upper-up"><span class="sitestr">github.com/upper-up</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47362528">1265 points</span> by <a href="user?id=shaicoleman" class="hnuser">shaicoleman</a> <span class="age" title="2026-03-13T10:15:56 1773396956"><a href="item?id=47362528">2 days ago</a></span> <span id="unv_47362528"></span> | <a href="item?id=47362528">535&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/upper-up/meta-lobbying-and-other-findings">Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a><span class="sitebit comhead"> (<a href="from?site=github.com/upper-up"><span class="sitestr">github.com/upper-up</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1M context is now generally available for Opus 4.6 and Sonnet 4.6 (claude.com)]]></title>
         <id>link-c46fe4a572015063c53b23d9751460f0</id>
         <link href="https://news.ycombinator.com/item?id=47367129"/>
         <updated>2026-03-14T05:11:06.597Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47367129">1154 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-03-13T17:19:01 1773422341"><a href="item?id=47367129">1 day ago</a></span> <span id="unv_47367129"></span> | <a href="item?id=47367129">488&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/1m-context-ga">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47367129">1156 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-03-13T17:19:01 1773422341"><a href="item?id=47367129">1 day ago</a></span> <span id="unv_47367129"></span> | <a href="item?id=47367129">492&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/1m-context-ga">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“This is not the computer for you” (samhenri.gold)]]></title>
@@ -66,7 +66,7 @@
         <id>link-57e2508493d7b93597ac49893d84d496</id>
         <link href="https://news.ycombinator.com/item?id=47356968"/>
         <updated>2026-03-13T05:13:27.469Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47356968">745 points</span> by <a href="user?id=rectang" class="hnuser">rectang</a> <span class="age" title="2026-03-12T20:55:51 1773348951"><a href="item?id=47356968">2 days ago</a></span> <span id="unv_47356968"></span> | <a href="item?id=47356968">384&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case">Innocent woman jailed after being misidentified using AI facial recognition</a><span class="sitebit comhead"> (<a href="from?site=grandforksherald.com"><span class="sitestr">grandforksherald.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47356968">746 points</span> by <a href="user?id=rectang" class="hnuser">rectang</a> <span class="age" title="2026-03-12T20:55:51 1773348951"><a href="item?id=47356968">2 days ago</a></span> <span id="unv_47356968"></span> | <a href="item?id=47356968">384&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case">Innocent woman jailed after being misidentified using AI facial recognition</a><span class="sitebit comhead"> (<a href="from?site=grandforksherald.com"><span class="sitestr">grandforksherald.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Create value for others and don’t worry about the returns (geohot.github.io)]]></title>
@@ -80,7 +80,7 @@
         <id>link-12d1a7d7212d5878b596c790dd18f09f</id>
         <link href="https://news.ycombinator.com/item?id=47363584"/>
         <updated>2026-03-14T05:11:06.597Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47363584">677 points</span> by <a href="user?id=johnbarron" class="hnuser">johnbarron</a> <span class="age" title="2026-03-13T12:31:09 1773405069"><a href="item?id=47363584">1 day ago</a></span> <span id="unv_47363584"></span> | <a href="item?id=47363584">609&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock">Qatar helium shutdown puts chip supply chain on a two-week clock</a><span class="sitebit comhead"> (<a href="from?site=tomshardware.com"><span class="sitestr">tomshardware.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47363584">677 points</span> by <a href="user?id=johnbarron" class="hnuser">johnbarron</a> <span class="age" title="2026-03-13T12:31:09 1773405069"><a href="item?id=47363584">1 day ago</a></span> <span id="unv_47363584"></span> | <a href="item?id=47363584">612&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock">Qatar helium shutdown puts chip supply chain on a two-week clock</a><span class="sitebit comhead"> (<a href="from?site=tomshardware.com"><span class="sitestr">tomshardware.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Making WebAssembly a first-class language on the Web (hacks.mozilla.org)]]></title>
@@ -94,35 +94,35 @@
         <id>link-cc4c8fe472dfa165588d83211293cbe6</id>
         <link href="https://news.ycombinator.com/item?id=47334293"/>
         <updated>2026-03-12T06:56:49.654Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47334293">636 points</span> by <a href="user?id=etothet" class="hnuser">etothet</a> <span class="age" title="2026-03-11T11:37:24 1773229044"><a href="item?id=47334293">3 days ago</a></span> <span id="unv_47334293"></span> | <a href="item?id=47334293">1046&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://daringfireball.net/2026/03/the_macbook_neo">The MacBook Neo</a><span class="sitebit comhead"> (<a href="from?site=daringfireball.net"><span class="sitestr">daringfireball.net</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TUI Studio – visual terminal UI design tool (tui.studio)]]></title>
-        <id>link-17d150ec9718d7a7215fd091f8a5a655</id>
-        <link href="https://news.ycombinator.com/item?id=47362613"/>
-        <updated>2026-03-13T22:28:40.490Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47362613">624 points</span> by <a href="user?id=mipselaer" class="hnuser">mipselaer</a> <span class="age" title="2026-03-13T10:32:45 1773397965"><a href="item?id=47362613">1 day ago</a></span> <span id="unv_47362613"></span> | <a href="item?id=47362613">286&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tui.studio/">TUI Studio – visual terminal UI design tool</a><span class="sitebit comhead"> (<a href="from?site=tui.studio"><span class="sitestr">tui.studio</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whistleblower claims ex-DOGE member says he took Social Security data to new job (washingtonpost.com)]]></title>
-        <id>link-2b98b4cc3ddf6d037f1be2430dcbe287</id>
-        <link href="https://news.ycombinator.com/item?id=47335572"/>
-        <updated>2026-03-11T16:53:30.956Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47335572">621 points</span> by <a href="user?id=raldi" class="hnuser">raldi</a> <span class="age" title="2026-03-11T13:52:01 1773237121"><a href="item?id=47335572">3 days ago</a></span> <span id="unv_47335572"></span> | <a href="item?id=47335572">276&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/">Whistleblower claims ex-DOGE member says he took Social Security data to new job</a><span class="sitebit comhead"> (<a href="from?site=washingtonpost.com"><span class="sitestr">washingtonpost.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47334293">636 points</span> by <a href="user?id=etothet" class="hnuser">etothet</a> <span class="age" title="2026-03-11T11:37:24 1773229044"><a href="item?id=47334293">3 days ago</a></span> <span id="unv_47334293"></span> | <a href="item?id=47334293">1047&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://daringfireball.net/2026/03/the_macbook_neo">The MacBook Neo</a><span class="sitebit comhead"> (<a href="from?site=daringfireball.net"><span class="sitestr">daringfireball.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ageless Linux – Software for humans of indeterminate age (agelesslinux.org)]]></title>
         <id>link-adc0e40284ad5c0049d0a14e5aa0624f</id>
         <link href="https://news.ycombinator.com/item?id=47381791"/>
         <updated>2026-03-15T05:28:04.507Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47381791">584 points</span> by <a href="user?id=nateb2022" class="hnuser">nateb2022</a> <span class="age" title="2026-03-14T22:10:26 1773526226"><a href="item?id=47381791">10 hours ago</a></span> <span id="unv_47381791"></span> | <a href="item?id=47381791">376&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://agelesslinux.org/">Ageless Linux – Software for humans of indeterminate age</a><span class="sitebit comhead"> (<a href="from?site=agelesslinux.org"><span class="sitestr">agelesslinux.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47381791">630 points</span> by <a href="user?id=nateb2022" class="hnuser">nateb2022</a> <span class="age" title="2026-03-14T22:10:26 1773526226"><a href="item?id=47381791">12 hours ago</a></span> <span id="unv_47381791"></span> | <a href="item?id=47381791">401&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://agelesslinux.org/">Ageless Linux – Software for humans of indeterminate age</a><span class="sitebit comhead"> (<a href="from?site=agelesslinux.org"><span class="sitestr">agelesslinux.org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUI Studio – visual terminal UI design tool (tui.studio)]]></title>
+        <id>link-17d150ec9718d7a7215fd091f8a5a655</id>
+        <link href="https://news.ycombinator.com/item?id=47362613"/>
+        <updated>2026-03-13T22:28:40.490Z</updated>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47362613">625 points</span> by <a href="user?id=mipselaer" class="hnuser">mipselaer</a> <span class="age" title="2026-03-13T10:32:45 1773397965"><a href="item?id=47362613">1 day ago</a></span> <span id="unv_47362613"></span> | <a href="item?id=47362613">287&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tui.studio/">TUI Studio – visual terminal UI design tool</a><span class="sitebit comhead"> (<a href="from?site=tui.studio"><span class="sitestr">tui.studio</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whistleblower claims ex-DOGE member says he took Social Security data to new job (washingtonpost.com)]]></title>
+        <id>link-2b98b4cc3ddf6d037f1be2430dcbe287</id>
+        <link href="https://news.ycombinator.com/item?id=47335572"/>
+        <updated>2026-03-11T16:53:30.956Z</updated>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47335572">621 points</span> by <a href="user?id=raldi" class="hnuser">raldi</a> <span class="age" title="2026-03-11T13:52:01 1773237121"><a href="item?id=47335572">3 days ago</a></span> <span id="unv_47335572"></span> | <a href="item?id=47335572">276&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/">Whistleblower claims ex-DOGE member says he took Social Security data to new job</a><span class="sitebit comhead"> (<a href="from?site=washingtonpost.com"><span class="sitestr">washingtonpost.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Channel Surfer – Watch YouTube like it’s cable TV (channelsurfer.tv)]]></title>
         <id>link-93c38c47832ca3a7f72fe9f8bec89dfc</id>
         <link href="https://news.ycombinator.com/item?id=47336100"/>
         <updated>2026-03-14T05:11:06.597Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47336100">583 points</span> by <a href="user?id=kilroy123" class="hnuser">kilroy123</a> <span class="age" title="2026-03-11T14:34:57 1773239697"><a href="item?id=47336100">1 day ago</a></span> <span id="unv_47336100"></span> | <a href="item?id=47336100">170&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://channelsurfer.tv">Show HN: Channel Surfer – Watch YouTube like it’s cable TV</a><span class="sitebit comhead"> (<a href="from?site=channelsurfer.tv"><span class="sitestr">channelsurfer.tv</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47336100">584 points</span> by <a href="user?id=kilroy123" class="hnuser">kilroy123</a> <span class="age" title="2026-03-11T14:34:57 1773239697"><a href="item?id=47336100">1 day ago</a></span> <span id="unv_47336100"></span> | <a href="item?id=47336100">170&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://channelsurfer.tv">Show HN: Channel Surfer – Watch YouTube like it’s cable TV</a><span class="sitebit comhead"> (<a href="from?site=channelsurfer.tv"><span class="sitestr">channelsurfer.tv</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vite 8.0 Is Out (vite.dev)]]></title>
@@ -136,28 +136,28 @@
         <id>link-36a06193de43a13da27bca6bd1ed3788</id>
         <link href="https://news.ycombinator.com/item?id=47366374"/>
         <updated>2026-03-14T06:47:39.255Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47366374">541 points</span> by <a href="user?id=cf100clunk" class="hnuser">cf100clunk</a> <span class="age" title="2026-03-13T16:13:30 1773418410"><a href="item?id=47366374">1 day ago</a></span> <span id="unv_47366374"></span> | <a href="item?id=47366374">162&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/">The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing</a><span class="sitebit comhead"> (<a href="from?site=techdirt.com"><span class="sitestr">techdirt.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47366374">543 points</span> by <a href="user?id=cf100clunk" class="hnuser">cf100clunk</a> <span class="age" title="2026-03-13T16:13:30 1773418410"><a href="item?id=47366374">1 day ago</a></span> <span id="unv_47366374"></span> | <a href="item?id=47366374">162&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/">The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing</a><span class="sitebit comhead"> (<a href="from?site=techdirt.com"><span class="sitestr">techdirt.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ATMs didn’t kill bank teller jobs, but the iPhone did (davidoks.blog)]]></title>
         <id>link-c8ce1e661948aad6f101fbb43332927d</id>
         <link href="https://news.ycombinator.com/item?id=47351371"/>
         <updated>2026-03-14T02:03:38.793Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47351371">524 points</span> by <a href="user?id=colinprince" class="hnuser">colinprince</a> <span class="age" title="2026-03-12T14:48:57 1773326937"><a href="item?id=47351371">2 days ago</a></span> <span id="unv_47351371"></span> | <a href="item?id=47351371">566&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller">ATMs didn’t kill bank teller jobs, but the iPhone did</a><span class="sitebit comhead"> (<a href="from?site=davidoks.blog"><span class="sitestr">davidoks.blog</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47351371">524 points</span> by <a href="user?id=colinprince" class="hnuser">colinprince</a> <span class="age" title="2026-03-12T14:48:57 1773326937"><a href="item?id=47351371">2 days ago</a></span> <span id="unv_47351371"></span> | <a href="item?id=47351371">568&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller">ATMs didn’t kill bank teller jobs, but the iPhone did</a><span class="sitebit comhead"> (<a href="from?site=davidoks.blog"><span class="sitestr">davidoks.blog</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk pushes out more xAI founders as AI coding effort falters (ft.com)]]></title>
         <id>link-0bb46a3030cba9ab95cfd18a43928d7f</id>
         <link href="https://news.ycombinator.com/item?id=47366666"/>
         <updated>2026-03-14T10:29:03.085Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47366666">502 points</span> by <a href="user?id=merksittich" class="hnuser">merksittich</a> <span class="age" title="2026-03-13T16:40:42 1773420042"><a href="item?id=47366666">1 day ago</a></span> <span id="unv_47366666"></span> | <a href="item?id=47366666">793&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5">Elon Musk pushes out more xAI founders as AI coding effort falters</a><span class="sitebit comhead"> (<a href="from?site=ft.com"><span class="sitestr">ft.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47366666">504 points</span> by <a href="user?id=merksittich" class="hnuser">merksittich</a> <span class="age" title="2026-03-13T16:40:42 1773420042"><a href="item?id=47366666">1 day ago</a></span> <span id="unv_47366666"></span> | <a href="item?id=47366666">795&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5">Elon Musk pushes out more xAI founders as AI coding effort falters</a><span class="sitebit comhead"> (<a href="from?site=ft.com"><span class="sitestr">ft.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How we hacked McKinsey's AI platform (codewall.ai)]]></title>
         <id>link-3abf133c51474f3587b58ebe89d8bad4</id>
         <link href="https://news.ycombinator.com/item?id=47333627"/>
         <updated>2026-03-14T05:11:06.597Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47333627">500 points</span> by <a href="user?id=mycroft_4221" class="hnuser">mycroft_4221</a> <span class="age" title="2026-03-11T09:59:03 1773223143"><a href="item?id=47333627">3 days ago</a></span> <span id="unv_47333627"></span> | <a href="item?id=47333627">195&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform">How we hacked McKinsey's AI platform</a><span class="sitebit comhead"> (<a href="from?site=codewall.ai"><span class="sitestr">codewall.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47333627">500 points</span> by <a href="user?id=mycroft_4221" class="hnuser">mycroft_4221</a> <span class="age" title="2026-03-11T09:59:03 1773223143"><a href="item?id=47333627">4 days ago</a></span> <span id="unv_47333627"></span> | <a href="item?id=47333627">195&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform">How we hacked McKinsey's AI platform</a><span class="sitebit comhead"> (<a href="from?site=codewall.ai"><span class="sitestr">codewall.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare crawl endpoint (cloudflare.com)]]></title>
@@ -171,7 +171,7 @@
         <id>link-d75faaa5ad715c98cc2a06fdec4b4c22</id>
         <link href="https://news.ycombinator.com/item?id=47349806"/>
         <updated>2026-03-15T05:28:04.507Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47349806">429 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-12T12:44:45 1773319485"><a href="item?id=47349806">2 days ago</a></span> <span id="unv_47349806"></span> | <a href="item?id=47349806">456&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d">US private credit defaults hit record 9.2% in 2025, Fitch says</a><span class="sitebit comhead"> (<a href="from?site=marketscreener.com"><span class="sitestr">marketscreener.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47349806">429 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-12T12:44:45 1773319485"><a href="item?id=47349806">2 days ago</a></span> <span id="unv_47349806"></span> | <a href="item?id=47349806">457&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d">US private credit defaults hit record 9.2% in 2025, Fitch says</a><span class="sitebit comhead"> (<a href="from?site=marketscreener.com"><span class="sitestr">marketscreener.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Agents that run while I sleep (claudecodecamp.com)]]></title>
@@ -185,28 +185,28 @@
         <id>link-f455e85dc20eb18bdb42e4e86290415b</id>
         <link href="https://news.ycombinator.com/item?id=47368033"/>
         <updated>2026-03-15T05:28:04.507Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47368033">419 points</span> by <a href="user?id=avionics-guy" class="hnuser">avionics-guy</a> <span class="age" title="2026-03-13T18:42:54 1773427374"><a href="item?id=47368033">1 day ago</a></span> <span id="unv_47368033"></span> | <a href="item?id=47368033">138&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/TomBadash/MouseControl">Mouser: An open source alternative to Logi-Plus mouse software</a><span class="sitebit comhead"> (<a href="from?site=github.com/tombadash"><span class="sitestr">github.com/tombadash</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I was interviewed by an AI bot for a job (theverge.com)]]></title>
-        <id>link-cdf24fe3583e82fe3241881317fb6453</id>
-        <link href="https://news.ycombinator.com/item?id=47339164"/>
-        <updated>2026-03-15T05:28:04.507Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47339164">419 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-11T18:17:30 1773253050"><a href="item?id=47339164">3 days ago</a></span> <span id="unv_47339164"></span> | <a href="item?id=47339164">460&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job">I was interviewed by an AI bot for a job</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47368033">423 points</span> by <a href="user?id=avionics-guy" class="hnuser">avionics-guy</a> <span class="age" title="2026-03-13T18:42:54 1773427374"><a href="item?id=47368033">1 day ago</a></span> <span id="unv_47368033"></span> | <a href="item?id=47368033">140&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/TomBadash/MouseControl">Mouser: An open source alternative to Logi-Plus mouse software</a><span class="sitebit comhead"> (<a href="from?site=github.com/tombadash"><span class="sitestr">github.com/tombadash</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wired headphone sales are exploding (bbc.com)]]></title>
         <id>link-8b219f6f19cfeeb0b4cb2c12e47d5ad7</id>
         <link href="https://news.ycombinator.com/item?id=47340203"/>
         <updated>2026-03-15T06:58:07.869Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47340203">416 points</span> by <a href="user?id=billybuckwheat" class="hnuser">billybuckwheat</a> <span class="age" title="2026-03-11T19:37:46 1773257866"><a href="item?id=47340203">1 day ago</a></span> <span id="unv_47340203"></span> | <a href="item?id=47340203">693&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth">Wired headphone sales are exploding</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47340203">419 points</span> by <a href="user?id=billybuckwheat" class="hnuser">billybuckwheat</a> <span class="age" title="2026-03-11T19:37:46 1773257866"><a href="item?id=47340203">1 day ago</a></span> <span id="unv_47340203"></span> | <a href="item?id=47340203">699&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth">Wired headphone sales are exploding</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was interviewed by an AI bot for a job (theverge.com)]]></title>
+        <id>link-cdf24fe3583e82fe3241881317fb6453</id>
+        <link href="https://news.ycombinator.com/item?id=47339164"/>
+        <updated>2026-03-15T05:28:04.507Z</updated>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47339164">419 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-11T18:17:30 1773253050"><a href="item?id=47339164">3 days ago</a></span> <span id="unv_47339164"></span> | <a href="item?id=47339164">460&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job">I was interviewed by an AI bot for a job</a><span class="sitebit comhead"> (<a href="from?site=theverge.com"><span class="sitestr">theverge.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war (fortune.com)]]></title>
         <id>link-203970506e85319c895306ba5b5f334f</id>
         <link href="https://news.ycombinator.com/item?id=47352215"/>
         <updated>2026-03-15T05:28:04.507Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47352215">414 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-12T15:30:37 1773329437"><a href="item?id=47352215">2 days ago</a></span> <span id="unv_47352215"></span> | <a href="item?id=47352215">350&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/">Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war</a><span class="sitebit comhead"> (<a href="from?site=fortune.com"><span class="sitestr">fortune.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47352215">414 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-12T15:30:37 1773329437"><a href="item?id=47352215">2 days ago</a></span> <span id="unv_47352215"></span> | <a href="item?id=47352215">351&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/">Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war</a><span class="sitebit comhead"> (<a href="from?site=fortune.com"><span class="sitestr">fortune.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The dead Internet is not a theory anymore (adriankrebs.ch)]]></title>
