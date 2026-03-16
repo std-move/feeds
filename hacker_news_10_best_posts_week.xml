@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-16T07:20:26.516Z</updated>
+    <updated>2026-03-16T08:59:30.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>link-d545f8e0d261738ce36633daec16f4e9</id>
         <link href="https://news.ycombinator.com/item?id=47363754"/>
         <updated>2026-03-14T02:03:38.793Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47363754">1467 points</span> by <a href="user?id=ricardbejarano" class="hnuser">ricardbejarano</a> <span class="age" title="2026-03-13T12:46:10 1773405970"><a href="item?id=47363754">2 days ago</a></span> <span id="unv_47363754"></span> | <a href="item?id=47363754">346&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.canirun.ai/">Can I run AI locally?</a><span class="sitebit comhead"> (<a href="from?site=canirun.ai"><span class="sitestr">canirun.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47363754">1469 points</span> by <a href="user?id=ricardbejarano" class="hnuser">ricardbejarano</a> <span class="age" title="2026-03-13T12:46:10 1773405970"><a href="item?id=47363754">2 days ago</a></span> <span id="unv_47363754"></span> | <a href="item?id=47363754">346&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.canirun.ai/">Can I run AI locally?</a><span class="sitebit comhead"> (<a href="from?site=canirun.ai"><span class="sitestr">canirun.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Malus – Clean Room as a Service (malus.sh)]]></title>
@@ -38,28 +38,28 @@
         <id>link-20c838794323f0584e51cfb9676d267d</id>
         <link href="https://news.ycombinator.com/item?id=47362528"/>
         <updated>2026-03-13T16:40:50.748Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47362528">1271 points</span> by <a href="user?id=shaicoleman" class="hnuser">shaicoleman</a> <span class="age" title="2026-03-13T10:15:56 1773396956"><a href="item?id=47362528">2 days ago</a></span> <span id="unv_47362528"></span> | <a href="item?id=47362528">543&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/upper-up/meta-lobbying-and-other-findings">Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a><span class="sitebit comhead"> (<a href="from?site=github.com/upper-up"><span class="sitestr">github.com/upper-up</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47362528">1273 points</span> by <a href="user?id=shaicoleman" class="hnuser">shaicoleman</a> <span class="age" title="2026-03-13T10:15:56 1773396956"><a href="item?id=47362528">2 days ago</a></span> <span id="unv_47362528"></span> | <a href="item?id=47362528">543&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/upper-up/meta-lobbying-and-other-findings">Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a><span class="sitebit comhead"> (<a href="from?site=github.com/upper-up"><span class="sitestr">github.com/upper-up</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1M context is now generally available for Opus 4.6 and Sonnet 4.6 (claude.com)]]></title>
         <id>link-c46fe4a572015063c53b23d9751460f0</id>
         <link href="https://news.ycombinator.com/item?id=47367129"/>
         <updated>2026-03-14T10:29:03.085Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47367129">1190 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-03-13T17:19:01 1773422341"><a href="item?id=47367129">2 days ago</a></span> <span id="unv_47367129"></span> | <a href="item?id=47367129">509&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/1m-context-ga">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47367129">1192 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-03-13T17:19:01 1773422341"><a href="item?id=47367129">2 days ago</a></span> <span id="unv_47367129"></span> | <a href="item?id=47367129">511&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://claude.com/blog/1m-context-ga">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“This is not the computer for you” (samhenri.gold)]]></title>
         <id>link-59a06f64c8858aca739076889b3f358d</id>
         <link href="https://news.ycombinator.com/item?id=47359744"/>
         <updated>2026-03-13T16:40:50.748Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47359744">994 points</span> by <a href="user?id=MBCook" class="hnuser">MBCook</a> <span class="age" title="2026-03-13T01:45:49 1773366349"><a href="item?id=47359744">3 days ago</a></span> <span id="unv_47359744"></span> | <a href="item?id=47359744">376&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/">“This is not the computer for you”</a><span class="sitebit comhead"> (<a href="from?site=samhenri.gold"><span class="sitestr">samhenri.gold</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47359744">994 points</span> by <a href="user?id=MBCook" class="hnuser">MBCook</a> <span class="age" title="2026-03-13T01:45:49 1773366349"><a href="item?id=47359744">3 days ago</a></span> <span id="unv_47359744"></span> | <a href="item?id=47359744">377&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/">“This is not the computer for you”</a><span class="sitebit comhead"> (<a href="from?site=samhenri.gold"><span class="sitestr">samhenri.gold</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ageless Linux – Software for humans of indeterminate age (agelesslinux.org)]]></title>
         <id>link-adc0e40284ad5c0049d0a14e5aa0624f</id>
         <link href="https://news.ycombinator.com/item?id=47381791"/>
         <updated>2026-03-15T14:30:45.877Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47381791">807 points</span> by <a href="user?id=nateb2022" class="hnuser">nateb2022</a> <span class="age" title="2026-03-14T22:10:26 1773526226"><a href="item?id=47381791">1 day ago</a></span> <span id="unv_47381791"></span> | <a href="item?id=47381791">600&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://agelesslinux.org/">Ageless Linux – Software for humans of indeterminate age</a><span class="sitebit comhead"> (<a href="from?site=agelesslinux.org"><span class="sitestr">agelesslinux.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47381791">811 points</span> by <a href="user?id=nateb2022" class="hnuser">nateb2022</a> <span class="age" title="2026-03-14T22:10:26 1773526226"><a href="item?id=47381791">1 day ago</a></span> <span id="unv_47381791"></span> | <a href="item?id=47381791">602&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://agelesslinux.org/">Ageless Linux – Software for humans of indeterminate age</a><span class="sitebit comhead"> (<a href="from?site=agelesslinux.org"><span class="sitestr">agelesslinux.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Temporal: The 9-year journey to fix time in JavaScript (bloomberg.github.io)]]></title>
