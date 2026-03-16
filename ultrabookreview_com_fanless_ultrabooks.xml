@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ultrabookreview.com/6520-fanless-ultrabooks/</id>
     <title>ultrabookreview - fanless ultrabooks</title>
-    <updated>2026-03-16T10:55:41.079Z</updated>
+    <updated>2026-03-16T13:15:46.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ultrabookreview.com/6520-fanless-ultrabooks/favicon.ico</icon>
     <entry>
@@ -27,27 +27,40 @@
         <title type="html"><![CDATA[Apple MacBook Air 13 — MacOS, clamshell
 2022 – M2 variant
 2023 – M2 variant
-2024 – M4 variant]]></title>
-        <id>title-820b238b22d8b98ce21b674aabc30b59</id>
+2024 – M4 variant
+2026 – M5 variant]]></title>
+        <id>title-df1befec93ba96ede76f9c1efa364c24</id>
         <link href="https://www.ultrabookreview.com/6520-fanless-ultrabooks/?link_extraction_failed=true"/>
-        <updated>2026-01-25T16:29:27.903Z</updated>
+        <updated>2026-03-16T13:13:47.711Z</updated>
         <content type="html"><![CDATA[<a href="https://amzn.to/3dWuYcA" target="_blank" rel="noopener"><strong>Apple MacBook Air 13</strong></a> — MacOS, clamshell<br>
 2022 – M2 variant<br>
 2023 – M2 variant<br>
-2024 – M4 variant — 13.6″ IPS retina — Apple M2 to M4, 52.6 Wh — 1.24 kg / 2.7 lbs — $999]]></content>
+2024 – M4 variant<br>
+2026 – M5 variant — 13.6″ IPS retina — Apple M2 to M5, 52.6 Wh — 1.24 kg / 2.7 lbs — $999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple MacBook Air 15 — MacOS, clamshell
 2022 – M2 variant
 2023 – M3 variant
-2024 – M4 variant]]></title>
-        <id>title-26f23f30b35291b84fde6e5d700cf6f0</id>
+2024 – M4 variant
+2026 – M5 variant]]></title>
+        <id>title-eda6b232c0b3f21c19b1c802f5acdbee</id>
         <link href="https://www.ultrabookreview.com/6520-fanless-ultrabooks/?link_extraction_failed=true"/>
-        <updated>2026-01-25T16:29:27.903Z</updated>
+        <updated>2026-03-16T13:13:47.711Z</updated>
         <content type="html"><![CDATA[<a href="https://amzn.to/3rcEIW3" target="_blank" rel="noopener"><strong>Apple MacBook Air 15</strong></a> — MacOS, clamshell<br>
 2022 – M2 variant<br>
 2023 – M3 variant<br>
-2024 – M4 variant — 15.3″ IPS retina — Apple M2 to M4, 66.5 Wh — 1.5 kg / 3.3 lbs — $1199]]></content>
+2024 – M4 variant<br>
+2026 – M5 variant — 15.3″ IPS retina — Apple M2 to M4, 66.5 Wh — 1.5 kg / 3.3 lbs — $1199]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple MacBook Neo — MacOS, clamshell
+2026]]></title>
+        <id>title-8abf4476fcee47f835082395f6aed750</id>
+        <link href="https://www.ultrabookreview.com/6520-fanless-ultrabooks/?link_extraction_failed=true"/>
+        <updated>2026-03-16T13:13:47.711Z</updated>
+        <content type="html"><![CDATA[<a href="https://amzn.to/4bwYUFR" target="_blank" rel="noopener"><strong>Apple MacBook Neo</strong></a> — MacOS, clamshell<br>
+2026 — 13″ IPS retina — Apple A18 Pro, 36.5 Wh — 1.24 kg / 2.7 lbs — $599]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Asus Chromebook Flip C434 — Chromebook, convertible
