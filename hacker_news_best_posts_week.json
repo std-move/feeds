@@ -4,87 +4,87 @@
 	"favicon": "https://news.ycombinator.com/y18.svg",
 	"elements": [
 		{
-			"id": "link-404cac80cef40e35324d923801772cff",
-			"title": "Don't post generated/AI-edited comments. HN is for conversation between humans (news.ycombinator.com)",
-			"link": "https://news.ycombinator.com/item?id=47340079",
-			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47340079\">4218 points</span> by <a href=\"user?id=usefulposter\" class=\"hnuser\">usefulposter</a> <span class=\"age\" title=\"2026-03-11T19:29:29 1773257369\"><a href=\"item?id=47340079\">4 days ago</a></span> <span id=\"unv_47340079\"></span> | <a href=\"item?id=47340079\">1657&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://news.ycombinator.com/newsguidelines.html#generated\">Don't post generated/AI-edited comments. HN is for conversation between humans</a><span class=\"sitebit comhead\"> (<a href=\"from?site=news.ycombinator.com\"><span class=\"sitestr\">news.ycombinator.com</span></a>)</span></span>",
-			"retrieved": 1773261270693
-		},
-		{
 			"id": "link-d35cc82c5922b9cf77c5c204d5a4a15f",
 			"title": "Shall I implement it? No (gist.github.com)",
 			"link": "https://news.ycombinator.com/item?id=47357042",
-			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47357042\">1550 points</span> by <a href=\"user?id=breton\" class=\"hnuser\">breton</a> <span class=\"age\" title=\"2026-03-12T21:01:10 1773349270\"><a href=\"item?id=47357042\">3 days ago</a></span> <span id=\"unv_47357042\"></span> | <a href=\"item?id=47357042\">561&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0\">Shall I implement it? No</a><span class=\"sitebit comhead\"> (<a href=\"from?site=gist.github.com\"><span class=\"sitestr\">gist.github.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47357042\">1551 points</span> by <a href=\"user?id=breton\" class=\"hnuser\">breton</a> <span class=\"age\" title=\"2026-03-12T21:01:10 1773349270\"><a href=\"item?id=47357042\">3 days ago</a></span> <span id=\"unv_47357042\"></span> | <a href=\"item?id=47357042\">561&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0\">Shall I implement it? No</a><span class=\"sitebit comhead\"> (<a href=\"from?site=gist.github.com\"><span class=\"sitestr\">gist.github.com</span></a>)</span></span>",
 			"retrieved": 1773367556978
 		},
 		{
 			"id": "link-d545f8e0d261738ce36633daec16f4e9",
 			"title": "Can I run AI locally? (canirun.ai)",
 			"link": "https://news.ycombinator.com/item?id=47363754",
-			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47363754\">1476 points</span> by <a href=\"user?id=ricardbejarano\" class=\"hnuser\">ricardbejarano</a> <span class=\"age\" title=\"2026-03-13T12:46:10 1773405970\"><a href=\"item?id=47363754\">3 days ago</a></span> <span id=\"unv_47363754\"></span> | <a href=\"item?id=47363754\">347&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.canirun.ai/\">Can I run AI locally?</a><span class=\"sitebit comhead\"> (<a href=\"from?site=canirun.ai\"><span class=\"sitestr\">canirun.ai</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47363754\">1478 points</span> by <a href=\"user?id=ricardbejarano\" class=\"hnuser\">ricardbejarano</a> <span class=\"age\" title=\"2026-03-13T12:46:10 1773405970\"><a href=\"item?id=47363754\">3 days ago</a></span> <span id=\"unv_47363754\"></span> | <a href=\"item?id=47363754\">348&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.canirun.ai/\">Can I run AI locally?</a><span class=\"sitebit comhead\"> (<a href=\"from?site=canirun.ai\"><span class=\"sitestr\">canirun.ai</span></a>)</span></span>",
 			"retrieved": 1773434141441
 		},
 		{
 			"id": "link-d5211ca8f94c240dbe6c75239153bfcb",
 			"title": "Malus – Clean Room as a Service (malus.sh)",
 			"link": "https://news.ycombinator.com/item?id=47350424",
-			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47350424\">1421 points</span> by <a href=\"user?id=microflash\" class=\"hnuser\">microflash</a> <span class=\"age\" title=\"2026-03-12T13:42:04 1773322924\"><a href=\"item?id=47350424\">4 days ago</a></span> <span id=\"unv_47350424\"></span> | <a href=\"item?id=47350424\">528&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://malus.sh\">Malus – Clean Room as a Service</a><span class=\"sitebit comhead\"> (<a href=\"from?site=malus.sh\"><span class=\"sitestr\">malus.sh</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47350424\">1421 points</span> by <a href=\"user?id=microflash\" class=\"hnuser\">microflash</a> <span class=\"age\" title=\"2026-03-12T13:42:04 1773322924\"><a href=\"item?id=47350424\">4 days ago</a></span> <span id=\"unv_47350424\"></span> | <a href=\"item?id=47350424\">528&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://malus.sh\">Malus – Clean Room as a Service</a><span class=\"sitebit comhead\"> (<a href=\"from?site=malus.sh\"><span class=\"sitestr\">malus.sh</span></a>)</span></span>",
 			"retrieved": 1773341719531
 		},
 		{
 			"id": "link-20c838794323f0584e51cfb9676d267d",
 			"title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act (github.com/upper-up)",
 			"link": "https://news.ycombinator.com/item?id=47362528",
-			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47362528\">1274 points</span> by <a href=\"user?id=shaicoleman\" class=\"hnuser\">shaicoleman</a> <span class=\"age\" title=\"2026-03-13T10:15:56 1773396956\"><a href=\"item?id=47362528\">3 days ago</a></span> <span id=\"unv_47362528\"></span> | <a href=\"item?id=47362528\">544&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/upper-up/meta-lobbying-and-other-findings\">Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/upper-up\"><span class=\"sitestr\">github.com/upper-up</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47362528\">1275 points</span> by <a href=\"user?id=shaicoleman\" class=\"hnuser\">shaicoleman</a> <span class=\"age\" title=\"2026-03-13T10:15:56 1773396956\"><a href=\"item?id=47362528\">3 days ago</a></span> <span id=\"unv_47362528\"></span> | <a href=\"item?id=47362528\">543&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/upper-up/meta-lobbying-and-other-findings\">Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/upper-up\"><span class=\"sitestr\">github.com/upper-up</span></a>)</span></span>",
 			"retrieved": 1773412914636
 		},
 		{
 			"id": "link-c46fe4a572015063c53b23d9751460f0",
 			"title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6 (claude.com)",
 			"link": "https://news.ycombinator.com/item?id=47367129",
-			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47367129\">1201 points</span> by <a href=\"user?id=meetpateltech\" class=\"hnuser\">meetpateltech</a> <span class=\"age\" title=\"2026-03-13T17:19:01 1773422341\"><a href=\"item?id=47367129\">2 days ago</a></span> <span id=\"unv_47367129\"></span> | <a href=\"item?id=47367129\">514&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://claude.com/blog/1m-context-ga\">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a><span class=\"sitebit comhead\"> (<a href=\"from?site=claude.com\"><span class=\"sitestr\">claude.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47367129\">1202 points</span> by <a href=\"user?id=meetpateltech\" class=\"hnuser\">meetpateltech</a> <span class=\"age\" title=\"2026-03-13T17:19:01 1773422341\"><a href=\"item?id=47367129\">2 days ago</a></span> <span id=\"unv_47367129\"></span> | <a href=\"item?id=47367129\">515&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://claude.com/blog/1m-context-ga\">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a><span class=\"sitebit comhead\"> (<a href=\"from?site=claude.com\"><span class=\"sitestr\">claude.com</span></a>)</span></span>",
 			"retrieved": 1773465066597
 		},
 		{
 			"id": "link-59a06f64c8858aca739076889b3f358d",
 			"title": "“This is not the computer for you” (samhenri.gold)",
 			"link": "https://news.ycombinator.com/item?id=47359744",
-			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47359744\">996 points</span> by <a href=\"user?id=MBCook\" class=\"hnuser\">MBCook</a> <span class=\"age\" title=\"2026-03-13T01:45:49 1773366349\"><a href=\"item?id=47359744\">3 days ago</a></span> <span id=\"unv_47359744\"></span> | <a href=\"item?id=47359744\">378&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/\">“This is not the computer for you”</a><span class=\"sitebit comhead\"> (<a href=\"from?site=samhenri.gold\"><span class=\"sitestr\">samhenri.gold</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47359744\">997 points</span> by <a href=\"user?id=MBCook\" class=\"hnuser\">MBCook</a> <span class=\"age\" title=\"2026-03-13T01:45:49 1773366349\"><a href=\"item?id=47359744\">3 days ago</a></span> <span id=\"unv_47359744\"></span> | <a href=\"item?id=47359744\">378&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/\">“This is not the computer for you”</a><span class=\"sitebit comhead\"> (<a href=\"from?site=samhenri.gold\"><span class=\"sitestr\">samhenri.gold</span></a>)</span></span>",
 			"retrieved": 1773406788920
 		},
 		{
 			"id": "link-70a96ebd3fe87894e66f18e3a49a4b17",
 			"title": "Canada's bill C-22 mandates mass metadata surveillance (michaelgeist.ca)",
 			"link": "https://news.ycombinator.com/item?id=47392084",
-			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47392084\">875 points</span> by <a href=\"user?id=opengrass\" class=\"hnuser\">opengrass</a> <span class=\"age\" title=\"2026-03-15T21:22:16 1773609736\"><a href=\"item?id=47392084\">17 hours ago</a></span> <span id=\"unv_47392084\"></span> | <a href=\"item?id=47392084\">254&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/\">Canada's bill C-22 mandates mass metadata surveillance</a><span class=\"sitebit comhead\"> (<a href=\"from?site=michaelgeist.ca\"><span class=\"sitestr\">michaelgeist.ca</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47392084\">927 points</span> by <a href=\"user?id=opengrass\" class=\"hnuser\">opengrass</a> <span class=\"age\" title=\"2026-03-15T21:22:16 1773609736\"><a href=\"item?id=47392084\">19 hours ago</a></span> <span id=\"unv_47392084\"></span> | <a href=\"item?id=47392084\">290&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/\">Canada's bill C-22 mandates mass metadata surveillance</a><span class=\"sitebit comhead\"> (<a href=\"from?site=michaelgeist.ca\"><span class=\"sitestr\">michaelgeist.ca</span></a>)</span></span>",
 			"retrieved": 1773640175684
 		},
 		{
 			"id": "link-adc0e40284ad5c0049d0a14e5aa0624f",
 			"title": "Ageless Linux – Software for humans of indeterminate age (agelesslinux.org)",
 			"link": "https://news.ycombinator.com/item?id=47381791",
-			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47381791\">819 points</span> by <a href=\"user?id=nateb2022\" class=\"hnuser\">nateb2022</a> <span class=\"age\" title=\"2026-03-14T22:10:26 1773526226\"><a href=\"item?id=47381791\">1 day ago</a></span> <span id=\"unv_47381791\"></span> | <a href=\"item?id=47381791\">608&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://agelesslinux.org/\">Ageless Linux – Software for humans of indeterminate age</a><span class=\"sitebit comhead\"> (<a href=\"from?site=agelesslinux.org\"><span class=\"sitestr\">agelesslinux.org</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47381791\">821 points</span> by <a href=\"user?id=nateb2022\" class=\"hnuser\">nateb2022</a> <span class=\"age\" title=\"2026-03-14T22:10:26 1773526226\"><a href=\"item?id=47381791\">1 day ago</a></span> <span id=\"unv_47381791\"></span> | <a href=\"item?id=47381791\">609&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://agelesslinux.org/\">Ageless Linux – Software for humans of indeterminate age</a><span class=\"sitebit comhead\"> (<a href=\"from?site=agelesslinux.org\"><span class=\"sitestr\">agelesslinux.org</span></a>)</span></span>",
 			"retrieved": 1773552484507
+		},
+		{
+			"id": "link-ae45e505fb5ae7a2af422abe366d335d",
+			"title": "Polymarket gamblers threaten to kill me over Iran missile story (timesofisrael.com)",
+			"link": "https://news.ycombinator.com/item?id=47397822",
+			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47397822\">809 points</span> by <a href=\"user?id=defly\" class=\"hnuser\">defly</a> <span class=\"age\" title=\"2026-03-16T12:00:06 1773662406\"><a href=\"item?id=47397822\">5 hours ago</a></span> <span id=\"unv_47397822\"></span> | <a href=\"item?id=47397822\">481&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/\">Polymarket gamblers threaten to kill me over Iran missile story</a><span class=\"sitebit comhead\"> (<a href=\"from?site=timesofisrael.com\"><span class=\"sitestr\">timesofisrael.com</span></a>)</span></span>",
+			"retrieved": 1773673233015
 		},
 		{
 			"id": "link-57e2508493d7b93597ac49893d84d496",
 			"title": "Innocent woman jailed after being misidentified using AI facial recognition (grandforksherald.com)",
 			"link": "https://news.ycombinator.com/item?id=47356968",
-			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47356968\">754 points</span> by <a href=\"user?id=rectang\" class=\"hnuser\">rectang</a> <span class=\"age\" title=\"2026-03-12T20:55:51 1773348951\"><a href=\"item?id=47356968\">3 days ago</a></span> <span id=\"unv_47356968\"></span> | <a href=\"item?id=47356968\">385&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case\">Innocent woman jailed after being misidentified using AI facial recognition</a><span class=\"sitebit comhead\"> (<a href=\"from?site=grandforksherald.com\"><span class=\"sitestr\">grandforksherald.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47356968\">754 points</span> by <a href=\"user?id=rectang\" class=\"hnuser\">rectang</a> <span class=\"age\" title=\"2026-03-12T20:55:51 1773348951\"><a href=\"item?id=47356968\">3 days ago</a></span> <span id=\"unv_47356968\"></span> | <a href=\"item?id=47356968\">386&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case\">Innocent woman jailed after being misidentified using AI facial recognition</a><span class=\"sitebit comhead\"> (<a href=\"from?site=grandforksherald.com\"><span class=\"sitestr\">grandforksherald.com</span></a>)</span></span>",
 			"retrieved": 1773378807469
 		},
 		{
 			"id": "link-666cad700f52aa5c812b0adfc20d8b0c",
 			"title": "The 49MB web page (thatshubham.com)",
 			"link": "https://news.ycombinator.com/item?id=47390945",
-			"contents": "<span class=\"rank\">11.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47390945\">699 points</span> by <a href=\"user?id=kermatt\" class=\"hnuser\">kermatt</a> <span class=\"age\" title=\"2026-03-15T19:25:18 1773602718\"><a href=\"item?id=47390945\">19 hours ago</a></span> <span id=\"unv_47390945\"></span> | <a href=\"item?id=47390945\">306&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://thatshubham.com/blog/news-audit\">The 49MB web page</a><span class=\"sitebit comhead\"> (<a href=\"from?site=thatshubham.com\"><span class=\"sitestr\">thatshubham.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">11.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47390945\">738 points</span> by <a href=\"user?id=kermatt\" class=\"hnuser\">kermatt</a> <span class=\"age\" title=\"2026-03-15T19:25:18 1773602718\"><a href=\"item?id=47390945\">21 hours ago</a></span> <span id=\"unv_47390945\"></span> | <a href=\"item?id=47390945\">321&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://thatshubham.com/blog/news-audit\">The 49MB web page</a><span class=\"sitebit comhead\"> (<a href=\"from?site=thatshubham.com\"><span class=\"sitestr\">thatshubham.com</span></a>)</span></span>",
 			"retrieved": 1773640175684
 		},
 		{
 			"id": "link-12d1a7d7212d5878b596c790dd18f09f",
 			"title": "Qatar helium shutdown puts chip supply chain on a two-week clock (tomshardware.com)",
 			"link": "https://news.ycombinator.com/item?id=47363584",
-			"contents": "<span class=\"rank\">12.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47363584\">693 points</span> by <a href=\"user?id=johnbarron\" class=\"hnuser\">johnbarron</a> <span class=\"age\" title=\"2026-03-13T12:31:09 1773405069\"><a href=\"item?id=47363584\">3 days ago</a></span> <span id=\"unv_47363584\"></span> | <a href=\"item?id=47363584\">624&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock\">Qatar helium shutdown puts chip supply chain on a two-week clock</a><span class=\"sitebit comhead\"> (<a href=\"from?site=tomshardware.com\"><span class=\"sitestr\">tomshardware.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">12.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47363584\">693 points</span> by <a href=\"user?id=johnbarron\" class=\"hnuser\">johnbarron</a> <span class=\"age\" title=\"2026-03-13T12:31:09 1773405069\"><a href=\"item?id=47363584\">3 days ago</a></span> <span id=\"unv_47363584\"></span> | <a href=\"item?id=47363584\">625&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock\">Qatar helium shutdown puts chip supply chain on a two-week clock</a><span class=\"sitebit comhead\"> (<a href=\"from?site=tomshardware.com\"><span class=\"sitestr\">tomshardware.com</span></a>)</span></span>",
 			"retrieved": 1773465066597
 		},
 		{
@@ -95,123 +95,123 @@
 			"retrieved": 1773440920490
 		},
 		{
-			"id": "link-ae45e505fb5ae7a2af422abe366d335d",
-			"title": "Polymarket gamblers threaten to kill me over Iran missile story (timesofisrael.com)",
-			"link": "https://news.ycombinator.com/item?id=47397822",
-			"contents": "<span class=\"rank\">14.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47397822\">566 points</span> by <a href=\"user?id=defly\" class=\"hnuser\">defly</a> <span class=\"age\" title=\"2026-03-16T12:00:06 1773662406\"><a href=\"item?id=47397822\">3 hours ago</a></span> <span id=\"unv_47397822\"></span> | <a href=\"item?id=47397822\">339&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/\">Polymarket gamblers threaten to kill me over Iran missile story</a><span class=\"sitebit comhead\"> (<a href=\"from?site=timesofisrael.com\"><span class=\"sitestr\">timesofisrael.com</span></a>)</span></span>",
-			"retrieved": 1773673233015
+			"id": "link-1bb86a55c407a4e277064ccbbb58ff53",
+			"title": "Stop Sloppypasta (stopsloppypasta.ai)",
+			"link": "https://news.ycombinator.com/item?id=47389570",
+			"contents": "<span class=\"rank\">14.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47389570\">563 points</span> by <a href=\"user?id=namnnumbr\" class=\"hnuser\">namnnumbr</a> <span class=\"age\" title=\"2026-03-15T17:25:00 1773595500\"><a href=\"item?id=47389570\">23 hours ago</a></span> <span id=\"unv_47389570\"></span> | <a href=\"item?id=47389570\">221&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://stopsloppypasta.ai/\">Stop Sloppypasta</a><span class=\"sitebit comhead\"> (<a href=\"from?site=stopsloppypasta.ai\"><span class=\"sitestr\">stopsloppypasta.ai</span></a>)</span></span>",
+			"retrieved": 1773666827711
 		},
 		{
 			"id": "link-870c93abab30228dc75a342b54533ef4",
 			"title": "Vite 8.0 Is Out (vite.dev)",
 			"link": "https://news.ycombinator.com/item?id=47360730",
-			"contents": "<span class=\"rank\">15.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47360730\">552 points</span> by <a href=\"user?id=kothariji\" class=\"hnuser\">kothariji</a> <span class=\"age\" title=\"2026-03-13T04:36:40 1773376600\"><a href=\"item?id=47360730\">3 days ago</a></span> <span id=\"unv_47360730\"></span> | <a href=\"item?id=47360730\">201&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://vite.dev/blog/announcing-vite8\">Vite 8.0 Is Out</a><span class=\"sitebit comhead\"> (<a href=\"from?site=vite.dev\"><span class=\"sitestr\">vite.dev</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">15.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47360730\">553 points</span> by <a href=\"user?id=kothariji\" class=\"hnuser\">kothariji</a> <span class=\"age\" title=\"2026-03-13T04:36:40 1773376600\"><a href=\"item?id=47360730\">3 days ago</a></span> <span id=\"unv_47360730\"></span> | <a href=\"item?id=47360730\">201&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://vite.dev/blog/announcing-vite8\">Vite 8.0 Is Out</a><span class=\"sitebit comhead\"> (<a href=\"from?site=vite.dev\"><span class=\"sitestr\">vite.dev</span></a>)</span></span>",
 			"retrieved": 1773453818793
 		},
 		{
 			"id": "link-36a06193de43a13da27bca6bd1ed3788",
 			"title": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing (techdirt.com)",
 			"link": "https://news.ycombinator.com/item?id=47366374",
-			"contents": "<span class=\"rank\">16.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47366374\">551 points</span> by <a href=\"user?id=cf100clunk\" class=\"hnuser\">cf100clunk</a> <span class=\"age\" title=\"2026-03-13T16:13:30 1773418410\"><a href=\"item?id=47366374\">2 days ago</a></span> <span id=\"unv_47366374\"></span> | <a href=\"item?id=47366374\">170&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/\">The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing</a><span class=\"sitebit comhead\"> (<a href=\"from?site=techdirt.com\"><span class=\"sitestr\">techdirt.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">16.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47366374\">552 points</span> by <a href=\"user?id=cf100clunk\" class=\"hnuser\">cf100clunk</a> <span class=\"age\" title=\"2026-03-13T16:13:30 1773418410\"><a href=\"item?id=47366374\">3 days ago</a></span> <span id=\"unv_47366374\"></span> | <a href=\"item?id=47366374\">170&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/\">The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing</a><span class=\"sitebit comhead\"> (<a href=\"from?site=techdirt.com\"><span class=\"sitestr\">techdirt.com</span></a>)</span></span>",
 			"retrieved": 1773470859255
 		},
 		{
 			"id": "link-3514366bc4e0eb64ea228056a88c0552",
 			"title": "Chrome DevTools MCP (2025) (chrome.com)",
 			"link": "https://news.ycombinator.com/item?id=47390817",
-			"contents": "<span class=\"rank\">17.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47390817\">533 points</span> by <a href=\"user?id=xnx\" class=\"hnuser\">xnx</a> <span class=\"age\" title=\"2026-03-15T19:12:53 1773601973\"><a href=\"item?id=47390817\">19 hours ago</a></span> <span id=\"unv_47390817\"></span> | <a href=\"item?id=47390817\">211&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session\">Chrome DevTools MCP (2025)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=chrome.com\"><span class=\"sitestr\">chrome.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">17.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47390817\">550 points</span> by <a href=\"user?id=xnx\" class=\"hnuser\">xnx</a> <span class=\"age\" title=\"2026-03-15T19:12:53 1773601973\"><a href=\"item?id=47390817\">21 hours ago</a></span> <span id=\"unv_47390817\"></span> | <a href=\"item?id=47390817\">217&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session\">Chrome DevTools MCP (2025)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=chrome.com\"><span class=\"sitestr\">chrome.com</span></a>)</span></span>",
 			"retrieved": 1773640175684
+		},
+		{
+			"id": "link-90f7a69b4f79a779c79da52b0d49ae5b",
+			"title": "LLM Architecture Gallery (sebastianraschka.com)",
+			"link": "https://news.ycombinator.com/item?id=47388676",
+			"contents": "<span class=\"rank\">18.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47388676\">527 points</span> by <a href=\"user?id=tzury\" class=\"hnuser\">tzury</a> <span class=\"age\" title=\"2026-03-15T16:01:09 1773590469\"><a href=\"item?id=47388676\">23 hours ago</a></span> <span id=\"unv_47388676\"></span> | <a href=\"item?id=47388676\">39&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://sebastianraschka.com/llm-architecture-gallery/\">LLM Architecture Gallery</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sebastianraschka.com\"><span class=\"sitestr\">sebastianraschka.com</span></a>)</span></span>",
+			"retrieved": 1773658431602
 		},
 		{
 			"id": "link-c8ce1e661948aad6f101fbb43332927d",
 			"title": "ATMs didn’t kill bank teller jobs, but the iPhone did (davidoks.blog)",
 			"link": "https://news.ycombinator.com/item?id=47351371",
-			"contents": "<span class=\"rank\">18.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47351371\">526 points</span> by <a href=\"user?id=colinprince\" class=\"hnuser\">colinprince</a> <span class=\"age\" title=\"2026-03-12T14:48:57 1773326937\"><a href=\"item?id=47351371\">4 days ago</a></span> <span id=\"unv_47351371\"></span> | <a href=\"item?id=47351371\">571&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller\">ATMs didn’t kill bank teller jobs, but the iPhone did</a><span class=\"sitebit comhead\"> (<a href=\"from?site=davidoks.blog\"><span class=\"sitestr\">davidoks.blog</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">19.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47351371\">527 points</span> by <a href=\"user?id=colinprince\" class=\"hnuser\">colinprince</a> <span class=\"age\" title=\"2026-03-12T14:48:57 1773326937\"><a href=\"item?id=47351371\">4 days ago</a></span> <span id=\"unv_47351371\"></span> | <a href=\"item?id=47351371\">571&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller\">ATMs didn’t kill bank teller jobs, but the iPhone did</a><span class=\"sitebit comhead\"> (<a href=\"from?site=davidoks.blog\"><span class=\"sitestr\">davidoks.blog</span></a>)</span></span>",
 			"retrieved": 1773453818793
 		},
 		{
 			"id": "link-0bb46a3030cba9ab95cfd18a43928d7f",
 			"title": "Elon Musk pushes out more xAI founders as AI coding effort falters (ft.com)",
 			"link": "https://news.ycombinator.com/item?id=47366666",
-			"contents": "<span class=\"rank\">19.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47366666\">516 points</span> by <a href=\"user?id=merksittich\" class=\"hnuser\">merksittich</a> <span class=\"age\" title=\"2026-03-13T16:40:42 1773420042\"><a href=\"item?id=47366666\">2 days ago</a></span> <span id=\"unv_47366666\"></span> | <a href=\"item?id=47366666\">813&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5\">Elon Musk pushes out more xAI founders as AI coding effort falters</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ft.com\"><span class=\"sitestr\">ft.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">20.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47366666\">516 points</span> by <a href=\"user?id=merksittich\" class=\"hnuser\">merksittich</a> <span class=\"age\" title=\"2026-03-13T16:40:42 1773420042\"><a href=\"item?id=47366666\">2 days ago</a></span> <span id=\"unv_47366666\"></span> | <a href=\"item?id=47366666\">814&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5\">Elon Musk pushes out more xAI founders as AI coding effort falters</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ft.com\"><span class=\"sitestr\">ft.com</span></a>)</span></span>",
 			"retrieved": 1773484143085
 		},
 		{
-			"id": "link-1bb86a55c407a4e277064ccbbb58ff53",
-			"title": "Stop Sloppypasta (stopsloppypasta.ai)",
-			"link": "https://news.ycombinator.com/item?id=47389570",
-			"contents": "<span class=\"rank\">20.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47389570\">504 points</span> by <a href=\"user?id=namnnumbr\" class=\"hnuser\">namnnumbr</a> <span class=\"age\" title=\"2026-03-15T17:25:00 1773595500\"><a href=\"item?id=47389570\">21 hours ago</a></span> <span id=\"unv_47389570\"></span> | <a href=\"item?id=47389570\">204&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://stopsloppypasta.ai/\">Stop Sloppypasta</a><span class=\"sitebit comhead\"> (<a href=\"from?site=stopsloppypasta.ai\"><span class=\"sitestr\">stopsloppypasta.ai</span></a>)</span></span>",
-			"retrieved": 1773666827711
-		},
-		{
-			"id": "link-90f7a69b4f79a779c79da52b0d49ae5b",
-			"title": "LLM Architecture Gallery (sebastianraschka.com)",
-			"link": "https://news.ycombinator.com/item?id=47388676",
-			"contents": "<span class=\"rank\">21.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47388676\">497 points</span> by <a href=\"user?id=tzury\" class=\"hnuser\">tzury</a> <span class=\"age\" title=\"2026-03-15T16:01:09 1773590469\"><a href=\"item?id=47388676\">21 hours ago</a></span> <span id=\"unv_47388676\"></span> | <a href=\"item?id=47388676\">38&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://sebastianraschka.com/llm-architecture-gallery/\">LLM Architecture Gallery</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sebastianraschka.com\"><span class=\"sitestr\">sebastianraschka.com</span></a>)</span></span>",
-			"retrieved": 1773658431602
-		},
-		{
-			"id": "link-8b219f6f19cfeeb0b4cb2c12e47d5ad7",
-			"title": "Wired headphone sales are exploding (bbc.com)",
-			"link": "https://news.ycombinator.com/item?id=47340203",
-			"contents": "<span class=\"rank\">22.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47340203\">437 points</span> by <a href=\"user?id=billybuckwheat\" class=\"hnuser\">billybuckwheat</a> <span class=\"age\" title=\"2026-03-11T19:37:46 1773257866\"><a href=\"item?id=47340203\">2 days ago</a></span> <span id=\"unv_47340203\"></span> | <a href=\"item?id=47340203\">726&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth\">Wired headphone sales are exploding</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bbc.com\"><span class=\"sitestr\">bbc.com</span></a>)</span></span>",
-			"retrieved": 1773557887869
+			"id": "link-f6dedfafc4f763c0137a1fca585b5ecf",
+			"title": "Corruption erodes social trust more in democracies than in autocracies (frontiersin.org)",
+			"link": "https://news.ycombinator.com/item?id=47397593",
+			"contents": "<span class=\"rank\">21.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47397593\">463 points</span> by <a href=\"user?id=PaulHoule\" class=\"hnuser\">PaulHoule</a> <span class=\"age\" title=\"2026-03-16T11:25:31 1773660331\"><a href=\"item?id=47397593\">5 hours ago</a></span> <span id=\"unv_47397593\"></span> | <a href=\"item?id=47397593\">206&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full\">Corruption erodes social trust more in democracies than in autocracies</a><span class=\"sitebit comhead\"> (<a href=\"from?site=frontiersin.org\"><span class=\"sitestr\">frontiersin.org</span></a>)</span></span>",
+			"retrieved": 1773680507896
 		},
 		{
 			"id": "link-f455e85dc20eb18bdb42e4e86290415b",
 			"title": "Mouser: An open source alternative to Logi-Plus mouse software (github.com/tombadash)",
 			"link": "https://news.ycombinator.com/item?id=47368033",
-			"contents": "<span class=\"rank\">23.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47368033\">435 points</span> by <a href=\"user?id=avionics-guy\" class=\"hnuser\">avionics-guy</a> <span class=\"age\" title=\"2026-03-13T18:42:54 1773427374\"><a href=\"item?id=47368033\">2 days ago</a></span> <span id=\"unv_47368033\"></span> | <a href=\"item?id=47368033\">149&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/TomBadash/MouseControl\">Mouser: An open source alternative to Logi-Plus mouse software</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/tombadash\"><span class=\"sitestr\">github.com/tombadash</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">22.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47368033\">436 points</span> by <a href=\"user?id=avionics-guy\" class=\"hnuser\">avionics-guy</a> <span class=\"age\" title=\"2026-03-13T18:42:54 1773427374\"><a href=\"item?id=47368033\">2 days ago</a></span> <span id=\"unv_47368033\"></span> | <a href=\"item?id=47368033\">151&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/TomBadash/MouseControl\">Mouser: An open source alternative to Logi-Plus mouse software</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/tombadash\"><span class=\"sitestr\">github.com/tombadash</span></a>)</span></span>",
 			"retrieved": 1773552484507
 		},
 		{
 			"id": "link-d75faaa5ad715c98cc2a06fdec4b4c22",
 			"title": "US private credit defaults hit record 9.2% in 2025, Fitch says (marketscreener.com)",
 			"link": "https://news.ycombinator.com/item?id=47349806",
-			"contents": "<span class=\"rank\">24.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47349806\">432 points</span> by <a href=\"user?id=JumpCrisscross\" class=\"hnuser\">JumpCrisscross</a> <span class=\"age\" title=\"2026-03-12T12:44:45 1773319485\"><a href=\"item?id=47349806\">4 days ago</a></span> <span id=\"unv_47349806\"></span> | <a href=\"item?id=47349806\">461&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d\">US private credit defaults hit record 9.2% in 2025, Fitch says</a><span class=\"sitebit comhead\"> (<a href=\"from?site=marketscreener.com\"><span class=\"sitestr\">marketscreener.com</span></a>)</span></span>",
-			"retrieved": 1773552484507
-		},
-		{
-			"id": "link-cdf24fe3583e82fe3241881317fb6453",
-			"title": "I was interviewed by an AI bot for a job (theverge.com)",
-			"link": "https://news.ycombinator.com/item?id=47339164",
-			"contents": "<span class=\"rank\">25.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47339164\">421 points</span> by <a href=\"user?id=speckx\" class=\"hnuser\">speckx</a> <span class=\"age\" title=\"2026-03-11T18:17:30 1773253050\"><a href=\"item?id=47339164\">4 days ago</a></span> <span id=\"unv_47339164\"></span> | <a href=\"item?id=47339164\">463&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job\">I was interviewed by an AI bot for a job</a><span class=\"sitebit comhead\"> (<a href=\"from?site=theverge.com\"><span class=\"sitestr\">theverge.com</span></a>)</span></span>",
-			"retrieved": 1773552484507
-		},
-		{
-			"id": "link-19b0ec781530dd3d8fa68404a6b4dba8",
-			"title": "The dead Internet is not a theory anymore (adriankrebs.ch)",
-			"link": "https://news.ycombinator.com/item?id=47340935",
-			"contents": "<span class=\"rank\">26.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47340935\">417 points</span> by <a href=\"user?id=hubraumhugo\" class=\"hnuser\">hubraumhugo</a> <span class=\"age\" title=\"2026-03-11T20:20:22 1773260422\"><a href=\"item?id=47340935\">4 days ago</a></span> <span id=\"unv_47340935\"></span> | <a href=\"item?id=47340935\">305&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.adriankrebs.ch/blog/dead-internet/\">The dead Internet is not a theory anymore</a><span class=\"sitebit comhead\"> (<a href=\"from?site=adriankrebs.ch\"><span class=\"sitestr\">adriankrebs.ch</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">23.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47349806\">432 points</span> by <a href=\"user?id=JumpCrisscross\" class=\"hnuser\">JumpCrisscross</a> <span class=\"age\" title=\"2026-03-12T12:44:45 1773319485\"><a href=\"item?id=47349806\">4 days ago</a></span> <span id=\"unv_47349806\"></span> | <a href=\"item?id=47349806\">461&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d\">US private credit defaults hit record 9.2% in 2025, Fitch says</a><span class=\"sitebit comhead\"> (<a href=\"from?site=marketscreener.com\"><span class=\"sitestr\">marketscreener.com</span></a>)</span></span>",
 			"retrieved": 1773552484507
 		},
 		{
 			"id": "link-e603fa7572de6cd2a9c91c3784d1d5ec",
 			"title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor (github.com/novatic14)",
 			"link": "https://news.ycombinator.com/item?id=47385935",
-			"contents": "<span class=\"rank\">27.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47385935\">415 points</span> by <a href=\"user?id=ZacnyLos\" class=\"hnuser\">ZacnyLos</a> <span class=\"age\" title=\"2026-03-15T10:15:47 1773569747\"><a href=\"item?id=47385935\">1 day ago</a></span> <span id=\"unv_47385935\"></span> | <a href=\"item?id=47385935\">369&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket\">$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/novatic14\"><span class=\"sitestr\">github.com/novatic14</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">24.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47385935\">418 points</span> by <a href=\"user?id=ZacnyLos\" class=\"hnuser\">ZacnyLos</a> <span class=\"age\" title=\"2026-03-15T10:15:47 1773569747\"><a href=\"item?id=47385935\">1 day ago</a></span> <span id=\"unv_47385935\"></span> | <a href=\"item?id=47385935\">371&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket\">$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/novatic14\"><span class=\"sitestr\">github.com/novatic14</span></a>)</span></span>",
 			"retrieved": 1773666827711
+		},
+		{
+			"id": "link-19b0ec781530dd3d8fa68404a6b4dba8",
+			"title": "The dead Internet is not a theory anymore (adriankrebs.ch)",
+			"link": "https://news.ycombinator.com/item?id=47340935",
+			"contents": "<span class=\"rank\">25.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47340935\">417 points</span> by <a href=\"user?id=hubraumhugo\" class=\"hnuser\">hubraumhugo</a> <span class=\"age\" title=\"2026-03-11T20:20:22 1773260422\"><a href=\"item?id=47340935\">4 days ago</a></span> <span id=\"unv_47340935\"></span> | <a href=\"item?id=47340935\">305&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.adriankrebs.ch/blog/dead-internet/\">The dead Internet is not a theory anymore</a><span class=\"sitebit comhead\"> (<a href=\"from?site=adriankrebs.ch\"><span class=\"sitestr\">adriankrebs.ch</span></a>)</span></span>",
+			"retrieved": 1773552484507
 		},
 		{
 			"id": "link-203970506e85319c895306ba5b5f334f",
 			"title": "Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war (fortune.com)",
 			"link": "https://news.ycombinator.com/item?id=47352215",
-			"contents": "<span class=\"rank\">28.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47352215\">415 points</span> by <a href=\"user?id=speckx\" class=\"hnuser\">speckx</a> <span class=\"age\" title=\"2026-03-12T15:30:37 1773329437\"><a href=\"item?id=47352215\">3 days ago</a></span> <span id=\"unv_47352215\"></span> | <a href=\"item?id=47352215\">353&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/\">Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war</a><span class=\"sitebit comhead\"> (<a href=\"from?site=fortune.com\"><span class=\"sitestr\">fortune.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">26.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47352215\">415 points</span> by <a href=\"user?id=speckx\" class=\"hnuser\">speckx</a> <span class=\"age\" title=\"2026-03-12T15:30:37 1773329437\"><a href=\"item?id=47352215\">4 days ago</a></span> <span id=\"unv_47352215\"></span> | <a href=\"item?id=47352215\">353&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/\">Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war</a><span class=\"sitebit comhead\"> (<a href=\"from?site=fortune.com\"><span class=\"sitestr\">fortune.com</span></a>)</span></span>",
 			"retrieved": 1773552484507
 		},
 		{
 			"id": "link-6dd04339e901797da1795fa685ee82d7",
 			"title": "Digg is gone again (digg.com)",
 			"link": "https://news.ycombinator.com/item?id=47368135",
-			"contents": "<span class=\"rank\">29.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47368135\">413 points</span> by <a href=\"user?id=hammerbrostime\" class=\"hnuser\">hammerbrostime</a> <span class=\"age\" title=\"2026-03-13T18:52:17 1773427937\"><a href=\"item?id=47368135\">2 days ago</a></span> <span id=\"unv_47368135\"></span> | <a href=\"item?id=47368135\">458&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://digg.com/\">Digg is gone again</a><span class=\"sitebit comhead\"> (<a href=\"from?site=digg.com\"><span class=\"sitestr\">digg.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">27.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47368135\">413 points</span> by <a href=\"user?id=hammerbrostime\" class=\"hnuser\">hammerbrostime</a> <span class=\"age\" title=\"2026-03-13T18:52:17 1773427937\"><a href=\"item?id=47368135\">2 days ago</a></span> <span id=\"unv_47368135\"></span> | <a href=\"item?id=47368135\">459&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://digg.com/\">Digg is gone again</a><span class=\"sitebit comhead\"> (<a href=\"from?site=digg.com\"><span class=\"sitestr\">digg.com</span></a>)</span></span>",
 			"retrieved": 1773628175533
 		},
 		{
 			"id": "link-4bd2806b4eb2e83522b8b4849392be47",
 			"title": "Show HN: s@: decentralized social networking over static sites (satproto.org)",
 			"link": "https://news.ycombinator.com/item?id=47344548",
-			"contents": "<span class=\"rank\">30.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47344548\">413 points</span> by <a href=\"user?id=remywang\" class=\"hnuser\">remywang</a> <span class=\"age\" title=\"2026-03-12T00:22:19 1773274939\"><a href=\"item?id=47344548\">4 days ago</a></span> <span id=\"unv_47344548\"></span> | <a href=\"item?id=47344548\">219&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"http://satproto.org/\">Show HN: s@: decentralized social networking over static sites</a><span class=\"sitebit comhead\"> (<a href=\"from?site=satproto.org\"><span class=\"sitestr\">satproto.org</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">28.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47344548\">413 points</span> by <a href=\"user?id=remywang\" class=\"hnuser\">remywang</a> <span class=\"age\" title=\"2026-03-12T00:22:19 1773274939\"><a href=\"item?id=47344548\">4 days ago</a></span> <span id=\"unv_47344548\"></span> | <a href=\"item?id=47344548\">219&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"http://satproto.org/\">Show HN: s@: decentralized social networking over static sites</a><span class=\"sitebit comhead\"> (<a href=\"from?site=satproto.org\"><span class=\"sitestr\">satproto.org</span></a>)</span></span>",
 			"retrieved": 1773628175533
+		},
+		{
+			"id": "link-f3aecdd5482e3759a6bcef064fa839aa",
+			"title": "E2E encrypted messaging on Instagram will no longer be supported after 8 May (help.instagram.com)",
+			"link": "https://news.ycombinator.com/item?id=47363922",
+			"contents": "<span class=\"rank\">29.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47363922\">410 points</span> by <a href=\"user?id=mindracer\" class=\"hnuser\">mindracer</a> <span class=\"age\" title=\"2026-03-13T13:03:42 1773407022\"><a href=\"item?id=47363922\">3 days ago</a></span> <span id=\"unv_47363922\"></span> | <a href=\"item?id=47363922\">202&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://help.instagram.com/491565145294150\">E2E encrypted messaging on Instagram will no longer be supported after 8 May</a><span class=\"sitebit comhead\"> (<a href=\"from?site=help.instagram.com\"><span class=\"sitestr\">help.instagram.com</span></a>)</span></span>",
+			"retrieved": 1773680507896
+		},
+		{
+			"id": "link-9eff6d83cae9b88e0ce3ea87b9fdfcd7",
+			"title": "How I write software with LLMs (stavros.io)",
+			"link": "https://news.ycombinator.com/item?id=47394022",
+			"contents": "<span class=\"rank\">30.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47394022\">405 points</span> by <a href=\"user?id=indigodaddy\" class=\"hnuser\">indigodaddy</a> <span class=\"age\" title=\"2026-03-16T01:24:09 1773624249\"><a href=\"item?id=47394022\">15 hours ago</a></span> <span id=\"unv_47394022\"></span> | <a href=\"item?id=47394022\">383&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.stavros.io/posts/how-i-write-software-with-llms/\">How I write software with LLMs</a><span class=\"sitebit comhead\"> (<a href=\"from?site=stavros.io\"><span class=\"sitestr\">stavros.io</span></a>)</span></span>",
+			"retrieved": 1773680507896
 		}
 	]
 }
