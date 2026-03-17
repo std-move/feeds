@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-9d0b2834200fe8a3beb7ead4427fb471",
+			"title": "Khada's Mind Pro with Core Ultra X7 and powerful Arc graphics review",
+			"link": "https://www.notebookcheck.net/Khadas-Mind-Pro-review-High-end-mini-PC-with-Intel-Core-Ultra-X7-and-Arc-graphics-as-the-perfect-basis-in-the-Khadas-ecosystem.1251243.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/9/csm_Mind_Pro_17_ea64641c1c.jpg\" loading=\"lazy\" alt=\"Khadas Mind Pro \"></picture><div class=\"intro_featured_bar_title\">Khada's Mind Pro with Core Ultra X7 and powerful Arc graphics review</div>",
+			"retrieved": 1773744758779
+		},
+		{
 			"id": "link-f6830801cb4ecbf33950a28cbb140f03",
 			"title": "Laser TV instead of Smart TV? Aetherion Max review",
 			"link": "https://www.notebookcheck.net/Laser-TV-as-an-XXL-alternative-to-the-TV-AWOL-Vision-Aetherion-Max-review.1250976.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_16_2026_M5_Pro/mbp_16_m5_pro_case_04-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/3/csm_mbp_16_m5_pro_case_04_22bd5d2a07.jpg\" loading=\"lazy\" alt=\"Apple MacBook Pro 16 2026 Review - M5 Pro makes one of the best multimedia laptops even better\"></picture><div class=\"intro_featured_bar_title\">M5 Pro, Wi-Fi 7 &amp; PCIe 5.0 - Apple MacBook Pro 16 Review (Update 2)</div>",
 			"retrieved": 1773505961905
-		},
-		{
-			"id": "link-0b35deafde425c0fa315c8e08545414d",
-			"title": "Marathon review: Brilliant extraction tension, brutal onboarding, with a bit of frustration",
-			"link": "https://www.notebookcheck.net/Marathon-review-Brilliant-extraction-tension-brutal-onboarding-with-a-bit-of-frustration.1250809.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview80-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview80-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview80-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview80-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview80-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Marathon-hands-on-Preview80-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/f/csm_Marathon-hands-on-Preview80_104d6f0950.jpg\" loading=\"lazy\" alt=\"Bungie’s Marathon combines excellent extraction tension, striking atmosphere, and intense combat with brutal onboarding and a steep, often frustrating learning curve.\"></picture><div class=\"intro_featured_bar_title\">Marathon review: Brilliant extraction tension, brutal onboarding, with a bit of frustration</div>",
-			"retrieved": 1773599973685
 		}
 	]
 }
