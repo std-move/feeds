@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-17T14:58:59.534Z</updated>
+    <updated>2026-03-17T17:05:42.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -237,6 +237,13 @@
         <content type="html"><![CDATA[Valorant EU — €5 - €100]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Riot Access Europe]]></title>
+        <id>link-1967be5286dedb3ef5390377458739d2</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/"/>
+        <updated>2026-03-17T17:03:51.400Z</updated>
+        <content type="html"><![CDATA[Riot Access Europe — €2.5 - €100]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Guess EUR]]></title>
         <id>link-c3dcb41301186022cadc1afde9118871</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/guess-eur/"/>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
         <updated>2026-03-12T16:59:01.226Z</updated>
         <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eLearnGift]]></title>
-        <id>link-7a12368d45b5b44354d57beb35fa37b8</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/elearngift-cz/"/>
-        <updated>2026-03-13T18:43:05.248Z</updated>
-        <content type="html"><![CDATA[eLearnGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
