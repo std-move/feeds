@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/</id>
     <title>The BellSoft Blog</title>
-    <updated>2026-03-18T10:55:24.619Z</updated>
+    <updated>2026-03-18T13:16:19.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[An Overview of JDK 26 Features]]></title>
+        <id>link-b2869ed244aeb9f41dcec2fd84b5d4ff</id>
+        <link href="https://bell-sw.com/blog/an-overview-of-jdk-26-features/"/>
+        <updated>2026-03-18T13:14:06.753Z</updated>
+        <content type="html"><![CDATA[Discover ten new, enhanced, and removed features in the next feature release, JDK 26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build AI Agents in Java with Embabel: Step-by-Step Guide]]></title>
         <id>link-aa578432740c0afb6373e79612066edd</id>
@@ -158,12 +165,5 @@
         <link href="https://bell-sw.com/blog/how-to-use-spring-data-mongodb/"/>
         <updated>2026-01-07T09:20:25.776Z</updated>
         <content type="html"><![CDATA[An end-to-end tutorial on using MongoD with Spring Boot: setup, CRUD operations, custom queries, aggregation pipelines, Mongock migrations, testing]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Years with Java: A BellSoft Love Story]]></title>
-        <id>link-0b6973bd36b5007739c90c4e834fb6e6</id>
-        <link href="https://bell-sw.com/blog/30-years-with-java-a-bellsoft-love-story/"/>
-        <updated>2026-01-07T09:20:25.776Z</updated>
-        <content type="html"><![CDATA[The BellSoft engineers reminiscent about their journey with Java]]></content>
     </entry>
 </feed>

@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/favicon.ico",
 	"elements": [
 		{
+			"id": "link-b2869ed244aeb9f41dcec2fd84b5d4ff",
+			"title": "An Overview of JDK 26 Features",
+			"link": "https://bell-sw.com/blog/an-overview-of-jdk-26-features/",
+			"contents": "Discover ten new, enhanced, and removed features in the next feature release, JDK 26",
+			"retrieved": 1773839646753
+		},
+		{
 			"id": "link-aa578432740c0afb6373e79612066edd",
 			"title": "Build AI Agents in Java with Embabel: Step-by-Step Guide",
 			"link": "https://bell-sw.com/blog/build-ai-agents-in-java-with-embabel-step-by-step-guide/",
@@ -155,13 +162,6 @@
 			"title": "How to Use Spring Data MongoDB",
 			"link": "https://bell-sw.com/blog/how-to-use-spring-data-mongodb/",
 			"contents": "An end-to-end tutorial on using MongoD with Spring Boot: setup, CRUD operations, custom queries, aggregation pipelines, Mongock migrations, testing",
-			"retrieved": 1767777625776
-		},
-		{
-			"id": "link-0b6973bd36b5007739c90c4e834fb6e6",
-			"title": "30 Years with Java: A BellSoft Love Story",
-			"link": "https://bell-sw.com/blog/30-years-with-java-a-bellsoft-love-story/",
-			"contents": "The BellSoft engineers reminiscent about their journey with Java",
 			"retrieved": 1767777625776
 		}
 	]
