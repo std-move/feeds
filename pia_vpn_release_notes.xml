@@ -2,9 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.privateinternetaccess.com/pages/changelog</id>
     <title>PIA VPN - release notes</title>
-    <updated>2026-03-19T05:24:29.675Z</updated>
+    <updated>2026-03-19T07:01:29.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets-cms.privateinternetaccess.com/img/frontend/pia-favicon_32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[v3.7.2 — Release Date: March 19, 2026]]></title>
+        <id>link-e5cd95793f30bc352274c653e5a63931</id>
+        <link href="https://installers.privateinternetaccess.com/download/pia-windows-x64-3.7.2-08420.exe"/>
+        <updated>2026-03-19T06:59:36.935Z</updated>
+        <content type="html"><![CDATA[<span class="anchortag" id="v3.7.2"></span>
+      <div class="panel panel-primary pull-right panel-download">
+        <div class="panel-heading">
+          <div class="media">
+            <div class="media-body">
+              <div class="panel-title">Downloads</div>
+            </div>
+          </div>
+        </div>
+        <div class="list-group">
+            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-windows-x64-3.7.2-08420.exe">
+              <span class="download-icon">
+                <img src="/assets/echo/download/logo-windows-d518c729bb66d13ca60e8c4fe16e5a69998a6c6e80aa6bb204cc4273f1871ca0.png" alt="Windows" width="47" height="51" class="changelog-icon" style="height: inherit !important;">
+              </span>
+              <span class="os-label">Windows 64-bit</span>
+            </a>
+            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-windows-arm64-3.7.2-08420.exe">
+              <span class="download-icon">
+                <img src="/assets/echo/download/logo-windows-d518c729bb66d13ca60e8c4fe16e5a69998a6c6e80aa6bb204cc4273f1871ca0.png" alt="Windows" width="47" height="51" class="changelog-icon" style="height: inherit !important;">
+              </span>
+              <span class="os-label">Windows ARM</span>
+            </a>
+            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-macos-3.7.2-08420.zip">
+              <span class="download-icon">
+                <img src="/assets/echo/download/logo-macos-8440e769c51b62225ae459ea872fd39ecfebf3553c706ef61804bf8521db57df.png" alt="Mac" width="68" height="68" class="changelog-icon" style="height: inherit !important;">
+              </span>
+              <span class="os-label">Mac</span>
+            </a>
+            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-linux-3.7.2-08420.run">
+              <span class="download-icon">
+                <img src="/assets/echo/download/logo-linux-4ac8d8db6a86d0387884d851c4deebc31c3b3e8b4fda6dd96b82fb9d8e289454.png" alt="Linux" width="52" height="60" class="changelog-icon" style="height: inherit !important;">
+              </span>
+              <span class="os-label">Linux</span>
+            </a>
+            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-linux-arm64-3.7.2-08420.run">
+              <span class="download-icon">
+                <img src="/assets/echo/download/logo-linux-4ac8d8db6a86d0387884d851c4deebc31c3b3e8b4fda6dd96b82fb9d8e289454.png" alt="Linux" width="52" height="60" class="changelog-icon" style="height: inherit !important;">
+              </span>
+              <span class="os-label">Linux Arm64</span>
+            </a>
+        </div>
+      </div>
+      <h3 class="text-primary" style="margin-bottom:0px">
+        v3.7.2
+      </h3>
+      <h4 class="text-primary" style="margin-bottom:20px">Release Date: March 19, 2026</h4>
+      <ul class="log-list">
+          <li>Connectivity improvements</li>
+      </ul>
+      <h3 style="font-size:16px;">SHA-256 Checksums:</h3>
+        <p class="sha256">pia-windows-x64-3.7.2-08420.exe:<span class="code">5ec83799746ab96c710a98e25ed161e02a1b6f648ef9a2659f6abaab0e8a680f</span></p>
+        <p class="sha256">pia-windows-arm64-3.7.2-08420.exe:<span class="code">345931db87de4111cf95fdef6e7572619450dac5540e2c25e0de90087732e4e2</span></p>
+        <p class="sha256">pia-linux-3.7.2-08420.run:<span class="code">08a88af04462a9e078aeef52b26bcdb56f0a9b087a0fb7606f98b7eb79bb3dd9</span></p>
+        <p class="sha256">pia-linux-arm64-3.7.2-08420.run:<span class="code">3956d1ed9b6977f24ca960e78dd60572edd435f71b2a554e5c5d00f94603eeb9</span></p>
+        <p class="sha256">pia-macos-3.7.2-08420.zip:<span class="code">5677fa6fd8ccc1a3d31d568e7c00a99c0887797b359a1db07d75e1de77f4fb0a</span></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v3.7.0 — Release Date: September 29, 2025]]></title>
         <id>link-b471cef960332b4e59ae1595425fbfd6</id>
@@ -320,76 +381,6 @@
         <p class="sha256">pia-linux-arm64-3.5.7-08120.run:<span class="code">cea95ed752687d6f7c86f48e2afd32b09b2c23d47cc52e21a93445384353252d</span></p>
         <p class="sha256">pia-linux-armhf-3.5.7-08120.run:<span class="code">43618b08817c9a3cbc6c51d4f31e96b71efbdffdd661497acaec10c8b6a02b51</span></p>
         <p class="sha256">pia-macos-3.5.7-08120.zip:<span class="code">db1a8140d9689bcb252e0a364852339d17351c1c4fa1eaa4fb05851750150986</span></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v3.5.6 — Release Date: March 20, 2024]]></title>
-        <id>link-b363e04a500febaa314b8d9a4740166b</id>
-        <link href="https://installers.privateinternetaccess.com/download/pia-windows-x64-3.5.6-08110.exe"/>
-        <updated>2026-02-12T08:49:26.456Z</updated>
-        <content type="html"><![CDATA[<span class="anchortag" id="v3.5.6"></span>
-      <div class="panel panel-primary pull-right panel-download">
-        <div class="panel-heading">
-          <div class="media">
-            <div class="media-body">
-              <div class="panel-title">Downloads</div>
-            </div>
-          </div>
-        </div>
-        <div class="list-group">
-            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-windows-x64-3.5.6-08110.exe">
-              <span class="download-icon">
-                <img src="/assets/echo/download/logo-windows-d518c729bb66d13ca60e8c4fe16e5a69998a6c6e80aa6bb204cc4273f1871ca0.png" alt="Windows" width="47" height="51" class="changelog-icon" style="height: inherit !important;">
-              </span>
-              <span class="os-label">Windows 64-bit</span>
-            </a>
-            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-windows-x86-3.5.6-08110.exe">
-              <span class="download-icon">
-                <img src="/assets/echo/download/logo-windows-d518c729bb66d13ca60e8c4fe16e5a69998a6c6e80aa6bb204cc4273f1871ca0.png" alt="Windows" width="47" height="51" class="changelog-icon" style="height: inherit !important;">
-              </span>
-              <span class="os-label">Windows 32-bit</span>
-            </a>
-            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-macos-3.5.6-08110.zip">
-              <span class="download-icon">
-                <img src="/assets/echo/download/logo-macos-8440e769c51b62225ae459ea872fd39ecfebf3553c706ef61804bf8521db57df.png" alt="Mac" width="68" height="68" class="changelog-icon" style="height: inherit !important;">
-              </span>
-              <span class="os-label">Mac</span>
-            </a>
-            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-linux-3.5.6-08110.run">
-              <span class="download-icon">
-                <img src="/assets/echo/download/logo-linux-4ac8d8db6a86d0387884d851c4deebc31c3b3e8b4fda6dd96b82fb9d8e289454.png" alt="Linux" width="52" height="60" class="changelog-icon" style="height: inherit !important;">
-              </span>
-              <span class="os-label">Linux</span>
-            </a>
-            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-linux-arm64-3.5.6-08110.run">
-              <span class="download-icon">
-                <img src="/assets/echo/download/logo-linux-4ac8d8db6a86d0387884d851c4deebc31c3b3e8b4fda6dd96b82fb9d8e289454.png" alt="Linux" width="52" height="60" class="changelog-icon" style="height: inherit !important;">
-              </span>
-              <span class="os-label">Linux Arm64</span>
-            </a>
-            <a class="list-group-item" href="https://installers.privateinternetaccess.com/download/pia-linux-armhf-3.5.6-08110.run">
-              <span class="download-icon">
-                <img src="/assets/echo/download/logo-linux-4ac8d8db6a86d0387884d851c4deebc31c3b3e8b4fda6dd96b82fb9d8e289454.png" alt="Linux" width="52" height="60" class="changelog-icon" style="height: inherit !important;">
-              </span>
-              <span class="os-label">Linux Armhf</span>
-            </a>
-        </div>
-      </div>
-      <h3 class="text-primary" style="margin-bottom:0px">
-        v3.5.6
-      </h3>
-      <h4 class="text-primary" style="margin-bottom:20px">Release Date: March 20, 2024</h4>
-      <ul class="log-list">
-          <li>MacOS: Fix Wifi SSID detection for Automation (again!)</li>
-          <li>Linux: Implement Workaround for bleeding-edge Wayland issues</li>
-          <li>All: Improve diagnostics</li>
-      </ul>
-      <h3 style="font-size:16px;">SHA-256 Checksums:</h3>
-        <p class="sha256">pia-windows-x64-3.5.6-08110.exe:<span class="code">42ec9211b2e9bb5777aca911590c4958074fde9379777ff388562973de8c28e2</span></p>
-        <p class="sha256">pia-windows-x86-3.5.6-08110.exe:<span class="code">a5c70f7f8b4c60969f3777c32eb83752aadb3f710e77ae765cf1ce879cc4b1c4</span></p>
-        <p class="sha256">pia-linux-3.5.6-08110.run:<span class="code">f69a10573b738d6451ac1b8ad178dec33ef1b6613a981ea9f9748a3af69ba14d</span></p>
-        <p class="sha256">pia-linux-arm64-3.5.6-08110.run:<span class="code">161f2bbdf1fbf23916c805aafe17ce8d1e2e2f3d38e64b4b8016b5537ce2deff</span></p>
-        <p class="sha256">pia-linux-armhf-3.5.6-08110.run:<span class="code">542d47bf904b59be7a2fff8229a52afbb43cca1da38917deaa959f2aeaae3282</span></p>
-        <p class="sha256">pia-macos-3.5.6-08110.zip:<span class="code">209436368145473f6ed27aaed93302de167edd62070f893780cc270fa1f9b291</span></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v2.3.3 — Release Date: August 29, 2020]]></title>
