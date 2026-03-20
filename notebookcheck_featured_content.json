@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-5d7e77f319bfdcb773378b219b719985",
+			"title": "Dell XPS 16 review: Betting it all on Panther Lake",
+			"link": "https://www.notebookcheck.net/Dell-XPS-16-review-Two-steps-forward-one-step-back.1251724.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/d/csm_xps16feature_1_55cd511307.jpg\" loading=\"lazy\" alt=\"Dell XPS 16 review: Two steps forward, one step back\"></picture><div class=\"intro_featured_bar_title\">Dell XPS 16 review: Betting it all on Panther Lake</div>",
+			"retrieved": 1774032712226
+		},
+		{
 			"id": "link-9df8d417432d88874530c2b0f3f3730a",
 			"title": "Lenovo Tab K11 Gen 2: Old tab, new tricks",
 			"link": "https://www.notebookcheck.net/Lenovo-Tab-K11-Gen-2-Review-A-5G-metal-unibody-price-hit-business-tablet-that-you-may-be-overlooking.1253510.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/A-showdown-in-China-Vivo-X300-Pro-vs-Xiaomi-17-Ultra-in-a-camera-comparison-review.1252589.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/aPic_Vivo_X300_Pro_vs_Xiaomi17_Ultra_Teaser-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/aPic_Vivo_X300_Pro_vs_Xiaomi17_Ultra_Teaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/aPic_Vivo_X300_Pro_vs_Xiaomi17_Ultra_Teaser-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/aPic_Vivo_X300_Pro_vs_Xiaomi17_Ultra_Teaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/aPic_Vivo_X300_Pro_vs_Xiaomi17_Ultra_Teaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/aPic_Vivo_X300_Pro_vs_Xiaomi17_Ultra_Teaser-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/2/csm_aPic_Vivo_X300_Pro_vs_Xiaomi17_Ultra_Teaser_abd06c4f7a.jpg\" loading=\"lazy\" alt=\"A showdown in China: Vivo X300 Pro vs. Xiaomi 17 Ultra in a camera comparison review\"></picture><div class=\"intro_featured_bar_title\">Camera comparison: X300 Pro vs. Xiaomi 17 Ultra</div>",
 			"retrieved": 1773759436202
-		},
-		{
-			"id": "link-9d0b2834200fe8a3beb7ead4427fb471",
-			"title": "Khadas Mind Pro with Core Ultra X7 and powerful Arc graphics review",
-			"link": "https://www.notebookcheck.net/Khadas-Mind-Pro-review-High-end-mini-PC-with-Intel-Core-Ultra-X7-and-Arc-graphics-as-the-perfect-basis-in-the-Khadas-ecosystem.1251243.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/9/csm_Mind_Pro_17_ea64641c1c.jpg\" loading=\"lazy\" alt=\"Khadas Mind Pro \"></picture><div class=\"intro_featured_bar_title\">Khadas Mind Pro with Core Ultra X7 and powerful Arc graphics review</div>",
-			"retrieved": 1773744758779
 		}
 	]
 }
