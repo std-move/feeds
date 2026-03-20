@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-9df8d417432d88874530c2b0f3f3730a",
+			"title": "Lenovo Tab K11 Gen 2: Old tab, new tricks",
+			"link": "https://www.notebookcheck.net/Lenovo-Tab-K11-Gen-2-Review-A-5G-metal-unibody-price-hit-business-tablet-that-you-may-be-overlooking.1253510.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/0/csm_Test_Lenovo_Tab_K11_Gen2_3_0e6258e085.jpg\" loading=\"lazy\" alt=\"Lenovo Tab K11 Gen2 in review\"></picture><div class=\"intro_featured_bar_title\">Lenovo Tab K11 Gen 2: Old tab, new tricks</div>",
+			"retrieved": 1774017701382
+		},
+		{
 			"id": "link-1ab5c7dfbe403c40031f721750db22d2",
 			"title": "iDX6011 Pro review: AI NAS tested",
 			"link": "https://www.notebookcheck.net/Ugreen-iDX6011-Pro-review-NAS-power-with-desktop-hardware-and-AI-features.1253511.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Khadas-Mind-Pro-review-High-end-mini-PC-with-Intel-Core-Ultra-X7-and-Arc-graphics-as-the-perfect-basis-in-the-Khadas-ecosystem.1251243.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Khadas/Mind_Pro/Mind_Pro_17-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/9/csm_Mind_Pro_17_ea64641c1c.jpg\" loading=\"lazy\" alt=\"Khadas Mind Pro \"></picture><div class=\"intro_featured_bar_title\">Khadas Mind Pro with Core Ultra X7 and powerful Arc graphics review</div>",
 			"retrieved": 1773744758779
-		},
-		{
-			"id": "link-f6830801cb4ecbf33950a28cbb140f03",
-			"title": "Laser TV instead of Smart TV? Aetherion Max review",
-			"link": "https://www.notebookcheck.net/Laser-TV-as-an-XXL-alternative-to-the-TV-AWOL-Vision-Aetherion-Max-review.1250976.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Awol-Vision-Aetherion-Max-Test-Teaser18-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Awol-Vision-Aetherion-Max-Test-Teaser18-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Awol-Vision-Aetherion-Max-Test-Teaser18-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Awol-Vision-Aetherion-Max-Test-Teaser18-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Awol-Vision-Aetherion-Max-Test-Teaser18-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Awol-Vision-Aetherion-Max-Test-Teaser18-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/e/csm_Awol-Vision-Aetherion-Max-Test-Teaser18_a6eadf86e1.jpg\" loading=\"lazy\" alt=\"UST projector instead of Smart TV? Aetherion Max review\"></picture><div class=\"intro_featured_bar_title\">Laser TV instead of Smart TV? Aetherion Max review</div>",
-			"retrieved": 1773713314842
 		}
 	]
 }
