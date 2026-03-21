@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-2ec4e6bdf6649621f56e2752a4734750",
+			"title": "Another laptop brand affected by CPU fraud: Manufacturer promises clarification",
+			"link": "https://www.notebookcheck.net/Another-laptop-brand-affected-by-CPU-fraud-Manufacturer-promises-clarification.1256384.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/9/csm_ninkeara15pro_5500u_vs_7430u_teaser_neu_95a1c269dc.png\" loading=\"lazy\" alt=\"Another laptop brand affected by CPU fraud: Manufacturer promises clarification\"></picture><div class=\"intro_featured_bar_title\">Another laptop brand affected by CPU fraud: Manufacturer promises clarification</div>",
+			"retrieved": 1774124882257
+		},
+		{
 			"id": "link-42239ca5862b37927648be3d876f1270",
 			"title": "Orbital Pathfinder gaming mouse review",
 			"link": "https://www.notebookcheck.net/Orbital-Pathfinder-mouse-review-Infinite-customization-with-a-great-mouse-to-boot.1255733.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/In-ear-earbuds-with-rich-sound-and-excellent-ANC-Huawei-FreeBuds-Pro-5-review.1253516.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/FreeBuds_Pro_5/aPic_Huawei_FreeBuds_5_Pro-2139-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/FreeBuds_Pro_5/aPic_Huawei_FreeBuds_5_Pro-2139-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/FreeBuds_Pro_5/aPic_Huawei_FreeBuds_5_Pro-2139-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/FreeBuds_Pro_5/aPic_Huawei_FreeBuds_5_Pro-2139-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/FreeBuds_Pro_5/aPic_Huawei_FreeBuds_5_Pro-2139-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/FreeBuds_Pro_5/aPic_Huawei_FreeBuds_5_Pro-2139-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/3/csm_aPic_Huawei_FreeBuds_5_Pro-2139_35586fbeb7.jpg\" loading=\"lazy\" alt=\"In-ear earbuds with rich sound and excellent ANC – Huawei FreeBuds Pro 5 review\"></picture><div class=\"intro_featured_bar_title\">The best In-Ear Headphones? – Huawei FreeBuds Pro 5 review</div>",
 			"retrieved": 1773846204520
-		},
-		{
-			"id": "link-ee9a33ba32943d80a741bb2f85b8c352",
-			"title": "▶ New Alienware Gaming-Laptops!",
-			"link": "https://www.notebookcheck.net/New-Alienware-Gaming-Laptops.1252877.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1024222-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1024222-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1024222-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1024222-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1024222-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1024222-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/8/csm__1024222_a6562e32c2.jpg\" loading=\"lazy\" alt=\"New Alienware Gaming-Laptops!\"></picture><div class=\"intro_featured_bar_title\">▶ New Alienware Gaming-Laptops!</div>",
-			"retrieved": 1773774179686
 		}
 	]
 }
