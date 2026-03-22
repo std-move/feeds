@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-22T06:55:09.710Z</updated>
+    <updated>2026-03-22T08:37:26.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>link-cc7ef7b3da396745e7350c21b7dc8688</id>
         <link href="https://news.ycombinator.com/item?id=47460525"/>
         <updated>2026-03-21T10:28:01.130Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1207 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">1 day ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">595&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1208 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">1 day ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">596&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)]]></title>
@@ -45,7 +45,7 @@
         <id>link-80e115955c4b73ace2b1c1accd882799</id>
         <link href="https://news.ycombinator.com/item?id=47454341"/>
         <updated>2026-03-21T06:43:49.342Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">954 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">1 day ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">748&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">958 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">1 day ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">750&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Have a fucking website (otherstrangeness.com)]]></title>
@@ -73,6 +73,6 @@
         <id>link-d5b88b6ec8806d48e27e63df2df0d05a</id>
         <link href="https://news.ycombinator.com/item?id=47444319"/>
         <updated>2026-03-22T02:21:24.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47444319">780 points</span> by <a href="user?id=freddykruger" class="hnuser">freddykruger</a> <span class="age" title="2026-03-19T19:08:02 1773947282"><a href="item?id=47444319">1 day ago</a></span> <span id="unv_47444319"></span> | <a href="item?id=47444319">280&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service">Delve – Fake Compliance as a Service</a><span class="sitebit comhead"> (<a href="from?site=deepdelver.substack.com"><span class="sitestr">deepdelver.substack.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47444319">782 points</span> by <a href="user?id=freddykruger" class="hnuser">freddykruger</a> <span class="age" title="2026-03-19T19:08:02 1773947282"><a href="item?id=47444319">1 day ago</a></span> <span id="unv_47444319"></span> | <a href="item?id=47444319">282&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service">Delve – Fake Compliance as a Service</a><span class="sitebit comhead"> (<a href="from?site=deepdelver.substack.com"><span class="sitestr">deepdelver.substack.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
