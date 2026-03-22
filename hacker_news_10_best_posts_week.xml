@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-22T08:37:26.304Z</updated>
+    <updated>2026-03-22T10:30:06.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,42 +10,42 @@
         <id>link-1706e2fb3cb39969063d751734346668</id>
         <link href="https://news.ycombinator.com/item?id=47438723"/>
         <updated>2026-03-19T19:00:03.159Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47438723">1468 points</span> by <a href="user?id=ibraheemdev" class="hnuser">ibraheemdev</a> <span class="age" title="2026-03-19T13:05:50 1773925550"><a href="item?id=47438723">2 days ago</a></span> <span id="unv_47438723"></span> | <a href="item?id=47438723">888&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astral.sh/blog/openai">Astral to Join OpenAI</a><span class="sitebit comhead"> (<a href="from?site=astral.sh"><span class="sitestr">astral.sh</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47438723">1469 points</span> by <a href="user?id=ibraheemdev" class="hnuser">ibraheemdev</a> <span class="age" title="2026-03-19T13:05:50 1773925550"><a href="item?id=47438723">2 days ago</a></span> <span id="unv_47438723"></span> | <a href="item?id=47438723">888&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astral.sh/blog/openai">Astral to Join OpenAI</a><span class="sitebit comhead"> (<a href="from?site=astral.sh"><span class="sitestr">astral.sh</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Afroman found not liable in defamation case (nypost.com)]]></title>
         <id>link-b53e2d9755960173c9a6c53142c17f28</id>
         <link href="https://news.ycombinator.com/item?id=47436950"/>
         <updated>2026-03-19T16:58:53.976Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1241 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">2 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">716&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1242 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">3 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">716&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenCode – Open source AI coding agent (opencode.ai)]]></title>
         <id>link-cc7ef7b3da396745e7350c21b7dc8688</id>
         <link href="https://news.ycombinator.com/item?id=47460525"/>
         <updated>2026-03-21T10:28:01.130Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1208 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">1 day ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">596&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1211 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">1 day ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">597&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)]]></title>
         <id>link-9f7a172dccf8a72ec53819c2c4b4b32b</id>
         <link href="https://news.ycombinator.com/item?id=47442690"/>
         <updated>2026-03-20T10:38:46.871Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47442690">1178 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-03-19T17:16:04 1773940564"><a href="item?id=47442690">2 days ago</a></span> <span id="unv_47442690"></span> | <a href="item?id=47442690">1248&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/">Google details new 24-hour process to sideload unverified Android apps</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47442690">1179 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-03-19T17:16:04 1773940564"><a href="item?id=47442690">2 days ago</a></span> <span id="unv_47442690"></span> | <a href="item?id=47442690">1248&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/">Google details new 24-hour process to sideload unverified Android apps</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rob Pike’s Rules of Programming (1989) (unc.edu)]]></title>
         <id>link-e6cceab56471e18b9303a46d433fb182</id>
         <link href="https://news.ycombinator.com/item?id=47423647"/>
         <updated>2026-03-18T22:33:27.556Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47423647">1002 points</span> by <a href="user?id=vismit2000" class="hnuser">vismit2000</a> <span class="age" title="2026-03-18T09:59:54 1773827994"><a href="item?id=47423647">3 days ago</a></span> <span id="unv_47423647"></span> | <a href="item?id=47423647">448&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html">Rob Pike’s Rules of Programming (1989)</a><span class="sitebit comhead"> (<a href="from?site=unc.edu"><span class="sitestr">unc.edu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47423647">1003 points</span> by <a href="user?id=vismit2000" class="hnuser">vismit2000</a> <span class="age" title="2026-03-18T09:59:54 1773827994"><a href="item?id=47423647">4 days ago</a></span> <span id="unv_47423647"></span> | <a href="item?id=47423647">448&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html">Rob Pike’s Rules of Programming (1989)</a><span class="sitebit comhead"> (<a href="from?site=unc.edu"><span class="sitestr">unc.edu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm OK being left behind, thanks (shkspr.mobi)]]></title>
         <id>link-80e115955c4b73ace2b1c1accd882799</id>
         <link href="https://news.ycombinator.com/item?id=47454341"/>
         <updated>2026-03-21T06:43:49.342Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">958 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">1 day ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">750&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">964 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">1 day ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">751&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Have a fucking website (otherstrangeness.com)]]></title>
@@ -66,13 +66,13 @@
         <id>link-61d12acbdf069f836b79f984d08376b6</id>
         <link href="https://news.ycombinator.com/item?id=47450478"/>
         <updated>2026-03-22T02:21:24.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47450478">795 points</span> by <a href="user?id=bookstore-romeo" class="hnuser">bookstore-romeo</a> <span class="age" title="2026-03-20T04:24:11 1773980651"><a href="item?id=47450478">2 days ago</a></span> <span id="unv_47450478"></span> | <a href="item?id=47450478">273&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell">ArXiv declares independence from Cornell</a><span class="sitebit comhead"> (<a href="from?site=science.org"><span class="sitestr">science.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47450478">798 points</span> by <a href="user?id=bookstore-romeo" class="hnuser">bookstore-romeo</a> <span class="age" title="2026-03-20T04:24:11 1773980651"><a href="item?id=47450478">2 days ago</a></span> <span id="unv_47450478"></span> | <a href="item?id=47450478">273&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell">ArXiv declares independence from Cornell</a><span class="sitebit comhead"> (<a href="from?site=science.org"><span class="sitestr">science.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Delve – Fake Compliance as a Service (deepdelver.substack.com)]]></title>
         <id>link-d5b88b6ec8806d48e27e63df2df0d05a</id>
         <link href="https://news.ycombinator.com/item?id=47444319"/>
         <updated>2026-03-22T02:21:24.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47444319">782 points</span> by <a href="user?id=freddykruger" class="hnuser">freddykruger</a> <span class="age" title="2026-03-19T19:08:02 1773947282"><a href="item?id=47444319">1 day ago</a></span> <span id="unv_47444319"></span> | <a href="item?id=47444319">282&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service">Delve – Fake Compliance as a Service</a><span class="sitebit comhead"> (<a href="from?site=deepdelver.substack.com"><span class="sitestr">deepdelver.substack.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47444319">786 points</span> by <a href="user?id=freddykruger" class="hnuser">freddykruger</a> <span class="age" title="2026-03-19T19:08:02 1773947282"><a href="item?id=47444319">1 day ago</a></span> <span id="unv_47444319"></span> | <a href="item?id=47444319">283&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service">Delve – Fake Compliance as a Service</a><span class="sitebit comhead"> (<a href="from?site=deepdelver.substack.com"><span class="sitestr">deepdelver.substack.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
