@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-03-22T16:33:59.201Z</updated>
+    <updated>2026-03-22T18:40:45.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,28 +10,28 @@
         <id>link-1706e2fb3cb39969063d751734346668</id>
         <link href="https://news.ycombinator.com/item?id=47438723"/>
         <updated>2026-03-19T16:58:53.976Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47438723">1471 points</span> by <a href="user?id=ibraheemdev" class="hnuser">ibraheemdev</a> <span class="age" title="2026-03-19T13:05:50 1773925550"><a href="item?id=47438723">3 days ago</a></span> <span id="unv_47438723"></span> | <a href="item?id=47438723">891&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astral.sh/blog/openai">Astral to Join OpenAI</a><span class="sitebit comhead"> (<a href="from?site=astral.sh"><span class="sitestr">astral.sh</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47438723">1474 points</span> by <a href="user?id=ibraheemdev" class="hnuser">ibraheemdev</a> <span class="age" title="2026-03-19T13:05:50 1773925550"><a href="item?id=47438723">3 days ago</a></span> <span id="unv_47438723"></span> | <a href="item?id=47438723">891&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astral.sh/blog/openai">Astral to Join OpenAI</a><span class="sitebit comhead"> (<a href="from?site=astral.sh"><span class="sitestr">astral.sh</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Afroman found not liable in defamation case (nypost.com)]]></title>
         <id>link-b53e2d9755960173c9a6c53142c17f28</id>
         <link href="https://news.ycombinator.com/item?id=47436950"/>
         <updated>2026-03-19T14:48:58.638Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1245 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">3 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">716&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1246 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">3 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">718&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenCode – Open source AI coding agent (opencode.ai)]]></title>
         <id>link-cc7ef7b3da396745e7350c21b7dc8688</id>
         <link href="https://news.ycombinator.com/item?id=47460525"/>
         <updated>2026-03-21T05:06:38.971Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1228 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">1 day ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">605&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1233 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">1 day ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">607&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)]]></title>
         <id>link-9f7a172dccf8a72ec53819c2c4b4b32b</id>
         <link href="https://news.ycombinator.com/item?id=47442690"/>
         <updated>2026-03-20T02:07:31.561Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47442690">1182 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-03-19T17:16:04 1773940564"><a href="item?id=47442690">2 days ago</a></span> <span id="unv_47442690"></span> | <a href="item?id=47442690">1252&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/">Google details new 24-hour process to sideload unverified Android apps</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47442690">1183 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-03-19T17:16:04 1773940564"><a href="item?id=47442690">3 days ago</a></span> <span id="unv_47442690"></span> | <a href="item?id=47442690">1252&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/">Google details new 24-hour process to sideload unverified Android apps</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rob Pike’s Rules of Programming (1989) (unc.edu)]]></title>
@@ -45,7 +45,7 @@
         <id>link-80e115955c4b73ace2b1c1accd882799</id>
         <link href="https://news.ycombinator.com/item?id=47454341"/>
         <updated>2026-03-20T16:43:52.009Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">970 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">2 days ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">753&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">973 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">2 days ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">753&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Have a fucking website (otherstrangeness.com)]]></title>
@@ -66,28 +66,28 @@
         <id>link-61d12acbdf069f836b79f984d08376b6</id>
         <link href="https://news.ycombinator.com/item?id=47450478"/>
         <updated>2026-03-20T16:43:52.009Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47450478">800 points</span> by <a href="user?id=bookstore-romeo" class="hnuser">bookstore-romeo</a> <span class="age" title="2026-03-20T04:24:11 1773980651"><a href="item?id=47450478">2 days ago</a></span> <span id="unv_47450478"></span> | <a href="item?id=47450478">272&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell">ArXiv declares independence from Cornell</a><span class="sitebit comhead"> (<a href="from?site=science.org"><span class="sitestr">science.org</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delve – Fake Compliance as a Service (deepdelver.substack.com)]]></title>
-        <id>link-d5b88b6ec8806d48e27e63df2df0d05a</id>
-        <link href="https://news.ycombinator.com/item?id=47444319"/>
-        <updated>2026-03-21T02:01:30.158Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47444319">789 points</span> by <a href="user?id=freddykruger" class="hnuser">freddykruger</a> <span class="age" title="2026-03-19T19:08:02 1773947282"><a href="item?id=47444319">2 days ago</a></span> <span id="unv_47444319"></span> | <a href="item?id=47444319">285&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service">Delve – Fake Compliance as a Service</a><span class="sitebit comhead"> (<a href="from?site=deepdelver.substack.com"><span class="sitestr">deepdelver.substack.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47450478">802 points</span> by <a href="user?id=bookstore-romeo" class="hnuser">bookstore-romeo</a> <span class="age" title="2026-03-20T04:24:11 1773980651"><a href="item?id=47450478">2 days ago</a></span> <span id="unv_47450478"></span> | <a href="item?id=47450478">273&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell">ArXiv declares independence from Cornell</a><span class="sitebit comhead"> (<a href="from?site=science.org"><span class="sitestr">science.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some things just take time (pocoo.org)]]></title>
         <id>link-077b0bd3248993bf99458323f76cad7c</id>
         <link href="https://news.ycombinator.com/item?id=47467537"/>
         <updated>2026-03-22T02:21:24.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">788 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">1 day ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">250&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">797 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">1 day ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">252&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Do Not Turn Child Protection into Internet Access Control (dyne.org)]]></title>
         <id>link-6857a11fcea992c83596102bb47e1baf</id>
         <link href="https://news.ycombinator.com/item?id=47470991"/>
         <updated>2026-03-22T02:21:24.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470991">778 points</span> by <a href="user?id=smartmic" class="hnuser">smartmic</a> <span class="age" title="2026-03-21T20:32:20 1774125140"><a href="item?id=47470991">20 hours ago</a></span> <span id="unv_47470991"></span> | <a href="item?id=47470991">406&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.dyne.org/child-protection-is-not-access-control/">Do Not Turn Child Protection into Internet Access Control</a><span class="sitebit comhead"> (<a href="from?site=dyne.org"><span class="sitestr">dyne.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470991">793 points</span> by <a href="user?id=smartmic" class="hnuser">smartmic</a> <span class="age" title="2026-03-21T20:32:20 1774125140"><a href="item?id=47470991">22 hours ago</a></span> <span id="unv_47470991"></span> | <a href="item?id=47470991">416&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.dyne.org/child-protection-is-not-access-control/">Do Not Turn Child Protection into Internet Access Control</a><span class="sitebit comhead"> (<a href="from?site=dyne.org"><span class="sitestr">dyne.org</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delve – Fake Compliance as a Service (deepdelver.substack.com)]]></title>
+        <id>link-d5b88b6ec8806d48e27e63df2df0d05a</id>
+        <link href="https://news.ycombinator.com/item?id=47444319"/>
+        <updated>2026-03-21T02:01:30.158Z</updated>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47444319">792 points</span> by <a href="user?id=freddykruger" class="hnuser">freddykruger</a> <span class="age" title="2026-03-19T19:08:02 1773947282"><a href="item?id=47444319">2 days ago</a></span> <span id="unv_47444319"></span> | <a href="item?id=47444319">285&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service">Delve – Fake Compliance as a Service</a><span class="sitebit comhead"> (<a href="from?site=deepdelver.substack.com"><span class="sitestr">deepdelver.substack.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chuck Norris has died (variety.com)]]></title>
@@ -115,21 +115,21 @@
         <id>link-e5a0198085cffcee19cccd742105635d</id>
         <link href="https://news.ycombinator.com/item?id=47434047"/>
         <updated>2026-03-19T16:58:53.976Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47434047">641 points</span> by <a href="user?id=signa11" class="hnuser">signa11</a> <span class="age" title="2026-03-19T02:23:17 1773886997"><a href="item?id=47434047">3 days ago</a></span> <span id="unv_47434047"></span> | <a href="item?id=47434047">331&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code">A sufficiently detailed spec is code</a><span class="sitebit comhead"> (<a href="from?site=haskellforall.com"><span class="sitestr">haskellforall.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47434047">641 points</span> by <a href="user?id=signa11" class="hnuser">signa11</a> <span class="age" title="2026-03-19T02:23:17 1773886997"><a href="item?id=47434047">3 days ago</a></span> <span id="unv_47434047"></span> | <a href="item?id=47434047">334&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code">A sufficiently detailed spec is code</a><span class="sitebit comhead"> (<a href="from?site=haskellforall.com"><span class="sitestr">haskellforall.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France's aircraft carrier located in real time by Le Monde through fitness app (lemonde.fr)]]></title>
         <id>link-208a05d56f1bdec6014f22764e97a2ba</id>
         <link href="https://news.ycombinator.com/item?id=47453942"/>
         <updated>2026-03-21T06:43:49.342Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47453942">630 points</span> by <a href="user?id=MrDresden" class="hnuser">MrDresden</a> <span class="age" title="2026-03-20T13:01:56 1774011716"><a href="item?id=47453942">2 days ago</a></span> <span id="unv_47453942"></span> | <a href="item?id=47453942">519&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html">France's aircraft carrier located in real time by Le Monde through fitness app</a><span class="sitebit comhead"> (<a href="from?site=lemonde.fr"><span class="sitestr">lemonde.fr</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47453942">633 points</span> by <a href="user?id=MrDresden" class="hnuser">MrDresden</a> <span class="age" title="2026-03-20T13:01:56 1774011716"><a href="item?id=47453942">2 days ago</a></span> <span id="unv_47453942"></span> | <a href="item?id=47453942">519&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html">France's aircraft carrier located in real time by Le Monde through fitness app</a><span class="sitebit comhead"> (<a href="from?site=lemonde.fr"><span class="sitestr">lemonde.fr</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Our commitment to Windows quality (windows.com)]]></title>
         <id>link-a7b60c3e069b0e0af4b91172970579e8</id>
         <link href="https://news.ycombinator.com/item?id=47459296"/>
         <updated>2026-03-21T06:43:49.342Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47459296">625 points</span> by <a href="user?id=hadrien01" class="hnuser">hadrien01</a> <span class="age" title="2026-03-20T19:16:13 1774034173"><a href="item?id=47459296">1 day ago</a></span> <span id="unv_47459296"></span> | <a href="item?id=47459296">1167&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/">Our commitment to Windows quality</a><span class="sitebit comhead"> (<a href="from?site=windows.com"><span class="sitestr">windows.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47459296">625 points</span> by <a href="user?id=hadrien01" class="hnuser">hadrien01</a> <span class="age" title="2026-03-20T19:16:13 1774034173"><a href="item?id=47459296">1 day ago</a></span> <span id="unv_47459296"></span> | <a href="item?id=47459296">1168&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/">Our commitment to Windows quality</a><span class="sitebit comhead"> (<a href="from?site=windows.com"><span class="sitestr">windows.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“Your frustration is the product” (daringfireball.net)]]></title>
@@ -146,32 +146,32 @@
         <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47422942">586 points</span> by <a href="user?id=rzzzzru" class="hnuser">rzzzzru</a> <span class="age" title="2026-03-18T08:06:24 1773821184"><a href="item?id=47422942">4 days ago</a></span> <span id="unv_47422942"></span> | <a href="item?id=47422942">162&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nightingale.cafe/">Nightingale – open-source karaoke app that works with any song on your computer</a><span class="sitebit comhead"> (<a href="from?site=nightingale.cafe"><span class="sitestr">nightingale.cafe</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Three new Kitten TTS models – smallest less than 25MB (github.com/kittenml)]]></title>
-        <id>link-5fcb036076a8cec3c660198d78a81c59</id>
-        <link href="https://news.ycombinator.com/item?id=47441546"/>
-        <updated>2026-03-21T06:43:49.342Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47441546">551 points</span> by <a href="user?id=rohan_joshi" class="hnuser">rohan_joshi</a> <span class="age" title="2026-03-19T15:56:06 1773935766"><a href="item?id=47441546">3 days ago</a></span> <span id="unv_47441546"></span> | <a href="item?id=47441546">178&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/KittenML/KittenTTS">Show HN: Three new Kitten TTS models – smallest less than 25MB</a><span class="sitebit comhead"> (<a href="from?site=github.com/kittenml"><span class="sitestr">github.com/kittenml</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[Hormuz Minesweeper – Are you tired of winning? (pythonic.ninja)]]></title>
+        <id>link-2cb3e6f4971197a2c373a48be127893b</id>
+        <link href="https://news.ycombinator.com/item?id=47475686"/>
+        <updated>2026-03-22T16:32:07.307Z</updated>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47475686">572 points</span> by <a href="user?id=PythonicNinja" class="hnuser">PythonicNinja</a> <span class="age" title="2026-03-22T09:00:37 1774170037"><a href="item?id=47475686">9 hours ago</a></span> <span id="unv_47475686"></span> | <a href="item?id=47475686">378&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hormuz.pythonic.ninja/">Hormuz Minesweeper – Are you tired of winning?</a><span class="sitebit comhead"> (<a href="from?site=pythonic.ninja"><span class="sitestr">pythonic.ninja</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tinybox – A powerful computer for deep learning (tinygrad.org)]]></title>
         <id>link-f04990881bce9114b03d8188afab82f8</id>
         <link href="https://news.ycombinator.com/item?id=47470773"/>
         <updated>2026-03-22T08:35:48.109Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470773">550 points</span> by <a href="user?id=albelfio" class="hnuser">albelfio</a> <span class="age" title="2026-03-21T20:08:37 1774123717"><a href="item?id=47470773">20 hours ago</a></span> <span id="unv_47470773"></span> | <a href="item?id=47470773">319&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tinygrad.org/#tinybox">Tinybox – A powerful computer for deep learning</a><span class="sitebit comhead"> (<a href="from?site=tinygrad.org"><span class="sitestr">tinygrad.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470773">566 points</span> by <a href="user?id=albelfio" class="hnuser">albelfio</a> <span class="age" title="2026-03-21T20:08:37 1774123717"><a href="item?id=47470773">22 hours ago</a></span> <span id="unv_47470773"></span> | <a href="item?id=47470773">326&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tinygrad.org/#tinybox">Tinybox – A powerful computer for deep learning</a><span class="sitebit comhead"> (<a href="from?site=tinygrad.org"><span class="sitestr">tinygrad.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hormuz Minesweeper – Are you tired of winning? (pythonic.ninja)]]></title>
-        <id>link-2cb3e6f4971197a2c373a48be127893b</id>
-        <link href="https://news.ycombinator.com/item?id=47475686"/>
-        <updated>2026-03-22T16:32:07.307Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47475686">540 points</span> by <a href="user?id=PythonicNinja" class="hnuser">PythonicNinja</a> <span class="age" title="2026-03-22T09:00:37 1774170037"><a href="item?id=47475686">7 hours ago</a></span> <span id="unv_47475686"></span> | <a href="item?id=47475686">351&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hormuz.pythonic.ninja/">Hormuz Minesweeper – Are you tired of winning?</a><span class="sitebit comhead"> (<a href="from?site=pythonic.ninja"><span class="sitestr">pythonic.ninja</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[Show HN: Three new Kitten TTS models – smallest less than 25MB (github.com/kittenml)]]></title>
+        <id>link-5fcb036076a8cec3c660198d78a81c59</id>
+        <link href="https://news.ycombinator.com/item?id=47441546"/>
+        <updated>2026-03-21T06:43:49.342Z</updated>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47441546">551 points</span> by <a href="user?id=rohan_joshi" class="hnuser">rohan_joshi</a> <span class="age" title="2026-03-19T15:56:06 1773935766"><a href="item?id=47441546">3 days ago</a></span> <span id="unv_47441546"></span> | <a href="item?id=47441546">178&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/KittenML/KittenTTS">Show HN: Three new Kitten TTS models – smallest less than 25MB</a><span class="sitebit comhead"> (<a href="from?site=github.com/kittenml"><span class="sitestr">github.com/kittenml</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record (eff.org)]]></title>
         <id>link-c62b7ddf9fc2a369ce576cb02e021c58</id>
         <link href="https://news.ycombinator.com/item?id=47464818"/>
         <updated>2026-03-21T22:26:07.678Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47464818">538 points</span> by <a href="user?id=pabs3" class="hnuser">pabs3</a> <span class="age" title="2026-03-21T07:30:16 1774078216"><a href="item?id=47464818">1 day ago</a></span> <span id="unv_47464818"></span> | <a href="item?id=47464818">150&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record">Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47464818">540 points</span> by <a href="user?id=pabs3" class="hnuser">pabs3</a> <span class="age" title="2026-03-21T07:30:16 1774078216"><a href="item?id=47464818">1 day ago</a></span> <span id="unv_47464818"></span> | <a href="item?id=47464818">150&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record">Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Warranty Void If Regenerated (nearzero.software)]]></title>
@@ -199,20 +199,20 @@
         <id>link-32c0cfff00c749b72a9b28e0c96e1a9d</id>
         <link href="https://news.ycombinator.com/item?id=47416486"/>
         <updated>2026-03-21T06:43:49.342Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47416486">481 points</span> by <a href="user?id=guidoiaquinti" class="hnuser">guidoiaquinti</a> <span class="age" title="2026-03-17T18:37:27 1773772647"><a href="item?id=47416486">4 days ago</a></span> <span id="unv_47416486"></span> | <a href="item?id=47416486">308&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fidget-spinner.github.io/posts/jit-on-track.html">Python 3.15's JIT is now back on track</a><span class="sitebit comhead"> (<a href="from?site=fidget-spinner.github.io"><span class="sitestr">fidget-spinner.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47416486">481 points</span> by <a href="user?id=guidoiaquinti" class="hnuser">guidoiaquinti</a> <span class="age" title="2026-03-17T18:37:27 1773772647"><a href="item?id=47416486">5 days ago</a></span> <span id="unv_47416486"></span> | <a href="item?id=47416486">308&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://fidget-spinner.github.io/posts/jit-on-track.html">Python 3.15's JIT is now back on track</a><span class="sitebit comhead"> (<a href="from?site=fidget-spinner.github.io"><span class="sitestr">fidget-spinner.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Japanese glossary of chopsticks faux pas (2022) (nippon.com)]]></title>
         <id>link-e0ac92b21e06112b28e9b08274a19755</id>
         <link href="https://news.ycombinator.com/item?id=47460452"/>
         <updated>2026-03-22T02:21:24.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460452">477 points</span> by <a href="user?id=cainxinth" class="hnuser">cainxinth</a> <span class="age" title="2026-03-20T20:54:57 1774040097"><a href="item?id=47460452">1 day ago</a></span> <span id="unv_47460452"></span> | <a href="item?id=47460452">383&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nippon.com/en/japan-data/h01362/">A Japanese glossary of chopsticks faux pas (2022)</a><span class="sitebit comhead"> (<a href="from?site=nippon.com"><span class="sitestr">nippon.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460452">477 points</span> by <a href="user?id=cainxinth" class="hnuser">cainxinth</a> <span class="age" title="2026-03-20T20:54:57 1774040097"><a href="item?id=47460452">1 day ago</a></span> <span id="unv_47460452"></span> | <a href="item?id=47460452">384&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nippon.com/en/japan-data/h01362/">A Japanese glossary of chopsticks faux pas (2022)</a><span class="sitebit comhead"> (<a href="from?site=nippon.com"><span class="sitestr">nippon.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic takes legal action against OpenCode (github.com/anomalyco)]]></title>
         <id>link-d3e6c24aacb5384a6ad586321d64084b</id>
         <link href="https://news.ycombinator.com/item?id=47444748"/>
         <updated>2026-03-21T06:43:49.342Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47444748">476 points</span> by <a href="user?id=_squared_" class="hnuser">_squared_</a> <span class="age" title="2026-03-19T19:37:26 1773949046"><a href="item?id=47444748">2 days ago</a></span> <span id="unv_47444748"></span> | <a href="item?id=47444748">397&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/anomalyco/opencode/pull/18186">Anthropic takes legal action against OpenCode</a><span class="sitebit comhead"> (<a href="from?site=github.com/anomalyco"><span class="sitestr">github.com/anomalyco</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47444748">476 points</span> by <a href="user?id=_squared_" class="hnuser">_squared_</a> <span class="age" title="2026-03-19T19:37:26 1773949046"><a href="item?id=47444748">2 days ago</a></span> <span id="unv_47444748"></span> | <a href="item?id=47444748">398&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/anomalyco/opencode/pull/18186">Anthropic takes legal action against OpenCode</a><span class="sitebit comhead"> (<a href="from?site=github.com/anomalyco"><span class="sitestr">github.com/anomalyco</span></a>)</span></span>]]></content>
     </entry>
 </feed>

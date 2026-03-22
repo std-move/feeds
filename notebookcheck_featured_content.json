@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-a991018c408ee006f8298907793b6157",
+			"title": "Best smartphones: Spring 2026",
+			"link": "https://www.notebookcheck.net/The-best-smartphones-spring-2026-26-phones-compared.1250353.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/e/csm_edcoice_intro_mobile2_fc82f747ea.jpg\" loading=\"lazy\" alt=\"Best smartphones to buy in spring 2026\"></picture><div class=\"intro_featured_bar_title\">Best smartphones: Spring 2026</div>",
+			"retrieved": 1774204725697
+		},
+		{
 			"id": "link-2b6f15759f145bc88120190ae938fbdf",
 			"title": "▶ A great laptop for a very wrong price! - Samsung GalaxyBook6 Ultra Review",
 			"link": "https://www.notebookcheck.net/A-great-laptop-for-a-very-wrong-price-Samsung-GalaxyBook6-Ultra-Review.1256891.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Lenovo-Tab-K11-Gen-2-Review-A-5G-metal-unibody-price-hit-business-tablet-that-you-may-be-overlooking.1253510.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_K11_Gen_2/Test_Lenovo_Tab_K11_Gen2_3-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/0/csm_Test_Lenovo_Tab_K11_Gen2_3_0e6258e085.jpg\" loading=\"lazy\" alt=\"Lenovo Tab K11 Gen2 in review\"></picture><div class=\"intro_featured_bar_title\">Lenovo Tab K11 Gen 2: Old tab, new tricks</div>",
 			"retrieved": 1774017701382
-		},
-		{
-			"id": "link-1ab5c7dfbe403c40031f721750db22d2",
-			"title": "iDX6011 Pro review: AI NAS tested",
-			"link": "https://www.notebookcheck.net/Ugreen-iDX6011-Pro-review-NAS-power-with-desktop-hardware-and-AI-features.1253511.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/UgreenNAS48-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/UgreenNAS48-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/UgreenNAS48-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/UgreenNAS48-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/UgreenNAS48-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/UgreenNAS48-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/8/csm_UgreenNAS48_d9c041182c.jpg\" loading=\"lazy\" alt=\"Ugreen iDX6011 Pro review: NAS power with desktop hardware and AI features\"></picture><div class=\"intro_featured_bar_title\">iDX6011 Pro review: AI NAS tested</div>",
-			"retrieved": 1774003126871
 		}
 	]
 }
