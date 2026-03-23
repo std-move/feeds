@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-23T14:57:50.585Z</updated>
+    <updated>2026-03-23T16:58:46.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,28 +10,28 @@
         <id>link-1706e2fb3cb39969063d751734346668</id>
         <link href="https://news.ycombinator.com/item?id=47438723"/>
         <updated>2026-03-19T19:00:03.159Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47438723">1481 points</span> by <a href="user?id=ibraheemdev" class="hnuser">ibraheemdev</a> <span class="age" title="2026-03-19T13:05:50 1773925550"><a href="item?id=47438723">4 days ago</a></span> <span id="unv_47438723"></span> | <a href="item?id=47438723">896&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astral.sh/blog/openai">Astral to Join OpenAI</a><span class="sitebit comhead"> (<a href="from?site=astral.sh"><span class="sitestr">astral.sh</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47438723">1482 points</span> by <a href="user?id=ibraheemdev" class="hnuser">ibraheemdev</a> <span class="age" title="2026-03-19T13:05:50 1773925550"><a href="item?id=47438723">4 days ago</a></span> <span id="unv_47438723"></span> | <a href="item?id=47438723">896&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://astral.sh/blog/openai">Astral to Join OpenAI</a><span class="sitebit comhead"> (<a href="from?site=astral.sh"><span class="sitestr">astral.sh</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenCode – Open source AI coding agent (opencode.ai)]]></title>
         <id>link-cc7ef7b3da396745e7350c21b7dc8688</id>
         <link href="https://news.ycombinator.com/item?id=47460525"/>
         <updated>2026-03-21T10:28:01.130Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1249 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">2 days ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">617&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1251 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">2 days ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">617&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Afroman found not liable in defamation case (nypost.com)]]></title>
         <id>link-b53e2d9755960173c9a6c53142c17f28</id>
         <link href="https://news.ycombinator.com/item?id=47436950"/>
         <updated>2026-03-19T16:58:53.976Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1246 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">4 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">724&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1246 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">4 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">725&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)]]></title>
         <id>link-9f7a172dccf8a72ec53819c2c4b4b32b</id>
         <link href="https://news.ycombinator.com/item?id=47442690"/>
         <updated>2026-03-20T10:38:46.871Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47442690">1190 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-03-19T17:16:04 1773940564"><a href="item?id=47442690">3 days ago</a></span> <span id="unv_47442690"></span> | <a href="item?id=47442690">1256&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/">Google details new 24-hour process to sideload unverified Android apps</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47442690">1191 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-03-19T17:16:04 1773940564"><a href="item?id=47442690">3 days ago</a></span> <span id="unv_47442690"></span> | <a href="item?id=47442690">1256&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/">Google details new 24-hour process to sideload unverified Android apps</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rob Pike’s Rules of Programming (1989) (unc.edu)]]></title>
@@ -45,7 +45,7 @@
         <id>link-80e115955c4b73ace2b1c1accd882799</id>
         <link href="https://news.ycombinator.com/item?id=47454341"/>
         <updated>2026-03-21T06:43:49.342Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">981 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">3 days ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">758&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">982 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">3 days ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">758&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Have a fucking website (otherstrangeness.com)]]></title>
@@ -59,14 +59,14 @@
         <id>link-077b0bd3248993bf99458323f76cad7c</id>
         <link href="https://news.ycombinator.com/item?id=47467537"/>
         <updated>2026-03-22T18:38:45.697Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">825 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">2 days ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">268&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">828 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">2 days ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">269&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Do Not Turn Child Protection into Internet Access Control (dyne.org)]]></title>
         <id>link-6857a11fcea992c83596102bb47e1baf</id>
         <link href="https://news.ycombinator.com/item?id=47470991"/>
         <updated>2026-03-22T22:27:00.379Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470991">822 points</span> by <a href="user?id=smartmic" class="hnuser">smartmic</a> <span class="age" title="2026-03-21T20:32:20 1774125140"><a href="item?id=47470991">1 day ago</a></span> <span id="unv_47470991"></span> | <a href="item?id=47470991">438&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.dyne.org/child-protection-is-not-access-control/">Do Not Turn Child Protection into Internet Access Control</a><span class="sitebit comhead"> (<a href="from?site=dyne.org"><span class="sitestr">dyne.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470991">824 points</span> by <a href="user?id=smartmic" class="hnuser">smartmic</a> <span class="age" title="2026-03-21T20:32:20 1774125140"><a href="item?id=47470991">1 day ago</a></span> <span id="unv_47470991"></span> | <a href="item?id=47470991">442&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.dyne.org/child-protection-is-not-access-control/">Do Not Turn Child Protection into Internet Access Control</a><span class="sitebit comhead"> (<a href="from?site=dyne.org"><span class="sitestr">dyne.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Austin’s surge of new housing construction drove down rents (pew.org)]]></title>
