@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-7c05f33e625386d25c825281d040982e",
+			"title": "Better than Dreame & Roborock? Eureka J15 Max Ultra review",
+			"link": "https://www.notebookcheck.net/Better-than-Dreame-Roborock-Co-Eureka-J15-Max-Ultra-review.1256386.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Eureka-J15-Max-Ultra-Test26-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Eureka-J15-Max-Ultra-Test26-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Eureka-J15-Max-Ultra-Test26-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Eureka-J15-Max-Ultra-Test26-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Eureka-J15-Max-Ultra-Test26-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Eureka-J15-Max-Ultra-Test26-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/8/csm_Eureka-J15-Max-Ultra-Test26_10c02bd865.jpg\" loading=\"lazy\" alt=\"Eureka J15 Max Ultra review\"></picture><div class=\"intro_featured_bar_title\">Better than Dreame &amp; Roborock? Eureka J15 Max Ultra review</div>",
+			"retrieved": 1774292140709
+		},
+		{
 			"id": "link-fd0ac5971d399dfff72b2ac1a81c5380",
 			"title": "Desktop power at a competitive price: Core Ultra 200S Plus in detail",
 			"link": "https://www.notebookcheck.net/Intel-Core-Ultra-200S-Plus-review-More-cores-and-more-power-for-gamers-starting-at-199.1257023.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Orbital-Pathfinder-mouse-review-Infinite-customization-with-a-great-mouse-to-boot.1255733.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/b/csm_orbital-pathfinder-mouse-review-feature-1_e4fc7cd17f.jpg\" loading=\"lazy\" alt=\"Orbital Pathfinder mouse review: Infinite customization, with a great mouse to boot\"></picture><div class=\"intro_featured_bar_title\">Orbital Pathfinder gaming mouse review</div>",
 			"retrieved": 1774038838594
-		},
-		{
-			"id": "link-5d7e77f319bfdcb773378b219b719985",
-			"title": "Dell XPS 16 review: Betting it all on Panther Lake",
-			"link": "https://www.notebookcheck.net/Dell-XPS-16-review-Two-steps-forward-one-step-back.1251724.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_5_325/xps16feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/d/csm_xps16feature_1_55cd511307.jpg\" loading=\"lazy\" alt=\"Dell XPS 16 review: Two steps forward, one step back\"></picture><div class=\"intro_featured_bar_title\">Dell XPS 16 review: Betting it all on Panther Lake</div>",
-			"retrieved": 1774032712226
 		}
 	]
 }
