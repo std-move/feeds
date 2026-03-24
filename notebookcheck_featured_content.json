@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-4bf2d279692fe79ec1458eaaeb243b92",
+			"title": "A game to cry over: Death Stranding 2 for PC in review",
+			"link": "https://www.notebookcheck.net/A-game-to-cry-over-Death-Stranding-2-for-PC-in-review.1257836.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/DeathStranding2/intro-ds2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/DeathStranding2/intro-ds2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/DeathStranding2/intro-ds2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/DeathStranding2/intro-ds2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/DeathStranding2/intro-ds2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/DeathStranding2/intro-ds2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/5/csm_intro-ds2_a9b4a27ffb.jpg\" loading=\"lazy\" alt=\"A game to cry over: Death Stranding 2 for PC in review\"></picture><div class=\"intro_featured_bar_title\">A game to cry over: Death Stranding 2 for PC in review</div>",
+			"retrieved": 1774364341983
+		},
+		{
 			"id": "link-7c05f33e625386d25c825281d040982e",
 			"title": "Better than Dreame & Roborock? Eureka J15 Max Ultra review",
 			"link": "https://www.notebookcheck.net/Better-than-Dreame-Roborock-Co-Eureka-J15-Max-Ultra-review.1256386.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Another-laptop-brand-affected-by-CPU-fraud-Manufacturer-promises-clarification.1256384.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/9/csm_ninkeara15pro_5500u_vs_7430u_teaser_neu_95a1c269dc.png\" loading=\"lazy\" alt=\"Another laptop brand affected by CPU fraud: Manufacturer promises clarification\"></picture><div class=\"intro_featured_bar_title\">Another laptop brand affected by CPU fraud: Manufacturer promises clarification</div>",
 			"retrieved": 1774124882257
-		},
-		{
-			"id": "link-42239ca5862b37927648be3d876f1270",
-			"title": "Orbital Pathfinder gaming mouse review",
-			"link": "https://www.notebookcheck.net/Orbital-Pathfinder-mouse-review-Infinite-customization-with-a-great-mouse-to-boot.1255733.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/orbital-pathfinder-mouse-review-feature-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/b/csm_orbital-pathfinder-mouse-review-feature-1_e4fc7cd17f.jpg\" loading=\"lazy\" alt=\"Orbital Pathfinder mouse review: Infinite customization, with a great mouse to boot\"></picture><div class=\"intro_featured_bar_title\">Orbital Pathfinder gaming mouse review</div>",
-			"retrieved": 1774038838594
 		}
 	]
 }
