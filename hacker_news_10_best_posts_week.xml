@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-24T17:02:26.703Z</updated>
+    <updated>2026-03-24T19:06:24.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>link-9f7a172dccf8a72ec53819c2c4b4b32b</id>
         <link href="https://news.ycombinator.com/item?id=47442690"/>
         <updated>2026-03-20T10:38:46.871Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47442690">1192 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-03-19T17:16:04 1773940564"><a href="item?id=47442690">4 days ago</a></span> <span id="unv_47442690"></span> | <a href="item?id=47442690">1256&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/">Google details new 24-hour process to sideload unverified Android apps</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47442690">1192 points</span> by <a href="user?id=0xedb" class="hnuser">0xedb</a> <span class="age" title="2026-03-19T17:16:04 1773940564"><a href="item?id=47442690">5 days ago</a></span> <span id="unv_47442690"></span> | <a href="item?id=47442690">1257&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/">Google details new 24-hour process to sideload unverified Android apps</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rob Pike’s Rules of Programming (1989) (unc.edu)]]></title>
@@ -59,20 +59,20 @@
         <id>link-3f3b48dd6333d310348a30f884022d2d</id>
         <link href="https://news.ycombinator.com/item?id=47487436"/>
         <updated>2026-03-24T02:07:14.420Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47487436">885 points</span> by <a href="user?id=exitnode" class="hnuser">exitnode</a> <span class="age" title="2026-03-23T10:17:32 1774261052"><a href="item?id=47487436">1 day ago</a></span> <span id="unv_47487436"></span> | <a href="item?id=47487436">688&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rz01.org/eu-migration/">Migrating to the EU</a><span class="sitebit comhead"> (<a href="from?site=rz01.org"><span class="sitestr">rz01.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47487436">889 points</span> by <a href="user?id=exitnode" class="hnuser">exitnode</a> <span class="age" title="2026-03-23T10:17:32 1774261052"><a href="item?id=47487436">1 day ago</a></span> <span id="unv_47487436"></span> | <a href="item?id=47487436">690&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rz01.org/eu-migration/">Migrating to the EU</a><span class="sitebit comhead"> (<a href="from?site=rz01.org"><span class="sitestr">rz01.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some things just take time (pocoo.org)]]></title>
         <id>link-077b0bd3248993bf99458323f76cad7c</id>
         <link href="https://news.ycombinator.com/item?id=47467537"/>
         <updated>2026-03-22T18:38:45.697Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">838 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">3 days ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">270&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">839 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">3 days ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">270&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PC Gamer recommends RSS readers in a 37mb article that just keeps downloading (stuartbreckenridge.net)]]></title>
         <id>link-aad3becd7f02d397c9a078d52583a50e</id>
         <link href="https://news.ycombinator.com/item?id=47480507"/>
         <updated>2026-03-24T17:00:22.960Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47480507">833 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-22T18:23:40 1774203820"><a href="item?id=47480507">1 day ago</a></span> <span id="unv_47480507"></span> | <a href="item?id=47480507">392&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/">PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a><span class="sitebit comhead"> (<a href="from?site=stuartbreckenridge.net"><span class="sitestr">stuartbreckenridge.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47480507">835 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-22T18:23:40 1774203820"><a href="item?id=47480507">2 days ago</a></span> <span id="unv_47480507"></span> | <a href="item?id=47480507">392&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/">PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a><span class="sitebit comhead"> (<a href="from?site=stuartbreckenridge.net"><span class="sitestr">stuartbreckenridge.net</span></a>)</span></span>]]></content>
     </entry>
 </feed>
