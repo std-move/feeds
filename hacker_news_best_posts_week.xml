@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-03-24T07:06:58.978Z</updated>
+    <updated>2026-03-24T08:55:56.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,14 +17,14 @@
         <id>link-cc7ef7b3da396745e7350c21b7dc8688</id>
         <link href="https://news.ycombinator.com/item?id=47460525"/>
         <updated>2026-03-21T05:06:38.971Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1255 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">3 days ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">619&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47460525">1258 points</span> by <a href="user?id=rbanffy" class="hnuser">rbanffy</a> <span class="age" title="2026-03-20T21:03:52 1774040632"><a href="item?id=47460525">3 days ago</a></span> <span id="unv_47460525"></span> | <a href="item?id=47460525">618&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://opencode.ai/">OpenCode – Open source AI coding agent</a><span class="sitebit comhead"> (<a href="from?site=opencode.ai"><span class="sitestr">opencode.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Afroman found not liable in defamation case (nypost.com)]]></title>
         <id>link-b53e2d9755960173c9a6c53142c17f28</id>
         <link href="https://news.ycombinator.com/item?id=47436950"/>
         <updated>2026-03-19T14:48:58.638Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1248 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">4 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">726&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1249 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">4 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">726&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)]]></title>
@@ -38,14 +38,14 @@
         <id>link-e6cceab56471e18b9303a46d433fb182</id>
         <link href="https://news.ycombinator.com/item?id=47423647"/>
         <updated>2026-03-18T17:00:46.877Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47423647">1011 points</span> by <a href="user?id=vismit2000" class="hnuser">vismit2000</a> <span class="age" title="2026-03-18T09:59:54 1773827994"><a href="item?id=47423647">5 days ago</a></span> <span id="unv_47423647"></span> | <a href="item?id=47423647">449&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html">Rob Pike’s Rules of Programming (1989)</a><span class="sitebit comhead"> (<a href="from?site=unc.edu"><span class="sitestr">unc.edu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47423647">1012 points</span> by <a href="user?id=vismit2000" class="hnuser">vismit2000</a> <span class="age" title="2026-03-18T09:59:54 1773827994"><a href="item?id=47423647">5 days ago</a></span> <span id="unv_47423647"></span> | <a href="item?id=47423647">449&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html">Rob Pike’s Rules of Programming (1989)</a><span class="sitebit comhead"> (<a href="from?site=unc.edu"><span class="sitestr">unc.edu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm OK being left behind, thanks (shkspr.mobi)]]></title>
         <id>link-80e115955c4b73ace2b1c1accd882799</id>
         <link href="https://news.ycombinator.com/item?id=47454341"/>
         <updated>2026-03-20T16:43:52.009Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">987 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">3 days ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">761&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47454341">988 points</span> by <a href="user?id=coinfused" class="hnuser">coinfused</a> <span class="age" title="2026-03-20T13:38:56 1774013936"><a href="item?id=47454341">3 days ago</a></span> <span id="unv_47454341"></span> | <a href="item?id=47454341">761&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/">I'm OK being left behind, thanks</a><span class="sitebit comhead"> (<a href="from?site=shkspr.mobi"><span class="sitestr">shkspr.mobi</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Have a fucking website (otherstrangeness.com)]]></title>
@@ -59,14 +59,14 @@
         <id>link-3f3b48dd6333d310348a30f884022d2d</id>
         <link href="https://news.ycombinator.com/item?id=47487436"/>
         <updated>2026-03-23T16:57:00.982Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47487436">857 points</span> by <a href="user?id=exitnode" class="hnuser">exitnode</a> <span class="age" title="2026-03-23T10:17:32 1774261052"><a href="item?id=47487436">20 hours ago</a></span> <span id="unv_47487436"></span> | <a href="item?id=47487436">657&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rz01.org/eu-migration/">Migrating to the EU</a><span class="sitebit comhead"> (<a href="from?site=rz01.org"><span class="sitestr">rz01.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47487436">862 points</span> by <a href="user?id=exitnode" class="hnuser">exitnode</a> <span class="age" title="2026-03-23T10:17:32 1774261052"><a href="item?id=47487436">22 hours ago</a></span> <span id="unv_47487436"></span> | <a href="item?id=47487436">664&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rz01.org/eu-migration/">Migrating to the EU</a><span class="sitebit comhead"> (<a href="from?site=rz01.org"><span class="sitestr">rz01.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some things just take time (pocoo.org)]]></title>
         <id>link-077b0bd3248993bf99458323f76cad7c</id>
         <link href="https://news.ycombinator.com/item?id=47467537"/>
         <updated>2026-03-22T02:21:24.948Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">835 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">2 days ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">269&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">837 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">2 days ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">269&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Do Not Turn Child Protection into Internet Access Control (dyne.org)]]></title>
@@ -80,7 +80,7 @@
         <id>link-aad3becd7f02d397c9a078d52583a50e</id>
         <link href="https://news.ycombinator.com/item?id=47480507"/>
         <updated>2026-03-23T07:11:25.672Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47480507">820 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-22T18:23:40 1774203820"><a href="item?id=47480507">1 day ago</a></span> <span id="unv_47480507"></span> | <a href="item?id=47480507">378&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/">PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a><span class="sitebit comhead"> (<a href="from?site=stuartbreckenridge.net"><span class="sitestr">stuartbreckenridge.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47480507">823 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-22T18:23:40 1774203820"><a href="item?id=47480507">1 day ago</a></span> <span id="unv_47480507"></span> | <a href="item?id=47480507">379&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/">PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a><span class="sitebit comhead"> (<a href="from?site=stuartbreckenridge.net"><span class="sitestr">stuartbreckenridge.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Delve – Fake Compliance as a Service (deepdelver.substack.com)]]></title>
@@ -129,7 +129,7 @@
         <id>link-2cb3e6f4971197a2c373a48be127893b</id>
         <link href="https://news.ycombinator.com/item?id=47475686"/>
         <updated>2026-03-22T16:32:07.307Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47475686">650 points</span> by <a href="user?id=PythonicNinja" class="hnuser">PythonicNinja</a> <span class="age" title="2026-03-22T09:00:37 1774170037"><a href="item?id=47475686">1 day ago</a></span> <span id="unv_47475686"></span> | <a href="item?id=47475686">439&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hormuz.pythonic.ninja/">Hormuz Minesweeper – Are you tired of winning?</a><span class="sitebit comhead"> (<a href="from?site=pythonic.ninja"><span class="sitestr">pythonic.ninja</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47475686">650 points</span> by <a href="user?id=PythonicNinja" class="hnuser">PythonicNinja</a> <span class="age" title="2026-03-22T09:00:37 1774170037"><a href="item?id=47475686">1 day ago</a></span> <span id="unv_47475686"></span> | <a href="item?id=47475686">440&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hormuz.pythonic.ninja/">Hormuz Minesweeper – Are you tired of winning?</a><span class="sitebit comhead"> (<a href="from?site=pythonic.ninja"><span class="sitestr">pythonic.ninja</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A sufficiently detailed spec is code (haskellforall.com)]]></title>
@@ -167,52 +167,52 @@
         <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47437655">604 points</span> by <a href="user?id=llm_nerd" class="hnuser">llm_nerd</a> <span class="age" title="2026-03-19T11:34:24 1773920064"><a href="item?id=47437655">4 days ago</a></span> <span id="unv_47437655"></span> | <a href="item?id=47437655">330&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://daringfireball.net/2026/03/your_frustration_is_the_product">“Your frustration is the product”</a><span class="sitebit comhead"> (<a href="from?site=daringfireball.net"><span class="sitestr">daringfireball.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iPhone 17 Pro Demonstrated Running a 400B LLM (twitter.com/anemll)]]></title>
+        <id>link-6444231e8a90110ea64bb4799f277880</id>
+        <link href="https://news.ycombinator.com/item?id=47490070"/>
+        <updated>2026-03-24T07:05:18.600Z</updated>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47490070">599 points</span> by <a href="user?id=anemll" class="hnuser">anemll</a> <span class="age" title="2026-03-23T14:30:10 1774276210"><a href="item?id=47490070">18 hours ago</a></span> <span id="unv_47490070"></span> | <a href="item?id=47490070">271&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/anemll/status/2035901335984611412">iPhone 17 Pro Demonstrated Running a 400B LLM</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/anemll"><span class="sitestr">twitter.com/anemll</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GrapheneOS will remain usable by anyone without requiring personal information (grapheneos.social)]]></title>
         <id>link-7a05a951409c780780918cd81e054c47</id>
         <link href="https://news.ycombinator.com/item?id=47482217"/>
         <updated>2026-03-23T14:55:42.928Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47482217">591 points</span> by <a href="user?id=nothrowaways" class="hnuser">nothrowaways</a> <span class="age" title="2026-03-22T21:14:11 1774214051"><a href="item?id=47482217">1 day ago</a></span> <span id="unv_47482217"></span> | <a href="item?id=47482217">180&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://grapheneos.social/@GrapheneOS/116261301913660830">GrapheneOS will remain usable by anyone without requiring personal information</a><span class="sitebit comhead"> (<a href="from?site=grapheneos.social"><span class="sitestr">grapheneos.social</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47482217">592 points</span> by <a href="user?id=nothrowaways" class="hnuser">nothrowaways</a> <span class="age" title="2026-03-22T21:14:11 1774214051"><a href="item?id=47482217">1 day ago</a></span> <span id="unv_47482217"></span> | <a href="item?id=47482217">181&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://grapheneos.social/@GrapheneOS/116261301913660830">GrapheneOS will remain usable by anyone without requiring personal information</a><span class="sitebit comhead"> (<a href="from?site=grapheneos.social"><span class="sitestr">grapheneos.social</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tinybox – A powerful computer for deep learning (tinygrad.org)]]></title>
         <id>link-f04990881bce9114b03d8188afab82f8</id>
         <link href="https://news.ycombinator.com/item?id=47470773"/>
         <updated>2026-03-22T08:35:48.109Z</updated>
-        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470773">591 points</span> by <a href="user?id=albelfio" class="hnuser">albelfio</a> <span class="age" title="2026-03-21T20:08:37 1774123717"><a href="item?id=47470773">2 days ago</a></span> <span id="unv_47470773"></span> | <a href="item?id=47470773">340&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tinygrad.org/#tinybox">Tinybox – A powerful computer for deep learning</a><span class="sitebit comhead"> (<a href="from?site=tinygrad.org"><span class="sitestr">tinygrad.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470773">591 points</span> by <a href="user?id=albelfio" class="hnuser">albelfio</a> <span class="age" title="2026-03-21T20:08:37 1774123717"><a href="item?id=47470773">2 days ago</a></span> <span id="unv_47470773"></span> | <a href="item?id=47470773">340&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tinygrad.org/#tinybox">Tinybox – A powerful computer for deep learning</a><span class="sitebit comhead"> (<a href="from?site=tinygrad.org"><span class="sitestr">tinygrad.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nightingale – open-source karaoke app that works with any song on your computer (nightingale.cafe)]]></title>
         <id>link-1bd28f8545013c37b57ab0d5f8a8e997</id>
         <link href="https://news.ycombinator.com/item?id=47422942"/>
         <updated>2026-03-18T22:33:27.556Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47422942">588 points</span> by <a href="user?id=rzzzzru" class="hnuser">rzzzzru</a> <span class="age" title="2026-03-18T08:06:24 1773821184"><a href="item?id=47422942">5 days ago</a></span> <span id="unv_47422942"></span> | <a href="item?id=47422942">162&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nightingale.cafe/">Nightingale – open-source karaoke app that works with any song on your computer</a><span class="sitebit comhead"> (<a href="from?site=nightingale.cafe"><span class="sitestr">nightingale.cafe</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47422942">588 points</span> by <a href="user?id=rzzzzru" class="hnuser">rzzzzru</a> <span class="age" title="2026-03-18T08:06:24 1773821184"><a href="item?id=47422942">6 days ago</a></span> <span id="unv_47422942"></span> | <a href="item?id=47422942">162&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nightingale.cafe/">Nightingale – open-source karaoke app that works with any song on your computer</a><span class="sitebit comhead"> (<a href="from?site=nightingale.cafe"><span class="sitestr">nightingale.cafe</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reports of code's death are greatly exaggerated (stevekrouse.com)]]></title>
         <id>link-52101a73d094ebc4fc657d6bb850785c</id>
         <link href="https://news.ycombinator.com/item?id=47476315"/>
         <updated>2026-03-23T16:57:00.982Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47476315">584 points</span> by <a href="user?id=stevekrouse" class="hnuser">stevekrouse</a> <span class="age" title="2026-03-22T11:09:34 1774177774"><a href="item?id=47476315">1 day ago</a></span> <span id="unv_47476315"></span> | <a href="item?id=47476315">431&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stevekrouse.com/precision">Reports of code's death are greatly exaggerated</a><span class="sitebit comhead"> (<a href="from?site=stevekrouse.com"><span class="sitestr">stevekrouse.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47476315">585 points</span> by <a href="user?id=stevekrouse" class="hnuser">stevekrouse</a> <span class="age" title="2026-03-22T11:09:34 1774177774"><a href="item?id=47476315">1 day ago</a></span> <span id="unv_47476315"></span> | <a href="item?id=47476315">432&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stevekrouse.com/precision">Reports of code's death are greatly exaggerated</a><span class="sitebit comhead"> (<a href="from?site=stevekrouse.com"><span class="sitestr">stevekrouse.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Project Nomad – Knowledge That Never Goes Offline (projectnomad.us)]]></title>
         <id>link-f91240d7e66b84d238171bc76d1b65d6</id>
         <link href="https://news.ycombinator.com/item?id=47476821"/>
         <updated>2026-03-23T13:09:03.744Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47476821">581 points</span> by <a href="user?id=jensgk" class="hnuser">jensgk</a> <span class="age" title="2026-03-22T12:28:38 1774182518"><a href="item?id=47476821">1 day ago</a></span> <span id="unv_47476821"></span> | <a href="item?id=47476821">213&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.projectnomad.us">Project Nomad – Knowledge That Never Goes Offline</a><span class="sitebit comhead"> (<a href="from?site=projectnomad.us"><span class="sitestr">projectnomad.us</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47476821">581 points</span> by <a href="user?id=jensgk" class="hnuser">jensgk</a> <span class="age" title="2026-03-22T12:28:38 1774182518"><a href="item?id=47476821">1 day ago</a></span> <span id="unv_47476821"></span> | <a href="item?id=47476821">213&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.projectnomad.us">Project Nomad – Knowledge That Never Goes Offline</a><span class="sitebit comhead"> (<a href="from?site=projectnomad.us"><span class="sitestr">projectnomad.us</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The gold standard of optimization: A look under the hood of RollerCoaster Tycoon (larstofus.com)]]></title>
         <id>link-b651f6a91f1d0a357a889aa0c8266ee9</id>
         <link href="https://news.ycombinator.com/item?id=47480886"/>
         <updated>2026-03-23T22:33:50.735Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47480886">577 points</span> by <a href="user?id=mariuz" class="hnuser">mariuz</a> <span class="age" title="2026-03-22T19:02:43 1774206163"><a href="item?id=47480886">1 day ago</a></span> <span id="unv_47480886"></span> | <a href="item?id=47480886">155&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/">The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</a><span class="sitebit comhead"> (<a href="from?site=larstofus.com"><span class="sitestr">larstofus.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 17 Pro Demonstrated Running a 400B LLM (twitter.com/anemll)]]></title>
-        <id>link-6444231e8a90110ea64bb4799f277880</id>
-        <link href="https://news.ycombinator.com/item?id=47490070"/>
-        <updated>2026-03-24T07:05:18.600Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47490070">567 points</span> by <a href="user?id=anemll" class="hnuser">anemll</a> <span class="age" title="2026-03-23T14:30:10 1774276210"><a href="item?id=47490070">16 hours ago</a></span> <span id="unv_47490070"></span> | <a href="item?id=47490070">262&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/anemll/status/2035901335984611412">iPhone 17 Pro Demonstrated Running a 400B LLM</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/anemll"><span class="sitestr">twitter.com/anemll</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47480886">578 points</span> by <a href="user?id=mariuz" class="hnuser">mariuz</a> <span class="age" title="2026-03-22T19:02:43 1774206163"><a href="item?id=47480886">1 day ago</a></span> <span id="unv_47480886"></span> | <a href="item?id=47480886">153&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/">The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</a><span class="sitebit comhead"> (<a href="from?site=larstofus.com"><span class="sitestr">larstofus.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
