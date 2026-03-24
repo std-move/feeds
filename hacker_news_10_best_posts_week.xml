@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-24T15:00:55.631Z</updated>
+    <updated>2026-03-24T17:02:26.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>link-b53e2d9755960173c9a6c53142c17f28</id>
         <link href="https://news.ycombinator.com/item?id=47436950"/>
         <updated>2026-03-19T16:58:53.976Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1249 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">5 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">734&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47436950">1249 points</span> by <a href="user?id=antonymoose" class="hnuser">antonymoose</a> <span class="age" title="2026-03-19T09:51:56 1773913916"><a href="item?id=47436950">5 days ago</a></span> <span id="unv_47436950"></span> | <a href="item?id=47436950">735&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/">Afroman found not liable in defamation case</a><span class="sitebit comhead"> (<a href="from?site=nypost.com"><span class="sitestr">nypost.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)]]></title>
@@ -38,7 +38,7 @@
         <id>link-e6cceab56471e18b9303a46d433fb182</id>
         <link href="https://news.ycombinator.com/item?id=47423647"/>
         <updated>2026-03-18T22:33:27.556Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47423647">1012 points</span> by <a href="user?id=vismit2000" class="hnuser">vismit2000</a> <span class="age" title="2026-03-18T09:59:54 1773827994"><a href="item?id=47423647">6 days ago</a></span> <span id="unv_47423647"></span> | <a href="item?id=47423647">449&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html">Rob Pike’s Rules of Programming (1989)</a><span class="sitebit comhead"> (<a href="from?site=unc.edu"><span class="sitestr">unc.edu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47423647">1013 points</span> by <a href="user?id=vismit2000" class="hnuser">vismit2000</a> <span class="age" title="2026-03-18T09:59:54 1773827994"><a href="item?id=47423647">6 days ago</a></span> <span id="unv_47423647"></span> | <a href="item?id=47423647">449&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html">Rob Pike’s Rules of Programming (1989)</a><span class="sitebit comhead"> (<a href="from?site=unc.edu"><span class="sitestr">unc.edu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm OK being left behind, thanks (shkspr.mobi)]]></title>
@@ -52,14 +52,14 @@
         <id>link-d91b71225836cf803538a48a52721a1f</id>
         <link href="https://news.ycombinator.com/item?id=47421442"/>
         <updated>2026-03-18T19:00:24.998Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47421442">945 points</span> by <a href="user?id=asukachikaru" class="hnuser">asukachikaru</a> <span class="age" title="2026-03-18T03:53:42 1773806022"><a href="item?id=47421442">6 days ago</a></span> <span id="unv_47421442"></span> | <a href="item?id=47421442">524&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/">Have a fucking website</a><span class="sitebit comhead"> (<a href="from?site=otherstrangeness.com"><span class="sitestr">otherstrangeness.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47421442">946 points</span> by <a href="user?id=asukachikaru" class="hnuser">asukachikaru</a> <span class="age" title="2026-03-18T03:53:42 1773806022"><a href="item?id=47421442">6 days ago</a></span> <span id="unv_47421442"></span> | <a href="item?id=47421442">524&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/">Have a fucking website</a><span class="sitebit comhead"> (<a href="from?site=otherstrangeness.com"><span class="sitestr">otherstrangeness.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Migrating to the EU (rz01.org)]]></title>
         <id>link-3f3b48dd6333d310348a30f884022d2d</id>
         <link href="https://news.ycombinator.com/item?id=47487436"/>
         <updated>2026-03-24T02:07:14.420Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47487436">881 points</span> by <a href="user?id=exitnode" class="hnuser">exitnode</a> <span class="age" title="2026-03-23T10:17:32 1774261052"><a href="item?id=47487436">1 day ago</a></span> <span id="unv_47487436"></span> | <a href="item?id=47487436">681&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rz01.org/eu-migration/">Migrating to the EU</a><span class="sitebit comhead"> (<a href="from?site=rz01.org"><span class="sitestr">rz01.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47487436">885 points</span> by <a href="user?id=exitnode" class="hnuser">exitnode</a> <span class="age" title="2026-03-23T10:17:32 1774261052"><a href="item?id=47487436">1 day ago</a></span> <span id="unv_47487436"></span> | <a href="item?id=47487436">688&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rz01.org/eu-migration/">Migrating to the EU</a><span class="sitebit comhead"> (<a href="from?site=rz01.org"><span class="sitestr">rz01.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some things just take time (pocoo.org)]]></title>
@@ -69,10 +69,10 @@
         <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47467537">838 points</span> by <a href="user?id=vaylian" class="hnuser">vaylian</a> <span class="age" title="2026-03-21T14:46:56 1774104416"><a href="item?id=47467537">3 days ago</a></span> <span id="unv_47467537"></span> | <a href="item?id=47467537">270&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/">Some things just take time</a><span class="sitebit comhead"> (<a href="from?site=pocoo.org"><span class="sitestr">pocoo.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do Not Turn Child Protection into Internet Access Control (dyne.org)]]></title>
-        <id>link-6857a11fcea992c83596102bb47e1baf</id>
-        <link href="https://news.ycombinator.com/item?id=47470991"/>
-        <updated>2026-03-22T22:27:00.379Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470991">833 points</span> by <a href="user?id=smartmic" class="hnuser">smartmic</a> <span class="age" title="2026-03-21T20:32:20 1774125140"><a href="item?id=47470991">2 days ago</a></span> <span id="unv_47470991"></span> | <a href="item?id=47470991">447&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.dyne.org/child-protection-is-not-access-control/">Do Not Turn Child Protection into Internet Access Control</a><span class="sitebit comhead"> (<a href="from?site=dyne.org"><span class="sitestr">dyne.org</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[PC Gamer recommends RSS readers in a 37mb article that just keeps downloading (stuartbreckenridge.net)]]></title>
+        <id>link-aad3becd7f02d397c9a078d52583a50e</id>
+        <link href="https://news.ycombinator.com/item?id=47480507"/>
+        <updated>2026-03-24T17:00:22.960Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47480507">833 points</span> by <a href="user?id=JumpCrisscross" class="hnuser">JumpCrisscross</a> <span class="age" title="2026-03-22T18:23:40 1774203820"><a href="item?id=47480507">1 day ago</a></span> <span id="unv_47480507"></span> | <a href="item?id=47480507">392&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/">PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a><span class="sitebit comhead"> (<a href="from?site=stuartbreckenridge.net"><span class="sitestr">stuartbreckenridge.net</span></a>)</span></span>]]></content>
     </entry>
 </feed>
