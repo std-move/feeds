@@ -4,6 +4,13 @@
 	"favicon": "https://www.bitrefill.com/cz/en/gift-cards/favicon.ico",
 	"elements": [
 		{
+			"id": "link-f799a0f6ca38c7701555bed18122c535",
+			"title": "Wolt",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/woltcz-czech-republic/",
+			"contents": "Wolt — 1200 CZK",
+			"retrieved": 1774458356507
+		},
+		{
 			"id": "link-10d925f3e39a153ce722ede355167a1b",
 			"title": "Ludo Star International",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/ludo-star-usd-international/",
@@ -161,7 +168,7 @@
 			"id": "link-2ed5593b41173f5bf43fc350ebfb1c85",
 			"title": "Minecraft Java International",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/",
-			"contents": "Minecraft Java International — $29.99",
+			"contents": "Minecraft Java International — $26.95",
 			"retrieved": 1773440920490
 		},
 		{
@@ -275,13 +282,6 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/",
 			"contents": "FlystayGift — 500 CZK - 40000 CZK",
 			"retrieved": 1773925580823
-		},
-		{
-			"id": "link-7a12368d45b5b44354d57beb35fa37b8",
-			"title": "eLearnGift",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/elearngift-cz/",
-			"contents": "eLearnGift — 500 CZK - 40000 CZK",
-			"retrieved": 1774038838594
 		}
 	]
 }
