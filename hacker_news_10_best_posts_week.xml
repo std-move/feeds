@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-24T22:34:26.667Z</updated>
+    <updated>2026-03-25T02:14:47.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -24,14 +24,14 @@
         <id>link-4f9d9440bc35b9e73f8110e011d24ab8</id>
         <link href="https://news.ycombinator.com/item?id=47500335"/>
         <updated>2026-03-24T20:42:06.866Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47500335">893 points</span> by <a href="user?id=h0ek" class="hnuser">h0ek</a> <span class="age" title="2026-03-24T09:36:29 1774344989"><a href="item?id=47500335">12 hours ago</a></span> <span id="unv_47500335"></span> | <a href="item?id=47500335">676&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/">Microsoft's "fix" for Windows 11</a><span class="sitebit comhead"> (<a href="from?site=sambent.com"><span class="sitestr">sambent.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47500335">921 points</span> by <a href="user?id=h0ek" class="hnuser">h0ek</a> <span class="age" title="2026-03-24T09:36:29 1774344989"><a href="item?id=47500335">16 hours ago</a></span> <span id="unv_47500335"></span> | <a href="item?id=47500335">687&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/">Microsoft's "fix" for Windows 11</a><span class="sitebit comhead"> (<a href="from?site=sambent.com"><span class="sitestr">sambent.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Migrating to the EU (rz01.org)]]></title>
         <id>link-3f3b48dd6333d310348a30f884022d2d</id>
         <link href="https://news.ycombinator.com/item?id=47487436"/>
         <updated>2026-03-24T02:07:14.420Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47487436">893 points</span> by <a href="user?id=exitnode" class="hnuser">exitnode</a> <span class="age" title="2026-03-23T10:17:32 1774261052"><a href="item?id=47487436">1 day ago</a></span> <span id="unv_47487436"></span> | <a href="item?id=47487436">690&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rz01.org/eu-migration/">Migrating to the EU</a><span class="sitebit comhead"> (<a href="from?site=rz01.org"><span class="sitestr">rz01.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47487436">896 points</span> by <a href="user?id=exitnode" class="hnuser">exitnode</a> <span class="age" title="2026-03-23T10:17:32 1774261052"><a href="item?id=47487436">1 day ago</a></span> <span id="unv_47487436"></span> | <a href="item?id=47487436">691&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rz01.org/eu-migration/">Migrating to the EU</a><span class="sitebit comhead"> (<a href="from?site=rz01.org"><span class="sitestr">rz01.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some things just take time (pocoo.org)]]></title>
@@ -52,7 +52,7 @@
         <id>link-6857a11fcea992c83596102bb47e1baf</id>
         <link href="https://news.ycombinator.com/item?id=47470991"/>
         <updated>2026-03-24T22:32:33.106Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470991">834 points</span> by <a href="user?id=smartmic" class="hnuser">smartmic</a> <span class="age" title="2026-03-21T20:32:20 1774125140"><a href="item?id=47470991">3 days ago</a></span> <span id="unv_47470991"></span> | <a href="item?id=47470991">447&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.dyne.org/child-protection-is-not-access-control/">Do Not Turn Child Protection into Internet Access Control</a><span class="sitebit comhead"> (<a href="from?site=dyne.org"><span class="sitestr">dyne.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47470991">835 points</span> by <a href="user?id=smartmic" class="hnuser">smartmic</a> <span class="age" title="2026-03-21T20:32:20 1774125140"><a href="item?id=47470991">3 days ago</a></span> <span id="unv_47470991"></span> | <a href="item?id=47470991">447&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.dyne.org/child-protection-is-not-access-control/">Do Not Turn Child Protection into Internet Access Control</a><span class="sitebit comhead"> (<a href="from?site=dyne.org"><span class="sitestr">dyne.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chuck Norris has died (variety.com)]]></title>
@@ -66,13 +66,13 @@
         <id>link-aabb5bcfb4f55ade4114765bb21ad20d</id>
         <link href="https://news.ycombinator.com/item?id=47501729"/>
         <updated>2026-03-24T22:32:33.106Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47501729">713 points</span> by <a href="user?id=theanonymousone" class="hnuser">theanonymousone</a> <span class="age" title="2026-03-24T12:36:20 1774355780"><a href="item?id=47501729">9 hours ago</a></span> <span id="unv_47501729"></span> | <a href="item?id=47501729">1&nbsp;comment</a></span></td> — <span class="titleline"><a href="https://github.com/BerriAI/litellm/issues/24512">Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer</a><span class="sitebit comhead"> (<a href="from?site=github.com/berriai"><span class="sitestr">github.com/berriai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47501729">720 points</span> by <a href="user?id=theanonymousone" class="hnuser">theanonymousone</a> <span class="age" title="2026-03-24T12:36:20 1774355780"><a href="item?id=47501729">13 hours ago</a></span> <span id="unv_47501729"></span> | <a href="item?id=47501729">1&nbsp;comment</a></span></td> — <span class="titleline"><a href="https://github.com/BerriAI/litellm/issues/24512">Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer</a><span class="sitebit comhead"> (<a href="from?site=github.com/berriai"><span class="sitestr">github.com/berriai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 17 Pro Demonstrated Running a 400B LLM (twitter.com/anemll)]]></title>
         <id>link-6444231e8a90110ea64bb4799f277880</id>
         <link href="https://news.ycombinator.com/item?id=47490070"/>
         <updated>2026-03-24T22:32:33.106Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47490070">694 points</span> by <a href="user?id=anemll" class="hnuser">anemll</a> <span class="age" title="2026-03-23T14:30:10 1774276210"><a href="item?id=47490070">1 day ago</a></span> <span id="unv_47490070"></span> | <a href="item?id=47490070">320&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/anemll/status/2035901335984611412">iPhone 17 Pro Demonstrated Running a 400B LLM</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/anemll"><span class="sitestr">twitter.com/anemll</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47490070">698 points</span> by <a href="user?id=anemll" class="hnuser">anemll</a> <span class="age" title="2026-03-23T14:30:10 1774276210"><a href="item?id=47490070">1 day ago</a></span> <span id="unv_47490070"></span> | <a href="item?id=47490070">320&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/anemll/status/2035901335984611412">iPhone 17 Pro Demonstrated Running a 400B LLM</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/anemll"><span class="sitestr">twitter.com/anemll</span></a>)</span></span>]]></content>
     </entry>
 </feed>
