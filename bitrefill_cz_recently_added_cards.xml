@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-25T13:13:50.237Z</updated>
+    <updated>2026-03-25T15:03:33.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>link-08481828f1839aefa90a3db1f025cbd7</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/ppq-ai-international/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[PayPerQ.ai — $20 - $100]]></content>
+        <content type="html"><![CDATA[PayPerQ.ai — $50 - $100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ASTRATEX]]></title>

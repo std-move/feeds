@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-03-25T13:13:50.251Z</updated>
+    <updated>2026-03-25T15:03:33.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Narwal's robot vacuums are now up to 50% off (A‏d)]]></title>
+        <id>link-4a99191d2155185a88af698be3e9e921</id>
+        <link href="https://www.notebookcheck.net/Narwal-robot-vacuums-discounted-by-up-to-50-for-a-short-time.1248873.0.html"/>
+        <updated>2026-03-25T14:59:53.918Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Cover76-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Cover76-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Cover76-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Cover76-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Cover76-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Cover76-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/e/csm_Cover76_0e49623104.png" loading="lazy" alt="Narwal's robot vacuums are now up to 50% off on Amazon until March 31"></picture><div class="intro_featured_bar_title">Narwal's robot vacuums are now up to 50% off <span class="introa_ad_hd">(A‏d)</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A game to cry over: Death Stranding 2 for PC in review]]></title>
         <id>link-4bf2d279692fe79ec1458eaaeb243b92</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Death-Stranding-2-for-PC-on-the-ROG-Flow-Z13-KJP.1256765.0.html"/>
         <updated>2026-03-22T16:32:07.307Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1049999-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1049999-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1049999-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1049999-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1049999-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1049999-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/0/csm__1049999_b760d14aed.jpg" loading="lazy" alt="Death Stranding 2 for PC on the ROG Flow Z13-KJP"></picture><div class="intro_featured_bar_title">▶ Death Stranding 2 for PC on the ROG Flow Z13-KJP</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another laptop brand affected by CPU fraud: Manufacturer promises clarification]]></title>
-        <id>link-2ec4e6bdf6649621f56e2752a4734750</id>
-        <link href="https://www.notebookcheck.net/Another-laptop-brand-affected-by-CPU-fraud-Manufacturer-promises-clarification.1256384.0.html"/>
-        <updated>2026-03-21T20:28:02.257Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ninkeara15pro_5500u_vs_7430u_teaser_neu-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/9/csm_ninkeara15pro_5500u_vs_7430u_teaser_neu_95a1c269dc.png" loading="lazy" alt="Another laptop brand affected by CPU fraud: Manufacturer promises clarification"></picture><div class="intro_featured_bar_title">Another laptop brand affected by CPU fraud: Manufacturer promises clarification</div>]]></content>
     </entry>
 </feed>
