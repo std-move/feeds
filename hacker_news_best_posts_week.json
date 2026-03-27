@@ -1,5 +1,217 @@
 {
 	"title": "Hacker News - best posts (week)",
 	"url": "https://news.ycombinator.com/best?h=168",
-	"elements": []
+	"favicon": "https://news.ycombinator.com/y18.svg",
+	"elements": [
+		{
+			"id": "link-d56c612c421210c9aa293dbfc2b2bfd6",
+			"title": "The EU still wants to scan  your private messages and photos (fightchatcontrol.eu)",
+			"link": "https://news.ycombinator.com/item?id=47522709",
+			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47522709\">1431 points</span> by <a href=\"user?id=MrBruh\" class=\"hnuser\">MrBruh</a> <span class=\"age\" title=\"2026-03-25T20:27:03 1774470423\"><a href=\"item?id=47522709\">1 day ago</a></span> <span id=\"unv_47522709\"></span> | <a href=\"item?id=47522709\">388&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://fightchatcontrol.eu/?foo=bar\">The EU still wants to scan  your private messages and photos</a><span class=\"sitebit comhead\"> (<a href=\"from?site=fightchatcontrol.eu\"><span class=\"sitestr\">fightchatcontrol.eu</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-b86c771155d1fb2825633ee17ccea057",
+			"title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains (xda-developers.com)",
+			"link": "https://news.ycombinator.com/item?id=47507150",
+			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47507150\">1280 points</span> by <a href=\"user?id=felineflock\" class=\"hnuser\">felineflock</a> <span class=\"age\" title=\"2026-03-24T18:34:52 1774377292\"><a href=\"item?id=47507150\">2 days ago</a></span> <span id=\"unv_47507150\"></span> | <a href=\"item?id=47507150\">496&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/\">Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains</a><span class=\"sitebit comhead\"> (<a href=\"from?site=xda-developers.com\"><span class=\"sitestr\">xda-developers.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-fcdc51f1578d75fed231bd688e374265",
+			"title": "Goodbye to Sora (twitter.com/soraofficialapp)",
+			"link": "https://news.ycombinator.com/item?id=47508246",
+			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47508246\">1124 points</span> by <a href=\"user?id=mikeocool\" class=\"hnuser\">mikeocool</a> <span class=\"age\" title=\"2026-03-24T20:01:05 1774382465\"><a href=\"item?id=47508246\">2 days ago</a></span> <span id=\"unv_47508246\"></span> | <a href=\"item?id=47508246\">840&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://twitter.com/soraofficialapp/status/2036532795984715896\">Goodbye to Sora</a><span class=\"sitebit comhead\"> (<a href=\"from?site=twitter.com/soraofficialapp\"><span class=\"sitestr\">twitter.com/soraofficialapp</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-22b95150bda84838b60933f95f2c62df",
+			"title": "Thoughts on slowing the fuck down (mariozechner.at)",
+			"link": "https://news.ycombinator.com/item?id=47517539",
+			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47517539\">1076 points</span> by <a href=\"user?id=jdkoeck\" class=\"hnuser\">jdkoeck</a> <span class=\"age\" title=\"2026-03-25T14:07:14 1774447634\"><a href=\"item?id=47517539\">2 days ago</a></span> <span id=\"unv_47517539\"></span> | <a href=\"item?id=47517539\">473&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/\">Thoughts on slowing the fuck down</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mariozechner.at\"><span class=\"sitestr\">mariozechner.at</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-4f9d9440bc35b9e73f8110e011d24ab8",
+			"title": "Microsoft's \"fix\" for Windows 11 (sambent.com)",
+			"link": "https://news.ycombinator.com/item?id=47500335",
+			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47500335\">1040 points</span> by <a href=\"user?id=h0ek\" class=\"hnuser\">h0ek</a> <span class=\"age\" title=\"2026-03-24T09:36:29 1774344989\"><a href=\"item?id=47500335\">3 days ago</a></span> <span id=\"unv_47500335\"></span> | <a href=\"item?id=47500335\">754&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/\">Microsoft's \"fix\" for Windows 11</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sambent.com\"><span class=\"sitestr\">sambent.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-708dd131f1b371186d3d80f0884ddcd6",
+			"title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised (github.com/berriai)",
+			"link": "https://news.ycombinator.com/item?id=47501426",
+			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47501426\">932 points</span> by <a href=\"user?id=dot_treo\" class=\"hnuser\">dot_treo</a> <span class=\"age\" title=\"2026-03-24T12:06:29 1774353989\"><a href=\"item?id=47501426\">3 days ago</a></span> <span id=\"unv_47501426\"></span> | <a href=\"item?id=47501426\">493&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/BerriAI/litellm/issues/24512\">Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/berriai\"><span class=\"sitestr\">github.com/berriai</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-670c0dcfd35d51a12b48fa73977484b2",
+			"title": "Why so many control rooms were seafoam green (2025) (bethmathews.substack.com)",
+			"link": "https://news.ycombinator.com/item?id=47518960",
+			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47518960\">917 points</span> by <a href=\"user?id=Amorymeltzer\" class=\"hnuser\">Amorymeltzer</a> <span class=\"age\" title=\"2026-03-25T15:46:29 1774453589\"><a href=\"item?id=47518960\">22 hours ago</a></span> <span id=\"unv_47518960\"></span> | <a href=\"item?id=47518960\">190&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam\">Why so many control rooms were seafoam green (2025)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bethmathews.substack.com\"><span class=\"sitestr\">bethmathews.substack.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-7d4d714a4b2438e09c26b58435c02687",
+			"title": "Running Tesla Model 3's computer on my desk using parts from crashed cars (xdavidhu.me)",
+			"link": "https://news.ycombinator.com/item?id=47523330",
+			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47523330\">916 points</span> by <a href=\"user?id=driesdep\" class=\"hnuser\">driesdep</a> <span class=\"age\" title=\"2026-03-25T21:11:57 1774473117\"><a href=\"item?id=47523330\">1 day ago</a></span> <span id=\"unv_47523330\"></span> | <a href=\"item?id=47523330\">319&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/\">Running Tesla Model 3's computer on my desk using parts from crashed cars</a><span class=\"sitebit comhead\"> (<a href=\"from?site=xdavidhu.me\"><span class=\"sitestr\">xdavidhu.me</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-3f3b48dd6333d310348a30f884022d2d",
+			"title": "Migrating to the EU (rz01.org)",
+			"link": "https://news.ycombinator.com/item?id=47487436",
+			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47487436\">910 points</span> by <a href=\"user?id=exitnode\" class=\"hnuser\">exitnode</a> <span class=\"age\" title=\"2026-03-23T10:17:32 1774261052\"><a href=\"item?id=47487436\">4 days ago</a></span> <span id=\"unv_47487436\"></span> | <a href=\"item?id=47487436\">699&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://rz01.org/eu-migration/\">Migrating to the EU</a><span class=\"sitebit comhead\"> (<a href=\"from?site=rz01.org\"><span class=\"sitestr\">rz01.org</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-d90ad14687b2dd7104f19b83d7da2150",
+			"title": "Personal Encyclopedias (whoami.wiki)",
+			"link": "https://news.ycombinator.com/item?id=47522173",
+			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47522173\">850 points</span> by <a href=\"user?id=jrmyphlmn\" class=\"hnuser\">jrmyphlmn</a> <span class=\"age\" title=\"2026-03-25T19:41:51 1774467711\"><a href=\"item?id=47522173\">1 day ago</a></span> <span id=\"unv_47522173\"></span> | <a href=\"item?id=47522173\">179&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://whoami.wiki/blog/personal-encyclopedias\">Personal Encyclopedias</a><span class=\"sitebit comhead\"> (<a href=\"from?site=whoami.wiki\"><span class=\"sitestr\">whoami.wiki</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-1c572770a5afaee1805fdbd15632aacb",
+			"title": "We haven't seen the worst of what gambling and prediction markets will do (derekthompson.org)",
+			"link": "https://news.ycombinator.com/item?id=47534848",
+			"contents": "<span class=\"rank\">11.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47534848\">828 points</span> by <a href=\"user?id=mmcclure\" class=\"hnuser\">mmcclure</a> <span class=\"age\" title=\"2026-03-26T19:48:05 1774554485\"><a href=\"item?id=47534848\">19 hours ago</a></span> <span id=\"unv_47534848\"></span> | <a href=\"item?id=47534848\">578&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what\">We haven't seen the worst of what gambling and prediction markets will do</a><span class=\"sitebit comhead\"> (<a href=\"from?site=derekthompson.org\"><span class=\"sitestr\">derekthompson.org</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-8e92cc3af17d9efe36947cbb54f16dc8",
+			"title": "Is anybody else bored of talking about AI? (jakesaunders.dev)",
+			"link": "https://news.ycombinator.com/item?id=47508745",
+			"contents": "<span class=\"rank\">12.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47508745\">740 points</span> by <a href=\"user?id=jakelsaunders94\" class=\"hnuser\">jakelsaunders94</a> <span class=\"age\" title=\"2026-03-24T20:31:08 1774384268\"><a href=\"item?id=47508745\">2 days ago</a></span> <span id=\"unv_47508745\"></span> | <a href=\"item?id=47508745\">524&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/\">Is anybody else bored of talking about AI?</a><span class=\"sitebit comhead\"> (<a href=\"from?site=jakesaunders.dev\"><span class=\"sitestr\">jakesaunders.dev</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-aabb5bcfb4f55ade4114765bb21ad20d",
+			"title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer (github.com/berriai)",
+			"link": "https://news.ycombinator.com/item?id=47501729",
+			"contents": "<span class=\"rank\">13.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47501729\">738 points</span> by <a href=\"user?id=theanonymousone\" class=\"hnuser\">theanonymousone</a> <span class=\"age\" title=\"2026-03-24T12:36:20 1774355780\"><a href=\"item?id=47501729\">3 days ago</a></span> <span id=\"unv_47501729\"></span> | <a href=\"item?id=47501729\">1&nbsp;comment</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/BerriAI/litellm/issues/24512\">Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/berriai\"><span class=\"sitestr\">github.com/berriai</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-f4253f13bbbd600893bd385a0b2a0736",
+			"title": "Apple Business (apple.com)",
+			"link": "https://news.ycombinator.com/item?id=47504112",
+			"contents": "<span class=\"rank\">14.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47504112\">726 points</span> by <a href=\"user?id=soheilpro\" class=\"hnuser\">soheilpro</a> <span class=\"age\" title=\"2026-03-24T15:29:41 1774366181\"><a href=\"item?id=47504112\">2 days ago</a></span> <span id=\"unv_47504112\"></span> | <a href=\"item?id=47504112\">431&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/\">Apple Business</a><span class=\"sitebit comhead\"> (<a href=\"from?site=apple.com\"><span class=\"sitestr\">apple.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-6444231e8a90110ea64bb4799f277880",
+			"title": "iPhone 17 Pro Demonstrated Running a 400B LLM (twitter.com/anemll)",
+			"link": "https://news.ycombinator.com/item?id=47490070",
+			"contents": "<span class=\"rank\">15.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47490070\">712 points</span> by <a href=\"user?id=anemll\" class=\"hnuser\">anemll</a> <span class=\"age\" title=\"2026-03-23T14:30:10 1774276210\"><a href=\"item?id=47490070\">4 days ago</a></span> <span id=\"unv_47490070\"></span> | <a href=\"item?id=47490070\">327&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://twitter.com/anemll/status/2035901335984611412\">iPhone 17 Pro Demonstrated Running a 400B LLM</a><span class=\"sitebit comhead\"> (<a href=\"from?site=twitter.com/anemll\"><span class=\"sitestr\">twitter.com/anemll</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-a0a0c0f274a00e898c578446cd7e9c7b",
+			"title": "Claude Code Cheat Sheet (storyfox.cz)",
+			"link": "https://news.ycombinator.com/item?id=47495527",
+			"contents": "<span class=\"rank\">16.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47495527\">687 points</span> by <a href=\"user?id=phasE89\" class=\"hnuser\">phasE89</a> <span class=\"age\" title=\"2026-03-23T21:44:20 1774302260\"><a href=\"item?id=47495527\">3 days ago</a></span> <span id=\"unv_47495527\"></span> | <a href=\"item?id=47495527\">189&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://cc.storyfox.cz\">Claude Code Cheat Sheet</a><span class=\"sitebit comhead\"> (<a href=\"from?site=storyfox.cz\"><span class=\"sitestr\">storyfox.cz</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-e826c11a7cd916a09c6328897d883cd8",
+			"title": "End of \"Chat Control\": EU parliament stops mass surveillance (patrick-breyer.de)",
+			"link": "https://news.ycombinator.com/item?id=47529609",
+			"contents": "<span class=\"rank\">17.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47529609\">642 points</span> by <a href=\"user?id=amarcheschi\" class=\"hnuser\">amarcheschi</a> <span class=\"age\" title=\"2026-03-26T12:24:36 1774527876\"><a href=\"item?id=47529609\">1 day ago</a></span> <span id=\"unv_47529609\"></span> | <a href=\"item?id=47529609\">288&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/\">End of \"Chat Control\": EU parliament stops mass surveillance</a><span class=\"sitebit comhead\"> (<a href=\"from?site=patrick-breyer.de\"><span class=\"sitestr\">patrick-breyer.de</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-6c03ba17ed656523a69cca0de1f0dcde",
+			"title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller (videojs.org)",
+			"link": "https://news.ycombinator.com/item?id=47506713",
+			"contents": "<span class=\"rank\">18.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47506713\">637 points</span> by <a href=\"user?id=Heff\" class=\"hnuser\">Heff</a> <span class=\"age\" title=\"2026-03-24T18:03:48 1774375428\"><a href=\"item?id=47506713\">2 days ago</a></span> <span id=\"unv_47506713\"></span> | <a href=\"item?id=47506713\">138&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://videojs.org/blog/videojs-v10-beta-hello-world-again\">Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller</a><span class=\"sitebit comhead\"> (<a href=\"from?site=videojs.org\"><span class=\"sitestr\">videojs.org</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-d0a86574a1f865acc5165465759b70bc",
+			"title": "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote (wsj.com)",
+			"link": "https://news.ycombinator.com/item?id=47519519",
+			"contents": "<span class=\"rank\">19.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47519519\">623 points</span> by <a href=\"user?id=cramsession\" class=\"hnuser\">cramsession</a> <span class=\"age\" title=\"2026-03-25T16:24:15 1774455855\"><a href=\"item?id=47519519\">1 day ago</a></span> <span id=\"unv_47519519\"></span> | <a href=\"item?id=47519519\">261&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a\">Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote</a><span class=\"sitebit comhead\"> (<a href=\"from?site=wsj.com\"><span class=\"sitestr\">wsj.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-7a05a951409c780780918cd81e054c47",
+			"title": "GrapheneOS will remain usable by anyone without requiring personal information (grapheneos.social)",
+			"link": "https://news.ycombinator.com/item?id=47482217",
+			"contents": "<span class=\"rank\">20.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47482217\">612 points</span> by <a href=\"user?id=nothrowaways\" class=\"hnuser\">nothrowaways</a> <span class=\"age\" title=\"2026-03-22T21:14:11 1774214051\"><a href=\"item?id=47482217\">4 days ago</a></span> <span id=\"unv_47482217\"></span> | <a href=\"item?id=47482217\">192&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://grapheneos.social/@GrapheneOS/116261301913660830\">GrapheneOS will remain usable by anyone without requiring personal information</a><span class=\"sitebit comhead\"> (<a href=\"from?site=grapheneos.social\"><span class=\"sitestr\">grapheneos.social</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-a3ca474d827c93d7086b3069c8ebb9bd",
+			"title": "Moving from GitHub to Codeberg, for lazy people (unterwaditzer.net)",
+			"link": "https://news.ycombinator.com/item?id=47530330",
+			"contents": "<span class=\"rank\">21.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47530330\">603 points</span> by <a href=\"user?id=jslakro\" class=\"hnuser\">jslakro</a> <span class=\"age\" title=\"2026-03-26T13:38:25 1774532305\"><a href=\"item?id=47530330\">1 day ago</a></span> <span id=\"unv_47530330\"></span> | <a href=\"item?id=47530330\">310&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://unterwaditzer.net/2025/codeberg.html\">Moving from GitHub to Codeberg, for lazy people</a><span class=\"sitebit comhead\"> (<a href=\"from?site=unterwaditzer.net\"><span class=\"sitestr\">unterwaditzer.net</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-e101693f0ee7ab664b68f20499845f19",
+			"title": "Shell Tricks That Make Life Easier (and Save Your Sanity) (hofstede.it)",
+			"link": "https://news.ycombinator.com/item?id=47525243",
+			"contents": "<span class=\"rank\">22.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47525243\">594 points</span> by <a href=\"user?id=zdw\" class=\"hnuser\">zdw</a> <span class=\"age\" title=\"2026-03-26T00:28:38 1774484918\"><a href=\"item?id=47525243\">1 day ago</a></span> <span id=\"unv_47525243\"></span> | <a href=\"item?id=47525243\">258&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/\">Shell Tricks That Make Life Easier (and Save Your Sanity)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=hofstede.it\"><span class=\"sitestr\">hofstede.it</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-d6f878c68c8de12892f0e86622069551",
+			"title": "Miscellanea: The War in Iran (acoup.blog)",
+			"link": "https://news.ycombinator.com/item?id=47513229",
+			"contents": "<span class=\"rank\">23.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47513229\">592 points</span> by <a href=\"user?id=decimalenough\" class=\"hnuser\">decimalenough</a> <span class=\"age\" title=\"2026-03-25T04:27:14 1774412834\"><a href=\"item?id=47513229\">2 days ago</a></span> <span id=\"unv_47513229\"></span> | <a href=\"item?id=47513229\">899&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/\">Miscellanea: The War in Iran</a><span class=\"sitebit comhead\"> (<a href=\"from?site=acoup.blog\"><span class=\"sitestr\">acoup.blog</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-b008f5ff2b9d65441d5169519c0904f6",
+			"title": "Mystery jump in oil trading ahead of Trump post draws scrutiny (bbc.com)",
+			"link": "https://news.ycombinator.com/item?id=47504060",
+			"contents": "<span class=\"rank\">24.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47504060\">563 points</span> by <a href=\"user?id=psim1\" class=\"hnuser\">psim1</a> <span class=\"age\" title=\"2026-03-24T15:25:52 1774365952\"><a href=\"item?id=47504060\">2 days ago</a></span> <span id=\"unv_47504060\"></span> | <a href=\"item?id=47504060\">387&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.bbc.com/news/articles/cg547ljepvzo\">Mystery jump in oil trading ahead of Trump post draws scrutiny</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bbc.com\"><span class=\"sitestr\">bbc.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-1d6c7a7ba321add9ec42ca47ba5b5e30",
+			"title": "[dupe] European Parliament decided that Chat Control 1.0 must stop (bsky.app)",
+			"link": "https://news.ycombinator.com/item?id=47529646",
+			"contents": "<span class=\"rank\">25.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47529646\">556 points</span> by <a href=\"user?id=lemoncookiechip\" class=\"hnuser\">lemoncookiechip</a> <span class=\"age\" title=\"2026-03-26T12:30:59 1774528259\"><a href=\"item?id=47529646\">1 day ago</a></span> <span id=\"unv_47529646\"></span> | <a href=\"item?id=47529646\">24&nbsp;comments</a></span></td> — <span class=\"titleline\"> [dupe] <a href=\"https://bsky.app/profile/tuta.com/post/3mhxkfowv322c\">European Parliament decided that Chat Control 1.0 must stop</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bsky.app\"><span class=\"sitestr\">bsky.app</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-7ed7bf5309b3163497ca28a610aa94d6",
+			"title": "Flighty Airports (flighty.com)",
+			"link": "https://news.ycombinator.com/item?id=47511589",
+			"contents": "<span class=\"rank\">26.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47511589\">556 points</span> by <a href=\"user?id=skogstokig\" class=\"hnuser\">skogstokig</a> <span class=\"age\" title=\"2026-03-25T00:29:45 1774398585\"><a href=\"item?id=47511589\">2 days ago</a></span> <span id=\"unv_47511589\"></span> | <a href=\"item?id=47511589\">184&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://flighty.com/airports\">Flighty Airports</a><span class=\"sitebit comhead\"> (<a href=\"from?site=flighty.com\"><span class=\"sitestr\">flighty.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-a4b02ab63ae42fda8412b5b4c4aa29fe",
+			"title": "TurboQuant: Redefining AI efficiency with extreme compression (research.google)",
+			"link": "https://news.ycombinator.com/item?id=47513475",
+			"contents": "<span class=\"rank\">27.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47513475\">545 points</span> by <a href=\"user?id=ray__\" class=\"hnuser\">ray__</a> <span class=\"age\" title=\"2026-03-25T05:00:54 1774414854\"><a href=\"item?id=47513475\">2 days ago</a></span> <span id=\"unv_47513475\"></span> | <a href=\"item?id=47513475\">157&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/\">TurboQuant: Redefining AI efficiency with extreme compression</a><span class=\"sitebit comhead\"> (<a href=\"from?site=research.google\"><span class=\"sitestr\">research.google</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-610b0c7ef64693c5f087dd38ea07a0ae",
+			"title": "Apple discontinues the Mac Pro (9to5mac.com)",
+			"link": "https://news.ycombinator.com/item?id=47535708",
+			"contents": "<span class=\"rank\">28.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47535708\">515 points</span> by <a href=\"user?id=bentocorp\" class=\"hnuser\">bentocorp</a> <span class=\"age\" title=\"2026-03-26T21:04:50 1774559090\"><a href=\"item?id=47535708\">17 hours ago</a></span> <span id=\"unv_47535708\"></span> | <a href=\"item?id=47535708\">436&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/\">Apple discontinues the Mac Pro</a><span class=\"sitebit comhead\"> (<a href=\"from?site=9to5mac.com\"><span class=\"sitestr\">9to5mac.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-f428ccc5f336b40606b147c22e4aa556",
+			"title": "Meta and YouTube found negligent in landmark social media addiction case (nytimes.com)",
+			"link": "https://news.ycombinator.com/item?id=47520505",
+			"contents": "<span class=\"rank\">29.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47520505\">493 points</span> by <a href=\"user?id=mrjaeger\" class=\"hnuser\">mrjaeger</a> <span class=\"age\" title=\"2026-03-25T17:29:33 1774459773\"><a href=\"item?id=47520505\">1 day ago</a></span> <span id=\"unv_47520505\"></span> | <a href=\"item?id=47520505\">516&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html\">Meta and YouTube found negligent in landmark social media addiction case</a><span class=\"sitebit comhead\"> (<a href=\"from?site=nytimes.com\"><span class=\"sitestr\">nytimes.com</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		},
+		{
+			"id": "link-44b786b162a415e839f2cc72bd7deaee",
+			"title": "ARC-AGI-3 (arcprize.org)",
+			"link": "https://news.ycombinator.com/item?id=47521150",
+			"contents": "<span class=\"rank\">30.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47521150\">491 points</span> by <a href=\"user?id=lairv\" class=\"hnuser\">lairv</a> <span class=\"age\" title=\"2026-03-25T18:16:03 1774462563\"><a href=\"item?id=47521150\">1 day ago</a></span> <span id=\"unv_47521150\"></span> | <a href=\"item?id=47521150\">345&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://arcprize.org/arc-agi/3\">ARC-AGI-3</a><span class=\"sitebit comhead\"> (<a href=\"from?site=arcprize.org\"><span class=\"sitestr\">arcprize.org</span></a>)</span></span>",
+			"retrieved": 1774623062172
+		}
+	]
 }
