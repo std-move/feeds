@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-6cd230b712e64f20337b29dda1e157a5",
+			"title": "v4.0.120",
+			"contents": "<strong>v4.0.120</strong> (27 March 2026)<br>\n             + Improved cleanup : MFT<br>  \n             + Improved cleanup : Microsoft Word, Excel,... (Office)<br> \n             + Improved cleanup : Cookies<br> \n             + Improved cleanup : Registry<br> \n             + Improved UI<br> \n             + Improved installation<br>",
+			"retrieved": 1774637822757
+		},
+		{
 			"id": "title-1375b230de2c5041a94bd090f1cbcdb6",
 			"title": "v4.0.119.1",
 			"contents": "<br>\n            <strong>v4.0.119.1</strong> (09 March 2026)<br>\n             Minor bug fixes",
@@ -115,12 +121,6 @@
 			"id": "title-25da3e4e86444bf3d66c20d3707baca6",
 			"title": "v4.0.102",
 			"contents": "<strong>v4.0.102</strong> (07 March 2025)<br>\n            + Improved speed<br>\n             + Minor bug fixes<br>",
-			"retrieved": 1770024983636
-		},
-		{
-			"id": "title-30516116c7ba38b6c4d515156c88adc7",
-			"title": "v4.0.101",
-			"contents": "<strong>v4.0.101</strong> (03 March 2025)<br>\n             + Minor bug fixes : old CPUs compatibility<br>",
 			"retrieved": 1770024983636
 		}
 	]

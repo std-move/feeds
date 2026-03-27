@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-03-27T16:57:51.420Z</updated>
+    <updated>2026-03-27T18:59:10.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.120]]></title>
+        <id>title-6cd230b712e64f20337b29dda1e157a5</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-03-27T18:57:02.757Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.120</strong> (27 March 2026)<br>
+             + Improved cleanup : MFT<br>  
+             + Improved cleanup : Microsoft Word, Excel,... (Office)<br> 
+             + Improved cleanup : Cookies<br> 
+             + Improved cleanup : Registry<br> 
+             + Improved UI<br> 
+             + Improved installation<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.119.1]]></title>
         <id>title-1375b230de2c5041a94bd090f1cbcdb6</id>
@@ -223,13 +236,5 @@
         <content type="html"><![CDATA[<strong>v4.0.102</strong> (07 March 2025)<br>
             + Improved speed<br>
              + Minor bug fixes<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.101]]></title>
-        <id>title-30516116c7ba38b6c4d515156c88adc7</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-02-02T09:36:23.636Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.101</strong> (03 March 2025)<br>
-             + Minor bug fixes : old CPUs compatibility<br>]]></content>
     </entry>
 </feed>
