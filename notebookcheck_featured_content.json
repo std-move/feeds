@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-f4aaa081eb546bbd1871a1cb37553f0f",
+			"title": "▶ Intel vPro explained and why you should care!",
+			"link": "https://www.notebookcheck.net/Intel-vPro-explained-and-why-you-should-care.1261418.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/7/csm_thumb_0237_e56b03f8df.jpg\" loading=\"lazy\" alt=\"Intel vPro explained and why you should care!\"></picture><div class=\"intro_featured_bar_title\">▶ Intel vPro explained and why you should care!</div>",
+			"retrieved": 1774736996643
+		},
+		{
 			"id": "link-3ffab6c6ce6b4a7333032c03f4bee00f",
 			"title": "Shows Apple how an Air should be done - Magic 8 Pro Air review",
 			"link": "https://www.notebookcheck.net/Honor-Magic8-Pro-Air-review-A-dream-come-true-for-many-smartphone-fans.1261347.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Lenovo-Yoga-7-2-in-1-16AGP11-review-Latest-AMD-Ryzen-AI-7-refresh-lags-behind-Intel.1257880.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_7_2-in-1_16AGP11/yoga72in1162026-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_7_2-in-1_16AGP11/yoga72in1162026-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_7_2-in-1_16AGP11/yoga72in1162026-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_7_2-in-1_16AGP11/yoga72in1162026-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_7_2-in-1_16AGP11/yoga72in1162026-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_7_2-in-1_16AGP11/yoga72in1162026-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/5/csm_yoga72in1162026_e41b627b9d.jpg\" loading=\"lazy\" alt=\"Lenovo Yoga 7 2-in-1 16AGP11 review: Latest AMD Ryzen AI 7 refresh lags behind Intel\"></picture><div class=\"intro_featured_bar_title\">Lenovo Yoga 7 2-in-1 16AGP11 review: New Ryzen AI 7 performs like a Ryzen AI 5</div>",
 			"retrieved": 1774643970199
-		},
-		{
-			"id": "link-3ac01a27676337f8ae2b65b4b2599c5b",
-			"title": "DJI Avata 360 review: This 360° drone changes how you shoot video",
-			"link": "https://www.notebookcheck.net/DJI-Avata-360-review-This-360-drone-changes-how-you-shoot-video.1260495.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/avata-on-pad-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/avata-on-pad-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/avata-on-pad-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/avata-on-pad-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/avata-on-pad-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/avata-on-pad-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/b/csm_avata-on-pad_82a4b3ccde.jpg\" loading=\"lazy\" alt=\"Die DJI Avata 360 auf ihrem Helipad\"></picture><div class=\"intro_featured_bar_title\">DJI Avata 360 review: This 360° drone changes how you shoot video</div>",
-			"retrieved": 1774616877784
 		}
 	]
 }

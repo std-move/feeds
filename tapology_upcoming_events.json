@@ -4,24 +4,17 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png",
 	"elements": [
 		{
-			"id": "link-18abb73f35cfd8df8ed75655a1fa1776",
-			"title": "UFC Fight Night — 2026-03-28 17:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/136873-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/136873-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-28 17:00:00 -0400\">in 27 minutes</abbr>\n</td>",
-			"retrieved": 1773513575557
-		},
-		{
 			"id": "link-4d02a9854bd22827a8703f8a67033497",
 			"title": "PFL Pittsburgh — 2026-03-28 19:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/137168-pfl-pittsburgh",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137168-pfl-pittsburgh\">PFL Pittsburgh</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-28 19:00:00 -0400\">in 2 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137168-pfl-pittsburgh\">PFL Pittsburgh</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-28 19:00:00 -0400\">in 29 minutes</abbr>\n</td>",
 			"retrieved": 1773527233688
 		},
 		{
 			"id": "link-edbc98c2876105940fc6b68b08dcd60c",
 			"title": "Fundora vs. Thurman — 2026-03-28 16:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/139052-fundora-vs-thurman",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/139052-fundora-vs-thurman\">Fundora vs. Thurman</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-28 16:00:00 -0400\">32 minutes ago</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/139052-fundora-vs-thurman\">Fundora vs. Thurman</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-03-28 16:00:00 -0400\">2 hours ago</abbr>\n</td>",
 			"retrieved": 1774025032009
 		},
 		{
@@ -49,7 +42,7 @@
 			"id": "link-09578299ee88b3d3735a10ae10ffd8c8",
 			"title": "UFC Fight Night — 2026-04-04 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/138212-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138212-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-04 17:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138212-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-04 17:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1774650844103
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/139395-dubois-vs-harper",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/139395-dubois-vs-harper\">Dubois vs. Harper</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-05 09:00:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1774723303213
+		},
+		{
+			"id": "link-23eaf87f93a8e7e59ee22c55d16d7602",
+			"title": "Zuffa Boxing 5 — 2026-04-05 17:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/140536-zuffa-boxing-5",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140536-zuffa-boxing-5\">Zuffa Boxing 5</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-05 17:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1774736996643
 		}
 	]
 }
