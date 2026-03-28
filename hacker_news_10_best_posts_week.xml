@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-03-28T16:38:54.493Z</updated>
+    <updated>2026-03-28T18:44:59.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,14 +17,14 @@
         <id>link-b86c771155d1fb2825633ee17ccea057</id>
         <link href="https://news.ycombinator.com/item?id=47507150"/>
         <updated>2026-03-27T14:51:02.172Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47507150">1290 points</span> by <a href="user?id=felineflock" class="hnuser">felineflock</a> <span class="age" title="2026-03-24T18:34:52 1774377292"><a href="item?id=47507150">3 days ago</a></span> <span id="unv_47507150"></span> | <a href="item?id=47507150">497&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/">Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains</a><span class="sitebit comhead"> (<a href="from?site=xda-developers.com"><span class="sitestr">xda-developers.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47507150">1290 points</span> by <a href="user?id=felineflock" class="hnuser">felineflock</a> <span class="age" title="2026-03-24T18:34:52 1774377292"><a href="item?id=47507150">4 days ago</a></span> <span id="unv_47507150"></span> | <a href="item?id=47507150">497&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/">Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains</a><span class="sitebit comhead"> (<a href="from?site=xda-developers.com"><span class="sitestr">xda-developers.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Goodbye to Sora (twitter.com/soraofficialapp)]]></title>
         <id>link-fcdc51f1578d75fed231bd688e374265</id>
         <link href="https://news.ycombinator.com/item?id=47508246"/>
         <updated>2026-03-27T14:51:02.172Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47508246">1133 points</span> by <a href="user?id=mikeocool" class="hnuser">mikeocool</a> <span class="age" title="2026-03-24T20:01:05 1774382465"><a href="item?id=47508246">3 days ago</a></span> <span id="unv_47508246"></span> | <a href="item?id=47508246">848&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/soraofficialapp/status/2036532795984715896">Goodbye to Sora</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/soraofficialapp"><span class="sitestr">twitter.com/soraofficialapp</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47508246">1133 points</span> by <a href="user?id=mikeocool" class="hnuser">mikeocool</a> <span class="age" title="2026-03-24T20:01:05 1774382465"><a href="item?id=47508246">3 days ago</a></span> <span id="unv_47508246"></span> | <a href="item?id=47508246">849&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/soraofficialapp/status/2036532795984715896">Goodbye to Sora</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/soraofficialapp"><span class="sitestr">twitter.com/soraofficialapp</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughts on slowing the fuck down (mariozechner.at)]]></title>
@@ -38,21 +38,21 @@
         <id>link-4f9d9440bc35b9e73f8110e011d24ab8</id>
         <link href="https://news.ycombinator.com/item?id=47500335"/>
         <updated>2026-03-27T14:51:02.172Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47500335">1042 points</span> by <a href="user?id=h0ek" class="hnuser">h0ek</a> <span class="age" title="2026-03-24T09:36:29 1774344989"><a href="item?id=47500335">4 days ago</a></span> <span id="unv_47500335"></span> | <a href="item?id=47500335">754&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/">Microsoft's "fix" for Windows 11</a><span class="sitebit comhead"> (<a href="from?site=sambent.com"><span class="sitestr">sambent.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47500335">1043 points</span> by <a href="user?id=h0ek" class="hnuser">h0ek</a> <span class="age" title="2026-03-24T09:36:29 1774344989"><a href="item?id=47500335">4 days ago</a></span> <span id="unv_47500335"></span> | <a href="item?id=47500335">754&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/">Microsoft's "fix" for Windows 11</a><span class="sitebit comhead"> (<a href="from?site=sambent.com"><span class="sitestr">sambent.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why so many control rooms were seafoam green (2025) (bethmathews.substack.com)]]></title>
         <id>link-670c0dcfd35d51a12b48fa73977484b2</id>
         <link href="https://news.ycombinator.com/item?id=47518960"/>
         <updated>2026-03-27T14:51:02.172Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47518960">1020 points</span> by <a href="user?id=Amorymeltzer" class="hnuser">Amorymeltzer</a> <span class="age" title="2026-03-25T15:46:29 1774453589"><a href="item?id=47518960">1 day ago</a></span> <span id="unv_47518960"></span> | <a href="item?id=47518960">201&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam">Why so many control rooms were seafoam green (2025)</a><span class="sitebit comhead"> (<a href="from?site=bethmathews.substack.com"><span class="sitestr">bethmathews.substack.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47518960">1022 points</span> by <a href="user?id=Amorymeltzer" class="hnuser">Amorymeltzer</a> <span class="age" title="2026-03-25T15:46:29 1774453589"><a href="item?id=47518960">2 days ago</a></span> <span id="unv_47518960"></span> | <a href="item?id=47518960">201&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam">Why so many control rooms were seafoam green (2025)</a><span class="sitebit comhead"> (<a href="from?site=bethmathews.substack.com"><span class="sitestr">bethmathews.substack.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Running Tesla Model 3's computer on my desk using parts from crashed cars (xdavidhu.me)]]></title>
         <id>link-7d4d714a4b2438e09c26b58435c02687</id>
         <link href="https://news.ycombinator.com/item?id=47523330"/>
         <updated>2026-03-27T14:51:02.172Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47523330">961 points</span> by <a href="user?id=driesdep" class="hnuser">driesdep</a> <span class="age" title="2026-03-25T21:11:57 1774473117"><a href="item?id=47523330">2 days ago</a></span> <span id="unv_47523330"></span> | <a href="item?id=47523330">328&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/">Running Tesla Model 3's computer on my desk using parts from crashed cars</a><span class="sitebit comhead"> (<a href="from?site=xdavidhu.me"><span class="sitestr">xdavidhu.me</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47523330">962 points</span> by <a href="user?id=driesdep" class="hnuser">driesdep</a> <span class="age" title="2026-03-25T21:11:57 1774473117"><a href="item?id=47523330">2 days ago</a></span> <span id="unv_47523330"></span> | <a href="item?id=47523330">328&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/">Running Tesla Model 3's computer on my desk using parts from crashed cars</a><span class="sitebit comhead"> (<a href="from?site=xdavidhu.me"><span class="sitestr">xdavidhu.me</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised (github.com/berriai)]]></title>
@@ -66,13 +66,13 @@
         <id>link-1c572770a5afaee1805fdbd15632aacb</id>
         <link href="https://news.ycombinator.com/item?id=47534848"/>
         <updated>2026-03-27T20:39:30.199Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47534848">893 points</span> by <a href="user?id=mmcclure" class="hnuser">mmcclure</a> <span class="age" title="2026-03-26T19:48:05 1774554485"><a href="item?id=47534848">1 day ago</a></span> <span id="unv_47534848"></span> | <a href="item?id=47534848">688&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what">We haven't seen the worst of what gambling and prediction markets will do</a><span class="sitebit comhead"> (<a href="from?site=derekthompson.org"><span class="sitestr">derekthompson.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47534848">893 points</span> by <a href="user?id=mmcclure" class="hnuser">mmcclure</a> <span class="age" title="2026-03-26T19:48:05 1774554485"><a href="item?id=47534848">1 day ago</a></span> <span id="unv_47534848"></span> | <a href="item?id=47534848">690&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what">We haven't seen the worst of what gambling and prediction markets will do</a><span class="sitebit comhead"> (<a href="from?site=derekthompson.org"><span class="sitestr">derekthompson.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Personal Encyclopedias (whoami.wiki)]]></title>
         <id>link-d90ad14687b2dd7104f19b83d7da2150</id>
         <link href="https://news.ycombinator.com/item?id=47522173"/>
         <updated>2026-03-27T14:51:02.172Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47522173">885 points</span> by <a href="user?id=jrmyphlmn" class="hnuser">jrmyphlmn</a> <span class="age" title="2026-03-25T19:41:51 1774467711"><a href="item?id=47522173">2 days ago</a></span> <span id="unv_47522173"></span> | <a href="item?id=47522173">182&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://whoami.wiki/blog/personal-encyclopedias">Personal Encyclopedias</a><span class="sitebit comhead"> (<a href="from?site=whoami.wiki"><span class="sitestr">whoami.wiki</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47522173">887 points</span> by <a href="user?id=jrmyphlmn" class="hnuser">jrmyphlmn</a> <span class="age" title="2026-03-25T19:41:51 1774467711"><a href="item?id=47522173">2 days ago</a></span> <span id="unv_47522173"></span> | <a href="item?id=47522173">182&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://whoami.wiki/blog/personal-encyclopedias">Personal Encyclopedias</a><span class="sitebit comhead"> (<a href="from?site=whoami.wiki"><span class="sitestr">whoami.wiki</span></a>)</span></span>]]></content>
     </entry>
 </feed>
