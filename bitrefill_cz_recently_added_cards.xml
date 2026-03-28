@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-28T07:06:51.747Z</updated>
+    <updated>2026-03-28T08:47:02.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -202,13 +202,6 @@
         <content type="html"><![CDATA[Global Experiences Card CZ — 250 CZK - 22000 CZK]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CASHlib EU]]></title>
-        <id>link-634360beaee0c793858da705cf25788d</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/cashlib-eu/"/>
-        <updated>2026-03-13T20:35:41.441Z</updated>
-        <content type="html"><![CDATA[CASHlib EU — €150]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NordPass Password Manager International]]></title>
         <id>link-43c899761e000d0bebc131ed6d1f4b60</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/nordpass-international/"/>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
         <updated>2026-03-12T14:49:35.510Z</updated>
         <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlystayGift]]></title>
+        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
+        <updated>2026-03-28T08:43:57.800Z</updated>
+        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
