@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.csfd.cz/tvurce/18336-adam-curtis/prehled/</id>
     <title>ČSFD - Adam Curtis - režijní dílo</title>
-    <updated>2026-03-28T11:34:42.955Z</updated>
+    <updated>2026-03-28T13:00:33.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.csfd.cz/tvurce/18336-adam-curtis/prehled/favicon.ico</icon>
     <entry>
@@ -70,6 +70,12 @@
         <id>link-31c603f4607409291cc8e6e7c5e84117</id>
         <link href="https://www.csfd.cz/film/185580-the-century-of-the-self/prehled/"/>
         <updated>2026-02-02T10:03:56.026Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1999 — The Mayfair Setseriál]]></title>
+        <id>link-931f0a526bc25efd94dae77bbe9351b9</id>
+        <link href="https://www.csfd.cz/film/1833818-the-mayfair-set/prehled/"/>
+        <updated>2026-03-28T12:56:40.986Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[1995 — Modern Timesseriál]]></title>
