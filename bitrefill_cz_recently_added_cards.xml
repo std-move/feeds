@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-28T02:13:01.596Z</updated>
+    <updated>2026-03-28T05:24:50.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/flexepin-european-union/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
         <content type="html"><![CDATA[Flexepin EU — €10 - €250]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lego]]></title>
+        <id>link-fc840a0b48a2c22e80e963ca38dc4264</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/lego-czech-republic/"/>
+        <updated>2026-03-28T05:21:35.651Z</updated>
+        <content type="html"><![CDATA[Lego — 500 CZK - 1000 CZK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PayPerQ.ai]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
         <updated>2026-03-12T14:49:35.510Z</updated>
         <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlystayGift]]></title>
-        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
-        <updated>2026-03-19T13:06:20.823Z</updated>
-        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>

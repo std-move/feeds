@@ -46,6 +46,13 @@
 			"retrieved": 1772707193121
 		},
 		{
+			"id": "link-fc840a0b48a2c22e80e963ca38dc4264",
+			"title": "Lego",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/lego-czech-republic/",
+			"contents": "Lego — 500 CZK - 1000 CZK",
+			"retrieved": 1774675295651
+		},
+		{
 			"id": "link-08481828f1839aefa90a3db1f025cbd7",
 			"title": "PayPerQ.ai",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/ppq-ai-international/",
@@ -275,13 +282,6 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/",
 			"contents": "TripGift — 1000 CZK - 40000 CZK",
 			"retrieved": 1773326975510
-		},
-		{
-			"id": "link-db90be2bdf54763e93557f830b8cee7e",
-			"title": "FlystayGift",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/",
-			"contents": "FlystayGift — 500 CZK - 40000 CZK",
-			"retrieved": 1773925580823
 		}
 	]
 }
