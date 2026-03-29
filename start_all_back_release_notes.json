@@ -4,6 +4,12 @@
 	"favicon": "https://www.startallback.com/favicon.ico",
 	"elements": [
 		{
+			"id": "title-b63edddcb7d3d4ce2fbb08aa9c4b4992",
+			"title": "Version 3.9.22 30 Mar 2026",
+			"contents": "Version 3.9.22 30 Mar 2026\n\t\t\t\t<li>Minor improvements and fixes</li>",
+			"retrieved": 1774823525180
+		},
+		{
 			"id": "title-56e84a9dc8637bb56833344460a55a72",
 			"title": "Version 3.9.21 27 Jan 2026",
 			"contents": "Version 3.9.21 27 Jan 2026\n\t\t\t\t<li>Support for ge_prereleaseserver</li>",

@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.startallback.com/</id>
     <title>StartAllBack release notes</title>
-    <updated>2026-03-29T20:35:17.284Z</updated>
+    <updated>2026-03-29T22:33:55.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.startallback.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 3.9.22 30 Mar 2026]]></title>
+        <id>title-b63edddcb7d3d4ce2fbb08aa9c4b4992</id>
+        <link href="https://www.startallback.com/?link_extraction_failed=true"/>
+        <updated>2026-03-29T22:32:05.180Z</updated>
+        <content type="html"><![CDATA[Version 3.9.22 30 Mar 2026
+				<li>Minor improvements and fixes</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 3.9.21 27 Jan 2026]]></title>
         <id>title-56e84a9dc8637bb56833344460a55a72</id>
