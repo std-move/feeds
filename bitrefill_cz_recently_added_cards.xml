@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-30T13:23:33.726Z</updated>
+    <updated>2026-03-30T15:06:59.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -18,20 +18,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/ludo-star-usd-international/"/>
         <updated>2026-03-13T22:28:40.490Z</updated>
         <content type="html"><![CDATA[Ludo Star International — $10 - $500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneKey USD]]></title>
-        <id>link-ace6c246fa7ccbbac456bf5ab79ccb9b</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/onekey-usd/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[OneKey USD — OneKey Classic 1S - OneKey Pro]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subjektiv Art EUR]]></title>
-        <id>link-372704768f307ef78b83b104c9bb61f7</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/subjektive-art-eur/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Subjektiv Art EUR — €50 - €500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rakuten TV]]></title>
@@ -53,13 +39,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/lego-czech-republic/"/>
         <updated>2026-03-28T05:21:35.651Z</updated>
         <content type="html"><![CDATA[Lego — 500 CZK - 1000 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPerQ.ai]]></title>
-        <id>link-08481828f1839aefa90a3db1f025cbd7</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/ppq-ai-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[PayPerQ.ai — $50 - $100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ASTRATEX]]></title>
@@ -88,20 +67,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/"/>
         <updated>2026-03-30T11:02:37.221Z</updated>
         <content type="html"><![CDATA[Aircash A-Bon Europe — €5 - €25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExitLag International]]></title>
-        <id>link-f1c789c661d5261cd61b57b956c3464d</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/exitlag-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[ExitLag International — Semiannual - Annual]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless.com International]]></title>
-        <id>link-ed51250726659a5ca908161ae271b641</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/bankless-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Bankless.com International — 1 Year Subscription]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jawaker Tokens International]]></title>
@@ -160,13 +125,6 @@
         <content type="html"><![CDATA[Givery Multibrand CZ — 500 CZK - 1000 CZK]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CoinTracking International]]></title>
-        <id>link-415dda5a9aed6fb525cc5ccba3292f59</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/cointracking-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[CoinTracking International — $155]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PlayStation Store CZ]]></title>
         <id>link-868591b604363c51e5094d86e40eb93b</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/playstation-cz/"/>
@@ -178,14 +136,7 @@
         <id>link-2ed5593b41173f5bf43fc350ebfb1c85</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/"/>
         <updated>2026-03-13T22:28:40.490Z</updated>
-        <content type="html"><![CDATA[Minecraft Java International — $29.99]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G2A Digital Marketplace]]></title>
-        <id>link-0b5983c9af8853c3391b9a2a2ac6fcc6</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/g2a-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[G2A Digital Marketplace — $10 - $200]]></content>
+        <content type="html"><![CDATA[Minecraft Java International — $26.95]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitch EU]]></title>
@@ -207,20 +158,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/cashlib-eu/"/>
         <updated>2026-03-30T11:02:37.221Z</updated>
         <content type="html"><![CDATA[CASHlib EU — €150]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NordPass Password Manager International]]></title>
-        <id>link-43c899761e000d0bebc131ed6d1f4b60</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/nordpass-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[NordPass Password Manager International — 1 Year Subscription - 2 Years Subscription]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NordLocker Encrypted Cloud Storage International]]></title>
-        <id>link-9f39eea90c0f5011e5c8001f3b693264</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/nordlocker-international/"/>
-        <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[NordLocker Encrypted Cloud Storage International — $49.99 - $119.99]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Global Experience Card CZE]]></title>
@@ -284,5 +221,68 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
         <updated>2026-03-12T14:49:35.510Z</updated>
         <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlystayGift]]></title>
+        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eLearnGift]]></title>
+        <id>link-7a12368d45b5b44354d57beb35fa37b8</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/elearngift-cz/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[eLearnGift — 500 CZK - 40000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlixTrain EUR international]]></title>
+        <id>link-c9fb66fbec19b4c3539f42d86e283df9</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/flixtrain-international/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[FlixTrain EUR international — €10 - €40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PUBG New State International]]></title>
+        <id>link-cfb3a712c94a8274f35ede8c046bf09a</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/pubg-new-state-international/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[PUBG New State International — $0.99 - $99.99]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ticketmaster CZ]]></title>
+        <id>link-a2fad700aab32520a56292c84e71c615</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/ticketmaster-cz/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[Ticketmaster CZ — 50 CZK - 7500 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activitygift EUR]]></title>
+        <id>link-2a175c86a735697f3f5d40f6ed47d78a</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/activitygift-eu/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[Activitygift EUR — €25 - €1745]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activitygift USD]]></title>
+        <id>link-b809f99cdae2972a7491aa14ed9c2c1c</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/activitygift-us/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[Activitygift USD — $25 - $2000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primark]]></title>
+        <id>link-a6f405bfbcff59fc990f3dc9973d2a0a</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/primark-czech-republic/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[Primark — 150 CZK - 5400 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adidas]]></title>
+        <id>link-e548eaea2f12fbcd46484c091827d3c2</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/adidas-cz/"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
+        <content type="html"><![CDATA[Adidas — 500 CZK - 1000 CZK]]></content>
     </entry>
 </feed>
