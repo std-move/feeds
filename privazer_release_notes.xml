@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-03-30T09:17:23.508Z</updated>
+    <updated>2026-03-30T11:04:29.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.120.1]]></title>
+        <id>title-6eb7727fbfbcd5d63340041aa0131175</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-03-30T11:02:37.221Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.120.1</strong> (30 March 2026)<br>
+            + Minor bug fixes]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.120]]></title>
         <id>title-6cd230b712e64f20337b29dda1e157a5</id>
@@ -227,14 +235,5 @@
         <updated>2026-03-29T14:34:42.186Z</updated>
         <content type="html"><![CDATA[<strong>v4.0.103</strong> (12 March 2025)<br>
              + Minor bug fixes : crash<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.102]]></title>
-        <id>title-25da3e4e86444bf3d66c20d3707baca6</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-03-29T14:34:42.186Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.102</strong> (07 March 2025)<br>
-            + Improved speed<br>
-             + Minor bug fixes<br>]]></content>
     </entry>
 </feed>
