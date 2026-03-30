@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-03-30T19:03:13.790Z</updated>
+    <updated>2026-03-30T22:38:36.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/lego-czech-republic/"/>
         <updated>2026-03-28T05:21:35.651Z</updated>
         <content type="html"><![CDATA[Lego — 500 CZK - 1000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPerQ.ai]]></title>
+        <id>link-08481828f1839aefa90a3db1f025cbd7</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/ppq-ai-international/"/>
+        <updated>2026-03-30T22:36:34.861Z</updated>
+        <content type="html"><![CDATA[PayPerQ.ai — $1 - $10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ASTRATEX]]></title>
@@ -136,7 +143,7 @@
         <id>link-2ed5593b41173f5bf43fc350ebfb1c85</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/"/>
         <updated>2026-03-13T22:28:40.490Z</updated>
-        <content type="html"><![CDATA[Minecraft Java International — $29.99]]></content>
+        <content type="html"><![CDATA[Minecraft Java International — $26.95]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitch EU]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/primark-czech-republic/"/>
         <updated>2026-03-30T15:04:12.686Z</updated>
         <content type="html"><![CDATA[Primark — 150 CZK - 5400 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adidas]]></title>
-        <id>link-e548eaea2f12fbcd46484c091827d3c2</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/adidas-cz/"/>
-        <updated>2026-03-30T15:04:12.686Z</updated>
-        <content type="html"><![CDATA[Adidas — 500 CZK - 1000 CZK]]></content>
     </entry>
 </feed>

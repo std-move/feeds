@@ -39,6 +39,13 @@
 			"retrieved": 1774675295651
 		},
 		{
+			"id": "link-08481828f1839aefa90a3db1f025cbd7",
+			"title": "PayPerQ.ai",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/ppq-ai-international/",
+			"contents": "PayPerQ.ai — $1 - $10",
+			"retrieved": 1774910194861
+		},
+		{
 			"id": "link-5a0f3c3438beb47bc80ba8781dc27f98",
 			"title": "ASTRATEX",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/astratex-czech-republic/",
@@ -133,7 +140,7 @@
 			"id": "link-2ed5593b41173f5bf43fc350ebfb1c85",
 			"title": "Minecraft Java International",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/minecraft-java-international/",
-			"contents": "Minecraft Java International — $29.99",
+			"contents": "Minecraft Java International — $26.95",
 			"retrieved": 1773440920490
 		},
 		{
@@ -274,13 +281,6 @@
 			"title": "Primark",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/primark-czech-republic/",
 			"contents": "Primark — 150 CZK - 5400 CZK",
-			"retrieved": 1774883052686
-		},
-		{
-			"id": "link-e548eaea2f12fbcd46484c091827d3c2",
-			"title": "Adidas",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/adidas-cz/",
-			"contents": "Adidas — 500 CZK - 1000 CZK",
 			"retrieved": 1774883052686
 		}
 	]
