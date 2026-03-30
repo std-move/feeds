@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-03-29T22:33:55.918Z</updated>
+    <updated>2026-03-30T02:34:48.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/iPhone_17e/4_zu_3_Teaser_Apple_iPhone_17e-JPEG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/iPhone_17e/4_zu_3_Teaser_Apple_iPhone_17e-JPEG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/iPhone_17e/4_zu_3_Teaser_Apple_iPhone_17e-JPEG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/iPhone_17e/4_zu_3_Teaser_Apple_iPhone_17e-JPEG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/iPhone_17e/4_zu_3_Teaser_Apple_iPhone_17e-JPEG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/iPhone_17e/4_zu_3_Teaser_Apple_iPhone_17e-JPEG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/4/csm_4_zu_3_Teaser_Apple_iPhone_17e_5daf7b3362.jpg" loading="lazy" alt="Apple iPhone 17e"></picture><div class="intro_featured_bar_title">An upselling product or a good deal? Apple iPhone 17e review</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Set an LLM up locally, no dGPU needed]]></title>
-        <id>link-797e2d1d96c82cf9d7a6d77131c46df6</id>
-        <link href="https://www.notebookcheck.net/No-GPU-no-problem-Hosting-your-own-LLM-is-infinitely-more-fun-than-the-censored-offerings-from-the-big-players-and-works-surprisingly-well.1260784.0.html"/>
-        <updated>2026-03-29T16:36:38.577Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/KoboldCPPTeaser-27-3-26-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/KoboldCPPTeaser-27-3-26-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KoboldCPPTeaser-27-3-26-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/KoboldCPPTeaser-27-3-26-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KoboldCPPTeaser-27-3-26-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KoboldCPPTeaser-27-3-26-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/e/csm_KoboldCPPTeaser-27-3-26_d398a001df.jpg" loading="lazy" alt="While not the fastest, it is serviceable without a GPU and at the very least, you stay in charge of your data"></picture><div class="intro_featured_bar_title">Guide: Set an LLM up locally, no dGPU needed</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shows Apple how an Air should be done - Magic 8 Pro Air review]]></title>
         <id>link-3ffab6c6ce6b4a7333032c03f4bee00f</id>
         <link href="https://www.notebookcheck.net/Honor-Magic8-Pro-Air-review-A-dream-come-true-for-many-smartphone-fans.1261347.0.html"/>
@@ -53,5 +46,12 @@
         <link href="https://www.notebookcheck.net/Affordable-cordless-vacuum-with-bend-and-mop-function-Proscenic-P20-OnePass-hands-on-test.1261196.0.html"/>
         <updated>2026-03-28T07:03:44.337Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Proscenic-P20-OnePass-Test-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Proscenic-P20-OnePass-Test-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Proscenic-P20-OnePass-Test-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Proscenic-P20-OnePass-Test-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Proscenic-P20-OnePass-Test-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Proscenic-P20-OnePass-Test-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/4/csm_Proscenic-P20-OnePass-Test_a28a9cfcce.jpg" loading="lazy" alt="Affordable cordless vacuum with bend-and-mop function: Proscenic P20 OnePass hands-on test"></picture><div class="intro_featured_bar_title">With bend-and-mop function: Proscenic P20 OnePass cordless vacuum cleaner tested</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keychron Q1 Ultra review: Long battery, stellar build]]></title>
+        <id>link-156c1c4ecfb273697dc0b05876f0d69a</id>
+        <link href="https://www.notebookcheck.net/Keychron-Q1-Ultra-wireless-mechanical-keyboard-review-Smooth-thocky-typing-stellar-battery-life-charming-retro-looks.1249841.0.html"/>
+        <updated>2026-03-30T02:33:04.408Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Keychron-Q1-Ultra-review-teaser16-9-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Keychron-Q1-Ultra-review-teaser16-9-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Keychron-Q1-Ultra-review-teaser16-9-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Keychron-Q1-Ultra-review-teaser16-9-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Keychron-Q1-Ultra-review-teaser16-9-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Keychron-Q1-Ultra-review-teaser16-9-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/0/csm_Keychron-Q1-Ultra-review-teaser16-9_687d55e553.jpg" loading="lazy" alt="Keychron Q1 Ultra review "></picture><div class="intro_featured_bar_title">Keychron Q1 Ultra review: Long battery, stellar build</div>]]></content>
     </entry>
 </feed>
