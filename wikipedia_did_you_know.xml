@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-03-31T05:47:31.579Z</updated>
+    <updated>2026-03-31T07:21:23.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://en.wikipedia.org/wiki/Kim_Petras"/>
         <updated>2026-03-31T02:27:46.354Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Kim_Petras" title="Kim Petras">Kim Petras</a></b> <i>(pictured)</i> was described as the "world's youngest" person to transition?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agender Pride Day]]></title>
-        <id>link-4253fc1ebb68ea2d26450cb11c36167f</id>
-        <link href="https://en.wikipedia.org/wiki/Agender_Pride_Day"/>
-        <updated>2026-03-31T02:27:46.354Z</updated>
-        <content type="html"><![CDATA[... that the first <b><a href="/wiki/Agender_Pride_Day" title="Agender Pride Day">Agender Pride Day</a></b> took place months after a 27-year-old Oregon resident was legally recognised as agender?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nadia Echazú]]></title>
