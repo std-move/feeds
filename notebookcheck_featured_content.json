@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-e7166f1a54a4a66eebba97f306bf69ab",
+			"title": "▶ Fake frames are awesome! - Nvidia DLSS 4.5",
+			"link": "https://www.notebookcheck.net/Fake-frames-are-awesome-Nvidia-DLSS-4-5.1262977.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/e/csm_thumb3354_864170f74f.jpg\" loading=\"lazy\" alt=\"Fake frames are awesome! - Nvidia DLSS 4.5\"></picture><div class=\"intro_featured_bar_title\">▶ Fake frames are awesome! - Nvidia DLSS 4.5</div>",
+			"retrieved": 1774963189433
+		},
+		{
 			"id": "link-53048fdb776d3dd4e882590e9f17adec",
 			"title": "Compact & affordable: Yale Linus Smart Lock L2 Lite review",
 			"link": "https://www.notebookcheck.net/Compact-affordable-smart-lock-with-Matter-Yale-Linus-L2-Lite-review.1262575.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Sunseeker-V1-review-Bargain-robotic-lawnmower-for-English-lawn.1261792.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Sunseeker-V1-Test87-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Sunseeker-V1-Test87-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Sunseeker-V1-Test87-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Sunseeker-V1-Test87-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Sunseeker-V1-Test87-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Sunseeker-V1-Test87-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/6/csm_Sunseeker-V1-Test87_08a54458ed.jpg\" loading=\"lazy\" alt=\"Sunseeker V1 review\"></picture><div class=\"intro_featured_bar_title\">Extremely cheap, but with a garage: Sunseeker V1 review</div>",
 			"retrieved": 1774816419754
-		},
-		{
-			"id": "link-b10afb8e87f18836a46781e183d86dd8",
-			"title": "Alldocube iWork GT Ultra review: Is the ~$900 convertible worth it?",
-			"link": "https://www.notebookcheck.net/Alldocube-iWork-GT-Ultra-convertible-review-Alternative-to-Android-tablets-with-true-PC-performance.1260559.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Alldocube/iWork_GT_Ultra/iWork_GT_Ultra_8-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Alldocube/iWork_GT_Ultra/iWork_GT_Ultra_8-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Alldocube/iWork_GT_Ultra/iWork_GT_Ultra_8-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Alldocube/iWork_GT_Ultra/iWork_GT_Ultra_8-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Alldocube/iWork_GT_Ultra/iWork_GT_Ultra_8-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Alldocube/iWork_GT_Ultra/iWork_GT_Ultra_8-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/1/csm_iWork_GT_Ultra_8_32c95502d2.jpg\" loading=\"lazy\" alt=\"Alldocube iWork GT Ultra\"></picture><div class=\"intro_featured_bar_title\">Alldocube iWork GT Ultra review: Is the ~$900 convertible worth it?</div>",
-			"retrieved": 1774809799168
 		}
 	]
 }
