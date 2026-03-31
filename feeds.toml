@@ -171,6 +171,7 @@ waitForSelector = ".post-list > .post"
 entrySelector = ".post-list > .post"
 titleSelector = [".post-date", "h2"]
 # linkSelector = "a"
+suppressFailureUntilEpochSec = 1775129409
 
 [rtings_com_laptop_reviews]
 title = "rtings.com - laptop reviews"
