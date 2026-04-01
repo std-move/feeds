@@ -2,77 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-01T10:58:52.959Z</updated>
+    <updated>2026-04-01T13:25:35.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[they did surgery on a grape]]></title>
-        <id>link-389d12b0b37eb002404ba13cb28ce73e</id>
-        <link href="https://en.wikipedia.org/wiki/Grape_surgery"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Grape_surgery" title="Grape surgery">they did surgery on a grape</a></b> <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[Governor Joe]]></title>
+        <id>link-46f7a9e3bd4343ac587bef0e1415ca38</id>
+        <link href="https://en.wikipedia.org/wiki/Joseph_Pawnee-no-pashe"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Joseph_Pawnee-no-pashe" title="Joseph Pawnee-no-pashe">Governor Joe</a></b> <i>(pictured)</i> was "Not Afraid of Longhairs"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elvis the Pelvis]]></title>
-        <id>link-052ac39db287de4ef4022d581e5b4621</id>
-        <link href="https://en.wikipedia.org/wiki/Sima_de_los_Huesos_hominins"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Sima_de_los_Huesos_hominins" title="Sima de los Huesos hominins">Elvis the Pelvis</a></b> got <a href="/wiki/Rickets" title="Rickets">rickets</a> from hibernating?]]></content>
+        <title type="html"><![CDATA[men]]></title>
+        <id>link-15c29492d36f4f3d5d96b89741e45bf2</id>
+        <link href="https://en.wikipedia.org/wiki/Men_(magazine)"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Men_(magazine)" title="Men (magazine)">men</a></b> ceased to exist in 2009?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sardines]]></title>
-        <id>link-6d16924a0e8a6803e14421caf101e851</id>
-        <link href="https://en.wikipedia.org/wiki/Letov_%C5%A0-10"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Letov_%C5%A0-10" title="Letov Š-10">sardines</a></b> had engines?]]></content>
+        <title type="html"><![CDATA[ride their D]]></title>
+        <id>link-7a46742a009833d865e4d894b7a356fc</id>
+        <link href="https://en.wikipedia.org/wiki/Ride_the_D"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that the Los Angeles Metro wants you to <b><a href="/wiki/Ride_the_D" title="Ride the D">ride their D</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robert Uzgalis]]></title>
-        <id>link-09d89f9e0ebcb4276da1751f60a284c3</id>
-        <link href="https://en.wikipedia.org/wiki/Robert_Uzgalis"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Robert_Uzgalis" title="Robert Uzgalis">Robert Uzgalis</a></b> made the Leaning Tower of Pisa straight?]]></content>
+        <title type="html"><![CDATA[African Nigeria]]></title>
+        <id>link-4dedb0b107b21fd0ca75d3c6ee9b2865</id>
+        <link href="https://en.wikipedia.org/wiki/African_Grant"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/African_Grant" title="African Grant">African Nigeria</a></b> played in the NFL?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[French girls]]></title>
-        <id>link-496e6419719ff1d7059606cf97627066</id>
-        <link href="https://en.wikipedia.org/wiki/French_Girls"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/French_Girls" title="French Girls">French girls</a></b> premiered on a livestream?]]></content>
+        <title type="html"><![CDATA[a Christmas carol]]></title>
+        <id>link-b33ee684ddbfec3e0ad18dc0c0e20ce6</id>
+        <link href="https://en.wikipedia.org/wiki/Es_hat_sich_halt_er%C3%B6ffnet"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that Karl Marx made an arrangement of <b><a href="/wiki/Es_hat_sich_halt_er%C3%B6ffnet" title="Es hat sich halt eröffnet">a Christmas carol</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tarzan]]></title>
-        <id>link-0707f720dd8e2fa0a54671000bccc9ab</id>
-        <link href="https://en.wikipedia.org/wiki/Tarzan_Basaruddin"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Tarzan_Basaruddin" title="Tarzan Basaruddin">Tarzan</a></b> is currently an advisor for higher education?]]></content>
+        <title type="html"><![CDATA[Ben Franklin]]></title>
+        <id>link-116f76dab9dcb694fa5ac3c3398076ad</id>
+        <link href="https://en.wikipedia.org/wiki/Ben_Franklin_(song)"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ben_Franklin_(song)" title="Ben Franklin (song)">Ben Franklin</a></b> was inspired by an internet meme?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a term]]></title>
-        <id>link-42327e54d6fac1832bb1c26c81c2a317</id>
-        <link href="https://en.wikipedia.org/wiki/Vagueposting"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that there's <b><a href="/wiki/Vagueposting" title="Vagueposting">a term</a></b>?]]></content>
+        <title type="html"><![CDATA[moth]]></title>
+        <id>link-34d5a0452fce7df2fa17aa01db8f290b</id>
+        <link href="https://en.wikipedia.org/wiki/Moth_joke"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that a <b><a href="/wiki/Moth_joke" title="Moth joke">moth</a></b> flew into a <a href="/wiki/Podiatrist" title="Podiatrist">podiatrist</a>'s office because the light was on?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Krispy Kream]]></title>
-        <id>link-0c32e226fa4c7dc2f10d53b5cf7e1c98</id>
-        <link href="https://en.wikipedia.org/wiki/Krispy_Kream_Drive-In"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Krispy_Kream_Drive-In" title="Krispy Kream Drive-In">Krispy Kream</a></b> is not allowed to sell doughnuts?]]></content>
+        <title type="html"><![CDATA[a cobra]]></title>
+        <id>link-b4d712506590385ac73105816554e60b</id>
+        <link href="https://en.wikipedia.org/wiki/Controller_Operated_Battle_Ready_Armament"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that the Armed Forces of the Philippines have <b><a href="/wiki/Controller_Operated_Battle_Ready_Armament" title="Controller Operated Battle Ready Armament">a cobra</a></b> that they use for combat?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a golden shower]]></title>
-        <id>link-945f4bab14748cdbb56aff21971090e0</id>
-        <link href="https://en.wikipedia.org/wiki/Untitled_(collection)"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that a fashion designer expressed his career frustrations with <b><a href="/wiki/Untitled_(collection)" title="Untitled (collection)">a golden shower</a></b>?]]></content>
+        <title type="html"><![CDATA[horses]]></title>
+        <id>link-135304e5d6fc8e5b28672e3625db0dfa</id>
+        <link href="https://en.wikipedia.org/wiki/Horses_(video_game)"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Horses_(video_game)" title="Horses (video game)">horses</a></b> suffered a ban in November&nbsp;2025?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Allah]]></title>
-        <id>link-190f08b890ab9653e319ee6ec1a4d113</id>
-        <link href="https://en.wikipedia.org/wiki/Clara_Knight_(nanny)"/>
-        <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Clara_Knight_(nanny)" title="Clara Knight (nanny)">Allah</a></b> made sure that Queen Elizabeth&nbsp;II was in bed by 19:15?]]></content>
+        <title type="html"><![CDATA[Romeo and Juliet]]></title>
+        <id>link-664f7e5b1c7ea11ee08d251e6e3c4e29</id>
+        <link href="https://en.wikipedia.org/wiki/Romeo_and_Juliet_(swans)"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Romeo_and_Juliet_(swans)" title="Romeo and Juliet (swans)">Romeo and Juliet</a></b> are a same-sex couple?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E.T.]]></title>
+        <id>link-cc88faef613318b413d05262b28b2b53</id>
+        <link href="https://en.wikipedia.org/wiki/E.T.:_Interplanetary_Mission"/>
+        <updated>2026-04-01T13:23:33.692Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/E.T.:_Interplanetary_Mission" title="E.T.: Interplanetary Mission">E.T.</a></b> wants Osama bin Laden to fuck off?]]></content>
     </entry>
 </feed>
