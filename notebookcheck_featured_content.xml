@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-02T09:00:16.040Z</updated>
+    <updated>2026-04-02T10:54:06.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Your next work laptop? - HP's new business and workstation laptops!]]></title>
+        <id>link-ab32f3083840bead917785ec4d4dadc9</id>
+        <link href="https://www.notebookcheck.net/Your-next-work-laptop-HP-s-new-business-and-workstation-laptops.1264794.0.html"/>
+        <updated>2026-04-02T10:51:47.533Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/f/csm_thumb_04_747f055580.jpg" loading="lazy" alt="Your next work laptop? - HP's new business and workstation laptops!"></picture><div class="intro_featured_bar_title">▶ Your next work laptop? - HP's new business and workstation laptops!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Ryzen AI meets classic ThinkPad]]></title>
         <id>link-c9844d13c27223cdcb3170be5d67c0bc</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Zendure-SolarFlow-2400-Pro-review-Is-the-XXL-balcony-solar-system-with-2-400-W-AI-worth-it.1261424.0.html"/>
         <updated>2026-03-30T15:04:12.686Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/4/csm_Zendure-SolarFlow-2400-Pro-Test-Teaser_ab389c73f6.jpg" loading="lazy" alt="Zendure SolarFlow 2400 Pro review"></picture><div class="intro_featured_bar_title">Balcony solar system overkill? SolarFlow 2400 Pro review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ Meet the Dell XPS "Pro"!]]></title>
-        <id>link-a805ae3aacf77654059d06dbc120d746</id>
-        <link href="https://www.notebookcheck.net/Meet-the-Dell-XPS-Pro.1262276.0.html"/>
-        <updated>2026-03-30T13:21:40.605Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/a/csm_thumb_03_c3319b440c.jpg" loading="lazy" alt="Meet the Dell XPS &quot;Pro&quot;!"></picture><div class="intro_featured_bar_title">▶ Meet the Dell XPS "Pro"!</div>]]></content>
     </entry>
 </feed>

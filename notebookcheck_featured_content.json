@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-ab32f3083840bead917785ec4d4dadc9",
+			"title": "▶ Your next work laptop? - HP's new business and workstation laptops!",
+			"link": "https://www.notebookcheck.net/Your-next-work-laptop-HP-s-new-business-and-workstation-laptops.1264794.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_04-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/f/csm_thumb_04_747f055580.jpg\" loading=\"lazy\" alt=\"Your next work laptop? - HP's new business and workstation laptops!\"></picture><div class=\"intro_featured_bar_title\">▶ Your next work laptop? - HP's new business and workstation laptops!</div>",
+			"retrieved": 1775127107533
+		},
+		{
 			"id": "link-c9844d13c27223cdcb3170be5d67c0bc",
 			"title": "AMD Ryzen AI meets classic ThinkPad",
 			"link": "https://www.notebookcheck.net/AMD-Ryzen-AI-meets-classic-ThinkPad-Lenovo-ThinkPad-T14-Gen-6-AMD-laptop-review.1222690.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Zendure-SolarFlow-2400-Pro-review-Is-the-XXL-balcony-solar-system-with-2-400-W-AI-worth-it.1261424.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Zendure-SolarFlow-2400-Pro-Test-Teaser-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/4/csm_Zendure-SolarFlow-2400-Pro-Test-Teaser_ab389c73f6.jpg\" loading=\"lazy\" alt=\"Zendure SolarFlow 2400 Pro review\"></picture><div class=\"intro_featured_bar_title\">Balcony solar system overkill? SolarFlow 2400 Pro review</div>",
 			"retrieved": 1774883052686
-		},
-		{
-			"id": "link-a805ae3aacf77654059d06dbc120d746",
-			"title": "▶ Meet the Dell XPS \"Pro\"!",
-			"link": "https://www.notebookcheck.net/Meet-the-Dell-XPS-Pro.1262276.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_03-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/a/csm_thumb_03_c3319b440c.jpg\" loading=\"lazy\" alt=\"Meet the Dell XPS &quot;Pro&quot;!\"></picture><div class=\"intro_featured_bar_title\">▶ Meet the Dell XPS \"Pro\"!</div>",
-			"retrieved": 1774876900605
 		}
 	]
 }
