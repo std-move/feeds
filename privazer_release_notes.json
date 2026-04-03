@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-c2c514b66a49fd5b5f7b8268bfffbf73",
+			"title": "v4.0.120.2",
+			"contents": "<strong>v4.0.120.2</strong> (03 April 2026)<br>\n            + Minor bug fixes : chkdsk",
+			"retrieved": 1775183129739
+		},
+		{
 			"id": "title-6eb7727fbfbcd5d63340041aa0131175",
 			"title": "v4.0.120.1",
 			"contents": "<strong>v4.0.120.1</strong> (30 March 2026)<br>\n            + Minor bug fixes",
@@ -115,12 +121,6 @@
 			"id": "title-92719c3b0816cde2a709082c8ca108cc",
 			"title": "v4.0.104",
 			"contents": "<strong>v4.0.104</strong> (28 March 2025)<br>\n                  + Improved speed<br>\n                  + Minor bug fixes<br>   \n                  + Improved UI : high DPI<br>            \n                  + New option<br>",
-			"retrieved": 1774794882186
-		},
-		{
-			"id": "title-a787525864e3d3330452ef5f697dabc4",
-			"title": "v4.0.103",
-			"contents": "<strong>v4.0.103</strong> (12 March 2025)<br>\n             + Minor bug fixes : crash<br>",
 			"retrieved": 1774794882186
 		}
 	]
