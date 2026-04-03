@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-04-03T02:27:35.556Z</updated>
+    <updated>2026-04-03T05:44:22.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
         <updated>2026-04-03T02:25:29.739Z</updated>
         <content type="html"><![CDATA[<strong>v4.0.120.2</strong> (03 April 2026)<br>
-            + Minor bug fixes : chkdsk]]></content>
+            + Minor bug fixes : Repair (loop)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.120.1]]></title>
