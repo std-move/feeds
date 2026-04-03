@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-04-03T14:44:33.058Z</updated>
+    <updated>2026-04-03T16:44:30.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png</icon>
     <entry>
@@ -14,11 +14,11 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140669-lfa-230-franklin-vs-urena">LFA 230</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-04-03 18:30:00 -0400">in 7 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-04-03 18:30:00 -0400">in 5 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chisora vs. Wilder — 2026-04-04 12:00:00 -0400]]></title>
+        <title type="html"><![CDATA[Chisora vs. Wilder — 2026-04-04 10:00:00 -0400]]></title>
         <id>link-ccac1ff80c708c4dce6daa7c3a949948</id>
         <link href="https://www.tapology.com/fightcenter/events/138896-chisora-vs-wilder"/>
         <updated>2026-03-27T16:55:54.218Z</updated>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/138896-chisora-vs-wilder">Chisora vs. Wilder</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-04-04 12:00:00 -0400">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-04-04 10:00:00 -0400">in 21 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -54,7 +54,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zuffa Boxing 5 — 2026-04-05 17:00:00 -0400]]></title>
+        <title type="html"><![CDATA[Zuffa Boxing 5 — 2026-04-05 17:30:00 -0400]]></title>
         <id>link-23eaf87f93a8e7e59ee22c55d16d7602</id>
         <link href="https://www.tapology.com/fightcenter/events/140536-zuffa-boxing-5"/>
         <updated>2026-03-28T22:29:56.643Z</updated>
@@ -62,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140536-zuffa-boxing-5">Zuffa Boxing 5</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-04-05 17:00:00 -0400">in 2 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-04-05 17:30:00 -0400">in 2 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -86,7 +86,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140073-pfl-africa-1-pretoria">PFL Africa 1</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-04-10 12:00:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-04-10 12:00:00 -0400">in 6 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
