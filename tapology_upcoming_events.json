@@ -4,24 +4,17 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png",
 	"elements": [
 		{
-			"id": "link-edc6154bed49a16d75ae486338776981",
-			"title": "LFA 230 — 2026-04-03 18:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/140669-lfa-230-franklin-vs-urena",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140669-lfa-230-franklin-vs-urena\">LFA 230</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-03 18:30:00 -0400\">7 minutes ago</abbr>\n</td>",
-			"retrieved": 1774118243871
-		},
-		{
 			"id": "link-ccac1ff80c708c4dce6daa7c3a949948",
 			"title": "Chisora vs. Wilder — 2026-04-04 11:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/138896-chisora-vs-wilder",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138896-chisora-vs-wilder\">Chisora vs. Wilder</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-04 11:00:00 -0400\">in 16 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138896-chisora-vs-wilder\">Chisora vs. Wilder</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-04 11:00:00 -0400\">in 12 hours</abbr>\n</td>",
 			"retrieved": 1774630554218
 		},
 		{
 			"id": "link-09578299ee88b3d3735a10ae10ffd8c8",
 			"title": "UFC Fight Night — 2026-04-04 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/138212-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138212-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-04 17:00:00 -0400\">in 22 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138212-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-04 17:00:00 -0400\">in 18 hours</abbr>\n</td>",
 			"retrieved": 1774650844103
 		},
 		{
@@ -56,8 +49,15 @@
 			"id": "link-bd6c1269f4cb4c6d8a33d2658e257794",
 			"title": "ONE Fight Night 42 — 2026-04-10 21:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/137459-one-fight-night-42",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137459-one-fight-night-42\">ONE Fight Night 42</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-10 21:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137459-one-fight-night-42\">ONE Fight Night 42</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-10 21:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1775194958435
+		},
+		{
+			"id": "link-731570ef7685a16acf6f148d8a6b41f2",
+			"title": "OKTAGON 86 — 2026-04-11 11:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/135520-oktagon-86",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/135520-oktagon-86\">OKTAGON 86</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-11 11:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1775268830770
 		}
 	]
 }

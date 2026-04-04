@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - best posts (week)</title>
-    <updated>2026-04-03T22:40:08.749Z</updated>
+    <updated>2026-04-04T02:16:20.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-43002910ac237dcdc88199c855de2c82</id>
         <link href="https://news.ycombinator.com/item?id=47584540"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47584540">2076 points</span> by <a href="user?id=treexs" class="hnuser">treexs</a> <span class="age" title="2026-03-31T09:00:40 1774947640"><a href="item?id=47584540">3 days ago</a></span> <span id="unv_47584540"></span> | <a href="item?id=47584540">1020&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/Fried_rice/status/2038894956459290963">Claude Code's source code has been leaked via a map file in their NPM registry</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/fried_rice"><span class="sitestr">twitter.com/fried_rice</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47584540">2077 points</span> by <a href="user?id=treexs" class="hnuser">treexs</a> <span class="age" title="2026-03-31T09:00:40 1774947640"><a href="item?id=47584540">3 days ago</a></span> <span id="unv_47584540"></span> | <a href="item?id=47584540">1020&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/Fried_rice/status/2038894956459290963">Claude Code's source code has been leaked via a map file in their NPM registry</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/fried_rice"><span class="sitestr">twitter.com/fried_rice</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Axios compromised on NPM – Malicious versions drop remote access trojan (stepsecurity.io)]]></title>
@@ -24,195 +24,195 @@
         <id>link-0420e37fe5fec4b8593f4da9843da6ae</id>
         <link href="https://news.ycombinator.com/item?id=47613981"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47613981">1852 points</span> by <a href="user?id=digitalWestie" class="hnuser">digitalWestie</a> <span class="age" title="2026-04-02T13:09:09 1775135349"><a href="item?id=47613981">1 day ago</a></span> <span id="unv_47613981"></span> | <a href="item?id=47613981">751&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://browsergate.eu/">LinkedIn is searching your browser extensions</a><span class="sitebit comhead"> (<a href="from?site=browsergate.eu"><span class="sitestr">browsergate.eu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47613981">1857 points</span> by <a href="user?id=digitalWestie" class="hnuser">digitalWestie</a> <span class="age" title="2026-04-02T13:09:09 1775135349"><a href="item?id=47613981">1 day ago</a></span> <span id="unv_47613981"></span> | <a href="item?id=47613981">754&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://browsergate.eu/">LinkedIn is searching your browser extensions</a><span class="sitebit comhead"> (<a href="from?site=browsergate.eu"><span class="sitestr">browsergate.eu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google releases Gemma 4 open models (deepmind.google)]]></title>
         <id>link-453efa542427f54251b10de7243f5665</id>
         <link href="https://news.ycombinator.com/item?id=47616361"/>
         <updated>2026-04-02T20:35:54.793Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616361">1718 points</span> by <a href="user?id=jeffmcjunkin" class="hnuser">jeffmcjunkin</a> <span class="age" title="2026-04-02T16:10:54 1775146254"><a href="item?id=47616361">1 day ago</a></span> <span id="unv_47616361"></span> | <a href="item?id=47616361">452&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/gemma/gemma-4/">Google releases Gemma 4 open models</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot edited an ad into my PR (zachmanson.com)]]></title>
-        <id>link-17f6e6aaee1236ee98d281a78ec65799</id>
-        <link href="https://news.ycombinator.com/item?id=47570269"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47570269">1600 points</span> by <a href="user?id=pavo-etc" class="hnuser">pavo-etc</a> <span class="age" title="2026-03-30T04:04:31 1774843471"><a href="item?id=47570269">4 days ago</a></span> <span id="unv_47570269"></span> | <a href="item?id=47570269">642&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/">Copilot edited an ad into my PR</a><span class="sitebit comhead"> (<a href="from?site=zachmanson.com"><span class="sitestr">zachmanson.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Founder of GitLab battles cancer by founding companies (sytse.com)]]></title>
-        <id>link-374bcf62f54c8d8a429b668726594caa</id>
-        <link href="https://news.ycombinator.com/item?id=47556729"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47556729">1400 points</span> by <a href="user?id=bob_theslob646" class="hnuser">bob_theslob646</a> <span class="age" title="2026-03-28T17:39:49 1774719589"><a href="item?id=47556729">6 days ago</a></span> <span id="unv_47556729"></span> | <a href="item?id=47556729">253&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://sytse.com/cancer/">Founder of GitLab battles cancer by founding companies</a><span class="sitebit comhead"> (<a href="from?site=sytse.com"><span class="sitestr">sytse.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616361">1722 points</span> by <a href="user?id=jeffmcjunkin" class="hnuser">jeffmcjunkin</a> <span class="age" title="2026-04-02T16:10:54 1775146254"><a href="item?id=47616361">1 day ago</a></span> <span id="unv_47616361"></span> | <a href="item?id=47616361">453&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/gemma/gemma-4/">Google releases Gemma 4 open models</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Claude Code Source Leak: fake tools, frustration regexes, undercover mode (alex000kim.com)]]></title>
         <id>link-b934689b736088fc4684c14632c9805b</id>
         <link href="https://news.ycombinator.com/item?id=47586778"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47586778">1363 points</span> by <a href="user?id=alex000kim" class="hnuser">alex000kim</a> <span class="age" title="2026-03-31T13:04:30 1774962270"><a href="item?id=47586778">3 days ago</a></span> <span id="unv_47586778"></span> | <a href="item?id=47586778">570&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/">The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a><span class="sitebit comhead"> (<a href="from?site=alex000kim.com"><span class="sitestr">alex000kim.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47586778">1364 points</span> by <a href="user?id=alex000kim" class="hnuser">alex000kim</a> <span class="age" title="2026-03-31T13:04:30 1774962270"><a href="item?id=47586778">3 days ago</a></span> <span id="unv_47586778"></span> | <a href="item?id=47586778">570&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/">The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a><span class="sitebit comhead"> (<a href="from?site=alex000kim.com"><span class="sitestr">alex000kim.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Decisions that eroded trust in Azure – by a former Azure Core engineer (isolveproblems.substack.com)]]></title>
         <id>link-dfcef945d8ba71c1f40a1797657b371f</id>
         <link href="https://news.ycombinator.com/item?id=47616242"/>
         <updated>2026-04-03T07:10:09.841Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616242">1157 points</span> by <a href="user?id=axelriet" class="hnuser">axelriet</a> <span class="age" title="2026-04-02T16:00:27 1775145627"><a href="item?id=47616242">1 day ago</a></span> <span id="unv_47616242"></span> | <a href="item?id=47616242">571&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class="sitebit comhead"> (<a href="from?site=isolveproblems.substack.com"><span class="sitestr">isolveproblems.substack.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616242">1173 points</span> by <a href="user?id=axelriet" class="hnuser">axelriet</a> <span class="age" title="2026-04-02T16:00:27 1775145627"><a href="item?id=47616242">1 day ago</a></span> <span id="unv_47616242"></span> | <a href="item?id=47616242">581&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class="sitebit comhead"> (<a href="from?site=isolveproblems.substack.com"><span class="sitestr">isolveproblems.substack.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Code Unpacked : A visual guide (ccunpacked.dev)]]></title>
         <id>link-3800db2ef25b4cc39b2e21186a62651d</id>
         <link href="https://news.ycombinator.com/item?id=47597085"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47597085">1105 points</span> by <a href="user?id=autocracy101" class="hnuser">autocracy101</a> <span class="age" title="2026-04-01T05:15:37 1775020537"><a href="item?id=47597085">2 days ago</a></span> <span id="unv_47597085"></span> | <a href="item?id=47597085">403&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ccunpacked.dev/">Claude Code Unpacked : A visual guide</a><span class="sitebit comhead"> (<a href="from?site=ccunpacked.dev"><span class="sitestr">ccunpacked.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47597085">1106 points</span> by <a href="user?id=autocracy101" class="hnuser">autocracy101</a> <span class="age" title="2026-04-01T05:15:37 1775020537"><a href="item?id=47597085">2 days ago</a></span> <span id="unv_47597085"></span> | <a href="item?id=47597085">404&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ccunpacked.dev/">Claude Code Unpacked : A visual guide</a><span class="sitebit comhead"> (<a href="from?site=ccunpacked.dev"><span class="sitestr">ccunpacked.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II Launch Day Updates (nasa.gov)]]></title>
         <id>link-d8b9e9fdb39fd37032fedfa579030b46</id>
         <link href="https://news.ycombinator.com/item?id=47603657"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47603657">1089 points</span> by <a href="user?id=apitman" class="hnuser">apitman</a> <span class="age" title="2026-04-01T17:11:31 1775063491"><a href="item?id=47603657">2 days ago</a></span> <span id="unv_47603657"></span> | <a href="item?id=47603657">943&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/">Artemis II Launch Day Updates</a><span class="sitebit comhead"> (<a href="from?site=nasa.gov"><span class="sitestr">nasa.gov</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT won't let you type until Cloudflare reads your React state (buchodi.com)]]></title>
-        <id>link-3ddc990b9326ff333a962c917403832c</id>
-        <link href="https://news.ycombinator.com/item?id=47566865"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47566865">982 points</span> by <a href="user?id=alberto-m" class="hnuser">alberto-m</a> <span class="age" title="2026-03-29T20:21:05 1774815665"><a href="item?id=47566865">5 days ago</a></span> <span id="unv_47566865"></span> | <a href="item?id=47566865">616&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/">ChatGPT won't let you type until Cloudflare reads your React state</a><span class="sitebit comhead"> (<a href="from?site=buchodi.com"><span class="sitestr">buchodi.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47603657">1090 points</span> by <a href="user?id=apitman" class="hnuser">apitman</a> <span class="age" title="2026-04-01T17:11:31 1775063491"><a href="item?id=47603657">2 days ago</a></span> <span id="unv_47603657"></span> | <a href="item?id=47603657">944&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/">Artemis II Launch Day Updates</a><span class="sitebit comhead"> (<a href="from?site=nasa.gov"><span class="sitestr">nasa.gov</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oracle slashes 30k jobs (rollingout.com)]]></title>
         <id>link-098b8e89c385d7966455b7ccb510335c</id>
         <link href="https://news.ycombinator.com/item?id=47587935"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47587935">911 points</span> by <a href="user?id=pje" class="hnuser">pje</a> <span class="age" title="2026-03-31T14:30:48 1774967448"><a href="item?id=47587935">3 days ago</a></span> <span id="unv_47587935"></span> | <a href="item?id=47587935">845&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/">Oracle slashes 30k jobs</a><span class="sitebit comhead"> (<a href="from?site=rollingout.com"><span class="sitestr">rollingout.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47587935">911 points</span> by <a href="user?id=pje" class="hnuser">pje</a> <span class="age" title="2026-03-31T14:30:48 1774967448"><a href="item?id=47587935">3 days ago</a></span> <span id="unv_47587935"></span> | <a href="item?id=47587935">845&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/">Oracle slashes 30k jobs</a><span class="sitebit comhead"> (<a href="from?site=rollingout.com"><span class="sitestr">rollingout.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II is not safe to fly (idlewords.com)]]></title>
         <id>link-d46e9794f24775399ab9191bc66dfa0a</id>
         <link href="https://news.ycombinator.com/item?id=47582043"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47582043">899 points</span> by <a href="user?id=idlewords" class="hnuser">idlewords</a> <span class="age" title="2026-03-31T02:23:50 1774923830"><a href="item?id=47582043">3 days ago</a></span> <span id="unv_47582043"></span> | <a href="item?id=47582043">630&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm">Artemis II is not safe to fly</a><span class="sitebit comhead"> (<a href="from?site=idlewords.com"><span class="sitestr">idlewords.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47582043">900 points</span> by <a href="user?id=idlewords" class="hnuser">idlewords</a> <span class="age" title="2026-03-31T02:23:50 1774923830"><a href="item?id=47582043">3 days ago</a></span> <span id="unv_47582043"></span> | <a href="item?id=47582043">630&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm">Artemis II is not safe to fly</a><span class="sitebit comhead"> (<a href="from?site=idlewords.com"><span class="sitestr">idlewords.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sweden goes back to basics, swapping screens for books in the classroom (undark.org)]]></title>
         <id>link-b3b3476279be270d4a733ee76dffdf23</id>
         <link href="https://news.ycombinator.com/item?id=47612601"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47612601">891 points</span> by <a href="user?id=novaRom" class="hnuser">novaRom</a> <span class="age" title="2026-04-02T10:50:00 1775127000"><a href="item?id=47612601">1 day ago</a></span> <span id="unv_47612601"></span> | <a href="item?id=47612601">427&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://undark.org/2026/04/01/sweden-schools-books/">Sweden goes back to basics, swapping screens for books in the classroom</a><span class="sitebit comhead"> (<a href="from?site=undark.org"><span class="sitestr">undark.org</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spanish legislation as a Git repo (github.com/enriquelop)]]></title>
-        <id>link-2ffdd0556280762b06e177bbe517577a</id>
-        <link href="https://news.ycombinator.com/item?id=47553798"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47553798">819 points</span> by <a href="user?id=enriquelop" class="hnuser">enriquelop</a> <span class="age" title="2026-03-28T12:01:27 1774699287"><a href="item?id=47553798">6 days ago</a></span> <span id="unv_47553798"></span> | <a href="item?id=47553798">233&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/EnriqueLop/legalize-es">Spanish legislation as a Git repo</a><span class="sitebit comhead"> (<a href="from?site=github.com/enriquelop"><span class="sitestr">github.com/enriquelop</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkedIn uses 2.4 GB RAM across two tabs]]></title>
-        <id>link-2c9e6ab04b48c7238f6080e44532610c</id>
-        <link href="https://news.ycombinator.com/item?id=47561489"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47561489">792 points</span> by <a href="user?id=hrncode" class="hnuser">hrncode</a> <span class="age" title="2026-03-29T08:58:24 1774774704"><a href="item?id=47561489">5 days ago</a></span> <span id="unv_47561489"></span> | <a href="item?id=47561489">454&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47561489">LinkedIn uses 2.4 GB RAM across two tabs</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI overly affirms users asking for personal advice (stanford.edu)]]></title>
-        <id>link-a7a9788a3fc8d33648c7c96c113c5a75</id>
-        <link href="https://news.ycombinator.com/item?id=47554773"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47554773">790 points</span> by <a href="user?id=oldfrenchfries" class="hnuser">oldfrenchfries</a> <span class="age" title="2026-03-28T14:08:33 1774706913"><a href="item?id=47554773">6 days ago</a></span> <span id="unv_47554773"></span> | <a href="item?id=47554773">616&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research">AI overly affirms users asking for personal advice</a><span class="sitebit comhead"> (<a href="from?site=stanford.edu"><span class="sitestr">stanford.edu</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to turn anything into a router (nbailey.ca)]]></title>
-        <id>link-598e8ddd5179550d7d949d8447c2fa7f</id>
-        <link href="https://news.ycombinator.com/item?id=47574034"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47574034">772 points</span> by <a href="user?id=yabones" class="hnuser">yabones</a> <span class="age" title="2026-03-30T13:28:54 1774877334"><a href="item?id=47574034">4 days ago</a></span> <span id="unv_47574034"></span> | <a href="item?id=47574034">260&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://nbailey.ca/post/router/">How to turn anything into a router</a><span class="sitebit comhead"> (<a href="from?site=nbailey.ca"><span class="sitestr">nbailey.ca</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">11.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47612601">893 points</span> by <a href="user?id=novaRom" class="hnuser">novaRom</a> <span class="age" title="2026-04-02T10:50:00 1775127000"><a href="item?id=47612601">1 day ago</a></span> <span id="unv_47612601"></span> | <a href="item?id=47612601">425&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://undark.org/2026/04/01/sweden-schools-books/">Sweden goes back to basics, swapping screens for books in the classroom</a><span class="sitebit comhead"> (<a href="from?site=undark.org"><span class="sitestr">undark.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Steam on Linux Use Skyrocketed Above 5% in March (phoronix.com)]]></title>
         <id>link-c2a8d4de7aa2cc5a74821b28d6849712</id>
         <link href="https://news.ycombinator.com/item?id=47609564"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47609564">762 points</span> by <a href="user?id=hkmaxpro" class="hnuser">hkmaxpro</a> <span class="age" title="2026-04-02T03:12:24 1775099544"><a href="item?id=47609564">1 day ago</a></span> <span id="unv_47609564"></span> | <a href="item?id=47609564">359&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.phoronix.com/news/Steam-On-Linux-Tops-5p">Steam on Linux Use Skyrocketed Above 5% in March</a><span class="sitebit comhead"> (<a href="from?site=phoronix.com"><span class="sitestr">phoronix.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do your own writing (alexhwoods.com)]]></title>
-        <id>link-407c24681a4014d771c09b18298c3dca</id>
-        <link href="https://news.ycombinator.com/item?id=47573519"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47573519">739 points</span> by <a href="user?id=karimf" class="hnuser">karimf</a> <span class="age" title="2026-03-30T12:39:56 1774874396"><a href="item?id=47573519">4 days ago</a></span> <span id="unv_47573519"></span> | <a href="item?id=47573519">241&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alexhwoods.com/dont-let-ai-write-for-you/">Do your own writing</a><span class="sitebit comhead"> (<a href="from?site=alexhwoods.com"><span class="sitestr">alexhwoods.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voyager 1 runs on 69 KB of memory and an 8-track tape recorder (techfixated.com)]]></title>
-        <id>link-ac09659bad2b0342257d19140af39d47</id>
-        <link href="https://news.ycombinator.com/item?id=47564421"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47564421">686 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-29T16:12:22 1774800742"><a href="item?id=47564421">5 days ago</a></span> <span id="unv_47564421"></span> | <a href="item?id=47564421">258&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/">Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a><span class="sitebit comhead"> (<a href="from?site=techfixated.com"><span class="sitestr">techfixated.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedware: Government apps that spy harder than the apps they ban (sambent.com)]]></title>
-        <id>link-9fecc3319cb2386e361dc5fd4ec0959c</id>
-        <link href="https://news.ycombinator.com/item?id=47577761"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47577761">680 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-30T18:16:00 1774894560"><a href="item?id=47577761">4 days ago</a></span> <span id="unv_47577761"></span> | <a href="item?id=47577761">278&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/">Fedware: Government apps that spy harder than the apps they ban</a><span class="sitebit comhead"> (<a href="from?site=sambent.com"><span class="sitestr">sambent.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">12.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47609564">768 points</span> by <a href="user?id=hkmaxpro" class="hnuser">hkmaxpro</a> <span class="age" title="2026-04-02T03:12:24 1775099544"><a href="item?id=47609564">1 day ago</a></span> <span id="unv_47609564"></span> | <a href="item?id=47609564">361&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.phoronix.com/news/Steam-On-Linux-Tops-5p">Steam on Linux Use Skyrocketed Above 5% in March</a><span class="sitebit comhead"> (<a href="from?site=phoronix.com"><span class="sitestr">phoronix.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EmDash – A spiritual successor to WordPress that solves plugin security (cloudflare.com)]]></title>
         <id>link-41a94a2b2ecf5fd4978d73852c40ee56</id>
         <link href="https://news.ycombinator.com/item?id=47602832"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47602832">679 points</span> by <a href="user?id=elithrar" class="hnuser">elithrar</a> <span class="age" title="2026-04-01T16:14:38 1775060078"><a href="item?id=47602832">2 days ago</a></span> <span id="unv_47602832"></span> | <a href="item?id=47602832">494&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.cloudflare.com/emdash-wordpress/">EmDash – A spiritual successor to WordPress that solves plugin security</a><span class="sitebit comhead"> (<a href="from?site=cloudflare.com"><span class="sitestr">cloudflare.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">13.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47602832">680 points</span> by <a href="user?id=elithrar" class="hnuser">elithrar</a> <span class="age" title="2026-04-01T16:14:38 1775060078"><a href="item?id=47602832">2 days ago</a></span> <span id="unv_47602832"></span> | <a href="item?id=47602832">494&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://blog.cloudflare.com/emdash-wordpress/">EmDash – A spiritual successor to WordPress that solves plugin security</a><span class="sitebit comhead"> (<a href="from?site=cloudflare.com"><span class="sitestr">cloudflare.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I decompiled the White House's new app (thereallo.dev)]]></title>
-        <id>link-f01d3db556b15a80870052d80618eb6e</id>
-        <link href="https://news.ycombinator.com/item?id=47555556"/>
+        <title type="html"><![CDATA[Fedware: Government apps that spy harder than the apps they ban (sambent.com)]]></title>
+        <id>link-9fecc3319cb2386e361dc5fd4ec0959c</id>
+        <link href="https://news.ycombinator.com/item?id=47577761"/>
         <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47555556">666 points</span> by <a href="user?id=amarcheschi" class="hnuser">amarcheschi</a> <span class="age" title="2026-03-28T15:37:17 1774712237"><a href="item?id=47555556">6 days ago</a></span> <span id="unv_47555556"></span> | <a href="item?id=47555556">259&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://thereallo.dev/blog/decompiling-the-white-house-app">I decompiled the White House's new app</a><span class="sitebit comhead"> (<a href="from?site=thereallo.dev"><span class="sitestr">thereallo.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">14.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47577761">680 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-03-30T18:16:00 1774894560"><a href="item?id=47577761">4 days ago</a></span> <span id="unv_47577761"></span> | <a href="item?id=47577761">279&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/">Fedware: Government apps that spy harder than the apps they ban</a><span class="sitebit comhead"> (<a href="from?site=sambent.com"><span class="sitestr">sambent.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview (ollama.com)]]></title>
-        <id>link-82cddf844e6d606ddab5bbdf39869d9c</id>
-        <link href="https://news.ycombinator.com/item?id=47582482"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47582482">640 points</span> by <a href="user?id=redundantly" class="hnuser">redundantly</a> <span class="age" title="2026-03-31T03:40:45 1774928445"><a href="item?id=47582482">3 days ago</a></span> <span id="unv_47582482"></span> | <a href="item?id=47582482">355&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ollama.com/blog/mlx">Ollama is now powered by MLX on Apple Silicon in preview</a><span class="sitebit comhead"> (<a href="from?site=ollama.com"><span class="sitestr">ollama.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go hard on agents, not on your filesystem (stanford.edu)]]></title>
-        <id>link-83df0feeaee7d03be8c6b1643100ed91</id>
-        <link href="https://news.ycombinator.com/item?id=47550282"/>
-        <updated>2026-04-02T18:57:42.962Z</updated>
-        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47550282">634 points</span> by <a href="user?id=mazieres" class="hnuser">mazieres</a> <span class="age" title="2026-03-28T00:39:54 1774658394"><a href="item?id=47550282">6 days ago</a></span> <span id="unv_47550282"></span> | <a href="item?id=47550282">330&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jai.scs.stanford.edu/">Go hard on agents, not on your filesystem</a><span class="sitebit comhead"> (<a href="from?site=stanford.edu"><span class="sitestr">stanford.edu</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[Show HN: I built a frontpage for personal blogs (blogosphere.app)]]></title>
+        <id>link-3e07d7a2669b7f2c64e377bfecad245f</id>
+        <link href="https://news.ycombinator.com/item?id=47625952"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">15.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47625952">660 points</span> by <a href="user?id=ramkarthikk" class="hnuser">ramkarthikk</a> <span class="age" title="2026-04-03T12:33:45 1775219625"><a href="item?id=47625952">13 hours ago</a></span> <span id="unv_47625952"></span> | <a href="item?id=47625952">170&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://text.blogosphere.app/">Show HN: I built a frontpage for personal blogs</a><span class="sitebit comhead"> (<a href="from?site=blogosphere.app"><span class="sitestr">blogosphere.app</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Apfel – The free AI already on your Mac (franzai.com)]]></title>
         <id>link-b57a06f41f2f63eabba9e390266039e7</id>
         <link href="https://news.ycombinator.com/item?id=47624645"/>
         <updated>2026-04-03T22:37:16.984Z</updated>
-        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47624645">626 points</span> by <a href="user?id=franze" class="hnuser">franze</a> <span class="age" title="2026-04-03T09:15:34 1775207734"><a href="item?id=47624645">13 hours ago</a></span> <span id="unv_47624645"></span> | <a href="item?id=47624645">137&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apfel.franzai.com">Show HN: Apfel – The free AI already on your Mac</a><span class="sitebit comhead"> (<a href="from?site=franzai.com"><span class="sitestr">franzai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">16.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47624645">647 points</span> by <a href="user?id=franze" class="hnuser">franze</a> <span class="age" title="2026-04-03T09:15:34 1775207734"><a href="item?id=47624645">17 hours ago</a></span> <span id="unv_47624645"></span> | <a href="item?id=47624645">138&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://apfel.franzai.com">Show HN: Apfel – The free AI already on your Mac</a><span class="sitebit comhead"> (<a href="from?site=franzai.com"><span class="sitestr">franzai.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview (ollama.com)]]></title>
+        <id>link-82cddf844e6d606ddab5bbdf39869d9c</id>
+        <link href="https://news.ycombinator.com/item?id=47582482"/>
+        <updated>2026-04-02T18:57:42.962Z</updated>
+        <content type="html"><![CDATA[<span class="rank">17.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47582482">641 points</span> by <a href="user?id=redundantly" class="hnuser">redundantly</a> <span class="age" title="2026-03-31T03:40:45 1774928445"><a href="item?id=47582482">3 days ago</a></span> <span id="unv_47582482"></span> | <a href="item?id=47582482">355&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ollama.com/blog/mlx">Ollama is now powered by MLX on Apple Silicon in preview</a><span class="sitebit comhead"> (<a href="from?site=ollama.com"><span class="sitestr">ollama.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DRAM pricing is killing the hobbyist SBC market (jeffgeerling.com)]]></title>
         <id>link-8148c5b9cbd3c360d1dd8dec24dc4619</id>
         <link href="https://news.ycombinator.com/item?id=47606840"/>
         <updated>2026-04-03T13:04:48.551Z</updated>
-        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47606840">620 points</span> by <a href="user?id=ingve" class="hnuser">ingve</a> <span class="age" title="2026-04-01T21:36:41 1775079401"><a href="item?id=47606840">2 days ago</a></span> <span id="unv_47606840"></span> | <a href="item?id=47606840">536&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/">DRAM pricing is killing the hobbyist SBC market</a><span class="sitebit comhead"> (<a href="from?site=jeffgeerling.com"><span class="sitestr">jeffgeerling.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">18.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47606840">620 points</span> by <a href="user?id=ingve" class="hnuser">ingve</a> <span class="age" title="2026-04-01T21:36:41 1775079401"><a href="item?id=47606840">2 days ago</a></span> <span id="unv_47606840"></span> | <a href="item?id=47606840">535&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/">DRAM pricing is killing the hobbyist SBC market</a><span class="sitebit comhead"> (<a href="from?site=jeffgeerling.com"><span class="sitestr">jeffgeerling.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub backs down, kills Copilot pull-request ads after backlash (theregister.com)]]></title>
         <id>link-27d4a57ec5e499f083e009c1efedbd29</id>
         <link href="https://news.ycombinator.com/item?id=47582984"/>
         <updated>2026-04-03T16:41:10.286Z</updated>
-        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47582984">606 points</span> by <a href="user?id=_____k" class="hnuser">_____k</a> <span class="age" title="2026-03-31T05:11:24 1774933884"><a href="item?id=47582984">3 days ago</a></span> <span id="unv_47582984"></span> | <a href="item?id=47582984">364&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/">GitHub backs down, kills Copilot pull-request ads after backlash</a><span class="sitebit comhead"> (<a href="from?site=theregister.com"><span class="sitestr">theregister.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">19.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47582984">606 points</span> by <a href="user?id=_____k" class="hnuser">_____k</a> <span class="age" title="2026-03-31T05:11:24 1774933884"><a href="item?id=47582984">3 days ago</a></span> <span id="unv_47582984"></span> | <a href="item?id=47582984">364&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/">GitHub backs down, kills Copilot pull-request ads after backlash</a><span class="sitebit comhead"> (<a href="from?site=theregister.com"><span class="sitestr">theregister.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Say No to Palantir in Europe (wemove.eu)]]></title>
-        <id>link-31b52325efedf3ad6fe45d4be1032a15</id>
-        <link href="https://news.ycombinator.com/item?id=47563655"/>
-        <updated>2026-04-03T16:41:10.286Z</updated>
-        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47563655">605 points</span> by <a href="user?id=Betelbuddy" class="hnuser">Betelbuddy</a> <span class="age" title="2026-03-29T14:51:20 1774795880"><a href="item?id=47563655">5 days ago</a></span> <span id="unv_47563655"></span> | <a href="item?id=47563655">173&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://action.wemove.eu/sign/2026-03-palantir-petition-EN">Say No to Palantir in Europe</a><span class="sitebit comhead"> (<a href="from?site=wemove.eu"><span class="sitestr">wemove.eu</span></a>)</span></span>]]></content>
+        <title type="html"><![CDATA[A dot a day keeps the clutter away (scottlawsonbc.com)]]></title>
+        <id>link-2a701f5ab927d888fd0b5f9b85784be1</id>
+        <link href="https://news.ycombinator.com/item?id=47593556"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">20.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47593556">576 points</span> by <a href="user?id=scottlawson" class="hnuser">scottlawson</a> <span class="age" title="2026-03-31T21:15:01 1774991701"><a href="item?id=47593556">3 days ago</a></span> <span id="unv_47593556"></span> | <a href="item?id=47593556">168&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://scottlawsonbc.com/post/dot-system">A dot a day keeps the clutter away</a><span class="sitebit comhead"> (<a href="from?site=scottlawsonbc.com"><span class="sitestr">scottlawsonbc.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3.6-Plus: Towards real world agents (qwen.ai)]]></title>
+        <id>link-9eb9f861ac91247c12d1b2b900fc80c5</id>
+        <link href="https://news.ycombinator.com/item?id=47615002"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">21.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47615002">574 points</span> by <a href="user?id=pretext" class="hnuser">pretext</a> <span class="age" title="2026-04-02T14:28:52 1775140132"><a href="item?id=47615002">1 day ago</a></span> <span id="unv_47615002"></span> | <a href="item?id=47615002">200&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3.6">Qwen3.6-Plus: Towards real world agents</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: Copilot is for entertainment purposes only (microsoft.com)]]></title>
+        <id>link-fe55cca5e3c2e824dd6417ae8934206d</id>
+        <link href="https://news.ycombinator.com/item?id=47587866"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">22.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47587866">574 points</span> by <a href="user?id=lpcvoid" class="hnuser">lpcvoid</a> <span class="age" title="2026-03-31T14:25:37 1774967137"><a href="item?id=47587866">3 days ago</a></span> <span id="unv_47587866"></span> | <a href="item?id=47587866">199&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse">Microsoft: Copilot is for entertainment purposes only</a><span class="sitebit comhead"> (<a href="from?site=microsoft.com"><span class="sitestr">microsoft.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale's new macOS home (tailscale.com)]]></title>
+        <id>link-aec6c3000cca6b3fde7c07d5684ec3a7</id>
+        <link href="https://news.ycombinator.com/item?id=47618189"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">23.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47618189">550 points</span> by <a href="user?id=tosh" class="hnuser">tosh</a> <span class="age" title="2026-04-02T18:22:03 1775154123"><a href="item?id=47618189">1 day ago</a></span> <span id="unv_47618189"></span> | <a href="item?id=47618189">297&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://tailscale.com/blog/macos-notch-escape">Tailscale's new macOS home</a><span class="sitebit comhead"> (<a href="from?site=tailscale.com"><span class="sitestr">tailscale.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lemonade by AMD: a fast and open source local LLM server using GPU and NPU (lemonade-server.ai)]]></title>
+        <id>link-fb3ff9894c8cd72b852af999a352b9e6</id>
+        <link href="https://news.ycombinator.com/item?id=47612724"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">24.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47612724">547 points</span> by <a href="user?id=AbuAssar" class="hnuser">AbuAssar</a> <span class="age" title="2026-04-02T11:04:51 1775127891"><a href="item?id=47612724">1 day ago</a></span> <span id="unv_47612724"></span> | <a href="item?id=47612724">111&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lemonade-server.ai">Lemonade by AMD: a fast and open source local LLM server using GPU and NPU</a><span class="sitebit comhead"> (<a href="from?site=lemonade-server.ai"><span class="sitestr">lemonade-server.ai</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI closes funding round at an $852B valuation (cnbc.com)]]></title>
+        <id>link-372e2b5951d754d7545eeb81bd7d7e55</id>
+        <link href="https://news.ycombinator.com/item?id=47592755"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">25.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47592755">525 points</span> by <a href="user?id=surprisetalk" class="hnuser">surprisetalk</a> <span class="age" title="2026-03-31T20:07:30 1774987650"><a href="item?id=47592755">3 days ago</a></span> <span id="unv_47592755"></span> | <a href="item?id=47592755">493&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html">OpenAI closes funding round at an $852B valuation</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor 3 (cursor.com)]]></title>
+        <id>link-c2c42f5a8e37fb21c7645e78642928d5</id>
+        <link href="https://news.ycombinator.com/item?id=47618084"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">26.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47618084">523 points</span> by <a href="user?id=adamfeldman" class="hnuser">adamfeldman</a> <span class="age" title="2026-04-02T18:13:41 1775153621"><a href="item?id=47618084">1 day ago</a></span> <span id="unv_47618084"></span> | <a href="item?id=47618084">396&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://cursor.com/blog/cursor-3">Cursor 3</a><span class="sitebit comhead"> (<a href="from?site=cursor.com"><span class="sitestr">cursor.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artemis II crew take “spectacular” image of Earth (bbc.com)]]></title>
+        <id>link-3f5aae3d67c0071e6f28f5987735113e</id>
+        <link href="https://news.ycombinator.com/item?id=47631118"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">27.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47631118">515 points</span> by <a href="user?id=andsoitis" class="hnuser">andsoitis</a> <span class="age" title="2026-04-03T19:35:02 1775244902"><a href="item?id=47631118">6 hours ago</a></span> <span id="unv_47631118"></span> | <a href="item?id=47631118">204&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/news/articles/ce8jzr423p9o">Artemis II crew take “spectacular” image of Earth</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub's Historic Uptime (damrnelson.github.io)]]></title>
+        <id>link-5367d8b5308956a43152f4ff864b0fcd</id>
+        <link href="https://news.ycombinator.com/item?id=47591928"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">28.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47591928">494 points</span> by <a href="user?id=todsacerdoti" class="hnuser">todsacerdoti</a> <span class="age" title="2026-03-31T19:01:29 1774983689"><a href="item?id=47591928">3 days ago</a></span> <span id="unv_47591928"></span> | <a href="item?id=47591928">122&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://damrnelson.github.io/github-historical-uptime/">GitHub's Historic Uptime</a><span class="sitebit comhead"> (<a href="from?site=damrnelson.github.io"><span class="sitestr">damrnelson.github.io</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OkCupid gave 3M dating-app photos to facial recognition firm, FTC says (arstechnica.com)]]></title>
+        <id>link-a923d784cfe8dbbdc05ce0603a4e5c94</id>
+        <link href="https://news.ycombinator.com/item?id=47591104"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">29.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47591104">475 points</span> by <a href="user?id=whiteboardr" class="hnuser">whiteboardr</a> <span class="age" title="2026-03-31T17:55:04 1774979704"><a href="item?id=47591104">3 days ago</a></span> <span id="unv_47591104"></span> | <a href="item?id=47591104">93&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/">OkCupid gave 3M dating-app photos to facial recognition firm, FTC says</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artemis computer running two instances of MS outlook; they can't figure out why (bsky.app)]]></title>
+        <id>link-da16d69766d5f0ec675053795e45e4f6</id>
+        <link href="https://news.ycombinator.com/item?id=47615490"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">30.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47615490">474 points</span> by <a href="user?id=mooreds" class="hnuser">mooreds</a> <span class="age" title="2026-04-02T15:08:45 1775142525"><a href="item?id=47615490">1 day ago</a></span> <span id="unv_47615490"></span> | <a href="item?id=47615490">353&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25">Artemis computer running two instances of MS outlook; they can't figure out why</a><span class="sitebit comhead"> (<a href="from?site=bsky.app"><span class="sitestr">bsky.app</span></a>)</span></span>]]></content>
     </entry>
 </feed>

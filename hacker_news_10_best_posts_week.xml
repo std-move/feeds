@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-03T22:40:08.750Z</updated>
+    <updated>2026-04-04T02:16:20.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-43002910ac237dcdc88199c855de2c82</id>
         <link href="https://news.ycombinator.com/item?id=47584540"/>
         <updated>2026-04-01T22:38:10.495Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47584540">2076 points</span> by <a href="user?id=treexs" class="hnuser">treexs</a> <span class="age" title="2026-03-31T09:00:40 1774947640"><a href="item?id=47584540">3 days ago</a></span> <span id="unv_47584540"></span> | <a href="item?id=47584540">1020&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/Fried_rice/status/2038894956459290963">Claude Code's source code has been leaked via a map file in their NPM registry</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/fried_rice"><span class="sitestr">twitter.com/fried_rice</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47584540">2077 points</span> by <a href="user?id=treexs" class="hnuser">treexs</a> <span class="age" title="2026-03-31T09:00:40 1774947640"><a href="item?id=47584540">3 days ago</a></span> <span id="unv_47584540"></span> | <a href="item?id=47584540">1020&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://twitter.com/Fried_rice/status/2038894956459290963">Claude Code's source code has been leaked via a map file in their NPM registry</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/fried_rice"><span class="sitestr">twitter.com/fried_rice</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Axios compromised on NPM – Malicious versions drop remote access trojan (stepsecurity.io)]]></title>
@@ -24,55 +24,55 @@
         <id>link-0420e37fe5fec4b8593f4da9843da6ae</id>
         <link href="https://news.ycombinator.com/item?id=47613981"/>
         <updated>2026-04-02T16:57:09.954Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47613981">1852 points</span> by <a href="user?id=digitalWestie" class="hnuser">digitalWestie</a> <span class="age" title="2026-04-02T13:09:09 1775135349"><a href="item?id=47613981">1 day ago</a></span> <span id="unv_47613981"></span> | <a href="item?id=47613981">751&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://browsergate.eu/">LinkedIn is searching your browser extensions</a><span class="sitebit comhead"> (<a href="from?site=browsergate.eu"><span class="sitestr">browsergate.eu</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47613981">1857 points</span> by <a href="user?id=digitalWestie" class="hnuser">digitalWestie</a> <span class="age" title="2026-04-02T13:09:09 1775135349"><a href="item?id=47613981">1 day ago</a></span> <span id="unv_47613981"></span> | <a href="item?id=47613981">754&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://browsergate.eu/">LinkedIn is searching your browser extensions</a><span class="sitebit comhead"> (<a href="from?site=browsergate.eu"><span class="sitestr">browsergate.eu</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google releases Gemma 4 open models (deepmind.google)]]></title>
         <id>link-453efa542427f54251b10de7243f5665</id>
         <link href="https://news.ycombinator.com/item?id=47616361"/>
         <updated>2026-04-02T22:32:12.786Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616361">1718 points</span> by <a href="user?id=jeffmcjunkin" class="hnuser">jeffmcjunkin</a> <span class="age" title="2026-04-02T16:10:54 1775146254"><a href="item?id=47616361">1 day ago</a></span> <span id="unv_47616361"></span> | <a href="item?id=47616361">452&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/gemma/gemma-4/">Google releases Gemma 4 open models</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot edited an ad into my PR (zachmanson.com)]]></title>
-        <id>link-17f6e6aaee1236ee98d281a78ec65799</id>
-        <link href="https://news.ycombinator.com/item?id=47570269"/>
-        <updated>2026-04-01T22:38:10.495Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47570269">1600 points</span> by <a href="user?id=pavo-etc" class="hnuser">pavo-etc</a> <span class="age" title="2026-03-30T04:04:31 1774843471"><a href="item?id=47570269">4 days ago</a></span> <span id="unv_47570269"></span> | <a href="item?id=47570269">642&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/">Copilot edited an ad into my PR</a><span class="sitebit comhead"> (<a href="from?site=zachmanson.com"><span class="sitestr">zachmanson.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Founder of GitLab battles cancer by founding companies (sytse.com)]]></title>
-        <id>link-374bcf62f54c8d8a429b668726594caa</id>
-        <link href="https://news.ycombinator.com/item?id=47556729"/>
-        <updated>2026-04-01T22:38:10.495Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47556729">1400 points</span> by <a href="user?id=bob_theslob646" class="hnuser">bob_theslob646</a> <span class="age" title="2026-03-28T17:39:49 1774719589"><a href="item?id=47556729">6 days ago</a></span> <span id="unv_47556729"></span> | <a href="item?id=47556729">253&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://sytse.com/cancer/">Founder of GitLab battles cancer by founding companies</a><span class="sitebit comhead"> (<a href="from?site=sytse.com"><span class="sitestr">sytse.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616361">1722 points</span> by <a href="user?id=jeffmcjunkin" class="hnuser">jeffmcjunkin</a> <span class="age" title="2026-04-02T16:10:54 1775146254"><a href="item?id=47616361">1 day ago</a></span> <span id="unv_47616361"></span> | <a href="item?id=47616361">453&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/gemma/gemma-4/">Google releases Gemma 4 open models</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Claude Code Source Leak: fake tools, frustration regexes, undercover mode (alex000kim.com)]]></title>
         <id>link-b934689b736088fc4684c14632c9805b</id>
         <link href="https://news.ycombinator.com/item?id=47586778"/>
         <updated>2026-04-01T22:38:10.495Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47586778">1363 points</span> by <a href="user?id=alex000kim" class="hnuser">alex000kim</a> <span class="age" title="2026-03-31T13:04:30 1774962270"><a href="item?id=47586778">3 days ago</a></span> <span id="unv_47586778"></span> | <a href="item?id=47586778">570&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/">The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a><span class="sitebit comhead"> (<a href="from?site=alex000kim.com"><span class="sitestr">alex000kim.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47586778">1364 points</span> by <a href="user?id=alex000kim" class="hnuser">alex000kim</a> <span class="age" title="2026-03-31T13:04:30 1774962270"><a href="item?id=47586778">3 days ago</a></span> <span id="unv_47586778"></span> | <a href="item?id=47586778">570&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/">The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a><span class="sitebit comhead"> (<a href="from?site=alex000kim.com"><span class="sitestr">alex000kim.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Decisions that eroded trust in Azure – by a former Azure Core engineer (isolveproblems.substack.com)]]></title>
         <id>link-dfcef945d8ba71c1f40a1797657b371f</id>
         <link href="https://news.ycombinator.com/item?id=47616242"/>
         <updated>2026-04-03T16:41:10.286Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616242">1157 points</span> by <a href="user?id=axelriet" class="hnuser">axelriet</a> <span class="age" title="2026-04-02T16:00:27 1775145627"><a href="item?id=47616242">1 day ago</a></span> <span id="unv_47616242"></span> | <a href="item?id=47616242">571&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class="sitebit comhead"> (<a href="from?site=isolveproblems.substack.com"><span class="sitestr">isolveproblems.substack.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616242">1173 points</span> by <a href="user?id=axelriet" class="hnuser">axelriet</a> <span class="age" title="2026-04-02T16:00:27 1775145627"><a href="item?id=47616242">1 day ago</a></span> <span id="unv_47616242"></span> | <a href="item?id=47616242">581&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class="sitebit comhead"> (<a href="from?site=isolveproblems.substack.com"><span class="sitestr">isolveproblems.substack.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Code Unpacked : A visual guide (ccunpacked.dev)]]></title>
         <id>link-3800db2ef25b4cc39b2e21186a62651d</id>
         <link href="https://news.ycombinator.com/item?id=47597085"/>
         <updated>2026-04-01T22:38:10.495Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47597085">1105 points</span> by <a href="user?id=autocracy101" class="hnuser">autocracy101</a> <span class="age" title="2026-04-01T05:15:37 1775020537"><a href="item?id=47597085">2 days ago</a></span> <span id="unv_47597085"></span> | <a href="item?id=47597085">403&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ccunpacked.dev/">Claude Code Unpacked : A visual guide</a><span class="sitebit comhead"> (<a href="from?site=ccunpacked.dev"><span class="sitestr">ccunpacked.dev</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47597085">1106 points</span> by <a href="user?id=autocracy101" class="hnuser">autocracy101</a> <span class="age" title="2026-04-01T05:15:37 1775020537"><a href="item?id=47597085">2 days ago</a></span> <span id="unv_47597085"></span> | <a href="item?id=47597085">404&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ccunpacked.dev/">Claude Code Unpacked : A visual guide</a><span class="sitebit comhead"> (<a href="from?site=ccunpacked.dev"><span class="sitestr">ccunpacked.dev</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II Launch Day Updates (nasa.gov)]]></title>
         <id>link-d8b9e9fdb39fd37032fedfa579030b46</id>
         <link href="https://news.ycombinator.com/item?id=47603657"/>
         <updated>2026-04-02T07:14:06.664Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47603657">1089 points</span> by <a href="user?id=apitman" class="hnuser">apitman</a> <span class="age" title="2026-04-01T17:11:31 1775063491"><a href="item?id=47603657">2 days ago</a></span> <span id="unv_47603657"></span> | <a href="item?id=47603657">943&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/">Artemis II Launch Day Updates</a><span class="sitebit comhead"> (<a href="from?site=nasa.gov"><span class="sitestr">nasa.gov</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47603657">1090 points</span> by <a href="user?id=apitman" class="hnuser">apitman</a> <span class="age" title="2026-04-01T17:11:31 1775063491"><a href="item?id=47603657">2 days ago</a></span> <span id="unv_47603657"></span> | <a href="item?id=47603657">944&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/">Artemis II Launch Day Updates</a><span class="sitebit comhead"> (<a href="from?site=nasa.gov"><span class="sitestr">nasa.gov</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle slashes 30k jobs (rollingout.com)]]></title>
+        <id>link-098b8e89c385d7966455b7ccb510335c</id>
+        <link href="https://news.ycombinator.com/item?id=47587935"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47587935">911 points</span> by <a href="user?id=pje" class="hnuser">pje</a> <span class="age" title="2026-03-31T14:30:48 1774967448"><a href="item?id=47587935">3 days ago</a></span> <span id="unv_47587935"></span> | <a href="item?id=47587935">845&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/">Oracle slashes 30k jobs</a><span class="sitebit comhead"> (<a href="from?site=rollingout.com"><span class="sitestr">rollingout.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artemis II is not safe to fly (idlewords.com)]]></title>
+        <id>link-d46e9794f24775399ab9191bc66dfa0a</id>
+        <link href="https://news.ycombinator.com/item?id=47582043"/>
+        <updated>2026-04-04T02:13:50.770Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47582043">900 points</span> by <a href="user?id=idlewords" class="hnuser">idlewords</a> <span class="age" title="2026-03-31T02:23:50 1774923830"><a href="item?id=47582043">3 days ago</a></span> <span id="unv_47582043"></span> | <a href="item?id=47582043">630&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm">Artemis II is not safe to fly</a><span class="sitebit comhead"> (<a href="from?site=idlewords.com"><span class="sitestr">idlewords.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
