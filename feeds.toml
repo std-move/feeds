@@ -98,7 +98,7 @@ waitForSelector = ".mailpoet_archive li"
 entrySelector = ".mailpoet_archive li"
 titleSelector = "a"
 linkSelector = "a"
-suppressFailureUntilEpochSec = 1775129409
+suppressFailureUntilEpochSec = 1775731239
 
 [jobstack_it_jobs]
 title = "Jobstack.it jobs"
