@@ -133,14 +133,14 @@ entrySelector = "article.changelog-release"
 titleSelector = ["h3", "h4"]
 linkSelector = "a"
 
-[hacker_news_best_posts_week]
-title = "Hacker News - best posts (week)"
-url = "https://news.ycombinator.com/best?h=168"
-waitForSelector = "tr.submission"
-entrySelector = "tr.submission"
-titleSelector = ".titleline"
-linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
-contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
+# [hacker_news_best_posts_week]
+# title = "Hacker News - best posts (week)"
+# url = "https://news.ycombinator.com/best?h=168"
+# waitForSelector = "tr.submission"
+# entrySelector = "tr.submission"
+# titleSelector = ".titleline"
+# linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
+# contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
 
 [hacker_news_10_best_posts_week]
 title = "Hacker News - 10 best posts (week)"
