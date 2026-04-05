@@ -4,74 +4,74 @@
 	"favicon": "https://news.ycombinator.com/y18.svg",
 	"elements": [
 		{
-			"id": "link-43002910ac237dcdc88199c855de2c82",
-			"title": "Claude Code's source code has been leaked via a map file in their NPM registry (twitter.com/fried_rice)",
-			"link": "https://news.ycombinator.com/item?id=47584540",
-			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47584540\">2081 points</span> by <a href=\"user?id=treexs\" class=\"hnuser\">treexs</a> <span class=\"age\" title=\"2026-03-31T09:00:40 1774947640\"><a href=\"item?id=47584540\">4 days ago</a></span> <span id=\"unv_47584540\"></span> | <a href=\"item?id=47584540\">1019&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://twitter.com/Fried_rice/status/2038894956459290963\">Claude Code's source code has been leaked via a map file in their NPM registry</a><span class=\"sitebit comhead\"> (<a href=\"from?site=twitter.com/fried_rice\"><span class=\"sitestr\">twitter.com/fried_rice</span></a>)</span></span>",
-			"retrieved": 1775313266574
-		},
-		{
-			"id": "link-ee531818e51ba18baf547fd822817de5",
-			"title": "Axios compromised on NPM – Malicious versions drop remote access trojan (stepsecurity.io)",
-			"link": "https://news.ycombinator.com/item?id=47582220",
-			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47582220\">1928 points</span> by <a href=\"user?id=mtud\" class=\"hnuser\">mtud</a> <span class=\"age\" title=\"2026-03-31T02:54:17 1774925657\"><a href=\"item?id=47582220\">4 days ago</a></span> <span id=\"unv_47582220\"></span> | <a href=\"item?id=47582220\">804&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan\">Axios compromised on NPM – Malicious versions drop remote access trojan</a><span class=\"sitebit comhead\"> (<a href=\"from?site=stepsecurity.io\"><span class=\"sitestr\">stepsecurity.io</span></a>)</span></span>",
-			"retrieved": 1775313266574
-		},
-		{
 			"id": "link-0420e37fe5fec4b8593f4da9843da6ae",
 			"title": "LinkedIn is searching your browser extensions (browsergate.eu)",
 			"link": "https://news.ycombinator.com/item?id=47613981",
-			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47613981\">1869 points</span> by <a href=\"user?id=digitalWestie\" class=\"hnuser\">digitalWestie</a> <span class=\"age\" title=\"2026-04-02T13:09:09 1775135349\"><a href=\"item?id=47613981\">2 days ago</a></span> <span id=\"unv_47613981\"></span> | <a href=\"item?id=47613981\">758&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://browsergate.eu/\">LinkedIn is searching your browser extensions</a><span class=\"sitebit comhead\"> (<a href=\"from?site=browsergate.eu\"><span class=\"sitestr\">browsergate.eu</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47613981\">1871 points</span> by <a href=\"user?id=digitalWestie\" class=\"hnuser\">digitalWestie</a> <span class=\"age\" title=\"2026-04-02T13:09:09 1775135349\"><a href=\"item?id=47613981\">2 days ago</a></span> <span id=\"unv_47613981\"></span> | <a href=\"item?id=47613981\">758&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://browsergate.eu/\">LinkedIn is searching your browser extensions</a><span class=\"sitebit comhead\"> (<a href=\"from?site=browsergate.eu\"><span class=\"sitestr\">browsergate.eu</span></a>)</span></span>",
 			"retrieved": 1775313266574
 		},
 		{
 			"id": "link-453efa542427f54251b10de7243f5665",
 			"title": "Google releases Gemma 4 open models (deepmind.google)",
 			"link": "https://news.ycombinator.com/item?id=47616361",
-			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47616361\">1760 points</span> by <a href=\"user?id=jeffmcjunkin\" class=\"hnuser\">jeffmcjunkin</a> <span class=\"age\" title=\"2026-04-02T16:10:54 1775146254\"><a href=\"item?id=47616361\">2 days ago</a></span> <span id=\"unv_47616361\"></span> | <a href=\"item?id=47616361\">462&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://deepmind.google/models/gemma/gemma-4/\">Google releases Gemma 4 open models</a><span class=\"sitebit comhead\"> (<a href=\"from?site=deepmind.google\"><span class=\"sitestr\">deepmind.google</span></a>)</span></span>",
-			"retrieved": 1775313266574
-		},
-		{
-			"id": "link-b934689b736088fc4684c14632c9805b",
-			"title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode (alex000kim.com)",
-			"link": "https://news.ycombinator.com/item?id=47586778",
-			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47586778\">1366 points</span> by <a href=\"user?id=alex000kim\" class=\"hnuser\">alex000kim</a> <span class=\"age\" title=\"2026-03-31T13:04:30 1774962270\"><a href=\"item?id=47586778\">4 days ago</a></span> <span id=\"unv_47586778\"></span> | <a href=\"item?id=47586778\">571&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/\">The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a><span class=\"sitebit comhead\"> (<a href=\"from?site=alex000kim.com\"><span class=\"sitestr\">alex000kim.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47616361\">1765 points</span> by <a href=\"user?id=jeffmcjunkin\" class=\"hnuser\">jeffmcjunkin</a> <span class=\"age\" title=\"2026-04-02T16:10:54 1775146254\"><a href=\"item?id=47616361\">2 days ago</a></span> <span id=\"unv_47616361\"></span> | <a href=\"item?id=47616361\">462&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://deepmind.google/models/gemma/gemma-4/\">Google releases Gemma 4 open models</a><span class=\"sitebit comhead\"> (<a href=\"from?site=deepmind.google\"><span class=\"sitestr\">deepmind.google</span></a>)</span></span>",
 			"retrieved": 1775313266574
 		},
 		{
 			"id": "link-dfcef945d8ba71c1f40a1797657b371f",
 			"title": "Decisions that eroded trust in Azure – by a former Azure Core engineer (isolveproblems.substack.com)",
 			"link": "https://news.ycombinator.com/item?id=47616242",
-			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47616242\">1240 points</span> by <a href=\"user?id=axelriet\" class=\"hnuser\">axelriet</a> <span class=\"age\" title=\"2026-04-02T16:00:27 1775145627\"><a href=\"item?id=47616242\">2 days ago</a></span> <span id=\"unv_47616242\"></span> | <a href=\"item?id=47616242\">627&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion\">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class=\"sitebit comhead\"> (<a href=\"from?site=isolveproblems.substack.com\"><span class=\"sitestr\">isolveproblems.substack.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47616242\">1242 points</span> by <a href=\"user?id=axelriet\" class=\"hnuser\">axelriet</a> <span class=\"age\" title=\"2026-04-02T16:00:27 1775145627\"><a href=\"item?id=47616242\">2 days ago</a></span> <span id=\"unv_47616242\"></span> | <a href=\"item?id=47616242\">628&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion\">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class=\"sitebit comhead\"> (<a href=\"from?site=isolveproblems.substack.com\"><span class=\"sitestr\">isolveproblems.substack.com</span></a>)</span></span>",
 			"retrieved": 1775313266574
 		},
 		{
 			"id": "link-3800db2ef25b4cc39b2e21186a62651d",
 			"title": "Claude Code Unpacked : A visual guide (ccunpacked.dev)",
 			"link": "https://news.ycombinator.com/item?id=47597085",
-			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47597085\">1108 points</span> by <a href=\"user?id=autocracy101\" class=\"hnuser\">autocracy101</a> <span class=\"age\" title=\"2026-04-01T05:15:37 1775020537\"><a href=\"item?id=47597085\">3 days ago</a></span> <span id=\"unv_47597085\"></span> | <a href=\"item?id=47597085\">403&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://ccunpacked.dev/\">Claude Code Unpacked : A visual guide</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ccunpacked.dev\"><span class=\"sitestr\">ccunpacked.dev</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47597085\">1108 points</span> by <a href=\"user?id=autocracy101\" class=\"hnuser\">autocracy101</a> <span class=\"age\" title=\"2026-04-01T05:15:37 1775020537\"><a href=\"item?id=47597085\">4 days ago</a></span> <span id=\"unv_47597085\"></span> | <a href=\"item?id=47597085\">403&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://ccunpacked.dev/\">Claude Code Unpacked : A visual guide</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ccunpacked.dev\"><span class=\"sitestr\">ccunpacked.dev</span></a>)</span></span>",
 			"retrieved": 1775313266574
 		},
 		{
 			"id": "link-d8b9e9fdb39fd37032fedfa579030b46",
 			"title": "Artemis II Launch Day Updates (nasa.gov)",
 			"link": "https://news.ycombinator.com/item?id=47603657",
-			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47603657\">1093 points</span> by <a href=\"user?id=apitman\" class=\"hnuser\">apitman</a> <span class=\"age\" title=\"2026-04-01T17:11:31 1775063491\"><a href=\"item?id=47603657\">3 days ago</a></span> <span id=\"unv_47603657\"></span> | <a href=\"item?id=47603657\">951&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/\">Artemis II Launch Day Updates</a><span class=\"sitebit comhead\"> (<a href=\"from?site=nasa.gov\"><span class=\"sitestr\">nasa.gov</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47603657\">1093 points</span> by <a href=\"user?id=apitman\" class=\"hnuser\">apitman</a> <span class=\"age\" title=\"2026-04-01T17:11:31 1775063491\"><a href=\"item?id=47603657\">3 days ago</a></span> <span id=\"unv_47603657\"></span> | <a href=\"item?id=47603657\">951&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/\">Artemis II Launch Day Updates</a><span class=\"sitebit comhead\"> (<a href=\"from?site=nasa.gov\"><span class=\"sitestr\">nasa.gov</span></a>)</span></span>",
 			"retrieved": 1775313266574
 		},
 		{
 			"id": "link-6d26b37e8e88167f045517e955d2dba7",
 			"title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
 			"link": "https://news.ycombinator.com/item?id=47633396",
-			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47633396\">1037 points</span> by <a href=\"user?id=firloop\" class=\"hnuser\">firloop</a> <span class=\"age\" title=\"2026-04-03T22:55:24 1775256924\"><a href=\"item?id=47633396\">1 day ago</a></span> <span id=\"unv_47633396\"></span> | <a href=\"item?id=47633396\">787&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"item?id=47633396\">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></span>",
+			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47633396\">1045 points</span> by <a href=\"user?id=firloop\" class=\"hnuser\">firloop</a> <span class=\"age\" title=\"2026-04-03T22:55:24 1775256924\"><a href=\"item?id=47633396\">1 day ago</a></span> <span id=\"unv_47633396\"></span> | <a href=\"item?id=47633396\">788&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"item?id=47633396\">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></span>",
 			"retrieved": 1775328155533
 		},
 		{
 			"id": "link-3f5aae3d67c0071e6f28f5987735113e",
 			"title": "Artemis II crew take “spectacular” image of Earth (bbc.com)",
 			"link": "https://news.ycombinator.com/item?id=47631118",
-			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47631118\">1024 points</span> by <a href=\"user?id=andsoitis\" class=\"hnuser\">andsoitis</a> <span class=\"age\" title=\"2026-04-03T19:35:02 1775244902\"><a href=\"item?id=47631118\">1 day ago</a></span> <span id=\"unv_47631118\"></span> | <a href=\"item?id=47631118\">353&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.bbc.com/news/articles/ce8jzr423p9o\">Artemis II crew take “spectacular” image of Earth</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bbc.com\"><span class=\"sitestr\">bbc.com</span></a>)</span></span>",
+			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47631118\">1031 points</span> by <a href=\"user?id=andsoitis\" class=\"hnuser\">andsoitis</a> <span class=\"age\" title=\"2026-04-03T19:35:02 1775244902\"><a href=\"item?id=47631118\">1 day ago</a></span> <span id=\"unv_47631118\"></span> | <a href=\"item?id=47631118\">354&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.bbc.com/news/articles/ce8jzr423p9o\">Artemis II crew take “spectacular” image of Earth</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bbc.com\"><span class=\"sitestr\">bbc.com</span></a>)</span></span>",
 			"retrieved": 1775320618874
+		},
+		{
+			"id": "link-098b8e89c385d7966455b7ccb510335c",
+			"title": "Oracle slashes 30k jobs (rollingout.com)",
+			"link": "https://news.ycombinator.com/item?id=47587935",
+			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47587935\">913 points</span> by <a href=\"user?id=pje\" class=\"hnuser\">pje</a> <span class=\"age\" title=\"2026-03-31T14:30:48 1774967448\"><a href=\"item?id=47587935\">4 days ago</a></span> <span id=\"unv_47587935\"></span> | <a href=\"item?id=47587935\">845&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/\">Oracle slashes 30k jobs</a><span class=\"sitebit comhead\"> (<a href=\"from?site=rollingout.com\"><span class=\"sitestr\">rollingout.com</span></a>)</span></span>",
+			"retrieved": 1775367907294
+		},
+		{
+			"id": "link-b3b3476279be270d4a733ee76dffdf23",
+			"title": "Sweden goes back to basics, swapping screens for books in the classroom (undark.org)",
+			"link": "https://news.ycombinator.com/item?id=47612601",
+			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47612601\">897 points</span> by <a href=\"user?id=novaRom\" class=\"hnuser\">novaRom</a> <span class=\"age\" title=\"2026-04-02T10:50:00 1775127000\"><a href=\"item?id=47612601\">2 days ago</a></span> <span id=\"unv_47612601\"></span> | <a href=\"item?id=47612601\">432&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://undark.org/2026/04/01/sweden-schools-books/\">Sweden goes back to basics, swapping screens for books in the classroom</a><span class=\"sitebit comhead\"> (<a href=\"from?site=undark.org\"><span class=\"sitestr\">undark.org</span></a>)</span></span>",
+			"retrieved": 1775367907294
+		},
+		{
+			"id": "link-c2a8d4de7aa2cc5a74821b28d6849712",
+			"title": "Steam on Linux Use Skyrocketed Above 5% in March (phoronix.com)",
+			"link": "https://news.ycombinator.com/item?id=47609564",
+			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47609564\">779 points</span> by <a href=\"user?id=hkmaxpro\" class=\"hnuser\">hkmaxpro</a> <span class=\"age\" title=\"2026-04-02T03:12:24 1775099544\"><a href=\"item?id=47609564\">3 days ago</a></span> <span id=\"unv_47609564\"></span> | <a href=\"item?id=47609564\">364&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.phoronix.com/news/Steam-On-Linux-Tops-5p\">Steam on Linux Use Skyrocketed Above 5% in March</a><span class=\"sitebit comhead\"> (<a href=\"from?site=phoronix.com\"><span class=\"sitestr\">phoronix.com</span></a>)</span></span>",
+			"retrieved": 1775367907294
 		}
 	]
 }
