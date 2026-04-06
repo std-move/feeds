@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-06T19:03:46.491Z</updated>
+    <updated>2026-04-06T20:41:12.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[GMK NucBox K16 review: Old CPU wrapped in a new look]]></title>
+        <id>link-46e6df4244f299b5a93007a9256d65a6</id>
+        <link href="https://www.notebookcheck.net/GMK-NucBox-K16-mini-PC-review-Older-AMD-Zen-3-CPU-is-good-enough-for-most.1262555.0.html"/>
+        <updated>2026-04-06T20:38:16.555Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/0/csm_nucboxk16feature_1_96e616472c.jpg" loading="lazy" alt="GMK NucBox K16 mini PC review: Older AMD Zen 3 CPU is good enough for most"></picture><div class="intro_featured_bar_title">GMK NucBox K16 review: Old CPU wrapped in a new look</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top smartphone with integrated fan in review]]></title>
         <id>link-122990bf2b960599d1a14e0b8bd03283</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Samsung-Galaxy-Book6-Pro-Laptop-Review-Better-than-the-new-XPS-16.1257679.0.html"/>
         <updated>2026-03-31T16:58:23.076Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/5/csm_galaxy_book6_pro_16_case_05_00cd8bd2c5.jpg" loading="lazy" alt="Samsung Galaxy Book6 Pro Laptop Review - Better than the new XPS 16"></picture><div class="intro_featured_bar_title">Samsung Galaxy Book6 Pro Review - Better than Dell's XPS 16</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ Fake frames are awesome! - Nvidia DLSS 4.5]]></title>
-        <id>link-e7166f1a54a4a66eebba97f306bf69ab</id>
-        <link href="https://www.notebookcheck.net/Fake-frames-are-awesome-Nvidia-DLSS-4-5.1262977.0.html"/>
-        <updated>2026-03-31T13:19:49.433Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/e/csm_thumb3354_864170f74f.jpg" loading="lazy" alt="Fake frames are awesome! - Nvidia DLSS 4.5"></picture><div class="intro_featured_bar_title">▶ Fake frames are awesome! - Nvidia DLSS 4.5</div>]]></content>
     </entry>
 </feed>
