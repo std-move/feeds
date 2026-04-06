@@ -1,5 +1,77 @@
 {
 	"title": "Hacker News - 10 best posts (week)",
 	"url": "https://news.ycombinator.com/best?h=168",
-	"elements": []
+	"favicon": "https://news.ycombinator.com/y18.svg",
+	"elements": [
+		{
+			"id": "link-0420e37fe5fec4b8593f4da9843da6ae",
+			"title": "LinkedIn is searching your browser extensions (browsergate.eu)",
+			"link": "https://news.ycombinator.com/item?id=47613981",
+			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47613981\">1883 points</span> by <a href=\"user?id=digitalWestie\" class=\"hnuser\">digitalWestie</a> <span class=\"age\" title=\"2026-04-02T13:09:09 1775135349\"><a href=\"item?id=47613981\">3 days ago</a></span> <span id=\"unv_47613981\"></span> | <a href=\"item?id=47613981\">759&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://browsergate.eu/\">LinkedIn is searching your browser extensions</a><span class=\"sitebit comhead\"> (<a href=\"from?site=browsergate.eu\"><span class=\"sitestr\">browsergate.eu</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-453efa542427f54251b10de7243f5665",
+			"title": "Google releases Gemma 4 open models (deepmind.google)",
+			"link": "https://news.ycombinator.com/item?id=47616361",
+			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47616361\">1797 points</span> by <a href=\"user?id=jeffmcjunkin\" class=\"hnuser\">jeffmcjunkin</a> <span class=\"age\" title=\"2026-04-02T16:10:54 1775146254\"><a href=\"item?id=47616361\">3 days ago</a></span> <span id=\"unv_47616361\"></span> | <a href=\"item?id=47616361\">469&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://deepmind.google/models/gemma/gemma-4/\">Google releases Gemma 4 open models</a><span class=\"sitebit comhead\"> (<a href=\"from?site=deepmind.google\"><span class=\"sitestr\">deepmind.google</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-dfcef945d8ba71c1f40a1797657b371f",
+			"title": "Decisions that eroded trust in Azure – by a former Azure Core engineer (isolveproblems.substack.com)",
+			"link": "https://news.ycombinator.com/item?id=47616242",
+			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47616242\">1269 points</span> by <a href=\"user?id=axelriet\" class=\"hnuser\">axelriet</a> <span class=\"age\" title=\"2026-04-02T16:00:27 1775145627\"><a href=\"item?id=47616242\">3 days ago</a></span> <span id=\"unv_47616242\"></span> | <a href=\"item?id=47616242\">642&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion\">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class=\"sitebit comhead\"> (<a href=\"from?site=isolveproblems.substack.com\"><span class=\"sitestr\">isolveproblems.substack.com</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-3800db2ef25b4cc39b2e21186a62651d",
+			"title": "Claude Code Unpacked : A visual guide (ccunpacked.dev)",
+			"link": "https://news.ycombinator.com/item?id=47597085",
+			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47597085\">1116 points</span> by <a href=\"user?id=autocracy101\" class=\"hnuser\">autocracy101</a> <span class=\"age\" title=\"2026-04-01T05:15:37 1775020537\"><a href=\"item?id=47597085\">5 days ago</a></span> <span id=\"unv_47597085\"></span> | <a href=\"item?id=47597085\">402&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://ccunpacked.dev/\">Claude Code Unpacked : A visual guide</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ccunpacked.dev\"><span class=\"sitestr\">ccunpacked.dev</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-d8b9e9fdb39fd37032fedfa579030b46",
+			"title": "Artemis II Launch Day Updates (nasa.gov)",
+			"link": "https://news.ycombinator.com/item?id=47603657",
+			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47603657\">1095 points</span> by <a href=\"user?id=apitman\" class=\"hnuser\">apitman</a> <span class=\"age\" title=\"2026-04-01T17:11:31 1775063491\"><a href=\"item?id=47603657\">4 days ago</a></span> <span id=\"unv_47603657\"></span> | <a href=\"item?id=47603657\">951&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/\">Artemis II Launch Day Updates</a><span class=\"sitebit comhead\"> (<a href=\"from?site=nasa.gov\"><span class=\"sitestr\">nasa.gov</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-6d26b37e8e88167f045517e955d2dba7",
+			"title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+			"link": "https://news.ycombinator.com/item?id=47633396",
+			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47633396\">1077 points</span> by <a href=\"user?id=firloop\" class=\"hnuser\">firloop</a> <span class=\"age\" title=\"2026-04-03T22:55:24 1775256924\"><a href=\"item?id=47633396\">2 days ago</a></span> <span id=\"unv_47633396\"></span> | <a href=\"item?id=47633396\">817&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"item?id=47633396\">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-3f5aae3d67c0071e6f28f5987735113e",
+			"title": "Artemis II crew take “spectacular” image of Earth (bbc.com)",
+			"link": "https://news.ycombinator.com/item?id=47631118",
+			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47631118\">1060 points</span> by <a href=\"user?id=andsoitis\" class=\"hnuser\">andsoitis</a> <span class=\"age\" title=\"2026-04-03T19:35:02 1775244902\"><a href=\"item?id=47631118\">2 days ago</a></span> <span id=\"unv_47631118\"></span> | <a href=\"item?id=47631118\">378&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.bbc.com/news/articles/ce8jzr423p9o\">Artemis II crew take “spectacular” image of Earth</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bbc.com\"><span class=\"sitestr\">bbc.com</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-c4ef61c46f455c03bda3147f69697a5d",
+			"title": "Show HN: A game where you build a GPU (jaso1024.com)",
+			"link": "https://news.ycombinator.com/item?id=47640728",
+			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47640728\">913 points</span> by <a href=\"user?id=Jaso1024\" class=\"hnuser\">Jaso1024</a> <span class=\"age\" title=\"2026-04-04T16:45:54 1775321154\"><a href=\"item?id=47640728\">1 day ago</a></span> <span id=\"unv_47640728\"></span> | <a href=\"item?id=47640728\">178&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://jaso1024.com/mvidia/\">Show HN: A game where you build a GPU</a><span class=\"sitebit comhead\"> (<a href=\"from?site=jaso1024.com\"><span class=\"sitestr\">jaso1024.com</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-b3b3476279be270d4a733ee76dffdf23",
+			"title": "Sweden goes back to basics, swapping screens for books in the classroom (undark.org)",
+			"link": "https://news.ycombinator.com/item?id=47612601",
+			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47612601\">900 points</span> by <a href=\"user?id=novaRom\" class=\"hnuser\">novaRom</a> <span class=\"age\" title=\"2026-04-02T10:50:00 1775127000\"><a href=\"item?id=47612601\">3 days ago</a></span> <span id=\"unv_47612601\"></span> | <a href=\"item?id=47612601\">432&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://undark.org/2026/04/01/sweden-schools-books/\">Sweden goes back to basics, swapping screens for books in the classroom</a><span class=\"sitebit comhead\"> (<a href=\"from?site=undark.org\"><span class=\"sitestr\">undark.org</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		},
+		{
+			"id": "link-355161e06769f52667817a09a9d4d777",
+			"title": "The threat is comfortable drift toward not understanding what you're doing (ergosphere.blog)",
+			"link": "https://news.ycombinator.com/item?id=47647788",
+			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47647788\">868 points</span> by <a href=\"user?id=zaikunzhang\" class=\"hnuser\">zaikunzhang</a> <span class=\"age\" title=\"2026-04-05T09:57:25 1775383045\"><a href=\"item?id=47647788\">23 hours ago</a></span> <span id=\"unv_47647788\"></span> | <a href=\"item?id=47647788\">576&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://ergosphere.blog/posts/the-machines-are-fine/\">The threat is comfortable drift toward not understanding what you're doing</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ergosphere.blog\"><span class=\"sitestr\">ergosphere.blog</span></a>)</span></span>",
+			"retrieved": 1775467028216
+		}
+	]
 }
