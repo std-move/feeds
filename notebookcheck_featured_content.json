@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-122990bf2b960599d1a14e0b8bd03283",
+			"title": "Top smartphone with integrated fan in review",
+			"link": "https://www.notebookcheck.net/A-unique-feature-no-smartphone-needs-Vivo-iQOO-15-Ultra-review.1266624.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/9/csm_Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45_6c66d95e2d.jpg\" loading=\"lazy\" alt=\"Vivo iQOO 15 Ultra smartphone review\"></picture><div class=\"intro_featured_bar_title\">Top smartphone with integrated fan in review</div>",
+			"retrieved": 1775486876074
+		},
+		{
 			"id": "link-12b0a89ec5f9c8272c421eddfb1d3d90",
 			"title": "Motorola Edge 70 Fusion: Very versatile",
 			"link": "https://www.notebookcheck.net/Motorola-Edge-70-Fusion-Review-A-configurable-mid-range-smartphone-with-broad-appeal.1264811.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Fake-frames-are-awesome-Nvidia-DLSS-4-5.1262977.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb3354-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/e/csm_thumb3354_864170f74f.jpg\" loading=\"lazy\" alt=\"Fake frames are awesome! - Nvidia DLSS 4.5\"></picture><div class=\"intro_featured_bar_title\">▶ Fake frames are awesome! - Nvidia DLSS 4.5</div>",
 			"retrieved": 1774963189433
-		},
-		{
-			"id": "link-53048fdb776d3dd4e882590e9f17adec",
-			"title": "Compact & affordable: Yale Linus Smart Lock L2 Lite review",
-			"link": "https://www.notebookcheck.net/Compact-affordable-smart-lock-with-Matter-Yale-Linus-L2-Lite-review.1262575.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Yale-Linus-Smart-Lock-L2-Lite-Test-Teaser64-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Yale-Linus-Smart-Lock-L2-Lite-Test-Teaser64-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Yale-Linus-Smart-Lock-L2-Lite-Test-Teaser64-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Yale-Linus-Smart-Lock-L2-Lite-Test-Teaser64-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Yale-Linus-Smart-Lock-L2-Lite-Test-Teaser64-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Yale-Linus-Smart-Lock-L2-Lite-Test-Teaser64-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/e/csm_Yale-Linus-Smart-Lock-L2-Lite-Test-Teaser64_0366b4911f.jpg\" loading=\"lazy\" alt=\"Yale Linus Smart Lock L2 Lite review\"></picture><div class=\"intro_featured_bar_title\">Compact &amp; affordable: Yale Linus Smart Lock L2 Lite review</div>",
-			"retrieved": 1774935859769
 		}
 	]
 }
