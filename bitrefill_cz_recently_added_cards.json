@@ -88,13 +88,6 @@
 			"retrieved": 1773440920490
 		},
 		{
-			"id": "link-0d81b74861fe54aa696fe78f55653a65",
-			"title": "Aircash A-Bon Europe",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/",
-			"contents": "Aircash A-Bon Europe — €10",
-			"retrieved": 1774868557221
-		},
-		{
 			"id": "link-f1c789c661d5261cd61b57b956c3464d",
 			"title": "ExitLag International",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/exitlag-international/",
@@ -282,6 +275,13 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/",
 			"contents": "TripGift — 1000 CZK - 40000 CZK",
 			"retrieved": 1775588665209
+		},
+		{
+			"id": "link-db90be2bdf54763e93557f830b8cee7e",
+			"title": "FlystayGift",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/",
+			"contents": "FlystayGift — 500 CZK - 40000 CZK",
+			"retrieved": 1775601517887
 		}
 	]
 }

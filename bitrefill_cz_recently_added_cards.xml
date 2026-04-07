@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-07T20:52:01.498Z</updated>
+    <updated>2026-04-07T22:41:23.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -88,13 +88,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/yalla-ludo-diamond-international/"/>
         <updated>2026-03-13T22:28:40.490Z</updated>
         <content type="html"><![CDATA[Yalla Ludo Diamond International — $2 - $500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aircash A-Bon Europe]]></title>
-        <id>link-0d81b74861fe54aa696fe78f55653a65</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/"/>
-        <updated>2026-03-30T11:02:37.221Z</updated>
-        <content type="html"><![CDATA[Aircash A-Bon Europe — €10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ExitLag International]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
         <updated>2026-04-07T19:04:25.209Z</updated>
         <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlystayGift]]></title>
+        <id>link-db90be2bdf54763e93557f830b8cee7e</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/flystaygift-cz/"/>
+        <updated>2026-04-07T22:38:37.887Z</updated>
+        <content type="html"><![CDATA[FlystayGift — 500 CZK - 40000 CZK]]></content>
     </entry>
 </feed>

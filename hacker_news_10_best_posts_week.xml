@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-07T20:52:01.506Z</updated>
+    <updated>2026-04-07T22:41:23.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-9d52d8046f40144667f6b6e154266f48</id>
         <link href="https://news.ycombinator.com/item?id=47659135"/>
         <updated>2026-04-07T02:28:33.988Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47659135">1932 points</span> by <a href="user?id=adrianhon" class="hnuser">adrianhon</a> <span class="age" title="2026-04-06T10:36:57 1775471817"><a href="item?id=47659135">1 day ago</a></span> <span id="unv_47659135"></span> | <a href="item?id=47659135">794&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Sam Altman may control our future – can he be trusted?</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47659135">1956 points</span> by <a href="user?id=adrianhon" class="hnuser">adrianhon</a> <span class="age" title="2026-04-06T10:36:57 1775471817"><a href="item?id=47659135">1 day ago</a></span> <span id="unv_47659135"></span> | <a href="item?id=47659135">815&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Sam Altman may control our future – can he be trusted?</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LinkedIn is searching your browser extensions (browsergate.eu)]]></title>
@@ -24,42 +24,42 @@
         <id>link-453efa542427f54251b10de7243f5665</id>
         <link href="https://news.ycombinator.com/item?id=47616361"/>
         <updated>2026-04-06T13:12:35.681Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616361">1808 points</span> by <a href="user?id=jeffmcjunkin" class="hnuser">jeffmcjunkin</a> <span class="age" title="2026-04-02T16:10:54 1775146254"><a href="item?id=47616361">5 days ago</a></span> <span id="unv_47616361"></span> | <a href="item?id=47616361">473&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/gemma/gemma-4/">Google releases Gemma 4 open models</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616361">1808 points</span> by <a href="user?id=jeffmcjunkin" class="hnuser">jeffmcjunkin</a> <span class="age" title="2026-04-02T16:10:54 1775146254"><a href="item?id=47616361">5 days ago</a></span> <span id="unv_47616361"></span> | <a href="item?id=47616361">472&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://deepmind.google/models/gemma/gemma-4/">Google releases Gemma 4 open models</a><span class="sitebit comhead"> (<a href="from?site=deepmind.google"><span class="sitestr">deepmind.google</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Issue: Claude Code is unusable for complex engineering tasks with Feb updates (github.com/anthropics)]]></title>
         <id>link-629c9a510676dde4ed9b51279b75ad87</id>
         <link href="https://news.ycombinator.com/item?id=47660925"/>
         <updated>2026-04-07T07:18:41.917Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47660925">1282 points</span> by <a href="user?id=StanAngeloff" class="hnuser">StanAngeloff</a> <span class="age" title="2026-04-06T13:50:35 1775483435"><a href="item?id=47660925">1 day ago</a></span> <span id="unv_47660925"></span> | <a href="item?id=47660925">708&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/anthropics/claude-code/issues/42796">Issue: Claude Code is unusable for complex engineering tasks with Feb updates</a><span class="sitebit comhead"> (<a href="from?site=github.com/anthropics"><span class="sitestr">github.com/anthropics</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47660925">1286 points</span> by <a href="user?id=StanAngeloff" class="hnuser">StanAngeloff</a> <span class="age" title="2026-04-06T13:50:35 1775483435"><a href="item?id=47660925">1 day ago</a></span> <span id="unv_47660925"></span> | <a href="item?id=47660925">712&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/anthropics/claude-code/issues/42796">Issue: Claude Code is unusable for complex engineering tasks with Feb updates</a><span class="sitebit comhead"> (<a href="from?site=github.com/anthropics"><span class="sitestr">github.com/anthropics</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Decisions that eroded trust in Azure – by a former Azure Core engineer (isolveproblems.substack.com)]]></title>
         <id>link-dfcef945d8ba71c1f40a1797657b371f</id>
         <link href="https://news.ycombinator.com/item?id=47616242"/>
         <updated>2026-04-06T13:12:35.681Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616242">1282 points</span> by <a href="user?id=axelriet" class="hnuser">axelriet</a> <span class="age" title="2026-04-02T16:00:27 1775145627"><a href="item?id=47616242">5 days ago</a></span> <span id="unv_47616242"></span> | <a href="item?id=47616242">646&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class="sitebit comhead"> (<a href="from?site=isolveproblems.substack.com"><span class="sitestr">isolveproblems.substack.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47616242">1283 points</span> by <a href="user?id=axelriet" class="hnuser">axelriet</a> <span class="age" title="2026-04-02T16:00:27 1775145627"><a href="item?id=47616242">5 days ago</a></span> <span id="unv_47616242"></span> | <a href="item?id=47616242">646&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion">Decisions that eroded trust in Azure – by a former Azure Core engineer</a><span class="sitebit comhead"> (<a href="from?site=isolveproblems.substack.com"><span class="sitestr">isolveproblems.substack.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw]]></title>
         <id>link-6d26b37e8e88167f045517e955d2dba7</id>
         <link href="https://news.ycombinator.com/item?id=47633396"/>
         <updated>2026-04-06T13:12:35.681Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47633396">1095 points</span> by <a href="user?id=firloop" class="hnuser">firloop</a> <span class="age" title="2026-04-03T22:55:24 1775256924"><a href="item?id=47633396">3 days ago</a></span> <span id="unv_47633396"></span> | <a href="item?id=47633396">829&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47633396">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47633396">1095 points</span> by <a href="user?id=firloop" class="hnuser">firloop</a> <span class="age" title="2026-04-03T22:55:24 1775256924"><a href="item?id=47633396">3 days ago</a></span> <span id="unv_47633396"></span> | <a href="item?id=47633396">828&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47633396">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II crew take “spectacular” image of Earth (bbc.com)]]></title>
         <id>link-3f5aae3d67c0071e6f28f5987735113e</id>
         <link href="https://news.ycombinator.com/item?id=47631118"/>
         <updated>2026-04-06T13:12:35.681Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47631118">1072 points</span> by <a href="user?id=andsoitis" class="hnuser">andsoitis</a> <span class="age" title="2026-04-03T19:35:02 1775244902"><a href="item?id=47631118">4 days ago</a></span> <span id="unv_47631118"></span> | <a href="item?id=47631118">384&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/news/articles/ce8jzr423p9o">Artemis II crew take “spectacular” image of Earth</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47631118">1072 points</span> by <a href="user?id=andsoitis" class="hnuser">andsoitis</a> <span class="age" title="2026-04-03T19:35:02 1775244902"><a href="item?id=47631118">4 days ago</a></span> <span id="unv_47631118"></span> | <a href="item?id=47631118">385&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bbc.com/news/articles/ce8jzr423p9o">Artemis II crew take “spectacular” image of Earth</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The threat is comfortable drift toward not understanding what you're doing (ergosphere.blog)]]></title>
         <id>link-355161e06769f52667817a09a9d4d777</id>
         <link href="https://news.ycombinator.com/item?id=47647788"/>
         <updated>2026-04-06T13:12:35.681Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47647788">969 points</span> by <a href="user?id=zaikunzhang" class="hnuser">zaikunzhang</a> <span class="age" title="2026-04-05T09:57:25 1775383045"><a href="item?id=47647788">2 days ago</a></span> <span id="unv_47647788"></span> | <a href="item?id=47647788">617&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ergosphere.blog/posts/the-machines-are-fine/">The threat is comfortable drift toward not understanding what you're doing</a><span class="sitebit comhead"> (<a href="from?site=ergosphere.blog"><span class="sitestr">ergosphere.blog</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47647788">970 points</span> by <a href="user?id=zaikunzhang" class="hnuser">zaikunzhang</a> <span class="age" title="2026-04-05T09:57:25 1775383045"><a href="item?id=47647788">2 days ago</a></span> <span id="unv_47647788"></span> | <a href="item?id=47647788">617&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ergosphere.blog/posts/the-machines-are-fine/">The threat is comfortable drift toward not understanding what you're doing</a><span class="sitebit comhead"> (<a href="from?site=ergosphere.blog"><span class="sitestr">ergosphere.blog</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: A game where you build a GPU (jaso1024.com)]]></title>
@@ -73,6 +73,6 @@
         <id>link-f716d3bee30703237404efa26a44fab1</id>
         <link href="https://news.ycombinator.com/item?id=47648828"/>
         <updated>2026-04-06T19:01:06.901Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47648828">942 points</span> by <a href="user?id=brilee" class="hnuser">brilee</a> <span class="age" title="2026-04-05T12:43:47 1775393027"><a href="item?id=47648828">2 days ago</a></span> <span id="unv_47648828"></span> | <a href="item?id=47648828">300&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lalitm.com/post/building-syntaqlite-ai/">Eight years of wanting, three months of building with AI</a><span class="sitebit comhead"> (<a href="from?site=lalitm.com"><span class="sitestr">lalitm.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47648828">942 points</span> by <a href="user?id=brilee" class="hnuser">brilee</a> <span class="age" title="2026-04-05T12:43:47 1775393027"><a href="item?id=47648828">2 days ago</a></span> <span id="unv_47648828"></span> | <a href="item?id=47648828">299&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://lalitm.com/post/building-syntaqlite-ai/">Eight years of wanting, three months of building with AI</a><span class="sitebit comhead"> (<a href="from?site=lalitm.com"><span class="sitestr">lalitm.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
