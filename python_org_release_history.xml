@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.python.org/downloads/</id>
     <title>Python.org release history</title>
-    <updated>2026-04-07T17:02:46.375Z</updated>
+    <updated>2026-04-07T19:07:05.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.python.org/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Python 3.14.4 — April 7, 2026]]></title>
+        <id>link-de408c4a98e50d3eee83254351d39f7a</id>
+        <link href="https://docs.python.org/release/3.14.4/whatsnew/changelog.html"/>
+        <updated>2026-04-07T19:04:25.209Z</updated>
+        <content type="html"><![CDATA[<a href="/downloads/release/python-3144/">Python 3.14.4</a> — April 7, 2026 — <a href="/downloads/release/python-3144/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.14.4/whatsnew/changelog.html">Release notes</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.14.3 — Feb. 3, 2026]]></title>
         <id>link-3ce70a2eab18d349e27e85921ef65ebd</id>
@@ -242,12 +249,5 @@
         <link href="https://docs.python.org/release/3.11.13/whatsnew/changelog.html#python-3-11-13"/>
         <updated>2026-02-07T20:33:16.888Z</updated>
         <content type="html"><![CDATA[<a href="/downloads/release/python-31113/">Python 3.11.13</a> — June 3, 2025 — <a href="/downloads/release/python-31113/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.11.13/whatsnew/changelog.html#python-3-11-13">Release notes</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.11.12 — April 8, 2025]]></title>
-        <id>link-c49fbfc648dabc4fe0a3ed6eb48ec9e5</id>
-        <link href="https://docs.python.org/release/3.11.12/whatsnew/changelog.html#python-3-11-12"/>
-        <updated>2026-02-07T20:33:16.888Z</updated>
-        <content type="html"><![CDATA[<a href="/downloads/release/python-31112/">Python 3.11.12</a> — April 8, 2025 — <a href="/downloads/release/python-31112/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.11.12/whatsnew/changelog.html#python-3-11-12">Release notes</a>]]></content>
     </entry>
 </feed>
