@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-3985b6539c37dab944d8ebadc535dd85",
+			"title": "Veteran artist weighs in on DLSS 5",
+			"link": "https://www.notebookcheck.net/Veteran-artist-behind-Mass-Effect-Halo-and-Overwatch-2-weighs-in-on-Nvidia-DLSS-5.1267916.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/7/csm_Mark_Linington_DLSS_5_Interview_8c7ca10da6.jpg\" loading=\"lazy\" alt=\"For Overwatch 2, Mark Linington was given the opportunity to lead the environment efforts for Overwatch’s story missions.\"></picture><div class=\"intro_featured_bar_title\">Veteran artist weighs in on DLSS 5</div>",
+			"retrieved": 1775594966847
+		},
+		{
 			"id": "link-f5c942f86df7350ca75f00cd58be9754",
 			"title": "▶ Snapdragon's second try is ... awesome?! - Asus ZenBook A14 review",
 			"link": "https://www.notebookcheck.net/Snapdragon-s-second-try-is-awesome-Asus-ZenBook-A14-review.1268027.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/A-unique-feature-no-smartphone-needs-Vivo-iQOO-15-Ultra-review.1266624.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/iQOO_15_Ultra/Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/9/csm_Test_Gaming_Smartphone_Viov_IQQQO_15_Ultra_45_6c66d95e2d.jpg\" loading=\"lazy\" alt=\"Vivo iQOO 15 Ultra smartphone review\"></picture><div class=\"intro_featured_bar_title\">Top smartphone with integrated fan in review</div>",
 			"retrieved": 1775486876074
-		},
-		{
-			"id": "link-12b0a89ec5f9c8272c421eddfb1d3d90",
-			"title": "Motorola Edge 70 Fusion: Very versatile",
-			"link": "https://www.notebookcheck.net/Motorola-Edge-70-Fusion-Review-A-configurable-mid-range-smartphone-with-broad-appeal.1264811.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Fusion/IMG_20260402_091804-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Fusion/IMG_20260402_091804-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Fusion/IMG_20260402_091804-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Fusion/IMG_20260402_091804-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Fusion/IMG_20260402_091804-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Fusion/IMG_20260402_091804-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/9/csm_IMG_20260402_091804_2a707cfe2c.jpg\" loading=\"lazy\" alt=\"Motorola Edge 70 Fusion in review\"></picture><div class=\"intro_featured_bar_title\">Motorola Edge 70 Fusion: Very versatile</div>",
-			"retrieved": 1775462282510
 		}
 	]
 }

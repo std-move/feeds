@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-07T19:07:05.411Z</updated>
+    <updated>2026-04-07T20:52:01.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://en.wikipedia.org/wiki/2003_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_coup_d%27%C3%A9tat"/>
         <updated>2026-04-07T02:28:33.988Z</updated>
         <content type="html"><![CDATA[... that one of the leaders of the <b><a href="/wiki/2003_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_coup_d%27%C3%A9tat" title="2003 São Tomé and Príncipe coup d'état">2003 São Tomé and Príncipe coup d'état</a></b> also participated in <a href="/wiki/1988_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_coup_attempt" title="1988 São Tomé and Príncipe coup attempt">a failed coup attempt in 1988</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Appelhans]]></title>
-        <id>link-d29857105976f2afcd60192946f040f6</id>
-        <link href="https://en.wikipedia.org/wiki/Chris_Appelhans"/>
-        <updated>2026-04-07T02:28:33.988Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Chris_Appelhans" title="Chris Appelhans">Chris Appelhans</a></b> spent "six to eight years in the wilderness learning how to write" before directing his first film?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chess World Cup 1988–1989]]></title>
