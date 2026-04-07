@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-07T15:11:33.055Z</updated>
+    <updated>2026-04-07T17:02:46.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/ludo-star-usd-international/"/>
         <updated>2026-03-13T22:28:40.490Z</updated>
         <content type="html"><![CDATA[Ludo Star International — $10 - $500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Instant AI International]]></title>
+        <id>link-d81c436189332d9d9afc2c24cb66a9e0</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/my-instant-ai-international/"/>
+        <updated>2026-04-07T16:59:33.385Z</updated>
+        <content type="html"><![CDATA[My Instant AI International — $5 - $50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OneKey USD]]></title>
@@ -94,7 +101,7 @@
         <id>link-0d81b74861fe54aa696fe78f55653a65</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/aircash-europe-a-bon-eu/"/>
         <updated>2026-03-30T11:02:37.221Z</updated>
-        <content type="html"><![CDATA[Aircash A-Bon Europe — €5 - €25]]></content>
+        <content type="html"><![CDATA[Aircash A-Bon Europe — €5 - €10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ExitLag International]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/handm-czech-republic/"/>
         <updated>2026-04-07T15:08:33.537Z</updated>
         <content type="html"><![CDATA[H&amp;M — 100 CZK - 12500 CZK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TripGift]]></title>
-        <id>link-a928540e7ad2f73f0ddbe8640da3eeee</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/tripgift-cz/"/>
-        <updated>2026-04-07T15:08:33.537Z</updated>
-        <content type="html"><![CDATA[TripGift — 1000 CZK - 40000 CZK]]></content>
     </entry>
 </feed>
