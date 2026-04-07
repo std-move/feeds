@@ -2,37 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-04-07T07:21:29.961Z</updated>
+    <updated>2026-04-07T09:05:45.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
     <entry>
-        <title type="html"><![CDATA[AI Automation Engineer / Agent Developer | FULL REMOTE — až 250 000 Kč / měsíc]]></title>
-        <id>link-27928d559c0b5a2dde4e2fa3f8aec8a8</id>
-        <link href="https://www.jobstack.it/it-job/specialista-ai/69ca463439bdc"/>
-        <updated>2026-04-01T16:56:04.577Z</updated>
+        <title type="html"><![CDATA[Fullstack Developer — až 70 000 Kč / měsíc]]></title>
+        <id>link-5de6427a79a58e56c4aaef59c0ec1b77</id>
+        <link href="https://www.jobstack.it/it-job/full-stack-developer/69ca7f5c688af"/>
+        <updated>2026-03-30T15:04:12.686Z</updated>
         <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Specialista ML/AI</span>
-				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">ML/AI developer</span>
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Full stack developer</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Javascript developer</span>
 				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																					<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-remote icon--cp-size-0-3"></span>Remote</span>
-							</div>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
+											</div>
 			
 							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
-									</div>
+											<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Junior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																			</div>
 						<div class="jobposts-item_labels">
 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Three systems</span>
+						<span>relatoo s.r.o.</span>
 					</span>
 													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
+						<span>Hlaváčova 207, Pardubice 530 02</span>
 					</span>
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
-						<span><b>až 250 000 Kč / měsíc</b></span>
+						<span><b>až 70 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -69,34 +70,33 @@
 							</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fullstack Developer — až 70 000 Kč / měsíc]]></title>
-        <id>link-5de6427a79a58e56c4aaef59c0ec1b77</id>
-        <link href="https://www.jobstack.it/it-job/full-stack-developer/69ca7f5c688af"/>
-        <updated>2026-03-30T15:04:12.686Z</updated>
+        <title type="html"><![CDATA[AI Automation Engineer / Agent Developer | FULL REMOTE — až 250 000 Kč / měsíc]]></title>
+        <id>link-27928d559c0b5a2dde4e2fa3f8aec8a8</id>
+        <link href="https://www.jobstack.it/it-job/specialista-ai/69ca463439bdc"/>
+        <updated>2026-04-01T16:56:04.577Z</updated>
         <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Full stack developer</span>
-				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Javascript developer</span>
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Specialista ML/AI</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">ML/AI developer</span>
 				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
-											</div>
+																					<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-remote icon--cp-size-0-3"></span>Remote</span>
+							</div>
 			
 							<div class="jobposts-item_labels">
-											<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Junior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																			</div>
+																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
+									</div>
 						<div class="jobposts-item_labels">
 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>relatoo s.r.o.</span>
+						<span>Three systems</span>
 					</span>
 													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Hlaváčova 207, Pardubice 530 02</span>
+						<span>Praha</span>
 					</span>
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
-						<span><b>až 70 000 Kč / měsíc</b></span>
+						<span><b>až 250 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
