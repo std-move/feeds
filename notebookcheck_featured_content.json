@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-878049f6b865d1cf7dba47e9698c6ded",
+			"title": "Gaming without compromise? Gigabyte Gaming A18 Pro tested",
+			"link": "https://www.notebookcheck.net/Gaming-without-compromise-Gigabyte-Gaming-A18-Pro-with-large-display-reviewed.1267784.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/b/csm_aussen-gaminga18-6_7cd4e4955b.jpg\" loading=\"lazy\" alt=\"Gaming without compromise? Gigabyte Gaming A18 Pro with large display reviewed\"></picture><div class=\"intro_featured_bar_title\">Gaming without compromise? Gigabyte Gaming A18 Pro tested</div>",
+			"retrieved": 1775568022502
+		},
+		{
 			"id": "link-46e6df4244f299b5a93007a9256d65a6",
 			"title": "GMK NucBox K16 review: Old CPU wrapped in a new look",
 			"link": "https://www.notebookcheck.net/GMK-NucBox-K16-mini-PC-review-Older-AMD-Zen-3-CPU-is-good-enough-for-most.1262555.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/AMD-Ryzen-AI-meets-classic-ThinkPad-Lenovo-ThinkPad-T14-Gen-6-AMD-laptop-review.1222690.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_6_AMD/Lenovo_ThinkPad_T14_G6a_teaser-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_6_AMD/Lenovo_ThinkPad_T14_G6a_teaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_6_AMD/Lenovo_ThinkPad_T14_G6a_teaser-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_6_AMD/Lenovo_ThinkPad_T14_G6a_teaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_6_AMD/Lenovo_ThinkPad_T14_G6a_teaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_6_AMD/Lenovo_ThinkPad_T14_G6a_teaser-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/7/csm_Lenovo_ThinkPad_T14_G6a_teaser_5548d8ff63.jpg\" loading=\"lazy\" alt=\"AMD Ryzen AI meets classic ThinkPad: Lenovo ThinkPad T14 Gen 6 AMD laptop review\"></picture><div class=\"intro_featured_bar_title\">AMD Ryzen AI meets classic ThinkPad</div>",
 			"retrieved": 1775076234100
-		},
-		{
-			"id": "link-7a231e07af991f787d5a311baeecae58",
-			"title": "Samsung Galaxy Book6 Pro Review - Better than Dell's XPS 16",
-			"link": "https://www.notebookcheck.net/Samsung-Galaxy-Book6-Pro-Laptop-Review-Better-than-the-new-XPS-16.1257679.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Book6_Pro/galaxy_book6_pro_16_case_05-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/5/csm_galaxy_book6_pro_16_case_05_00cd8bd2c5.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy Book6 Pro Laptop Review - Better than the new XPS 16\"></picture><div class=\"intro_featured_bar_title\">Samsung Galaxy Book6 Pro Review - Better than Dell's XPS 16</div>",
-			"retrieved": 1774976303076
 		}
 	]
 }
