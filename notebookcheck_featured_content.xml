@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-07T22:41:23.905Z</updated>
+    <updated>2026-04-08T02:32:36.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[TerraMaster D1 SSD review: Rugged NVMe enclosure with IP67 protection]]></title>
+        <id>link-3ea2225614dad48666f2590c0d29b03b</id>
+        <link href="https://www.notebookcheck.net/TerraMaster-D1-SSD-Review-Rugged-NVMe-enclosure-with-IP67-protection-and-stable-performance.1268435.0.html"/>
+        <updated>2026-04-08T02:29:42.106Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/TerraMaster/D1_SSD/D1_12-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/TerraMaster/D1_SSD/D1_12-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/TerraMaster/D1_SSD/D1_12-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/TerraMaster/D1_SSD/D1_12-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/TerraMaster/D1_SSD/D1_12-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/TerraMaster/D1_SSD/D1_12-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/6/csm_D1_12_cd70b1e2a7.jpg" loading="lazy" alt="TerraMaster D1 SSD Review: Rugged NVMe enclosure with IP67 protection and stable performance"></picture><div class="intro_featured_bar_title">TerraMaster D1 SSD review: Rugged NVMe enclosure with IP67 protection</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asus Zenbook A16 review - Snapdragon X2 Elite Extreme]]></title>
         <id>link-b7cb8e10abbe52c4f8185fca38d793dd</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Gaming-without-compromise-Gigabyte-Gaming-A18-Pro-with-large-display-reviewed.1267784.0.html"/>
         <updated>2026-04-07T13:20:22.502Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A18_Pro/aussen-gaminga18-6-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/b/csm_aussen-gaminga18-6_7cd4e4955b.jpg" loading="lazy" alt="Gaming without compromise? Gigabyte Gaming A18 Pro with large display reviewed"></picture><div class="intro_featured_bar_title">Gaming without compromise? Gigabyte Gaming A18 Pro tested</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GMK NucBox K16 review: Old CPU wrapped in a new look]]></title>
-        <id>link-46e6df4244f299b5a93007a9256d65a6</id>
-        <link href="https://www.notebookcheck.net/GMK-NucBox-K16-mini-PC-review-Older-AMD-Zen-3-CPU-is-good-enough-for-most.1262555.0.html"/>
-        <updated>2026-04-06T20:38:16.555Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K16/nucboxk16feature_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/0/csm_nucboxk16feature_1_96e616472c.jpg" loading="lazy" alt="GMK NucBox K16 mini PC review: Older AMD Zen 3 CPU is good enough for most"></picture><div class="intro_featured_bar_title">GMK NucBox K16 review: Old CPU wrapped in a new look</div>]]></content>
     </entry>
 </feed>
