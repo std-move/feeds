@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-dff769ec20baa2d1f1d6eaff14d19752",
+			"title": "v4.0.120.3",
+			"contents": "<strong>v4.0.120.3</strong> (08 April 2026)<br>\n            + Minor bug fixes",
+			"retrieved": 1775661069410
+		},
+		{
 			"id": "title-c2c514b66a49fd5b5f7b8268bfffbf73",
 			"title": "v4.0.120.2",
 			"contents": "<strong>v4.0.120.2</strong> (03 April 2026)<br>\n            + Minor bug fixes : Repair (loop)",
@@ -115,12 +121,6 @@
 			"id": "title-43b8e959bf8a54a265aa1894341c03b1",
 			"title": "v4.0.105",
 			"contents": "<strong>v4.0.105</strong> (03 May 2025)<br>\n                + Improved support : TRIM (SSD)<br>",
-			"retrieved": 1774794882186
-		},
-		{
-			"id": "title-92719c3b0816cde2a709082c8ca108cc",
-			"title": "v4.0.104",
-			"contents": "<strong>v4.0.104</strong> (28 March 2025)<br>\n                  + Improved speed<br>\n                  + Minor bug fixes<br>   \n                  + Improved UI : high DPI<br>            \n                  + New option<br>",
 			"retrieved": 1774794882186
 		}
 	]

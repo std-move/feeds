@@ -25,13 +25,6 @@
 			"retrieved": 1773440920490
 		},
 		{
-			"id": "link-d81c436189332d9d9afc2c24cb66a9e0",
-			"title": "My Instant AI International",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/my-instant-ai-international/",
-			"contents": "My Instant AI International — $5 - $50",
-			"retrieved": 1775654488204
-		},
-		{
 			"id": "link-ace6c246fa7ccbbac456bf5ab79ccb9b",
 			"title": "OneKey USD",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/onekey-usd/",
@@ -70,7 +63,7 @@
 			"id": "link-08481828f1839aefa90a3db1f025cbd7",
 			"title": "PayPerQ.ai",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/ppq-ai-international/",
-			"contents": "PayPerQ.ai — $50 - $100",
+			"contents": "PayPerQ.ai — $1 - $100",
 			"retrieved": 1774910194861
 		},
 		{
@@ -282,6 +275,13 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/guess-eur/",
 			"contents": "Guess EUR — €25 - €100",
 			"retrieved": 1772707193121
+		},
+		{
+			"id": "link-bfc217eb1ab4d618c8f153fee7e20b46",
+			"title": "Global Hotel Card by Expedia",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/global-hotel-card-cz/",
+			"contents": "Global Hotel Card by Expedia — 500 CZK - 22000 CZK",
+			"retrieved": 1775661069410
 		}
 	]
 }

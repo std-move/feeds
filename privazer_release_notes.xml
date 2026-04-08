@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-04-08T13:24:29.955Z</updated>
+    <updated>2026-04-08T15:15:28.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.120.3]]></title>
+        <id>title-dff769ec20baa2d1f1d6eaff14d19752</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-04-08T15:11:09.410Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.120.3</strong> (08 April 2026)<br>
+            + Minor bug fixes]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.120.2]]></title>
         <id>title-c2c514b66a49fd5b5f7b8268bfffbf73</id>
@@ -224,16 +232,5 @@
         <updated>2026-03-29T14:34:42.186Z</updated>
         <content type="html"><![CDATA[<strong>v4.0.105</strong> (03 May 2025)<br>
                 + Improved support : TRIM (SSD)<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.104]]></title>
-        <id>title-92719c3b0816cde2a709082c8ca108cc</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-03-29T14:34:42.186Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.104</strong> (28 March 2025)<br>
-                  + Improved speed<br>
-                  + Minor bug fixes<br>   
-                  + Improved UI : high DPI<br>            
-                  + New option<br>]]></content>
     </entry>
 </feed>
