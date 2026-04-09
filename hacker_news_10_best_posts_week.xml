@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-09T02:27:57.921Z</updated>
+    <updated>2026-04-09T05:51:31.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,42 +10,42 @@
         <id>link-9d52d8046f40144667f6b6e154266f48</id>
         <link href="https://news.ycombinator.com/item?id=47659135"/>
         <updated>2026-04-08T20:43:21.241Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47659135">2081 points</span> by <a href="user?id=adrianhon" class="hnuser">adrianhon</a> <span class="age" title="2026-04-06T10:36:57 1775471817"><a href="item?id=47659135">2 days ago</a></span> <span id="unv_47659135"></span> | <a href="item?id=47659135">882&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Sam Altman may control our future – can he be trusted?</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47659135">2086 points</span> by <a href="user?id=adrianhon" class="hnuser">adrianhon</a> <span class="age" title="2026-04-06T10:36:57 1775471817"><a href="item?id=47659135">2 days ago</a></span> <span id="unv_47659135"></span> | <a href="item?id=47659135">881&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Sam Altman may control our future – can he be trusted?</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Git commands I run before reading any code (piechowski.io)]]></title>
         <id>link-251756f9b3eb2aab53d157b12b837475</id>
         <link href="https://news.ycombinator.com/item?id=47687273"/>
         <updated>2026-04-08T20:43:21.241Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47687273">1827 points</span> by <a href="user?id=grepsedawk" class="hnuser">grepsedawk</a> <span class="age" title="2026-04-08T08:53:42 1775638422"><a href="item?id=47687273">17 hours ago</a></span> <span id="unv_47687273"></span> | <a href="item?id=47687273">391&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://piechowski.io/post/git-commands-before-reading-code/">Git commands I run before reading any code</a><span class="sitebit comhead"> (<a href="from?site=piechowski.io"><span class="sitestr">piechowski.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47687273">1916 points</span> by <a href="user?id=grepsedawk" class="hnuser">grepsedawk</a> <span class="age" title="2026-04-08T08:53:42 1775638422"><a href="item?id=47687273">20 hours ago</a></span> <span id="unv_47687273"></span> | <a href="item?id=47687273">404&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://piechowski.io/post/git-commands-before-reading-code/">Git commands I run before reading any code</a><span class="sitebit comhead"> (<a href="from?site=piechowski.io"><span class="sitestr">piechowski.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Project Glasswing: Securing critical software for the AI era (anthropic.com)]]></title>
         <id>link-20fc61fff9f5c2f93172a5782439c127</id>
         <link href="https://news.ycombinator.com/item?id=47679121"/>
         <updated>2026-04-08T20:43:21.241Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47679121">1479 points</span> by <a href="user?id=Ryan5453" class="hnuser">Ryan5453</a> <span class="age" title="2026-04-07T18:09:34 1775585374"><a href="item?id=47679121">1 day ago</a></span> <span id="unv_47679121"></span> | <a href="item?id=47679121">795&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/glasswing">Project Glasswing: Securing critical software for the AI era</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue: Claude Code is unusable for complex engineering tasks with Feb updates (github.com/anthropics)]]></title>
-        <id>link-629c9a510676dde4ed9b51279b75ad87</id>
-        <link href="https://news.ycombinator.com/item?id=47660925"/>
-        <updated>2026-04-08T20:43:21.241Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47660925">1321 points</span> by <a href="user?id=StanAngeloff" class="hnuser">StanAngeloff</a> <span class="age" title="2026-04-06T13:50:35 1775483435"><a href="item?id=47660925">2 days ago</a></span> <span id="unv_47660925"></span> | <a href="item?id=47660925">737&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/anthropics/claude-code/issues/42796">Issue: Claude Code is unusable for complex engineering tasks with Feb updates</a><span class="sitebit comhead"> (<a href="from?site=github.com/anthropics"><span class="sitestr">github.com/anthropics</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47679121">1486 points</span> by <a href="user?id=Ryan5453" class="hnuser">Ryan5453</a> <span class="age" title="2026-04-07T18:09:34 1775585374"><a href="item?id=47679121">1 day ago</a></span> <span id="unv_47679121"></span> | <a href="item?id=47679121">798&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/glasswing">Project Glasswing: Securing critical software for the AI era</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I ported Mac OS X to the Nintendo Wii (bryankeller.github.io)]]></title>
         <id>link-60b6f671cde2dac73d49ba39e0801f94</id>
         <link href="https://news.ycombinator.com/item?id=47691730"/>
         <updated>2026-04-08T22:39:32.676Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47691730">1277 points</span> by <a href="user?id=blkhp19" class="hnuser">blkhp19</a> <span class="age" title="2026-04-08T15:40:00 1775662800"><a href="item?id=47691730">10 hours ago</a></span> <span id="unv_47691730"></span> | <a href="item?id=47691730">216&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html">I ported Mac OS X to the Nintendo Wii</a><span class="sitebit comhead"> (<a href="from?site=bryankeller.github.io"><span class="sitestr">bryankeller.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47691730">1414 points</span> by <a href="user?id=blkhp19" class="hnuser">blkhp19</a> <span class="age" title="2026-04-08T15:40:00 1775662800"><a href="item?id=47691730">14 hours ago</a></span> <span id="unv_47691730"></span> | <a href="item?id=47691730">241&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html">I ported Mac OS X to the Nintendo Wii</a><span class="sitebit comhead"> (<a href="from?site=bryankeller.github.io"><span class="sitestr">bryankeller.github.io</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue: Claude Code is unusable for complex engineering tasks with Feb updates (github.com/anthropics)]]></title>
+        <id>link-629c9a510676dde4ed9b51279b75ad87</id>
+        <link href="https://news.ycombinator.com/item?id=47660925"/>
+        <updated>2026-04-08T20:43:21.241Z</updated>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47660925">1324 points</span> by <a href="user?id=StanAngeloff" class="hnuser">StanAngeloff</a> <span class="age" title="2026-04-06T13:50:35 1775483435"><a href="item?id=47660925">2 days ago</a></span> <span id="unv_47660925"></span> | <a href="item?id=47660925">740&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://github.com/anthropics/claude-code/issues/42796">Issue: Claude Code is unusable for complex engineering tasks with Feb updates</a><span class="sitebit comhead"> (<a href="from?site=github.com/anthropics"><span class="sitestr">github.com/anthropics</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veracrypt project update (sourceforge.net)]]></title>
         <id>link-aa1a34f4611cbff2d8ebbad42a14fb4f</id>
         <link href="https://news.ycombinator.com/item?id=47686549"/>
         <updated>2026-04-08T20:43:21.241Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47686549">1147 points</span> by <a href="user?id=super256" class="hnuser">super256</a> <span class="age" title="2026-04-08T07:23:39 1775633019"><a href="item?id=47686549">19 hours ago</a></span> <span id="unv_47686549"></span> | <a href="item?id=47686549">425&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/">Veracrypt project update</a><span class="sitebit comhead"> (<a href="from?site=sourceforge.net"><span class="sitestr">sourceforge.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47686549">1177 points</span> by <a href="user?id=super256" class="hnuser">super256</a> <span class="age" title="2026-04-08T07:23:39 1775633019"><a href="item?id=47686549">22 hours ago</a></span> <span id="unv_47686549"></span> | <a href="item?id=47686549">436&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/">Veracrypt project update</a><span class="sitebit comhead"> (<a href="from?site=sourceforge.net"><span class="sitestr">sourceforge.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw]]></title>
@@ -66,13 +66,13 @@
         <id>link-355161e06769f52667817a09a9d4d777</id>
         <link href="https://news.ycombinator.com/item?id=47647788"/>
         <updated>2026-04-08T20:43:21.241Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47647788">975 points</span> by <a href="user?id=zaikunzhang" class="hnuser">zaikunzhang</a> <span class="age" title="2026-04-05T09:57:25 1775383045"><a href="item?id=47647788">3 days ago</a></span> <span id="unv_47647788"></span> | <a href="item?id=47647788">620&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ergosphere.blog/posts/the-machines-are-fine/">The threat is comfortable drift toward not understanding what you're doing</a><span class="sitebit comhead"> (<a href="from?site=ergosphere.blog"><span class="sitestr">ergosphere.blog</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47647788">976 points</span> by <a href="user?id=zaikunzhang" class="hnuser">zaikunzhang</a> <span class="age" title="2026-04-05T09:57:25 1775383045"><a href="item?id=47647788">3 days ago</a></span> <span id="unv_47647788"></span> | <a href="item?id=47647788">620&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://ergosphere.blog/posts/the-machines-are-fine/">The threat is comfortable drift toward not understanding what you're doing</a><span class="sitebit comhead"> (<a href="from?site=ergosphere.blog"><span class="sitestr">ergosphere.blog</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: A game where you build a GPU (jaso1024.com)]]></title>
         <id>link-c4ef61c46f455c03bda3147f69697a5d</id>
         <link href="https://news.ycombinator.com/item?id=47640728"/>
         <updated>2026-04-08T20:43:21.241Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47640728">955 points</span> by <a href="user?id=Jaso1024" class="hnuser">Jaso1024</a> <span class="age" title="2026-04-04T16:45:54 1775321154"><a href="item?id=47640728">4 days ago</a></span> <span id="unv_47640728"></span> | <a href="item?id=47640728">186&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jaso1024.com/mvidia/">Show HN: A game where you build a GPU</a><span class="sitebit comhead"> (<a href="from?site=jaso1024.com"><span class="sitestr">jaso1024.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47640728">956 points</span> by <a href="user?id=Jaso1024" class="hnuser">Jaso1024</a> <span class="age" title="2026-04-04T16:45:54 1775321154"><a href="item?id=47640728">4 days ago</a></span> <span id="unv_47640728"></span> | <a href="item?id=47640728">186&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://jaso1024.com/mvidia/">Show HN: A game where you build a GPU</a><span class="sitebit comhead"> (<a href="from?site=jaso1024.com"><span class="sitestr">jaso1024.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>

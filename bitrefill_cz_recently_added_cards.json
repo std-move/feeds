@@ -4,6 +4,13 @@
 	"favicon": "https://www.bitrefill.com/cz/en/gift-cards/favicon.ico",
 	"elements": [
 		{
+			"id": "link-c7e7bc7c66839b50eca9f21c64099692",
+			"title": "Tarbi3at Baloot International",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/tarbi3at-baloot-international/",
+			"contents": "Tarbi3at Baloot International — $1.39 - $479.99",
+			"retrieved": 1775713729781
+		},
+		{
 			"id": "link-5e865923a5c3f2703a64280656e09ef4",
 			"title": "Sawa Play International",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/sawa-play-international/",
@@ -275,13 +282,6 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/guess-eur/",
 			"contents": "Guess EUR — €25 - €100",
 			"retrieved": 1772707193121
-		},
-		{
-			"id": "link-bfc217eb1ab4d618c8f153fee7e20b46",
-			"title": "Global Hotel Card by Expedia",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/global-hotel-card-cz/",
-			"contents": "Global Hotel Card by Expedia — 500 CZK - 22000 CZK",
-			"retrieved": 1775661069410
 		}
 	]
 }

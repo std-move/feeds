@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-09T02:27:57.910Z</updated>
+    <updated>2026-04-09T05:51:31.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>link-df52e151c8f4994793c8df245de1ea7f</id>
         <link href="https://en.wikipedia.org/wiki/David_Rankin_(astronomer)"/>
         <updated>2026-04-09T02:24:48.805Z</updated>
-        <content type="html"><![CDATA[... that astronomer <b><a href="/wiki/David_Rankin_(astronomer)" title="David Rankin (astronomer)">David Rankin</a></b> has an asteroid, a comet, and a dinosaur named after him?]]></content>
+        <content type="html"><![CDATA[... that astronomer <b><a href="/wiki/David_Rankin_(astronomer)" title="David Rankin (astronomer)">David Rankin</a></b> has an asteroid, a comet, and a plesiosaur named after him?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[American Society of Marine Engineers]]></title>
