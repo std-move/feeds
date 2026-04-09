@@ -94,11 +94,10 @@ linkSelector = ".Story_title a"
 [liberation_travel_month_letter]
 title = "Liberation Travel Month-letter"
 url = "https://liberation.travel/liberation-travel-hacks-month-letter/"
-waitForSelector = ".mailpoet_archive li"
-entrySelector = ".mailpoet_archive li"
+waitForSelector = ".newsletter-archive-list li"
+entrySelector = ".newsletter-archive-list li"
 titleSelector = "a"
 linkSelector = "a"
-suppressFailureUntilEpochSec = 1775731239
 
 [jobstack_it_jobs]
 title = "Jobstack.it jobs"
