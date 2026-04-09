@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-d119127ce91ee2c8c5c5381e0108f6ea",
+			"title": "These are HP's 2026 ThinkPad competitors",
+			"link": "https://www.notebookcheck.net/Hands-on-with-2026-business-laptops-These-are-HP-s-ThinkPad-competitors.1270295.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/e/csm_IMG_20260324_160944023_HDR96_22de9680ab.jpg\" loading=\"lazy\" alt=\"HP's 2026 EliteBook lineup\"></picture><div class=\"intro_featured_bar_title\">These are HP's 2026 ThinkPad competitors</div>",
+			"retrieved": 1775761656625
+		},
+		{
 			"id": "link-413b0eb388e5c41ce0b170767222a533",
 			"title": "Google Pixel 10: Ages like fine wine",
 			"link": "https://www.notebookcheck.net/Google-Pixel-10-Smartphone-Review-Still-an-excellent-compact-Android-offering-six-months-later-with-some-let-downs.1120171.0.html",
@@ -43,13 +50,6 @@
 			"title": "▶ Snapdragon's second try is ... awesome?! - Asus ZenBook A14 review",
 			"link": "https://www.notebookcheck.net/Snapdragon-s-second-try-is-awesome-Asus-ZenBook-A14-review.1268027.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/0/csm_thumb_94_a0bc73c2eb.jpg\" loading=\"lazy\" alt=\"Snapdragon's second try is ... awesome?! - Asus ZenBook A14 review\"></picture><div class=\"intro_featured_bar_title\">▶ Snapdragon's second try is ... awesome?! - Asus ZenBook A14 review</div>",
-			"retrieved": 1775574513537
-		},
-		{
-			"id": "link-3c76d747afa2c9d49b4e8e1c2c2aa25d",
-			"title": "Snapdragon X2 Elite Analysis & Benchmarks",
-			"link": "https://www.notebookcheck.net/Qualcomm-Snapdragon-X2-Elite-Extreme-Analysis-Benchmarks-Efficiency-Serious-rival-for-Apple-and-a-problem-for-AMD-Intel.1266974.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A14_UX3704NA/snapdragon_x2_elite_title-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A14_UX3704NA/snapdragon_x2_elite_title-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A14_UX3704NA/snapdragon_x2_elite_title-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A14_UX3704NA/snapdragon_x2_elite_title-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A14_UX3704NA/snapdragon_x2_elite_title-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A14_UX3704NA/snapdragon_x2_elite_title-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/5/csm_snapdragon_x2_elite_title_61b9930043.png\" loading=\"lazy\" alt=\"Qualcomm Snapdragon X2 Elite Extreme Analysis, Benchmarks &amp; Efficiency - Serious rival for Apple and a problem for AMD &amp; Intel\"></picture><div class=\"intro_featured_bar_title\">Snapdragon X2 Elite Analysis &amp; Benchmarks</div>",
 			"retrieved": 1775574513537
 		}
 	]

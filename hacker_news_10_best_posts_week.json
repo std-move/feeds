@@ -1,5 +1,77 @@
 {
 	"title": "Hacker News - 10 best posts (week)",
 	"url": "https://news.ycombinator.com/best?h=168",
-	"elements": []
+	"favicon": "https://news.ycombinator.com/y18.svg",
+	"elements": [
+		{
+			"id": "link-251756f9b3eb2aab53d157b12b837475",
+			"title": "Git commands I run before reading any code (piechowski.io)",
+			"link": "https://news.ycombinator.com/item?id=47687273",
+			"contents": "<span class=\"rank\">1.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47687273\">2169 points</span> by <a href=\"user?id=grepsedawk\" class=\"hnuser\">grepsedawk</a> <span class=\"age\" title=\"2026-04-08T08:53:42 1775638422\"><a href=\"item?id=47687273\">1 day ago</a></span> <span id=\"unv_47687273\"></span> | <a href=\"item?id=47687273\">462&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://piechowski.io/post/git-commands-before-reading-code/\">Git commands I run before reading any code</a><span class=\"sitebit comhead\"> (<a href=\"from?site=piechowski.io\"><span class=\"sitestr\">piechowski.io</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-9d52d8046f40144667f6b6e154266f48",
+			"title": "Sam Altman may control our future – can he be trusted? (newyorker.com)",
+			"link": "https://news.ycombinator.com/item?id=47659135",
+			"contents": "<span class=\"rank\">2.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47659135\">2118 points</span> by <a href=\"user?id=adrianhon\" class=\"hnuser\">adrianhon</a> <span class=\"age\" title=\"2026-04-06T10:36:57 1775471817\"><a href=\"item?id=47659135\">3 days ago</a></span> <span id=\"unv_47659135\"></span> | <a href=\"item?id=47659135\">889&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted\">Sam Altman may control our future – can he be trusted?</a><span class=\"sitebit comhead\"> (<a href=\"from?site=newyorker.com\"><span class=\"sitestr\">newyorker.com</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-60b6f671cde2dac73d49ba39e0801f94",
+			"title": "I ported Mac OS X to the Nintendo Wii (bryankeller.github.io)",
+			"link": "https://news.ycombinator.com/item?id=47691730",
+			"contents": "<span class=\"rank\">3.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47691730\">1800 points</span> by <a href=\"user?id=blkhp19\" class=\"hnuser\">blkhp19</a> <span class=\"age\" title=\"2026-04-08T15:40:00 1775662800\"><a href=\"item?id=47691730\">1 day ago</a></span> <span id=\"unv_47691730\"></span> | <a href=\"item?id=47691730\">303&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html\">I ported Mac OS X to the Nintendo Wii</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bryankeller.github.io\"><span class=\"sitestr\">bryankeller.github.io</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-20fc61fff9f5c2f93172a5782439c127",
+			"title": "Project Glasswing: Securing critical software for the AI era (anthropic.com)",
+			"link": "https://news.ycombinator.com/item?id=47679121",
+			"contents": "<span class=\"rank\">4.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47679121\">1506 points</span> by <a href=\"user?id=Ryan5453\" class=\"hnuser\">Ryan5453</a> <span class=\"age\" title=\"2026-04-07T18:09:34 1775585374\"><a href=\"item?id=47679121\">2 days ago</a></span> <span id=\"unv_47679121\"></span> | <a href=\"item?id=47679121\">814&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.anthropic.com/glasswing\">Project Glasswing: Securing critical software for the AI era</a><span class=\"sitebit comhead\"> (<a href=\"from?site=anthropic.com\"><span class=\"sitestr\">anthropic.com</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-629c9a510676dde4ed9b51279b75ad87",
+			"title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates (github.com/anthropics)",
+			"link": "https://news.ycombinator.com/item?id=47660925",
+			"contents": "<span class=\"rank\">5.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47660925\">1335 points</span> by <a href=\"user?id=StanAngeloff\" class=\"hnuser\">StanAngeloff</a> <span class=\"age\" title=\"2026-04-06T13:50:35 1775483435\"><a href=\"item?id=47660925\">3 days ago</a></span> <span id=\"unv_47660925\"></span> | <a href=\"item?id=47660925\">745&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://github.com/anthropics/claude-code/issues/42796\">Issue: Claude Code is unusable for complex engineering tasks with Feb updates</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/anthropics\"><span class=\"sitestr\">github.com/anthropics</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-aa1a34f4611cbff2d8ebbad42a14fb4f",
+			"title": "Veracrypt project update (sourceforge.net)",
+			"link": "https://news.ycombinator.com/item?id=47686549",
+			"contents": "<span class=\"rank\">6.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47686549\">1245 points</span> by <a href=\"user?id=super256\" class=\"hnuser\">super256</a> <span class=\"age\" title=\"2026-04-08T07:23:39 1775633019\"><a href=\"item?id=47686549\">1 day ago</a></span> <span id=\"unv_47686549\"></span> | <a href=\"item?id=47686549\">486&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/\">Veracrypt project update</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sourceforge.net\"><span class=\"sitestr\">sourceforge.net</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-0bf0169b857f6ea83adfccd2b99bf317",
+			"title": "LittleSnitch for Linux (obdev.at)",
+			"link": "https://news.ycombinator.com/item?id=47697870",
+			"contents": "<span class=\"rank\">7.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47697870\">1221 points</span> by <a href=\"user?id=pluc\" class=\"hnuser\">pluc</a> <span class=\"age\" title=\"2026-04-09T00:26:08 1775694368\"><a href=\"item?id=47697870\">18 hours ago</a></span> <span id=\"unv_47697870\"></span> | <a href=\"item?id=47697870\">401&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://obdev.at/products/littlesnitch-linux/index.html\">LittleSnitch for Linux</a><span class=\"sitebit comhead\"> (<a href=\"from?site=obdev.at\"><span class=\"sitestr\">obdev.at</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-6d26b37e8e88167f045517e955d2dba7",
+			"title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+			"link": "https://news.ycombinator.com/item?id=47633396",
+			"contents": "<span class=\"rank\">8.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47633396\">1098 points</span> by <a href=\"user?id=firloop\" class=\"hnuser\">firloop</a> <span class=\"age\" title=\"2026-04-03T22:55:24 1775256924\"><a href=\"item?id=47633396\">5 days ago</a></span> <span id=\"unv_47633396\"></span> | <a href=\"item?id=47633396\">829&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"item?id=47633396\">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-3f5aae3d67c0071e6f28f5987735113e",
+			"title": "Artemis II crew take “spectacular” image of Earth (bbc.com)",
+			"link": "https://news.ycombinator.com/item?id=47631118",
+			"contents": "<span class=\"rank\">9.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47631118\">1076 points</span> by <a href=\"user?id=andsoitis\" class=\"hnuser\">andsoitis</a> <span class=\"age\" title=\"2026-04-03T19:35:02 1775244902\"><a href=\"item?id=47631118\">5 days ago</a></span> <span id=\"unv_47631118\"></span> | <a href=\"item?id=47631118\">387&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://www.bbc.com/news/articles/ce8jzr423p9o\">Artemis II crew take “spectacular” image of Earth</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bbc.com\"><span class=\"sitestr\">bbc.com</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		},
+		{
+			"id": "link-355161e06769f52667817a09a9d4d777",
+			"title": "The threat is comfortable drift toward not understanding what you're doing (ergosphere.blog)",
+			"link": "https://news.ycombinator.com/item?id=47647788",
+			"contents": "<span class=\"rank\">10.</span> — <td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_47647788\">978 points</span> by <a href=\"user?id=zaikunzhang\" class=\"hnuser\">zaikunzhang</a> <span class=\"age\" title=\"2026-04-05T09:57:25 1775383045\"><a href=\"item?id=47647788\">4 days ago</a></span> <span id=\"unv_47647788\"></span> | <a href=\"item?id=47647788\">621&nbsp;comments</a></span></td> — <span class=\"titleline\"><a href=\"https://ergosphere.blog/posts/the-machines-are-fine/\">The threat is comfortable drift toward not understanding what you're doing</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ergosphere.blog\"><span class=\"sitestr\">ergosphere.blog</span></a>)</span></span>",
+			"retrieved": 1775761656625
+		}
+	]
 }
