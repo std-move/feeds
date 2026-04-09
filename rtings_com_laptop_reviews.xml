@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-04-09T13:30:56.188Z</updated>
+    <updated>2026-04-09T15:24:28.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Laptop Test Bench 0.9.1
+            New]]></title>
+        <id>link-7115ee271f414fa8a3cea31e099a2d6e</id>
+        <link href="https://www.rtings.com/laptop/tests/changelogs/0-9-1"/>
+        <updated>2026-04-09T15:22:37.089Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/pages/nhGCvq8F/macbook-pro-old-medium.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">Laptop Test Bench 0.9.1
+            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
+          </div>
+          <div class="latest_page-preview-date">about 1 hour ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple MacBook Neo (A18 Pro, 2026) Test Results
             Early Access]]></title>
@@ -207,7 +221,7 @@
         <id>link-76dd68cb8070ce493aae3c8c12c8dfca</id>
         <link href="https://www.rtings.com/laptop/reviews/lenovo/chromebook-duet-gen-9-11-2024-chrome-os"/>
         <updated>2026-01-24T18:47:43.681Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/4y5AXuJE/lenovo-chromebook-duet-gen-9-11-2024/design-small.jpg?format=auto" alt="">
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/4y5AXuJE/lenovo-chromebook-duet-gen-9-11-2024-chrome-os/design-small.jpg?format=auto" alt="">
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">Lenovo Chromebook Duet Gen 9 11 (2024) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
@@ -549,20 +563,6 @@
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
           <div class="latest_page-preview-date">12 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple MacBook Air 15 (M4, 2025) Review
-            New]]></title>
-        <id>link-f49862b747dfcb0bedd44ac6503351e9</id>
-        <link href="https://www.rtings.com/laptop/reviews/apple/macbook-air-15-m4-2025"/>
-        <updated>2026-01-24T18:47:43.681Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/EQiNI9Fd/apple-macbook-air-15-m4-2025/design-small.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Apple MacBook Air 15 (M4, 2025) Review
-            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">about 1 year ago</div>
         </div>]]></content>
     </entry>
 </feed>
