@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-10T05:59:47.987Z</updated>
+    <updated>2026-04-10T07:47:56.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7 9850X3D: Cache is king]]></title>
+        <id>link-1be7772de3e4748aba2b8e5b84a55fb8</id>
+        <link href="https://www.notebookcheck.net/AMD-Ryzen-7-9850X3D-Review-Zen-5-s-minor-X3D-refresh-reigns-as-best-gaming-CPU-while-keeping-Core-Ultra-200S-Plus-at-bay.1262944.0.html"/>
+        <updated>2026-04-10T07:46:21.509Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/d/csm_amd_ryzen_7_9850x3d_1_b4db22afed.jpg" loading="lazy" alt="AMD Ryzen 7 9850X3D in review"></picture><div class="intro_featured_bar_title">AMD Ryzen 7 9850X3D: Cache is king</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These are HP's 2026 ThinkPad competitors]]></title>
         <id>link-d119127ce91ee2c8c5c5381e0108f6ea</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Veteran-artist-behind-Mass-Effect-Halo-and-Overwatch-2-weighs-in-on-Nvidia-DLSS-5.1267916.0.html"/>
         <updated>2026-04-07T20:49:26.847Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/7/csm_Mark_Linington_DLSS_5_Interview_8c7ca10da6.jpg" loading="lazy" alt="For Overwatch 2, Mark Linington was given the opportunity to lead the environment efforts for Overwatch’s story missions."></picture><div class="intro_featured_bar_title">Veteran artist weighs in on DLSS 5 - Studios are using AI</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ Snapdragon's second try is ... awesome?! - Asus ZenBook A14 review]]></title>
-        <id>link-f5c942f86df7350ca75f00cd58be9754</id>
-        <link href="https://www.notebookcheck.net/Snapdragon-s-second-try-is-awesome-Asus-ZenBook-A14-review.1268027.0.html"/>
-        <updated>2026-04-07T15:08:33.537Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_94-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/0/csm_thumb_94_a0bc73c2eb.jpg" loading="lazy" alt="Snapdragon's second try is ... awesome?! - Asus ZenBook A14 review"></picture><div class="intro_featured_bar_title">▶ Snapdragon's second try is ... awesome?! - Asus ZenBook A14 review</div>]]></content>
     </entry>
 </feed>
