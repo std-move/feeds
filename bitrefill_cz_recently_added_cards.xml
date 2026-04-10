@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-10T10:56:59.579Z</updated>
+    <updated>2026-04-10T13:13:55.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>link-3eaf04d066aae4a24980c2215f608e29</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/flexepin-european-union/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
-        <content type="html"><![CDATA[Flexepin EU — €10 - €250]]></content>
+        <content type="html"><![CDATA[Flexepin EU — €10 - €100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lego]]></title>
