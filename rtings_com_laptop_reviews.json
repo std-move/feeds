@@ -4,6 +4,13 @@
 	"favicon": "https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png",
 	"elements": [
 		{
+			"id": "link-efc5071e15d8a38c351497bdce05e04d",
+			"title": "Apple MacBook Neo (A18 Pro, 2026) Review\n            New",
+			"link": "https://www.rtings.com/laptop/reviews/apple/macbook-neo-a18-pro-2026",
+			"contents": "<img src=\"https://i.rtings.com/assets/products/fjfvOgNt/apple-macbook-neo-a18-pro-2026/design-small.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Apple MacBook Neo (A18 Pro, 2026) Review\n            <div class=\"e-event_tag\" data-kind=\"new\" style=\"vertical-align: middle; margin-left: 6px;\">New</div>\n          </div>\n          <div class=\"latest_page-preview-date\">16 minutes ago</div>\n        </div>",
+			"retrieved": 1775853499108
+		},
+		{
 			"id": "link-7115ee271f414fa8a3cea31e099a2d6e",
 			"title": "Laptop Test Bench 0.9.1\n            New",
 			"link": "https://www.rtings.com/laptop/tests/changelogs/0-9-1",
@@ -11,11 +18,11 @@
 			"retrieved": 1775748157089
 		},
 		{
-			"id": "link-3a40785549a3ff972f7eb506c10a8cd4",
+			"id": "link-efc5071e15d8a38c351497bdce05e04d",
 			"title": "Apple MacBook Neo (A18 Pro, 2026) Test Results\n            Early Access",
-			"link": "https://www.rtings.com/early-access/laptop/reviews/apple/macbook-neo-a18-pro-2026",
+			"link": "https://www.rtings.com/laptop/reviews/apple/macbook-neo-a18-pro-2026",
 			"contents": "<img src=\"https://i.rtings.com/assets/products/pEaR20bR/apple-macbook-neo-a18-pro-2026/in-test-medium.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Apple MacBook Neo (A18 Pro, 2026) Test Results\n            <div class=\"e-event_tag\" data-kind=\"early-access\" style=\"vertical-align: middle; margin-left: 6px;\">Early Access</div>\n          </div>\n          <div class=\"latest_page-preview-date\">10 days ago</div>\n        </div>",
-			"retrieved": 1774976303076
+			"retrieved": 1775853499108
 		},
 		{
 			"id": "link-0d0a071b2ba39bbb744c9baaf7c0b62b",
@@ -259,7 +266,7 @@
 			"id": "link-b2a98d9830d7d7b21da0248127d7792b",
 			"title": "Lenovo Yoga 9i 2-in-1 Aura Edition 14 (2025) Review\n            New",
 			"link": "https://www.rtings.com/laptop/reviews/lenovo/yoga-9i-2-in-1-aura-edition-14-2025",
-			"contents": "<img src=\"https://i.rtings.com/assets/products/m5oaj4rE/lenovo-yoga-9i-2-in-1-aura-edition-14-2025/design-small.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Lenovo Yoga 9i 2-in-1 Aura Edition 14 (2025) Review\n            <div class=\"e-event_tag\" data-kind=\"new\" style=\"vertical-align: middle; margin-left: 6px;\">New</div>\n          </div>\n          <div class=\"latest_page-preview-date\">11 months ago</div>\n        </div>",
+			"contents": "<img src=\"https://i.rtings.com/assets/products/m5oaj4rE/lenovo-yoga-9i-2-in-1-aura-edition-14-2025/design-small.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Lenovo Yoga 9i 2-in-1 Aura Edition 14 (2025) Review\n            <div class=\"e-event_tag\" data-kind=\"new\" style=\"vertical-align: middle; margin-left: 6px;\">New</div>\n          </div>\n          <div class=\"latest_page-preview-date\">12 months ago</div>\n        </div>",
 			"retrieved": 1769280463681
 		},
 		{
@@ -274,13 +281,6 @@
 			"title": "Lenovo Yoga 9i 2-in-1 Aura Edition 14 (2025) Test Results\n            Early Access",
 			"link": "https://www.rtings.com/laptop/reviews/lenovo/yoga-9i-2-in-1-aura-edition-14-2025",
 			"contents": "<img src=\"https://i.rtings.com/assets/products/zhutfNJ1/lenovo-yoga-9i-2-in-1-aura-edition-14-2025/in-test-medium.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Lenovo Yoga 9i 2-in-1 Aura Edition 14 (2025) Test Results\n            <div class=\"e-event_tag\" data-kind=\"early-access\" style=\"vertical-align: middle; margin-left: 6px;\">Early Access</div>\n          </div>\n          <div class=\"latest_page-preview-date\">12 months ago</div>\n        </div>",
-			"retrieved": 1769280463681
-		},
-		{
-			"id": "link-01b9d283210365cffea0ac2aedadf43b",
-			"title": "ASUS ProArt P16 H7606 (2024) Test Results\n            Early Access",
-			"link": "https://www.rtings.com/laptop/reviews/asus/proart-p16-h7606-2024",
-			"contents": "<img src=\"https://i.rtings.com/assets/products/z2ACu1ik/asus-proart-p16-h7606-2024/in-test-medium.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">ASUS ProArt P16 H7606 (2024) Test Results\n            <div class=\"e-event_tag\" data-kind=\"early-access\" style=\"vertical-align: middle; margin-left: 6px;\">Early Access</div>\n          </div>\n          <div class=\"latest_page-preview-date\">12 months ago</div>\n        </div>",
 			"retrieved": 1769280463681
 		}
 	]
