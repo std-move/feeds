@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-10T16:54:12.351Z</updated>
+    <updated>2026-04-10T18:56:32.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.notebookcheck.net/Intel-vPro-explained-and-why-you-should-care.1261418.0.html"/>
         <updated>2026-04-10T09:10:45.920Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/7/csm_thumb_0237_e56b03f8df.jpg" loading="lazy" alt="Intel vPro explained and why you should care!"></picture><div class="intro_featured_bar_title">▶ Intel vPro explained and why you should care!</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dell is back in the laptop game]]></title>
+        <id>link-433548cb6cabbbd0196695956a5d4745</id>
+        <link href="https://www.notebookcheck.net/Dell-is-back-in-the-laptop-game-2026-Dell-Pro-laptops-hands-on.1271200.0.html"/>
+        <updated>2026-04-10T18:54:52.110Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/1/csm_IMG_20260323_124348315_HDR_813c20cb9c.jpg" loading="lazy" alt="The new Dell Pro laptop lineup."></picture><div class="intro_featured_bar_title">Dell is back in the laptop game</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Marshall Bromley 450 party speaker review – the best party speaker of 2026?]]></title>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Google-Pixel-10-Smartphone-Review-Still-an-excellent-compact-Android-offering-six-months-later-with-some-let-downs.1120171.0.html"/>
         <updated>2026-04-08T17:03:09.956Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Google/Pixel_10/google_pixel_10_teaser-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Google/Pixel_10/google_pixel_10_teaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Google/Pixel_10/google_pixel_10_teaser-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Google/Pixel_10/google_pixel_10_teaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Google/Pixel_10/google_pixel_10_teaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Google/Pixel_10/google_pixel_10_teaser-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/c/csm_google_pixel_10_teaser_be106dec91.jpg" loading="lazy" alt="Google Pixel 10 review"></picture><div class="intro_featured_bar_title">Google Pixel 10: Ages like fine wine</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful sound - Teufel Boomster 4 review]]></title>
-        <id>link-6ca10241fed71fe5f7c5286563708876</id>
-        <link href="https://www.notebookcheck.net/Sound-on-all-channels-Teufel-Boomster-4-review.1268804.0.html"/>
-        <updated>2026-04-08T10:57:04.320Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teufel/Boomster_4/aPic_Teufel_Boomster_4-2316-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teufel/Boomster_4/aPic_Teufel_Boomster_4-2316-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Teufel/Boomster_4/aPic_Teufel_Boomster_4-2316-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teufel/Boomster_4/aPic_Teufel_Boomster_4-2316-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Teufel/Boomster_4/aPic_Teufel_Boomster_4-2316-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Teufel/Boomster_4/aPic_Teufel_Boomster_4-2316-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/1/csm_aPic_Teufel_Boomster_4-2316_b892bae732.jpg" loading="lazy" alt="Sound on all channels – Teufel Boomster 4 review"></picture><div class="intro_featured_bar_title">Powerful sound - Teufel Boomster 4 review</div>]]></content>
     </entry>
 </feed>
