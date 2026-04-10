@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-10T07:53:56.185Z</updated>
+    <updated>2026-04-10T09:12:31.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Intel vPro explained and why you should care!]]></title>
+        <id>link-f4aaa081eb546bbd1871a1cb37553f0f</id>
+        <link href="https://www.notebookcheck.net/Intel-vPro-explained-and-why-you-should-care.1261418.0.html"/>
+        <updated>2026-04-10T09:10:45.920Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_0237-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/7/csm_thumb_0237_e56b03f8df.jpg" loading="lazy" alt="Intel vPro explained and why you should care!"></picture><div class="intro_featured_bar_title">▶ Intel vPro explained and why you should care!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Ryzen 7 9850X3D: Cache is king]]></title>
         <id>link-1be7772de3e4748aba2b8e5b84a55fb8</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Asus-Zenbook-A16-Laptop-Review-X2-Elite-Extreme-48-GB-RAM-for-1599.1261795.0.html"/>
         <updated>2026-04-07T22:38:37.887Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A16_UX3607/zenbook_a16_ux3607_case_06-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A16_UX3607/zenbook_a16_ux3607_case_06-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A16_UX3607/zenbook_a16_ux3607_case_06-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A16_UX3607/zenbook_a16_ux3607_case_06-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A16_UX3607/zenbook_a16_ux3607_case_06-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_A16_UX3607/zenbook_a16_ux3607_case_06-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/5/csm_zenbook_a16_ux3607_case_06_e3829cdb1d.jpg" loading="lazy" alt="Asus Zenbook A16 Laptop Review - X2 Elite Extreme &amp; 48 GB RAM for $1599"></picture><div class="intro_featured_bar_title">Asus Zenbook A16 review - Snapdragon X2 Elite Extreme</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veteran artist weighs in on DLSS 5 - Studios are using AI]]></title>
-        <id>link-3985b6539c37dab944d8ebadc535dd85</id>
-        <link href="https://www.notebookcheck.net/Veteran-artist-behind-Mass-Effect-Halo-and-Overwatch-2-weighs-in-on-Nvidia-DLSS-5.1267916.0.html"/>
-        <updated>2026-04-07T20:49:26.847Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mark_Linington_DLSS_5_Interview-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/7/csm_Mark_Linington_DLSS_5_Interview_8c7ca10da6.jpg" loading="lazy" alt="For Overwatch 2, Mark Linington was given the opportunity to lead the environment efforts for Overwatch’s story missions."></picture><div class="intro_featured_bar_title">Veteran artist weighs in on DLSS 5 - Studios are using AI</div>]]></content>
     </entry>
 </feed>
