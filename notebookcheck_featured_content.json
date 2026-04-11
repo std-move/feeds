@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-ac3ac1e5beb1662ef7d79e85ad4cc25e",
+			"title": "XPS 16 Core Ultra X7 review: Dell bets it all on Intel",
+			"link": "https://www.notebookcheck.net/Dell-XPS-16-Core-Ultra-X7-358H-review-Out-with-Nvidia-in-with-Intel-Arc-B390.1264689.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_X7_358H/xps16_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_X7_358H/xps16_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_X7_358H/xps16_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_X7_358H/xps16_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_X7_358H/xps16_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_16_Core_Ultra_X7_358H/xps16_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/8/csm_xps16_feature_1_a55a977512.jpg\" loading=\"lazy\" alt=\"Dell XPS 16 Core Ultra X7 358H review: Out with Nvidia, in with Intel Arc B390\"></picture><div class=\"intro_featured_bar_title\">XPS 16 Core Ultra X7 review: Dell bets it all on Intel</div>",
+			"retrieved": 1775933341654
+		},
+		{
 			"id": "link-f4aaa081eb546bbd1871a1cb37553f0f",
 			"title": "▶ Intel vPro explained and why you should care!",
 			"link": "https://www.notebookcheck.net/Intel-vPro-explained-and-why-you-should-care.1261418.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/AMD-Ryzen-7-9850X3D-Review-Zen-5-s-minor-X3D-refresh-reigns-as-best-gaming-CPU-while-keeping-Core-Ultra-200S-Plus-at-bay.1262944.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/d/csm_amd_ryzen_7_9850x3d_1_b4db22afed.jpg\" loading=\"lazy\" alt=\"AMD Ryzen 7 9850X3D in review\"></picture><div class=\"intro_featured_bar_title\">AMD Ryzen 7 9850X3D: Cache is king</div>",
 			"retrieved": 1775807181509
-		},
-		{
-			"id": "link-d119127ce91ee2c8c5c5381e0108f6ea",
-			"title": "These are HP's 2026 ThinkPad competitors",
-			"link": "https://www.notebookcheck.net/Hands-on-with-2026-business-laptops-These-are-HP-s-ThinkPad-competitors.1270295.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260324_160944023_HDR96-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/e/csm_IMG_20260324_160944023_HDR96_22de9680ab.jpg\" loading=\"lazy\" alt=\"HP's 2026 EliteBook lineup\"></picture><div class=\"intro_featured_bar_title\">These are HP's 2026 ThinkPad competitors</div>",
-			"retrieved": 1775761656625
 		}
 	]
 }
