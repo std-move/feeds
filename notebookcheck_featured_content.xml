@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-11T08:45:05.075Z</updated>
+    <updated>2026-04-11T10:36:49.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>link-437e221d8989956327b8b2364d5ab161</id>
         <link href="https://www.notebookcheck.net/A-simply-terrific-laptop-but-is-that-enough-Asus-Zenbook-A16-review.1270626.0.html"/>
         <updated>2026-04-10T10:55:11.805Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/9/csm_thumb_yt93_a02b9cdf19.jpg" loading="lazy" alt="A simply terrific laptop ... but is that enough? - Asus Zenbook A16 review"></picture><div class="intro_featured_bar_title">▶ Qualcomm did something incredible ... is it enough?</div>]]></content>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/9/csm_thumb_yt93_a02b9cdf19.jpg" loading="lazy" alt="Qualcomm did something incredible ... is it enough? Asus Zenbook 16 + Snapdragon X2 Elite Extreme"></picture><div class="intro_featured_bar_title">▶ Qualcomm did something incredible ... is it enough?</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AMD Ryzen 7 9850X3D: Cache is king]]></title>
