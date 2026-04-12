@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-12T02:39:05.893Z</updated>
+    <updated>2026-04-12T05:56:29.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/ludo-star-usd-international/"/>
         <updated>2026-03-13T22:28:40.490Z</updated>
         <content type="html"><![CDATA[Ludo Star International — $10 - $500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Instant AI International]]></title>
+        <id>link-d81c436189332d9d9afc2c24cb66a9e0</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/my-instant-ai-international/"/>
+        <updated>2026-04-12T05:54:50.953Z</updated>
+        <content type="html"><![CDATA[My Instant AI International — $5 - $50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OneKey USD]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/"/>
         <updated>2026-03-17T17:03:51.400Z</updated>
         <content type="html"><![CDATA[Riot Access Europe — €2.5 - €100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guess EUR]]></title>
-        <id>link-c3dcb41301186022cadc1afde9118871</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/guess-eur/"/>
-        <updated>2026-04-09T19:07:36.625Z</updated>
-        <content type="html"><![CDATA[Guess EUR — €25 - €100]]></content>
     </entry>
 </feed>
