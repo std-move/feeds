@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-75c288bf481dede12f311a5603f35ff5",
+			"title": "▶ The MacBook Neo is a problem ... for everyone but Apple!",
+			"link": "https://www.notebookcheck.net/The-MacBook-Neo-is-a-problem-for-everyone-but-Apple.1272083.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/0/csm_thumb30_805b79b4af.jpg\" loading=\"lazy\" alt=\"The MacBook Neo is a problem ... for everyone but Apple!\"></picture><div class=\"intro_featured_bar_title\">▶ The MacBook Neo is a problem ... for everyone but Apple!</div>",
+			"retrieved": 1775990341604
+		},
+		{
 			"id": "link-ac3ac1e5beb1662ef7d79e85ad4cc25e",
 			"title": "XPS 16 Core Ultra X7 review: Dell bets it all on Intel",
 			"link": "https://www.notebookcheck.net/Dell-XPS-16-Core-Ultra-X7-358H-review-Out-with-Nvidia-in-with-Intel-Arc-B390.1264689.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/A-simply-terrific-laptop-but-is-that-enough-Asus-Zenbook-A16-review.1270626.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/9/csm_thumb_yt93_a02b9cdf19.jpg\" loading=\"lazy\" alt=\"Qualcomm did something incredible ... is it enough? Asus Zenbook 16 + Snapdragon X2 Elite Extreme\"></picture><div class=\"intro_featured_bar_title\">▶ Qualcomm did something incredible ... is it enough?</div>",
 			"retrieved": 1775818511805
-		},
-		{
-			"id": "link-1be7772de3e4748aba2b8e5b84a55fb8",
-			"title": "AMD Ryzen 7 9850X3D: Cache is king",
-			"link": "https://www.notebookcheck.net/AMD-Ryzen-7-9850X3D-Review-Zen-5-s-minor-X3D-refresh-reigns-as-best-gaming-CPU-while-keeping-Core-Ultra-200S-Plus-at-bay.1262944.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/d/csm_amd_ryzen_7_9850x3d_1_b4db22afed.jpg\" loading=\"lazy\" alt=\"AMD Ryzen 7 9850X3D in review\"></picture><div class=\"intro_featured_bar_title\">AMD Ryzen 7 9850X3D: Cache is king</div>",
-			"retrieved": 1775807181509
 		}
 	]
 }

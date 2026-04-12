@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-12T08:51:41.914Z</updated>
+    <updated>2026-04-12T10:41:26.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ The MacBook Neo is a problem ... for everyone but Apple!]]></title>
+        <id>link-75c288bf481dede12f311a5603f35ff5</id>
+        <link href="https://www.notebookcheck.net/The-MacBook-Neo-is-a-problem-for-everyone-but-Apple.1272083.0.html"/>
+        <updated>2026-04-12T10:39:01.604Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb30-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/0/csm_thumb30_805b79b4af.jpg" loading="lazy" alt="The MacBook Neo is a problem ... for everyone but Apple!"></picture><div class="intro_featured_bar_title">▶ The MacBook Neo is a problem ... for everyone but Apple!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XPS 16 Core Ultra X7 review: Dell bets it all on Intel]]></title>
         <id>link-ac3ac1e5beb1662ef7d79e85ad4cc25e</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/A-simply-terrific-laptop-but-is-that-enough-Asus-Zenbook-A16-review.1270626.0.html"/>
         <updated>2026-04-10T10:55:11.805Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_yt93-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/9/csm_thumb_yt93_a02b9cdf19.jpg" loading="lazy" alt="Qualcomm did something incredible ... is it enough? Asus Zenbook 16 + Snapdragon X2 Elite Extreme"></picture><div class="intro_featured_bar_title">▶ Qualcomm did something incredible ... is it enough?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 7 9850X3D: Cache is king]]></title>
-        <id>link-1be7772de3e4748aba2b8e5b84a55fb8</id>
-        <link href="https://www.notebookcheck.net/AMD-Ryzen-7-9850X3D-Review-Zen-5-s-minor-X3D-refresh-reigns-as-best-gaming-CPU-while-keeping-Core-Ultra-200S-Plus-at-bay.1262944.0.html"/>
-        <updated>2026-04-10T07:46:21.509Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/AMD/Ryzen_7_9850X3D/amd_ryzen_7_9850x3d_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/d/csm_amd_ryzen_7_9850x3d_1_b4db22afed.jpg" loading="lazy" alt="AMD Ryzen 7 9850X3D in review"></picture><div class="intro_featured_bar_title">AMD Ryzen 7 9850X3D: Cache is king</div>]]></content>
     </entry>
 </feed>
