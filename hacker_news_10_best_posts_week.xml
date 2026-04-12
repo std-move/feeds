@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-12T20:39:03.527Z</updated>
+    <updated>2026-04-12T22:36:39.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>link-251756f9b3eb2aab53d157b12b837475</id>
         <link href="https://news.ycombinator.com/item?id=47687273"/>
         <updated>2026-04-12T13:02:46.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47687273">2301 points</span> by <a href="user?id=grepsedawk" class="hnuser">grepsedawk</a> <span class="age" title="2026-04-08T08:53:42 1775638422"><a href="item?id=47687273">4 days ago</a></span> <span id="unv_47687273"></span> | <a href="item?id=47687273">499&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://piechowski.io/post/git-commands-before-reading-code/">Git commands I run before reading any code</a><span class="sitebit comhead"> (<a href="from?site=piechowski.io"><span class="sitestr">piechowski.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47687273">2303 points</span> by <a href="user?id=grepsedawk" class="hnuser">grepsedawk</a> <span class="age" title="2026-04-08T08:53:42 1775638422"><a href="item?id=47687273">4 days ago</a></span> <span id="unv_47687273"></span> | <a href="item?id=47687273">499&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://piechowski.io/post/git-commands-before-reading-code/">Git commands I run before reading any code</a><span class="sitebit comhead"> (<a href="from?site=piechowski.io"><span class="sitestr">piechowski.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sam Altman may control our future – can he be trusted? (newyorker.com)]]></title>
         <id>link-9d52d8046f40144667f6b6e154266f48</id>
         <link href="https://news.ycombinator.com/item?id=47659135"/>
         <updated>2026-04-12T13:02:46.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47659135">2188 points</span> by <a href="user?id=adrianhon" class="hnuser">adrianhon</a> <span class="age" title="2026-04-06T10:36:57 1775471817"><a href="item?id=47659135">6 days ago</a></span> <span id="unv_47659135"></span> | <a href="item?id=47659135">912&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Sam Altman may control our future – can he be trusted?</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47659135">2188 points</span> by <a href="user?id=adrianhon" class="hnuser">adrianhon</a> <span class="age" title="2026-04-06T10:36:57 1775471817"><a href="item?id=47659135">6 days ago</a></span> <span id="unv_47659135"></span> | <a href="item?id=47659135">913&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Sam Altman may control our future – can he be trusted?</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I ported Mac OS X to the Nintendo Wii (bryankeller.github.io)]]></title>
@@ -31,14 +31,14 @@
         <id>link-20fc61fff9f5c2f93172a5782439c127</id>
         <link href="https://news.ycombinator.com/item?id=47679121"/>
         <updated>2026-04-12T13:02:46.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47679121">1537 points</span> by <a href="user?id=Ryan5453" class="hnuser">Ryan5453</a> <span class="age" title="2026-04-07T18:09:34 1775585374"><a href="item?id=47679121">5 days ago</a></span> <span id="unv_47679121"></span> | <a href="item?id=47679121">833&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/glasswing">Project Glasswing: Securing critical software for the AI era</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47679121">1537 points</span> by <a href="user?id=Ryan5453" class="hnuser">Ryan5453</a> <span class="age" title="2026-04-07T18:09:34 1775585374"><a href="item?id=47679121">5 days ago</a></span> <span id="unv_47679121"></span> | <a href="item?id=47679121">834&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/glasswing">Project Glasswing: Securing critical software for the AI era</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EFF is leaving X (eff.org)]]></title>
         <id>link-dd4e4283fa292c295270a14676708d4b</id>
         <link href="https://news.ycombinator.com/item?id=47706268"/>
         <updated>2026-04-12T13:02:46.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47706268">1418 points</span> by <a href="user?id=gregsadetsky" class="hnuser">gregsadetsky</a> <span class="age" title="2026-04-09T17:08:04 1775754484"><a href="item?id=47706268">3 days ago</a></span> <span id="unv_47706268"></span> | <a href="item?id=47706268">1297&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/eff-leaving-x">EFF is leaving X</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47706268">1418 points</span> by <a href="user?id=gregsadetsky" class="hnuser">gregsadetsky</a> <span class="age" title="2026-04-09T17:08:04 1775754484"><a href="item?id=47706268">3 days ago</a></span> <span id="unv_47706268"></span> | <a href="item?id=47706268">1298&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/eff-leaving-x">EFF is leaving X</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LittleSnitch for Linux (obdev.at)]]></title>
@@ -52,7 +52,7 @@
         <id>link-6461d011ca04e2338a61709b332f4ffe</id>
         <link href="https://news.ycombinator.com/item?id=47724352"/>
         <updated>2026-04-12T13:02:46.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1356 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">1 day ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">645&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1358 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">2 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">646&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Issue: Claude Code is unusable for complex engineering tasks with Feb updates (github.com/anthropics)]]></title>
@@ -73,6 +73,6 @@
         <id>link-20eec5b09c9014540ad9dd58b2095b7c</id>
         <link href="https://news.ycombinator.com/item?id=47725583"/>
         <updated>2026-04-12T13:02:46.807Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47725583">1265 points</span> by <a href="user?id=areoform" class="hnuser">areoform</a> <span class="age" title="2026-04-11T00:10:51 1775866251"><a href="item?id=47725583">1 day ago</a></span> <span id="unv_47725583"></span> | <a href="item?id=47725583">438&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/">Artemis II safely splashes down</a><span class="sitebit comhead"> (<a href="from?site=cbsnews.com"><span class="sitestr">cbsnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47725583">1265 points</span> by <a href="user?id=areoform" class="hnuser">areoform</a> <span class="age" title="2026-04-11T00:10:51 1775866251"><a href="item?id=47725583">1 day ago</a></span> <span id="unv_47725583"></span> | <a href="item?id=47725583">440&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/">Artemis II safely splashes down</a><span class="sitebit comhead"> (<a href="from?site=cbsnews.com"><span class="sitestr">cbsnews.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
