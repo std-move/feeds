@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-13T15:17:54.825Z</updated>
+    <updated>2026-04-13T17:06:46.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/ppq-ai-international/"/>
         <updated>2026-03-30T22:36:34.861Z</updated>
         <content type="html"><![CDATA[PayPerQ.ai — $1 - $100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audioteka]]></title>
+        <id>link-c2d1b8e4bed28fe124f6d1a86175f805</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/audioteka-czech-republic/"/>
+        <updated>2026-04-13T17:04:21.239Z</updated>
+        <content type="html"><![CDATA[Audioteka — 500 CZK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ASTRATEX]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/"/>
         <updated>2026-04-13T09:55:53.641Z</updated>
         <content type="html"><![CDATA[Riot Access Europe — €2.5 - €100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guess EUR]]></title>
-        <id>link-c3dcb41301186022cadc1afde9118871</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/guess-eur/"/>
-        <updated>2026-04-13T09:55:53.641Z</updated>
-        <content type="html"><![CDATA[Guess EUR — €25 - €100]]></content>
     </entry>
 </feed>
