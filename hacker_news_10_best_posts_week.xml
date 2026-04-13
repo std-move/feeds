@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-13T20:58:34.277Z</updated>
+    <updated>2026-04-13T22:45:12.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>link-6461d011ca04e2338a61709b332f4ffe</id>
         <link href="https://news.ycombinator.com/item?id=47724352"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1388 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">2 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">666&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1390 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">3 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">667&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LittleSnitch for Linux (obdev.at)]]></title>
@@ -52,21 +52,21 @@
         <id>link-20eec5b09c9014540ad9dd58b2095b7c</id>
         <link href="https://news.ycombinator.com/item?id=47725583"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47725583">1278 points</span> by <a href="user?id=areoform" class="hnuser">areoform</a> <span class="age" title="2026-04-11T00:10:51 1775866251"><a href="item?id=47725583">2 days ago</a></span> <span id="unv_47725583"></span> | <a href="item?id=47725583">446&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/">Artemis II safely splashes down</a><span class="sitebit comhead"> (<a href="from?site=cbsnews.com"><span class="sitestr">cbsnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47725583">1278 points</span> by <a href="user?id=areoform" class="hnuser">areoform</a> <span class="age" title="2026-04-11T00:10:51 1775866251"><a href="item?id=47725583">2 days ago</a></span> <span id="unv_47725583"></span> | <a href="item?id=47725583">447&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/">Artemis II safely splashes down</a><span class="sitebit comhead"> (<a href="from?site=cbsnews.com"><span class="sitestr">cbsnews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Small models also found the vulnerabilities that Mythos found (aisle.com)]]></title>
         <id>link-68786cb980ecc8a7789f6601169cc7f0</id>
         <link href="https://news.ycombinator.com/item?id=47732020"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47732020">1262 points</span> by <a href="user?id=dominicq" class="hnuser">dominicq</a> <span class="age" title="2026-04-11T16:47:28 1775926048"><a href="item?id=47732020">2 days ago</a></span> <span id="unv_47732020"></span> | <a href="item?id=47732020">338&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier">Small models also found the vulnerabilities that Mythos found</a><span class="sitebit comhead"> (<a href="from?site=aisle.com"><span class="sitestr">aisle.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47732020">1264 points</span> by <a href="user?id=dominicq" class="hnuser">dominicq</a> <span class="age" title="2026-04-11T16:47:28 1775926048"><a href="item?id=47732020">2 days ago</a></span> <span id="unv_47732020"></span> | <a href="item?id=47732020">339&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier">Small models also found the vulnerabilities that Mythos found</a><span class="sitebit comhead"> (<a href="from?site=aisle.com"><span class="sitestr">aisle.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Docker pull fails in Spain due to football Cloudflare block]]></title>
         <id>link-f33cfa33ad6496a850601a29f7126030</id>
         <link href="https://news.ycombinator.com/item?id=47738883"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47738883">1099 points</span> by <a href="user?id=littlecranky67" class="hnuser">littlecranky67</a> <span class="age" title="2026-04-12T12:28:57 1775996937"><a href="item?id=47738883">1 day ago</a></span> <span id="unv_47738883"></span> | <a href="item?id=47738883">400&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47738883">Tell HN: Docker pull fails in Spain due to football Cloudflare block</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47738883">1103 points</span> by <a href="user?id=littlecranky67" class="hnuser">littlecranky67</a> <span class="age" title="2026-04-12T12:28:57 1775996937"><a href="item?id=47738883">1 day ago</a></span> <span id="unv_47738883"></span> | <a href="item?id=47738883">402&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47738883">Tell HN: Docker pull fails in Spain due to football Cloudflare block</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1D Chess (rowan441.github.io)]]></title>
