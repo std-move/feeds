@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-13T19:16:45.966Z</updated>
+    <updated>2026-04-13T20:58:34.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,28 +10,28 @@
         <id>link-251756f9b3eb2aab53d157b12b837475</id>
         <link href="https://news.ycombinator.com/item?id=47687273"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47687273">2317 points</span> by <a href="user?id=grepsedawk" class="hnuser">grepsedawk</a> <span class="age" title="2026-04-08T08:53:42 1775638422"><a href="item?id=47687273">5 days ago</a></span> <span id="unv_47687273"></span> | <a href="item?id=47687273">503&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://piechowski.io/post/git-commands-before-reading-code/">Git commands I run before reading any code</a><span class="sitebit comhead"> (<a href="from?site=piechowski.io"><span class="sitestr">piechowski.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47687273">2320 points</span> by <a href="user?id=grepsedawk" class="hnuser">grepsedawk</a> <span class="age" title="2026-04-08T08:53:42 1775638422"><a href="item?id=47687273">5 days ago</a></span> <span id="unv_47687273"></span> | <a href="item?id=47687273">504&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://piechowski.io/post/git-commands-before-reading-code/">Git commands I run before reading any code</a><span class="sitebit comhead"> (<a href="from?site=piechowski.io"><span class="sitestr">piechowski.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I ported Mac OS X to the Nintendo Wii (bryankeller.github.io)]]></title>
         <id>link-60b6f671cde2dac73d49ba39e0801f94</id>
         <link href="https://news.ycombinator.com/item?id=47691730"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47691730">1913 points</span> by <a href="user?id=blkhp19" class="hnuser">blkhp19</a> <span class="age" title="2026-04-08T15:40:00 1775662800"><a href="item?id=47691730">5 days ago</a></span> <span id="unv_47691730"></span> | <a href="item?id=47691730">327&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html">I ported Mac OS X to the Nintendo Wii</a><span class="sitebit comhead"> (<a href="from?site=bryankeller.github.io"><span class="sitestr">bryankeller.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47691730">1917 points</span> by <a href="user?id=blkhp19" class="hnuser">blkhp19</a> <span class="age" title="2026-04-08T15:40:00 1775662800"><a href="item?id=47691730">5 days ago</a></span> <span id="unv_47691730"></span> | <a href="item?id=47691730">327&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html">I ported Mac OS X to the Nintendo Wii</a><span class="sitebit comhead"> (<a href="from?site=bryankeller.github.io"><span class="sitestr">bryankeller.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EFF is leaving X (eff.org)]]></title>
         <id>link-dd4e4283fa292c295270a14676708d4b</id>
         <link href="https://news.ycombinator.com/item?id=47706268"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47706268">1424 points</span> by <a href="user?id=gregsadetsky" class="hnuser">gregsadetsky</a> <span class="age" title="2026-04-09T17:08:04 1775754484"><a href="item?id=47706268">4 days ago</a></span> <span id="unv_47706268"></span> | <a href="item?id=47706268">1306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/eff-leaving-x">EFF is leaving X</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47706268">1424 points</span> by <a href="user?id=gregsadetsky" class="hnuser">gregsadetsky</a> <span class="age" title="2026-04-09T17:08:04 1775754484"><a href="item?id=47706268">4 days ago</a></span> <span id="unv_47706268"></span> | <a href="item?id=47706268">1308&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/eff-leaving-x">EFF is leaving X</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Filing the corners off my MacBooks (kentwalters.com)]]></title>
         <id>link-6461d011ca04e2338a61709b332f4ffe</id>
         <link href="https://news.ycombinator.com/item?id=47724352"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1384 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">2 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">663&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1388 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">2 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">666&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LittleSnitch for Linux (obdev.at)]]></title>
@@ -52,7 +52,7 @@
         <id>link-20eec5b09c9014540ad9dd58b2095b7c</id>
         <link href="https://news.ycombinator.com/item?id=47725583"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47725583">1278 points</span> by <a href="user?id=areoform" class="hnuser">areoform</a> <span class="age" title="2026-04-11T00:10:51 1775866251"><a href="item?id=47725583">2 days ago</a></span> <span id="unv_47725583"></span> | <a href="item?id=47725583">445&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/">Artemis II safely splashes down</a><span class="sitebit comhead"> (<a href="from?site=cbsnews.com"><span class="sitestr">cbsnews.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47725583">1278 points</span> by <a href="user?id=areoform" class="hnuser">areoform</a> <span class="age" title="2026-04-11T00:10:51 1775866251"><a href="item?id=47725583">2 days ago</a></span> <span id="unv_47725583"></span> | <a href="item?id=47725583">446&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/">Artemis II safely splashes down</a><span class="sitebit comhead"> (<a href="from?site=cbsnews.com"><span class="sitestr">cbsnews.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Small models also found the vulnerabilities that Mythos found (aisle.com)]]></title>
@@ -66,13 +66,13 @@
         <id>link-f33cfa33ad6496a850601a29f7126030</id>
         <link href="https://news.ycombinator.com/item?id=47738883"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47738883">1089 points</span> by <a href="user?id=littlecranky67" class="hnuser">littlecranky67</a> <span class="age" title="2026-04-12T12:28:57 1775996937"><a href="item?id=47738883">1 day ago</a></span> <span id="unv_47738883"></span> | <a href="item?id=47738883">398&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47738883">Tell HN: Docker pull fails in Spain due to football Cloudflare block</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47738883">1099 points</span> by <a href="user?id=littlecranky67" class="hnuser">littlecranky67</a> <span class="age" title="2026-04-12T12:28:57 1775996937"><a href="item?id=47738883">1 day ago</a></span> <span id="unv_47738883"></span> | <a href="item?id=47738883">400&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47738883">Tell HN: Docker pull fails in Spain due to football Cloudflare block</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1D Chess (rowan441.github.io)]]></title>
         <id>link-26cfe822bbad2352c6270cd93f0f2e03</id>
         <link href="https://news.ycombinator.com/item?id=47719740"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47719740">985 points</span> by <a href="user?id=burnt-resistor" class="hnuser">burnt-resistor</a> <span class="age" title="2026-04-10T15:37:28 1775835448"><a href="item?id=47719740">3 days ago</a></span> <span id="unv_47719740"></span> | <a href="item?id=47719740">173&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rowan441.github.io/1dchess/chess.html">1D Chess</a><span class="sitebit comhead"> (<a href="from?site=rowan441.github.io"><span class="sitestr">rowan441.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47719740">987 points</span> by <a href="user?id=burnt-resistor" class="hnuser">burnt-resistor</a> <span class="age" title="2026-04-10T15:37:28 1775835448"><a href="item?id=47719740">3 days ago</a></span> <span id="unv_47719740"></span> | <a href="item?id=47719740">174&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rowan441.github.io/1dchess/chess.html">1D Chess</a><span class="sitebit comhead"> (<a href="from?site=rowan441.github.io"><span class="sitestr">rowan441.github.io</span></a>)</span></span>]]></content>
     </entry>
 </feed>
