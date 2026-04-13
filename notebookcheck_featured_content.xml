@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-13T13:29:49.510Z</updated>
+    <updated>2026-04-13T15:17:54.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ PRAGMATA is a fantastic game!]]></title>
+        <id>link-0c6a1922bf2d5cdc43cffd006e3b9dc4</id>
+        <link href="https://www.notebookcheck.net/PRAGMATA-is-a-fantastic-game.1272780.0.html"/>
+        <updated>2026-04-13T15:15:43.983Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1050239-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1050239-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1050239-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1050239-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1050239-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1050239-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/c/csm__1050239_43860d33ea.jpg" loading="lazy" alt="PRAGMATA is a fantastic game!"></picture><div class="intro_featured_bar_title">▶ PRAGMATA is a fantastic game!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Powerhouse: Apple iPad Air 11 2026 review]]></title>
         <id>link-6e869717597981f856455ac13999cd05</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Dell-is-back-in-the-laptop-game-2026-Dell-Pro-laptops-hands-on.1271200.0.html"/>
         <updated>2026-04-10T18:54:52.110Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260323_124348315_HDR-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/1/csm_IMG_20260323_124348315_HDR_813c20cb9c.jpg" loading="lazy" alt="The new Dell Pro laptop lineup."></picture><div class="intro_featured_bar_title">Dell is back in the laptop game</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marshall Bromley 450 party speaker review – the best party speaker of 2026?]]></title>
-        <id>link-60f9282038346a5ce654648586b4aeaa</id>
-        <link href="https://www.notebookcheck.net/Marshall-Bromley-450-party-speaker-review-the-most-versatile-and-best-party-speaker-of-2026.1270636.0.html"/>
-        <updated>2026-04-10T10:55:11.805Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/title-168-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/title-168-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/title-168-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/title-168-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/title-168-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/title-168-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/a/csm_title-168_6e7abeb125.jpg" loading="lazy" alt="Marshall Bromley 450 in an old barn with an armchair"></picture><div class="intro_featured_bar_title">Marshall Bromley 450 party speaker review – the best party speaker of 2026?</div>]]></content>
     </entry>
 </feed>
