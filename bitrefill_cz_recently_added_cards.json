@@ -4,13 +4,6 @@
 	"favicon": "https://www.bitrefill.com/cz/en/gift-cards/favicon.ico",
 	"elements": [
 		{
-			"id": "link-c7e7bc7c66839b50eca9f21c64099692",
-			"title": "Tarbi3at Baloot International",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/tarbi3at-baloot-international/",
-			"contents": "Tarbi3at Baloot International — $1.39 - $479.99",
-			"retrieved": 1775713729781
-		},
-		{
 			"id": "link-5e865923a5c3f2703a64280656e09ef4",
 			"title": "Sawa Play International",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/sawa-play-international/",
@@ -21,7 +14,7 @@
 			"id": "link-f799a0f6ca38c7701555bed18122c535",
 			"title": "Wolt",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/woltcz-czech-republic/",
-			"contents": "Wolt — 1200 CZK",
+			"contents": "Wolt — 500 CZK - 1200 CZK",
 			"retrieved": 1774458356507
 		},
 		{
@@ -282,6 +275,13 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/",
 			"contents": "Riot Access Europe — €2.5 - €100",
 			"retrieved": 1776074153641
+		},
+		{
+			"id": "link-c3dcb41301186022cadc1afde9118871",
+			"title": "Guess EUR",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/guess-eur/",
+			"contents": "Guess EUR — €25 - €100",
+			"retrieved": 1776186521963
 		}
 	]
 }

@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-14T15:15:55.468Z</updated>
+    <updated>2026-04-14T17:10:29.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Tarbi3at Baloot International]]></title>
-        <id>link-c7e7bc7c66839b50eca9f21c64099692</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/tarbi3at-baloot-international/"/>
-        <updated>2026-04-09T05:48:49.781Z</updated>
-        <content type="html"><![CDATA[Tarbi3at Baloot International — $1.39 - $479.99]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Sawa Play International]]></title>
         <id>link-5e865923a5c3f2703a64280656e09ef4</id>
@@ -24,7 +17,7 @@
         <id>link-f799a0f6ca38c7701555bed18122c535</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/woltcz-czech-republic/"/>
         <updated>2026-03-25T17:05:56.507Z</updated>
-        <content type="html"><![CDATA[Wolt — 1200 CZK]]></content>
+        <content type="html"><![CDATA[Wolt — 500 CZK - 1200 CZK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ludo Star International]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/"/>
         <updated>2026-04-13T09:55:53.641Z</updated>
         <content type="html"><![CDATA[Riot Access Europe — €2.5 - €100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guess EUR]]></title>
+        <id>link-c3dcb41301186022cadc1afde9118871</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/guess-eur/"/>
+        <updated>2026-04-14T17:08:41.963Z</updated>
+        <content type="html"><![CDATA[Guess EUR — €25 - €100]]></content>
     </entry>
 </feed>

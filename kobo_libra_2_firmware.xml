@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pgaskin.net/KoboStuff/kobofirmware.html</id>
     <title>Kobo Libra 2 latest firmware</title>
-    <updated>2026-04-14T15:15:55.470Z</updated>
+    <updated>2026-04-14T17:10:29.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pgaskin.net/KoboStuff/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Kobo Libra 2 — 4.38.23648]]></title>
+        <title type="html"><![CDATA[Kobo Libra 2 — 4.38.23684]]></title>
         <id>link-a2b1a3522a28993c3227662e29718a21</id>
         <link href="https://api.kobobooks.com/1.0/ReleaseNotes/184"/>
         <updated>2026-04-01T02:38:20.973Z</updated>
-        <content type="html"><![CDATA[Kobo Libra 2 — kobo9 — 4.38.23648 — March 2026]]></content>
+        <content type="html"><![CDATA[Kobo Libra 2 — kobo9 — 4.38.23684 — April 2026]]></content>
     </entry>
 </feed>
