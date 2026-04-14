@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-14T19:18:28.717Z</updated>
+    <updated>2026-04-14T20:56:48.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>link-1b67e82424e72e953c8d844e6e8e2194</id>
         <link href="https://en.wikipedia.org/wiki/Kenneth_Chen_(Singaporean_politician)"/>
         <updated>2026-04-14T02:35:54.875Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Kenneth_Chen_(Singaporean_politician)" title="Kenneth Chen (Singaporean politician)">Kenneth Chen</a></b> joked about contesting the <a href="/wiki/1988_Singaporean_general_election" title="1988 Singaporean general election">1988 Singaporean general election</a>—then actually did?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Kenneth_Chen_(Singaporean_politician)" title="Kenneth Chen (Singaporean politician)">Kenneth Chen</a></b> joked about running in the <a href="/wiki/1988_Singaporean_general_election" title="1988 Singaporean general election">1988 Singaporean general election</a>—then actually did?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chatô, o Rei do Brasil]]></title>

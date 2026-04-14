@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-14T19:18:28.731Z</updated>
+    <updated>2026-04-14T20:56:48.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-60b6f671cde2dac73d49ba39e0801f94</id>
         <link href="https://news.ycombinator.com/item?id=47691730"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47691730">1920 points</span> by <a href="user?id=blkhp19" class="hnuser">blkhp19</a> <span class="age" title="2026-04-08T15:40:00 1775662800"><a href="item?id=47691730">6 days ago</a></span> <span id="unv_47691730"></span> | <a href="item?id=47691730">328&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html">I ported Mac OS X to the Nintendo Wii</a><span class="sitebit comhead"> (<a href="from?site=bryankeller.github.io"><span class="sitestr">bryankeller.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47691730">1921 points</span> by <a href="user?id=blkhp19" class="hnuser">blkhp19</a> <span class="age" title="2026-04-08T15:40:00 1775662800"><a href="item?id=47691730">6 days ago</a></span> <span id="unv_47691730"></span> | <a href="item?id=47691730">328&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html">I ported Mac OS X to the Nintendo Wii</a><span class="sitebit comhead"> (<a href="from?site=bryankeller.github.io"><span class="sitestr">bryankeller.github.io</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EFF is leaving X (eff.org)]]></title>
@@ -31,21 +31,21 @@
         <id>link-6461d011ca04e2338a61709b332f4ffe</id>
         <link href="https://news.ycombinator.com/item?id=47724352"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1398 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">3 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">674&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1398 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">3 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">675&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LittleSnitch for Linux (obdev.at)]]></title>
         <id>link-0bf0169b857f6ea83adfccd2b99bf317</id>
         <link href="https://news.ycombinator.com/item?id=47697870"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47697870">1370 points</span> by <a href="user?id=pluc" class="hnuser">pluc</a> <span class="age" title="2026-04-09T00:26:08 1775694368"><a href="item?id=47697870">5 days ago</a></span> <span id="unv_47697870"></span> | <a href="item?id=47697870">456&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://obdev.at/products/littlesnitch-linux/index.html">LittleSnitch for Linux</a><span class="sitebit comhead"> (<a href="from?site=obdev.at"><span class="sitestr">obdev.at</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47697870">1371 points</span> by <a href="user?id=pluc" class="hnuser">pluc</a> <span class="age" title="2026-04-09T00:26:08 1775694368"><a href="item?id=47697870">5 days ago</a></span> <span id="unv_47697870"></span> | <a href="item?id=47697870">456&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://obdev.at/products/littlesnitch-linux/index.html">LittleSnitch for Linux</a><span class="sitebit comhead"> (<a href="from?site=obdev.at"><span class="sitestr">obdev.at</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft terminated the account VeraCrypt used to sign Windows drivers (sourceforge.net)]]></title>
         <id>link-aa1a34f4611cbff2d8ebbad42a14fb4f</id>
         <link href="https://news.ycombinator.com/item?id=47686549"/>
         <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47686549">1291 points</span> by <a href="user?id=super256" class="hnuser">super256</a> <span class="age" title="2026-04-08T07:23:39 1775633019"><a href="item?id=47686549">6 days ago</a></span> <span id="unv_47686549"></span> | <a href="item?id=47686549">500&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/">Microsoft terminated the account VeraCrypt used to sign Windows drivers</a><span class="sitebit comhead"> (<a href="from?site=sourceforge.net"><span class="sitestr">sourceforge.net</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47686549">1292 points</span> by <a href="user?id=super256" class="hnuser">super256</a> <span class="age" title="2026-04-08T07:23:39 1775633019"><a href="item?id=47686549">6 days ago</a></span> <span id="unv_47686549"></span> | <a href="item?id=47686549">500&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/">Microsoft terminated the account VeraCrypt used to sign Windows drivers</a><span class="sitebit comhead"> (<a href="from?site=sourceforge.net"><span class="sitestr">sourceforge.net</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II safely splashes down (cbsnews.com)]]></title>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47732020">1271 points</span> by <a href="user?id=dominicq" class="hnuser">dominicq</a> <span class="age" title="2026-04-11T16:47:28 1775926048"><a href="item?id=47732020">3 days ago</a></span> <span id="unv_47732020"></span> | <a href="item?id=47732020">340&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier">Small models also found the vulnerabilities that Mythos found</a><span class="sitebit comhead"> (<a href="from?site=aisle.com"><span class="sitestr">aisle.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tell HN: Docker pull fails in Spain due to football Cloudflare block]]></title>
-        <id>link-f33cfa33ad6496a850601a29f7126030</id>
-        <link href="https://news.ycombinator.com/item?id=47738883"/>
-        <updated>2026-04-13T19:14:37.888Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47738883">1128 points</span> by <a href="user?id=littlecranky67" class="hnuser">littlecranky67</a> <span class="age" title="2026-04-12T12:28:57 1775996937"><a href="item?id=47738883">2 days ago</a></span> <span id="unv_47738883"></span> | <a href="item?id=47738883">414&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47738883">Tell HN: Docker pull fails in Spain due to football Cloudflare block</a></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Someone bought 30 WordPress plugins and planted a backdoor in all of them (anchor.host)]]></title>
         <id>link-b099ec834fe21cd1d9da502917979165</id>
         <link href="https://news.ycombinator.com/item?id=47755629"/>
         <updated>2026-04-14T13:27:19.998Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47755629">1124 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-04-13T17:54:39 1776102879"><a href="item?id=47755629">1 day ago</a></span> <span id="unv_47755629"></span> | <a href="item?id=47755629">315&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/">Someone bought 30 WordPress plugins and planted a backdoor in all of them</a><span class="sitebit comhead"> (<a href="from?site=anchor.host"><span class="sitestr">anchor.host</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47755629">1131 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-04-13T17:54:39 1776102879"><a href="item?id=47755629">1 day ago</a></span> <span id="unv_47755629"></span> | <a href="item?id=47755629">317&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/">Someone bought 30 WordPress plugins and planted a backdoor in all of them</a><span class="sitebit comhead"> (<a href="from?site=anchor.host"><span class="sitestr">anchor.host</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Docker pull fails in Spain due to football Cloudflare block]]></title>
+        <id>link-f33cfa33ad6496a850601a29f7126030</id>
+        <link href="https://news.ycombinator.com/item?id=47738883"/>
+        <updated>2026-04-13T19:14:37.888Z</updated>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47738883">1129 points</span> by <a href="user?id=littlecranky67" class="hnuser">littlecranky67</a> <span class="age" title="2026-04-12T12:28:57 1775996937"><a href="item?id=47738883">2 days ago</a></span> <span id="unv_47738883"></span> | <a href="item?id=47738883">415&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47738883">Tell HN: Docker pull fails in Spain due to football Cloudflare block</a></span>]]></content>
     </entry>
 </feed>
