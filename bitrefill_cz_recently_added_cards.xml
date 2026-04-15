@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-15T13:27:38.970Z</updated>
+    <updated>2026-04-15T15:07:17.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/sawa-play-international/"/>
         <updated>2026-04-08T09:01:48.686Z</updated>
         <content type="html"><![CDATA[Sawa Play International — $2.18 - $349]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic EU]]></title>
+        <id>link-6258f409e91efd772c8d46fa410ee7aa</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/epic-eur/"/>
+        <updated>2026-04-15T15:05:37.192Z</updated>
+        <content type="html"><![CDATA[Epic EU — €10 - €150]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wolt]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/"/>
         <updated>2026-04-13T09:55:53.641Z</updated>
         <content type="html"><![CDATA[Riot Access Europe — €2.5 - €100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guess EUR]]></title>
-        <id>link-c3dcb41301186022cadc1afde9118871</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/guess-eur/"/>
-        <updated>2026-04-14T17:08:41.963Z</updated>
-        <content type="html"><![CDATA[Guess EUR — €25 - €100]]></content>
     </entry>
 </feed>
