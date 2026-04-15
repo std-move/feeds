@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-15T20:52:43.155Z</updated>
+    <updated>2026-04-15T22:44:15.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,14 +17,14 @@
         <id>link-6461d011ca04e2338a61709b332f4ffe</id>
         <link href="https://news.ycombinator.com/item?id=47724352"/>
         <updated>2026-04-15T13:25:46.164Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1400 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">4 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">675&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47724352">1400 points</span> by <a href="user?id=normanvalentine" class="hnuser">normanvalentine</a> <span class="age" title="2026-04-10T22:16:40 1775859400"><a href="item?id=47724352">5 days ago</a></span> <span id="unv_47724352"></span> | <a href="item?id=47724352">675&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://kentwalters.com/posts/corners/">Filing the corners off my MacBooks</a><span class="sitebit comhead"> (<a href="from?site=kentwalters.com"><span class="sitestr">kentwalters.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LittleSnitch for Linux (obdev.at)]]></title>
         <id>link-0bf0169b857f6ea83adfccd2b99bf317</id>
         <link href="https://news.ycombinator.com/item?id=47697870"/>
         <updated>2026-04-15T13:25:46.164Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47697870">1373 points</span> by <a href="user?id=pluc" class="hnuser">pluc</a> <span class="age" title="2026-04-09T00:26:08 1775694368"><a href="item?id=47697870">6 days ago</a></span> <span id="unv_47697870"></span> | <a href="item?id=47697870">456&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://obdev.at/products/littlesnitch-linux/index.html">LittleSnitch for Linux</a><span class="sitebit comhead"> (<a href="from?site=obdev.at"><span class="sitestr">obdev.at</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47697870">1374 points</span> by <a href="user?id=pluc" class="hnuser">pluc</a> <span class="age" title="2026-04-09T00:26:08 1775694368"><a href="item?id=47697870">6 days ago</a></span> <span id="unv_47697870"></span> | <a href="item?id=47697870">456&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://obdev.at/products/littlesnitch-linux/index.html">LittleSnitch for Linux</a><span class="sitebit comhead"> (<a href="from?site=obdev.at"><span class="sitestr">obdev.at</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II safely splashes down (cbsnews.com)]]></title>
@@ -45,34 +45,34 @@
         <id>link-b099ec834fe21cd1d9da502917979165</id>
         <link href="https://news.ycombinator.com/item?id=47755629"/>
         <updated>2026-04-15T13:25:46.164Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47755629">1178 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-04-13T17:54:39 1776102879"><a href="item?id=47755629">2 days ago</a></span> <span id="unv_47755629"></span> | <a href="item?id=47755629">331&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/">Someone bought 30 WordPress plugins and planted a backdoor in all of them</a><span class="sitebit comhead"> (<a href="from?site=anchor.host"><span class="sitestr">anchor.host</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47755629">1178 points</span> by <a href="user?id=speckx" class="hnuser">speckx</a> <span class="age" title="2026-04-13T17:54:39 1776102879"><a href="item?id=47755629">2 days ago</a></span> <span id="unv_47755629"></span> | <a href="item?id=47755629">334&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/">Someone bought 30 WordPress plugins and planted a backdoor in all of them</a><span class="sitebit comhead"> (<a href="from?site=anchor.host"><span class="sitestr">anchor.host</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Docker pull fails in Spain due to football Cloudflare block]]></title>
         <id>link-f33cfa33ad6496a850601a29f7126030</id>
         <link href="https://news.ycombinator.com/item?id=47738883"/>
         <updated>2026-04-15T13:25:46.164Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47738883">1138 points</span> by <a href="user?id=littlecranky67" class="hnuser">littlecranky67</a> <span class="age" title="2026-04-12T12:28:57 1775996937"><a href="item?id=47738883">3 days ago</a></span> <span id="unv_47738883"></span> | <a href="item?id=47738883">420&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47738883">Tell HN: Docker pull fails in Spain due to football Cloudflare block</a></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47738883">1139 points</span> by <a href="user?id=littlecranky67" class="hnuser">littlecranky67</a> <span class="age" title="2026-04-12T12:28:57 1775996937"><a href="item?id=47738883">3 days ago</a></span> <span id="unv_47738883"></span> | <a href="item?id=47738883">420&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47738883">Tell HN: Docker pull fails in Spain due to football Cloudflare block</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DaVinci Resolve – Photo (blackmagicdesign.com)]]></title>
         <id>link-00744f644ab013a37f6bd24ee2c31c4c</id>
         <link href="https://news.ycombinator.com/item?id=47760529"/>
         <updated>2026-04-15T13:25:46.164Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47760529">1118 points</span> by <a href="user?id=thebiblelover7" class="hnuser">thebiblelover7</a> <span class="age" title="2026-04-14T02:25:15 1776133515"><a href="item?id=47760529">1 day ago</a></span> <span id="unv_47760529"></span> | <a href="item?id=47760529">291&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.blackmagicdesign.com/products/davinciresolve/photo">DaVinci Resolve – Photo</a><span class="sitebit comhead"> (<a href="from?site=blackmagicdesign.com"><span class="sitestr">blackmagicdesign.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47760529">1119 points</span> by <a href="user?id=thebiblelover7" class="hnuser">thebiblelover7</a> <span class="age" title="2026-04-14T02:25:15 1776133515"><a href="item?id=47760529">1 day ago</a></span> <span id="unv_47760529"></span> | <a href="item?id=47760529">291&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.blackmagicdesign.com/products/davinciresolve/photo">DaVinci Resolve – Photo</a><span class="sitebit comhead"> (<a href="from?site=blackmagicdesign.com"><span class="sitestr">blackmagicdesign.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others (rareese.com)]]></title>
         <id>link-8221ebec176a8b7b5a491495c40acf4b</id>
         <link href="https://news.ycombinator.com/item?id=47762864"/>
         <updated>2026-04-15T13:25:46.164Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47762864">1095 points</span> by <a href="user?id=rrreese" class="hnuser">rrreese</a> <span class="age" title="2026-04-14T08:30:27 1776155427"><a href="item?id=47762864">1 day ago</a></span> <span id="unv_47762864"></span> | <a href="item?id=47762864">654&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rareese.com/posts/backblaze/">Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others</a><span class="sitebit comhead"> (<a href="from?site=rareese.com"><span class="sitestr">rareese.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47762864">1098 points</span> by <a href="user?id=rrreese" class="hnuser">rrreese</a> <span class="age" title="2026-04-14T08:30:27 1776155427"><a href="item?id=47762864">1 day ago</a></span> <span id="unv_47762864"></span> | <a href="item?id=47762864">660&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rareese.com/posts/backblaze/">Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others</a><span class="sitebit comhead"> (<a href="from?site=rareese.com"><span class="sitestr">rareese.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1D Chess (rowan441.github.io)]]></title>
         <id>link-26cfe822bbad2352c6270cd93f0f2e03</id>
         <link href="https://news.ycombinator.com/item?id=47719740"/>
         <updated>2026-04-15T17:05:01.741Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47719740">991 points</span> by <a href="user?id=burnt-resistor" class="hnuser">burnt-resistor</a> <span class="age" title="2026-04-10T15:37:28 1775835448"><a href="item?id=47719740">5 days ago</a></span> <span id="unv_47719740"></span> | <a href="item?id=47719740">175&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rowan441.github.io/1dchess/chess.html">1D Chess</a><span class="sitebit comhead"> (<a href="from?site=rowan441.github.io"><span class="sitestr">rowan441.github.io</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47719740">992 points</span> by <a href="user?id=burnt-resistor" class="hnuser">burnt-resistor</a> <span class="age" title="2026-04-10T15:37:28 1775835448"><a href="item?id=47719740">5 days ago</a></span> <span id="unv_47719740"></span> | <a href="item?id=47719740">175&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rowan441.github.io/1dchess/chess.html">1D Chess</a><span class="sitebit comhead"> (<a href="from?site=rowan441.github.io"><span class="sitestr">rowan441.github.io</span></a>)</span></span>]]></content>
     </entry>
 </feed>
