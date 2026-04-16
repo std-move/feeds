@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-16T19:17:38.731Z</updated>
+    <updated>2026-04-16T20:51:40.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ DJI Osmo Pocket 4 - truly pocketable content machine!]]></title>
+        <id>link-85b33839fe5a3a8e0a2c8d1c0dc130ab</id>
+        <link href="https://www.notebookcheck.net/DJI-Osmo-Pocket-4-truly-pocketable-content-machine.1276164.0.html"/>
+        <updated>2026-04-16T20:50:04.663Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9999-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9999-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9999-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9999-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9999-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9999-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/6/csm_thumb9999_869a85e6c1.jpg" loading="lazy" alt="DJI Osmo Pocket 4 - truly pocketable content machine!"></picture><div class="intro_featured_bar_title">▶ DJI Osmo Pocket 4 - truly pocketable content machine!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elgato Stream Deck+ with XLR Dock MK.2 review: Why this setup improves any PC]]></title>
         <id>link-22a8835c5128fc8ecf0ec82a9c75ad7e</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Will-the-Exynos-2600-save-the-unwanted-flagship-Samsung-Galaxy-S26-review.1272005.0.html"/>
         <updated>2026-04-13T17:04:21.239Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/2/csm_Samsung_Galaxy_S26_Plus_Test_2_55a14d151e.jpg" loading="lazy" alt="Samsung Galaxy S26 Plus review"></picture><div class="intro_featured_bar_title">Cheaper alternative to the Galaxy S26 Ultra in the review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JBL Quantum 950 review]]></title>
-        <id>link-d33499bcd5137b660b0f55b58e822518</id>
-        <link href="https://www.notebookcheck.net/JBL-Quantum-950-review-Versatile-headset-impresses-in-the-test-with-build-quality-and-features.1272147.0.html"/>
-        <updated>2026-04-13T17:04:21.239Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/JBLQuantum9501318-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/JBLQuantum9501318-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/JBLQuantum9501318-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/JBLQuantum9501318-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/JBLQuantum9501318-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/JBLQuantum9501318-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/a/csm_JBLQuantum9501318_d16dc42a1c.jpg" loading="lazy" alt="JBL Quantum 950 review: Versatile headset impresses in the test with build quality and features"></picture><div class="intro_featured_bar_title">JBL Quantum 950 review</div>]]></content>
     </entry>
 </feed>
