@@ -5,16 +5,16 @@
 	"elements": [
 		{
 			"id": "link-7f27c71aca95bdf0cf815006b9d9c9e7",
-			"title": "PFL Belfast — 2026-04-16 14:30:00 -0400",
+			"title": "PFL Belfast — 2026-04-16 14:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/138222-pfl-boston",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138222-pfl-boston\">PFL Belfast</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-16 14:30:00 -0400\">in 19 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138222-pfl-boston\">PFL Belfast</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-16 14:00:00 -0400\">in 15 hours</abbr>\n</td>",
 			"retrieved": 1775890917499
 		},
 		{
 			"id": "link-9b14ed62d470b56daff420bfc71c4f29",
 			"title": "LFA 231 — 2026-04-17 20:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140675-lfa-231-trembley-vs-johns",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140675-lfa-231-trembley-vs-johns\">LFA 231</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-17 20:00:00 -0400\">in 2 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140675-lfa-231-trembley-vs-johns\">LFA 231</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-17 20:00:00 -0400\">in 1 day</abbr>\n</td>",
 			"retrieved": 1775925467165
 		},
 		{
