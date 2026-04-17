@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-17T02:38:17.220Z</updated>
+    <updated>2026-04-17T06:05:57.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>link-7d199180f20fc9737bc77e86629afa77</id>
         <link href="https://news.ycombinator.com/item?id=47782570"/>
         <updated>2026-04-16T15:26:32.512Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47782570">1668 points</span> by <a href="user?id=Brajeshwar" class="hnuser">Brajeshwar</a> <span class="age" title="2026-04-15T17:44:26 1776275066"><a href="item?id=47782570">1 day ago</a></span> <span id="unv_47782570"></span> | <a href="item?id=47782570">740&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data">Google broke its promise to me – now ICE has my data</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47782570">1673 points</span> by <a href="user?id=Brajeshwar" class="hnuser">Brajeshwar</a> <span class="age" title="2026-04-15T17:44:26 1776275066"><a href="item?id=47782570">1 day ago</a></span> <span id="unv_47782570"></span> | <a href="item?id=47782570">739&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data">Google broke its promise to me – now ICE has my data</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Opus 4.7 (anthropic.com)]]></title>
         <id>link-9c3bb6d41dac9340bcb455227b189a0d</id>
         <link href="https://news.ycombinator.com/item?id=47793411"/>
         <updated>2026-04-16T19:15:41.269Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47793411">1507 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-16T14:23:50 1776349430"><a href="item?id=47793411">12 hours ago</a></span> <span id="unv_47793411"></span> | <a href="item?id=47793411">1080&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-7">Claude Opus 4.7</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47793411">1627 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-16T14:23:50 1776349430"><a href="item?id=47793411">15 hours ago</a></span> <span id="unv_47793411"></span> | <a href="item?id=47793411">1143&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-7">Claude Opus 4.7</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Someone bought 30 WordPress plugins and planted a backdoor in all of them (anchor.host)]]></title>
@@ -31,35 +31,35 @@
         <id>link-00744f644ab013a37f6bd24ee2c31c4c</id>
         <link href="https://news.ycombinator.com/item?id=47760529"/>
         <updated>2026-04-16T15:26:32.512Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47760529">1133 points</span> by <a href="user?id=thebiblelover7" class="hnuser">thebiblelover7</a> <span class="age" title="2026-04-14T02:25:15 1776133515"><a href="item?id=47760529">3 days ago</a></span> <span id="unv_47760529"></span> | <a href="item?id=47760529">294&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.blackmagicdesign.com/products/davinciresolve/photo">DaVinci Resolve – Photo</a><span class="sitebit comhead"> (<a href="from?site=blackmagicdesign.com"><span class="sitestr">blackmagicdesign.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47760529">1134 points</span> by <a href="user?id=thebiblelover7" class="hnuser">thebiblelover7</a> <span class="age" title="2026-04-14T02:25:15 1776133515"><a href="item?id=47760529">3 days ago</a></span> <span id="unv_47760529"></span> | <a href="item?id=47760529">294&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.blackmagicdesign.com/products/davinciresolve/photo">DaVinci Resolve – Photo</a><span class="sitebit comhead"> (<a href="from?site=blackmagicdesign.com"><span class="sitestr">blackmagicdesign.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others (rareese.com)]]></title>
         <id>link-8221ebec176a8b7b5a491495c40acf4b</id>
         <link href="https://news.ycombinator.com/item?id=47762864"/>
         <updated>2026-04-16T15:26:32.512Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47762864">1117 points</span> by <a href="user?id=rrreese" class="hnuser">rrreese</a> <span class="age" title="2026-04-14T08:30:27 1776155427"><a href="item?id=47762864">2 days ago</a></span> <span id="unv_47762864"></span> | <a href="item?id=47762864">687&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rareese.com/posts/backblaze/">Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others</a><span class="sitebit comhead"> (<a href="from?site=rareese.com"><span class="sitestr">rareese.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Flock (stopflock.com)]]></title>
-        <id>link-ac9874b685b56ff5a28e32f1db684029</id>
-        <link href="https://news.ycombinator.com/item?id=47772012"/>
-        <updated>2026-04-16T15:26:32.512Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47772012">977 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-04-14T21:56:05 1776203765"><a href="item?id=47772012">2 days ago</a></span> <span id="unv_47772012"></span> | <a href="item?id=47772012">302&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stopflock.com">Stop Flock</a><span class="sitebit comhead"> (<a href="from?site=stopflock.com"><span class="sitestr">stopflock.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47762864">1120 points</span> by <a href="user?id=rrreese" class="hnuser">rrreese</a> <span class="age" title="2026-04-14T08:30:27 1776155427"><a href="item?id=47762864">2 days ago</a></span> <span id="unv_47762864"></span> | <a href="item?id=47762864">687&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://rareese.com/posts/backblaze/">Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others</a><span class="sitebit comhead"> (<a href="from?site=rareese.com"><span class="sitestr">rareese.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Qwen3.6-35B-A3B: Agentic coding power, now open to all (qwen.ai)]]></title>
         <id>link-99430d71ffdf6b36bf7b464a56ced1d4</id>
         <link href="https://news.ycombinator.com/item?id=47792764"/>
         <updated>2026-04-16T22:40:42.338Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47792764">927 points</span> by <a href="user?id=cmitsakis" class="hnuser">cmitsakis</a> <span class="age" title="2026-04-16T13:36:27 1776346587"><a href="item?id=47792764">12 hours ago</a></span> <span id="unv_47792764"></span> | <a href="item?id=47792764">417&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3.6-35b-a3b">Qwen3.6-35B-A3B: Agentic coding power, now open to all</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47792764">1011 points</span> by <a href="user?id=cmitsakis" class="hnuser">cmitsakis</a> <span class="age" title="2026-04-16T13:36:27 1776346587"><a href="item?id=47792764">16 hours ago</a></span> <span id="unv_47792764"></span> | <a href="item?id=47792764">438&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3.6-35b-a3b">Qwen3.6-35B-A3B: Agentic coding power, now open to all</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Flock (stopflock.com)]]></title>
+        <id>link-ac9874b685b56ff5a28e32f1db684029</id>
+        <link href="https://news.ycombinator.com/item?id=47772012"/>
+        <updated>2026-04-16T15:26:32.512Z</updated>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47772012">979 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-04-14T21:56:05 1776203765"><a href="item?id=47772012">2 days ago</a></span> <span id="unv_47772012"></span> | <a href="item?id=47772012">303&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stopflock.com">Stop Flock</a><span class="sitebit comhead"> (<a href="from?site=stopflock.com"><span class="sitestr">stopflock.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A new spam policy for “back button hijacking” (developers.google.com)]]></title>
         <id>link-c61417adf9dd536d2dba05398d0c5ee6</id>
         <link href="https://news.ycombinator.com/item?id=47760764"/>
         <updated>2026-04-16T15:26:32.512Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47760764">904 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-04-14T03:06:27 1776135987"><a href="item?id=47760764">2 days ago</a></span> <span id="unv_47760764"></span> | <a href="item?id=47760764">511&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://developers.google.com/search/blog/2026/04/back-button-hijacking">A new spam policy for “back button hijacking”</a><span class="sitebit comhead"> (<a href="from?site=developers.google.com"><span class="sitestr">developers.google.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47760764">904 points</span> by <a href="user?id=zdw" class="hnuser">zdw</a> <span class="age" title="2026-04-14T03:06:27 1776135987"><a href="item?id=47760764">3 days ago</a></span> <span id="unv_47760764"></span> | <a href="item?id=47760764">511&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://developers.google.com/search/blog/2026/04/back-button-hijacking">A new spam policy for “back button hijacking”</a><span class="sitebit comhead"> (<a href="from?site=developers.google.com"><span class="sitestr">developers.google.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Stacked PRs (github.github.com)]]></title>
@@ -73,6 +73,6 @@
         <id>link-1549b748d290242405ffeaacbfecf2eb</id>
         <link href="https://news.ycombinator.com/item?id=47746610"/>
         <updated>2026-04-16T22:40:42.338Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47746610">848 points</span> by <a href="user?id=pizza" class="hnuser">pizza</a> <span class="age" title="2026-04-13T01:49:32 1776044972"><a href="item?id=47746610">4 days ago</a></span> <span id="unv_47746610"></span> | <a href="item?id=47746610">291&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arxiv.org/abs/2603.21852">All elementary functions from a single binary operator</a><span class="sitebit comhead"> (<a href="from?site=arxiv.org"><span class="sitestr">arxiv.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47746610">848 points</span> by <a href="user?id=pizza" class="hnuser">pizza</a> <span class="age" title="2026-04-13T01:49:32 1776044972"><a href="item?id=47746610">4 days ago</a></span> <span id="unv_47746610"></span> | <a href="item?id=47746610">292&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://arxiv.org/abs/2603.21852">All elementary functions from a single binary operator</a><span class="sitebit comhead"> (<a href="from?site=arxiv.org"><span class="sitestr">arxiv.org</span></a>)</span></span>]]></content>
     </entry>
 </feed>
