@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-a910e44a81d42dd42006b0f30c6c97ce",
+			"title": "Nvidia GeForce Now India Review: No rig required",
+			"link": "https://www.notebookcheck.net/Nvidia-GeForce-Now-India-Review-The-cloud-gaming-service-you-ve-been-waiting-for.1275442.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/NVIDIA/GeForce_Now_India/geforce-now-india-launch-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/NVIDIA/GeForce_Now_India/geforce-now-india-launch-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/NVIDIA/GeForce_Now_India/geforce-now-india-launch-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/NVIDIA/GeForce_Now_India/geforce-now-india-launch-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/NVIDIA/GeForce_Now_India/geforce-now-india-launch-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/NVIDIA/GeForce_Now_India/geforce-now-india-launch-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/0/csm_geforce-now-india-launch_77343542c0.jpg\" loading=\"lazy\" alt=\"Nvidia GeForce Now tested in India\"></picture><div class=\"intro_featured_bar_title\">Nvidia GeForce Now India Review: No rig required</div>",
+			"retrieved": 1776423401669
+		},
+		{
 			"id": "link-85b33839fe5a3a8e0a2c8d1c0dc130ab",
 			"title": "▶ DJI Osmo Pocket 4 - truly pocketable content machine!",
 			"link": "https://www.notebookcheck.net/DJI-Osmo-Pocket-4-truly-pocketable-content-machine.1276164.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/The-350-OLED-upgrade-for-your-laptop-Alienware-AW2726DM.1273741.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9660-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9660-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9660-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9660-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9660-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9660-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/9/csm_thumb9660_a5d2862a48.jpg\" loading=\"lazy\" alt=\"The $350 OLED upgrade for your laptop - Alienware AW2726DM\"></picture><div class=\"intro_featured_bar_title\">▶ The $350 OLED upgrade for your laptop!</div>",
 			"retrieved": 1776173239998
-		},
-		{
-			"id": "link-8a98bca6999d858eecd57663ea16cca1",
-			"title": "Cheaper alternative to the Galaxy S26 Ultra in the review",
-			"link": "https://www.notebookcheck.net/Will-the-Exynos-2600-save-the-unwanted-flagship-Samsung-Galaxy-S26-review.1272005.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Plus/Samsung_Galaxy_S26_Plus_Test_2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/2/csm_Samsung_Galaxy_S26_Plus_Test_2_55a14d151e.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy S26 Plus review\"></picture><div class=\"intro_featured_bar_title\">Cheaper alternative to the Galaxy S26 Ultra in the review</div>",
-			"retrieved": 1776099861239
 		}
 	]
 }
