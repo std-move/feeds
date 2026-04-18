@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-04-18T20:40:39.124Z</updated>
+    <updated>2026-04-18T22:37:50.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png</icon>
-    <entry>
-        <title type="html"><![CDATA[UFC Fight Night — 2026-04-18 17:00:00 -0400]]></title>
-        <id>link-f6f076070e0c1d502254b60770060993</id>
-        <link href="https://www.tapology.com/fightcenter/events/139670-ufc-fight-night"/>
-        <updated>2026-04-11T22:33:10.284Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/139670-ufc-fight-night">UFC Fight Night</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-04-18 17:00:00 -0400">in 22 minutes</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[OKTAGON 87 — 2026-04-25 11:00:00 -0400]]></title>
         <id>link-ea2b896f803c779334430094cb86fc3b</id>
@@ -62,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140114-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-04-25 17:00:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-04-25 17:00:00 -0400">in 6 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-05-02 04:00:00 -0400">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFL Sioux Falls — 2026-05-02 19:00:00 -0400]]></title>
+        <id>link-2db42cf9f957a44ea6b4ceffdd702a08</id>
+        <link href="https://www.tapology.com/fightcenter/events/140389-pfl-sioux-falls"/>
+        <updated>2026-04-18T22:35:57.313Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140389-pfl-sioux-falls">PFL Sioux Falls</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-05-02 19:00:00 -0400">in 2 weeks</abbr>
 </td>]]></content>
     </entry>
 </feed>
