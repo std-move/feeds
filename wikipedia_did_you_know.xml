@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-19T20:40:58.631Z</updated>
+    <updated>2026-04-19T22:39:12.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>link-e7e611cc7c24dc92eb7fdbc398bfd6d9</id>
         <link href="https://en.wikipedia.org/wiki/Airplane_film"/>
         <updated>2026-04-19T02:42:53.597Z</updated>
-        <content type="html"><![CDATA[... that the 2018 film <i><a href="/wiki/Crazy_Rich_Asians" title="Crazy Rich Asians">Crazy Rich Asians</a></i> has been considered one of the best <b><a href="/wiki/Airplane_film" title="Airplane film">airplane films</a></b>?]]></content>
+        <content type="html"><![CDATA[... that the 2018 film <i><a href="/wiki/Crazy_Rich_Asians" title="Crazy Rich Asians">Crazy Rich Asians</a></i> has been considered one of the best <b><a href="/wiki/Airplane_film" class="mw-redirect" title="Airplane film">airplane films</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the Galleria]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-19T20:40:58.649Z</updated>
+    <updated>2026-04-19T22:39:12.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-7d199180f20fc9737bc77e86629afa77</id>
         <link href="https://news.ycombinator.com/item?id=47782570"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47782570">1702 points</span> by <a href="user?id=Brajeshwar" class="hnuser">Brajeshwar</a> <span class="age" title="2026-04-15T17:44:26 1776275066"><a href="item?id=47782570">4 days ago</a></span> <span id="unv_47782570"></span> | <a href="item?id=47782570">764&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data">Google broke its promise to me – now ICE has my data</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47782570">1703 points</span> by <a href="user?id=Brajeshwar" class="hnuser">Brajeshwar</a> <span class="age" title="2026-04-15T17:44:26 1776275066"><a href="item?id=47782570">4 days ago</a></span> <span id="unv_47782570"></span> | <a href="item?id=47782570">764&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data">Google broke its promise to me – now ICE has my data</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Qwen3.6-35B-A3B: Agentic coding power, now open to all (qwen.ai)]]></title>
@@ -31,28 +31,28 @@
         <id>link-60109c88e5b721a46d0eaed881fcd668</id>
         <link href="https://news.ycombinator.com/item?id=47806725"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47806725">1210 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-17T15:04:09 1776438249"><a href="item?id=47806725">2 days ago</a></span> <span id="unv_47806725"></span> | <a href="item?id=47806725">748&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Claude Design</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47806725">1214 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-17T15:04:09 1776438249"><a href="item?id=47806725">2 days ago</a></span> <span id="unv_47806725"></span> | <a href="item?id=47806725">748&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Claude Design</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Codex for almost everything (openai.com)]]></title>
         <id>link-cceb50bd909d906ad23061afbad09ddb</id>
         <link href="https://news.ycombinator.com/item?id=47796469"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47796469">998 points</span> by <a href="user?id=mikeevans" class="hnuser">mikeevans</a> <span class="age" title="2026-04-16T17:12:19 1776359539"><a href="item?id=47796469">3 days ago</a></span> <span id="unv_47796469"></span> | <a href="item?id=47796469">553&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/codex-for-almost-everything/">Codex for almost everything</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47796469">998 points</span> by <a href="user?id=mikeevans" class="hnuser">mikeevans</a> <span class="age" title="2026-04-16T17:12:19 1776359539"><a href="item?id=47796469">3 days ago</a></span> <span id="unv_47796469"></span> | <a href="item?id=47796469">554&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/codex-for-almost-everything/">Codex for almost everything</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stop Flock (stopflock.com)]]></title>
         <id>link-ac9874b685b56ff5a28e32f1db684029</id>
         <link href="https://news.ycombinator.com/item?id=47772012"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47772012">988 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-04-14T21:56:05 1776203765"><a href="item?id=47772012">4 days ago</a></span> <span id="unv_47772012"></span> | <a href="item?id=47772012">307&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stopflock.com">Stop Flock</a><span class="sitebit comhead"> (<a href="from?site=stopflock.com"><span class="sitestr">stopflock.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47772012">988 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-04-14T21:56:05 1776203765"><a href="item?id=47772012">5 days ago</a></span> <span id="unv_47772012"></span> | <a href="item?id=47772012">307&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stopflock.com">Stop Flock</a><span class="sitebit comhead"> (<a href="from?site=stopflock.com"><span class="sitestr">stopflock.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Migrating from DigitalOcean to Hetzner (isayeter.com)]]></title>
         <id>link-0515391d2a0301ec1f65a77ed4ea0ee4</id>
         <link href="https://news.ycombinator.com/item?id=47815774"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47815774">852 points</span> by <a href="user?id=yusufusta" class="hnuser">yusufusta</a> <span class="age" title="2026-04-18T13:29:04 1776518944"><a href="item?id=47815774">1 day ago</a></span> <span id="unv_47815774"></span> | <a href="item?id=47815774">420&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/">Migrating from DigitalOcean to Hetzner</a><span class="sitebit comhead"> (<a href="from?site=isayeter.com"><span class="sitestr">isayeter.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47815774">856 points</span> by <a href="user?id=yusufusta" class="hnuser">yusufusta</a> <span class="age" title="2026-04-18T13:29:04 1776518944"><a href="item?id=47815774">1 day ago</a></span> <span id="unv_47815774"></span> | <a href="item?id=47815774">420&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/">Migrating from DigitalOcean to Hetzner</a><span class="sitebit comhead"> (<a href="from?site=isayeter.com"><span class="sitestr">isayeter.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Fiverr left customer files public and searchable]]></title>
