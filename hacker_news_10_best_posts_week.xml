@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-19T10:41:10.204Z</updated>
+    <updated>2026-04-19T13:04:55.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-9c3bb6d41dac9340bcb455227b189a0d</id>
         <link href="https://news.ycombinator.com/item?id=47793411"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47793411">1949 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-16T14:23:50 1776349430"><a href="item?id=47793411">2 days ago</a></span> <span id="unv_47793411"></span> | <a href="item?id=47793411">1440&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-7">Claude Opus 4.7</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47793411">1949 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-16T14:23:50 1776349430"><a href="item?id=47793411">2 days ago</a></span> <span id="unv_47793411"></span> | <a href="item?id=47793411">1441&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-7">Claude Opus 4.7</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google broke its promise to me – now ICE has my data (eff.org)]]></title>
@@ -24,28 +24,28 @@
         <id>link-99430d71ffdf6b36bf7b464a56ced1d4</id>
         <link href="https://news.ycombinator.com/item?id=47792764"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47792764">1257 points</span> by <a href="user?id=cmitsakis" class="hnuser">cmitsakis</a> <span class="age" title="2026-04-16T13:36:27 1776346587"><a href="item?id=47792764">2 days ago</a></span> <span id="unv_47792764"></span> | <a href="item?id=47792764">528&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3.6-35b-a3b">Qwen3.6-35B-A3B: Agentic coding power, now open to all</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47792764">1258 points</span> by <a href="user?id=cmitsakis" class="hnuser">cmitsakis</a> <span class="age" title="2026-04-16T13:36:27 1776346587"><a href="item?id=47792764">2 days ago</a></span> <span id="unv_47792764"></span> | <a href="item?id=47792764">528&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3.6-35b-a3b">Qwen3.6-35B-A3B: Agentic coding power, now open to all</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Design (anthropic.com)]]></title>
         <id>link-60109c88e5b721a46d0eaed881fcd668</id>
         <link href="https://news.ycombinator.com/item?id=47806725"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47806725">1196 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-17T15:04:09 1776438249"><a href="item?id=47806725">1 day ago</a></span> <span id="unv_47806725"></span> | <a href="item?id=47806725">745&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Claude Design</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47806725">1200 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-17T15:04:09 1776438249"><a href="item?id=47806725">1 day ago</a></span> <span id="unv_47806725"></span> | <a href="item?id=47806725">746&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Claude Design</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Codex for almost everything (openai.com)]]></title>
         <id>link-cceb50bd909d906ad23061afbad09ddb</id>
         <link href="https://news.ycombinator.com/item?id=47796469"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47796469">993 points</span> by <a href="user?id=mikeevans" class="hnuser">mikeevans</a> <span class="age" title="2026-04-16T17:12:19 1776359539"><a href="item?id=47796469">2 days ago</a></span> <span id="unv_47796469"></span> | <a href="item?id=47796469">547&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/codex-for-almost-everything/">Codex for almost everything</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47796469">995 points</span> by <a href="user?id=mikeevans" class="hnuser">mikeevans</a> <span class="age" title="2026-04-16T17:12:19 1776359539"><a href="item?id=47796469">2 days ago</a></span> <span id="unv_47796469"></span> | <a href="item?id=47796469">547&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/codex-for-almost-everything/">Codex for almost everything</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stop Flock (stopflock.com)]]></title>
         <id>link-ac9874b685b56ff5a28e32f1db684029</id>
         <link href="https://news.ycombinator.com/item?id=47772012"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47772012">985 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-04-14T21:56:05 1776203765"><a href="item?id=47772012">4 days ago</a></span> <span id="unv_47772012"></span> | <a href="item?id=47772012">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stopflock.com">Stop Flock</a><span class="sitebit comhead"> (<a href="from?site=stopflock.com"><span class="sitestr">stopflock.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47772012">986 points</span> by <a href="user?id=cdrnsf" class="hnuser">cdrnsf</a> <span class="age" title="2026-04-14T21:56:05 1776203765"><a href="item?id=47772012">4 days ago</a></span> <span id="unv_47772012"></span> | <a href="item?id=47772012">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://stopflock.com">Stop Flock</a><span class="sitebit comhead"> (<a href="from?site=stopflock.com"><span class="sitestr">stopflock.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Fiverr left customer files public and searchable]]></title>
@@ -55,24 +55,24 @@
         <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47769796">824 points</span> by <a href="user?id=morpheuskafka" class="hnuser">morpheuskafka</a> <span class="age" title="2026-04-14T18:56:40 1776193000"><a href="item?id=47769796">4 days ago</a></span> <span id="unv_47769796"></span> | <a href="item?id=47769796">231&nbsp;comments</a></span></td> — <span class="titleline"><a href="item?id=47769796">Tell HN: Fiverr left customer files public and searchable</a></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IPv6 traffic crosses the 50% mark (google.com)]]></title>
-        <id>link-9a4fe766da4272a2f64ea9e5879910c8</id>
-        <link href="https://news.ycombinator.com/item?id=47777894"/>
-        <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47777894">808 points</span> by <a href="user?id=Aaronmacaron" class="hnuser">Aaronmacaron</a> <span class="age" title="2026-04-15T11:59:49 1776254389"><a href="item?id=47777894">3 days ago</a></span> <span id="unv_47777894"></span> | <a href="item?id=47777894">612&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197">IPv6 traffic crosses the 50% mark</a><span class="sitebit comhead"> (<a href="from?site=google.com"><span class="sitestr">google.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Migrating from DigitalOcean to Hetzner (isayeter.com)]]></title>
         <id>link-0515391d2a0301ec1f65a77ed4ea0ee4</id>
         <link href="https://news.ycombinator.com/item?id=47815774"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47815774">786 points</span> by <a href="user?id=yusufusta" class="hnuser">yusufusta</a> <span class="age" title="2026-04-18T13:29:04 1776518944"><a href="item?id=47815774">21 hours ago</a></span> <span id="unv_47815774"></span> | <a href="item?id=47815774">396&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/">Migrating from DigitalOcean to Hetzner</a><span class="sitebit comhead"> (<a href="from?site=isayeter.com"><span class="sitestr">isayeter.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47815774">810 points</span> by <a href="user?id=yusufusta" class="hnuser">yusufusta</a> <span class="age" title="2026-04-18T13:29:04 1776518944"><a href="item?id=47815774">23 hours ago</a></span> <span id="unv_47815774"></span> | <a href="item?id=47815774">405&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/">Migrating from DigitalOcean to Hetzner</a><span class="sitebit comhead"> (<a href="from?site=isayeter.com"><span class="sitestr">isayeter.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPv6 traffic crosses the 50% mark (google.com)]]></title>
+        <id>link-9a4fe766da4272a2f64ea9e5879910c8</id>
+        <link href="https://news.ycombinator.com/item?id=47777894"/>
+        <updated>2026-04-19T07:42:02.214Z</updated>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47777894">809 points</span> by <a href="user?id=Aaronmacaron" class="hnuser">Aaronmacaron</a> <span class="age" title="2026-04-15T11:59:49 1776254389"><a href="item?id=47777894">3 days ago</a></span> <span id="unv_47777894"></span> | <a href="item?id=47777894">614&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197">IPv6 traffic crosses the 50% mark</a><span class="sitebit comhead"> (<a href="from?site=google.com"><span class="sitestr">google.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Isaac Asimov: The Last Question (1956) (hex.ooo)]]></title>
         <id>link-8b28bf339e319cb077b79a38c16cfed9</id>
         <link href="https://news.ycombinator.com/item?id=47804965"/>
         <updated>2026-04-19T07:42:02.214Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47804965">762 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-04-17T12:01:19 1776427279"><a href="item?id=47804965">1 day ago</a></span> <span id="unv_47804965"></span> | <a href="item?id=47804965">300&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hex.ooo/library/last_question.html">Isaac Asimov: The Last Question (1956)</a><span class="sitebit comhead"> (<a href="from?site=hex.ooo"><span class="sitestr">hex.ooo</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47804965">765 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-04-17T12:01:19 1776427279"><a href="item?id=47804965">2 days ago</a></span> <span id="unv_47804965"></span> | <a href="item?id=47804965">300&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hex.ooo/library/last_question.html">Isaac Asimov: The Last Question (1956)</a><span class="sitebit comhead"> (<a href="from?site=hex.ooo"><span class="sitestr">hex.ooo</span></a>)</span></span>]]></content>
     </entry>
 </feed>

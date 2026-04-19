@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-02944f0168953fe7c8ac2c88a08691c2",
+			"title": "▶ Forget the \"big\" laptop brands!",
+			"link": "https://www.notebookcheck.net/The-best-Gaming-Creator-laptops-you-never-heard-of.1277829.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4956-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4956-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4956-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4956-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4956-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4956-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/6/csm_thumb4956_de0aa341c5.jpg\" loading=\"lazy\" alt=\"The best Gaming/Creator laptops you never heard of!\"></picture><div class=\"intro_featured_bar_title\">▶ Forget the \"big\" laptop brands!</div>",
+			"retrieved": 1776603780662
+		},
+		{
 			"id": "link-6c37ba80a5089696d28b95eabbfcc242",
 			"title": "Powerful AMOLED: Motorola Moto G67 review",
 			"link": "https://www.notebookcheck.net/Remarkably-bright-with-strong-battery-life-but-short-on-power-Motorola-Moto-G67-smartphone-review.1275814.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Lenovo-Yoga-Slim-7a-14-Laptop-Review-Slim-at-any-price.1272772.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Slim_7a_14AGP11/Lenovo-Yoga-Slim-7a-feature-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Slim_7a_14AGP11/Lenovo-Yoga-Slim-7a-feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Slim_7a_14AGP11/Lenovo-Yoga-Slim-7a-feature-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Slim_7a_14AGP11/Lenovo-Yoga-Slim-7a-feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Slim_7a_14AGP11/Lenovo-Yoga-Slim-7a-feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Slim_7a_14AGP11/Lenovo-Yoga-Slim-7a-feature-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/7/csm_Lenovo-Yoga-Slim-7a-feature_5854b87123.jpg\" loading=\"lazy\" alt=\"Lenovo Yoga Slim 7a 14 review\"></picture><div class=\"intro_featured_bar_title\">Lenovo Yoga Slim 7a 14: Slim at any price</div>",
 			"retrieved": 1776232861269
-		},
-		{
-			"id": "link-148fa428c47cdbeab6a8a1f273e9cf5c",
-			"title": "Lenovo IdeaPad 5 2-in-1 15 review: Ryzen AI 5 430 debut",
-			"link": "https://www.notebookcheck.net/Lenovo-IdeaPad-5-2-in-1-15-review-Ryzen-AI-5-430-performance-debut.1270312.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_5_2-in-1_15AGP11/ideapad52in115_feature-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_5_2-in-1_15AGP11/ideapad52in115_feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_5_2-in-1_15AGP11/ideapad52in115_feature-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_5_2-in-1_15AGP11/ideapad52in115_feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_5_2-in-1_15AGP11/ideapad52in115_feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_5_2-in-1_15AGP11/ideapad52in115_feature-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/4/csm_ideapad52in115_feature_d255d8d285.jpg\" loading=\"lazy\" alt=\"Lenovo IdeaPad 5 2-in-1 15 review: Ryzen AI 5 430 performance debut\"></picture><div class=\"intro_featured_bar_title\">Lenovo IdeaPad 5 2-in-1 15 review: Ryzen AI 5 430 debut</div>",
-			"retrieved": 1776200094941
 		}
 	]
 }
