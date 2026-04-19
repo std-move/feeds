@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-2af8e96bac350d2e507120d1ae4d497c",
+			"title": "Version 4.3.76",
+			"contents": "Released Apr 19, 2026 - 352.21 KB — Fix thumbnail settings on the subscriptions page",
+			"retrieved": 1776631121708
+		},
+		{
 			"id": "title-eb597c25f8a08763e2520aa532e70470",
 			"title": "Version 4.3.75",
 			"contents": "Released Mar 15, 2026 - 352.21 KB — Added an option to hide the \"Most relevant\" section on the Subscriptions page.",
@@ -145,12 +151,6 @@
 			"id": "title-85e0ef5e4ddbedd7bab45c61aa72c1c7",
 			"title": "Version 4.3.51",
 			"contents": "Released Oct 29, 2023 - 326.99 KB — fixed the skip ads feature (modern button)",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-79003036b80ba5c9cf36b545f82b0f5b",
-			"title": "Version 4.3.50",
-			"contents": "Released Oct 29, 2023 - 326.98 KB — add a feature for hiding the likes<br>thank you to porobertdev!",
 			"retrieved": 1767548017655
 		}
 	]
