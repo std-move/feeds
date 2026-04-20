@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-20T17:06:09.677Z</updated>
+    <updated>2026-04-20T19:08:42.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>link-9c3bb6d41dac9340bcb455227b189a0d</id>
         <link href="https://news.ycombinator.com/item?id=47793411"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47793411">1952 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-16T14:23:50 1776349430"><a href="item?id=47793411">4 days ago</a></span> <span id="unv_47793411"></span> | <a href="item?id=47793411">1446&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-7">Claude Opus 4.7</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47793411">1952 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-16T14:23:50 1776349430"><a href="item?id=47793411">4 days ago</a></span> <span id="unv_47793411"></span> | <a href="item?id=47793411">1450&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-7">Claude Opus 4.7</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google broke its promise to me – now ICE has my data (eff.org)]]></title>
         <id>link-7d199180f20fc9737bc77e86629afa77</id>
         <link href="https://news.ycombinator.com/item?id=47782570"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47782570">1705 points</span> by <a href="user?id=Brajeshwar" class="hnuser">Brajeshwar</a> <span class="age" title="2026-04-15T17:44:26 1776275066"><a href="item?id=47782570">4 days ago</a></span> <span id="unv_47782570"></span> | <a href="item?id=47782570">762&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data">Google broke its promise to me – now ICE has my data</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47782570">1706 points</span> by <a href="user?id=Brajeshwar" class="hnuser">Brajeshwar</a> <span class="age" title="2026-04-15T17:44:26 1776275066"><a href="item?id=47782570">5 days ago</a></span> <span id="unv_47782570"></span> | <a href="item?id=47782570">763&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data">Google broke its promise to me – now ICE has my data</a><span class="sitebit comhead"> (<a href="from?site=eff.org"><span class="sitestr">eff.org</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Qwen3.6-35B-A3B: Agentic coding power, now open to all (qwen.ai)]]></title>
@@ -31,35 +31,35 @@
         <id>link-60109c88e5b721a46d0eaed881fcd668</id>
         <link href="https://news.ycombinator.com/item?id=47806725"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47806725">1223 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-17T15:04:09 1776438249"><a href="item?id=47806725">3 days ago</a></span> <span id="unv_47806725"></span> | <a href="item?id=47806725">755&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Claude Design</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47806725">1224 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-17T15:04:09 1776438249"><a href="item?id=47806725">3 days ago</a></span> <span id="unv_47806725"></span> | <a href="item?id=47806725">755&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Claude Design</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Codex for almost everything (openai.com)]]></title>
         <id>link-cceb50bd909d906ad23061afbad09ddb</id>
         <link href="https://news.ycombinator.com/item?id=47796469"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47796469">998 points</span> by <a href="user?id=mikeevans" class="hnuser">mikeevans</a> <span class="age" title="2026-04-16T17:12:19 1776359539"><a href="item?id=47796469">3 days ago</a></span> <span id="unv_47796469"></span> | <a href="item?id=47796469">554&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/codex-for-almost-everything/">Codex for almost everything</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47796469">998 points</span> by <a href="user?id=mikeevans" class="hnuser">mikeevans</a> <span class="age" title="2026-04-16T17:12:19 1776359539"><a href="item?id=47796469">4 days ago</a></span> <span id="unv_47796469"></span> | <a href="item?id=47796469">555&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/codex-for-almost-everything/">Codex for almost everything</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Migrating from DigitalOcean to Hetzner (isayeter.com)]]></title>
         <id>link-0515391d2a0301ec1f65a77ed4ea0ee4</id>
         <link href="https://news.ycombinator.com/item?id=47815774"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47815774">884 points</span> by <a href="user?id=yusufusta" class="hnuser">yusufusta</a> <span class="age" title="2026-04-18T13:29:04 1776518944"><a href="item?id=47815774">2 days ago</a></span> <span id="unv_47815774"></span> | <a href="item?id=47815774">427&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/">Migrating from DigitalOcean to Hetzner</a><span class="sitebit comhead"> (<a href="from?site=isayeter.com"><span class="sitestr">isayeter.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47815774">885 points</span> by <a href="user?id=yusufusta" class="hnuser">yusufusta</a> <span class="age" title="2026-04-18T13:29:04 1776518944"><a href="item?id=47815774">2 days ago</a></span> <span id="unv_47815774"></span> | <a href="item?id=47815774">427&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/">Migrating from DigitalOcean to Hetzner</a><span class="sitebit comhead"> (<a href="from?site=isayeter.com"><span class="sitestr">isayeter.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vercel April 2026 security incident (bleepingcomputer.com)]]></title>
         <id>link-93f90034c156e797ff7ad72cfe964c4f</id>
         <link href="https://news.ycombinator.com/item?id=47824463"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47824463">830 points</span> by <a href="user?id=colesantiago" class="hnuser">colesantiago</a> <span class="age" title="2026-04-19T14:14:38 1776608078"><a href="item?id=47824463">1 day ago</a></span> <span id="unv_47824463"></span> | <a href="item?id=47824463">475&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/">Vercel April 2026 security incident</a><span class="sitebit comhead"> (<a href="from?site=bleepingcomputer.com"><span class="sitestr">bleepingcomputer.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47824463">836 points</span> by <a href="user?id=colesantiago" class="hnuser">colesantiago</a> <span class="age" title="2026-04-19T14:14:38 1776608078"><a href="item?id=47824463">1 day ago</a></span> <span id="unv_47824463"></span> | <a href="item?id=47824463">477&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/">Vercel April 2026 security incident</a><span class="sitebit comhead"> (<a href="from?site=bleepingcomputer.com"><span class="sitestr">bleepingcomputer.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Isaac Asimov: The Last Question (1956) (hex.ooo)]]></title>
         <id>link-8b28bf339e319cb077b79a38c16cfed9</id>
         <link href="https://news.ycombinator.com/item?id=47804965"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47804965">776 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-04-17T12:01:19 1776427279"><a href="item?id=47804965">3 days ago</a></span> <span id="unv_47804965"></span> | <a href="item?id=47804965">305&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hex.ooo/library/last_question.html">Isaac Asimov: The Last Question (1956)</a><span class="sitebit comhead"> (<a href="from?site=hex.ooo"><span class="sitestr">hex.ooo</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47804965">777 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-04-17T12:01:19 1776427279"><a href="item?id=47804965">3 days ago</a></span> <span id="unv_47804965"></span> | <a href="item?id=47804965">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hex.ooo/library/last_question.html">Isaac Asimov: The Last Question (1956)</a><span class="sitebit comhead"> (<a href="from?site=hex.ooo"><span class="sitestr">hex.ooo</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ban the sale of precise geolocation (lawfaremedia.org)]]></title>
@@ -73,6 +73,6 @@
         <id>link-3a65bef56baba13d7a68aaf3c2d94fcb</id>
         <link href="https://news.ycombinator.com/item?id=47792718"/>
         <updated>2026-04-20T15:16:11.093Z</updated>
-        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47792718">732 points</span> by <a href="user?id=aphyr" class="hnuser">aphyr</a> <span class="age" title="2026-04-16T13:32:13 1776346333"><a href="item?id=47792718">4 days ago</a></span> <span id="unv_47792718"></span> | <a href="item?id=47792718">762&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here">The future of everything is lies, I guess: Where do we go from here?</a><span class="sitebit comhead"> (<a href="from?site=aphyr.com"><span class="sitestr">aphyr.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">10.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47792718">732 points</span> by <a href="user?id=aphyr" class="hnuser">aphyr</a> <span class="age" title="2026-04-16T13:32:13 1776346333"><a href="item?id=47792718">4 days ago</a></span> <span id="unv_47792718"></span> | <a href="item?id=47792718">763&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here">The future of everything is lies, I guess: Where do we go from here?</a><span class="sitebit comhead"> (<a href="from?site=aphyr.com"><span class="sitestr">aphyr.com</span></a>)</span></span>]]></content>
     </entry>
 </feed>
