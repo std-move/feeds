@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-20T06:16:50.569Z</updated>
+    <updated>2026-04-20T10:00:59.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -130,6 +130,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/bankless-international/"/>
         <updated>2026-03-31T13:19:49.433Z</updated>
         <content type="html"><![CDATA[Bankless.com International — 1 Year Subscription]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jawaker Tokens International]]></title>
+        <id>link-3384d2074505ab2be3ef28f1813cbf7e</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/jawaker-tokens-international/"/>
+        <updated>2026-04-20T09:58:25.861Z</updated>
+        <content type="html"><![CDATA[Jawaker Tokens International — 10000 tokens - 1000000 tokens]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Surfshark VPN International]]></title>
@@ -277,12 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/valorant-eu/"/>
         <updated>2026-03-13T20:35:41.441Z</updated>
         <content type="html"><![CDATA[Valorant EU — €5 - €100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riot Access Europe]]></title>
-        <id>link-1967be5286dedb3ef5390377458739d2</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/"/>
-        <updated>2026-04-13T09:55:53.641Z</updated>
-        <content type="html"><![CDATA[Riot Access Europe — €2.5 - €100]]></content>
     </entry>
 </feed>
