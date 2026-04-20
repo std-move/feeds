@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-20T02:45:33.154Z</updated>
+    <updated>2026-04-20T06:16:50.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>link-9e788b20b1c930e47f1e0236c8fd151f</id>
         <link href="https://en.wikipedia.org/wiki/Indonesian_Islamic_Museum_K.H._Hasyim_Asy%27ari"/>
         <updated>2026-04-20T02:43:20.960Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Indonesian_Islamic_Museum_K.H._Hasyim_Asy%27ari" title="Indonesian Islamic Museum K.H. Hasyim Asy'ari">an Indonesian museum</a></b> that receives some hundred thousand visitors a year was built in a graveyard parking lot?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Indonesian_Islamic_Museum_K.H._Hasyim_Asy%27ari" title="Indonesian Islamic Museum K.H. Hasyim Asy'ari">an Indonesian museum</a></b> that receives <abbr title="circa">c.</abbr><span style="white-space:nowrap;"> 100,000</span> visitors a year was built in a graveyard parking lot?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thomas Henry Tracy]]></title>
