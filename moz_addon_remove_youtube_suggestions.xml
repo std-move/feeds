@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-04-19T22:39:12.837Z</updated>
+    <updated>2026-04-20T02:45:33.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.79]]></title>
+        <id>title-96eefc077ce08a3abbbf7f47b3c7816c</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-04-20T02:43:20.960Z</updated>
+        <content type="html"><![CDATA[Released Apr 20, 2026 - 354.6 KB — New: sign in (no payment) and pick any 2 premium features to use for free.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.76]]></title>
         <id>title-2af8e96bac350d2e507120d1ae4d497c</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released Dec 3, 2023 - 327.24 KB — Added an option to remove the 'for you' section on the channel page]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.51]]></title>
-        <id>title-85e0ef5e4ddbedd7bab45c61aa72c1c7</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released Oct 29, 2023 - 326.99 KB — fixed the skip ads feature (modern button)]]></content>
     </entry>
 </feed>
