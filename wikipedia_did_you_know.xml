@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-21T06:04:51.845Z</updated>
+    <updated>2026-04-21T09:29:37.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>link-3db30f4d90bc998495f698e9c95f8d89</id>
         <link href="https://en.wikipedia.org/wiki/Dollar_Savings_Bank_Building"/>
         <updated>2026-04-21T02:37:43.906Z</updated>
-        <content type="html"><![CDATA[... that, after <b><a href="/wiki/Dollar_Savings_Bank_Building" title="Dollar Savings Bank Building">a Bronx bank building</a></b><span class="nowrap">'s</span> clock broke, people fired bullets at it at night?]]></content>
+        <content type="html"><![CDATA[... that, after <b><a href="/wiki/Dollar_Savings_Bank_Building" title="Dollar Savings Bank Building">a Bronx bank building</a></b><span class="nowrap">'s</span> clock broke, people fired bullets towards it at night?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2015 Mauritian municipal elections]]></title>
