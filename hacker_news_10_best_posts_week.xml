@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/best?h=168</id>
     <title>Hacker News - 10 best posts (week)</title>
-    <updated>2026-04-21T02:40:15.697Z</updated>
+    <updated>2026-04-21T06:04:51.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<span class="rank">1.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47793411">1954 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-16T14:23:50 1776349430"><a href="item?id=47793411">4 days ago</a></span> <span id="unv_47793411"></span> | <a href="item?id=47793411">1450&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-opus-4-7">Claude Opus 4.7</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qwen3.6-35B-A3B: Agentic coding power, now open to all (qwen.ai)]]></title>
-        <id>link-99430d71ffdf6b36bf7b464a56ced1d4</id>
-        <link href="https://news.ycombinator.com/item?id=47792764"/>
-        <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47792764">1269 points</span> by <a href="user?id=cmitsakis" class="hnuser">cmitsakis</a> <span class="age" title="2026-04-16T13:36:27 1776346587"><a href="item?id=47792764">4 days ago</a></span> <span id="unv_47792764"></span> | <a href="item?id=47792764">531&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3.6-35b-a3b">Qwen3.6-35B-A3B: Agentic coding power, now open to all</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[John Ternus to become Apple CEO (apple.com)]]></title>
         <id>link-73ab13af657add3adc303eb5992ae9f2</id>
         <link href="https://news.ycombinator.com/item?id=47840219"/>
         <updated>2026-04-20T22:43:27.189Z</updated>
-        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47840219">1268 points</span> by <a href="user?id=schappim" class="hnuser">schappim</a> <span class="age" title="2026-04-20T20:39:32 1776717572"><a href="item?id=47840219">5 hours ago</a></span> <span id="unv_47840219"></span> | <a href="item?id=47840219">637&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/">John Ternus to become Apple CEO</a><span class="sitebit comhead"> (<a href="from?site=apple.com"><span class="sitestr">apple.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">2.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47840219">1534 points</span> by <a href="user?id=schappim" class="hnuser">schappim</a> <span class="age" title="2026-04-20T20:39:32 1776717572"><a href="item?id=47840219">9 hours ago</a></span> <span id="unv_47840219"></span> | <a href="item?id=47840219">767&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/">John Ternus to become Apple CEO</a><span class="sitebit comhead"> (<a href="from?site=apple.com"><span class="sitestr">apple.com</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3.6-35B-A3B: Agentic coding power, now open to all (qwen.ai)]]></title>
+        <id>link-99430d71ffdf6b36bf7b464a56ced1d4</id>
+        <link href="https://news.ycombinator.com/item?id=47792764"/>
+        <updated>2026-04-20T11:24:55.669Z</updated>
+        <content type="html"><![CDATA[<span class="rank">3.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47792764">1269 points</span> by <a href="user?id=cmitsakis" class="hnuser">cmitsakis</a> <span class="age" title="2026-04-16T13:36:27 1776346587"><a href="item?id=47792764">4 days ago</a></span> <span id="unv_47792764"></span> | <a href="item?id=47792764">531&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://qwen.ai/blog?id=qwen3.6-35b-a3b">Qwen3.6-35B-A3B: Agentic coding power, now open to all</a><span class="sitebit comhead"> (<a href="from?site=qwen.ai"><span class="sitestr">qwen.ai</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Design (anthropic.com)]]></title>
@@ -34,39 +34,39 @@
         <content type="html"><![CDATA[<span class="rank">4.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47806725">1225 points</span> by <a href="user?id=meetpateltech" class="hnuser">meetpateltech</a> <span class="age" title="2026-04-17T15:04:09 1776438249"><a href="item?id=47806725">3 days ago</a></span> <span id="unv_47806725"></span> | <a href="item?id=47806725">755&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Claude Design</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Codex for almost everything (openai.com)]]></title>
-        <id>link-cceb50bd909d906ad23061afbad09ddb</id>
-        <link href="https://news.ycombinator.com/item?id=47796469"/>
-        <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47796469">998 points</span> by <a href="user?id=mikeevans" class="hnuser">mikeevans</a> <span class="age" title="2026-04-16T17:12:19 1776359539"><a href="item?id=47796469">4 days ago</a></span> <span id="unv_47796469"></span> | <a href="item?id=47796469">555&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/codex-for-almost-everything/">Codex for almost everything</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[All phones sold in the EU to have replaceable batteries from 2027 (theolivepress.es)]]></title>
         <id>link-e98a34fa148da931ec1eb662fc956a0f</id>
         <link href="https://news.ycombinator.com/item?id=47834195"/>
         <updated>2026-04-20T20:47:23.361Z</updated>
-        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47834195">990 points</span> by <a href="user?id=ramonga" class="hnuser">ramonga</a> <span class="age" title="2026-04-20T13:41:25 1776692485"><a href="item?id=47834195">12 hours ago</a></span> <span id="unv_47834195"></span> | <a href="item?id=47834195">814&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/">All phones sold in the EU to have replaceable batteries from 2027</a><span class="sitebit comhead"> (<a href="from?site=theolivepress.es"><span class="sitestr">theolivepress.es</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">5.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47834195">1119 points</span> by <a href="user?id=ramonga" class="hnuser">ramonga</a> <span class="age" title="2026-04-20T13:41:25 1776692485"><a href="item?id=47834195">16 hours ago</a></span> <span id="unv_47834195"></span> | <a href="item?id=47834195">936&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/">All phones sold in the EU to have replaceable batteries from 2027</a><span class="sitebit comhead"> (<a href="from?site=theolivepress.es"><span class="sitestr">theolivepress.es</span></a>)</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex for almost everything (openai.com)]]></title>
+        <id>link-cceb50bd909d906ad23061afbad09ddb</id>
+        <link href="https://news.ycombinator.com/item?id=47796469"/>
+        <updated>2026-04-20T11:24:55.669Z</updated>
+        <content type="html"><![CDATA[<span class="rank">6.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47796469">998 points</span> by <a href="user?id=mikeevans" class="hnuser">mikeevans</a> <span class="age" title="2026-04-16T17:12:19 1776359539"><a href="item?id=47796469">4 days ago</a></span> <span id="unv_47796469"></span> | <a href="item?id=47796469">555&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://openai.com/index/codex-for-almost-everything/">Codex for almost everything</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Migrating from DigitalOcean to Hetzner (isayeter.com)]]></title>
         <id>link-0515391d2a0301ec1f65a77ed4ea0ee4</id>
         <link href="https://news.ycombinator.com/item?id=47815774"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47815774">886 points</span> by <a href="user?id=yusufusta" class="hnuser">yusufusta</a> <span class="age" title="2026-04-18T13:29:04 1776518944"><a href="item?id=47815774">2 days ago</a></span> <span id="unv_47815774"></span> | <a href="item?id=47815774">428&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/">Migrating from DigitalOcean to Hetzner</a><span class="sitebit comhead"> (<a href="from?site=isayeter.com"><span class="sitestr">isayeter.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">7.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47815774">887 points</span> by <a href="user?id=yusufusta" class="hnuser">yusufusta</a> <span class="age" title="2026-04-18T13:29:04 1776518944"><a href="item?id=47815774">2 days ago</a></span> <span id="unv_47815774"></span> | <a href="item?id=47815774">428&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/">Migrating from DigitalOcean to Hetzner</a><span class="sitebit comhead"> (<a href="from?site=isayeter.com"><span class="sitestr">isayeter.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vercel April 2026 security incident (bleepingcomputer.com)]]></title>
         <id>link-93f90034c156e797ff7ad72cfe964c4f</id>
         <link href="https://news.ycombinator.com/item?id=47824463"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47824463">849 points</span> by <a href="user?id=colesantiago" class="hnuser">colesantiago</a> <span class="age" title="2026-04-19T14:14:38 1776608078"><a href="item?id=47824463">1 day ago</a></span> <span id="unv_47824463"></span> | <a href="item?id=47824463">484&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/">Vercel April 2026 security incident</a><span class="sitebit comhead"> (<a href="from?site=bleepingcomputer.com"><span class="sitestr">bleepingcomputer.com</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">8.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47824463">853 points</span> by <a href="user?id=colesantiago" class="hnuser">colesantiago</a> <span class="age" title="2026-04-19T14:14:38 1776608078"><a href="item?id=47824463">1 day ago</a></span> <span id="unv_47824463"></span> | <a href="item?id=47824463">484&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/">Vercel April 2026 security incident</a><span class="sitebit comhead"> (<a href="from?site=bleepingcomputer.com"><span class="sitestr">bleepingcomputer.com</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Isaac Asimov: The Last Question (1956) (hex.ooo)]]></title>
         <id>link-8b28bf339e319cb077b79a38c16cfed9</id>
         <link href="https://news.ycombinator.com/item?id=47804965"/>
         <updated>2026-04-20T11:24:55.669Z</updated>
-        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47804965">784 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-04-17T12:01:19 1776427279"><a href="item?id=47804965">3 days ago</a></span> <span id="unv_47804965"></span> | <a href="item?id=47804965">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hex.ooo/library/last_question.html">Isaac Asimov: The Last Question (1956)</a><span class="sitebit comhead"> (<a href="from?site=hex.ooo"><span class="sitestr">hex.ooo</span></a>)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="rank">9.</span> — <td colspan="2"></td><td class="subtext"><span class="subline"><span class="score" id="score_47804965">785 points</span> by <a href="user?id=ColinWright" class="hnuser">ColinWright</a> <span class="age" title="2026-04-17T12:01:19 1776427279"><a href="item?id=47804965">3 days ago</a></span> <span id="unv_47804965"></span> | <a href="item?id=47804965">306&nbsp;comments</a></span></td> — <span class="titleline"><a href="https://hex.ooo/library/last_question.html">Isaac Asimov: The Last Question (1956)</a><span class="sitebit comhead"> (<a href="from?site=hex.ooo"><span class="sitestr">hex.ooo</span></a>)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ban the sale of precise geolocation (lawfaremedia.org)]]></title>
