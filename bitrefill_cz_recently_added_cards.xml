@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-21T22:39:41.513Z</updated>
+    <updated>2026-04-22T02:37:52.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -241,7 +241,7 @@
         <id>link-634360beaee0c793858da705cf25788d</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/cashlib-eu/"/>
         <updated>2026-04-08T09:01:48.686Z</updated>
-        <content type="html"><![CDATA[CASHlib EU — €150]]></content>
+        <content type="html"><![CDATA[CASHlib EU — €10 - €100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NordPass Password Manager International]]></title>
