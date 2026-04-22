@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/</id>
     <title>The BellSoft Blog</title>
-    <updated>2026-04-22T11:07:30.873Z</updated>
+    <updated>2026-04-22T13:30:48.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Liberica JDK 26 is Released]]></title>
+        <id>link-6a07ea5fe375bcea9d58733a11a85518</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-26-is-released/"/>
+        <updated>2026-04-22T13:28:32.978Z</updated>
+        <content type="html"><![CDATA[Find out about the improvements in JDK 26 and downloads the new builds]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Overview of JDK 26 Features]]></title>
         <id>link-b2869ed244aeb9f41dcec2fd84b5d4ff</id>
@@ -158,12 +165,5 @@
         <link href="https://bell-sw.com/blog/liberica-jdk-8u462-11-0-28-17-0-16-21-0-8-and-24-0-2-builds-are-generally-available/"/>
         <updated>2026-01-07T09:20:25.776Z</updated>
         <content type="html"><![CDATA[Download Liberica JDK CPU versions 8, 11, 17, 21, and 24 with improved security.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Spring Data MongoDB]]></title>
-        <id>link-1a6cee46418856d3b700f1dad67852ff</id>
-        <link href="https://bell-sw.com/blog/how-to-use-spring-data-mongodb/"/>
-        <updated>2026-01-07T09:20:25.776Z</updated>
-        <content type="html"><![CDATA[An end-to-end tutorial on using MongoD with Spring Boot: setup, CRUD operations, custom queries, aggregation pipelines, Mongock migrations, testing]]></content>
     </entry>
 </feed>
