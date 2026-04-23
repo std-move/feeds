@@ -4,13 +4,6 @@
 	"favicon": "https://www.bitrefill.com/cz/en/gift-cards/favicon.ico",
 	"elements": [
 		{
-			"id": "link-6258f409e91efd772c8d46fa410ee7aa",
-			"title": "Epic EU",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/epic-eur/",
-			"contents": "Epic EU — €10 - €150",
-			"retrieved": 1776265537192
-		},
-		{
 			"id": "link-f799a0f6ca38c7701555bed18122c535",
 			"title": "Wolt",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/woltcz-czech-republic/",
@@ -23,6 +16,13 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/sawa-play-international/",
 			"contents": "Sawa Play International — $2.18 - $349",
 			"retrieved": 1775638908686
+		},
+		{
+			"id": "link-6258f409e91efd772c8d46fa410ee7aa",
+			"title": "Epic EU",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/epic-eur/",
+			"contents": "Epic EU — €10 - €150",
+			"retrieved": 1776265537192
 		},
 		{
 			"id": "link-10d925f3e39a153ce722ede355167a1b",

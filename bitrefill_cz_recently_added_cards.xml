@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-23T20:55:12.651Z</updated>
+    <updated>2026-04-23T22:46:26.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Epic EU]]></title>
-        <id>link-6258f409e91efd772c8d46fa410ee7aa</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/epic-eur/"/>
-        <updated>2026-04-15T15:05:37.192Z</updated>
-        <content type="html"><![CDATA[Epic EU — €10 - €150]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Wolt]]></title>
         <id>link-f799a0f6ca38c7701555bed18122c535</id>
@@ -25,6 +18,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/sawa-play-international/"/>
         <updated>2026-04-08T09:01:48.686Z</updated>
         <content type="html"><![CDATA[Sawa Play International — $2.18 - $349]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic EU]]></title>
+        <id>link-6258f409e91efd772c8d46fa410ee7aa</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/epic-eur/"/>
+        <updated>2026-04-15T15:05:37.192Z</updated>
+        <content type="html"><![CDATA[Epic EU — €10 - €150]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ludo Star International]]></title>
