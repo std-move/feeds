@@ -91,6 +91,36 @@ linkSelector = ".Story_title a"
 # story link is not mandatory, let's just take the whole thing here
 # contentSelector = [".Story_link", ".Story_meta"]
 
+[hacker_news_algolia_top_10_week]
+title = "HN Algolia - 10 top stories (week)"
+url = [
+  "https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=&sort=byPopularity&type=story",
+]
+waitForSelector = "xpath=(//article[contains(@class, 'Story')])[position() <= 10]"
+entrySelector = "xpath=(//article[contains(@class, 'Story')])[position() <= 10]"
+titleSelector = ".Story_title span"
+linkSelector = ".Story_title a"
+
+# news.ycombinator.com feeds disabled - there is intermittent scraping protection - "sorry"
+# [hacker_news_best_posts_week]
+# title = "Hacker News - best posts (week)"
+# url = "https://news.ycombinator.com/best?h=168"
+# waitForSelector = "tr.submission"
+# entrySelector = "tr.submission"
+# titleSelector = ".titleline"
+# linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
+# contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
+
+# [hacker_news_10_best_posts_week]
+# title = "Hacker News - 10 best posts (week)"
+# url = "https://news.ycombinator.com/best?h=168"
+# waitForSelector = "xpath=(//tr[contains(@class, 'submission')])[position() <= 10]"
+# entrySelector = "xpath=(//tr[contains(@class, 'submission')])[position() <= 10]"
+# titleSelector = ".titleline"
+# linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
+# contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
+
+
 [liberation_travel_month_letter]
 title = "Liberation Travel Month-letter"
 url = "https://liberation.travel/liberation-travel-hacks-month-letter/"
@@ -131,24 +161,6 @@ waitForSelector = "article.changelog-release"
 entrySelector = "article.changelog-release"
 titleSelector = ["h3", "h4"]
 linkSelector = "a"
-
-# [hacker_news_best_posts_week]
-# title = "Hacker News - best posts (week)"
-# url = "https://news.ycombinator.com/best?h=168"
-# waitForSelector = "tr.submission"
-# entrySelector = "tr.submission"
-# titleSelector = ".titleline"
-# linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
-# contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
-
-[hacker_news_10_best_posts_week]
-title = "Hacker News - 10 best posts (week)"
-url = "https://news.ycombinator.com/best?h=168"
-waitForSelector = "xpath=(//tr[contains(@class, 'submission')])[position() <= 10]"
-entrySelector = "xpath=(//tr[contains(@class, 'submission')])[position() <= 10]"
-titleSelector = ".titleline"
-linkSelector = "xpath=following-sibling::tr//a[contains(@href,'item?id=')]"
-contentSelector = ["xpath=./*[@class='title'][1]", "xpath=following-sibling::tr", "xpath=./*[@class='title'][2]"]
 
 [notebookcheck_featured_content]
 title = "Notebookcheck - featured content"
