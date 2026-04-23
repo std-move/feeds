@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-23T06:10:53.110Z</updated>
+    <updated>2026-04-23T08:36:32.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Honor 600 Pro Hands-On]]></title>
+        <id>link-9188ee5c2d804e96994341ac5210aac2</id>
+        <link href="https://www.notebookcheck.net/Honor-600-Pro-hands-on-A-flagship-smartphone-that-feels-surprisingly-familiar.1280896.0.html"/>
+        <updated>2026-04-23T08:34:56.755Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260422_134639-3-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260422_134639-3-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260422_134639-3-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260422_134639-3-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260422_134639-3-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/IMG_20260422_134639-3-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/3/csm_IMG_20260422_134639-3_f6e433da39.jpg" loading="lazy" alt="The Honor 600 Pro in golden white colorway"></picture><div class="intro_featured_bar_title">Honor 600 Pro Hands-On</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alienware 16 Area-51 review: Core Ultra 9 290HX Plus is Arrow Lake on steroids]]></title>
         <id>link-6a9ed908d50a95a0663c4610b04d8918</id>
@@ -24,7 +31,7 @@
         <id>link-803e16a4baba4c9264050499b1831992</id>
         <link href="https://www.notebookcheck.net/The-Expanse-Osiris-Reborn-beta-had-a-Mass-Effect-on-me.1280399.0.html"/>
         <updated>2026-04-22T17:04:15.231Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-7-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-7-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-7-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-7-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-7-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-7-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/2/csm_The-Expanse-Osiris-Reborn-7_40337f4cc7.jpg" loading="lazy" alt="The Expanse: Osiris Reborn puts Owlcat Games firmly in new territory, trading isometric tactics for third-person cover combat and zero-gravity traversal."></picture><div class="intro_featured_bar_title">The Expanse: Osiris Reborn beta had a Mass Effect on me</div>]]></content>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-10_5-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-10_5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-10_5-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-10_5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-10_5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/The-Expanse-Osiris-Reborn-10_5-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/7/csm_The-Expanse-Osiris-Reborn-10_5_241c24eabe.jpg" loading="lazy" alt="The Expanse: Osiris Reborn puts Owlcat Games firmly in new territory, trading isometric tactics for third-person cover combat and zero-gravity traversal."></picture><div class="intro_featured_bar_title">The Expanse: Osiris Reborn beta had a Mass Effect on me</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dominator of the mid-range in review]]></title>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Oppo-Find-X9-Ultra-hands-On-The-best-camera-phone-of-2026.1280412.0.html"/>
         <updated>2026-04-22T11:05:57.585Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/aPic_Oppo_Find_X9_Ultra_IMG_20260421_180237-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/aPic_Oppo_Find_X9_Ultra_IMG_20260421_180237-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/aPic_Oppo_Find_X9_Ultra_IMG_20260421_180237-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/aPic_Oppo_Find_X9_Ultra_IMG_20260421_180237-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/aPic_Oppo_Find_X9_Ultra_IMG_20260421_180237-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/aPic_Oppo_Find_X9_Ultra_IMG_20260421_180237-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/2/csm_aPic_Oppo_Find_X9_Ultra_IMG_20260421_180237_3d00688356.jpg" loading="lazy" alt="Oppo Find X9 Ultra"></picture><div class="intro_featured_bar_title">Oppo Find X9 Ultra Hands-On</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great performance: Apple iPad Air 13 M4 in the test]]></title>
-        <id>link-9ece9120e33f8f231fe317443210a973</id>
-        <link href="https://www.notebookcheck.net/The-fiercest-competitor-for-the-iPad-Pro-is-home-made-Apple-iPad-Air-13-M4-2026-tablet-review.1279201.0.html"/>
-        <updated>2026-04-22T06:00:30.981Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/iPad_Air_13_M4_2026/Test_Apple_iPad_Air_13_2026_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/iPad_Air_13_M4_2026/Test_Apple_iPad_Air_13_2026_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/iPad_Air_13_M4_2026/Test_Apple_iPad_Air_13_2026_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Apple/iPad_Air_13_M4_2026/Test_Apple_iPad_Air_13_2026_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/iPad_Air_13_M4_2026/Test_Apple_iPad_Air_13_2026_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/iPad_Air_13_M4_2026/Test_Apple_iPad_Air_13_2026_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/7/csm_Test_Apple_iPad_Air_13_2026_1_dffb6f364b.jpg" loading="lazy" alt="Apple iPad Air 13 M4 2026"></picture><div class="intro_featured_bar_title">Great performance: Apple iPad Air 13 M4 in the test</div>]]></content>
     </entry>
 </feed>

@@ -1,0 +1,77 @@
+{
+	"title": "HN Algolia - 10 top stories (week)",
+	"url": "https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=&sort=byPopularity&type=story",
+	"favicon": "https://hn.algolia.com/favicon.ico",
+	"elements": [
+		{
+			"id": "link-73ab13af657add3adc303eb5992ae9f2",
+			"title": "John Ternus to become Apple CEO",
+			"link": "https://news.ycombinator.com/item?id=47840219",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47840219\"><span>John Ternus to become Apple CEO</span></a><a href=\"https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/\" target=\"_blank\" class=\"Story_link\">(https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47840219\">2164 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=schappim\"><span>schappim</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47840219\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47840219\">1318 comments</a></span></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-9c3bb6d41dac9340bcb455227b189a0d",
+			"title": "Claude Opus 4.7",
+			"link": "https://news.ycombinator.com/item?id=47793411",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47793411\"><span>Claude Opus 4.7</span></a><a href=\"https://www.anthropic.com/news/claude-opus-4-7\" target=\"_blank\" class=\"Story_link\">(https://www.anthropic.com/news/claude-opus-4-7)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47793411\">1955 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=meetpateltech\"><span>meetpateltech</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47793411\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47793411\">1450 comments</a></span></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-bb3fbdf9855ac99c442419dc9ec6c06d",
+			"title": "Alberta startup sells no-tech tractors for half price",
+			"link": "https://news.ycombinator.com/item?id=47865868",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47865868\"><span>Alberta startup sells no-tech tractors for half price</span></a><a href=\"https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/\" target=\"_blank\" class=\"Story_link\">(https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47865868\">1720 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Kaibeezy\"><span>Kaibeezy</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47865868\">16 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47865868\">549 comments</a></span></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-4137875d94a807def05ed5c61111c80d",
+			"title": "Framework Laptop 13 Pro",
+			"link": "https://news.ycombinator.com/item?id=47852177",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47852177\"><span>Framework Laptop 13 Pro</span></a><a href=\"https://frame.work/laptop13pro\" target=\"_blank\" class=\"Story_link\">(https://frame.work/laptop13pro)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47852177\">1439 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Trollmann\"><span>Trollmann</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47852177\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47852177\">739 comments</a></span></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-e98a34fa148da931ec1eb662fc956a0f",
+			"title": "All phones sold in the EU to have replaceable batteries from 2027",
+			"link": "https://news.ycombinator.com/item?id=47834195",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47834195\"><span>All phones sold in the EU to have replaceable batteries from 2027</span></a><a href=\"https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/\" target=\"_blank\" class=\"Story_link\">(https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47834195\">1435 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ramonga\"><span>ramonga</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47834195\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47834195\">1253 comments</a></span></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-99430d71ffdf6b36bf7b464a56ced1d4",
+			"title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+			"link": "https://news.ycombinator.com/item?id=47792764",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47792764\"><span>Qwen3.6-35B-A3B: Agentic coding power, now open to all</span></a><a href=\"https://qwen.ai/blog?id=qwen3.6-35b-a3b\" target=\"_blank\" class=\"Story_link\">(https://qwen.ai/blog?id=qwen3.6-35b-a3b)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47792764\">1272 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=cmitsakis\"><span>cmitsakis</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47792764\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47792764\">532 comments</a></span></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-60109c88e5b721a46d0eaed881fcd668",
+			"title": "Claude Design",
+			"link": "https://news.ycombinator.com/item?id=47806725",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47806725\"><span>Claude Design</span></a><a href=\"https://www.anthropic.com/news/claude-design-anthropic-labs\" target=\"_blank\" class=\"Story_link\">(https://www.anthropic.com/news/claude-design-anthropic-labs)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47806725\">1231 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=meetpateltech\"><span>meetpateltech</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47806725\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47806725\">758 comments</a></span><div class=\"Story_comment\"><span>Related: <a href=\"https://x.com/flomerboy/status/2045162321589252458\" rel=\"nofollow\">https://x.com/flomerboy/status/2045162321589252458</a> (<a href=\"https://xcancel.com/flomerboy/status/2045162321589252458\" rel=\"nofollow\">https://xcancel.com/flomerboy/status/2045162321589252458</a>)</span></div></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-080c67840e72b45d8c368b78c19d4bea",
+			"title": "Laws of Software Engineering",
+			"link": "https://news.ycombinator.com/item?id=47847179",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47847179\"><span>Laws of Software Engineering</span></a><a href=\"https://lawsofsoftwareengineering.com\" target=\"_blank\" class=\"Story_link\">(https://lawsofsoftwareengineering.com)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47847179\">1139 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=milanm081\"><span>milanm081</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47847179\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47847179\">515 comments</a></span></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-81115cbc5db0d1cbf74427bab2527d5a",
+			"title": "ChatGPT Images 2.0",
+			"link": "https://news.ycombinator.com/item?id=47852835",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47852835\"><span>ChatGPT Images 2.0</span></a><a href=\"https://openai.com/index/introducing-chatgpt-images-2-0/\" target=\"_blank\" class=\"Story_link\">(https://openai.com/index/introducing-chatgpt-images-2-0/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47852835\">1012 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=wahnfrieden\"><span>wahnfrieden</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47852835\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47852835\">935 comments</a></span><div class=\"Story_comment\"><span>Livestream: <a href=\"https://openai.com/live/\" rel=\"nofollow\">https://openai.com/live/</a><p>System card: <a href=\"https://deploymentsafety.openai.com/chatgpt-images-2-0/chatgpt-images-2-0.pdf\" rel=\"nofollow\">https://deploymentsafety.openai.com/chatgpt-images-2-0/chatg...</a></p></span></div></div></div></div>",
+			"retrieved": 1776933296755
+		},
+		{
+			"id": "link-cceb50bd909d906ad23061afbad09ddb",
+			"title": "Codex for almost everything",
+			"link": "https://news.ycombinator.com/item?id=47796469",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47796469\"><span>Codex for almost everything</span></a><a href=\"https://openai.com/index/codex-for-almost-everything/\" target=\"_blank\" class=\"Story_link\">(https://openai.com/index/codex-for-almost-everything/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47796469\">999 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=mikeevans\"><span>mikeevans</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47796469\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47796469\">556 comments</a></span></div></div></div>",
+			"retrieved": 1776933296755
+		}
+	]
+}
