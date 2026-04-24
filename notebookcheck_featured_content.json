@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-f7f2fa73ae178894e4ababf362625f77",
+			"title": "▶ The fastest laptops on the planet?!",
+			"link": "https://www.notebookcheck.net/The-fastest-laptops-on-the-planet-All-new-2026-MacBooks-tested.1282361.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/8/csm_thumb5767_29cb42c0b5.jpg\" loading=\"lazy\" alt=\"The fastest laptops on the planet?! - All new 2026 MacBooks tested!\"></picture><div class=\"intro_featured_bar_title\">▶ The fastest laptops on the planet?!</div>",
+			"retrieved": 1777043333568
+		},
+		{
 			"id": "link-c1f398209f823128cfd72ead4deb5c80",
 			"title": "Photo Tour: Nothing Phone (4a) Pro",
 			"link": "https://www.notebookcheck.net/Camera-Review-The-Nothing-Phone-4a-Pro-in-London.1281430.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Price-performance-cracker-among-the-inexpensive-smartphones-Xiaomi-Poco-X8-Pro-review.1277617.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro/Test_Xiaomi_Poco_X8_Pro_Smartphone_2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro/Test_Xiaomi_Poco_X8_Pro_Smartphone_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro/Test_Xiaomi_Poco_X8_Pro_Smartphone_2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro/Test_Xiaomi_Poco_X8_Pro_Smartphone_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro/Test_Xiaomi_Poco_X8_Pro_Smartphone_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro/Test_Xiaomi_Poco_X8_Pro_Smartphone_2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/8/csm_Test_Xiaomi_Poco_X8_Pro_Smartphone_2_eb97a9fa1c.jpg\" loading=\"lazy\" alt=\"Xiaomi Poco X8 Pro Smartphone Review\"></picture><div class=\"intro_featured_bar_title\">Dominator of the mid-range in review</div>",
 			"retrieved": 1776870845029
-		},
-		{
-			"id": "link-8213731cc1ce30299f44eac5c992f984",
-			"title": "Privacy first! Samsung Galaxy S26 Ultra review",
-			"link": "https://www.notebookcheck.net/Blocks-prying-eyes-Samsung-Galaxy-S26-Ultra-review.1278349.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Ultra/aPic_Samsung_Galaxy_S26_Ultra-2178-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Ultra/aPic_Samsung_Galaxy_S26_Ultra-2178-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Ultra/aPic_Samsung_Galaxy_S26_Ultra-2178-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Ultra/aPic_Samsung_Galaxy_S26_Ultra-2178-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Ultra/aPic_Samsung_Galaxy_S26_Ultra-2178-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26_Ultra/aPic_Samsung_Galaxy_S26_Ultra-2178-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/b/csm_aPic_Samsung_Galaxy_S26_Ultra-2178_8ae4179ae0.jpg\" loading=\"lazy\" alt=\"Blocks prying eyes - Samsung Galaxy S26 Ultra review\"></picture><div class=\"intro_featured_bar_title\">Privacy first! Samsung Galaxy S26 Ultra review</div>",
-			"retrieved": 1776864512978
 		}
 	]
 }
