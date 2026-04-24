@@ -247,6 +247,6 @@ title = "MacOS releases for Air 15 M5"
 url = "https://appledb.dev/device/Mac17,4.html?filter=release"
 waitForSelector = ".firmwareVersionTableElement"
 entrySelector = ".firmwareVersionTableElement"
-titleSelector = [".//*[contains(@class, 'firmwareAndReleasedStr')]//span[contains(translate(., 'MACOS', 'macos'), 'macos')]", ".firmwareAndReleasedStr .releasedStr"]
+titleSelector = ["xpath=.//*[contains(@class, 'firmwareAndReleasedStr')]//span[contains(translate(., 'MACOS', 'macos'), 'macos')]", ".firmwareAndReleasedStr .releasedStr"]
 linkSelector = "optional:.downloadDropdown a[href]"
 
