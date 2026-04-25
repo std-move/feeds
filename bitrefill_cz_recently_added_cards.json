@@ -32,13 +32,6 @@
 			"retrieved": 1773440920490
 		},
 		{
-			"id": "link-d81c436189332d9d9afc2c24cb66a9e0",
-			"title": "My Instant AI International",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/my-instant-ai-international/",
-			"contents": "My Instant AI International — $5 - $50",
-			"retrieved": 1777101450382
-		},
-		{
 			"id": "link-ace6c246fa7ccbbac456bf5ab79ccb9b",
 			"title": "OneKey USD",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/onekey-usd/",
@@ -282,6 +275,13 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/valorant-eu/",
 			"contents": "Valorant EU — €5 - €100",
 			"retrieved": 1776811088042
+		},
+		{
+			"id": "link-1967be5286dedb3ef5390377458739d2",
+			"title": "Riot Access Europe",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/",
+			"contents": "Riot Access Europe — €2.5 - €100",
+			"retrieved": 1777107246124
 		}
 	]
 }
