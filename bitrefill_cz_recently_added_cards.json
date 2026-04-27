@@ -137,13 +137,6 @@
 			"retrieved": 1773440920490
 		},
 		{
-			"id": "link-0136c97f969773bc358a5afe41efa368",
-			"title": "Kinguin Games Store EUR International",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-international/",
-			"contents": "Kinguin Games Store EUR International — €100",
-			"retrieved": 1775062564577
-		},
-		{
 			"id": "link-93c9c10d040354f416d60b776823aa42",
 			"title": "Hello Yo International",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/hello-yo-international/",
@@ -282,6 +275,13 @@
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/guess-eur/",
 			"contents": "Guess EUR — €25 - €100",
 			"retrieved": 1777323795532
+		},
+		{
+			"id": "link-bfc217eb1ab4d618c8f153fee7e20b46",
+			"title": "Global Hotel Card by Expedia",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/global-hotel-card-cz/",
+			"contents": "Global Hotel Card by Expedia — 500 CZK - 22000 CZK",
+			"retrieved": 1777330410586
 		}
 	]
 }

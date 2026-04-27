@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-27T21:04:54.565Z</updated>
+    <updated>2026-04-27T22:56:55.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -137,13 +137,6 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/surfshark-vpn-international/"/>
         <updated>2026-03-13T22:28:40.490Z</updated>
         <content type="html"><![CDATA[Surfshark VPN International — Surfshark 1M - Surfshark 2Y]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinguin Games Store EUR International]]></title>
-        <id>link-0136c97f969773bc358a5afe41efa368</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/kinguin-gift-card-international/"/>
-        <updated>2026-04-01T16:56:04.577Z</updated>
-        <content type="html"><![CDATA[Kinguin Games Store EUR International — €100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Yo International]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/guess-eur/"/>
         <updated>2026-04-27T21:03:15.532Z</updated>
         <content type="html"><![CDATA[Guess EUR — €25 - €100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Hotel Card by Expedia]]></title>
+        <id>link-bfc217eb1ab4d618c8f153fee7e20b46</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/global-hotel-card-cz/"/>
+        <updated>2026-04-27T22:53:30.586Z</updated>
+        <content type="html"><![CDATA[Global Hotel Card by Expedia — 500 CZK - 22000 CZK]]></content>
     </entry>
 </feed>
