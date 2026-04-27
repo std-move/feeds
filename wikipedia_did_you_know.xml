@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-27T19:24:36.836Z</updated>
+    <updated>2026-04-27T21:04:54.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>link-705590b294297533c44df29fcbce1810</id>
         <link href="https://en.wikipedia.org/wiki/Henry_I_of_Castile"/>
         <updated>2026-04-27T02:48:45.276Z</updated>
-        <content type="html"><![CDATA[... that, after 13-year-old King <b><a href="/wiki/Henry_I_of_Castile" title="Henry I of Castile">Henry&nbsp;I of Castile</a></b> was fatally struck by a tile dislodged by a playmate, his guardian tried to hide his death?]]></content>
+        <content type="html"><![CDATA[... that, after 13-year-old King <b><a href="/wiki/Henry_I_of_Castile" title="Henry I of Castile">Henry&nbsp;I of Castile</a></b> was fatally struck by a tile dislodged by a playmate, the king's guardian tried to hide his death?]]></content>
     </entry>
 </feed>
