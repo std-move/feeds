@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-27T17:24:53.471Z</updated>
+    <updated>2026-04-27T19:24:36.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>link-c69f3bb8adb21431c59578c2da79194d</id>
         <link href="https://en.wikipedia.org/wiki/The_Executioner_and_Her_Way_of_Life"/>
         <updated>2026-04-27T02:48:45.276Z</updated>
-        <content type="html"><![CDATA[... that a character's outfit from the anime <i><b><a href="/wiki/The_Executioner_and_Her_Way_of_Life" title="The Executioner and Her Way of Life">The Executioner and Her Way of Life</a></b></i> was inspired by <a href="/wiki/Clint_Eastwood" title="Clint Eastwood">Clint Eastwood</a>'s spaghetti Western roles?]]></content>
+        <content type="html"><![CDATA[... that a character's outfit from the anime <i><b><a href="/wiki/The_Executioner_and_Her_Way_of_Life" title="The Executioner and Her Way of Life">The Executioner and Her Way of Life</a></b></i> was inspired by <a href="/wiki/Clint_Eastwood" title="Clint Eastwood">Clint Eastwood</a>'s <a href="/wiki/Spaghetti_Western" title="Spaghetti Western">spaghetti Western</a> roles?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fedor Karzhavin]]></title>
