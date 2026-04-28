@@ -209,6 +209,7 @@ entrySelector = "xpath=//table[@id='search']//tr[.//a]"
 titleSelector = ["td:nth-of-type(1)", "td:nth-of-type(2)", "td:nth-of-type(3) a"]
 linkSelector = "a"
 contentSelector = "td:nth-of-type(3)"
+waitUntil = "domcontentloaded"
 
 [privazer_release_notes]
 title = "Privazer - release notes"
@@ -272,7 +273,7 @@ title = "VMware Fusion version history"
 url = "https://en.wikipedia.org/wiki/VMware_Fusion"
 waitForSelector = "xpath=//table[contains(@class, 'wikitable') and contains(.//th[1]/text(), 'Version')]"
 entrySelector = "xpath=//table[contains(@class, 'wikitable') and contains(.//th[1]/text(), 'Version')]//tr[td][position() > last() - 20]"
-titleSelector = ["xpathstr=./td[1]/text()[1]", "td:nth-of-type(2)"]
+titleSelector = ["td:nth-of-type(1)", "td:nth-of-type(2)"]
 contentSelector = "td:nth-of-type(3)"
 
 [vmware_workstation_wiki_version_history]
@@ -280,7 +281,7 @@ title = "VMware Workstation version history"
 url = "https://en.wikipedia.org/wiki/VMware_Workstation"
 waitForSelector = "xpath=//table[contains(@class, 'wikitable') and contains(.//th[1]/text(), 'Version')]"
 entrySelector = "xpath=//table[contains(@class, 'wikitable') and contains(.//th[1]/text(), 'Version')]//tr[td][position() > last() - 20]"
-titleSelector = ["xpathstr=./td[1]/text()[1]", "td:nth-of-type(2)"]
+titleSelector = ["td:nth-of-type(1) span:nth-of-type(2)", "td:nth-of-type(2)"]
 contentSelector = "td:nth-of-type(3)"
 
 [amphetamine_release_notes]
