@@ -278,7 +278,7 @@ contentSelector = "td:nth-of-type(3)"
 [amphetamine_release_notes]
 title = "Amphetamine release notes"
 url = "https://apps.apple.com/us/app/amphetamine/id937984704?mt=12"
-waitForSelector = "#mostRecentVersion dialog ul li"
+waitForSelector = "#mostRecentVersion"
 entrySelector = "#mostRecentVersion dialog ul li"
 titleSelector = [".metadata span", ".metadata time"]
 contentSelector = "p"
