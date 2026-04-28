@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-28T11:21:33.275Z</updated>
+    <updated>2026-04-28T11:41:27.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OpenAI via PPQ.ai]]></title>
+        <id>link-d6e8b2fe462b34d5f844716305338e9e</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/chatgpt-ppq-international/"/>
+        <updated>2026-04-28T11:39:24.692Z</updated>
+        <content type="html"><![CDATA[OpenAI via PPQ.ai — $1 - $100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude via PPQ.ai]]></title>
+        <id>link-a810513b2fe5f53c3ab0197f16802b18</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/claude-ppq-international/"/>
+        <updated>2026-04-28T11:39:24.692Z</updated>
+        <content type="html"><![CDATA[Claude via PPQ.ai — $1 - $100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini via PPQ.ai]]></title>
+        <id>link-b0d0fd71ca1bdd0d06e40117d2cbe00d</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/gemini-ppq-international/"/>
+        <updated>2026-04-28T11:39:24.692Z</updated>
+        <content type="html"><![CDATA[Gemini via PPQ.ai — $1 - $100]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wolt]]></title>
         <id>link-f799a0f6ca38c7701555bed18122c535</id>
@@ -263,26 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/valorant-eu/"/>
         <updated>2026-04-21T22:38:08.042Z</updated>
         <content type="html"><![CDATA[Valorant EU — €5 - €100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riot Access Europe]]></title>
-        <id>link-1967be5286dedb3ef5390377458739d2</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/riot-access-eu/"/>
-        <updated>2026-04-25T08:54:06.124Z</updated>
-        <content type="html"><![CDATA[Riot Access Europe — €2.5 - €100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guess EUR]]></title>
-        <id>link-c3dcb41301186022cadc1afde9118871</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/guess-eur/"/>
-        <updated>2026-04-27T21:03:15.532Z</updated>
-        <content type="html"><![CDATA[Guess EUR — €25 - €100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Hotel Card by Expedia]]></title>
-        <id>link-bfc217eb1ab4d618c8f153fee7e20b46</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/global-hotel-card-cz/"/>
-        <updated>2026-04-27T22:53:30.586Z</updated>
-        <content type="html"><![CDATA[Global Hotel Card by Expedia — 500 CZK - 22000 CZK]]></content>
     </entry>
 </feed>
