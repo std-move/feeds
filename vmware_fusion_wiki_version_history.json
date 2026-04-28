@@ -100,28 +100,28 @@
 			"retrieved": 1777383573558
 		},
 		{
-			"id": "title-d69cb3ec8acdff9e546877fb6df3b9fe",
-			"title": "13.5 — Oct 19, 2023",
+			"id": "title-5377be5b1b48e3e13356d1a248ef37a6",
+			"title": "13.5\n(Build 22583790) — Oct 19, 2023",
 			"contents": "<a rel=\"nofollow\" class=\"external text\" href=\"https://kb.vmware.com/s/article/93071\">New Security Enhancement</a>\n<p>Download and Install Windows 11 guest operating system on an Apple Silicon Mac\n</p><p>Import and Export Virtual Machines with vTPM device\n</p><p>Manage Power Operations of Encrypted Virtual Machines using VMREST API\n</p><p>VMware Hardware Version 21<sup id=\"cite_ref-13.5_release_notes_100-0\" class=\"reference\"><a href=\"#cite_note-13.5_release_notes-100\"><span class=\"cite-bracket\">[</span>100<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
-			"retrieved": 1777385845035
+			"retrieved": 1777386450276
 		},
 		{
-			"id": "title-3fba85f9f7cf9df64814d7259037b2e1",
-			"title": "13.5.2 — May 14, 2024",
+			"id": "title-3ecf1b0d575e6c53ba19b14fdfe8c0e3",
+			"title": "13.5.2\n(Build 23775688) — May 14, 2024",
 			"contents": "As of this version, Workstation Pro and Fusion Pro are free for personal use.<sup id=\"cite_ref-13.5.2_release_notes_101-0\" class=\"reference\"><a href=\"#cite_note-13.5.2_release_notes-101\"><span class=\"cite-bracket\">[</span>101<span class=\"cite-bracket\">]</span></a></sup>",
-			"retrieved": 1777385845035
+			"retrieved": 1777386450276
 		},
 		{
-			"id": "title-e4c07ba317ceebb8d1bc0a10a3bb73d9",
-			"title": "13.6.0 — Sep 3, 2024",
+			"id": "title-6f26f597d0cfe6063816ece29ea8e487",
+			"title": "13.6.0\n(Build 24238079) — Sep 3, 2024",
 			"contents": "Added vmcli command line tool, new host and client operating system support, and security updates.<sup id=\"cite_ref-13.6.0_release_notes_102-0\" class=\"reference\"><a href=\"#cite_note-13.6.0_release_notes-102\"><span class=\"cite-bracket\">[</span>102<span class=\"cite-bracket\">]</span></a></sup>",
-			"retrieved": 1777385845035
+			"retrieved": 1777386450276
 		},
 		{
-			"id": "title-27bcea43b887885ae2d47b65563d6e99",
-			"title": "25H2 — Oct 14, 2025",
+			"id": "title-660d0582b2eeaac09df2079548675794",
+			"title": "25H2\n(Build 24995814) — Oct 14, 2025",
 			"contents": "Introducing dictTool. Added support for USB 3.2. Added support for virtual hardware version 22. Added support for new guest operating systems. Added support for new host operating systems - macOS Tahoe (Intel and Apple Silicon).<sup id=\"cite_ref-25H2_release_notes_103-0\" class=\"reference\"><a href=\"#cite_note-25H2_release_notes-103\"><span class=\"cite-bracket\">[</span>103<span class=\"cite-bracket\">]</span></a></sup>",
-			"retrieved": 1777385845035
+			"retrieved": 1777386450276
 		}
 	]
 }

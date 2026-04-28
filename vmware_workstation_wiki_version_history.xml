@@ -2,6 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/VMware_Workstation</id>
     <title>VMware Workstation version history</title>
-    <updated>2026-04-28T14:20:11.165Z</updated>
+    <updated>2026-04-28T14:29:22.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[] — 17 May 2021]]></title>
+        <id>title-5aa9ddc265aafe421e57e5086053f9a4</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Security updates</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 14 October 2021]]></title>
+        <id>title-307b808b4d131a908d1e1e7fde28e65b</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Added support for <a href="/wiki/Vulkan" title="Vulkan">Vulkan</a> renderer on a Linux host with Intel, Nvidia, and AMD GPUs</li>
+<li>Added partial support for <a href="/wiki/Windows_11" title="Windows 11">Windows 11</a> as host or guest machines<sup id="cite_ref-win11_95-0" class="reference"><a href="#cite_note-win11-95"><span class="cite-bracket">[</span>95<span class="cite-bracket">]</span></a></sup></li>
+<li>Host GPUs that do not support <a href="/wiki/DirectX" title="DirectX">DirectX</a> feature level 11.1 are supported but deprecated<sup id="cite_ref-96" class="reference"><a href="#cite_note-96"><span class="cite-bracket">[</span>96<span class="cite-bracket">]</span></a></sup></li>
+<li>Host CPUs that do not support <a href="/wiki/Mode-based_Execution_Control" class="mw-redirect" title="Mode-based Execution Control">Mode-based Execution Control</a> are supported but deprecated</li>
+<li>Security updates and bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 9 November 2021]]></title>
+        <id>title-e1bb400a9978173065b18b573dc1bc73</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 18 January 2022]]></title>
+        <id>title-7ac11eddbc961344d0e09fa238c69982</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Security updates</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 10 March 2022]]></title>
+        <id>title-777bc1011b6b0778d90afce8379c7e13</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 21 July 2022]]></title>
+        <id>title-2d03b055977ebaa88e2b0a3b7cd7dc3e</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 7 December 2022]]></title>
+        <id>title-8f95cd30963523a15be6e3fd578531ce</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Bug fixes</li>
+<li>Last version for <a href="/wiki/Windows_8.1" title="Windows 8.1">Windows 8.1</a> on hosts. Note: If version 16 did not drop <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a> support until this version, it would not require Windows 7 users to upgrade to Windows 8 or later.</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 17 November 2022]]></title>
+        <id>title-93b42782d9a0ed8d1d2f84a6ecab518a</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Support for new guest operating systems
+<ul><li>New <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> <a href="/wiki/Windows_11" title="Windows 11">Windows 11</a> builds (including Enterprise)</li>
+<li><a href="/wiki/Windows_Server_2022" title="Windows Server 2022">Windows Server 2022</a></li>
+<li><a href="/wiki/Ubuntu_version_history#Ubuntu_22.04_LTS_(Jammy_Jellyfish)" title="Ubuntu version history">Ubuntu 22.04</a></li>
+<li><a href="/wiki/Red_Hat_Enterprise_Linux#RHEL_9" title="Red Hat Enterprise Linux">RHEL 9</a></li>
+<li><a href="/wiki/Debian_version_history#Debian_11_(Bullseye)" class="mw-redirect" title="Debian version history">Debian 11.x</a></li></ul></li>
+<li>New auto-start virtual machine feature</li>
+<li>New virtual <a href="/wiki/Trusted_Platform_Module" title="Trusted Platform Module">Trusted Platform Module</a> (TPM) 2.0</li>
+<li>New full or fast encryption features</li>
+<li>Support for OpenGL 4.3 and WDDM 1.2</li>
+<li>Bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 2 February 2023]]></title>
+        <id>title-868b1c1022773c6e10e5864427d0be24</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Security updates and bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 25 April 2023]]></title>
+        <id>title-c63da81b3087930aea350ea77d5eeaf7</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Security updates and bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 19 October 2023]]></title>
+        <id>title-7f087ed16dbbc4735672cb56aec3c5e0</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Support for up to 256 NVMe devices (4 controllers and 64 devices per controller)</li>
+<li>Support for NVMe 1.3</li>
+<li>Upgraded encryption algorithm from <a href="/wiki/Disk_encryption_theory#Cipher-block_chaining_(CBC)" title="Disk encryption theory">CBC</a> to <a href="/wiki/Disk_encryption_theory#XEX-based_tweaked-codebook_mode_with_ciphertext_stealing_(XTS)" title="Disk encryption theory">XTS</a></li>
+<li>New <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" style="" dir="ltr">VMRUN</code> command line utility for controlling virtual machines</li>
+<li>Support for importing or exporting virtual machines with vTPM device</li>
+<li>Support for managing power operations of encrypted virtual machines using VMREST API</li>
+<li>Security updates and bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 27 February 2024]]></title>
+        <id>title-7dd5075d5ae238db43ef4a1faac8fbe1</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Fixed CVE-2024-22251 vulnerability</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 14 May 2024]]></title>
+        <id>title-30ed740ca62d5a6c7a98a74c38f6f392</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Copyrights of program now link to <a href="/wiki/Broadcom" title="Broadcom">Broadcom</a>, VMware LLC's new owner</li>
+<li>Introduced commercial and personal use subscriptions licensing model. For personal use, a product key won't be required</li>
+<li>Workstation Player was discontinued as Workstation Pro became free for personal use<sup id="cite_ref-:0_15-1" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup></li>
+<li>Fixed CVE-2024-22267, CVE-2024-22268, CVE-2024-22269, and CVE-2024-22270 vulnerabilities</li>
+<li>Last version for <a href="/wiki/Windows_Server_2012_R2" title="Windows Server 2012 R2">Windows Server 2012 R2</a> and <a href="/wiki/Windows_Server_2016" title="Windows Server 2016">Windows Server 2016</a> on hosts</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 3 September 2024]]></title>
+        <id>title-3f7caf2a7909a31732f3e7f1b608ac13</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Support for new guest operating systems
+<ul><li>New <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> <a href="/wiki/Windows_11" title="Windows 11">Windows 11</a> builds (including Enterprise)</li>
+<li><a href="/wiki/Windows_Server_2025" title="Windows Server 2025">Windows Server 2025</a></li>
+<li><a href="/wiki/Ubuntu_version_history#Ubuntu_24.04_LTS_(Noble_Numbat)" title="Ubuntu version history">Ubuntu 24.04</a></li>
+<li><a href="/wiki/Fedora_Linux_release_history#Fedora_40" title="Fedora Linux release history">Fedora 40</a></li></ul></li>
+<li>New <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" style="" dir="ltr">vmcli</code> command line utility for directly interacting with the hypervisor from a Linux or macOS terminal, or the Windows command prompt</li></ul>
+<p><i>Removed</i> features:
+</p>
+<ul><li>Legacy operating systems Tools ISOs omitted from program download (still available for separate download)</li>
+<li>Bluetooth hub pass-through</li>
+<li>Physical <a href="/wiki/Parallel_port" title="Parallel port">parallel port</a> pass-through</li>
+<li>Unity mode</li>
+<li>Enhanced keyboard driver</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 10 October 2024]]></title>
+        <id>title-739c1a3dfffb577571d3beefb9329fac</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 17 December 2024]]></title>
+        <id>title-e47b8b193344d375998425039d07ed92</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Bug fixes</li>
+<li>Introduced a free licensing model for commercial, education, and personal use</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 4 March 2025]]></title>
+        <id>title-d031220e6a3fe85ede05d40ca51698e4</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Fixed CVE-2025-22224 and CVE-2025-22226 vulnerabilities</li>
+<li>Bug fixes</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 15 July 2025]]></title>
+        <id>title-a0b31c9f2e08c7fdd2f2fc74a56ad48f</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Fixed CVE-2025-41236, CVE-2025-41237, CVE-2025-41238, and CVE-2025-41239 vulnerabilities</li>
+<li>Fixed CVE-2025-2884 vulnerability</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[] — 14 October 2025]]></title>
+        <id>title-99a8af0b15c198cccbb7d79af3a03e4a</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Support for new guest operating systems
+<ul><li><a href="/wiki/Red_Hat_Enterprise_Linux#RHEL_10" title="Red Hat Enterprise Linux">Red Hat Enterprise Linux 10</a></li>
+<li><a href="/wiki/Fedora_Linux_release_history#Fedora_40" title="Fedora Linux release history">Fedora 42</a></li>
+<li><a href="/wiki/SUSE_Linux_Enterprise" title="SUSE Linux Enterprise">SUSE Linux Enterprise</a> 16 (Beta)</li>
+<li><a href="/wiki/OpenSUSE#Leap_16.x_series" title="OpenSUSE">OpenSUSE Leap 16.0</a> (RC)</li>
+<li><a href="/wiki/Debian" title="Debian">Debian</a> 13</li>
+<li><a href="/wiki/Oracle_Linux#Release_history" title="Oracle Linux">Oracle Linux 10</a></li>
+<li>VMware ESX 9.0</li></ul></li>
+<li>Support for new host operating systems
+<ul><li>Red Hat Enterprise Linux 10</li>
+<li>Fedora Linux 42</li>
+<li>openSUSE Leap 16.0 (RC)</li>
+<li>SUSE Linux 16 (Beta)</li>
+<li>Debian 13</li></ul></li>
+<li><a href="/wiki/USB_3.0#3.2" title="USB 3.0">USB 3.2 Gen 2×2</a> controller (up to <span class="nowrap"><span data-sort-value="7001200000000000000♠"></span>20&nbsp;<a href="/wiki/Gbit/s" class="mw-redirect" title="Gbit/s">gbit/s</a></span>)</li>
+<li>Update hardware compatibility to version v22</li>
+<li>Support for Hyper-V/WHP detection</li>
+<li>New <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" style="" dir="ltr">dictTool</code> command line utility for examining and modifying VMware configuration files</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25H2u1 (25.0.1.25219725) — 26 February 2026]]></title>
+        <id>title-2745a073d1741210a5115edc8f6227ba</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-04-28T14:27:30.276Z</updated>
+        <content type="html"><![CDATA[<ul><li>Re-enabled the Check for updates option</li>
+<li>Fixed CVE-2026-22715, CVE-2026-22716, CVE-2026-22717, and CVE-2026-22722 vulnerabilities</li></ul>]]></content>
+    </entry>
 </feed>
