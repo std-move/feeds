@@ -2,6 +2,544 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com Windows changelog</title>
-    <updated>2026-04-28T11:59:38.986Z</updated>
+    <updated>2026-04-28T12:05:28.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.32 / 2.2.57 - 03/24/2026]]></title>
+        <id>title-8fc29ab256a273aac8983787152f0b46</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-section-id="1fd8i8c" data-start="142" data-end="200" data-list-item-id="e887359c5437c8499d14a24ebab9d7eba">Removed inaccurate time remaining estimates.</li>
+<li data-section-id="1va3q4y" data-start="496" data-end="582" data-list-item-id="ef35a84c60acae7344ccc2b7b6928d4e1">Improved activity log performance and size management.</li>
+<li data-list-item-id="e700230be382aa4c6f31e553ac1316cc4"><p data-start="72" data-end="232">Fixed an issue when upgrading from version 2.1.x to 2.2.x.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed an issue when upgrading from version 2.1.x to 2.2.x.]]></title>
+        <id>title-0248034d89a485fd8f3f6b96028f8bc2</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e5aa5b79242e7596e63e965f201e80f12"><p data-start="72" data-end="232">Fixes an issue that was preventing updating from an older version.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.30 / 2.2.55 - 01/26/2026]]></title>
+        <id>title-f3e6f5cbd83c7cdd8e42607cd7197f21</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e5aa5b79242e7596e63e965f201e80f12"><p data-start="72" data-end="232">Fixes an issue that was preventing updating from an older version.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixes an issue that was preventing updating from an older version.]]></title>
+        <id>title-576c97d523c2f8e5d3c914a9b620e536</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="eedb90a876e66441222f22553a5bcd445"><p data-start="72" data-end="232">Improved performance, stability, and reduced CPU/memory usage for very large syncs (millions of small files, long paths, nested folder deletes).</p></li>
+<li data-list-item-id="efba7608d137ff888c13b414e658797cd"><p data-start="235" data-end="388">Improved upload reliability so syncing doesn’t stall.</p></li>
+<li data-list-item-id="e1795752312601b689380268cd384409c"><p data-start="391" data-end="555">Fixed issues with automatic updates, app not loading, and crashes caused by excluded/paused paths or too many excluded files.</p></li>
+<li data-list-item-id="ed9262e67272037dfdd6b54c001b8272d"><p data-start="558" data-end="619">Fixed rare crashes during SSL certificate verification.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.29 - 12/01/2025]]></title>
+        <id>title-258cbf51a8f1ac80d947f4da1c401bc2</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="eedb90a876e66441222f22553a5bcd445"><p data-start="72" data-end="232">Improved performance, stability, and reduced CPU/memory usage for very large syncs (millions of small files, long paths, nested folder deletes).</p></li>
+<li data-list-item-id="efba7608d137ff888c13b414e658797cd"><p data-start="235" data-end="388">Improved upload reliability so syncing doesn’t stall.</p></li>
+<li data-list-item-id="e1795752312601b689380268cd384409c"><p data-start="391" data-end="555">Fixed issues with automatic updates, app not loading, and crashes caused by excluded/paused paths or too many excluded files.</p></li>
+<li data-list-item-id="ed9262e67272037dfdd6b54c001b8272d"><p data-start="558" data-end="619">Fixed rare crashes during SSL certificate verification.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved performance, stability, and reduced CPU/memory usage for very large syncs (millions of small files, long paths, nested folder deletes).]]></title>
+        <id>title-e3074b56bf0dfe43a249fdd5752ff6ee</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e3f4c8d35c61b657c7b7a5114bdb4a22a">Eliminated issues that would cause syncing to stall.</li>
+<li data-list-item-id="e4bb5ccd7979f3a08f7e9cb074867369a">Ensure downloads don't block uploads.</li>
+<li data-list-item-id="e2d2b213f00cbfbdda3ad2506f3190884">File upload stability.</li>
+<li data-list-item-id="e457b0e25b76a2d5f20d6eedc93f76241">Improved account restore speed.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved upload reliability so syncing doesn’t stall.]]></title>
+        <id>title-087e586045b4e6cc9ba6373d6aa1728f</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e3f4c8d35c61b657c7b7a5114bdb4a22a">Eliminated issues that would cause syncing to stall.</li>
+<li data-list-item-id="e4bb5ccd7979f3a08f7e9cb074867369a">Ensure downloads don't block uploads.</li>
+<li data-list-item-id="e2d2b213f00cbfbdda3ad2506f3190884">File upload stability.</li>
+<li data-list-item-id="e457b0e25b76a2d5f20d6eedc93f76241">Improved account restore speed.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed issues with automatic updates, app not loading, and crashes caused by excluded/paused paths or too many excluded files.]]></title>
+        <id>title-353cf24d256f167513d95e94347dc1bf</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e3f4c8d35c61b657c7b7a5114bdb4a22a">Eliminated issues that would cause syncing to stall.</li>
+<li data-list-item-id="e4bb5ccd7979f3a08f7e9cb074867369a">Ensure downloads don't block uploads.</li>
+<li data-list-item-id="e2d2b213f00cbfbdda3ad2506f3190884">File upload stability.</li>
+<li data-list-item-id="e457b0e25b76a2d5f20d6eedc93f76241">Improved account restore speed.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed rare crashes during SSL certificate verification.]]></title>
+        <id>title-98fd1b4cb5f49eb1f327709c09e1bc54</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e3f4c8d35c61b657c7b7a5114bdb4a22a">Eliminated issues that would cause syncing to stall.</li>
+<li data-list-item-id="e4bb5ccd7979f3a08f7e9cb074867369a">Ensure downloads don't block uploads.</li>
+<li data-list-item-id="e2d2b213f00cbfbdda3ad2506f3190884">File upload stability.</li>
+<li data-list-item-id="e457b0e25b76a2d5f20d6eedc93f76241">Improved account restore speed.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.28.2 - 09/08/2025]]></title>
+        <id>title-1ca77238775c8a1d09bb7919e9006091</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e3f4c8d35c61b657c7b7a5114bdb4a22a">Eliminated issues that would cause syncing to stall.</li>
+<li data-list-item-id="e4bb5ccd7979f3a08f7e9cb074867369a">Ensure downloads don't block uploads.</li>
+<li data-list-item-id="e2d2b213f00cbfbdda3ad2506f3190884">File upload stability.</li>
+<li data-list-item-id="e457b0e25b76a2d5f20d6eedc93f76241">Improved account restore speed.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.52 - 08/25/2025]]></title>
+        <id>title-9b688d6c8a2da75d0413b92c90c12b5f</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="eb2c7bd4412a45b6977e0635774e54db8">Handle 3010 install errors cleanly</li>
+<li data-list-item-id="e326d517a2a94def467310be701fd99a9">Various fixes to prevent app from crashing</li>
+<li data-list-item-id="ed6e962427dfd295a80b3f7aea2258f02">Fixed "Run when computer started" setting</li>
+<li data-list-item-id="e57ae6dee446ee1efc0da01064603f99b">Ensure downgrade from 5.x to 2.x provides correct error messaging</li>
+<li data-list-item-id="ed24fbfd2171bb64563d684e627fbefb9">Expanded file event error coverage to improve app reliability and QA</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.27 - 07/28/2025]]></title>
+        <id>title-4af3d3206c35a256841af4e7df42f8f1</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-start="148" data-end="183" data-list-item-id="efa6acebf71a2a300f7917ccb0388b010"><p data-start="150" data-end="183">File upload stability.</p></li>
+<li data-start="184" data-end="221" data-list-item-id="ef958c1f5029669c5c927ddf77a8284c3"><p data-start="186" data-end="221">Windows 10 32-bit crash.</p></li>
+<li data-start="222" data-end="320" data-list-item-id="ead5908995c3be0a0bc1dc4456baf292c"><p data-start="224" data-end="320">Modified date of local cloud-only files now correct when files are edited on the web.</p></li>
+<li data-start="222" data-end="320" data-list-item-id="e860cef527c46e33282806d8e3bb2e9f6"><p data-start="224" data-end="320">Note: The 5.0.26 release was skipped</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File upload stability.]]></title>
+        <id>title-51dfc3804a5c62fa226a0119d7c46d51</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ed7760da0847bb7df69c342a796199a2b"><p data-start="130" data-end="186">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="ef3ea7ba51bcb77e4aa453115f0888151"><p data-start="189" data-end="262">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="e98134d28b6cf330a79a319b78cbbe17b"><p data-start="265" data-end="306">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="ebe4ae06b2a074482786d4a9aedd66eef"><p data-start="309" data-end="350">Events load much faster (Recents view).</p></li>
+<li data-list-item-id="e4b17f518bdc24f3b5ea7514df202792e"><p data-start="353" data-end="408">Clicking on folders in advanced tab (selective sync).</p></li>
+<li data-list-item-id="eafe124e7e5610a0326e56ab1b33e4f38"><p data-start="411" data-end="438">Installer text alignment.</p></li>
+<li data-list-item-id="e04b9d36cbb0f745c96ee297af6c5d98c"><p data-start="441" data-end="503">Improved load speed and reliability of the preferences pane.</p></li>
+<li data-list-item-id="ea63fa7a5a7dde2d4ef341988ac5a3d67"><p data-start="506" data-end="542">Fixed various installation errors.</p></li>
+<li data-list-item-id="e6027abd3b073996b7284e6eb0850ffee"><p data-start="545" data-end="599">Reduced instances causing deleted files to reappear.</p></li>
+<li data-list-item-id="e7b5e75b60db94c8ae765d358cc7a3b9a"><p data-start="602" data-end="639">Fixed crash related to missing DLL.</p></li>
+<li data-list-item-id="e4d78f01634299114798b0a983a88e773"><p data-start="642" data-end="692">Copy-to-vault no longer causes syncing to pause.</p></li>
+<li data-list-item-id="ef5a6883962d64b733d645783053419dd"><p data-start="695" data-end="746">Moving a share folder no longer breaks the share.</p></li>
+<li data-list-item-id="e62f59719f0ff14c9600b8b1af7bff1b8"><p data-start="749" data-end="801">Deleted files no longer listed as files to review.</p></li>
+<li data-list-item-id="e69ff8a156f2736d7e0aeecf3c41caf7f"><p data-start="804" data-end="842">Fixed incomplete uploads data issue.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 32-bit crash.]]></title>
+        <id>title-b61830ef9c9f49f9e78327066b75939d</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ed7760da0847bb7df69c342a796199a2b"><p data-start="130" data-end="186">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="ef3ea7ba51bcb77e4aa453115f0888151"><p data-start="189" data-end="262">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="e98134d28b6cf330a79a319b78cbbe17b"><p data-start="265" data-end="306">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="ebe4ae06b2a074482786d4a9aedd66eef"><p data-start="309" data-end="350">Events load much faster (Recents view).</p></li>
+<li data-list-item-id="e4b17f518bdc24f3b5ea7514df202792e"><p data-start="353" data-end="408">Clicking on folders in advanced tab (selective sync).</p></li>
+<li data-list-item-id="eafe124e7e5610a0326e56ab1b33e4f38"><p data-start="411" data-end="438">Installer text alignment.</p></li>
+<li data-list-item-id="e04b9d36cbb0f745c96ee297af6c5d98c"><p data-start="441" data-end="503">Improved load speed and reliability of the preferences pane.</p></li>
+<li data-list-item-id="ea63fa7a5a7dde2d4ef341988ac5a3d67"><p data-start="506" data-end="542">Fixed various installation errors.</p></li>
+<li data-list-item-id="e6027abd3b073996b7284e6eb0850ffee"><p data-start="545" data-end="599">Reduced instances causing deleted files to reappear.</p></li>
+<li data-list-item-id="e7b5e75b60db94c8ae765d358cc7a3b9a"><p data-start="602" data-end="639">Fixed crash related to missing DLL.</p></li>
+<li data-list-item-id="e4d78f01634299114798b0a983a88e773"><p data-start="642" data-end="692">Copy-to-vault no longer causes syncing to pause.</p></li>
+<li data-list-item-id="ef5a6883962d64b733d645783053419dd"><p data-start="695" data-end="746">Moving a share folder no longer breaks the share.</p></li>
+<li data-list-item-id="e62f59719f0ff14c9600b8b1af7bff1b8"><p data-start="749" data-end="801">Deleted files no longer listed as files to review.</p></li>
+<li data-list-item-id="e69ff8a156f2736d7e0aeecf3c41caf7f"><p data-start="804" data-end="842">Fixed incomplete uploads data issue.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modified date of local cloud-only files now correct when files are edited on the web.]]></title>
+        <id>title-6441e8ca41568292d12c91452cbeeb4b</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ed7760da0847bb7df69c342a796199a2b"><p data-start="130" data-end="186">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="ef3ea7ba51bcb77e4aa453115f0888151"><p data-start="189" data-end="262">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="e98134d28b6cf330a79a319b78cbbe17b"><p data-start="265" data-end="306">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="ebe4ae06b2a074482786d4a9aedd66eef"><p data-start="309" data-end="350">Events load much faster (Recents view).</p></li>
+<li data-list-item-id="e4b17f518bdc24f3b5ea7514df202792e"><p data-start="353" data-end="408">Clicking on folders in advanced tab (selective sync).</p></li>
+<li data-list-item-id="eafe124e7e5610a0326e56ab1b33e4f38"><p data-start="411" data-end="438">Installer text alignment.</p></li>
+<li data-list-item-id="e04b9d36cbb0f745c96ee297af6c5d98c"><p data-start="441" data-end="503">Improved load speed and reliability of the preferences pane.</p></li>
+<li data-list-item-id="ea63fa7a5a7dde2d4ef341988ac5a3d67"><p data-start="506" data-end="542">Fixed various installation errors.</p></li>
+<li data-list-item-id="e6027abd3b073996b7284e6eb0850ffee"><p data-start="545" data-end="599">Reduced instances causing deleted files to reappear.</p></li>
+<li data-list-item-id="e7b5e75b60db94c8ae765d358cc7a3b9a"><p data-start="602" data-end="639">Fixed crash related to missing DLL.</p></li>
+<li data-list-item-id="e4d78f01634299114798b0a983a88e773"><p data-start="642" data-end="692">Copy-to-vault no longer causes syncing to pause.</p></li>
+<li data-list-item-id="ef5a6883962d64b733d645783053419dd"><p data-start="695" data-end="746">Moving a share folder no longer breaks the share.</p></li>
+<li data-list-item-id="e62f59719f0ff14c9600b8b1af7bff1b8"><p data-start="749" data-end="801">Deleted files no longer listed as files to review.</p></li>
+<li data-list-item-id="e69ff8a156f2736d7e0aeecf3c41caf7f"><p data-start="804" data-end="842">Fixed incomplete uploads data issue.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Note: The 5.0.26 release was skipped]]></title>
+        <id>title-8356c35b36c3f560ce7afe1dc6158b4c</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ed7760da0847bb7df69c342a796199a2b"><p data-start="130" data-end="186">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="ef3ea7ba51bcb77e4aa453115f0888151"><p data-start="189" data-end="262">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="e98134d28b6cf330a79a319b78cbbe17b"><p data-start="265" data-end="306">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="ebe4ae06b2a074482786d4a9aedd66eef"><p data-start="309" data-end="350">Events load much faster (Recents view).</p></li>
+<li data-list-item-id="e4b17f518bdc24f3b5ea7514df202792e"><p data-start="353" data-end="408">Clicking on folders in advanced tab (selective sync).</p></li>
+<li data-list-item-id="eafe124e7e5610a0326e56ab1b33e4f38"><p data-start="411" data-end="438">Installer text alignment.</p></li>
+<li data-list-item-id="e04b9d36cbb0f745c96ee297af6c5d98c"><p data-start="441" data-end="503">Improved load speed and reliability of the preferences pane.</p></li>
+<li data-list-item-id="ea63fa7a5a7dde2d4ef341988ac5a3d67"><p data-start="506" data-end="542">Fixed various installation errors.</p></li>
+<li data-list-item-id="e6027abd3b073996b7284e6eb0850ffee"><p data-start="545" data-end="599">Reduced instances causing deleted files to reappear.</p></li>
+<li data-list-item-id="e7b5e75b60db94c8ae765d358cc7a3b9a"><p data-start="602" data-end="639">Fixed crash related to missing DLL.</p></li>
+<li data-list-item-id="e4d78f01634299114798b0a983a88e773"><p data-start="642" data-end="692">Copy-to-vault no longer causes syncing to pause.</p></li>
+<li data-list-item-id="ef5a6883962d64b733d645783053419dd"><p data-start="695" data-end="746">Moving a share folder no longer breaks the share.</p></li>
+<li data-list-item-id="e62f59719f0ff14c9600b8b1af7bff1b8"><p data-start="749" data-end="801">Deleted files no longer listed as files to review.</p></li>
+<li data-list-item-id="e69ff8a156f2736d7e0aeecf3c41caf7f"><p data-start="804" data-end="842">Fixed incomplete uploads data issue.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.50 - 06/02/2025]]></title>
+        <id>title-4484f36b485cbaa3fae27cf26515e7ea</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ed7760da0847bb7df69c342a796199a2b"><p data-start="130" data-end="186">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="ef3ea7ba51bcb77e4aa453115f0888151"><p data-start="189" data-end="262">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="e98134d28b6cf330a79a319b78cbbe17b"><p data-start="265" data-end="306">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="ebe4ae06b2a074482786d4a9aedd66eef"><p data-start="309" data-end="350">Events load much faster (Recents view).</p></li>
+<li data-list-item-id="e4b17f518bdc24f3b5ea7514df202792e"><p data-start="353" data-end="408">Clicking on folders in advanced tab (selective sync).</p></li>
+<li data-list-item-id="eafe124e7e5610a0326e56ab1b33e4f38"><p data-start="411" data-end="438">Installer text alignment.</p></li>
+<li data-list-item-id="e04b9d36cbb0f745c96ee297af6c5d98c"><p data-start="441" data-end="503">Improved load speed and reliability of the preferences pane.</p></li>
+<li data-list-item-id="ea63fa7a5a7dde2d4ef341988ac5a3d67"><p data-start="506" data-end="542">Fixed various installation errors.</p></li>
+<li data-list-item-id="e6027abd3b073996b7284e6eb0850ffee"><p data-start="545" data-end="599">Reduced instances causing deleted files to reappear.</p></li>
+<li data-list-item-id="e7b5e75b60db94c8ae765d358cc7a3b9a"><p data-start="602" data-end="639">Fixed crash related to missing DLL.</p></li>
+<li data-list-item-id="e4d78f01634299114798b0a983a88e773"><p data-start="642" data-end="692">Copy-to-vault no longer causes syncing to pause.</p></li>
+<li data-list-item-id="ef5a6883962d64b733d645783053419dd"><p data-start="695" data-end="746">Moving a share folder no longer breaks the share.</p></li>
+<li data-list-item-id="e62f59719f0ff14c9600b8b1af7bff1b8"><p data-start="749" data-end="801">Deleted files no longer listed as files to review.</p></li>
+<li data-list-item-id="e69ff8a156f2736d7e0aeecf3c41caf7f"><p data-start="804" data-end="842">Fixed incomplete uploads data issue.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increased per folder file limit from 10,000 to 50,000.]]></title>
+        <id>title-1a5e19258f02c8e7a489b77180cfa1ef</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More prominent error messaging with links to help desk for stuck files.]]></title>
+        <id>title-eab28d5922d449f2854e9d56f6ef8f21</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["core" no longer an excluded file name.]]></title>
+        <id>title-673139508b2ddf7c85cac4c93166473f</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Events load much faster (Recents view).]]></title>
+        <id>title-e63b1c1c965a68fb0a0f60d9a630b992</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clicking on folders in advanced tab (selective sync).]]></title>
+        <id>title-73d8ccbe9c24c276264e78fed1a15760</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installer text alignment.]]></title>
+        <id>title-c4045de910fbaac8fa3c8cf2abdf007c</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved load speed and reliability of the preferences pane.]]></title>
+        <id>title-7ed7a1ec005ef1feb32216e8979b2b30</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed various installation errors.]]></title>
+        <id>title-db27bc498be59826415fb5f47a6ab0dc</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduced instances causing deleted files to reappear.]]></title>
+        <id>title-7abe411cfd1a520c303dd18a22c3ab7d</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed crash related to missing DLL.]]></title>
+        <id>title-b1a569bec31d51a4aba8582b8406ac67</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy-to-vault no longer causes syncing to pause.]]></title>
+        <id>title-6c411eaa06089b03a6085b61a989a8cd</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving a share folder no longer breaks the share.]]></title>
+        <id>title-c15dd4093202283f0a985264e284eea7</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deleted files no longer listed as files to review.]]></title>
+        <id>title-4c9e2c9f765a6ba33bc9c5cdce195581</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed incomplete uploads data issue.]]></title>
+        <id>title-411d20a4e3d455301f943d93397ba77d</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.25 - 04/28/2025]]></title>
+        <id>title-9a33bfe79cd7a1357c814757e5990deb</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec4251b241c585afd76c7c35330f939db"><p data-start="146" data-end="202">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e6d896343a3b8b97fe8f189b4f8a4fde1"><p data-start="205" data-end="278">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="edc366bef70336a8323ecaa7042c3af6b"><p data-start="281" data-end="322">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e9c172e44e0b7eca786ae9bad4f3719d8"><p data-start="325" data-end="384">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="e0b4c8ca65a359730eac64339a52a759e"><p data-start="387" data-end="436">Fixed instances where app would pause or crash.</p></li>
+<li data-list-item-id="ee0088b3c236c4b5799531d116be7eadf"><p data-start="439" data-end="514">Check to prevent multiple users from using the same Sync folder location.</p></li>
+<li data-list-item-id="e4aada84629f9c785685a9c9632a8e19a"><p data-start="517" data-end="568">Moving a share folder no longer breaks the share.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increased per folder file limit from 10,000 to 50,000.]]></title>
+        <id>title-1a5e19258f02c8e7a489b77180cfa1ef</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e17ce3c6a67d704b4affad79a190eeb8c">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="e7377f774e928d30c1232af823961f8d0">Improved reliability of large file uploads and downloads.</li>
+<li data-list-item-id="ef3b6204755bb452fb346bba1c21ea669">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e224c0d882f4938ee4c44f6d826396831">Corrected a typo in the app installer.</li>
+<li data-list-item-id="e1994c1a8c4faa6bee4e9da7e3235a90f">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>
+<li data-list-item-id="e478c912b429b9abb6f841fbcf3e2dab6">Setting a file to Cloud-Only sometimes reverts to local storage.</li>
+<li data-list-item-id="e9da46fa7aa51c3089bd7d76fc2d43e46">Item in sync were being incorrectly reported as “pending” in some cases.</li>
+<li data-list-item-id="e340ea27707cf1d23c90be65b835f4d96">When installing on Windows 11 some text was not being displayed fully.</li>
+<li data-list-item-id="e6fb29df92f549d25c01fe269c820eb6d">Video files with the .BRAW extensions were not always downloading from the cloud.</li>
+<li data-list-item-id="e6eee7fc70eedad7354fee0d0eca1b366">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More prominent error messaging with links to help desk for stuck files.]]></title>
+        <id>title-eab28d5922d449f2854e9d56f6ef8f21</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e17ce3c6a67d704b4affad79a190eeb8c">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="e7377f774e928d30c1232af823961f8d0">Improved reliability of large file uploads and downloads.</li>
+<li data-list-item-id="ef3b6204755bb452fb346bba1c21ea669">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e224c0d882f4938ee4c44f6d826396831">Corrected a typo in the app installer.</li>
+<li data-list-item-id="e1994c1a8c4faa6bee4e9da7e3235a90f">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>
+<li data-list-item-id="e478c912b429b9abb6f841fbcf3e2dab6">Setting a file to Cloud-Only sometimes reverts to local storage.</li>
+<li data-list-item-id="e9da46fa7aa51c3089bd7d76fc2d43e46">Item in sync were being incorrectly reported as “pending” in some cases.</li>
+<li data-list-item-id="e340ea27707cf1d23c90be65b835f4d96">When installing on Windows 11 some text was not being displayed fully.</li>
+<li data-list-item-id="e6fb29df92f549d25c01fe269c820eb6d">Video files with the .BRAW extensions were not always downloading from the cloud.</li>
+<li data-list-item-id="e6eee7fc70eedad7354fee0d0eca1b366">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["core" no longer an excluded file name.]]></title>
+        <id>title-673139508b2ddf7c85cac4c93166473f</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e17ce3c6a67d704b4affad79a190eeb8c">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="e7377f774e928d30c1232af823961f8d0">Improved reliability of large file uploads and downloads.</li>
+<li data-list-item-id="ef3b6204755bb452fb346bba1c21ea669">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e224c0d882f4938ee4c44f6d826396831">Corrected a typo in the app installer.</li>
+<li data-list-item-id="e1994c1a8c4faa6bee4e9da7e3235a90f">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>
+<li data-list-item-id="e478c912b429b9abb6f841fbcf3e2dab6">Setting a file to Cloud-Only sometimes reverts to local storage.</li>
+<li data-list-item-id="e9da46fa7aa51c3089bd7d76fc2d43e46">Item in sync were being incorrectly reported as “pending” in some cases.</li>
+<li data-list-item-id="e340ea27707cf1d23c90be65b835f4d96">When installing on Windows 11 some text was not being displayed fully.</li>
+<li data-list-item-id="e6fb29df92f549d25c01fe269c820eb6d">Video files with the .BRAW extensions were not always downloading from the cloud.</li>
+<li data-list-item-id="e6eee7fc70eedad7354fee0d0eca1b366">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed various issues that could cause files to get stuck.]]></title>
+        <id>title-f644683d945923da6bab1ac53be116ac</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e17ce3c6a67d704b4affad79a190eeb8c">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="e7377f774e928d30c1232af823961f8d0">Improved reliability of large file uploads and downloads.</li>
+<li data-list-item-id="ef3b6204755bb452fb346bba1c21ea669">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e224c0d882f4938ee4c44f6d826396831">Corrected a typo in the app installer.</li>
+<li data-list-item-id="e1994c1a8c4faa6bee4e9da7e3235a90f">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>
+<li data-list-item-id="e478c912b429b9abb6f841fbcf3e2dab6">Setting a file to Cloud-Only sometimes reverts to local storage.</li>
+<li data-list-item-id="e9da46fa7aa51c3089bd7d76fc2d43e46">Item in sync were being incorrectly reported as “pending” in some cases.</li>
+<li data-list-item-id="e340ea27707cf1d23c90be65b835f4d96">When installing on Windows 11 some text was not being displayed fully.</li>
+<li data-list-item-id="e6fb29df92f549d25c01fe269c820eb6d">Video files with the .BRAW extensions were not always downloading from the cloud.</li>
+<li data-list-item-id="e6eee7fc70eedad7354fee0d0eca1b366">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed instances where app would pause or crash.]]></title>
+        <id>title-8cdded82fabdf775b37b2e17a164cc4f</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e17ce3c6a67d704b4affad79a190eeb8c">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="e7377f774e928d30c1232af823961f8d0">Improved reliability of large file uploads and downloads.</li>
+<li data-list-item-id="ef3b6204755bb452fb346bba1c21ea669">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e224c0d882f4938ee4c44f6d826396831">Corrected a typo in the app installer.</li>
+<li data-list-item-id="e1994c1a8c4faa6bee4e9da7e3235a90f">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>
+<li data-list-item-id="e478c912b429b9abb6f841fbcf3e2dab6">Setting a file to Cloud-Only sometimes reverts to local storage.</li>
+<li data-list-item-id="e9da46fa7aa51c3089bd7d76fc2d43e46">Item in sync were being incorrectly reported as “pending” in some cases.</li>
+<li data-list-item-id="e340ea27707cf1d23c90be65b835f4d96">When installing on Windows 11 some text was not being displayed fully.</li>
+<li data-list-item-id="e6fb29df92f549d25c01fe269c820eb6d">Video files with the .BRAW extensions were not always downloading from the cloud.</li>
+<li data-list-item-id="e6eee7fc70eedad7354fee0d0eca1b366">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check to prevent multiple users from using the same Sync folder location.]]></title>
+        <id>title-6c501b8aa8f683213fc17ed09ee15181</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e17ce3c6a67d704b4affad79a190eeb8c">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="e7377f774e928d30c1232af823961f8d0">Improved reliability of large file uploads and downloads.</li>
+<li data-list-item-id="ef3b6204755bb452fb346bba1c21ea669">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e224c0d882f4938ee4c44f6d826396831">Corrected a typo in the app installer.</li>
+<li data-list-item-id="e1994c1a8c4faa6bee4e9da7e3235a90f">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>
+<li data-list-item-id="e478c912b429b9abb6f841fbcf3e2dab6">Setting a file to Cloud-Only sometimes reverts to local storage.</li>
+<li data-list-item-id="e9da46fa7aa51c3089bd7d76fc2d43e46">Item in sync were being incorrectly reported as “pending” in some cases.</li>
+<li data-list-item-id="e340ea27707cf1d23c90be65b835f4d96">When installing on Windows 11 some text was not being displayed fully.</li>
+<li data-list-item-id="e6fb29df92f549d25c01fe269c820eb6d">Video files with the .BRAW extensions were not always downloading from the cloud.</li>
+<li data-list-item-id="e6eee7fc70eedad7354fee0d0eca1b366">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving a share folder no longer breaks the share.]]></title>
+        <id>title-c15dd4093202283f0a985264e284eea7</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e17ce3c6a67d704b4affad79a190eeb8c">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="e7377f774e928d30c1232af823961f8d0">Improved reliability of large file uploads and downloads.</li>
+<li data-list-item-id="ef3b6204755bb452fb346bba1c21ea669">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e224c0d882f4938ee4c44f6d826396831">Corrected a typo in the app installer.</li>
+<li data-list-item-id="e1994c1a8c4faa6bee4e9da7e3235a90f">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>
+<li data-list-item-id="e478c912b429b9abb6f841fbcf3e2dab6">Setting a file to Cloud-Only sometimes reverts to local storage.</li>
+<li data-list-item-id="e9da46fa7aa51c3089bd7d76fc2d43e46">Item in sync were being incorrectly reported as “pending” in some cases.</li>
+<li data-list-item-id="e340ea27707cf1d23c90be65b835f4d96">When installing on Windows 11 some text was not being displayed fully.</li>
+<li data-list-item-id="e6fb29df92f549d25c01fe269c820eb6d">Video files with the .BRAW extensions were not always downloading from the cloud.</li>
+<li data-list-item-id="e6eee7fc70eedad7354fee0d0eca1b366">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.23 - 02/06/2025]]></title>
+        <id>title-bb93ca82538c70a157116d0df9ceba14</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:03:44.880Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e17ce3c6a67d704b4affad79a190eeb8c">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="e7377f774e928d30c1232af823961f8d0">Improved reliability of large file uploads and downloads.</li>
+<li data-list-item-id="ef3b6204755bb452fb346bba1c21ea669">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e224c0d882f4938ee4c44f6d826396831">Corrected a typo in the app installer.</li>
+<li data-list-item-id="e1994c1a8c4faa6bee4e9da7e3235a90f">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>
+<li data-list-item-id="e478c912b429b9abb6f841fbcf3e2dab6">Setting a file to Cloud-Only sometimes reverts to local storage.</li>
+<li data-list-item-id="e9da46fa7aa51c3089bd7d76fc2d43e46">Item in sync were being incorrectly reported as “pending” in some cases.</li>
+<li data-list-item-id="e340ea27707cf1d23c90be65b835f4d96">When installing on Windows 11 some text was not being displayed fully.</li>
+<li data-list-item-id="e6fb29df92f549d25c01fe269c820eb6d">Video files with the .BRAW extensions were not always downloading from the cloud.</li>
+<li data-list-item-id="e6eee7fc70eedad7354fee0d0eca1b366">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>]]></content>
+    </entry>
 </feed>
