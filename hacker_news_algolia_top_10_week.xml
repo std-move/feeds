@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-04-28T10:15:37.754Z</updated>
+    <updated>2026-04-28T11:21:33.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47907879"><span>The West forgot how to make things, now it’s forgetting how to code</span></a><a href="https://techtrenches.dev/p/the-west-forgot-how-to-make-things" target="_blank" class="Story_link">(https://techtrenches.dev/p/the-west-forgot-how-to-make-things)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47907879">1175 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=milkglass"><span>milkglass</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47907879">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47907879">840 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laws of Software Engineering]]></title>
-        <id>link-080c67840e72b45d8c368b78c19d4bea</id>
-        <link href="https://news.ycombinator.com/item?id=47847179"/>
-        <updated>2026-04-23T08:34:56.755Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47847179"><span>Laws of Software Engineering</span></a><a href="https://lawsofsoftwareengineering.com" target="_blank" class="Story_link">(https://lawsofsoftwareengineering.com)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47847179">1168 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=milanm081"><span>milanm081</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47847179">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47847179">526 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I am building a cloud]]></title>
         <id>link-e1afe265196521bb11efeee76e23462c</id>
         <link href="https://news.ycombinator.com/item?id=47872324"/>
@@ -59,7 +52,7 @@
         <id>link-29225a69b72f0f3736a5744a0e96c2b2</id>
         <link href="https://news.ycombinator.com/item?id=47914165"/>
         <updated>2026-04-27T17:22:44.422Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47914165"><span>I bought Friendster for $30k – Here's what I'm doing with it</span></a><a href="https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d" target="_blank" class="Story_link">(https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47914165">1083 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ca98am79"><span>ca98am79</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47914165">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47914165">595 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47914165"><span>I bought Friendster for $30k – Here's what I'm doing with it</span></a><a href="https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d" target="_blank" class="Story_link">(https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47914165">1085 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ca98am79"><span>ca98am79</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47914165">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47914165">595 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Images 2.0]]></title>
@@ -74,5 +67,12 @@
         <link href="https://news.ycombinator.com/item?id=47861270"/>
         <updated>2026-04-27T21:03:15.532Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47861270"><span>Windows 9x Subsystem for Linux</span></a><a href="https://social.hails.org/@hailey/116446826733136456" target="_blank" class="Story_link">(https://social.hails.org/@hailey/116446826733136456)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47861270">1008 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=sohkamyung"><span>sohkamyung</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47861270">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47861270">254 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model]]></title>
+        <id>link-7f4dd4250dd30be4d09102638bc76aaf</id>
+        <link href="https://news.ycombinator.com/item?id=47863217"/>
+        <updated>2026-04-28T11:19:40.407Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47863217"><span>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</span></a><a href="https://qwen.ai/blog?id=qwen3.6-27b" target="_blank" class="Story_link">(https://qwen.ai/blog?id=qwen3.6-27b)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47863217">991 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=mfiguiere"><span>mfiguiere</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47863217">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47863217">446 comments</a></span></div></div></div>]]></content>
     </entry>
 </feed>
