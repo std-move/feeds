@@ -256,4 +256,4 @@ url = "https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desk
 waitForSelector = "#tab-panel-generated-0"
 entrySelector = "#tab-panel-generated-0 p"
 titleSelector = "*"
-contentSelector = "xpath=./following-sibling::ul"
+contentSelector = "xpath=../following-sibling::ul"
