@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-28T15:14:15.249Z</updated>
+    <updated>2026-04-28T15:53:10.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/flexepin-european-union/"/>
         <updated>2026-03-05T10:39:53.121Z</updated>
         <content type="html"><![CDATA[Flexepin EU — €10 - €100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lego]]></title>
+        <id>link-fc840a0b48a2c22e80e963ca38dc4264</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/lego-czech-republic/"/>
+        <updated>2026-04-28T15:51:15.768Z</updated>
+        <content type="html"><![CDATA[Lego — 500 CZK - 1000 CZK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PPQ.ai]]></title>
@@ -195,6 +202,13 @@
         <content type="html"><![CDATA[SLEVOMAT CZ — 500 CZK]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Givery Multibrand CZ]]></title>
+        <id>link-306ea4eb21e9ebfa3b7527431f911418</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/givery-multibrand-card-cz-1000_00/"/>
+        <updated>2026-04-28T15:51:15.768Z</updated>
+        <content type="html"><![CDATA[Givery Multibrand CZ — 500 CZK - 1000 CZK]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CoinTracking International]]></title>
         <id>link-415dda5a9aed6fb525cc5ccba3292f59</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/cointracking-international/"/>
@@ -270,19 +284,5 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/blizzard-battle_net-eu/"/>
         <updated>2026-03-13T20:35:41.441Z</updated>
         <content type="html"><![CDATA[Battle.net EU — €20 - €100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eneba Games Store EUR]]></title>
-        <id>link-7bcb43fa1807749a7ca77a34fa82f097</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/eneba-gift-card-eu/"/>
-        <updated>2026-04-06T16:50:10.069Z</updated>
-        <content type="html"><![CDATA[Eneba Games Store EUR — €5 - €200]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valorant EU]]></title>
-        <id>link-89cb75023ba3915e6240664935e2dbce</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/valorant-eu/"/>
-        <updated>2026-04-21T22:38:08.042Z</updated>
-        <content type="html"><![CDATA[Valorant EU — €5 - €100]]></content>
     </entry>
 </feed>
