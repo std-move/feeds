@@ -243,7 +243,7 @@ linkSelector = ".release-enhancements a"
 contentSelector = [".release-number", ".release-date", ".release-download", ".release-enhancements"]
 
 [mac_os_releases_air_15_m5]
-title = "MacOS releases for Air 15 M5"
+title = "macOS releases for Air 15 M5"
 url = "https://appledb.dev/device/Mac17,4.html?filter=release"
 waitForSelector = ".firmwareVersionTableElement"
 entrySelector = ".firmwareVersionTableElement"
@@ -255,5 +255,13 @@ title = "Sync.com Windows changelog"
 url = "https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS"
 waitForSelector = "#tab-panel-generated-0 > p"
 entrySelector = "#tab-panel-generated-0 > p"
+titleSelector = "*"
+contentSelector = "xpath=./following::ul"
+
+[sync_com_macos_changelog]
+title = "Sync.com macOS changelog"
+url = "https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS"
+waitForSelector = "#tab-panel-generated-1 > p"
+entrySelector = "#tab-panel-generated-1 > p"
 titleSelector = "*"
 contentSelector = "xpath=./following::ul"
