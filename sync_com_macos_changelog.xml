@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
+    <title>Sync.com macOS changelog</title>
+    <updated>2026-04-28T12:55:59.484Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.32 - 03/24/2026]]></title>
+        <id>title-2cec62ad37d87afcdc1e5b93ce862a81</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e9a8319c34f734c95d68191a82abc111e"><p data-start="72" data-end="232">Removed inaccurate time remaining estimates.</p></li>
+<li data-list-item-id="e3c93f467da71284dbcca709f22d75f3e"><p data-start="72" data-end="232">Fixed a crash on OS 13.&nbsp;</p></li>
+<li data-list-item-id="e42399864e6cfe262318ae1588502fb2f"><p data-start="72" data-end="232">Fixed database errors that could slow down some uploads.&nbsp;</p></li>
+<li data-list-item-id="e122e311ef8718f1fb5fc00ccc7016361"><p data-start="72" data-end="232">Improved activity log performance and size management.</p></li>
+<li data-list-item-id="ece5f4893ff5c6a79afd7253410f8dcd2"><p data-start="72" data-end="232">Improved upgrades from version 2.1.x to 2.2.x.&nbsp;</p></li>
+<li data-list-item-id="e3e64bc776fc3353bfa7b6bdf07339e0f"><p data-start="72" data-end="232">Improved handling of the 50,000 file limit per folder</p></li>
+<li data-list-item-id="e8bf755e58489e504d426ccfedb1c73fa"><p data-start="72" data-end="232">Fixed an issue where renaming or moving folders could leave locks in place.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.57 - 03/24/2026]]></title>
+        <id>title-a7d2527e50a43ee9a41dc605c9100159</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-section-id="1fd8i8c" data-start="142" data-end="200" data-list-item-id="e05f72a956bf9bafdfd25f561ba901424">Removed inaccurate time remaining estimates.</li>
+<li data-section-id="1va3q4y" data-start="496" data-end="582" data-list-item-id="e60093e6738f9525151056c69955064a3">Improved activity log performance and size management.</li>
+<li data-list-item-id="e6a4ee50cd6779a202e305a62f6f4249c"><p data-start="72" data-end="232">Fixed an issue when upgrading from version 2.1.x to 2.2.x.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.30 / 2.2.55 - 01/26/2026]]></title>
+        <id>title-f3e6f5cbd83c7cdd8e42607cd7197f21</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e930509bb971a52fa6ed078cc5c361fd1"><p data-start="72" data-end="232">Fixes an issue that was preventing updating from an older version</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.29 - 12/01/2025]]></title>
+        <id>title-258cbf51a8f1ac80d947f4da1c401bc2</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e7f05ec7a008b33f7b86918938389b144"><p data-start="2" data-end="69">Changed upgrade behavior: when upgrading from 2.x to 5.x, files are set to cloud-only by default.</p></li>
+<li data-list-item-id="ec85711bb5bb909f5c5af65712adc56e6"><p data-start="72" data-end="247">Improved CloudFiles reliability and performance.</p></li>
+<li data-list-item-id="e360c1066ca4a755d9bf1ee450bc8f689"><p data-start="250" data-end="383">Improved upload performance and reliability, including better connection reuse and more reliable uploads for 100 GB+ files.</p></li>
+<li data-list-item-id="e1b813c27cae7e092c71500d0b3d0d475"><p data-start="386" data-end="476">Fixed issues with automatic updates, app not loading, and crashes caused by excluded/paused paths or too many excluded files.</p></li>
+<li data-list-item-id="e6c6f1ca510a7b833ed598d78ebfd695e"><p data-start="479" data-end="558">Improved handling of cross-platform filenames to prevent name collisions.</p></li>
+<li data-list-item-id="ec507fa346126ee228b65711166dd21dd">Fixed an issue where deleting 50 or more files at once could fail.</li>
+<li data-list-item-id="ede93adc7004358b25b0543a6669b4877">Fixed an issue where some Unlimited accounts incorrectly displayed a “Storage is full” message.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.53 - 10/01/2025]]></title>
+        <id>title-ac32eac3426aed3a4d659e0b48267f90</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ef21dc42b1fb2bf05fd22051ece4b6591">Eliminated slow UI when launching on very large accounts (millions of files).</li>
+<li data-list-item-id="e55e2196aa78a34d49bb9b41ebbe1f8ea">Fixed issue where the app did not always launch at system startup.</li>
+<li data-list-item-id="e7cbc04374efe3546552951d4430bbe9c">Account restore during install now completes much faster.</li>
+<li data-list-item-id="e9dced1c5665e290082a964ed3ecbbe78">Fixed crash when the device ID was blank.</li>
+<li data-list-item-id="e019f9bbf8a5c04ec7ca4585419c45663">Improved lock handling to prevent potential syncing issues.</li>
+<li data-list-item-id="ee7b92376d76372a0b747211128f3eed8">Updated OpenSSL to 3.x to address rare app crashes.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.28.2 - 09/08/2025]]></title>
+        <id>title-1ca77238775c8a1d09bb7919e9006091</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e218a93a538d01a33fd41b5c8160047a6">Clicking Sync folder opens the Sync folder.</li>
+<li data-list-item-id="ed6f8597ce340aacb517b7ff38bae61b2">Eliminated issues that would cause syncing to stall.</li>
+<li data-list-item-id="e6e5c90aff31c59d9eab2f3bb3cb01523">Ensure downloads don't block uploads.</li>
+<li data-list-item-id="ea61afa315fccefe4dcefb13ae8071f7a">Ensure shares cannot be moved into shares.</li>
+<li data-list-item-id="e89f55cbe70b56fbf7e826793083e6071">Ensure thumbnails are backfilling properly.</li>
+<li data-list-item-id="efecdf388ed2f0f62d7bec187cf344f34">File upload stability.</li>
+<li data-list-item-id="e863acbbb641e6378de0347ca9de027c8">Fixed run when computer is started.</li>
+<li data-list-item-id="e13dc1c3109de526c41d062e2bcebc612">Fixed storage is full error.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.52 - 08/25/2025]]></title>
+        <id>title-9b688d6c8a2da75d0413b92c90c12b5f</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ea0443c46519eb492cb20e6b2c25ae2b5">Handle 3010 install errors cleanly</li>
+<li data-list-item-id="e42bb7f3a4c0ea4e6ec6eed7c14a13e31">Various fixes to prevent app from crashing</li>
+<li data-list-item-id="edf45b4b484b1440cb59c340281ec5923">Fixed "Run when computer started" setting</li>
+<li data-list-item-id="e2354f2fc2a5243b60d1ed0ac5a7af91e">Ensure downgrade from 5.x to 2.x provides correct error messaging</li>
+<li data-list-item-id="e83ef36e638323d2cd2ed8e01e24dc2d0">Expanded file event error coverage to improve app reliability and QA</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.27 - 07/25/2025]]></title>
+        <id>title-e5a01d3ea781f0c70322f78186e20c01</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-start="390" data-end="442" data-list-item-id="e29c2100ec95c084d4e31ebbc1c8cc8a9"><p data-start="392" data-end="442">Faster initial file loading on new install.</p></li>
+<li data-start="443" data-end="480" data-list-item-id="e0eeb9c265a40ae038edc178c3f67b984"><p data-start="445" data-end="480">Broken Sync folder shortcut.</p></li>
+<li data-start="481" data-end="505" data-list-item-id="e518fa5a451326164d52302e201993e91"><p data-start="483" data-end="505">macOS 12.7 fix.</p></li>
+<li data-start="506" data-end="557" data-list-item-id="ebc43a6bf32b10b5c4fff9917cf6135c4"><p data-start="508" data-end="557">Issues where app had to be launched twice.</p></li>
+<li data-start="558" data-end="603" data-list-item-id="e6e9767cb298b0e8ccbe3dd6c8dd5c62c"><p data-start="560" data-end="603">Stability issues related to locking.</p></li>
+<li data-start="558" data-end="603" data-list-item-id="e4829f78ee82a9118c25968a79cbee836"><p data-start="560" data-end="603">Note: The 5.0.26 release was skipped</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.51 - 07/03/2025]]></title>
+        <id>title-1bf83689e5504c4179b822238740e187</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e543456998b507ea524a0dfd3cfd13865">Issues launching the app.</li>
+<li data-list-item-id="e6044bf7ed55219cfcd2ffeaf54507829">Syncing status visibility.</li>
+<li data-list-item-id="e9eb2b84a875128ef1f759cbd657de7a0">Note: This is a Mac-specific hotfix for&nbsp;the&nbsp;<a href="https://www.sync.com/blog/sync-2-2-50-desktop-apps-available" rel="noopener">2.2.50 release.</a>
+</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.50 - 06/02/2025]]></title>
+        <id>title-4484f36b485cbaa3fae27cf26515e7ea</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e212a355d63941dea6ed46130fbbdf6c7"><p data-start="867" data-end="923">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="ed4ec70b18883397a42d58a8070543ecb"><p data-start="926" data-end="999">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="e8d470ddfdac339fef968c80d7217d2eb"><p data-start="1002" data-end="1043">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e8808b570b445a6f8256b50aceb4fedc5"><p data-start="1046" data-end="1087">Events load much faster (Recents view).</p></li>
+<li data-list-item-id="e2ac3cd85c5da0f26548c3ad990b07a70"><p data-start="1090" data-end="1145">Clicking on folders in advanced tab (selective sync).</p></li>
+<li data-list-item-id="e55d7175f5c14e9ff76573fa9a1820550"><p data-start="1148" data-end="1175">Installer text alignment.</p></li>
+<li data-list-item-id="e3f55f464788cc03e183f1448c6fe7010"><p data-start="1178" data-end="1240">Improved load speed and reliability of the preferences pane.</p></li>
+<li data-list-item-id="e7c08690edbc8e934f59d88851208ceb7"><p data-start="1243" data-end="1279">Fixed various installation errors.</p></li>
+<li data-list-item-id="e61a609bf07848d49c1c6a02464cbc413"><p data-start="1282" data-end="1336">Reduced instances causing deleted files to reappear.</p></li>
+<li data-list-item-id="ef14877e9040a1ff63f6818f35db997b5"><p data-start="1339" data-end="1389">Copy-to-vault no longer causes syncing to pause.</p></li>
+<li data-list-item-id="e76efac5122c5ad763eef4aca9957b66d"><p data-start="1392" data-end="1443">Moving a share folder no longer breaks the share.</p></li>
+<li data-list-item-id="e32f1458988531d52eace7807ee82bbea"><p data-start="1446" data-end="1498">Deleted files no longer listed as files to review.</p></li>
+<li data-list-item-id="e7394cad585dbff0312b80cd5eb9dd5f3"><p data-start="1501" data-end="1539">Fixed incomplete uploads data issue.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.25 - 04/28/2025]]></title>
+        <id>title-9a33bfe79cd7a1357c814757e5990deb</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ee05a7c358063be8c35c4d0055a4931f5"><p data-start="593" data-end="649">Increased per folder file limit from 10,000 to 50,000.</p></li>
+<li data-list-item-id="e5daceee71b63603903dc9056043f4536"><p data-start="652" data-end="725">More prominent error messaging with links to help desk for stuck files.</p></li>
+<li data-list-item-id="ef6362e8e569211e3c3e8f5026efa717a"><p data-start="728" data-end="769">"core" no longer an excluded file name.</p></li>
+<li data-list-item-id="e01cb774079c85e65c6c9e2a81f2ffb22"><p data-start="772" data-end="805">Local generation of PDF thumbs.</p></li>
+<li data-list-item-id="e31976d3d2bda788c7ae0841271414722"><p data-start="808" data-end="867">Fixed various issues that could cause files to get stuck.</p></li>
+<li data-list-item-id="ea178f4b641ffc9931d73b13311a05025"><p data-start="870" data-end="920">Fixed cases of files getting locked permanently.</p></li>
+<li data-list-item-id="edce077eff55d5231904310eeaf602a7b"><p data-start="923" data-end="997">Fixed instances where the “Remove Download” menu option was not working.</p></li>
+<li data-list-item-id="e2477b024ce33697b29dc4b89c3053ea7"><p data-start="1000" data-end="1064">Folder icon shortcuts now work for excluded files and folders.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.23 - 02/06/2025]]></title>
+        <id>title-bb93ca82538c70a157116d0df9ceba14</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-04-28T12:54:07.515Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="eaef40c3ba315e1aa0751121cb6ac2b6d">Improved load speed and reliability of the preferences panel.</li>
+<li data-list-item-id="ebf81c11c25a276058997cf3e9bf9f458">The installer produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>
+<li data-list-item-id="e2a0bf6f778b628ddda64d7ddfd064469">Some PKG files were getting stuck during syncing.</li>
+<li data-list-item-id="ea9586233caac4eb64e38de7f92989c0f">Improved syncing when CloudFiles is installed on multiple devices, and when moving or renaming folders.</li>
+<li data-list-item-id="e4319b4f59af3c66161cae643760b959b">Reduced high CPU usage by CloudFIles when quitting the app.</li>
+<li data-list-item-id="e101520365f1fa63f0c1d048406ee2e58">Improved error messages on the progress tab.</li>
+<li data-list-item-id="e5892124733d32eda54aa8b17d4b28e53">Corrected a typo in the app installer.</li>
+<li data-list-item-id="ea3c256048385ca2879750a66fee240d8">Requirement update: As of 5.0.23 Mac CloudFiles will require OS X 13+.</li>]]></content>
+    </entry>
+</feed>

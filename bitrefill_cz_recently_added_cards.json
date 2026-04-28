@@ -4,13 +4,6 @@
 	"favicon": "https://www.bitrefill.com/cz/en/gift-cards/favicon.ico",
 	"elements": [
 		{
-			"id": "link-d6e8b2fe462b34d5f844716305338e9e",
-			"title": "OpenAI via PPQ.ai",
-			"link": "https://www.bitrefill.com/cz/en/gift-cards/chatgpt-ppq-international/",
-			"contents": "OpenAI via PPQ.ai — $1 - $100",
-			"retrieved": 1777376364692
-		},
-		{
 			"id": "link-a810513b2fe5f53c3ab0197f16802b18",
 			"title": "Claude via PPQ.ai",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/claude-ppq-international/",
@@ -22,6 +15,13 @@
 			"title": "Gemini via PPQ.ai",
 			"link": "https://www.bitrefill.com/cz/en/gift-cards/gemini-ppq-international/",
 			"contents": "Gemini via PPQ.ai — $1 - $100",
+			"retrieved": 1777376364692
+		},
+		{
+			"id": "link-d6e8b2fe462b34d5f844716305338e9e",
+			"title": "OpenAI via PPQ.ai",
+			"link": "https://www.bitrefill.com/cz/en/gift-cards/chatgpt-ppq-international/",
+			"contents": "OpenAI via PPQ.ai — $1 - $100",
 			"retrieved": 1777376364692
 		},
 		{

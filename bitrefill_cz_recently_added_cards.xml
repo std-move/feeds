@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-28T12:19:31.521Z</updated>
+    <updated>2026-04-28T12:55:59.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[OpenAI via PPQ.ai]]></title>
-        <id>link-d6e8b2fe462b34d5f844716305338e9e</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/chatgpt-ppq-international/"/>
-        <updated>2026-04-28T11:39:24.692Z</updated>
-        <content type="html"><![CDATA[OpenAI via PPQ.ai — $1 - $100]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Claude via PPQ.ai]]></title>
         <id>link-a810513b2fe5f53c3ab0197f16802b18</id>
@@ -25,6 +18,13 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/gemini-ppq-international/"/>
         <updated>2026-04-28T11:39:24.692Z</updated>
         <content type="html"><![CDATA[Gemini via PPQ.ai — $1 - $100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI via PPQ.ai]]></title>
+        <id>link-d6e8b2fe462b34d5f844716305338e9e</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/chatgpt-ppq-international/"/>
+        <updated>2026-04-28T11:39:24.692Z</updated>
+        <content type="html"><![CDATA[OpenAI via PPQ.ai — $1 - $100]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wolt]]></title>
