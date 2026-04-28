@@ -2,6 +2,527 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://apps.apple.com/us/app/amphetamine/id937984704?mt=12</id>
     <title>Amphetamine release notes</title>
-    <updated>2026-04-28T13:57:42.648Z</updated>
+    <updated>2026-04-28T14:03:22.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://apps.apple.com/assets/favicon/favicon-32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[5.3.2 — 11/10/2023]]></title>
+        <id>title-67fe444fdbe9f52ca96661552480dea6</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">=== Introducing Power Protect ===
+
+In Amphetamine 5.3, a Closed-Display Mode script was introduced to address an issue on Apple Silicon Macs where connecting or disconnecting your Mac laptop from an external power source could cause unexpected session behavior. Running this script required use of Touch ID or an administrator's password. 
+
+Thanks to members of the Amphetamine community (Pitor and Joe), a way to run the script without authentication has been identified and implemented in Amphetamine 5.3.1. To run the script without authentication, you must download and install both the script and a configuration file. This feature is now known as Power Protect and is only needed/available on Apple Silicon Mac laptops.
+
+Please note that Power Protect is not included directly in Amphetamine and requires a separate download and installation. When you start a Closed-Display Mode session on an Apple Silicon Mac, Amphetamine will ask you if you would like to Learn More about Power Protect. If you choose Learn More, you will be directed to a website where you can read about Power Protect and choose to install it, if desired.
+
+=== Fixes ===
+
+• Fixed a crash on macOS Sonoma related to Bluetooth privacy settings access
+
+• Added warning when Amphetamine is running using Rosetta
+
+• Fixed an issue where some Apple Silicon Macs could be identified as Intel
+
+• Fixed an issue for sessions that start at app launch don't enable Closed-Display Mode
+
+• Fixed an issue where the session time remaining or other text would overlap Amphetamine's icon in the menu bar
+
+• Fixed an issue with a -50 Application Can't be Opened error that appeared on some older macOS versions
+
+• Added additional logic/code around creating and releasing power assertions in an attempt to fix an issue where Amphetamine causes a Mac to sleep, disconnect from external displays and/or WiFi, or create a "flash" on external displays
+
+• Added ability to uninstall scripts via Amphetamine (menu bar icon) → Feedback &amp; Support → Uninstall Scripts...
+
+• Added Location Services request for current WiFi network name access for Trigger sessions in macOS Sonoma
+
+• Configured all of Amphetamine's alerts to be floating windows (show on top of other windows)
+
+• Fixed an issue where some menu text was clipped in French localization
+
+• Fixed an issue with Triggers not activating on some non-laptop Macs
+
+• Fixed an issue where some IP address-based Trigger sessions would not end when expected
+
+• Added Debug Mode</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.3.1 — 11/08/2023]]></title>
+        <id>title-ad44cf1448bdf10aa82e55004c7cfe92</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">=== Introducing Power Protect ===
+
+In Amphetamine 5.3, a Closed-Display Mode script was introduced to address an issue on Apple Silicon Macs where connecting or disconnecting your Mac laptop from an external power source could cause unexpected session behavior. Running this script required use of Touch ID or an administrator's password. 
+
+Thanks to members of the Amphetamine community (Pitor and Joe), a way to run the script without authentication has been identified and implemented in Amphetamine 5.3.1. To run the script without authentication, you must install both the script and a configuration file. This feature is now known as Power Protect and is only needed/available on Apple Silicon Mac laptops.
+
+
+=== Fixes ===
+
+• Added warning when Amphetamine is running using Rosetta
+
+• Fixed an issue where some Apple Silicon Macs could be identified as Intel
+
+• Fixed an issue for sessions that start at app launch don't enable Closed-Display Mode
+
+• Fixed an issue where the session time remaining or other text would overlap Amphetamine's icon in the menu bar
+
+• Fixed an issue with a -50 Application Can't be Opened error that appeared on some older macOS versions
+
+• Added additional logic/code around creating and releasing power assertions in an attempt to fix an issue where Amphetamine causes a Mac to sleep, disconnect from external displays and/or WiFi, or create a "flash" on external displays
+
+• Added ability to uninstall scripts via Amphetamine (menu bar icon) → Feedback &amp; Support → Uninstall Scripts...
+
+• Added Location Services request for current WiFi network name access for Trigger sessions in macOS Sonoma
+
+• Configured all of Amphetamine's alerts to be floating windows (show on top of other windows)
+
+• Fixed an issue where some menu text was clipped in French localization
+
+• Fixed an issue with Triggers not activating on some non-laptop Macs
+
+• Fixed an issue where some IP address-based Trigger sessions would not end when expected
+
+• Added Debug Mode</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.3 — 08/24/2023]]></title>
+        <id>title-f46bdc0bd654e6a17d7724827cf774be</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">=== Launch At Login for macOS 13+ ===
+Apple changed the way apps request to launch at login in macOS 13. Amphetamine 5.3 adopts this new request process. If Amphetamine will not launch at login, please try: 
+
+1. Ensure you only have one copy of Amphetamine installed on your Mac and it is located in the /Applications folder
+2. Disable the setting in Amphetamine Settings → General → Launch and Wake Behavior, 
+3. Open the macOS Login Items settings from Apple icon→ System Settings → General → Login Items, and remove Amphetamine from the Open at Login list
+4. Re-enable the Launch at Login setting in Amphetamine Settings → General → Launch and Wake Behavior
+5. Confirm you see Amphetamine reappear in the Apple icon → System Settings → General → Login Items list
+
+=== Closed-Display Mode on Apple Silicon Macs ===
+Apple changed the way Closed-Display Mode works on Apple Silicon Macs. In Amphetamine versions prior to 5.3, Closed-Display Mode on Apple Silicon Macs would fail if you connected/disconnected your Mac from an external power source (charger, display with power delivery, etc.). In Amphetamine 5.3, this issue has been fixed, however, Closed-Display Mode sessions now require 1) installation of a script that Amphetamine will run whenever a Closed-Display Mode session starts/ends, and 2) admin user authentication (Touch ID, Apple Watch, etc.). If you do not want to authenticate each Closed-Display Mode session, choose Skip when prompted to install the script. Closed-Display Mode will still work without the script, but you will experience a Closed-Display Mode session failure if you connect/disconnect your Mac to/from an external power source.
+
+On Apple Silicon Macs, Amphetamine 5.3 will force the built-in display on MacBooks to sleep when folded closed. This is done to prevent display burn-in. Depending on your Mac's security settings, upon waking (opening/unfolding) your Mac's display you may be required to authenticate back in to your user account. Your Mac will stay awake when the built-in display is folded and asleep.
+
+=== Enhanced Process Monitoring on Apple Silicon Macs ===
+Previously only available via the companion app, Amphetamine Enhancer, Enhanced Process Monitoring (now called Process Discovery) is included in Amphetamine itself. To enable Process Discovery, go to Amphetamine's menu and choose While App Is Running from the Start New Session menu. Then, click the ( ? ) button, and then the  Install the Process Discovery Script button. Once installed, Amphetamine will be able to "see" additional processes running on your Apple Silicon Mac, for use with app/process-based sessions and Triggers.
+
+=== Battery-Related Functions on Apple Silicon Macs ===
+Amphetamine's way of detecting whether a Mac was a laptop/had a built-in battery stopped working with the M2 series MacBooks. This issue has been fixed.
+
+=== Other ===
+- Changed "Preferences" to "Settings" for macOS 13+
+- Added French language (completed by Mathieu Martin)
+- Changed shell used for tasks to ZSH for macOS 10.15+ (Catalina)
+- Fixed an issue with some process/app-based Trigger sessions not starting
+- Fixed an issue with some process/app-based Trigger sessions consuming lots of CPU
+- Updated app icon 
+- Other minor improvements</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.2.2 — 05/29/2021]]></title>
+        <id>title-11269d53c6a1ea8fc61e417a6eab837f</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Improvements:
+• Fixes an issue with the Idle Time Trigger criterion not functioning as expected
+• Fixes an issue with the Schedule Trigger criterion not functioning as expected
+• UI adjustments for all localizations/languages
+
+Localization Mania!
+New languages continue to be added to Amphetamine. Give these folks a pat on the back if you know them!
+
+• Dutch - completed by Mitch Goos
+• German - completed by Gerhard Koschany &amp; Lorenz Stocker
+
+If you would like to help translate Amphetamine into a new language, please visit https://github.com/x74353/Amphetamine_Localization</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.2.1 — 04/11/2021]]></title>
+        <id>title-cb3929a9d2c5df1905a35d76aae4f4bd</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">• Fixes an issue with Other Time/Until sessions ending immediately after starting
+• Adds a preference to the Closed-Display Mode Failure dialog to disable this feature
+
+About Closed-Display Mode Session Failures:&nbsp;
+Prior to the 5.2 update, it was believed that ALL Macs experience an issue with closed-display mode failure when the Mac's power source changes during the session. It is now apparent that only some Macs experience this issue. Since there is no reliable (at this time) way for Amphetamine to determine which Macs are affected by this issue, a preference has been added to the failure dialog to disable automatic closed-display mode termination. For help testing whether your Mac is affected by this issue, submit a request at iffy.freshdesk.com.
+
+LOCALIZATION MANIA:
+The kind folks who have helped to translate Amphetamine into new languages deserve a HUGE thank you and round of applause! Thank you so much to each of you!
+
+• Brazilian Portuguese - completed by Victor @ BR Lingo
+• Japanese - completed by Yuri HARUNA
+• Korean - completed by @reading_snail
+• Vietnamese - completed by Joe Pham
+
+If you would like to help translate Amphetamine into a new language, please visit https://github.com/x74353/Amphetamine_Localization</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.2 — 04/06/2021]]></title>
+        <id>title-522bc503143ffbe034247882580204bd</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Bug Fixes:
+• Fixed an issue that caused mouse movement to occur at the incorrect interval
+
+Improvements:
+• Added ability to extend a timed session's duration
+• Redesigned help/informational message delivery
+• Amphetamine will now auto-end closed-display mode sessions under certain conditions
+• Added new dialog for failed closed-display mode sessions
+• Sound/Alert tones now use the output for Sound Effects defined in System Preferences
+
+Localization Mania!
+Amphetamine has been localized into 4 new languages with the help of some really awesome people. If you would like to help localize Amphetamine into additional languages, please visit github.com/x74353/Amphetamine_Localization.
+
+• Brazilian Portuguese - completed by Victor @ BR Lingo
+• Korean - completed by @reading_snail
+• Vietnamese - completed by Joe Pharm
+• Japanese - completed by Yuri HARUNA</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.1.1 — 12/03/2020]]></title>
+        <id>title-027fd226884379e36690109d7e6086c9</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">• Fixes an issue that caused mouse movement interval to be limited to 30 seconds or more
+• Fixes an issue that could cause Amphetamine's menu bar item to not remember its position in between launches
+• Fixes some text cropping that appeared in Preferences</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.1 — 11/14/2020]]></title>
+        <id>title-3584f6bf492802750c0ae5a3e79afd61</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">• Initial macOS Big Sur support *
+• Amphetamine is now a Universal app **
+• Moved While App Is Running &amp; Other Time/Until windows out of popover and into submenus for macOS Big Sur and beyond
+• Fixed an issue with AppleScript not accepting 0 as an interval when trying to start an indefinite session
+
+* This update provides initial macOS Big Sur support, but there is still more work to be done. Due to significant visual changes in macOS Big Sur, some of Amphetamine's visuals and UI are not fully optimized. For example, alerts may contain more text than can fit in the new maximum alert window size and may require scrolling to view all content.
+
+** I do not yet have an Apple Silicon MacBook. I cannot confirm that all features, especially closed-display mode, function as expected on Apple Silicon Macs. I don't know when I will be able to purchase a new MacBook to fully test Amphetamine on the Apple Silicon platform.</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.0.3 — 08/05/2020]]></title>
+        <id>title-c632efc8cd2690b6c504b4e9d31d327e</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">This update fixes a bug that caused display sleep to be disabled after waking your Mac from sleep.</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.0.2 — 03/31/2020]]></title>
+        <id>title-207af9e2b4a2ea5c2d589834b2a7e554</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">NEW:
+• Simplified Chinese localization
+
+BUG FIXES:
+• USB devices to not appearing in Trigger criterion
+• USB device based Triggers noting activate as expected at app launch
+• Menu bar image not “activating” when menu is open and low-opacity image mode enabled
+• Removed placeholder text found in Preferences &gt; Statistics tab</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.0.1 — 03/06/2020]]></title>
+        <id>title-becb5b015cf76fa4ba2412caa16adfc9</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Amphetamine 5.0.1 includes a number of bug fixes, and one new feature:
+
+• NEW: Added preference to allow display sleep when screen is locked (10.14+) 
+• FIXED: Inability to add more that one criterion to Triggers
+• FIXED: App-based sessions generating repeated notifications erroneously  
+• FIXED: App-based Triggers not activating as expected
+• FIXED: Session start/end notification sound playing in quick succession/repeating
+• FIXED: Session start sound not playing if a session is already running and a new was is started
+• FIXED: Restored functionality of using up/down keys to navigate Amphetamine's menu
+• FIXED: Restored functionality of command-X shortcut to end session from Amphetamine's menu
+• FIXED: Amphetamine failing to reactivate previously frontmost app after menu closes</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.0 — 02/20/2020]]></title>
+        <id>title-9447ee3052309f5b5c1842b76be3a34d</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Amphetamine 5 is finally here! With support for keeping your Mac awake while its display/lid is closed, screen locking, mouse cursor movement, enhanced Trigger criteria, expanded AppleScript support, and lots more, Amphetamine remains best-in-class for managing how and when to keep your Mac awake.
+
+New Features:
+ 
+• Keep your MacBook awake while its display/lid is closed 
+• Lock your Mac's screen after a period of inactivity (macOS 10.14+)
+• Move the mouse cursor after a period of inactivity (macOS 10.14+)
+• Support for Amphetamine Enhancer, a separate app that brings new features to Amphetamine
+• Ability to manually control padding for menu bar image
+• Automatically end non-Trigger sessions when Mac is manually put to sleep
+• Current Session menu item now provides quick access to change current session behavior 
+
+Updates to Triggers &amp; Criteria:
+
+• IPv6 addresses are now supported the in IP Address criterion
+• DNS criterion now allows adding/removing of DNS servers
+• DNS Trigger will now activate if any specified DNS servers are in use
+• VPN Service criterion renamed to Cisco AnyConnect VPN
+• Power criterion renamed to Battery &amp; Power Adapter
+• 'Power adapter not connected' condition for Battery &amp; Power Adapter criterion
+• And/or operator for Battery &amp; Power Adapter criterion conditions
+
+Other Improvements:
+
+• Redesigned Quick Preferences
+• Use the search field instead of scrolling though a long list of running apps
+• Dock icon hides and shows automatically when Amphetamine's windows open/close
+• Improvements to how Amphetamine determines when to the start screen saver
+• Added new and updated some existing AppleScript commands
+• Preferences &gt; Sessions pane split into Non-Trigger and All Session categories
+• Preferences &gt; Power merged into Preferences &gt; Sessions &gt; Non-Trigger sessions
+
+Bug Fixes:
+
+• Amphetamine's menu not appearing when 2 or more displays are arranged vertically
+• Other Time/Until clock showing an unexpected time
+• CPU utilization being monitored unexpectedly
+• Quick Preferences using color to represent preference state/status unexpectedly
+• Screen Saver Exceptions being removed unexpectedly
+• Wrong Screen Saver Exceptions being used during a session
+• Triggers are no longer allowed to have the same name
+• Trigger name not included in notification when one Trigger ends and another starts immediately
+• Various typos and other small bugs</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.2 — 06/10/2019]]></title>
+        <id>title-792cb144e0c245b90056b07129ff54a2</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">=== IMPROVEMENTS ===
+• Added hot keys for toggling display sleep and screen saver
+• Added ability to define custom timeout for "While File is Downloading" sessions
+• Renamed "External Displays" Trigger criterion to "Displays"
+• Added Ignore Built-In Display option to Displays Trigger criterion
+• Updated web links in app to point to new support/feedback website
+• Quick Preferences now auto-enables/disables some menu items depending on whether a Trigger session is running
+• Now uses Sound Effects output device (System Preferences &gt; Sound &gt; Sound Effects) for notification sounds
+• While File Is Downloading sessions now show % of file downloaded, if available (downloads via Safari should support this)
+• Rebuilt App Icon
+
+=== BUG FIXES ===
+• Fixed an issue that could cause the CPU Trigger criterion to not work when two or more Triggers used this criterion
+• Fixed an issue that could cause an empty window to briefly appear when Amphetamine launches
+• Fixed an issue that added an extra 40 seconds on to some 4 hour sessions
+• Fixed an issue that could cause Drive Alive details to not show in menu</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.1.6 — 04/06/2019]]></title>
+        <id>title-30bf719893bad932b7a4a19b2c567500</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">• Fixes an issue that caused Drive Alive to no longer function
+• Fixes a rare memory leak when adding a new drive to Drive Alive
+• Fixes an issue that sometimes prevented Drive Alive details from appearing in Amphetamine's menu
+• Fixes an issue that could cause Screen Saver Exceptions to be removed unexpectedly for non-Trigger sessions</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.1.5 — 03/13/2019]]></title>
+        <id>title-cd4a59f7034b06ae7ebe7e4c19a0f9a8</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">=== New Features &amp; Improvements ===
+• Display Mirroring Trigger
+• DNS Servers Trigger
+• Idle Time Trigger
+• Added Screen Saver Exception for Screen Sharing/VNC/Remote Desktop connections
+• Added button to close Trigger criterion configuration windows
+• Reduce motion preference to limit movement/animations in UI
+• Quick Preferences now contains more helpful information
+• Preferences that do not affect Trigger sessions now are identified in UI
+• Reverts default behavior to left-click opens Amphetamine's menu, per Apple's requirements
+
+=== Bug Fixes ===
+• Fixes an issue that caused the Trigger screen saver to activate after 5 minutes instead of 1 minute
+• Fixes an issue that caused the current time to display in Session Details when session time remaining was indeterminate
+• Fixes an issue that caused adding a Screen Saver Exception to fail when Triggers were disabled
+• Fixes an issue that could cause Amphetamine's menu to become transparent and overlay other windows
+• Fixes an issue that could cause Amphetamine's Preferences window to not become frontmost
+• Fixes a CoreAudio-related memory leak</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.1.4 — 02/01/2019]]></title>
+        <id>title-768c1165d8cbb610d1a9915870dee720</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">== Triggers ==
+• Added CPU utilization Trigger
+• Triggers now have their own configurable screen saver delay
+
+== Statistics ==
+• Statistics data now live-updates during sessions
+• Added option to reset statistics
+• Added option to disable statistics collection
+
+== Bug Fixes &amp; Other Improvements ==
+• Optimizations for USB device monitoring
+• Fixes a memory leak associated with the VPN Service criterion
+• Fixes an issue with IP Address Range criterion logic
+• Fixes an issue with custom Default Durations resulting in one second sessions
+• Fixes an issue with notification sounds for session reminders not playing when session start/end reminders as also enabled 
+• Fixes an issue that could cause a crash when trying to start a session when battery monitoring is enabled and the battery is already below the threshold</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.1.3 — 01/08/2019]]></title>
+        <id>title-fdc6d1ee5bba15b3d12bc5f2d7b474dd</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">• Fixes an issue that could cause the App Criterion to not function as expected
+• Fixes an issue that could cause the screen saver to launch or not launch as expected during a Trigger session
+• Fixes an issue that could cause the to sleep or not sleep as expected during a Trigger session
+• Simplified Screen Saver Exceptions interface
+• Simplified Trigger Criterion interface
+• Other minor improvements and fixes</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.1.2 — 01/06/2019]]></title>
+        <id>title-bf7944a1e26d3331bf2b82ac6502f8ac</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">• Fixes an issue that could prevent Amphetamine's menu from showing 
+• Fixes an issue that caused Amphetamine's image to briefly disappear in the menu bar when clicked
+• Added preference to use non-color based status indicators in Quick Preferences
+• Other minor updates such as fixing typos and UI improvements</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.1.1 — 01/05/2019]]></title>
+        <id>title-a2e4246bf6bc54cdfe8507deaf22390b</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">• Restores compatibility with the Bartender 3 app
+• Restores ability to drag/reorder Amphetamine in the menu bar using the command key
+• Fixes an issue that could cause the screen saver to not launch</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.1 — 01/03/2019]]></title>
+        <id>title-f4533bc2f80d0bb1165340e0903e33b6</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Amphetamine 4.1 comes with a whole bunch of awesome improvements, a few new features, and a fresh coat of paint! Here's what is new:
+
+=== Triggers ===
+• New Trigger for VPN Service
+• Setting up Triggers is easier than ever with a redesign of the configuration interface
+• Set the priority of your Triggers by rearranging them in a list
+• Triggers with missing/unavailable criteria can no longer be edited until original criteria is available
+• When manually ending a Trigger session, added an option to reactivate after a set time
+
+=== Sessions ===
+• Moved some preferences to a new section titled "Sessions"
+• Added ability to use "clock time" for sessions
+• Option to stop all sessions when Fast User Switching
+• Added an exceptions list to prevent screen saver activation
+
+=== Statistics ===
+• New preferences section titled "Statistics" which displays session info 
+
+=== Notifications ===
+New option to play a sound whenever a session state change occurs
+
+=== Other Improvements ===
+• Optimization to reduce CPU usage
+• End Current Session button now appears when mouse enters the Current Session Details menu item (if enabled)
+• Quick Preferences menu now shows a green (enabled) or red (disabled) status for each item
+• Other Time/Until window now remembers your last selections
+• 1-click start/end session no longer highlights Amphetamine's icon in the menu bar
+• Amphetamine now returns you to the previous app you were using when you're done
+• Added lots and lots of ( ? ) help buttons with useful information throughout
+• Alerts now consider inactivity before auto-dismissing (battery level warning, Trigger session warning, etc.)
+• Lots of little tiny other things and minor bug fixes</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.0.5 — 11/18/2018]]></title>
+        <id>title-4aa829811e16d36b090d60206523f94f</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Amphetamine 4.0.5 is a small update to fix some minor issues before the Amphetamine 4.1 release. Amphetamine 4.1 will introduce some awesome new features, but sadly, will drop support for macOS 10.10 Yosemite.
+
+New in Amphetamine 4.0.5:
++ Fixes an issue that could cause an error message about the screen saver to display repeatedly
++ Fixes several typos
++ Other minor changes
+
+If you find Amphetamine useful, please consider leaving an App Store review. If you encounter an issue, please contact support through the app.</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.0.4 — 10/16/2018]]></title>
+        <id>title-60cfe3b935ff8c4edf86e1d7a756cbc4</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Amphetamine⁴ has been completely rebuilt from the ground up to improve performance, reliability, and add awesome new features! Enjoy!
+
+New in Amphetamine 4.0.4:
++ Added option within Power Trigger criterion to require AC power adapter to activate Trigger
++ Added option to show seconds in menu for session time remaining
++ Fix for Trigger Power criterion where logical operator 'or' was not considered correctly regarding AC adapter status
++ Fix for Trigger App criterion that prevented helper apps and  processes from appearing in the list of running apps
++ Fix for Other Time/Until window placement when the macOS menu bar is hidden
++ Fix for truncated session time remaining text in menu bar for macOS 10.10 &amp; 10.11
++ AppleScript command 'display sleep allowed' now returns button state of Allow Display Sleep preference if there is no active session
++ Further optimization to reduce CPU usage and energy impact
+
+If you find Amphetamine useful, please consider leaving an App Store review. If you encounter an issue, please contact support through the app.</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.0.3 — 10/07/2018]]></title>
+        <id>title-469d5baf2dd0a0d3a2c76df63596fec9</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Amphetamine⁴ has been completely rebuilt from the ground up to improve performance, reliability, and add awesome new features! New Trigger criteria for USB and Bluetooth devices, mounted volumes/drives, audio output selection, IP address, frontmost app, and external displays, make Amphetamine more powerful than ever. Drive Alive supports a custom wake interval. Amphetamine can keep your Mac awake while a file is downloading. The new features and improvements list doesn't stop there! Oh, and a few longstanding bugs (e.g. screen saver) have been squashed, too! Enjoy!
+
+If you find Amphetamine useful, please consider leaving an App Store review. If you encounter an issue, please contact support through the app.
+
+New in Amphetamine 4.0.3:
++ Dropped requirement for custom session status icons to be square (image aspect ratio will now be preserved)
++ Optimized Amphetamine's CPU usage when switching between, launching, or quitting other apps
++ Optimized Amphetamine's monitoring of USB devices
++ Fixed an issue that could cause the Trigger configuration window to appear unexpectedly
++ Fixed an issue that could cause some notifications to be delivered twice
++ Fixed an issue that could cause Amphetamine's menu to get stuck and overlay other windows
++ Added "Disable Triggers?" prompt when trying to end a Trigger session when a single-clicking Amphetamine's menu bar icon</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.0.2 — 10/02/2018]]></title>
+        <id>title-25e12cfd8a7d00f554579376afd8ed2e</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Amphetamine⁴ has been completely rebuilt from the ground up to improve performance, reliability, and add awesome new features! New Trigger criteria for USB and Bluetooth devices, mounted volumes/drives, audio output selection, IP address, frontmost app, and external displays, make Amphetamine more powerful than ever. Drive Alive supports a custom wake interval. Amphetamine can keep your Mac awake while a file is downloading. The new features and improvements list doesn't stop there! Oh, and a few longstanding bugs (e.g. screen saver) have been squashed, too! Enjoy!
+
+If you find Amphetamine useful, please consider leaving an App Store review. If you encounter an issue, please contact support through the app.
+
+Included in Amphetamine 4.0.2:
++ Fixed a few typos
++ Fix for Power Trigger criterion that prevented AC adapter status from being considered correctly
++ Fix for Schedule Trigger criterion that could cause it to activate off-schedule
++ Workaround for an issue that could cause Amphetamine to crash when certain USB hubs are connected
++ Slight modification to how session reminder notifications are delivered</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.0.1 — 09/28/2018]]></title>
+        <id>title-a85692528c1d3cdacc90dd7f7d218706</id>
+        <link href="https://apps.apple.com/us/app/amphetamine/id937984704?mt=12&amp;link_extraction_failed=true"/>
+        <updated>2026-04-28T14:01:34.456Z</updated>
+        <content type="html"><![CDATA[<span class="svelte-15xelqv">Amphetamine⁴ has been completely rebuilt from the ground up to improve performance, reliability, and add awesome new features! New Trigger criteria for USB and Bluetooth devices, mounted volumes/drives, audio output selection, IP address, frontmost app, and external displays, make Amphetamine more powerful than ever. Drive Alive supports a custom wake interval. Amphetamine can keep your Mac awake while a file is downloading. The new features and improvements list doesn't stop there! Oh, and a few longstanding bugs (e.g. screen saver) have been squashed, too! Enjoy!
+
+If you find Amphetamine useful, please consider leaving an App Store review. If you encounter an issue, please contact support through the app.
+
+Included in Amphetamine 4.0.1:
+• Fix for an issue that caused some notifications to not be delivered correctly
+• Fix for an issue that caused Triggers using the Schedule criterion to activate off-schedule
+• Fix for an issue that caused Triggers using the Displays criterion to not function as expected
+• Fix for an issue that prevented some USB devices from being used successfully in Triggers
+• Improvements to error handling of USB device connect/disconnect monitoring
+• Editing a Trigger nows open to the panel of one of the criteria used in the Trigger
+• Minor UI updates</span>]]></content>
+    </entry>
 </feed>
