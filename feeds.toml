@@ -250,3 +250,10 @@ entrySelector = ".firmwareVersionTableElement"
 titleSelector = ["xpath=.//*[contains(@class, 'firmwareAndReleasedStr')]//span[contains(translate(., 'MACOS', 'macos'), 'macos')]", ".firmwareAndReleasedStr .releasedStr"]
 linkSelector = "optional:.downloadDropdown a[href]"
 
+[sync_com_windows_changelog]
+title = "Sync.com Windows changelog"
+url = "https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS"
+waitForSelector = "#tab-panel-generated-0"
+entrySelector = "#tab-panel-generated-0 p"
+titleSelector = "*"
+contentSelector = "xpath=./following-sibling::ul"
