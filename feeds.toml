@@ -261,7 +261,8 @@ contentSelector = "xpath=./following::ul"
 [sync_com_macos_changelog]
 title = "Sync.com macOS changelog"
 url = "https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS"
-waitForSelector = "#tab-panel-generated-1 > p"
+# 1 is not visible by default, wait for 0 instead
+waitForSelector = "#tab-panel-generated-0 > p"
 entrySelector = "#tab-panel-generated-1 > p"
 titleSelector = "*"
 contentSelector = "xpath=./following::ul"
