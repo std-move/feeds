@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bitrefill.com/cz/en/gift-cards/?s=3</id>
     <title>Bitrefill recently added (CZ)</title>
-    <updated>2026-04-28T22:58:53.507Z</updated>
+    <updated>2026-04-29T06:25:58.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bitrefill.com/cz/en/gift-cards/favicon.ico</icon>
     <entry>
@@ -230,13 +230,6 @@
         <content type="html"><![CDATA[Minecraft Java International — $26.95]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord Nitro USD]]></title>
-        <id>link-3b16b58e08b1cbee08b2a8185496decf</id>
-        <link href="https://www.bitrefill.com/cz/en/gift-cards/discord-nitro-us/"/>
-        <updated>2026-04-22T17:04:15.231Z</updated>
-        <content type="html"><![CDATA[Discord Nitro USD — 1 Month - 12 Months]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitch EU]]></title>
         <id>link-7e6c08874f5234243060b4760c2a07b4</id>
         <link href="https://www.bitrefill.com/cz/en/gift-cards/twitch-eu/"/>
@@ -284,5 +277,12 @@
         <link href="https://www.bitrefill.com/cz/en/gift-cards/blizzard-battle_net-eu/"/>
         <updated>2026-03-13T20:35:41.441Z</updated>
         <content type="html"><![CDATA[Battle.net EU — €20 - €100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eneba Games Store EUR]]></title>
+        <id>link-7bcb43fa1807749a7ca77a34fa82f097</id>
+        <link href="https://www.bitrefill.com/cz/en/gift-cards/eneba-gift-card-eu/"/>
+        <updated>2026-04-29T06:23:56.590Z</updated>
+        <content type="html"><![CDATA[Eneba Games Store EUR — €5 - €200]]></content>
     </entry>
 </feed>

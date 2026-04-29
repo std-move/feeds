@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png",
 	"elements": [
 		{
-			"id": "link-78027ea37db2a2938ab542741711af80",
-			"title": "ONE Samurai 1 — 2026-04-29 01:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/137460-one-175",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137460-one-175\">ONE Samurai 1</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-04-29 01:30:00 -0400\">in 6 hours</abbr>\n</td>",
-			"retrieved": 1776465575499
-		},
-		{
 			"id": "link-ad8f00aacb9587231814347f4f8c4d3d",
 			"title": "UFC Fight Night — 2026-05-02 04:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140511-ufc-fight-night-della-maddalena-vs-prates",
@@ -35,7 +28,7 @@
 			"id": "link-2db42cf9f957a44ea6b4ceffdd702a08",
 			"title": "PFL Sioux Falls — 2026-05-02 19:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140389-pfl-sioux-falls",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140389-pfl-sioux-falls\">PFL Sioux Falls</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-02 19:00:00 -0400\">in 4 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140389-pfl-sioux-falls\">PFL Sioux Falls</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-02 19:00:00 -0400\">in 3 days</abbr>\n</td>",
 			"retrieved": 1776551757313
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/140614-ufc-328",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140614-ufc-328\">UFC 328</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-09 17:00:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1777156660980
+		},
+		{
+			"id": "link-f21e7ebc0fc2ff4617c09b4979d159fd",
+			"title": "RIZIN 53 — 2026-05-09 23:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/140661-rizin-53",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140661-rizin-53\">RIZIN 53</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-09 23:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1777443836590
 		}
 	]
 }
