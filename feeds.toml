@@ -79,6 +79,15 @@ titleSelector = "h5"
 linkSelector = "a"
 contentSelector = "p"
 
+[bellsoft_releases]
+title = "BellSoft releases (Java stuff)"
+url = ["https://bell-sw.com/blog/tags/bellsoft-products/", "https://bell-sw.com/blog/tags/release/"]
+waitForSelector = "xpath=//*[contains(@class, 'blog_content')]//a[contains(@href, '/blog/')]"
+entrySelector = "xpath=//*[contains(@class, 'blog_content')]//a[contains(@href, '/blog/')]"
+titleSelector = "xpath=./h5 | ./h3"
+linkSelector = "*"
+contentSelector = []
+
 [hacker_news_algolia_top_week]
 title = "HN Algolia - top stories (week)"
 url = [
