@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-29T06:25:58.098Z</updated>
+    <updated>2026-04-29T09:41:51.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Photo comparison: Apple vs. Honor in London]]></title>
+        <id>link-95ef117206e2006ac2814a67ee851774</id>
+        <link href="https://www.notebookcheck.net/Photo-Comparison-Exploring-London-With-Two-of-the-Best-Camera-Phones-of-2026.1284547.0.html"/>
+        <updated>2026-04-29T09:39:53.701Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Fotovergleich/London2026/Honor/Bildvergleich_London-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Fotovergleich/London2026/Honor/Bildvergleich_London-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Fotovergleich/London2026/Honor/Bildvergleich_London-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Fotovergleich/London2026/Honor/Bildvergleich_London-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Fotovergleich/London2026/Honor/Bildvergleich_London-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Fotovergleich/London2026/Honor/Bildvergleich_London-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/5/csm_Bildvergleich_London_926aa4617a.jpg" loading="lazy" alt="On a Photo Safari Through London With the Apple iPhone 17 and Honor Magic8 Pro."></picture><div class="intro_featured_bar_title">Photo comparison: Apple vs. Honor in London</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OnePlus 15T: Top alternative to the Galaxy S26]]></title>
         <id>link-f056dd480b9e3680f9cbdc25c1ee55e5</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/The-fastest-laptops-on-the-planet-All-new-2026-MacBooks-tested.1282361.0.html"/>
         <updated>2026-04-24T15:08:53.568Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5767-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/8/csm_thumb5767_29cb42c0b5.jpg" loading="lazy" alt="The fastest laptops on the planet?! - All new 2026 MacBooks tested!"></picture><div class="intro_featured_bar_title">▶ The fastest laptops on the planet?!</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo Tour: Nothing Phone (4a) Pro]]></title>
-        <id>link-c1f398209f823128cfd72ead4deb5c80</id>
-        <link href="https://www.notebookcheck.net/Camera-Review-The-Nothing-Phone-4a-Pro-in-London.1281430.0.html"/>
-        <updated>2026-04-23T09:28:49.365Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/IMG_20260305_153944-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/IMG_20260305_153944-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/IMG_20260305_153944-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/IMG_20260305_153944-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/IMG_20260305_153944-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/IMG_20260305_153944-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/d/csm_IMG_20260305_153944_db55c28005.jpg" loading="lazy" alt="Nothing Phone (4a) Pro in London"></picture><div class="intro_featured_bar_title">Photo Tour: Nothing Phone (4a) Pro</div>]]></content>
     </entry>
 </feed>
