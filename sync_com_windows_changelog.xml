@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com Windows changelog</title>
-    <updated>2026-04-30T15:53:11.622Z</updated>
+    <updated>2026-04-30T17:26:56.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2026-04-30T13:56:15.358Z</updated>
         <content type="html"><![CDATA[<li data-list-item-id="e6abb1092059c9b93a9eca4041bdb408c">Increased sync reliability across more file update, upload, and delete scenarios.</li>
 <li data-list-item-id="e5852882576ed0c2d77c85adaec00bd86">Reduced setup time for accounts with large sync histories.</li>
-<li data-list-item-id="ed953b3554b7e0e0af93fe70af3c91090">Improved Windows placeholder handling for certain file names and sync status updates.</li>
+<li data-list-item-id="ed953b3554b7e0e0af93fe70af3c91090">Improved placeholder handling for certain file names and sync status updates.</li>
 <li data-list-item-id="e17738a15d2cf39d93e45ae72756e9f11">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>]]></content>
     </entry>
     <entry>

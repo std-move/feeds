@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-30T15:53:11.608Z</updated>
+    <updated>2026-04-30T17:26:56.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Path tracing on mid-range GPUs? Pragmata reviewed]]></title>
+        <id>link-36f23ace87e1a5901cd37a7558a4599c</id>
+        <link href="https://www.notebookcheck.net/Pragmata-review-Is-a-mid-range-GPU-enough-for-all-the-visual-bells-and-whistles.1287138.0.html"/>
+        <updated>2026-04-30T17:24:14.232Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/a/csm_feature-p_bf58f13683.jpg" loading="lazy" alt="Pragmata review: Is a mid-range GPU enough for all the visual bells and whistles?"></picture><div class="intro_featured_bar_title">Path tracing on mid-range GPUs? Pragmata reviewed</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[▶ Apple Studio Display & Studio Display XDR - It's complicated!]]></title>
         <id>link-da13ba6c1032d05eef75c5622f322916</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/OnePlus-15T-Review-Incredible-battery-life-makes-the-compact-smartphone-competition-pale-in-comparison.1282926.0.html"/>
         <updated>2026-04-29T06:23:56.590Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/OnePlus/15T/OnePlus_15t_Test-Smartphone_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/OnePlus/15T/OnePlus_15t_Test-Smartphone_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/OnePlus/15T/OnePlus_15t_Test-Smartphone_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/OnePlus/15T/OnePlus_15t_Test-Smartphone_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/OnePlus/15T/OnePlus_15t_Test-Smartphone_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/OnePlus/15T/OnePlus_15t_Test-Smartphone_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/9/csm_OnePlus_15t_Test-Smartphone_1_3f265e546e.jpg" loading="lazy" alt="OnePlus 15T in review"></picture><div class="intro_featured_bar_title">OnePlus 15T: Top alternative to the Galaxy S26</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batman's robotic lawnmower? Airseekers Tron review]]></title>
-        <id>link-ea74e1cccc5486f6f9086eca4a385102</id>
-        <link href="https://www.notebookcheck.net/Batman-s-robotic-lawnmower-Airseekers-Tron-review.1283315.0.html"/>
-        <updated>2026-04-26T18:55:53.597Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/b/csm_Airseekers-Tron-Test-Teaser58_28847f9707.jpg" loading="lazy" alt="Airseekers Tron review"></picture><div class="intro_featured_bar_title">Batman's robotic lawnmower? Airseekers Tron review</div>]]></content>
     </entry>
 </feed>
