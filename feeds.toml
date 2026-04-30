@@ -79,18 +79,6 @@ titleSelector = "xpath=.//h3 | .//h5"
 linkSelector = "*"
 contentSelector = []
 
-[hacker_news_algolia_top_week]
-title = "HN Algolia - top stories (week)"
-url = [
-  "https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=&sort=byPopularity&type=story",
-]
-waitForSelector = "article.Story"
-entrySelector = "article.Story"
-titleSelector = ".Story_title span"
-linkSelector = ".Story_title a"
-# story link is not mandatory, let's just take the whole thing here
-# contentSelector = [".Story_link", ".Story_meta"]
-
 [hacker_news_algolia_top_10_week]
 title = "HN Algolia - 10 top stories (week)"
 url = [
@@ -100,6 +88,19 @@ waitForSelector = "xpath=(//article[contains(@class, 'Story')])[position() <= 10
 entrySelector = "xpath=(//article[contains(@class, 'Story')])[position() <= 10]"
 titleSelector = ".Story_title span"
 linkSelector = ".Story_title a"
+# story link is not mandatory, let's just take the whole thing here
+# contentSelector = [".Story_link", ".Story_meta"]
+
+[hacker_news_algolia_top_week]
+title = "HN Algolia - top stories (week)"
+url = [
+  "https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=&sort=byPopularity&type=story",
+]
+waitForSelector = "article.Story"
+entrySelector = "article.Story"
+titleSelector = ".Story_title span"
+linkSelector = ".Story_title a"
+
 
 # news.ycombinator.com feeds disabled - there is intermittent scraping protection - "sorry"
 # [hacker_news_best_posts_week]
