@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-04-30T10:08:44.301Z</updated>
+    <updated>2026-04-30T13:58:57.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Apple Studio Display & Studio Display XDR - It's complicated!]]></title>
+        <id>link-da13ba6c1032d05eef75c5622f322916</id>
+        <link href="https://www.notebookcheck.net/Apple-Studio-Display-Studio-Display-XDR-It-s-complicated.1286715.0.html"/>
+        <updated>2026-04-30T13:56:15.358Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/d/csm_thumb7974_de7954a094.jpg" loading="lazy" alt="Apple Studio Display &amp; Studio Display XDR - It's complicated!"></picture><div class="intro_featured_bar_title">▶ Apple Studio Display &amp; Studio Display XDR - It's complicated!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2nm mini – Samsung Galaxy S26 review]]></title>
         <id>link-1a37a126fde7a3e5a47ff960d05d3d66</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Batman-s-robotic-lawnmower-Airseekers-Tron-review.1283315.0.html"/>
         <updated>2026-04-26T18:55:53.597Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Airseekers-Tron-Test-Teaser58-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/b/csm_Airseekers-Tron-Test-Teaser58_28847f9707.jpg" loading="lazy" alt="Airseekers Tron review"></picture><div class="intro_featured_bar_title">Batman's robotic lawnmower? Airseekers Tron review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power station Vtoman Jump 2200 review]]></title>
-        <id>link-b7c403d207f8d72ef65cc0dcfb3ac8d2</id>
-        <link href="https://www.notebookcheck.net/With-jump-start-function-Vtoman-Jump-2200-power-station-review.1282882.0.html"/>
-        <updated>2026-04-25T18:54:23.986Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Vtoman-Jump-2200-Test-Teaser25-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Vtoman-Jump-2200-Test-Teaser25-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Vtoman-Jump-2200-Test-Teaser25-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Vtoman-Jump-2200-Test-Teaser25-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Vtoman-Jump-2200-Test-Teaser25-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Vtoman-Jump-2200-Test-Teaser25-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/f/csm_Vtoman-Jump-2200-Test-Teaser25_e59129eb63.jpg" loading="lazy" alt="Vtoman Jump 2200 review"></picture><div class="intro_featured_bar_title">Power station Vtoman Jump 2200 review</div>]]></content>
     </entry>
 </feed>

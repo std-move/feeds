@@ -4,9 +4,21 @@
 	"favicon": "https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6",
 	"elements": [
 		{
+			"id": "title-60d85537c0c0c5b6aaba8949f0f1d590",
+			"title": "Version 5.0.33 - 04/30/2026",
+			"contents": "<li data-list-item-id=\"ef45c83dc2c718eb8b52dacfc679c04f7\">Improved sync reliability in more upload, delete, and file registration scenarios.</li>\n<li data-section-id=\"19rhvs9\" data-start=\"90\" data-end=\"182\" data-list-item-id=\"e089578fa7b4016810957f5de5d52a1a3\">Updated folder syncing, folder loading, and excluded file handling for better reliability.</li>\n<li data-section-id=\"xf6jlx\" data-start=\"183\" data-end=\"243\" data-list-item-id=\"e77641fe5302fb2637951b5f38f9395d1\">Reduced setup time for accounts with large sync histories.</li>\n<li data-list-item-id=\"e74c2474990479161ae9d2b5719d832f0\">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>",
+			"retrieved": 1777557375358
+		},
+		{
+			"id": "title-b018b96d0c16c8c6ef15d60349079ae8",
+			"title": "Version 2.2.58 - 04/30/2026",
+			"contents": "<li data-list-item-id=\"e8d07c7daf830d461a6b315f5265b4c7d\">Improved sync reliability when handling broken remote path entries, large file deletions, incomplete upload states, and files deleted from another device.</li>\n<li data-list-item-id=\"e04957589bb0d5a336484872ad117681b\">Reduced setup time for accounts with large sync histories.</li>\n<li data-list-item-id=\"e2a9bd330d451ec7c51c1e9e405fc5e98\">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>",
+			"retrieved": 1777557375358
+		},
+		{
 			"id": "title-2cec62ad37d87afcdc1e5b93ce862a81",
 			"title": "Version 5.0.32 - 03/24/2026",
-			"contents": "<li data-list-item-id=\"e9a8319c34f734c95d68191a82abc111e\"><p data-start=\"72\" data-end=\"232\">Removed inaccurate time remaining estimates.</p></li>\n<li data-list-item-id=\"e3c93f467da71284dbcca709f22d75f3e\"><p data-start=\"72\" data-end=\"232\">Fixed a crash on OS 13.&nbsp;</p></li>\n<li data-list-item-id=\"e42399864e6cfe262318ae1588502fb2f\"><p data-start=\"72\" data-end=\"232\">Fixed database errors that could slow down some uploads.&nbsp;</p></li>\n<li data-list-item-id=\"e122e311ef8718f1fb5fc00ccc7016361\"><p data-start=\"72\" data-end=\"232\">Improved activity log performance and size management.</p></li>\n<li data-list-item-id=\"ece5f4893ff5c6a79afd7253410f8dcd2\"><p data-start=\"72\" data-end=\"232\">Improved upgrades from version 2.1.x to 2.2.x.&nbsp;</p></li>\n<li data-list-item-id=\"e3e64bc776fc3353bfa7b6bdf07339e0f\"><p data-start=\"72\" data-end=\"232\">Improved handling of the 50,000 file limit per folder</p></li>\n<li data-list-item-id=\"e8bf755e58489e504d426ccfedb1c73fa\"><p data-start=\"72\" data-end=\"232\">Fixed an issue where renaming or moving folders could leave locks in place.</p></li>",
+			"contents": "<li data-list-item-id=\"ead5c404fc9a4038bd381514f7bd1d7a5\"><p data-start=\"72\" data-end=\"232\">Removed inaccurate time remaining estimates.</p></li>\n<li data-list-item-id=\"e2c4db962b47bf98f75bebda024cbf700\"><p data-start=\"72\" data-end=\"232\">Fixed a crash on OS 13.&nbsp;</p></li>\n<li data-list-item-id=\"ea6f64d6151ec409fa5037caeb6cf4fd8\"><p data-start=\"72\" data-end=\"232\">Fixed database errors that could slow down some uploads.&nbsp;</p></li>\n<li data-list-item-id=\"edfe99bc648f47dfc7948e6fa9cdf6f44\"><p data-start=\"72\" data-end=\"232\">Improved activity log performance and size management.</p></li>\n<li data-list-item-id=\"ecba9ad2d25a586182f201b82f65b464b\"><p data-start=\"72\" data-end=\"232\">Improved upgrades from version 2.1.x to 2.2.x.&nbsp;</p></li>\n<li data-list-item-id=\"ef08c5d02a68757c0c68df0c8572718bb\"><p data-start=\"72\" data-end=\"232\">Improved handling of the 50,000 file limit per folder</p></li>\n<li data-list-item-id=\"e5823f5348de3c6ad3f6c138d6d9e62d5\"><p data-start=\"72\" data-end=\"232\">Fixed an issue where renaming or moving folders could leave locks in place.</p></li>",
 			"retrieved": 1777380847515
 		},
 		{

@@ -4,9 +4,21 @@
 	"favicon": "https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6",
 	"elements": [
 		{
+			"id": "title-60d85537c0c0c5b6aaba8949f0f1d590",
+			"title": "Version 5.0.33 - 04/30/2026",
+			"contents": "<li data-list-item-id=\"e6abb1092059c9b93a9eca4041bdb408c\">Increased sync reliability across more file update, upload, and delete scenarios.</li>\n<li data-list-item-id=\"e5852882576ed0c2d77c85adaec00bd86\">Reduced setup time for accounts with large sync histories.</li>\n<li data-list-item-id=\"ed953b3554b7e0e0af93fe70af3c91090\">Improved Windows placeholder handling for certain file names and sync status updates.</li>\n<li data-list-item-id=\"e17738a15d2cf39d93e45ae72756e9f11\">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>",
+			"retrieved": 1777557375358
+		},
+		{
+			"id": "title-b018b96d0c16c8c6ef15d60349079ae8",
+			"title": "Version 2.2.58 - 04/30/2026",
+			"contents": "<li data-list-item-id=\"e3f483cd3fa285ea054a3c4ee7a84117a\">Improved sync reliability when handling broken remote path entries, large file deletions, incomplete upload states, and files deleted from another device.</li>\n<li data-list-item-id=\"eaa677971b9b0f1d0c1db0938c43309dd\">Reduced setup time for accounts with large sync histories.</li>\n<li data-list-item-id=\"e2226668c9fab455fc917d7097603ef67\">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>",
+			"retrieved": 1777557375358
+		},
+		{
 			"id": "title-8fc29ab256a273aac8983787152f0b46",
 			"title": "Version 5.0.32 / 2.2.57 - 03/24/2026",
-			"contents": "<li data-section-id=\"1fd8i8c\" data-start=\"142\" data-end=\"200\" data-list-item-id=\"e887359c5437c8499d14a24ebab9d7eba\">Removed inaccurate time remaining estimates.</li>\n<li data-section-id=\"1va3q4y\" data-start=\"496\" data-end=\"582\" data-list-item-id=\"ef35a84c60acae7344ccc2b7b6928d4e1\">Improved activity log performance and size management.</li>\n<li data-list-item-id=\"e700230be382aa4c6f31e553ac1316cc4\"><p data-start=\"72\" data-end=\"232\">Fixed an issue when upgrading from version 2.1.x to 2.2.x.</p></li>",
+			"contents": "<li data-section-id=\"1fd8i8c\" data-start=\"142\" data-end=\"200\" data-list-item-id=\"eb186d6ff9edba70f15ac91ac385573b7\">Removed inaccurate time remaining estimates.</li>\n<li data-section-id=\"1va3q4y\" data-start=\"496\" data-end=\"582\" data-list-item-id=\"e7850d1b8c7c975968aa032db1dba70f7\">Improved activity log performance and size management.</li>\n<li data-list-item-id=\"e5de7a0619b5f4e5d8289863deb6ec20b\"><p data-start=\"72\" data-end=\"232\">Fixed an issue when upgrading from version 2.1.x to 2.2.x.</p></li>",
 			"retrieved": 1777377824880
 		},
 		{
