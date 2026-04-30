@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-30T02:57:28.136Z</updated>
+    <updated>2026-04-30T06:30:22.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-52a42622873019bde84c176cff3498ad</id>
         <link href="https://en.wikipedia.org/wiki/Manicule"/>
         <updated>2026-04-30T02:55:35.471Z</updated>
-        <content type="html"><![CDATA[... that a <b><a href="/wiki/Manicule" title="Manicule">manicule</a></b> <i>(pictured)</i> in Cicero's <i>Paradoxa Stoicorum</i> had its fingers stretched to cover the full length of a passage?]]></content>
+        <content type="html"><![CDATA[... that a <b><a href="/wiki/Manicule" title="Manicule">manicule</a></b> <i>(pictured)</i> in a manuscript of Cicero's <i>Paradoxa Stoicorum</i> had its fingers stretched to cover the full length of a passage?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ann Dallas]]></title>
@@ -66,6 +66,6 @@
         <id>link-fc12dd0d765238a2d9332026124aaae9</id>
         <link href="https://en.wikipedia.org/wiki/Photograph_of_Prince_Andrew,_Virginia_Giuffre_and_Ghislaine_Maxwell"/>
         <updated>2026-04-30T02:55:35.471Z</updated>
-        <content type="html"><![CDATA[...  that an English newspaper paid $140,000 for a photograph of a <b><a href="/wiki/Photograph_of_Prince_Andrew,_Virginia_Giuffre_and_Ghislaine_Maxwell" title="Photograph of Prince Andrew, Virginia Giuffre and Ghislaine Maxwell">photo taken by Jeffrey Epstein</a></b>?]]></content>
+        <content type="html"><![CDATA[...  that a British newspaper paid $140,000 for a photograph of a <b><a href="/wiki/Photograph_of_Prince_Andrew,_Virginia_Giuffre_and_Ghislaine_Maxwell" title="Photograph of Prince Andrew, Virginia Giuffre and Ghislaine Maxwell">photo taken by Jeffrey Epstein</a></b>?]]></content>
     </entry>
 </feed>
