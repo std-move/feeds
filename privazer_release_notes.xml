@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-05-02T10:55:04.380Z</updated>
+    <updated>2026-05-02T13:15:03.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.121]]></title>
+        <id>title-45dca627982982db6721289b532b6d5d</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-05-02T13:13:06.254Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.121</strong> (02 May 2026)<br>
+            + Improved UI : new design<br>
+            + Improved speed<br> 
+            + Improved cleanup : Firefox<br>
+            + Improved cleanup : Media Player Classic (MPC-HC)<br>  
+            + Minor bug fixes<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.120.3]]></title>
         <id>title-dff769ec20baa2d1f1d6eaff14d19752</id>
@@ -224,13 +236,5 @@
                   + Improved cleanup : Clipboard<br>            
                   + Improved UI<br>  
                   <u>More info</u>  : <a href="https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-127#post-3232283">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.105]]></title>
-        <id>title-43b8e959bf8a54a265aa1894341c03b1</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-04-09T02:24:48.805Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.105</strong> (03 May 2025)<br>
-                + Improved support : TRIM (SSD)<br>]]></content>
     </entry>
 </feed>

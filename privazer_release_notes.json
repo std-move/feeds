@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-45dca627982982db6721289b532b6d5d",
+			"title": "v4.0.121",
+			"contents": "<strong>v4.0.121</strong> (02 May 2026)<br>\n            + Improved UI : new design<br>\n            + Improved speed<br> \n            + Improved cleanup : Firefox<br>\n            + Improved cleanup : Media Player Classic (MPC-HC)<br>  \n            + Minor bug fixes<br>",
+			"retrieved": 1777727586254
+		},
+		{
 			"id": "title-dff769ec20baa2d1f1d6eaff14d19752",
 			"title": "v4.0.120.3",
 			"contents": "<strong>v4.0.120.3</strong> (08 April 2026)<br>\n            + Minor bug fixes",
@@ -115,12 +121,6 @@
 			"id": "title-1a2ffe6a619b68df66e7dcbf575307eb",
 			"title": "v4.0.106",
 			"contents": "<strong>v4.0.106</strong> (08 June 2025)<br>\n                  + New cleanup : BAM (Background Activity Monitor)<br>  \n                  + Improved cleanup : Clipboard<br>            \n                  + Improved UI<br>  \n                  <u>More info</u>  : <a href=\"https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-127#post-3232283\">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>",
-			"retrieved": 1775701488805
-		},
-		{
-			"id": "title-43b8e959bf8a54a265aa1894341c03b1",
-			"title": "v4.0.105",
-			"contents": "<strong>v4.0.105</strong> (03 May 2025)<br>\n                + Improved support : TRIM (SSD)<br>",
 			"retrieved": 1775701488805
 		}
 	]
