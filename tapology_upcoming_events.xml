@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-05-02T02:45:18.842Z</updated>
+    <updated>2026-05-02T06:09:01.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/138182-inoue-vs-nakatani">Inoue vs. Nakatani</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-02 02:00:00 -0400">in 3 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-02 02:00:00 -0400">7 minutes ago</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140511-ufc-fight-night-della-maddalena-vs-prates">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-02 04:00:00 -0400">in 5 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-02 04:00:00 -0400">in 1 hour</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/136363-benavidez-vs-zurdo">Benavidez vs. Zurdo</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-02 16:30:00 -0400">in 17 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-02 16:30:00 -0400">in 14 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140389-pfl-sioux-falls">PFL Sioux Falls</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-02 19:00:00 -0400">in 20 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-02 19:00:00 -0400">in 16 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
