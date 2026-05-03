@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liberation.travel/liberation-travel-hacks-month-letter/</id>
     <title>Liberation Travel Month-letter</title>
-    <updated>2026-05-03T02:57:49.533Z</updated>
+    <updated>2026-05-03T06:27:56.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://liberation.travel/wp-content/uploads/2023/10/cropped-thumbnail-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Liberation Travel Hacks 05/2026 (CZSK)]]></title>
+        <id>link-46ee1d17a66406a6bd2c9a176eddc081</id>
+        <link href="https://liberation.travel/?na=view&amp;id=66"/>
+        <updated>2026-05-03T06:26:06.847Z</updated>
+        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">May 3, 2026</span><a href="https://liberation.travel/?na=view&amp;id=66" target="_blank">Liberation Travel Hacks 05/2026 (CZSK)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liberation Travel Hacks 04/2026 (EN)]]></title>
         <id>link-41583120c3e8cc053aeb1860ab8930a2</id>
