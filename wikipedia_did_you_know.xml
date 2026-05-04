@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-05-04T19:43:33.908Z</updated>
+    <updated>2026-05-04T21:10:57.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>link-973174bbcb3681709778e1f4b8293b36</id>
         <link href="https://en.wikipedia.org/wiki/Ruth_Higgins"/>
         <updated>2026-05-04T02:53:33.737Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Ruth_Higgins" title="Ruth Higgins">Ruth Higgins</a></b> will become the first woman to serve as Solicitor-General of Australia when her term begins in June 2026?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ruth_Higgins" title="Ruth Higgins">Ruth Higgins</a></b> is the first woman appointed to serve as Solicitor-General of Australia when her term begins in June 2026?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a Chinese bootleg DVD of Revenge of the Sith]]></title>
