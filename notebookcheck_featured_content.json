@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-5ae81658415cc1d16c74c67ce93a8a99",
+			"title": "Ninkear S13 Review: Discount code makes the 2-in-1 significantly more attractive",
+			"link": "https://www.notebookcheck.net/Ninkear-S13-review-Windows-tablet-with-Core-Ultra-5-in-Surface-Pro-design.1285555.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Ninkear/S13/S13_28-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Ninkear/S13/S13_28-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Ninkear/S13/S13_28-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Ninkear/S13/S13_28-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Ninkear/S13/S13_28-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Ninkear/S13/S13_28-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/9/csm_S13_28_c2aaf78125.jpg\" loading=\"lazy\" alt=\"Ninkear S13 review: Windows tablet with Core Ultra 5 in Surface Pro design\"></picture><div class=\"intro_featured_bar_title\">Ninkear S13 Review: Discount code makes the 2-in-1 significantly more attractive</div>",
+			"retrieved": 1777889641192
+		},
+		{
 			"id": "link-94462ffbb57dd184efc7802791985b5e",
 			"title": "Debut for the Ryzen AI 7 450: Lenovo IdeaPad Pro 5 14 review",
 			"link": "https://www.notebookcheck.net/Is-AMD-trolling-us-with-the-Ryzen-AI-7-450-Lenovo-IdeaPad-Pro-5-14-laptop-review.1284546.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Exynos-and-more-battery-power-make-it-a-star-Samsung-Galaxy-S26-review.1284566.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/2/csm_aPic_Samsung_Galaxy_S26-2168_761bda5e8f.jpg\" loading=\"lazy\" alt=\"Exynos and more battery power make it a star - Samsung Galaxy S26 review \"></picture><div class=\"intro_featured_bar_title\">2nm mini – Samsung Galaxy S26 review</div>",
 			"retrieved": 1777490800202
-		},
-		{
-			"id": "link-a61f2ea82313415207cf9b7357a93c85",
-			"title": "Lenovo Pro 9i 16 G11 Aura review: Recharged with Panther Lake",
-			"link": "https://www.notebookcheck.net/Lenovo-Pro-9i-16-G11-Aura-Edition-review-A-direct-counter-to-the-Dell-XPS-16.1282769.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Pro_9_16IPH11/lenovopro916iph11_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Pro_9_16IPH11/lenovopro916iph11_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Pro_9_16IPH11/lenovopro916iph11_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Pro_9_16IPH11/lenovopro916iph11_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Pro_9_16IPH11/lenovopro916iph11_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Pro_9_16IPH11/lenovopro916iph11_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/9/csm_lenovopro916iph11_feature_1_ee3a69ee33.jpg\" loading=\"lazy\" alt=\"Lenovo Pro 9i 16 G11 Aura Edition review: A direct counter to the Dell XPS 16\"></picture><div class=\"intro_featured_bar_title\">Lenovo Pro 9i 16 G11 Aura review: Recharged with Panther Lake</div>",
-			"retrieved": 1777484662687
 		}
 	]
 }
