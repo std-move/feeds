@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-68aa2a14ac2072aab416da69adcb0a30",
+			"title": "13-inch tablet with power: Lenovo Idea Tab Pro Gen 2 in test",
+			"link": "https://www.notebookcheck.net/Shocks-the-mid-range-tablet-class-with-fast-WiFi-and-pen-input-Lenovo-Idea-Tab-Pro-Gen-2-review.1289524.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Idea_Tab_Pro_Gen_2/IMG_20260504_125810-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Idea_Tab_Pro_Gen_2/IMG_20260504_125810-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Idea_Tab_Pro_Gen_2/IMG_20260504_125810-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Idea_Tab_Pro_Gen_2/IMG_20260504_125810-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Idea_Tab_Pro_Gen_2/IMG_20260504_125810-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Idea_Tab_Pro_Gen_2/IMG_20260504_125810-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/8/csm_IMG_20260504_125810_5f4a6c42bd.jpg\" loading=\"lazy\" alt=\"Lenovo Idea Tab Pro Gen 2 in review\"></picture><div class=\"intro_featured_bar_title\">13-inch tablet with power: Lenovo Idea Tab Pro Gen 2 in test</div>",
+			"retrieved": 1777975392974
+		},
+		{
 			"id": "link-5ae81658415cc1d16c74c67ce93a8a99",
 			"title": "Ninkear S13 Review: Discount code makes the 2-in-1 significantly more attractive",
 			"link": "https://www.notebookcheck.net/Ninkear-S13-review-Windows-tablet-with-Core-Ultra-5-in-Surface-Pro-design.1285555.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Apple-Studio-Display-Studio-Display-XDR-It-s-complicated.1286715.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/d/csm_thumb7974_de7954a094.jpg\" loading=\"lazy\" alt=\"Apple Studio Display &amp; Studio Display XDR - It's complicated!\"></picture><div class=\"intro_featured_bar_title\">▶ Apple Studio Display &amp; Studio Display XDR - It's complicated!</div>",
 			"retrieved": 1777557375358
-		},
-		{
-			"id": "link-1a37a126fde7a3e5a47ff960d05d3d66",
-			"title": "2nm mini – Samsung Galaxy S26 review",
-			"link": "https://www.notebookcheck.net/Exynos-and-more-battery-power-make-it-a-star-Samsung-Galaxy-S26-review.1284566.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/aPic_Samsung_Galaxy_S26-2168-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/2/csm_aPic_Samsung_Galaxy_S26-2168_761bda5e8f.jpg\" loading=\"lazy\" alt=\"Exynos and more battery power make it a star - Samsung Galaxy S26 review \"></picture><div class=\"intro_featured_bar_title\">2nm mini – Samsung Galaxy S26 review</div>",
-			"retrieved": 1777490800202
 		}
 	]
 }
