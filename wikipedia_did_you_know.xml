@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-05-05T02:47:07.248Z</updated>
+    <updated>2026-05-05T06:18:22.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-11a78496e8207f80d27e8a9a68e87d28</id>
         <link href="https://en.wikipedia.org/wiki/ZTF_J1239%2B8347"/>
         <updated>2026-05-05T02:45:22.624Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/ZTF_J1239%2B8347" title="ZTF J1239+8347">ZTF J1239+8347</a></b> <i>(pictured)</i> contains two <a href="/wiki/Brown_dwarf" title="Brown dwarf">brown dwarfs</a> orbiting so closely that material flows between them?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/ZTF_J1239%2B8347" title="ZTF J1239+8347">ZTF J1239+8347</a></b> <i>(pictured)</i> consists of two <a href="/wiki/Brown_dwarf" title="Brown dwarf">brown dwarfs</a> orbiting so closely that material flows between them?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rollo Peters]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[... that <i><b><a href="/wiki/The_Behavior_of_Law" title="The Behavior of Law">The Behavior of Law</a></b></i> argues that people of higher social status are more likely to use the law than people of lower status?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raja of Kolhapur]]></title>
+        <title type="html"><![CDATA[a raja of Kolhapur]]></title>
         <id>link-e6af25faeac73c0c497f1aa41439805c</id>
         <link href="https://en.wikipedia.org/wiki/Rajaram_I_of_Kolhapur"/>
         <updated>2026-05-05T02:45:22.624Z</updated>
-        <content type="html"><![CDATA[... that "Today is the first time I have seen snow falling" were the last words written by a <b><a href="/wiki/Rajaram_I_of_Kolhapur" title="Rajaram I of Kolhapur">Raja of Kolhapur</a></b> in his diary?]]></content>
+        <content type="html"><![CDATA[... that "Today is the first time I have seen snow falling" were the last words written by <b><a href="/wiki/Rajaram_I_of_Kolhapur" title="Rajaram I of Kolhapur">a raja of Kolhapur</a></b> in his diary?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Three Rivers Museum]]></title>
