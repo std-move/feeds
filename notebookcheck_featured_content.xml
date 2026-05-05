@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-05-05T17:26:34.988Z</updated>
+    <updated>2026-05-05T19:25:36.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Using Tailscale while on vacation: How I access my home network from abroad]]></title>
+        <id>link-ddff7ea79c6a59557af805912a11a928</id>
+        <link href="https://www.notebookcheck.net/Using-Tailscale-while-on-vacation-How-I-access-my-home-network-from-abroad.1289541.0.html"/>
+        <updated>2026-05-05T19:23:43.683Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Tailscale-on-holiday28-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Tailscale-on-holiday28-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Tailscale-on-holiday28-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Tailscale-on-holiday28-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Tailscale-on-holiday28-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Tailscale-on-holiday28-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/9/csm_Tailscale-on-holiday28_d14d264dbf.png" loading="lazy" alt="Use Tailscale to surf in your home network, even on holiday"></picture><div class="intro_featured_bar_title">Using Tailscale while on vacation: How I access my home network from abroad</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[13-inch tablet with power: Lenovo Idea Tab Pro Gen 2 in test]]></title>
         <id>link-68aa2a14ac2072aab416da69adcb0a30</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Pragmata-review-Is-a-mid-range-GPU-enough-for-all-the-visual-bells-and-whistles.1287138.0.html"/>
         <updated>2026-04-30T17:24:14.232Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/a/csm_feature-p_bf58f13683.jpg" loading="lazy" alt="Pragmata review: Is a mid-range GPU enough for all the visual bells and whistles?"></picture><div class="intro_featured_bar_title">Path tracing on mid-range GPUs? Pragmata reviewed</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ Apple Studio Display & Studio Display XDR - It's complicated!]]></title>
-        <id>link-da13ba6c1032d05eef75c5622f322916</id>
-        <link href="https://www.notebookcheck.net/Apple-Studio-Display-Studio-Display-XDR-It-s-complicated.1286715.0.html"/>
-        <updated>2026-04-30T13:56:15.358Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7974-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/d/csm_thumb7974_de7954a094.jpg" loading="lazy" alt="Apple Studio Display &amp; Studio Display XDR - It's complicated!"></picture><div class="intro_featured_bar_title">▶ Apple Studio Display &amp; Studio Display XDR - It's complicated!</div>]]></content>
     </entry>
 </feed>
