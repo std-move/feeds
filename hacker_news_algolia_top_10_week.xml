@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-05-05T21:05:03.311Z</updated>
+    <updated>2026-05-05T22:57:36.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>link-1be7e61142847305c8641a7f9c99d328</id>
         <link href="https://news.ycombinator.com/item?id=48007438"/>
         <updated>2026-05-04T22:57:32.192Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48007438"><span>Talking to strangers at the gym</span></a><a href="https://thienantran.com/talking-to-35-strangers-at-the-gym/" target="_blank" class="Story_link">(https://thienantran.com/talking-to-35-strangers-at-the-gym/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48007438">1461 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=thitran"><span>thitran</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48007438">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48007438">722 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48007438"><span>Talking to strangers at the gym</span></a><a href="https://thienantran.com/talking-to-35-strangers-at-the-gym/" target="_blank" class="Story_link">(https://thienantran.com/talking-to-35-strangers-at-the-gym/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48007438">1466 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=thitran"><span>thitran</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48007438">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48007438">726 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Code refuses requests or charges extra if your commits mention "OpenClaw"]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47949939"><span>Cursor Camp</span></a><a href="https://neal.fun/cursor-camp/" target="_blank" class="Story_link">(https://neal.fun/cursor-camp/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47949939">1212 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=bpierre"><span>bpierre</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47949939">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47949939">194 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Chrome silently installs a 4 GB AI model on your device without consent]]></title>
+        <id>link-39768dd1ebb3a29589716643fec4b62e</id>
+        <link href="https://news.ycombinator.com/item?id=48019219"/>
+        <updated>2026-05-05T21:03:13.207Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48019219"><span>Google Chrome silently installs a 4 GB AI model on your device without consent</span></a><a href="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/" target="_blank" class="Story_link">(https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48019219">1157 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=john-doe"><span>john-doe</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48019219">15 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48019219">793 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Where the goblins came from]]></title>
         <id>link-de3f73299ace2b92072a8611bc1a5b8e</id>
         <link href="https://news.ycombinator.com/item?id=47957688"/>
         <updated>2026-04-30T19:22:20.989Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47957688"><span>Where the goblins came from</span></a><a href="https://openai.com/index/where-the-goblins-came-from/" target="_blank" class="Story_link">(https://openai.com/index/where-the-goblins-came-from/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47957688">1065 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ilreb"><span>ilreb</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47957688">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47957688">658 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome silently installs a 4 GB AI model on your device without consent]]></title>
-        <id>link-39768dd1ebb3a29589716643fec4b62e</id>
-        <link href="https://news.ycombinator.com/item?id=48019219"/>
-        <updated>2026-05-05T21:03:13.207Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48019219"><span>Google Chrome silently installs a 4 GB AI model on your device without consent</span></a><a href="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/" target="_blank" class="Story_link">(https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48019219">1035 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=john-doe"><span>john-doe</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48019219">13 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48019219">705 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Online age verification is the hill to die on]]></title>

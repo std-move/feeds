@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-2dfd58d65688fdb65133599988a0b45e",
+			"title": "HP EliteBoard G1a AI review: An AMD mini PC with a built-in keyboard",
+			"link": "https://www.notebookcheck.net/HP-EliteBoard-G1a-AI-review-A-PC-hidden-in-plain-sight.1287730.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBoard2BG1a2BAI/eliteboard_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBoard2BG1a2BAI/eliteboard_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBoard2BG1a2BAI/eliteboard_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBoard2BG1a2BAI/eliteboard_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBoard2BG1a2BAI/eliteboard_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBoard2BG1a2BAI/eliteboard_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/b/csm_eliteboard_feature_1_4e12245119.jpg\" loading=\"lazy\" alt=\"HP EliteBoard G1a AI review: A PC hidden in plain sight\"></picture><div class=\"intro_featured_bar_title\">HP EliteBoard G1a AI review: An AMD mini PC with a built-in keyboard</div>",
+			"retrieved": 1778021747062
+		},
+		{
 			"id": "link-ddff7ea79c6a59557af805912a11a928",
 			"title": "Using Tailscale while on vacation: How I access my home network from abroad",
 			"link": "https://www.notebookcheck.net/Using-Tailscale-while-on-vacation-How-I-access-my-home-network-from-abroad.1289541.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Frags-other-gaming-tablets-with-brute-speed-and-clever-features-Review-Lenovo-Legion-Tab-Gen-5-2026.1287490.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Legion_Tab_Gen_5/IMG_20260501_083804-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Legion_Tab_Gen_5/IMG_20260501_083804-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Legion_Tab_Gen_5/IMG_20260501_083804-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Legion_Tab_Gen_5/IMG_20260501_083804-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Legion_Tab_Gen_5/IMG_20260501_083804-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Legion_Tab_Gen_5/IMG_20260501_083804-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/0/csm_IMG_20260501_083804_bc4b686e2e.jpg\" loading=\"lazy\" alt=\"Legion Tab TB323FU 2026 (Legion Y700) in the test\"></picture><div class=\"intro_featured_bar_title\">King of gaming? Lenovo Legion Tab 5 in review</div>",
 			"retrieved": 1777633580032
-		},
-		{
-			"id": "link-36f23ace87e1a5901cd37a7558a4599c",
-			"title": "Path tracing on mid-range GPUs? Pragmata reviewed",
-			"link": "https://www.notebookcheck.net/Pragmata-review-Is-a-mid-range-GPU-enough-for-all-the-visual-bells-and-whistles.1287138.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Pragmata/feature-p-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/a/csm_feature-p_bf58f13683.jpg\" loading=\"lazy\" alt=\"Pragmata review: Is a mid-range GPU enough for all the visual bells and whistles?\"></picture><div class=\"intro_featured_bar_title\">Path tracing on mid-range GPUs? Pragmata reviewed</div>",
-			"retrieved": 1777569854232
 		}
 	]
 }
