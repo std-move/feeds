@@ -4,17 +4,10 @@
 	"favicon": "https://hn.algolia.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-b171c77c27c9ec83da0be12868b22580",
-			"title": "Zed 1.0",
-			"link": "https://news.ycombinator.com/item?id=47949027",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47949027\"><span>Zed 1.0</span></a><a href=\"https://zed.dev/blog/zed-1-0\" target=\"_blank\" class=\"Story_link\">(https://zed.dev/blog/zed-1-0)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47949027\">2147 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=salkahfi\"><span>salkahfi</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47949027\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47949027\">692 comments</a></span></div></div></div>",
-			"retrieved": 1777484662687
-		},
-		{
 			"id": "link-39768dd1ebb3a29589716643fec4b62e",
 			"title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
 			"link": "https://news.ycombinator.com/item?id=48019219",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48019219\"><span>Google Chrome silently installs a 4 GB AI model on your device without consent</span></a><a href=\"https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\" target=\"_blank\" class=\"Story_link\">(https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48019219\">1529 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=john-doe\"><span>john-doe</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48019219\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48019219\">1023 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48019219\"><span>Google Chrome silently installs a 4 GB AI model on your device without consent</span></a><a href=\"https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\" target=\"_blank\" class=\"Story_link\">(https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48019219\">1590 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=john-doe\"><span>john-doe</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48019219\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48019219\">1055 comments</a></span></div></div></div>",
 			"retrieved": 1777996400660
 		},
 		{
@@ -28,7 +21,7 @@
 			"id": "link-1be7e61142847305c8641a7f9c99d328",
 			"title": "Talking to strangers at the gym",
 			"link": "https://news.ycombinator.com/item?id=48007438",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48007438\"><span>Talking to strangers at the gym</span></a><a href=\"https://thienantran.com/talking-to-35-strangers-at-the-gym/\" target=\"_blank\" class=\"Story_link\">(https://thienantran.com/talking-to-35-strangers-at-the-gym/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48007438\">1499 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=thitran\"><span>thitran</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48007438\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48007438\">745 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48007438\"><span>Talking to strangers at the gym</span></a><a href=\"https://thienantran.com/talking-to-35-strangers-at-the-gym/\" target=\"_blank\" class=\"Story_link\">(https://thienantran.com/talking-to-35-strangers-at-the-gym/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48007438\">1503 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=thitran\"><span>thitran</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48007438\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48007438\">748 comments</a></span></div></div></div>",
 			"retrieved": 1777916483317
 		},
 		{
@@ -53,25 +46,11 @@
 			"retrieved": 1777496749023
 		},
 		{
-			"id": "link-1d966edc4a00af4c6e80207a1237ec56",
-			"title": "Cursor Camp",
-			"link": "https://news.ycombinator.com/item?id=47949939",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47949939\"><span>Cursor Camp</span></a><a href=\"https://neal.fun/cursor-camp/\" target=\"_blank\" class=\"Story_link\">(https://neal.fun/cursor-camp/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47949939\">1212 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bpierre\"><span>bpierre</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47949939\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47949939\">194 comments</a></span></div></div></div>",
-			"retrieved": 1777517735471
-		},
-		{
 			"id": "link-de3f73299ace2b92072a8611bc1a5b8e",
 			"title": "Where the goblins came from",
 			"link": "https://news.ycombinator.com/item?id=47957688",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47957688\"><span>Where the goblins came from</span></a><a href=\"https://openai.com/index/where-the-goblins-came-from/\" target=\"_blank\" class=\"Story_link\">(https://openai.com/index/where-the-goblins-came-from/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47957688\">1065 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ilreb\"><span>ilreb</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47957688\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47957688\">659 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47957688\"><span>Where the goblins came from</span></a><a href=\"https://openai.com/index/where-the-goblins-came-from/\" target=\"_blank\" class=\"Story_link\">(https://openai.com/index/where-the-goblins-came-from/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47957688\">1065 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ilreb\"><span>ilreb</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47957688\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47957688\">659 comments</a></span></div></div></div>",
 			"retrieved": 1777557375358
-		},
-		{
-			"id": "link-590fc42f93cb7cccabdd212975ebb653",
-			"title": "Online age verification is the hill to die on",
-			"link": "https://news.ycombinator.com/item?id=47950091",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47950091\"><span>Online age verification is the hill to die on</span></a><a href=\"https://x.com/GlennMeder/status/2049088498163216560\" target=\"_blank\" class=\"Story_link\">(https://x.com/GlennMeder/status/2049088498163216560)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47950091\">973 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Cider9986\"><span>Cider9986</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47950091\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47950091\">709 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://xcancel.com/GlennMeder/status/2049088498163216560\" rel=\"nofollow\">https://xcancel.com/GlennMeder/status/2049088498163216560</a></span></div></div></div></div>",
-			"retrieved": 1777503447937
 		},
 		{
 			"id": "link-600396c5f7a8023c797ba39bc5f52004",
@@ -84,14 +63,14 @@
 			"id": "link-aff9025d8f4cf0c6b3d1a6dbc67cd4a1",
 			"title": "Mercedes-Benz commits to bringing back physical buttons",
 			"link": "https://news.ycombinator.com/item?id=47997418",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47997418\"><span>Mercedes-Benz commits to bringing back physical buttons</span></a><a href=\"https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/\" target=\"_blank\" class=\"Story_link\">(https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47997418\">851 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=teleforce\"><span>teleforce</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47997418\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47997418\">506 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47997418\"><span>Mercedes-Benz commits to bringing back physical buttons</span></a><a href=\"https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/\" target=\"_blank\" class=\"Story_link\">(https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47997418\">852 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=teleforce\"><span>teleforce</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47997418\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47997418\">506 comments</a></span></div></div></div>",
 			"retrieved": 1777863213737
 		},
 		{
 			"id": "link-7e381aff2620e9b6a01c3b9d5a51f53c",
 			"title": "Why does it take so long to release black fan versions?",
 			"link": "https://news.ycombinator.com/item?id=47983352",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47983352\"><span>Why does it take so long to release black fan versions?</span></a><a href=\"https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\" target=\"_blank\" class=\"Story_link\">(https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47983352\">771 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=buildbot\"><span>buildbot</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47983352\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47983352\">299 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47983352\"><span>Why does it take so long to release black fan versions?</span></a><a href=\"https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\" target=\"_blank\" class=\"Story_link\">(https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47983352\">772 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=buildbot\"><span>buildbot</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47983352\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47983352\">299 comments</a></span></div></div></div>",
 			"retrieved": 1777748404953
 		},
 		{
@@ -100,6 +79,20 @@
 			"link": "https://news.ycombinator.com/item?id=47967786",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47967786\"><span>Can I disable all data collection from my vehicle?</span></a><a href=\"https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\" target=\"_blank\" class=\"Story_link\">(https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47967786\">757 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Cider9986\"><span>Cider9986</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47967786\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47967786\">349 comments</a></span></div></div></div>",
 			"retrieved": 1777628790742
+		},
+		{
+			"id": "link-bccccab7f1f23c330d5735e039372892",
+			"title": "DNSSEC disruption affecting .de domains – Resolved",
+			"link": "https://news.ycombinator.com/item?id=48027897",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48027897\"><span>DNSSEC disruption affecting .de domains – Resolved</span></a><a href=\"https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38\" target=\"_blank\" class=\"Story_link\">(https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48027897\">724 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=warpspin\"><span>warpspin</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48027897\">21 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48027897\">384 comments</a></span></div></div></div>",
+			"retrieved": 1778048971756
+		},
+		{
+			"id": "link-d62bd2a92b903921ea507a44beb4fd6c",
+			"title": "Red Squares – GitHub outages as contributions",
+			"link": "https://news.ycombinator.com/item?id=48034587",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48034587\"><span>Red Squares – GitHub outages as contributions</span></a><a href=\"https://red-squares.cian.lol/\" target=\"_blank\" class=\"Story_link\">(https://red-squares.cian.lol/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48034587\">713 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=cianmm\"><span>cianmm</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48034587\">7 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48034587\">161 comments</a></span></div></div></div>",
+			"retrieved": 1778089276911
 		},
 		{
 			"id": "link-0e742d40d9289c5a34c68e0f295eecbf",
@@ -112,28 +105,21 @@
 			"id": "link-3f15e14ec56025fb393aa7ebafb1316b",
 			"title": "Zig → Rust porting guide",
 			"link": "https://news.ycombinator.com/item?id=48016880",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48016880\"><span>Zig → Rust porting guide</span></a><a href=\"https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\" target=\"_blank\" class=\"Story_link\">(https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48016880\">705 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=SergeAx\"><span>SergeAx</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48016880\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48016880\">532 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48016880\"><span>Zig → Rust porting guide</span></a><a href=\"https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\" target=\"_blank\" class=\"Story_link\">(https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48016880\">705 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=SergeAx\"><span>SergeAx</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48016880\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48016880\">534 comments</a></span></div></div></div>",
 			"retrieved": 1777989324582
-		},
-		{
-			"id": "link-bccccab7f1f23c330d5735e039372892",
-			"title": "DNSSEC disruption affecting .de domains – Resolved",
-			"link": "https://news.ycombinator.com/item?id=48027897",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48027897\"><span>DNSSEC disruption affecting .de domains – Resolved</span></a><a href=\"https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38\" target=\"_blank\" class=\"Story_link\">(https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48027897\">704 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=warpspin\"><span>warpspin</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48027897\">18 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48027897\">372 comments</a></span></div></div></div>",
-			"retrieved": 1778048971756
 		},
 		{
 			"id": "link-7bcd079e25fc4ffcc1611d20616cf3aa",
 			"title": "GameStop makes $55.5B takeover offer for eBay",
 			"link": "https://news.ycombinator.com/item?id=48006402",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48006402\"><span>GameStop makes $55.5B takeover offer for eBay</span></a><a href=\"https://www.bbc.co.uk/news/articles/cn0p8yled1do\" target=\"_blank\" class=\"Story_link\">(https://www.bbc.co.uk/news/articles/cn0p8yled1do)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48006402\">702 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=n1b0m\"><span>n1b0m</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48006402\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48006402\">688 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48006402\"><span>GameStop makes $55.5B takeover offer for eBay</span></a><a href=\"https://www.bbc.co.uk/news/articles/cn0p8yled1do\" target=\"_blank\" class=\"Story_link\">(https://www.bbc.co.uk/news/articles/cn0p8yled1do)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48006402\">704 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=n1b0m\"><span>n1b0m</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48006402\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48006402\">689 comments</a></span></div></div></div>",
 			"retrieved": 1777928951820
 		},
 		{
 			"id": "link-722785b4a5b50f2a0cfd75d3a7cd91c9",
 			"title": "The Zig project's rationale for their anti-AI contribution policy",
 			"link": "https://news.ycombinator.com/item?id=47957294",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47957294\"><span>The Zig project's rationale for their anti-AI contribution policy</span></a><a href=\"https://simonwillison.net/2026/Apr/30/zig-anti-ai/\" target=\"_blank\" class=\"Story_link\">(https://simonwillison.net/2026/Apr/30/zig-anti-ai/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47957294\">679 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=lumpa\"><span>lumpa</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47957294\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47957294\">462 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47957294\"><span>The Zig project's rationale for their anti-AI contribution policy</span></a><a href=\"https://simonwillison.net/2026/Apr/30/zig-anti-ai/\" target=\"_blank\" class=\"Story_link\">(https://simonwillison.net/2026/Apr/30/zig-anti-ai/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47957294\">680 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=lumpa\"><span>lumpa</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47957294\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47957294\">462 comments</a></span></div></div></div>",
 			"retrieved": 1777575766287
 		},
 		{
@@ -161,8 +147,15 @@
 			"id": "link-0532f44ef7da4e112c116f0206f10815",
 			"title": "Mozilla's opposition to Chrome's Prompt API",
 			"link": "https://news.ycombinator.com/item?id=47959463",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47959463\"><span>Mozilla's opposition to Chrome's Prompt API</span></a><a href=\"https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313\" target=\"_blank\" class=\"Story_link\">(https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47959463\">658 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=jaffathecake\"><span>jaffathecake</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47959463\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47959463\">231 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47959463\"><span>Mozilla's opposition to Chrome's Prompt API</span></a><a href=\"https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313\" target=\"_blank\" class=\"Story_link\">(https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47959463\">659 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=jaffathecake\"><span>jaffathecake</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47959463\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47959463\">231 comments</a></span></div></div></div>",
 			"retrieved": 1777654675537
+		},
+		{
+			"id": "link-6650d6edccc860ab5f87fd1f68198e68",
+			"title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+			"link": "https://news.ycombinator.com/item?id=48024540",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48024540\"><span>Accelerating Gemma 4: faster inference with multi-token prediction drafters</span></a><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\" target=\"_blank\" class=\"Story_link\">(https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48024540\">642 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=amrrs\"><span>amrrs</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48024540\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48024540\">311 comments</a></span></div></div></div>",
+			"retrieved": 1778076729391
 		},
 		{
 			"id": "link-b7655d1618cd929f734217d6de9890cd",
@@ -175,7 +168,7 @@
 			"id": "link-689abf88b8c6a901ab003889b856cd16",
 			"title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
 			"link": "https://news.ycombinator.com/item?id=48012735",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48012735\"><span>Microsoft Edge stores all passwords in memory in clear text, even when unused</span></a><a href=\"https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\" target=\"_blank\" class=\"Story_link\">(https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48012735\">621 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=cft\"><span>cft</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48012735\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48012735\">222 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48012735\"><span>Microsoft Edge stores all passwords in memory in clear text, even when unused</span></a><a href=\"https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\" target=\"_blank\" class=\"Story_link\">(https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48012735\">628 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=cft\"><span>cft</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48012735\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48012735\">224 comments</a></span></div></div></div>",
 			"retrieved": 1778009023683
 		},
 		{
@@ -184,13 +177,6 @@
 			"link": "https://news.ycombinator.com/item?id=47988504",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=47988504\"><span>Dav2d</span></a><a href=\"https://code.videolan.org/videolan/dav2d\" target=\"_blank\" class=\"Story_link\">(https://code.videolan.org/videolan/dav2d)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=47988504\">616 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=dabinat\"><span>dabinat</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47988504\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=47988504\">188 comments</a></span></div></div></div>",
 			"retrieved": 1777876737415
-		},
-		{
-			"id": "link-6650d6edccc860ab5f87fd1f68198e68",
-			"title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-			"link": "https://news.ycombinator.com/item?id=48024540",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48024540\"><span>Accelerating Gemma 4: faster inference with multi-token prediction drafters</span></a><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\" target=\"_blank\" class=\"Story_link\">(https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48024540\">614 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=amrrs\"><span>amrrs</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48024540\">22 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48024540\">298 comments</a></span></div></div></div>",
-			"retrieved": 1778076729391
 		},
 		{
 			"id": "link-dace64da5c4744860cb42a771249e2f2",
@@ -210,8 +196,22 @@
 			"id": "link-1ee7ffd26cb37937976561922a790eb0",
 			"title": "Let's Buy Spirit Air",
 			"link": "https://news.ycombinator.com/item?id=48002777",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48002777\"><span>Let's Buy Spirit Air</span></a><a href=\"https://letsbuyspiritair.com/\" target=\"_blank\" class=\"Story_link\">(https://letsbuyspiritair.com/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48002777\">597 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bjhess\"><span>bjhess</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48002777\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48002777\">570 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48002777\"><span>Let's Buy Spirit Air</span></a><a href=\"https://letsbuyspiritair.com/\" target=\"_blank\" class=\"Story_link\">(https://letsbuyspiritair.com/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48002777\">597 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bjhess\"><span>bjhess</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48002777\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48002777\">571 comments</a></span></div></div></div>",
 			"retrieved": 1778021747062
+		},
+		{
+			"id": "link-3d390a238120e14e9bb86f67b869c04a",
+			"title": "StarFighter 16-Inch",
+			"link": "https://news.ycombinator.com/item?id=48031261",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48031261\"><span>StarFighter 16-Inch</span></a><a href=\"https://us.starlabs.systems/pages/starfighter\" target=\"_blank\" class=\"Story_link\">(https://us.starlabs.systems/pages/starfighter)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48031261\">591 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=signa11\"><span>signa11</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48031261\">16 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48031261\">315 comments</a></span></div></div></div>",
+			"retrieved": 1778089276911
+		},
+		{
+			"id": "link-67ef87e4d2ea25e572031a4fbda74662",
+			"title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+			"link": "https://news.ycombinator.com/item?id=48009697",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48009697\"><span>Removable batteries in smartphones will be mandatory in the EU starting in 2027</span></a><a href=\"https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/\" target=\"_blank\" class=\"Story_link\">(https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48009697\">572 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=rdeboo\"><span>rdeboo</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48009697\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48009697\">526 comments</a></span></div></div></div>",
+			"retrieved": 1778089276911
 		}
 	]
 }
