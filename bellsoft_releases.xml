@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/tags/bellsoft-products/</id>
     <title>BellSoft Java releases</title>
-    <updated>2026-05-06T06:31:28.297Z</updated>
+    <updated>2026-05-06T10:21:07.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The builds of Liberica NIK 23.0.12, 23.1.11, and 25.0.3 are generally available]]></title>
+        <id>link-3d5f8a116a130fdde0cf61938f165eba</id>
+        <link href="https://bell-sw.com/blog/the-builds-of-liberica-nik-23-0-12-23-1-11-and-25-0-3-are-generally-available/"/>
+        <updated>2026-05-06T10:19:21.722Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liberica JDK 8u492, 11.0.31, 17.0.19, 21.0.11, 25.0.3, and 26.01 builds are available]]></title>
         <id>link-a2e82a8b17031c91fe2d301518c92682</id>
@@ -144,10 +150,10 @@
         <updated>2026-04-29T09:46:18.798Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liberica JDK 8u432, 11.0.25, 17.0.13, 21.0.5, and 23.0.1 builds are generally available]]></title>
-        <id>link-b958b20fc47e51afdc14367b10b63300</id>
-        <link href="https://bell-sw.com/blog/liberica-jdk-8u432-11-0-25-17-0-13-21-0-5-and-23-0-1-builds-are-generally-available/"/>
-        <updated>2026-04-29T09:46:18.798Z</updated>
+        <title type="html"><![CDATA[The builds of Liberica NIK 23.0.12, 23.1.11, and 25.0.3 are generally available]]></title>
+        <id>link-3d5f8a116a130fdde0cf61938f165eba</id>
+        <link href="https://bell-sw.com/blog/the-builds-of-liberica-nik-23-0-12-23-1-11-and-25-0-3-are-generally-available/"/>
+        <updated>2026-05-06T10:19:21.722Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Liberica JDK 8u492, 11.0.31, 17.0.19, 21.0.11, 25.0.3, and 26.01 builds are available]]></title>
@@ -285,12 +291,6 @@
         <title type="html"><![CDATA[Liberica JDK 8u432, 11.0.25, 17.0.13, 21.0.5, and 23.0.1 builds are generally available]]></title>
         <id>link-b958b20fc47e51afdc14367b10b63300</id>
         <link href="https://bell-sw.com/blog/liberica-jdk-8u432-11-0-25-17-0-13-21-0-5-and-23-0-1-builds-are-generally-available/"/>
-        <updated>2026-04-29T09:46:18.798Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica Native Image Kit 24.1.0 is released]]></title>
-        <id>link-abbaa5b97a229b60fd88a00657282950</id>
-        <link href="https://bell-sw.com/blog/liberica-native-image-kit-24-1-0-is-released/"/>
         <updated>2026-04-29T09:46:18.798Z</updated>
     </entry>
 </feed>

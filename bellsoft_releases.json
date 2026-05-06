@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico",
 	"elements": [
 		{
+			"id": "link-3d5f8a116a130fdde0cf61938f165eba",
+			"title": "The builds of Liberica NIK 23.0.12, 23.1.11, and 25.0.3 are generally available",
+			"link": "https://bell-sw.com/blog/the-builds-of-liberica-nik-23-0-12-23-1-11-and-25-0-3-are-generally-available/",
+			"contents": "",
+			"retrieved": 1778062761722
+		},
+		{
 			"id": "link-a2e82a8b17031c91fe2d301518c92682",
 			"title": "Liberica JDK 8u492, 11.0.31, 17.0.19, 21.0.11, 25.0.3, and 26.01 builds are available",
 			"link": "https://bell-sw.com/blog/liberica-jdk-8u492-11-0-31-17-0-19-21-0-11-25-0-3-and-26-01-builds-are-available/",
@@ -165,11 +172,11 @@
 			"retrieved": 1777455978798
 		},
 		{
-			"id": "link-b958b20fc47e51afdc14367b10b63300",
-			"title": "Liberica JDK 8u432, 11.0.25, 17.0.13, 21.0.5, and 23.0.1 builds are generally available",
-			"link": "https://bell-sw.com/blog/liberica-jdk-8u432-11-0-25-17-0-13-21-0-5-and-23-0-1-builds-are-generally-available/",
+			"id": "link-3d5f8a116a130fdde0cf61938f165eba",
+			"title": "The builds of Liberica NIK 23.0.12, 23.1.11, and 25.0.3 are generally available",
+			"link": "https://bell-sw.com/blog/the-builds-of-liberica-nik-23-0-12-23-1-11-and-25-0-3-are-generally-available/",
 			"contents": "",
-			"retrieved": 1777455978798
+			"retrieved": 1778062761722
 		},
 		{
 			"id": "link-a2e82a8b17031c91fe2d301518c92682",
@@ -329,13 +336,6 @@
 			"id": "link-b958b20fc47e51afdc14367b10b63300",
 			"title": "Liberica JDK 8u432, 11.0.25, 17.0.13, 21.0.5, and 23.0.1 builds are generally available",
 			"link": "https://bell-sw.com/blog/liberica-jdk-8u432-11-0-25-17-0-13-21-0-5-and-23-0-1-builds-are-generally-available/",
-			"contents": "",
-			"retrieved": 1777455978798
-		},
-		{
-			"id": "link-abbaa5b97a229b60fd88a00657282950",
-			"title": "Liberica Native Image Kit 24.1.0 is released",
-			"link": "https://bell-sw.com/blog/liberica-native-image-kit-24-1-0-is-released/",
 			"contents": "",
 			"retrieved": 1777455978798
 		}
