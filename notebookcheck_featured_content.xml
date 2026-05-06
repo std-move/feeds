@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-05-06T10:21:07.940Z</updated>
+    <updated>2026-05-06T14:14:15.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ 20 years of gaming mice - Razer Viper V4 Pro vs. Boomslang 20th Anniversary]]></title>
+        <id>link-79c0d5da5769e45585ec8b7f637bca66</id>
+        <link href="https://www.notebookcheck.net/20-years-of-gaming-mice-Razer-Viper-V4-Pro-vs-Boomslang-20th-Anniversary.1290602.0.html"/>
+        <updated>2026-05-06T14:12:09.391Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/4/csm_thumb4454_42637fc379.jpg" loading="lazy" alt="20 years of gaming mice - Razer Viper V4 Pro vs. Boomslang 20th Anniversary"></picture><div class="intro_featured_bar_title">▶ 20 years of gaming mice - Razer Viper V4 Pro vs. Boomslang 20th Anniversary</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eufyMake E1 UV Printer review]]></title>
         <id>link-74bdaa17771720b596d19361a5a88cc5</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Is-AMD-trolling-us-with-the-Ryzen-AI-7-450-Lenovo-IdeaPad-Pro-5-14-laptop-review.1284546.0.html"/>
         <updated>2026-05-03T19:00:18.501Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Pro_5_14AGP11/feature-idea5-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Pro_5_14AGP11/feature-idea5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Pro_5_14AGP11/feature-idea5-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Pro_5_14AGP11/feature-idea5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Pro_5_14AGP11/feature-idea5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Pro_5_14AGP11/feature-idea5-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/f/csm_feature-idea5_ee52798521.jpg" loading="lazy" alt="Is AMD trolling us with the Ryzen AI 7 450? Lenovo IdeaPad Pro 5 14 laptop review"></picture><div class="intro_featured_bar_title">Debut for the Ryzen AI 7 450: Lenovo IdeaPad Pro 5 14 review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ Lenovo Legion Pro 7(i) in 2026 - this was unexpected!]]></title>
-        <id>link-4e22acfc69f3ef215afb7400f2390ca3</id>
-        <link href="https://www.notebookcheck.net/Lenovo-Legion-Pro-7-i-in-2026-this-was-unexpected.1288461.0.html"/>
-        <updated>2026-05-03T13:11:21.857Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6061-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6061-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6061-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6061-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6061-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb6061-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/c/csm_thumb6061_1e78b0fc39.jpg" loading="lazy" alt="Lenovo Legion Pro 7(i) in 2026 - this was unexpected!"></picture><div class="intro_featured_bar_title">▶ Lenovo Legion Pro 7(i) in 2026 - this was unexpected!</div>]]></content>
     </entry>
 </feed>
