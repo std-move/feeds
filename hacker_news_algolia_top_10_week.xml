@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-05-06T17:43:04.788Z</updated>
+    <updated>2026-05-06T19:48:22.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>link-39768dd1ebb3a29589716643fec4b62e</id>
         <link href="https://news.ycombinator.com/item?id=48019219"/>
         <updated>2026-05-05T21:03:13.207Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48019219"><span>Google Chrome silently installs a 4 GB AI model on your device without consent</span></a><a href="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/" target="_blank" class="Story_link">(https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48019219">1590 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=john-doe"><span>john-doe</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48019219">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48019219">1055 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48019219"><span>Google Chrome silently installs a 4 GB AI model on your device without consent</span></a><a href="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/" target="_blank" class="Story_link">(https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48019219">1621 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=john-doe"><span>john-doe</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48019219">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48019219">1073 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking to strangers at the gym]]></title>
+        <id>link-1be7e61142847305c8641a7f9c99d328</id>
+        <link href="https://news.ycombinator.com/item?id=48007438"/>
+        <updated>2026-05-04T22:57:32.192Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48007438"><span>Talking to strangers at the gym</span></a><a href="https://thienantran.com/talking-to-35-strangers-at-the-gym/" target="_blank" class="Story_link">(https://thienantran.com/talking-to-35-strangers-at-the-gym/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48007438">1507 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=thitran"><span>thitran</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48007438">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48007438">748 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage]]></title>
@@ -20,32 +27,11 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47989883"><span>VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage</span></a><a href="https://github.com/microsoft/vscode/pull/310226" target="_blank" class="Story_link">(https://github.com/microsoft/vscode/pull/310226)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47989883">1506 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=indrora"><span>indrora</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47989883">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47989883">847 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talking to strangers at the gym]]></title>
-        <id>link-1be7e61142847305c8641a7f9c99d328</id>
-        <link href="https://news.ycombinator.com/item?id=48007438"/>
-        <updated>2026-05-04T22:57:32.192Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48007438"><span>Talking to strangers at the gym</span></a><a href="https://thienantran.com/talking-to-35-strangers-at-the-gym/" target="_blank" class="Story_link">(https://thienantran.com/talking-to-35-strangers-at-the-gym/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48007438">1503 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=thitran"><span>thitran</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48007438">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48007438">748 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy Fail]]></title>
-        <id>link-b8133f9637f1914606c0fc27bd143930</id>
-        <link href="https://news.ycombinator.com/item?id=47952181"/>
-        <updated>2026-04-30T10:06:43.769Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47952181"><span>Copy Fail</span></a><a href="https://copy.fail/" target="_blank" class="Story_link">(https://copy.fail/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47952181">1481 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=unsnap_biceps"><span>unsnap_biceps</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47952181">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47952181">515 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claude Code refuses requests or charges extra if your commits mention "OpenClaw"]]></title>
         <id>link-b4a4cad8214afad6468b5a0df586d37e</id>
         <link href="https://news.ycombinator.com/item?id=47963204"/>
         <updated>2026-05-01T03:26:29.130Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47963204"><span>Claude Code refuses requests or charges extra if your commits mention "OpenClaw"</span></a><a href="https://twitter.com/theo/status/2049645973350363168" target="_blank" class="Story_link">(https://twitter.com/theo/status/2049645973350363168)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47963204">1341 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=elmean"><span>elmean</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47963204">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47963204">718 comments</a></span><div class="Story_comment"><span><a href="https://xcancel.com/theo/status/2049645973350363168" rel="nofollow">https://xcancel.com/theo/status/2049645973350363168</a></span></div></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HERMES.md in commit messages causes requests to route to extra usage billing]]></title>
-        <id>link-e3dbb837ea33593fb82b483078c65ba0</id>
-        <link href="https://news.ycombinator.com/item?id=47952722"/>
-        <updated>2026-04-30T02:55:35.471Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47952722"><span>HERMES.md in commit messages causes requests to route to extra usage billing</span></a><a href="https://github.com/anthropics/claude-code/issues/53262" target="_blank" class="Story_link">(https://github.com/anthropics/claude-code/issues/53262)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47952722">1249 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=homebrewer"><span>homebrewer</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47952722">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47952722">532 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Where the goblins came from]]></title>
@@ -66,7 +52,7 @@
         <id>link-aff9025d8f4cf0c6b3d1a6dbc67cd4a1</id>
         <link href="https://news.ycombinator.com/item?id=47997418"/>
         <updated>2026-05-06T17:41:16.911Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47997418"><span>Mercedes-Benz commits to bringing back physical buttons</span></a><a href="https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/" target="_blank" class="Story_link">(https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47997418">852 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=teleforce"><span>teleforce</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47997418">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47997418">506 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47997418"><span>Mercedes-Benz commits to bringing back physical buttons</span></a><a href="https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/" target="_blank" class="Story_link">(https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47997418">852 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=teleforce"><span>teleforce</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47997418">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47997418">507 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why does it take so long to release black fan versions?]]></title>
@@ -74,5 +60,19 @@
         <link href="https://news.ycombinator.com/item?id=47983352"/>
         <updated>2026-05-06T17:41:16.911Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47983352"><span>Why does it take so long to release black fan versions?</span></a><a href="https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions" target="_blank" class="Story_link">(https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47983352">772 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=buildbot"><span>buildbot</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47983352">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47983352">299 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I disable all data collection from my vehicle?]]></title>
+        <id>link-14079d6e55d0eafbf334f244bb93e338</id>
+        <link href="https://news.ycombinator.com/item?id=47967786"/>
+        <updated>2026-05-06T19:46:30.317Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=47967786"><span>Can I disable all data collection from my vehicle?</span></a><a href="https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle" target="_blank" class="Story_link">(https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=47967786">757 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Cider9986"><span>Cider9986</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47967786">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=47967786">350 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNSSEC disruption affecting .de domains – Resolved]]></title>
+        <id>link-bccccab7f1f23c330d5735e039372892</id>
+        <link href="https://news.ycombinator.com/item?id=48027897"/>
+        <updated>2026-05-06T19:46:30.317Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=48027897"><span>DNSSEC disruption affecting .de domains – Resolved</span></a><a href="https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38" target="_blank" class="Story_link">(https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=48027897">725 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=warpspin"><span>warpspin</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48027897">24 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=48027897">390 comments</a></span></div></div></div>]]></content>
     </entry>
 </feed>
