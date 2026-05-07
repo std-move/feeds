@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-b9ddea66b207ac478f95992426a5ab50",
+			"title": "Version 4.3.81",
+			"contents": "Released May 7, 2026 - 354.57 KB — Free redirect-to-Library / Subscriptions / Watch Later for everyone, and fixed the broken Library redirect now that YouTube renamed the section to \"You\".",
+			"retrieved": 1778122351404
+		},
+		{
 			"id": "title-96eefc077ce08a3abbbf7f47b3c7816c",
 			"title": "Version 4.3.79",
 			"contents": "Released Apr 20, 2026 - 354.6 KB — New: sign in (no payment) and pick any 2 premium features to use for free.",
@@ -145,12 +151,6 @@
 			"id": "title-faa5f63a36eb1181ab508fbbd2ec7a50",
 			"title": "Version 4.3.53",
 			"contents": "Released Mar 4, 2024 - 327.3 KB — Implemented \"True full screen mode\" thank you to Jon-guy30 for the suggestion!",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-4c3416f8c0cdead4971c918b6f73effe",
-			"title": "Version 4.3.52",
-			"contents": "Released Dec 3, 2023 - 327.24 KB — Added an option to remove the 'for you' section on the channel page",
 			"retrieved": 1767548017655
 		}
 	]
