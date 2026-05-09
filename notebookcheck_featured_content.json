@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-55740c53d1a0bab5624215956a95d48c",
+			"title": "Photo tour with the Xiaomi 17 Ultra",
+			"link": "https://www.notebookcheck.net/Xiaomi-17-Ultra-Photo-tour-across-China.1292453.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/3/csm_IMG_20260212_182158_90ec972d18.jpg\" loading=\"lazy\" alt=\"Xiaomi 17 Ultra in China\"></picture><div class=\"intro_featured_bar_title\">Photo tour with the Xiaomi 17 Ultra</div>",
+			"retrieved": 1778332714148
+		},
+		{
 			"id": "link-4b9fd4355941168eac15978edb2c4dfd",
 			"title": "Nothing Headphone (a) review",
 			"link": "https://www.notebookcheck.net/Rich-sound-for-a-small-price-Nothing-Headphone-a-review.1291606.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/A-comparison-of-top-fitness-trackers-Huawei-Watch-Fit-5-series-hands-on.1290813.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_Fit_5_Series/aPic_Huawei_Watch_Fit_5_Series-2473-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_Fit_5_Series/aPic_Huawei_Watch_Fit_5_Series-2473-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_Fit_5_Series/aPic_Huawei_Watch_Fit_5_Series-2473-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_Fit_5_Series/aPic_Huawei_Watch_Fit_5_Series-2473-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_Fit_5_Series/aPic_Huawei_Watch_Fit_5_Series-2473-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_Fit_5_Series/aPic_Huawei_Watch_Fit_5_Series-2473-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/c/csm_aPic_Huawei_Watch_Fit_5_Series-2473_79d701c741.jpg\" loading=\"lazy\" alt=\"Huawei Watch Fit 5 and 5 Pro\"></picture><div class=\"intro_featured_bar_title\">Hands-On: Huawei Watch Fit 5 Series</div>",
 			"retrieved": 1778176109600
-		},
-		{
-			"id": "link-79c0d5da5769e45585ec8b7f637bca66",
-			"title": "▶ 20 years of gaming mice - Razer Viper V4 Pro vs. Boomslang 20th Anniversary",
-			"link": "https://www.notebookcheck.net/20-years-of-gaming-mice-Razer-Viper-V4-Pro-vs-Boomslang-20th-Anniversary.1290602.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb4454-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/4/csm_thumb4454_42637fc379.jpg\" loading=\"lazy\" alt=\"20 years of gaming mice - Razer Viper V4 Pro vs. Boomslang 20th Anniversary\"></picture><div class=\"intro_featured_bar_title\">▶ 20 years of gaming mice - Razer Viper V4 Pro vs. Boomslang 20th Anniversary</div>",
-			"retrieved": 1778076729391
 		}
 	]
 }
