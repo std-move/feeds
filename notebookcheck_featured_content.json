@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-4b186194f773e5aad6a6b4e6d23447ef",
+			"title": "Big Hitoshi Sakimoto and Game Music Foundation interview",
+			"link": "https://www.notebookcheck.net/Hitoshi-Sakimoto-and-FF-union-on-the-Colors-of-Harmony-concert-FFT-is-rock.1293451.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/a/csm_Hitoshi-Sakimoto_3f62ee98b9.jpg\" loading=\"lazy\" alt=\"Hitoshi Sakimoto at his mixing desk at Basiscape, the studio he founded in 2002.\"></picture><div class=\"intro_featured_bar_title\">Big Hitoshi Sakimoto and Game Music Foundation interview</div>",
+			"retrieved": 1778439870644
+		},
+		{
 			"id": "link-3cd1a57a6b576e76b7346e0e0cce4791",
 			"title": "This is the best camera phone in its segment; here's why",
 			"link": "https://www.notebookcheck.net/I-tested-the-Honor-600-Pro-and-it-s-one-of-the-best-camera-smartphones-in-its-class.1293497.0.html",
@@ -43,13 +50,6 @@
 			"title": "Streaming upgrade? Elgato Facecam 4K review with Sony Starvis 2 sensor and filter support",
 			"link": "https://www.notebookcheck.net/Streaming-upgrade-Elgato-Facecam-4K-review-with-Sony-Starvis-2-sensor-and-filter-support.1291738.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/facecam-title-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/facecam-title-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/facecam-title-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/facecam-title-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/facecam-title-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Gigabyte/Gaming_A16_Pro_GA6DH/facecam-title-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/b/csm_facecam-title_4da909a7fc.jpg\" loading=\"lazy\" alt=\"Elgato Facecam 4K\"></picture><div class=\"intro_featured_bar_title\">Streaming upgrade? Elgato Facecam 4K review with Sony Starvis 2 sensor and filter support</div>",
-			"retrieved": 1778176109600
-		},
-		{
-			"id": "link-a571ffe3a40857548221b490464cf8cc",
-			"title": "Stream Deck+ in a Fallout-inspired style: How to install animated icon packs",
-			"link": "https://www.notebookcheck.net/Stream-Deck-in-a-Fallout-inspired-style-How-to-install-animated-icon-packs.1291288.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/0/csm_Fallout-STream-Deck_7efb767323.jpg\" loading=\"lazy\" alt=\"Stream Deck+ with animated Fallout icons\"></picture><div class=\"intro_featured_bar_title\">Stream Deck+ in a Fallout-inspired style: How to install animated icon packs</div>",
 			"retrieved": 1778176109600
 		}
 	]
