@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-3cd1a57a6b576e76b7346e0e0cce4791",
+			"title": "This is the Best Camera Phone in its Segment; Here's Why",
+			"link": "https://www.notebookcheck.net/I-tested-the-Honor-600-Pro-and-it-s-one-of-the-best-camera-smartphones-in-its-class.1293497.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/0/csm_Honor-600-Pro-teaser-2_cff06f2e98.jpg\" loading=\"lazy\" alt=\"The Honor 600 Pro in Malaysia\"></picture><div class=\"intro_featured_bar_title\">This is the Best Camera Phone in its Segment; Here's Why</div>",
+			"retrieved": 1778424808607
+		},
+		{
 			"id": "link-6c2a6381527a75b610f7ed5c155a0067",
 			"title": "▶ The game of the year gets its own GPU!",
 			"link": "https://www.notebookcheck.net/The-game-of-the-year-gets-its-own-GPU.1293242.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Stream-Deck-in-a-Fallout-inspired-style-How-to-install-animated-icon-packs.1291288.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Fallout-STream-Deck-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/0/csm_Fallout-STream-Deck_7efb767323.jpg\" loading=\"lazy\" alt=\"Stream Deck+ with animated Fallout icons\"></picture><div class=\"intro_featured_bar_title\">Stream Deck+ in a Fallout-inspired style: How to install animated icon packs</div>",
 			"retrieved": 1778176109600
-		},
-		{
-			"id": "link-805ae4176ab0be45586ddece99ce6017",
-			"title": "Two screens & RTX 5090 - Asus ROG Zephyrus Duo GX651 Review",
-			"link": "https://www.notebookcheck.net/Dual-screen-gaming-convertible-with-RTX-5090-Asus-ROG-Zephyrus-Duo-GX651-Review.1285993.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ROG_Zephyrus_Duo_GX651/zephyrus_duo_gx651_case_01-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ROG_Zephyrus_Duo_GX651/zephyrus_duo_gx651_case_01-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ROG_Zephyrus_Duo_GX651/zephyrus_duo_gx651_case_01-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ROG_Zephyrus_Duo_GX651/zephyrus_duo_gx651_case_01-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ROG_Zephyrus_Duo_GX651/zephyrus_duo_gx651_case_01-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ROG_Zephyrus_Duo_GX651/zephyrus_duo_gx651_case_01-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/2/csm_zephyrus_duo_gx651_case_01_f3a4fd550a.jpg\" loading=\"lazy\" alt=\"Dual-screen gaming convertible with RTX 5090 - Asus ROG Zephyrus Duo GX651 Review\"></picture><div class=\"intro_featured_bar_title\">Two screens &amp; RTX 5090 - Asus ROG Zephyrus Duo GX651 Review</div>",
-			"retrieved": 1778162962237
 		}
 	]
 }
