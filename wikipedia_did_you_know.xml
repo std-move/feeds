@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-05-10T19:06:21.880Z</updated>
+    <updated>2026-05-10T20:51:29.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[... that Indonesian military leader <b><a href="/wiki/Moergito" title="Moergito">Moergito</a></b> banned the production of machetes in East Java shortly after the government ordered twenty thousand of them?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Werth v. Taylor]]></title>
+        <title type="html"><![CDATA[under Michigan case law]]></title>
         <id>link-3b8d662875d4b8a338d14f4356f61d4f</id>
         <link href="https://en.wikipedia.org/wiki/Werth_v._Taylor"/>
         <updated>2026-05-10T02:57:29.254Z</updated>
-        <content type="html"><![CDATA[... that, under <i><b><a href="/wiki/Werth_v._Taylor" title="Werth v. Taylor">Werth v. Taylor</a></b></i>, doctors are not always liable for giving blood transfusions to Jehovah's Witnesses who have explicitly refused them?]]></content>
+        <content type="html"><![CDATA[... that, <b><a href="/wiki/Werth_v._Taylor" title="Werth v. Taylor">under Michigan case law</a></b>, doctors are not always liable for giving <a href="/wiki/Jehovah%27s_Witnesses_and_blood_transfusions" title="Jehovah's Witnesses and blood transfusions">blood transfusions to Jehovah's Witnesses</a> who have explicitly refused them?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jay Som]]></title>
