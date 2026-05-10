@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png",
 	"elements": [
 		{
-			"id": "link-319ea314bd3e8012f1654f818268eaa7",
-			"title": "Zuffa Boxing 6 — 2026-05-10 17:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/140537-zuffa-boxing-6",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140537-zuffa-boxing-6\">Zuffa Boxing 6</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-10 17:00:00 -0400\">in 10 minutes</abbr>\n</td>",
-			"retrieved": 1777712799080
-		},
-		{
 			"id": "link-c2c6cec58d9771877ffd977e5316e3a3",
 			"title": "ONE Fight Night 43 — 2026-05-15 21:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/137461-one-fight-night-43",
@@ -42,14 +35,14 @@
 			"id": "link-4e4eab96be3ba7ac691488ed326aae7c",
 			"title": "UFC Fight Night — 2026-05-16 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140458-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140458-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-16 17:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140458-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-16 17:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1778345749228
 		},
 		{
 			"id": "link-302f928ead1f8b0dd9e79cc3e52d48f5",
 			"title": "MVP MMA 1 — 2026-05-16 18:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140072-rousey-vs-carano",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140072-rousey-vs-carano\">MVP MMA 1</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-16 18:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140072-rousey-vs-carano\">MVP MMA 1</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-16 18:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1778366645098
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/141962-davis-vs-albright-ii",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/141962-davis-vs-albright-ii\">Davis vs. Albright II</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-16 14:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1778394780216
+		},
+		{
+			"id": "link-603335c9ba12f1809939389525940902",
+			"title": "LFA 233 — 2026-05-22 08:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/142025-lfa-233-piersma-vs-camilo",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142025-lfa-233-piersma-vs-camilo\">LFA 233</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-22 08:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1778453379614
 		}
 	]
 }
