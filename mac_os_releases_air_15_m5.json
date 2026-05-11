@@ -4,6 +4,13 @@
 	"favicon": "https://appledb.dev/favicon-32x32.png",
 	"elements": [
 		{
+			"id": "link-d03b3824e0aae6eea2d293a968593658",
+			"title": "macOS 26.5 — May 11, 2026",
+			"link": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-58869/DFB1CEEF-5619-4591-9924-E20DB2C8FED0/UniversalMac_26.5_25F71_Restore.ipsw",
+			"contents": "<div data-v-3d231806=\"\" class=\"firmwareAndReleasedStr\" style=\"width: calc(100% - 64px);\"><div data-v-3d231806=\"\"><span data-v-3d231806=\"\" style=\"font-weight: 600;\">macOS 26.5</span><!----><!----><div data-v-3d231806=\"\" style=\"padding-inline: 0.25em; display: inline-block;\"></div><!----><!----><!----><div data-v-3d231806=\"\" class=\"signingStatus\"><i data-v-3d231806=\"\" id=\"signing-status-macOS-25F71\" class=\"fas fa-check\"></i><span data-v-3d231806=\"\" id=\"signing-text-macOS-25F71\" class=\"signingText\">Signed</span></div></div><div data-v-3d231806=\"\" style=\"text-align: right;\" class=\"releasedStr\">May 11, 2026</div></div><div data-v-3d231806=\"\" class=\"iconFlex\"><div data-v-3d231806=\"\" class=\"downloadIcon iconChild\"><a data-v-3d231806=\"\" style=\"cursor: pointer;\"><i data-v-3d231806=\"\" class=\"downloadIcon fas fa-download\"></i></a><div data-v-3d231806=\"\" class=\"downloadDropdown custom-container\" style=\"cursor: initial;\"><h5 data-v-3d231806=\"\">Download</h5><ul data-v-3d231806=\"\" style=\"padding-left: 0px; list-style-type: none;\"><li data-v-3d231806=\"\"><a data-v-3d231806=\"\" href=\"https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-58869/DFB1CEEF-5619-4591-9924-E20DB2C8FED0/UniversalMac_26.5_25F71_Restore.ipsw\">MacBook Air (15-inch, M5)</a></li></ul><!----></div></div><div data-v-3d231806=\"\" class=\"iconChild\"><a data-v-3d231806=\"\" style=\"cursor: pointer;\"><i data-v-3d231806=\"\" class=\"fas fa-chevron-right\"></i></a></div></div>",
+			"retrieved": 1778528857264
+		},
+		{
 			"id": "link-8c120de4e56288388251e979b128d0ab",
 			"title": "macOS 26.4.1 — Apr 9, 2026",
 			"link": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-28781/DCB2FF13-06CB-44C2-BCA2-DFCAF3521D46/UniversalMac_26.4.1_25E253_Restore.ipsw",
