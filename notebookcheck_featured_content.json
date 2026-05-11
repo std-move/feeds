@@ -4,6 +4,27 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-1a15cb28e743ae490d1bd389c3534c66",
+			"title": "Posh and fast: Realme 16 Pro+ in the test",
+			"link": "https://www.notebookcheck.net/Mega-cell-phone-bargain-or-pretty-dazzler-Review-Realme-16-Pro-smartphone.1293925.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/16_Pro_Plus/realme_16_Pro_Plus_im_Test_5-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/16_Pro_Plus/realme_16_Pro_Plus_im_Test_5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Realme/16_Pro_Plus/realme_16_Pro_Plus_im_Test_5-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Realme/16_Pro_Plus/realme_16_Pro_Plus_im_Test_5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Realme/16_Pro_Plus/realme_16_Pro_Plus_im_Test_5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Realme/16_Pro_Plus/realme_16_Pro_Plus_im_Test_5-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/1/csm_realme_16_Pro_Plus_im_Test_5_6c08ca3cc1.jpg\" loading=\"lazy\" alt=\"Realme 16 Pro Plus in the test\"></picture><div class=\"intro_featured_bar_title\">Posh and fast: Realme 16 Pro+ in the test</div>",
+			"retrieved": 1778522081001
+		},
+		{
+			"id": "link-6c2a6381527a75b610f7ed5c155a0067",
+			"title": "▶ The game of the year gets its own GPU!",
+			"link": "https://www.notebookcheck.net/The-game-of-the-year-gets-its-own-GPU.1293242.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/2/csm_thumb5840_1ee80290bf.jpg\" loading=\"lazy\" alt=\"1 of 15 - Zotac AMP RTX 5070 Pragmata Limited Edition\"></picture><div class=\"intro_featured_bar_title\">▶ The game of the year gets its own GPU!</div>",
+			"retrieved": 1778353362572
+		},
+		{
+			"id": "link-9bda339ad622a92343ebafb7411085a0",
+			"title": "Nothing Phone (4a) Pro review",
+			"link": "https://www.notebookcheck.net/Hidden-gem-with-outstanding-design-Nothing-Phone-4a-Pro-review.1291726.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/4/csm_aPic_Nothing_Phone_4a_Pro-2240_5b7e284c49.jpg\" loading=\"lazy\" alt=\"Hidden gem with outstanding design - Nothing Phone (4a) Pro review\"></picture><div class=\"intro_featured_bar_title\">Nothing Phone (4a) Pro review</div>",
+			"retrieved": 1778522081001
+		},
+		{
 			"id": "link-7eea5f1a490dc6108353c3b6ceb8f4bd",
 			"title": "Two screens & RTX 5090 - Asus ROG Zephyrus Duo GX651 Review",
 			"link": "https://www.notebookcheck.net/Perfect-multitasking-with-RTX-5090-Asus-ROG-Zephyrus-Duo-GX651-Review.1285993.0.html",
@@ -12,9 +33,9 @@
 		},
 		{
 			"id": "link-4b186194f773e5aad6a6b4e6d23447ef",
-			"title": "Big Hitoshi Sakimoto and Game Music Foundation interview",
+			"title": "Hitoshi Sakimoto settles the Final Fantasy Tactics 29-year debate",
 			"link": "https://www.notebookcheck.net/Hitoshi-Sakimoto-and-FF-union-on-the-Colors-of-Harmony-concert-FFT-is-rock.1293451.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/a/csm_Hitoshi-Sakimoto_3f62ee98b9.jpg\" loading=\"lazy\" alt=\"Hitoshi Sakimoto at his mixing desk at Basiscape, the studio he founded in 2002.\"></picture><div class=\"intro_featured_bar_title\">Big Hitoshi Sakimoto and Game Music Foundation interview</div>",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/a/csm_Hitoshi-Sakimoto_3f62ee98b9.jpg\" loading=\"lazy\" alt=\"Hitoshi Sakimoto at his mixing desk at Basiscape, the studio he founded in 2002.\"></picture><div class=\"intro_featured_bar_title\">Hitoshi Sakimoto settles the Final Fantasy Tactics 29-year debate</div>",
 			"retrieved": 1778439870644
 		},
 		{
@@ -25,32 +46,11 @@
 			"retrieved": 1778424808607
 		},
 		{
-			"id": "link-6c2a6381527a75b610f7ed5c155a0067",
-			"title": "▶ The game of the year gets its own GPU!",
-			"link": "https://www.notebookcheck.net/The-game-of-the-year-gets-its-own-GPU.1293242.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/2/csm_thumb5840_1ee80290bf.jpg\" loading=\"lazy\" alt=\"1 of 15 - Zotac AMP RTX 5070 Pragmata Limited Edition\"></picture><div class=\"intro_featured_bar_title\">▶ The game of the year gets its own GPU!</div>",
-			"retrieved": 1778353362572
-		},
-		{
 			"id": "link-55740c53d1a0bab5624215956a95d48c",
 			"title": "Photo tour with the Xiaomi 17 Ultra",
 			"link": "https://www.notebookcheck.net/Xiaomi-17-Ultra-Photo-tour-across-China.1292453.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/3/csm_IMG_20260212_182158_90ec972d18.jpg\" loading=\"lazy\" alt=\"Xiaomi 17 Ultra in China\"></picture><div class=\"intro_featured_bar_title\">Photo tour with the Xiaomi 17 Ultra</div>",
 			"retrieved": 1778332714148
-		},
-		{
-			"id": "link-4b9fd4355941168eac15978edb2c4dfd",
-			"title": "Nothing Headphone (a) review",
-			"link": "https://www.notebookcheck.net/Rich-sound-for-a-small-price-Nothing-Headphone-a-review.1291606.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Headphone_a/aPic_Nothing_Headphones_a-2235-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Headphone_a/aPic_Nothing_Headphones_a-2235-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Headphone_a/aPic_Nothing_Headphones_a-2235-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Headphone_a/aPic_Nothing_Headphones_a-2235-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Headphone_a/aPic_Nothing_Headphones_a-2235-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Nothing/Headphone_a/aPic_Nothing_Headphones_a-2235-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/b/csm_aPic_Nothing_Headphones_a-2235_e8bcba2666.jpg\" loading=\"lazy\" alt=\"Rich sound for a small price - Nothing Headphone (a) review\"></picture><div class=\"intro_featured_bar_title\">Nothing Headphone (a) review</div>",
-			"retrieved": 1778226508738
-		},
-		{
-			"id": "link-cb79c08a8a661498a0da786ab604639c",
-			"title": "MSI Prestige 16 AI+ C3MTG review: Brand new logo for a brand new look",
-			"link": "https://www.notebookcheck.net/Prestige-16-AI-C3MTG-Review-New-MSI-logo-is-looking-sleek.1287148.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/MSI/Prestige2B162BAI2BC3MTG/prestige16c3mtg_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/MSI/Prestige2B162BAI2BC3MTG/prestige16c3mtg_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige2B162BAI2BC3MTG/prestige16c3mtg_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/MSI/Prestige2B162BAI2BC3MTG/prestige16c3mtg_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige2B162BAI2BC3MTG/prestige16c3mtg_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige2B162BAI2BC3MTG/prestige16c3mtg_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/b/csm_prestige16c3mtg_feature_1_6c3032f75b.jpg\" loading=\"lazy\" alt=\"Prestige 16 AI+ C3MTG Review: New MSI logo is looking sleek\"></picture><div class=\"intro_featured_bar_title\">MSI Prestige 16 AI+ C3MTG review: Brand new logo for a brand new look</div>",
-			"retrieved": 1778187896702
 		}
 	]
 }
