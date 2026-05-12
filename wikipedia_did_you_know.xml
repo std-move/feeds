@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-05-12T18:01:26.040Z</updated>
+    <updated>2026-05-12T20:06:19.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -42,10 +42,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Ballymun United]]></title>
-        <id>link-f075fd2cc6ee1b978a2861c4bdc455fd</id>
-        <link href="https://en.wikipedia.org/wiki/Ballymun_United_FC"/>
-        <updated>2026-05-12T02:57:55.739Z</updated>
-        <content type="html"><![CDATA[... that a rare plant blocked <b><a href="/wiki/Ballymun_United_FC" class="mw-redirect" title="Ballymun United FC">Ballymun United</a></b> from building more pitches?]]></content>
+        <id>link-73e6a2e95ce5886567202545304cb334</id>
+        <link href="https://en.wikipedia.org/wiki/Ballymun_United_F.C."/>
+        <updated>2026-05-12T20:04:24.387Z</updated>
+        <content type="html"><![CDATA[... that a rare plant blocked <b><a href="/wiki/Ballymun_United_F.C." title="Ballymun United F.C.">Ballymun United</a></b> from building more pitches?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sergey Androsenko]]></title>
