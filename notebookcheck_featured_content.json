@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-6c11d46d14e305c08c5601987d8392b6",
+			"title": "▶ The coolest laptop of 2026 nobody can afford!",
+			"link": "https://www.notebookcheck.net/The-coolest-laptop-of-2026-nobody-can-afford.1295157.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/2/csm_thumb8355_7b852c7f31.jpg\" loading=\"lazy\" alt=\"The coolest laptop of 2026 nobody can afford!\"></picture><div class=\"intro_featured_bar_title\">▶ The coolest laptop of 2026 nobody can afford!</div>",
+			"retrieved": 1778608776136
+		},
+		{
 			"id": "link-81b6b8a8ba64c6c879e12c765c608d99",
 			"title": "Vivo X300 Ultra: Camera giant",
 			"link": "https://www.notebookcheck.net/Vivo-X300-Ultra-Review-Best-2026-camera-smartphone-with-a-surprising-number-of-weaknesses.1293093.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Final-Fantasy-Tactics-composer-Hitoshi-Sakimoto-reveals-FFT-is-rock.1293451.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto82-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto82-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto82-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto82-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto82-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Hitoshi-Sakimoto82-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/c/csm_Hitoshi-Sakimoto82_55b7f2f55a.jpg\" loading=\"lazy\" alt=\"Hitoshi Sakimoto at his mixing desk at Basiscape, the studio he founded in 2002.\"></picture><div class=\"intro_featured_bar_title\">Hitoshi Sakimoto settles the Final Fantasy Tactics 29-year debate</div>",
 			"retrieved": 1778576107764
-		},
-		{
-			"id": "link-3cd1a57a6b576e76b7346e0e0cce4791",
-			"title": "This is the best camera phone in its segment; here's why",
-			"link": "https://www.notebookcheck.net/I-tested-the-Honor-600-Pro-and-it-s-one-of-the-best-camera-smartphones-in-its-class.1293497.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/0/csm_Honor-600-Pro-teaser-2_cff06f2e98.jpg\" loading=\"lazy\" alt=\"The Honor 600 Pro in Malaysia\"></picture><div class=\"intro_featured_bar_title\">This is the best camera phone in its segment; here's why</div>",
-			"retrieved": 1778424808607
 		}
 	]
 }
