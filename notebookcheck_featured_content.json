@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-81b6b8a8ba64c6c879e12c765c608d99",
+			"title": "Vivo X300 Ultra: Camera giant",
+			"link": "https://www.notebookcheck.net/Vivo-X300-Ultra-Review-Best-2026-camera-smartphone-with-a-surprising-number-of-weaknesses.1293093.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X300_Ultra/Vivo_X300_Ultra_Test_1240-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X300_Ultra/Vivo_X300_Ultra_Test_1240-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X300_Ultra/Vivo_X300_Ultra_Test_1240-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X300_Ultra/Vivo_X300_Ultra_Test_1240-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X300_Ultra/Vivo_X300_Ultra_Test_1240-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/X300_Ultra/Vivo_X300_Ultra_Test_1240-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/0/csm_Vivo_X300_Ultra_Test_1240_d40a22c314.jpg\" loading=\"lazy\" alt=\"Vivo X300 Ultra in review\"></picture><div class=\"intro_featured_bar_title\">Vivo X300 Ultra: Camera giant</div>",
+			"retrieved": 1778595963658
+		},
+		{
 			"id": "link-a245a1a4d8dfbaac0083cb974cd1e8be",
 			"title": "Posh and fast: Realme 16 Pro+ in the test",
 			"link": "https://www.notebookcheck.net/Mega-phone-bargain-or-pretty-dazzler-Realme-16-Pro-smartphone-review.1293925.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/I-tested-the-Honor-600-Pro-and-it-s-one-of-the-best-camera-smartphones-in-its-class.1293497.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Honor-600-Pro-teaser-2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/0/csm_Honor-600-Pro-teaser-2_cff06f2e98.jpg\" loading=\"lazy\" alt=\"The Honor 600 Pro in Malaysia\"></picture><div class=\"intro_featured_bar_title\">This is the best camera phone in its segment; here's why</div>",
 			"retrieved": 1778424808607
-		},
-		{
-			"id": "link-55740c53d1a0bab5624215956a95d48c",
-			"title": "Photo tour with the Xiaomi 17 Ultra",
-			"link": "https://www.notebookcheck.net/Xiaomi-17-Ultra-Photo-tour-across-China.1292453.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/3/csm_IMG_20260212_182158_90ec972d18.jpg\" loading=\"lazy\" alt=\"Xiaomi 17 Ultra in China\"></picture><div class=\"intro_featured_bar_title\">Photo tour with the Xiaomi 17 Ultra</div>",
-			"retrieved": 1778332714148
 		}
 	]
 }
