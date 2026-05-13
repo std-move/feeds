@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-05-13T10:29:58.128Z</updated>
+    <updated>2026-05-13T14:38:03.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.122]]></title>
+        <id>title-9de3e73c80c677d906d2cc018d85bd3a</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-05-13T14:34:40.559Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.122</strong> (13 May 2026)<br>
+            + Improved cleanup : cookies<br>
+            + Minor bug fixes<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.121]]></title>
         <id>title-45dca627982982db6721289b532b6d5d</id>
@@ -225,16 +234,5 @@
              + Improved cleanup : Quick Access<br>
              + Improved cleanup : Recent files<br>
              + Minor bug fixes<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.106]]></title>
-        <id>title-1a2ffe6a619b68df66e7dcbf575307eb</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-05-09T06:16:19.682Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.106</strong> (08 June 2025)<br>
-                  + New cleanup : BAM (Background Activity Monitor)<br>  
-                  + Improved cleanup : Clipboard<br>            
-                  + Improved UI<br>  
-                  <u>More info</u>  : <a href="https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-127#post-3232283">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>]]></content>
     </entry>
 </feed>

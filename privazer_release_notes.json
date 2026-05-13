@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-9de3e73c80c677d906d2cc018d85bd3a",
+			"title": "v4.0.122",
+			"contents": "<strong>v4.0.122</strong> (13 May 2026)<br>\n            + Improved cleanup : cookies<br>\n            + Minor bug fixes<br>",
+			"retrieved": 1778682880559
+		},
+		{
 			"id": "title-45dca627982982db6721289b532b6d5d",
 			"title": "v4.0.121",
 			"contents": "<strong>v4.0.121</strong> (02 May 2026)<br>\n            + Improved UI : new design<br>\n            + Improved speed<br> \n            + Improved cleanup : Firefox<br>\n            + Improved cleanup : Media Player Classic (MPC-HC)<br>  \n            + Minor bug fixes<br>",
@@ -115,12 +121,6 @@
 			"id": "title-75d74a8d7c2ca38649903d6e363cfc8f",
 			"title": "v4.0.107",
 			"contents": "<strong>v4.0.107</strong> (12 June 2025)<br>\n             + Improved cleanup : Quick Access<br>\n             + Improved cleanup : Recent files<br>\n             + Minor bug fixes<br>",
-			"retrieved": 1778307379682
-		},
-		{
-			"id": "title-1a2ffe6a619b68df66e7dcbf575307eb",
-			"title": "v4.0.106",
-			"contents": "<strong>v4.0.106</strong> (08 June 2025)<br>\n                  + New cleanup : BAM (Background Activity Monitor)<br>  \n                  + Improved cleanup : Clipboard<br>            \n                  + Improved UI<br>  \n                  <u>More info</u>  : <a href=\"https://www.wilderssecurity.com/threads/privazer-discussion-thread.341840/page-127#post-3232283\">https://www.wilderssecurity.com/threads/privazer-discussion-thread</a>               <br>",
 			"retrieved": 1778307379682
 		}
 	]
