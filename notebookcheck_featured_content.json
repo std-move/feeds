@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-3ced52d3f80049ad72f3fb85ef42adc1",
+			"title": "Turtle Beach Stealth Pro II ANC gaming headset review",
+			"link": "https://www.notebookcheck.net/Turtle-Beach-Stealth-Pro-II-ANC-gaming-headset-review-a-comfort-and-connectivity-champ.1295999.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TurtleBeachStealthProIIReviewTeaser-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TurtleBeachStealthProIIReviewTeaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TurtleBeachStealthProIIReviewTeaser-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TurtleBeachStealthProIIReviewTeaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TurtleBeachStealthProIIReviewTeaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TurtleBeachStealthProIIReviewTeaser-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/4/csm_TurtleBeachStealthProIIReviewTeaser_6a996a4c17.jpg\" loading=\"lazy\" alt=\"Turtle Beach Stealth Pro II review teaser\"></picture><div class=\"intro_featured_bar_title\">Turtle Beach Stealth Pro II ANC gaming headset review</div>",
+			"retrieved": 1778753717556
+		},
+		{
 			"id": "link-a39263d464eb5b6075a080205461d30c",
 			"title": "Alienware 16X Aurora review: Great midrange performer, but wait for a sale",
 			"link": "https://www.notebookcheck.net/Alienware-16X-Aurora-2026-review-Newer-features-for-a-bigger-price.1292753.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/The-game-of-the-year-gets-its-own-GPU.1293242.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5840-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/2/csm_thumb5840_1ee80290bf.jpg\" loading=\"lazy\" alt=\"1 of 15 - Zotac AMP RTX 5070 Pragmata Limited Edition\"></picture><div class=\"intro_featured_bar_title\">▶ The game of the year gets its own GPU!</div>",
 			"retrieved": 1778353362572
-		},
-		{
-			"id": "link-9bda339ad622a92343ebafb7411085a0",
-			"title": "Nothing Phone (4a) Pro review",
-			"link": "https://www.notebookcheck.net/Hidden-gem-with-outstanding-design-Nothing-Phone-4a-Pro-review.1291726.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a_Pro/aPic_Nothing_Phone_4a_Pro-2240-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/4/csm_aPic_Nothing_Phone_4a_Pro-2240_5b7e284c49.jpg\" loading=\"lazy\" alt=\"Hidden gem with outstanding design - Nothing Phone (4a) Pro review\"></picture><div class=\"intro_featured_bar_title\">Nothing Phone (4a) Pro review</div>",
-			"retrieved": 1778522081001
 		}
 	]
 }
