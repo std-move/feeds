@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-03df19152502c508c3b4e0472dc79a56",
+			"title": "It gets up everywhere - SoFlow SO4 Pro Max e-scooter tested",
+			"link": "https://www.notebookcheck.net/It-gets-up-everywhere-SoFlow-SO4-Pro-Max-e-scooter-tested.1292747.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/So4_ProMax_Intro2_angepasst-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/So4_ProMax_Intro2_angepasst-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/So4_ProMax_Intro2_angepasst-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/So4_ProMax_Intro2_angepasst-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/So4_ProMax_Intro2_angepasst-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/So4_ProMax_Intro2_angepasst-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/5/csm_So4_ProMax_Intro2_angepasst_7cd59bb573.jpg\" loading=\"lazy\" alt=\"It gets up everywhere - SoFlow SO4 Pro Max e-scooter tested\"></picture><div class=\"intro_featured_bar_title\">It gets up everywhere - SoFlow SO4 Pro Max e-scooter tested</div>",
+			"retrieved": 1778840621675
+		},
+		{
 			"id": "link-cd36dd38c757020f064984b888b0b30f",
 			"title": "Nothing Phone (4a) review",
 			"link": "https://www.notebookcheck.net/Bargain-potential-and-stylish-design-Nothing-Phone-4a-review.1294915.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Ranking-Best-smartphones-reviewed-by-Notebookcheck.101858.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Charts_Best_Smartphones_2026-2457t-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Charts_Best_Smartphones_2026-2457t-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Charts_Best_Smartphones_2026-2457t-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Charts_Best_Smartphones_2026-2457t-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Charts_Best_Smartphones_2026-2457t-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Charts_Best_Smartphones_2026-2457t-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/9/csm_Charts_Best_Smartphones_2026-2457t_02025872fe.jpg\" loading=\"lazy\" alt=\"Ranking: Best smartphones reviewed by Notebookcheck\"></picture><div class=\"intro_featured_bar_title\">Smartphones: The top 10 options</div>",
 			"retrieved": 1778682880559
-		},
-		{
-			"id": "link-6c11d46d14e305c08c5601987d8392b6",
-			"title": "▶ The coolest laptop of 2026 nobody can afford!",
-			"link": "https://www.notebookcheck.net/The-coolest-laptop-of-2026-nobody-can-afford.1295157.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8355-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/2/csm_thumb8355_7b852c7f31.jpg\" loading=\"lazy\" alt=\"The coolest laptop of 2026 nobody can afford!\"></picture><div class=\"intro_featured_bar_title\">▶ The coolest laptop of 2026 nobody can afford!</div>",
-			"retrieved": 1778608776136
 		}
 	]
 }
