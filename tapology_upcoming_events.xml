@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-05-16T14:58:28.846Z</updated>
+    <updated>2026-05-16T17:00:30.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png</icon>
-    <entry>
-        <title type="html"><![CDATA[OKTAGON 88 — 2026-05-16 11:00:00 -0400]]></title>
-        <id>link-1bc901c76025252bc4d94313ff6b64e3</id>
-        <link href="https://www.tapology.com/fightcenter/events/137670-oktagon-88"/>
-        <updated>2026-05-03T02:55:48.289Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137670-oktagon-88">OKTAGON 88</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 11:00:00 -0400">in 3 minutes</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[KSW 118 — 2026-05-16 12:00:00 -0400]]></title>
         <id>link-d2b1004f8ca707dfa174b51110237b53</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140228-ksw-118">KSW 118</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 12:00:00 -0400">in 1 hour</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 12:00:00 -0400">59 minutes ago</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140458-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 17:00:00 -0400">in 6 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 17:00:00 -0400">in 4 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140072-rousey-vs-carano">Rousey vs. Carano</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 18:00:00 -0400">in 7 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 18:00:00 -0400">in 5 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/141962-davis-vs-albright-ii">Davis vs. Albright II</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 14:30:00 -0400">in 3 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 14:30:00 -0400">in 1 hour</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -86,7 +74,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140580-pfl-brussels-habirora-vs-henderson">PFL Brussels</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-23 12:30:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-23 12:30:00 -0400">in 6 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-05-23 09:00:00 -0400">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFL MENA — 2026-05-24 09:00:00 -0400]]></title>
+        <id>link-c7b783bca1016f86f6b8e26f1195d3ec</id>
+        <link href="https://www.tapology.com/fightcenter/events/142852-pfl-mena-pride-of-arabia"/>
+        <updated>2026-05-16T16:58:50.934Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142852-pfl-mena-pride-of-arabia">PFL MENA</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-05-24 09:00:00 -0400">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>
