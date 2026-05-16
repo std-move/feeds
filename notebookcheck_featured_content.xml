@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-05-16T09:42:48.969Z</updated>
+    <updated>2026-05-16T11:03:56.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Urtopia Carbon 1 ST reviewed]]></title>
+        <id>link-df0d5d9892276631fb01a624185e0ac6</id>
+        <link href="https://www.notebookcheck.net/Urtopia-Carbon-1-ST-review-Surprisingly-great-even-without-motor-assist.1297703.0.html"/>
+        <updated>2026-05-16T11:02:19.130Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/UrtopiaCarbon1ST004-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/UrtopiaCarbon1ST004-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/UrtopiaCarbon1ST004-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/UrtopiaCarbon1ST004-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/UrtopiaCarbon1ST004-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/UrtopiaCarbon1ST004-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/8/csm_UrtopiaCarbon1ST004_97dd92197a.jpg" loading="lazy" alt="Urtopia Carbon 1 ST review: Surprisingly great even without motor assist"></picture><div class="intro_featured_bar_title">Urtopia Carbon 1 ST reviewed</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Galaxy A37 alternative in the test]]></title>
         <id>link-dd75cea85a141c4de02393ef9457d0d9</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/A-playable-postcard-Forza-Horizon-6-gameplay-and-laptop-performance-impressions.1296753.0.html"/>
         <updated>2026-05-14T14:12:13.568Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/b/csm_thumb_24_371a995762.jpg" loading="lazy" alt="A playable postcard - Forza Horizon 6 gameplay and laptop performance impressions"></picture><div class="intro_featured_bar_title">▶ A playable postcard - Forza Horizon 6 first impressions</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forza Horizon 6 benchmark test: Stunning visuals between surprisingly scalable and brutally demanding]]></title>
-        <id>link-554390225a6f106dc55e5e4520844b9d</id>
-        <link href="https://www.notebookcheck.net/Forza-Horizon-6-benchmark-test-Stunning-visuals-between-surprisingly-scalable-and-brutally-demanding.1296755.0.html"/>
-        <updated>2026-05-14T14:12:13.568Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/Forza6-title-2-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/Forza6-title-2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/Forza6-title-2-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/Forza6-title-2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/Forza6-title-2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/Forza6-title-2-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/7/csm_Forza6-title-2_eda723b201.jpg" loading="lazy" alt="Forza-Porsche springt über Hügelkuppel ins freie Tal"></picture><div class="intro_featured_bar_title">Forza Horizon 6 benchmark test: Stunning visuals between surprisingly scalable and brutally demanding</div>]]></content>
     </entry>
 </feed>
