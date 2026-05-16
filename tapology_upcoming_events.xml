@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-05-16T11:03:56.446Z</updated>
+    <updated>2026-05-16T13:24:25.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137670-oktagon-88">OKTAGON 88</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 11:00:00 -0400">in 3 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 11:00:00 -0400">in 1 hour</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140228-ksw-118">KSW 118</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 12:00:00 -0400">in 4 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 12:00:00 -0400">in 2 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140458-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 17:00:00 -0400">in 9 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 17:00:00 -0400">in 7 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140072-rousey-vs-carano">Rousey vs. Carano</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 18:00:00 -0400">in 10 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 18:00:00 -0400">in 8 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/141962-davis-vs-albright-ii">Davis vs. Albright II</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-16 14:30:00 -0400">in 7 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-16 14:30:00 -0400">in 5 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -98,7 +98,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140464-usyk-vs-verhoven">Usyk vs. Rico</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-23 09:00:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-23 09:00:00 -0400">in 6 days</abbr>
 </td>]]></content>
     </entry>
 </feed>
