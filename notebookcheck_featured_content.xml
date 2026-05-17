@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-05-17T16:59:11.084Z</updated>
+    <updated>2026-05-17T19:12:16.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Compact robotic lawnmower for smaller gardens in test]]></title>
+        <id>link-d95edfd320118f38e9f192cbb4d449b0</id>
+        <link href="https://www.notebookcheck.net/Affordable-compact-robotic-lawnmower-for-smaller-gardens-Anthbot-M9-review.1299079.0.html"/>
+        <updated>2026-05-17T19:10:20.644Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/f/csm_Anthbot-M9-Test-Teaser68_792c6e574b.jpg" loading="lazy" alt="Anthbot M9 review"></picture><div class="intro_featured_bar_title">Compact robotic lawnmower for smaller gardens in test</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urtopia Carbon 1 ST reviewed]]></title>
         <id>link-df0d5d9892276631fb01a624185e0ac6</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Bargain-potential-and-stylish-design-Nothing-Phone-4a-review.1294915.0.html"/>
         <updated>2026-05-14T14:12:13.568Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a/aPic_Nothing_Phone_4a-2208-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a/aPic_Nothing_Phone_4a-2208-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a/aPic_Nothing_Phone_4a-2208-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a/aPic_Nothing_Phone_4a-2208-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a/aPic_Nothing_Phone_4a-2208-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Nothing/Phone_4a/aPic_Nothing_Phone_4a-2208-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/7/csm_aPic_Nothing_Phone_4a-2208_1262654769.jpg" loading="lazy" alt="Bargain potential and stylish design: Nothing Phone (4a) review"></picture><div class="intro_featured_bar_title">Nothing Phone (4a) review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ A playable postcard - Forza Horizon 6 first impressions]]></title>
-        <id>link-3c02b8625dbc0f3f7d11ec69ddd200ed</id>
-        <link href="https://www.notebookcheck.net/A-playable-postcard-Forza-Horizon-6-gameplay-and-laptop-performance-impressions.1296753.0.html"/>
-        <updated>2026-05-14T14:12:13.568Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb_24-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/b/csm_thumb_24_371a995762.jpg" loading="lazy" alt="A playable postcard - Forza Horizon 6 gameplay and laptop performance impressions"></picture><div class="intro_featured_bar_title">▶ A playable postcard - Forza Horizon 6 first impressions</div>]]></content>
     </entry>
 </feed>
