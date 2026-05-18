@@ -4,12 +4,6 @@
 	"favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
 	"elements": [
 		{
-			"id": "title-afbf06f3f19d8dfa7749fc449d701b93",
-			"title": "16.1.2 Pro — 17 May 2021",
-			"contents": "<ul><li>Security updates</li></ul>",
-			"retrieved": 1777389134958
-		},
-		{
 			"id": "title-027f2e58fe6adf8598732395bb08bd0b",
 			"title": "16.2.0 Pro — 14 October 2021",
 			"contents": "<ul><li>Added support for <a href=\"/wiki/Vulkan\" title=\"Vulkan\">Vulkan</a> renderer on a Linux host with Intel, Nvidia, and AMD GPUs</li>\n<li>Added partial support for <a href=\"/wiki/Windows_11\" title=\"Windows 11\">Windows 11</a> as host or guest machines<sup id=\"cite_ref-win11_95-0\" class=\"reference\"><a href=\"#cite_note-win11-95\"><span class=\"cite-bracket\">[</span>95<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>Host GPUs that do not support <a href=\"/wiki/DirectX\" title=\"DirectX\">DirectX</a> feature level 11.1 are supported but deprecated<sup id=\"cite_ref-96\" class=\"reference\"><a href=\"#cite_note-96\"><span class=\"cite-bracket\">[</span>96<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>Host CPUs that do not support <a href=\"/wiki/Mode-based_Execution_Control\" class=\"mw-redirect\" title=\"Mode-based Execution Control\">Mode-based Execution Control</a> are supported but deprecated</li>\n<li>Security updates and bug fixes</li></ul>",
@@ -122,6 +116,12 @@
 			"title": "25H2u1 (25.0.1.25219725) — 26 February 2026",
 			"contents": "<ul><li>Re-enabled the Check for updates option</li>\n<li>Fixed CVE-2026-22715, CVE-2026-22716, CVE-2026-22717, and CVE-2026-22722 vulnerabilities</li></ul>",
 			"retrieved": 1777389134958
+		},
+		{
+			"id": "title-4ff8f6b01b28e7e775d1cbf167d2c845",
+			"title": "26H1[115] — 14 May 2026",
+			"contents": "<ul><li>VMWare Workstation has become a fully 64-bit application: all the included binaries are now 64-bit</li>\n<li>Virtual machines now store and display time stamps and can be sorted by last used</li>\n<li>VM notes can be displayed in tabs</li>\n<li>New hosts and guests support (refer to release notes)</li></ul>",
+			"retrieved": 1779133488306
 		}
 	]
 }

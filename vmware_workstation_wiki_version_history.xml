@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/VMware_Workstation</id>
     <title>VMware Workstation version history</title>
-    <updated>2026-05-18T16:49:13.881Z</updated>
+    <updated>2026-05-18T19:46:43.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[16.1.2 Pro — 17 May 2021]]></title>
-        <id>title-afbf06f3f19d8dfa7749fc449d701b93</id>
-        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
-        <updated>2026-04-28T15:12:14.958Z</updated>
-        <content type="html"><![CDATA[<ul><li>Security updates</li></ul>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[16.2.0 Pro — 14 October 2021]]></title>
         <id>title-027f2e58fe6adf8598732395bb08bd0b</id>
@@ -202,5 +195,15 @@
         <updated>2026-04-28T15:12:14.958Z</updated>
         <content type="html"><![CDATA[<ul><li>Re-enabled the Check for updates option</li>
 <li>Fixed CVE-2026-22715, CVE-2026-22716, CVE-2026-22717, and CVE-2026-22722 vulnerabilities</li></ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26H1[115] — 14 May 2026]]></title>
+        <id>title-4ff8f6b01b28e7e775d1cbf167d2c845</id>
+        <link href="https://en.wikipedia.org/wiki/VMware_Workstation?link_extraction_failed=true"/>
+        <updated>2026-05-18T19:44:48.306Z</updated>
+        <content type="html"><![CDATA[<ul><li>VMWare Workstation has become a fully 64-bit application: all the included binaries are now 64-bit</li>
+<li>Virtual machines now store and display time stamps and can be sorted by last used</li>
+<li>VM notes can be displayed in tabs</li>
+<li>New hosts and guests support (refer to release notes)</li></ul>]]></content>
     </entry>
 </feed>
