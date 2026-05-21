@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-d51f04799fa717e79e4ee12ccab22eba",
+			"title": "All-purpose tool put to the test - AGM G3 Pro review",
+			"link": "https://www.notebookcheck.net/Rugged-survival-phone-AGM-G3-Pro-review.1301758.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/c/csm_aPic_AGM_G3_Pro-2598_8afba02faf.jpg\" loading=\"lazy\" alt=\"Rugged survival phone - AGM G3 Pro review\"></picture><div class=\"intro_featured_bar_title\">All-purpose tool put to the test - AGM G3 Pro review</div>",
+			"retrieved": 1779386351729
+		},
+		{
 			"id": "link-638588b04e5a4a54c803acb798f3c963",
 			"title": "Keychron M5 review",
 			"link": "https://www.notebookcheck.net/Keychron-M5-review-Unusual-gaming-mouse-with-clever-details.1300131.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Elgato-Teleprompter-review-The-best-creator-gadget-for-streamers-and-YouTubers.1300207.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/prompter-title-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/prompter-title-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/prompter-title-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/prompter-title-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/prompter-title-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/prompter-title-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/2/csm_prompter-title-1_3c041c4cdd.jpg\" loading=\"lazy\" alt=\"Elgato Teleprompter review: The best creator gadget for streamers and YouTubers?\"></picture><div class=\"intro_featured_bar_title\">Elgato Teleprompter review: The best creator gadget for streamers and YouTubers?</div>",
 			"retrieved": 1779213942992
-		},
-		{
-			"id": "link-d95edfd320118f38e9f192cbb4d449b0",
-			"title": "Compact robotic lawnmower for smaller gardens in test",
-			"link": "https://www.notebookcheck.net/Affordable-compact-robotic-lawnmower-for-smaller-gardens-Anthbot-M9-review.1299079.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Anthbot-M9-Test-Teaser68-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/f/csm_Anthbot-M9-Test-Teaser68_792c6e574b.jpg\" loading=\"lazy\" alt=\"Anthbot M9 review\"></picture><div class=\"intro_featured_bar_title\">Compact robotic lawnmower for smaller gardens in test</div>",
-			"retrieved": 1779045020644
 		}
 	]
 }
