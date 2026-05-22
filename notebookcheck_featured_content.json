@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-5ffaa3933ccb194f5a7757852ae7f277",
+			"title": "ORICO X50PRO review: This Thunderbolt 5 enclosure hits 6,000 MB/s",
+			"link": "https://www.notebookcheck.net/ORICO-X50PRO-review-This-Thunderbolt-5-enclosure-hits-6-000-MB-s.1303108.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/s-corner-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/s-corner-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/s-corner-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/s-corner-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/s-corner-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/s-corner-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/1/csm_s-corner_2985437899.jpg\" loading=\"lazy\" alt=\"ORICO X50PRO Thunderbolt80G SSD Enclosure in review\"></picture><div class=\"intro_featured_bar_title\">ORICO X50PRO review: This Thunderbolt 5 enclosure hits 6,000 MB/s</div>",
+			"retrieved": 1779472301447
+		},
+		{
 			"id": "link-b555271094d8f8255c10f7605c4a7ac3",
 			"title": "An insider tip? Huawei Watch Fit 5 Series review",
 			"link": "https://www.notebookcheck.net/Apple-Watch-killer-or-just-a-gimmick-Huawei-Watch-Fit-5-and-Fit-5-Pro-review.1303287.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Lenovo-Legion-7a-2026-so-good-so-hard-to-recommend.1301747.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/d/csm_thumb8746_2b0a660cd7.jpg\" loading=\"lazy\" alt=\"Lenovo Legion 7a 2026 - so good, so hard to recommend ...\"></picture><div class=\"intro_featured_bar_title\">▶ Lenovo Legion 7a 2026 - so good, so hard to recommend ...</div>",
 			"retrieved": 1779301034682
-		},
-		{
-			"id": "link-613429df0e1e7590849cf389427fceb4",
-			"title": "Gaomon Pro 19 hands-on review",
-			"link": "https://www.notebookcheck.net/Gaomon-Pro-19-hands-on-review-Premium-drawing-feel-without-the-premium-price.1301078.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Gaomon-Pro-19-teaser-Teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Gaomon-Pro-19-teaser-Teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Gaomon-Pro-19-teaser-Teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Gaomon-Pro-19-teaser-Teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Gaomon-Pro-19-teaser-Teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Gaomon-Pro-19-teaser-Teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/6/csm_Gaomon-Pro-19-teaser-Teaser_56ba01041e.jpg\" loading=\"lazy\" alt=\"The Gaomon Pro 19 Pen Display \"></picture><div class=\"intro_featured_bar_title\">Gaomon Pro 19 hands-on review</div>",
-			"retrieved": 1779274204755
 		}
 	]
 }
