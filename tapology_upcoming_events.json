@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png",
 	"elements": [
 		{
-			"id": "link-c7b783bca1016f86f6b8e26f1195d3ec",
-			"title": "PFL MENA 9 — 2026-05-24 08:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/142852-pfl-mena-pride-of-arabia",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142852-pfl-mena-pride-of-arabia\">PFL MENA 9</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-05-24 08:00:00 -0400\">in 42 minutes</abbr>\n</td>",
-			"retrieved": 1778950730934
-		},
-		{
 			"id": "link-1169e967a465d4e787d9450a6e3689a8",
 			"title": "Road to UFC — 2026-05-28 02:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/141795-road-to-ufc-macau-day-1",
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/140753-rizin-landmark-14-in-sendai",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140753-rizin-landmark-14-in-sendai\">RIZIN LANDMARK 14 in...</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-05 23:00:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1779555556121
+		},
+		{
+			"id": "link-f781a35651ba3bdfd124e9430af81307",
+			"title": "OKTAGON 89 — 2026-06-06 11:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/137644-oktagon-89",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137644-oktagon-89\">OKTAGON 89</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-06 11:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1779629181416
 		}
 	]
 }

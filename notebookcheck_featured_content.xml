@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-05-24T11:19:11.428Z</updated>
+    <updated>2026-05-24T13:28:00.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ The best smartphone for photography?]]></title>
+        <id>link-9d96f0c9771db9986f78ef1243671e12</id>
+        <link href="https://www.notebookcheck.net/The-best-smartphone-for-photography.1304920.0.html"/>
+        <updated>2026-05-24T13:26:21.416Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/1/csm_thumb7021_7bad273862.jpg" loading="lazy" alt="The best smartphone for photography?"></picture><div class="intro_featured_bar_title">▶ The best smartphone for photography?</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ORICO X50PRO review: This Thunderbolt 5 enclosure hits 6,000 MB/s]]></title>
         <id>link-5ffaa3933ccb194f5a7757852ae7f277</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Keychron-M5-review-Unusual-gaming-mouse-with-clever-details.1300131.0.html"/>
         <updated>2026-05-20T18:17:14.682Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/6/csm_KeychronM5_Review_30_67c1b5784d.jpg" loading="lazy" alt="Keychron M5 review: Unusual gaming mouse with clever details"></picture><div class="intro_featured_bar_title">Keychron M5 review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ Lenovo Legion 7a 2026 - so good, so hard to recommend ...]]></title>
-        <id>link-a089e7dfdcce02addeeb71628bbd5c00</id>
-        <link href="https://www.notebookcheck.net/Lenovo-Legion-7a-2026-so-good-so-hard-to-recommend.1301747.0.html"/>
-        <updated>2026-05-20T18:17:14.682Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/d/csm_thumb8746_2b0a660cd7.jpg" loading="lazy" alt="Lenovo Legion 7a 2026 - so good, so hard to recommend ..."></picture><div class="intro_featured_bar_title">▶ Lenovo Legion 7a 2026 - so good, so hard to recommend ...</div>]]></content>
     </entry>
 </feed>

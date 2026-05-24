@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-9d96f0c9771db9986f78ef1243671e12",
+			"title": "▶ The best smartphone for photography?",
+			"link": "https://www.notebookcheck.net/The-best-smartphone-for-photography.1304920.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb7021-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/1/csm_thumb7021_7bad273862.jpg\" loading=\"lazy\" alt=\"The best smartphone for photography?\"></picture><div class=\"intro_featured_bar_title\">▶ The best smartphone for photography?</div>",
+			"retrieved": 1779629181416
+		},
+		{
 			"id": "link-5ffaa3933ccb194f5a7757852ae7f277",
 			"title": "ORICO X50PRO review: This Thunderbolt 5 enclosure hits 6,000 MB/s",
 			"link": "https://www.notebookcheck.net/ORICO-X50PRO-review-This-Thunderbolt-5-enclosure-hits-6-000-MB-s.1303108.0.html",
@@ -43,13 +50,6 @@
 			"title": "Keychron M5 review",
 			"link": "https://www.notebookcheck.net/Keychron-M5-review-Unusual-gaming-mouse-with-clever-details.1300131.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/6/csm_KeychronM5_Review_30_67c1b5784d.jpg\" loading=\"lazy\" alt=\"Keychron M5 review: Unusual gaming mouse with clever details\"></picture><div class=\"intro_featured_bar_title\">Keychron M5 review</div>",
-			"retrieved": 1779301034682
-		},
-		{
-			"id": "link-a089e7dfdcce02addeeb71628bbd5c00",
-			"title": "▶ Lenovo Legion 7a 2026 - so good, so hard to recommend ...",
-			"link": "https://www.notebookcheck.net/Lenovo-Legion-7a-2026-so-good-so-hard-to-recommend.1301747.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb8746-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/d/csm_thumb8746_2b0a660cd7.jpg\" loading=\"lazy\" alt=\"Lenovo Legion 7a 2026 - so good, so hard to recommend ...\"></picture><div class=\"intro_featured_bar_title\">▶ Lenovo Legion 7a 2026 - so good, so hard to recommend ...</div>",
 			"retrieved": 1779301034682
 		}
 	]
