@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-2d2326a9469b5f810c872ec9838aedd7",
+			"title": "An OLED screen far superior to the iPad Air | MagicPad 4 review",
+			"link": "https://www.notebookcheck.net/A-mega-tablet-with-a-12-3-inch-OLED-screen-and-a-no-brainer-price-Honor-MagicPad-4-review.1303952.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/MagicPad_4/Honor_MagicPad_4_review_2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/MagicPad_4/Honor_MagicPad_4_review_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/MagicPad_4/Honor_MagicPad_4_review_2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/MagicPad_4/Honor_MagicPad_4_review_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/MagicPad_4/Honor_MagicPad_4_review_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/MagicPad_4/Honor_MagicPad_4_review_2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/4/csm_Honor_MagicPad_4_review_2_c7ce6e552c.jpg\" loading=\"lazy\" alt=\"Honor MagicPad 4 tablet  review\"></picture><div class=\"intro_featured_bar_title\">An OLED screen far superior to the iPad Air | MagicPad 4 review</div>",
+			"retrieved": 1779650254428
+		},
+		{
 			"id": "link-9d96f0c9771db9986f78ef1243671e12",
 			"title": "▶ The best smartphone for photography?",
 			"link": "https://www.notebookcheck.net/The-best-smartphone-for-photography.1304920.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Rugged-survival-phone-AGM-G3-Pro-review.1301758.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/AGM/G3_Pro/aPic_AGM_G3_Pro-2598-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/c/csm_aPic_AGM_G3_Pro-2598_8afba02faf.jpg\" loading=\"lazy\" alt=\"Rugged survival phone - AGM G3 Pro review\"></picture><div class=\"intro_featured_bar_title\">All-purpose tool put to the test - AGM G3 Pro review</div>",
 			"retrieved": 1779386351729
-		},
-		{
-			"id": "link-638588b04e5a4a54c803acb798f3c963",
-			"title": "Keychron M5 review",
-			"link": "https://www.notebookcheck.net/Keychron-M5-review-Unusual-gaming-mouse-with-clever-details.1300131.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/KeychronM5_Review_30-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/6/csm_KeychronM5_Review_30_67c1b5784d.jpg\" loading=\"lazy\" alt=\"Keychron M5 review: Unusual gaming mouse with clever details\"></picture><div class=\"intro_featured_bar_title\">Keychron M5 review</div>",
-			"retrieved": 1779301034682
 		}
 	]
 }
