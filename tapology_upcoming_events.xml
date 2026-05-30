@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-05-30T06:47:07.401Z</updated>
+    <updated>2026-05-30T10:02:43.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png</icon>
-    <entry>
-        <title type="html"><![CDATA[UFC Fight Night — 2026-05-30 04:00:00 -0400]]></title>
-        <id>link-c25ca6b0fcdbc8c5138013d33e7ced00</id>
-        <link href="https://www.tapology.com/fightcenter/events/139238-ufc-fight-night"/>
-        <updated>2026-05-16T22:45:02.940Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/139238-ufc-fight-night">UFC Fight Night</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-30 04:00:00 -0400">in 1 hour</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Han vs. Holm 2 — 2026-05-30 16:00:00 -0400]]></title>
         <id>link-b2904f37993abebf5d24451bc63562e4</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140777-han-vs-holm-ii-mvpw-03">Han vs. Holm 2</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-30 16:00:00 -0400">in 13 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-30 16:00:00 -0400">in 9 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142087-foster-vs-ford">Foster vs. Ford</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-05-30 16:00:00 -0400">in 13 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-05-30 16:00:00 -0400">in 9 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-06-06 17:00:00 -0400">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFL Africa — 2026-06-13 12:00:00 -0400]]></title>
+        <id>link-6550faee05485c844053e3f2e3b07bc3</id>
+        <link href="https://www.tapology.com/fightcenter/events/142300-pfl-africa-2-nigeria"/>
+        <updated>2026-05-30T10:01:05.992Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142300-pfl-africa-2-nigeria">PFL Africa</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-06-13 12:00:00 -0400">in 2 weeks</abbr>
 </td>]]></content>
     </entry>
 </feed>
