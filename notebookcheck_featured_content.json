@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-5b1c53c3f16b481c3b0601e4c241844f",
+			"title": "Why the TGV M has more space than its predecessors and when it will first run",
+			"link": "https://www.notebookcheck.net/Why-the-TGV-M-has-more-space-than-its-predecessors-and-when-it-will-first-run.1311212.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/f/csm_TGV-M-Avelia-Horizon_Alstom_06_51ee85c720.jpg\" loading=\"lazy\" alt=\"TGV-M in second class\"></picture><div class=\"intro_featured_bar_title\">Why the TGV M has more space than its predecessors and when it will first run</div>",
+			"retrieved": 1780160671762
+		},
+		{
 			"id": "link-0ce119675d91a72beb7fcf3b7caa2a1c",
 			"title": "A new repairability champion tested",
 			"link": "https://www.notebookcheck.net/A-new-repairability-champion-Lenovo-ThinkPad-T14-Gen-7-laptop-review.1296761.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/This-foldable-attracts-everyone-s-attention-Motorola-Razr-2026-Razr-70-smartphone-review.1308599.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70/Motorola_Razr_70_im_Test_3-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70/Motorola_Razr_70_im_Test_3-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70/Motorola_Razr_70_im_Test_3-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70/Motorola_Razr_70_im_Test_3-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70/Motorola_Razr_70_im_Test_3-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70/Motorola_Razr_70_im_Test_3-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/0/csm_Motorola_Razr_70_im_Test_3_16a6717024.jpg\" loading=\"lazy\" alt=\"Motorola Razr 70 in test\"></picture><div class=\"intro_featured_bar_title\">Style icon in review: Motorola Razr 2026 (Razr 70)</div>",
 			"retrieved": 1779968787177
-		},
-		{
-			"id": "link-cefbea1cec25376ec2fa4f26862fd7f0",
-			"title": "Dell 15 D15260: Subdued ambitions",
-			"link": "https://www.notebookcheck.net/Dell-15-D15260-Review-Arrow-Lake-H-student-and-daily-productivity-laptop-that-does-just-enough.1301160.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/15_D15260/dell_15_d15260_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/15_D15260/dell_15_d15260_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/15_D15260/dell_15_d15260_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/15_D15260/dell_15_d15260_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/15_D15260/dell_15_d15260_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/15_D15260/dell_15_d15260_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/1/csm_dell_15_d15260_1_056cee61c9.jpg\" loading=\"lazy\" alt=\"Dell 15 D15260 in review\"></picture><div class=\"intro_featured_bar_title\">Dell 15 D15260: Subdued ambitions</div>",
-			"retrieved": 1779939453996
 		}
 	]
 }
