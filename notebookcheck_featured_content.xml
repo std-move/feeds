@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-05-30T22:59:30.524Z</updated>
+    <updated>2026-05-31T03:55:20.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Slim gaming laptops are awesome!]]></title>
+        <id>link-a1256f91956f2be82feb3654475a98d5</id>
+        <link href="https://www.notebookcheck.net/Slim-gaming-laptops-are-awesome.1311253.0.html"/>
+        <updated>2026-05-31T03:53:34.896Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/1/csm_thumb31_5b354a2d08.jpg" loading="lazy" alt="Slim gaming laptops are awesome!"></picture><div class="intro_featured_bar_title">▶ Slim gaming laptops are awesome!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oppo Find X9 Ultra review including WiFi record]]></title>
         <id>link-0800842ce514328f1a64aad8f6223225</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Xiaomi-17T-Series-First-impressions-differences-and-prices.1308602.0.html"/>
         <updated>2026-05-28T15:55:39.877Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/d/csm_aPic_Xiaomi_17T_and_17T_Pro-2803_e7dad720cf.jpg" loading="lazy" alt="Xiaomi 17T and 17T Pro"></picture><div class="intro_featured_bar_title">Xiaomi 17T Series: Comparison and launch discounts</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi's €899 flagship phone is so good, it's hard to ignore]]></title>
-        <id>link-771a2aba193b94514c8b670e93cba019</id>
-        <link href="https://www.notebookcheck.net/Xiaomi-s-EUR899-flagship-phone-is-so-good-it-s-hard-to-ignore.1308594.0.html"/>
-        <updated>2026-05-30T19:16:15.270Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/4/csm_Xiaomi-17T-Pro-teaser_e4390d58e1.jpg" loading="lazy" alt="Xiaomi's €899 flagship phone is so good, it's hard to ignore"></picture><div class="intro_featured_bar_title">Xiaomi's €899 flagship phone is so good, it's hard to ignore</div>]]></content>
     </entry>
 </feed>

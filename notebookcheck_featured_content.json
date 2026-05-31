@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-a1256f91956f2be82feb3654475a98d5",
+			"title": "▶ Slim gaming laptops are awesome!",
+			"link": "https://www.notebookcheck.net/Slim-gaming-laptops-are-awesome.1311253.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/1/csm_thumb31_5b354a2d08.jpg\" loading=\"lazy\" alt=\"Slim gaming laptops are awesome!\"></picture><div class=\"intro_featured_bar_title\">▶ Slim gaming laptops are awesome!</div>",
+			"retrieved": 1780199614896
+		},
+		{
 			"id": "link-0800842ce514328f1a64aad8f6223225",
 			"title": "Oppo Find X9 Ultra review including WiFi record",
 			"link": "https://www.notebookcheck.net/Oppo-Find-X9-Ultra-review-a-top-smartphone-with-an-overlooked-weakness.1308777.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Xiaomi-17T-Series-First-impressions-differences-and-prices.1308602.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/d/csm_aPic_Xiaomi_17T_and_17T_Pro-2803_e7dad720cf.jpg\" loading=\"lazy\" alt=\"Xiaomi 17T and 17T Pro\"></picture><div class=\"intro_featured_bar_title\">Xiaomi 17T Series: Comparison and launch discounts</div>",
 			"retrieved": 1779983739877
-		},
-		{
-			"id": "link-771a2aba193b94514c8b670e93cba019",
-			"title": "Xiaomi's €899 flagship phone is so good, it's hard to ignore",
-			"link": "https://www.notebookcheck.net/Xiaomi-s-EUR899-flagship-phone-is-so-good-it-s-hard-to-ignore.1308594.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Xiaomi-17T-Pro-teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/4/csm_Xiaomi-17T-Pro-teaser_e4390d58e1.jpg\" loading=\"lazy\" alt=\"Xiaomi's €899 flagship phone is so good, it's hard to ignore\"></picture><div class=\"intro_featured_bar_title\">Xiaomi's €899 flagship phone is so good, it's hard to ignore</div>",
-			"retrieved": 1780168575270
 		}
 	]
 }
