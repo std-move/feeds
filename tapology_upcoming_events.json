@@ -18,6 +18,13 @@
 			"retrieved": 1779629181416
 		},
 		{
+			"id": "link-9052921a3938407764e2ce27d6f72374",
+			"title": "Zuffa Boxing 7 — 2026-06-06 11:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/143105-zuffa-boxing-7",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143105-zuffa-boxing-7\">Zuffa Boxing 7</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-06 11:00:00 -0400\">in 5 days</abbr>\n</td>",
+			"retrieved": 1780054306873
+		},
+		{
 			"id": "link-9c2aa8474639603c67b5d10eb934224e",
 			"title": "Padley vs. Fiaz — 2026-06-06 10:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/141251-smith-vs-puello",
@@ -25,17 +32,10 @@
 			"retrieved": 1779968787177
 		},
 		{
-			"id": "link-9052921a3938407764e2ce27d6f72374",
-			"title": "Zuffa Boxing 7 — 2026-06-06 13:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/143105-zuffa-boxing-7",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143105-zuffa-boxing-7\">Zuffa Boxing 7</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-06 13:00:00 -0400\">in 5 days</abbr>\n</td>",
-			"retrieved": 1780054306873
-		},
-		{
 			"id": "link-6abc3cc2027a65a839c7643219461b66",
 			"title": "UFC Fight Night — 2026-06-06 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-06 17:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-06 17:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1780096378498
 		},
 		{
