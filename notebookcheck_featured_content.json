@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-2ef96cb680ed27a64a043e33d5c7794d",
+			"title": "Bambu Lab X2D Combo 3D printer review",
+			"link": "https://www.notebookcheck.net/Bambu-Lab-X2D-Combo-review-Dual-nozzle-3D-printer-tested.1311491.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/a/csm_X2DTestTeaser-14_3a4ba9ded6.jpg\" loading=\"lazy\" alt=\"Bambu Lab X2D Combo review: Dual-nozzle 3D printer tested\"></picture><div class=\"intro_featured_bar_title\">Bambu Lab X2D Combo 3D printer review</div>",
+			"retrieved": 1780213586874
+		},
+		{
 			"id": "link-a1256f91956f2be82feb3654475a98d5",
 			"title": "▶ Slim gaming laptops are awesome!",
 			"link": "https://www.notebookcheck.net/Slim-gaming-laptops-are-awesome.1311253.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/The-best-everyday-laptops.1307935.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9847-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9847-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9847-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9847-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9847-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb9847-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/d/csm_thumb9847_82f16d6b53.jpg\" loading=\"lazy\" alt=\"The best everyday laptops?\"></picture><div class=\"intro_featured_bar_title\">▶ The best everyday laptops?</div>",
 			"retrieved": 1779902374661
-		},
-		{
-			"id": "link-80ea243510e0a87094c75fbb56d6153f",
-			"title": "Xiaomi 17T Series: Comparison and launch discounts",
-			"link": "https://www.notebookcheck.net/Xiaomi-17T-Series-First-impressions-differences-and-prices.1308602.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T_Pro/aPic_Xiaomi_17T_and_17T_Pro-2803-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/d/csm_aPic_Xiaomi_17T_and_17T_Pro-2803_e7dad720cf.jpg\" loading=\"lazy\" alt=\"Xiaomi 17T and 17T Pro\"></picture><div class=\"intro_featured_bar_title\">Xiaomi 17T Series: Comparison and launch discounts</div>",
-			"retrieved": 1779983739877
 		}
 	]
 }
