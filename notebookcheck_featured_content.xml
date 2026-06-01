@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-05-31T23:01:52.337Z</updated>
+    <updated>2026-06-01T04:07:30.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.notebookcheck.net/Slim-gaming-laptops-are-awesome.1311253.0.html"/>
         <updated>2026-05-31T03:53:34.896Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb31-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/1/csm_thumb31_5b354a2d08.jpg" loading="lazy" alt="Slim gaming laptops are awesome!"></picture><div class="intro_featured_bar_title">▶ Slim gaming laptops are awesome!</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[▶ Ultrawide on point! - Alienware's updated 34" QD-OLED]]></title>
+        <id>link-6b476fcb6625cac70975ece5af20846a</id>
+        <link href="https://www.notebookcheck.net/Ultrawide-on-point-Alienware-s-updated-34-QD-OLED.1311722.0.html"/>
+        <updated>2026-06-01T04:05:44.569Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1853-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1853-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1853-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1853-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1853-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1853-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/3/csm_thumb1853_8162037e01.jpg" loading="lazy" alt="Ultrawide on point! - Alienware's updated 34&quot; QD-OLED"></picture><div class="intro_featured_bar_title">▶ Ultrawide on point! - Alienware's updated 34" QD-OLED</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Robot mower with LiDAR: Mova LiDAX Ultra 1200 review]]></title>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/A-new-repairability-champion-Lenovo-ThinkPad-T14-Gen-7-laptop-review.1296761.0.html"/>
         <updated>2026-05-25T19:40:04.899Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_7_Intel/Lenovo_ThinkPad_T14G7i_teaser-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_7_Intel/Lenovo_ThinkPad_T14G7i_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_7_Intel/Lenovo_ThinkPad_T14G7i_teaser-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_7_Intel/Lenovo_ThinkPad_T14G7i_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_7_Intel/Lenovo_ThinkPad_T14G7i_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_T14_Gen_7_Intel/Lenovo_ThinkPad_T14G7i_teaser-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/3/csm_Lenovo_ThinkPad_T14G7i_teaser_8f81bcf42e.jpg" loading="lazy" alt="A new repairability champion: Lenovo ThinkPad T14 Gen 7 laptop review"></picture><div class="intro_featured_bar_title">A new repairability champion tested</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP OmniBook 3 17: Zen 2 Mendocino yet again]]></title>
-        <id>link-94348656010c332afbfd1d745ca906fc</id>
-        <link href="https://www.notebookcheck.net/HP-OmniBook-3-17-Laptop-Review-A-bargain-or-smelly-leftovers-depending-on-how-you-see-it.1306171.0.html"/>
-        <updated>2026-05-28T15:55:39.877Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/OmniBook_3_17-dp0451ng/feature-omni-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/OmniBook_3_17-dp0451ng/feature-omni-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/OmniBook_3_17-dp0451ng/feature-omni-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/OmniBook_3_17-dp0451ng/feature-omni-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/OmniBook_3_17-dp0451ng/feature-omni-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/OmniBook_3_17-dp0451ng/feature-omni-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/e/csm_feature-omni_6234d7f523.jpg" loading="lazy" alt="HP OmniBook 3 17 in review"></picture><div class="intro_featured_bar_title">HP OmniBook 3 17: Zen 2 Mendocino yet again</div>]]></content>
     </entry>
 </feed>
