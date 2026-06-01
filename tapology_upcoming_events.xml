@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-06-01T11:36:09.023Z</updated>
+    <updated>2026-06-01T17:41:39.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png</icon>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137644-oktagon-89">OKTAGON 89</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-06-06 11:00:00 -0400">in 5 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-06-06 11:00:00 -0400">in 4 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143105-zuffa-boxing-7">Zuffa Boxing 7</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-06-06 11:00:00 -0400">in 5 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-06-06 11:00:00 -0400">in 4 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/141251-smith-vs-puello">Padley vs. Fiaz</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-06-06 10:00:00 -0400">in 5 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-06-06 10:00:00 -0400">in 4 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -90,12 +90,12 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UFC Freedom Fights 250 — 2026-06-14 20:00:00 -0400]]></title>
+        <title type="html"><![CDATA[UFC Freedom 250 — 2026-06-14 20:00:00 -0400]]></title>
         <id>link-83eaf0f3deab693970dbb229bdbc27fc</id>
         <link href="https://www.tapology.com/fightcenter/events/137848-ufc-white-house"/>
         <updated>2026-05-31T03:53:34.896Z</updated>
         <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137848-ufc-white-house">UFC Freedom Fights 250</a>
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/137848-ufc-white-house">UFC Freedom 250</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-06-14 20:00:00 -0400">in 1 week</abbr>
