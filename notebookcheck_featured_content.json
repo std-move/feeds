@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-95d748fe7ffb5fd427fdf172f154f473",
+			"title": "▶ NVIDIA bets big on (premium) laptops!",
+			"link": "https://www.notebookcheck.net/NVIDIA-bets-big-on-premium-laptops.1314763.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/c/csm__1051269_9dbad19a78.jpg\" loading=\"lazy\" alt=\"NVIDIA bets big on (premium) laptops!\"></picture><div class=\"intro_featured_bar_title\">▶ NVIDIA bets big on (premium) laptops!</div>",
+			"retrieved": 1780505357396
+		},
+		{
 			"id": "link-18db3b5aef1441c8fad1e0d97cc313ac",
 			"title": "DLSS 4.5 makes its debut: 007 First Light tested",
 			"link": "https://www.notebookcheck.net/DLSS-4-5-in-action-007-First-Light-tech-check-with-benchmarks.1314198.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Bambu-Lab-X2D-Combo-review-Dual-nozzle-3D-printer-tested.1311491.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/X2DTestTeaser-14-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/a/csm_X2DTestTeaser-14_3a4ba9ded6.jpg\" loading=\"lazy\" alt=\"Bambu Lab X2D Combo review: Dual-nozzle 3D printer tested\"></picture><div class=\"intro_featured_bar_title\">Bambu Lab X2D Combo 3D printer review</div>",
 			"retrieved": 1780213586874
-		},
-		{
-			"id": "link-0800842ce514328f1a64aad8f6223225",
-			"title": "Oppo Find X9 Ultra review including WiFi record",
-			"link": "https://www.notebookcheck.net/Oppo-Find-X9-Ultra-review-a-top-smartphone-with-an-overlooked-weakness.1308777.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/f/csm_Test_Oppo_Find_X9_Ultra_330_3adb635374.jpg\" loading=\"lazy\" alt=\"Oppo Find X9 Ultra review\"></picture><div class=\"intro_featured_bar_title\">Oppo Find X9 Ultra review including WiFi record</div>",
-			"retrieved": 1780174682583
 		}
 	]
 }
