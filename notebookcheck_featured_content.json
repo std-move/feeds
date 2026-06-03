@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-18db3b5aef1441c8fad1e0d97cc313ac",
+			"title": "DLSS 4.5 makes its debut: 007 First Light tested",
+			"link": "https://www.notebookcheck.net/DLSS-4-5-in-action-007-First-Light-tech-check-with-benchmarks.1314198.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/007FirstLight/feature2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/007FirstLight/feature2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/007FirstLight/feature2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/007FirstLight/feature2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/007FirstLight/feature2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/007FirstLight/feature2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/Notebooks/Sonstiges/Games/007FirstLight/feature2.jpg\" loading=\"lazy\" alt=\"DLSS 4.5 in action: 007 First Light tech check with benchmarks\"></picture><div class=\"intro_featured_bar_title\">DLSS 4.5 makes its debut: 007 First Light tested</div>",
+			"retrieved": 1780484360613
+		},
+		{
 			"id": "link-6d82cce41cd059053a77814ee4160a51",
 			"title": "▶ Intel just changed the game ... for a price!",
 			"link": "https://www.notebookcheck.net/Intel-just-changed-the-game-for-a-price.1313654.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Oppo-Find-X9-Ultra-review-a-top-smartphone-with-an-overlooked-weakness.1308777.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9_Ultra/Test_Oppo_Find_X9_Ultra_330-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/f/csm_Test_Oppo_Find_X9_Ultra_330_3adb635374.jpg\" loading=\"lazy\" alt=\"Oppo Find X9 Ultra review\"></picture><div class=\"intro_featured_bar_title\">Oppo Find X9 Ultra review including WiFi record</div>",
 			"retrieved": 1780174682583
-		},
-		{
-			"id": "link-5b1c53c3f16b481c3b0601e4c241844f",
-			"title": "Why the TGV M has more space than its predecessors and when it will first run",
-			"link": "https://www.notebookcheck.net/Why-the-TGV-M-has-more-space-than-its-predecessors-and-when-it-will-first-run.1311212.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/TGV-M-Avelia-Horizon_Alstom_06-jpeg-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/f/csm_TGV-M-Avelia-Horizon_Alstom_06_51ee85c720.jpg\" loading=\"lazy\" alt=\"TGV-M in second class\"></picture><div class=\"intro_featured_bar_title\">Why the TGV M has more space than its predecessors and when it will first run</div>",
-			"retrieved": 1780160671762
 		}
 	]
 }
