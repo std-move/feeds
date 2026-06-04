@@ -293,3 +293,12 @@ waitForSelector = "#mostRecentVersion"
 entrySelector = "#mostRecentVersion dialog ul li"
 titleSelector = [".metadata span", ".metadata time"]
 contentSelector = "p"
+
+[windows_11_current_updates]
+title = "Windows 11 - current update revisions"
+url = "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
+waitForSelector = "xpath=//table[.//th[8][normalize-space(.) = 'Latest build']]//tr[not(.//th)]"
+entrySelector = "xpath=//table[.//th[8][normalize-space(.) = 'Latest build']]//tr[not(.//th)]"
+titleSelector = ["xpath=./td[7]", "xpath=./td[1]/text()", "xpath=./td[2]", "xpath=./td[8]", "xpath=./td[6]"]
+contentSelector = "*"
+
