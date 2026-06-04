@@ -300,5 +300,5 @@ url = "https://learn.microsoft.com/en-us/windows/release-health/windows11-releas
 waitForSelector = "xpath=//table[.//th[8][normalize-space(.) = 'Latest build']]//tr[not(.//th)]"
 entrySelector = "xpath=//table[.//th[8][normalize-space(.) = 'Latest build']]//tr[not(.//th)]"
 titleSelector = ["xpath=./td[7]", "xpathstr=./td[1]/text()", "xpath=./td[2]", "xpath=./td[8]", "xpath=./td[6]"]
-contentSelector = "*"
+contentSelector = ["td:nth-of-type(6)", "td:nth-of-type(7)", "td:nth-of-type(8)"]
 
