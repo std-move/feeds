@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-06-05T12:39:24.232Z</updated>
+    <updated>2026-06-05T15:48:49.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.123]]></title>
+        <id>title-b38a55ae8fb6c537e5037d9a4f95a0e8</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-06-05T15:47:05.972Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.123</strong> (05 June 2026)<br>
+            + Improved cleanup : Chrome, chromium...<br>
+            + Improved cleanup : Firefox<br>
+            + Improved cleanup : Web Browsers (portable version)<br> 
+            + Improved automatic cleanups<br> 
+            + Improved cleanup : cookies<br>
+            + New cleanup : Helium Browser<br>
+            + New cleanup : Powershell ISE<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.122]]></title>
         <id>title-9de3e73c80c677d906d2cc018d85bd3a</id>
@@ -223,16 +237,6 @@
              + Improved support : Cookies <br>
              + Improved UI<br>
              + Improved support : XP <br>
-             + Minor bug fixes<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.107]]></title>
-        <id>title-75d74a8d7c2ca38649903d6e363cfc8f</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-05-09T06:16:19.682Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.107</strong> (12 June 2025)<br>
-             + Improved cleanup : Quick Access<br>
-             + Improved cleanup : Recent files<br>
              + Minor bug fixes<br>]]></content>
     </entry>
 </feed>

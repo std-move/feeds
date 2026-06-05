@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-b38a55ae8fb6c537e5037d9a4f95a0e8",
+			"title": "v4.0.123",
+			"contents": "<strong>v4.0.123</strong> (05 June 2026)<br>\n            + Improved cleanup : Chrome, chromium...<br>\n            + Improved cleanup : Firefox<br>\n            + Improved cleanup : Web Browsers (portable version)<br> \n            + Improved automatic cleanups<br> \n            + Improved cleanup : cookies<br>\n            + New cleanup : Helium Browser<br>\n            + New cleanup : Powershell ISE<br>",
+			"retrieved": 1780674425972
+		},
+		{
 			"id": "title-9de3e73c80c677d906d2cc018d85bd3a",
 			"title": "v4.0.122",
 			"contents": "<strong>v4.0.122</strong> (13 May 2026)<br>\n            + Improved cleanup : cookies<br>\n            + Minor bug fixes<br>",
@@ -115,12 +121,6 @@
 			"id": "title-a1edfdb5cf8d2cb071f2dfa90298f07f",
 			"title": "v4.0.108",
 			"contents": "<strong>v4.0.108</strong> (06 July 2025)<br>\n             + New cleanup : Floorp Browser<br>\n             + Improved support : Cookies <br>\n             + Improved UI<br>\n             + Improved support : XP <br>\n             + Minor bug fixes<br>",
-			"retrieved": 1778307379682
-		},
-		{
-			"id": "title-75d74a8d7c2ca38649903d6e363cfc8f",
-			"title": "v4.0.107",
-			"contents": "<strong>v4.0.107</strong> (12 June 2025)<br>\n             + Improved cleanup : Quick Access<br>\n             + Improved cleanup : Recent files<br>\n             + Minor bug fixes<br>",
 			"retrieved": 1778307379682
 		}
 	]
