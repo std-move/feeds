@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-06-05T16:31:48.867Z</updated>
+    <updated>2026-06-05T19:57:10.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[ZimaCube 2 review: This home server is more than just a NAS – a self-hosting powerhouse]]></title>
+        <id>link-3c235278a21793a773440195564ec25e</id>
+        <link href="https://www.notebookcheck.net/ZimaCube-2-review-This-home-server-is-more-than-just-a-NAS-a-self-hosting-powerhouse.1316114.0.html"/>
+        <updated>2026-06-05T19:55:13.941Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Zimacube2-title2-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Zimacube2-title2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Zimacube2-title2-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Zimacube2-title2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Zimacube2-title2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Zimacube2-title2-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/3/csm_Zimacube2-title2_73411d7323.jpg" loading="lazy" alt="Zimacube 2 in front of a screen"></picture><div class="intro_featured_bar_title">ZimaCube 2 review: This home server is more than just a NAS – a self-hosting powerhouse</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keychron K3 HE: Low-profile Hall effect keyboard rocks]]></title>
         <id>link-edca9ae345cdf0fec69ce05e89a4c23b</id>
@@ -21,10 +28,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Tested: What does a $10 display offer?]]></title>
-        <id>link-69e13e8d52d52c658854064f0f9eeec0</id>
-        <link href="https://www.notebookcheck.net/Cheap-10-display-reviewed-Perfect-for-Raspberry-Pi-5.1315770.0.html"/>
-        <updated>2026-06-04T20:05:49.281Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/9/csm_SpottpreisDisplayGetestet021_ede28087fa.jpg" loading="lazy" alt="Cheap $10 display reviewed: Perfect for Raspberry Pi 5?"></picture><div class="intro_featured_bar_title">Tested: What does a $10 display offer?</div>]]></content>
+        <id>link-365ed8b3b69be7d34600992344207739</id>
+        <link href="https://www.notebookcheck.net/Cheap-7-inch-HDMI-monitor-reviewed-Perfect-10-display-for-Raspberry-Pi-5.1315770.0.html"/>
+        <updated>2026-06-05T19:55:13.941Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SpottpreisDisplayGetestet021-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/9/csm_SpottpreisDisplayGetestet021_ede28087fa.jpg" loading="lazy" alt="Cheap 7-inch HDMI monitor reviewed: Perfect $10 display for Raspberry Pi 5?"></picture><div class="intro_featured_bar_title">Tested: What does a $10 display offer?</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[▶ The best gaming laptop display EVER! Asus ROG / Computex 2026]]></title>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/MSI-Cubi-NUC-AI-3MG-review-Mini-PC-with-up-to-an-insane-128-GB-of-RAM.1309463.0.html"/>
         <updated>2026-06-03T20:55:52.595Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Cubi_NUC_AI_3MG/feature_5-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Cubi_NUC_AI_3MG/feature_5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Cubi_NUC_AI_3MG/feature_5-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Cubi_NUC_AI_3MG/feature_5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Cubi_NUC_AI_3MG/feature_5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/MSI/Cubi_NUC_AI_3MG/feature_5-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/b/csm_feature_5_bae269ac02.jpg" loading="lazy" alt="MSI Cubi NUC AI+ 3MG review: Mini PC with up to an insane 128 GB of RAM"></picture><div class="intro_featured_bar_title">MSI Cubi NUC AI+ 3MG review: Tiny PC with up to 128 GB of RAM</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ NVIDIA bets big on (premium) laptops!]]></title>
-        <id>link-95d748fe7ffb5fd427fdf172f154f473</id>
-        <link href="https://www.notebookcheck.net/NVIDIA-bets-big-on-premium-laptops.1314763.0.html"/>
-        <updated>2026-06-03T16:49:17.396Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051269-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/c/csm__1051269_9dbad19a78.jpg" loading="lazy" alt="NVIDIA bets big on (premium) laptops!"></picture><div class="intro_featured_bar_title">▶ NVIDIA bets big on (premium) laptops!</div>]]></content>
     </entry>
 </feed>
