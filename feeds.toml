@@ -302,3 +302,11 @@ entrySelector = "xpath=//table[.//th[8][normalize-space(.) = 'Latest build']]//t
 titleSelector = ["xpath=./td[7]", "xpathstr=./td[1]/text()", "xpath=./td[2]", "xpath=./td[8]", "xpath=./td[6]"]
 contentSelector = ["td:nth-of-type(6)", "td:nth-of-type(7)", "td:nth-of-type(8)"]
 
+[github_issues_yt_dlp]
+title = "yt-dlp Czech + pinned issues"
+url = "https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani"
+waitForSelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href, '/issues/new'))]"
+entrySelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href, '/issues/new'))]"
+linkSelector = "*"
+titleSelector = "*"
+
