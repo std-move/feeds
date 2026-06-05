@@ -7,105 +7,105 @@
 			"id": "link-835a5d584f04d10080ea546c95e345bf",
 			"title": "🚨[IMPORTANT]🚨 KNOWN ISSUES/FAQ",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/3766",
-			"contents": "<span style=\"--state-icon-color:var(--fgColor-open)\" class=\"PinnedIssue-module__Octicon__OhWUR\"><svg data-component=\"Octicon\" focusable=\"false\" aria-label=\"Status: Open.\" class=\"octicon octicon-issue-opened\" role=\"img\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\" fill=\"currentColor\" display=\"inline-block\" overflow=\"visible\" style=\"vertical-align:text-bottom\"><path d=\"M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z\"></path><path d=\"M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z\"></path></svg></span><span class=\"prc-Text-Text-9mHv3\">🚨[IMPORTANT]🚨 KNOWN ISSUES/FAQ</span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-654bdcfa0e262ffb7c615970f35f4cdc",
 			"title": "[Announcement] Bun support is now limited and deprecated",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-			"contents": "<span style=\"--state-icon-color:var(--fgColor-done)\" class=\"PinnedIssue-module__Octicon__OhWUR\"><svg data-component=\"Octicon\" focusable=\"false\" aria-label=\"Status: Closed (completed).\" class=\"octicon octicon-issue-closed\" role=\"img\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\" fill=\"currentColor\" display=\"inline-block\" overflow=\"visible\" style=\"vertical-align:text-bottom\"><path d=\"M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z\"></path><path d=\"M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z\"></path></svg></span><span class=\"prc-Text-Text-9mHv3\">[Announcement] Bun support is now limited and deprecated</span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-d05796f7875789368d4984135c282c02",
 			"title": "[Announcement] Raising the minimum supported version of Deno to v2.3.0",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16767",
-			"contents": "<span style=\"--state-icon-color:var(--fgColor-done)\" class=\"PinnedIssue-module__Octicon__OhWUR\"><svg data-component=\"Octicon\" focusable=\"false\" aria-label=\"Status: Closed (completed).\" class=\"octicon octicon-issue-closed\" role=\"img\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\" fill=\"currentColor\" display=\"inline-block\" overflow=\"visible\" style=\"vertical-align:text-bottom\"><path d=\"M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z\"></path><path d=\"M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z\"></path></svg></span><span class=\"prc-Text-Text-9mHv3\">[Announcement] Raising the minimum supported version of Deno to v2.3.0</span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-042e09d3ce73a0f383df405e999d5d86",
 			"title": "Output/convert metadata to Jellyfin/Emby/Plex-compatible .nfo files",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16837",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">Output/convert metadata to Jellyfin/Emby/Plex-compatible .nfo files</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-1f478531d0aaaca388f263f3d9316eea",
 			"title": "RTP (Rádio e Televisão de Portugal): subtitles not detected/downloaded",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16836",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">RTP (Rádio e Televisão de Portugal): subtitles not detected/downloaded</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-98d69b0182f9cb1b74ed13cdfa6c11b4",
 			"title": "bandcamp: 'station nova' cannot be got",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16613",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">bandcamp: 'station nova' cannot be got</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-c6f19efb11ec093d73007f2214edebac",
 			"title": "YouTube: When using cookies, when premium is detected, the player is downgraded to tv, resulting in no DASH formats being listed",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16226",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">YouTube: When using cookies, when premium is detected, the player is downgraded to tv, resulting in no DASH formats being listed</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-ebc7e93ca734c55757352ab54eefb91c",
 			"title": "SponsorBlock segment outside of video range makes video longer",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/15716",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">SponsorBlock segment outside of video range makes video longer</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-23acbb2a22b98c9d656763aaac14cff8",
 			"title": "Server-side ad injection in megaphone.fm hosted podcasts",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/15241",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">Server-side ad injection in megaphone.fm hosted podcasts</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-27817f0c0de282aca6f0e55441710c3a",
 			"title": "Support Duktape as external JS runtime (YouTube JS challenge provider)",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/14689",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">Support Duktape as external JS runtime (YouTube JS challenge provider)</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-e44f73e3033abec43101a801dca224fb",
 			"title": "[CeskaTelevize] HTTP Error 410: Gone",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/14298",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">[CeskaTelevize] HTTP Error 410: Gone</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-201a231131a0067406208cae40e71069",
 			"title": "Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/13548",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-80d0475c0909ae6b470c6ea45716ffd3",
 			"title": "[iPrima.cz] Unable to extract real id",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/12354",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">[iPrima.cz] Unable to extract real id</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-1ff4d0556df2131734438da2b7948f67",
 			"title": "PBS An extractor error has occurred. (caused by KeyError('title'))",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/12165",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">PBS An extractor error has occurred. (caused by KeyError('title'))</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		},
 		{
 			"id": "link-c68e7b71cce83ba07aa49f3fa3beb36f",
 			"title": "[pbs] An extractor error has occurred. (caused by KeyError('title'))",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/11514",
-			"contents": "<span><span class=\"prc-Text-Text-9mHv3\">[pbs] An extractor error has occurred. (caused by KeyError('title'))</span></span>",
+			"contents": "",
 			"retrieved": 1780674425972
 		}
 	]
