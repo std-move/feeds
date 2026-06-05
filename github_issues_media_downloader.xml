@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/sunecz/Media-Downloader/issues</id>
+    <title>sunecz Media-Downloader issues</title>
+    <updated>2026-06-05T15:55:00.252Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Nelze stahovat z Prima+]]></title>
+        <id>link-7b18b517a3450030505baf93e78902a9</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/76"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Nelze stahovat z Prima+</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problematický kontakt na webu]]></title>
+        <id>link-91cf4b71864376a1402c82b657f4d1ac</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/75"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Problematický kontakt na webu</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPrima]]></title>
+        <id>link-63b14676c4035675c87d6bb56819a7af</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/74"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">iPrima</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Black" theme a respektovat ho v horní části okna]]></title>
+        <id>link-daee9fbeaf74332ffaa86d52c0b50d6b</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/73"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">"Black" theme a respektovat ho v horní části okna</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obnovení pozice a velikosti okna při spuštění]]></title>
+        <id>link-d74c57142d548653e26e6a9b72c56c5f</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/72"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Obnovení pozice a velikosti okna při spuštění</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oneplay]]></title>
+        <id>link-0183cb6e93214d6b1599887413375ab1</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/71"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Oneplay</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sledovanitv.cz - chyba při stahování]]></title>
+        <id>link-ab662597b264cb849f7a32d1e446e28b</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/70"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Sledovanitv.cz - chyba při stahování</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oneplay - nefunguje výběr z více služeb]]></title>
+        <id>link-27de62c411600e963e7802517e0d8e5b</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/67"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Oneplay - nefunguje výběr z více služeb</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jak stáhnout víc jazykových stop ze "sledovanitv" - v dočasném souboru během stahování jsou, v hotovém Merge pak už ne]]></title>
+        <id>link-d83b39b305011cdc94bc35bbda25e7e9</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/63"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Jak stáhnout víc jazykových stop ze "sledovanitv" - v dočasném souboru během stahování jsou, v hotovém Merge pak už ne</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg pro Win7 s verzí 00.02.09-dev.26]]></title>
+        <id>link-4887a17840eb7de457adf041207b77c2</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/62"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">FFmpeg pro Win7 s verzí 00.02.09-dev.26</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Česká televize - DRM chráněné video - problém při dekódování]]></title>
+        <id>link-116fd82ffdbd920efe059b98e20bf302</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/59"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Česká televize - DRM chráněné video - problém při dekódování</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muxing s mkvmerge]]></title>
+        <id>link-158aa73d782af1ffc4d008af00b00d4a</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/58"/>
+        <updated>2026-06-05T15:52:59.571Z</updated>
+        <content type="html"><![CDATA[<span><span class="prc-Text-Text-9mHv3">Muxing s mkvmerge</span></span>]]></content>
+    </entry>
+</feed>
