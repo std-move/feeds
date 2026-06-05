@@ -328,3 +328,18 @@ entrySelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/ances
 linkSelector = "a"
 titleSelector = "a"
 
+[github_commits_jdownloader_alldebrid]
+title = "JD2 AllDebridCom history"
+url = "https://github.com/mycodedoesnotcompile2/jdownloader_mirror/commits/main/svn_trunk/src/jd/plugins/hoster/AllDebridCom.java"
+waitForSelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/ancestor::li"
+entrySelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/ancestor::li"
+linkSelector = "a"
+titleSelector = "a"
+
+[github_commits_jdownloader_debridlink]
+title = "JD2 DebridLinkCom history"
+url = "https://github.com/mycodedoesnotcompile2/jdownloader_mirror/commits/main/svn_trunk/src/jd/plugins/hoster/DebridLinkCom.java"
+waitForSelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/ancestor::li"
+entrySelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/ancestor::li"
+linkSelector = "a"
+titleSelector = "a"
