@@ -309,6 +309,7 @@ waitForSelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href,
 entrySelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href, '/issues/new'))]"
 linkSelector = "*"
 titleSelector = "*"
+contentSelector = []
 
 [github_issues_media_downloader]
 title = "sunecz Media-Downloader issues"
@@ -317,3 +318,13 @@ waitForSelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href,
 entrySelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href, '/issues/new'))]"
 linkSelector = "*"
 titleSelector = "*"
+contentSelector = []
+
+[github_commits_jdownloader_webshare]
+title = "JD2 WebShareCz history"
+url = "https://github.com/mycodedoesnotcompile2/jdownloader_mirror/commits/main/svn_trunk/src/jd/plugins/hoster/WebShareCz.java"
+waitForSelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/ancestor::li"
+entrySelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/ancestor::li"
+linkSelector = "a"
+titleSelector = "a"
+
