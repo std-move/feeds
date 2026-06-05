@@ -310,3 +310,10 @@ entrySelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href, '
 linkSelector = "*"
 titleSelector = "*"
 
+[github_issues_media_downloader]
+title = "sunecz Media-Downloader issues"
+url = "https://github.com/sunecz/Media-Downloader/issues"
+waitForSelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href, '/issues/new'))]"
+entrySelector = "xpath=//a[contains(@href, '/issues/') and not(contains(@href, '/issues/new'))]"
+linkSelector = "*"
+titleSelector = "*"
