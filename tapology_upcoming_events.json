@@ -4,17 +4,10 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png",
 	"elements": [
 		{
-			"id": "link-9c2aa8474639603c67b5d10eb934224e",
-			"title": "Padley vs. Fiaz — 2026-06-06 10:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/141251-smith-vs-puello",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/141251-smith-vs-puello\">Padley vs. Fiaz</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-06 10:00:00 -0400\">3 hours ago</abbr>\n</td>",
-			"retrieved": 1779968787177
-		},
-		{
 			"id": "link-6abc3cc2027a65a839c7643219461b66",
 			"title": "UFC Fight Night — 2026-06-06 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-06 17:00:00 -0400\">in 3 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140934-ufc-fight-night-muhammad-vs-bonfim\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-06 17:00:00 -0400\">in 1 hour</abbr>\n</td>",
 			"retrieved": 1780096378498
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/143594-cage-warriors-206-unplugged",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143594-cage-warriors-206-unplugged\">Cage Warriors 206</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-19 12:00:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1780766105165
+		},
+		{
+			"id": "link-484108c4868ab54a5e9985ccc1b7c19c",
+			"title": "LFA 235 — 2026-06-19 20:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/143194-lfa-235-barzilay-vs-ward",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143194-lfa-235-barzilay-vs-ward\">LFA 235</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-19 20:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1780773815524
 		}
 	]
 }
