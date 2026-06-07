@@ -6,7 +6,7 @@
 		{
 			"id": "title-b38a55ae8fb6c537e5037d9a4f95a0e8",
 			"title": "v4.0.123",
-			"contents": "<strong>v4.0.123</strong> (05 June 2026)<br>\n            + Improved cleanup : Chrome, chromium...<br>\n            + Improved cleanup : Firefox<br>\n            + Improved cleanup : Web Browsers (portable version)<br> \n            + Improved automatic cleanups<br> \n            + Improved cleanup : cookies<br>\n            + New cleanup : Helium Browser<br>\n            + New cleanup : Powershell ISE<br>",
+			"contents": "<strong>v4.0.123</strong> (05 June 2026)<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Improved cleanup : Firefox...<br>\n            + Improved cleanup : Web Browsers (portable version)<br> \n            + Improved automatic cleanups<br> \n            + Improved cleanup : cookies<br>\n            + New cleanup : Helium Browser<br>\n            + New cleanup : Powershell ISE<br>",
 			"retrieved": 1780674425972
 		},
 		{
