@@ -4,6 +4,13 @@
 	"favicon": "https://github.githubassets.com/favicons/favicon.svg",
 	"elements": [
 		{
+			"id": "link-95e30f9dcdfb1200e47c323a504ee1c7",
+			"title": "URL download from CT24/CTsport/subdomains of ceskatelevize.cz",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/78",
+			"contents": "",
+			"retrieved": 1781028363411
+		},
+		{
 			"id": "link-7b18b517a3450030505baf93e78902a9",
 			"title": "Nelze stahovat z Prima+",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/76",
@@ -77,13 +84,6 @@
 			"id": "link-116fd82ffdbd920efe059b98e20bf302",
 			"title": "Česká televize - DRM chráněné video - problém při dekódování",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/59",
-			"contents": "",
-			"retrieved": 1780674779571
-		},
-		{
-			"id": "link-158aa73d782af1ffc4d008af00b00d4a",
-			"title": "Muxing s mkvmerge",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/58",
 			"contents": "",
 			"retrieved": 1780674779571
 		}
