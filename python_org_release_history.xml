@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.python.org/downloads/</id>
     <title>Python.org release history</title>
-    <updated>2026-06-10T12:59:27.469Z</updated>
+    <updated>2026-06-10T17:01:00.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.python.org/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Python 3.14.6 — June 10, 2026]]></title>
+        <id>link-853188a0e91231ea9b45d6a4181e9a40</id>
+        <link href="https://docs.python.org/release/3.14.6/whatsnew/changelog.html"/>
+        <updated>2026-06-10T16:58:57.401Z</updated>
+        <content type="html"><![CDATA[<a href="/downloads/release/python-3146/">Python 3.14.6</a> — June 10, 2026 — <a href="/downloads/release/python-3146/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.14.6/whatsnew/changelog.html">Release notes</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.14.5 — May 10, 2026]]></title>
         <id>link-adedc6de3bc74d68a0c32195c11350aa</id>
@@ -242,12 +249,5 @@
         <link href="https://docs.python.org/release/3.12.0/whatsnew/changelog.html#python-3-12-0"/>
         <updated>2026-02-07T20:33:16.888Z</updated>
         <content type="html"><![CDATA[<a href="/downloads/release/python-3120/">Python 3.12.0</a> — Oct. 2, 2023 — <a href="/downloads/release/python-3120/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.12.0/whatsnew/changelog.html#python-3-12-0">Release notes</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.11.15 — March 3, 2026]]></title>
-        <id>link-21cee57552ae885b9d0578504714a284</id>
-        <link href="https://docs.python.org/release/3.11.15/whatsnew/changelog.html"/>
-        <updated>2026-03-03T02:09:47.318Z</updated>
-        <content type="html"><![CDATA[<a href="/downloads/release/python-31115/">Python 3.11.15</a> — March 3, 2026 — <a href="/downloads/release/python-31115/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.11.15/whatsnew/changelog.html">Release notes</a>]]></content>
     </entry>
 </feed>
