@@ -11,18 +11,18 @@
 			"retrieved": 1780674425972
 		},
 		{
-			"id": "link-654bdcfa0e262ffb7c615970f35f4cdc",
-			"title": "[Announcement] Bun support is now limited and deprecated",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+			"id": "link-634ad95a8b766bc4a62eca85e02a3f72",
+			"title": "[Announcement] Dropping support for Python 3.10",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16916",
 			"contents": "",
-			"retrieved": 1780674425972
+			"retrieved": 1781078891407
 		},
 		{
-			"id": "link-d05796f7875789368d4984135c282c02",
-			"title": "[Announcement] Raising the minimum supported version of Deno to v2.3.0",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/16767",
+			"id": "link-82704a01d584d5b5f31e5ac8e650882a",
+			"title": "[Announcement] Windows executables will require Win10+ starting in October",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16917",
 			"contents": "",
-			"retrieved": 1780674425972
+			"retrieved": 1781078891407
 		},
 		{
 			"id": "link-042e09d3ce73a0f383df405e999d5d86",
