@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-83b281623017734ddccf55b308135cd3",
+			"title": "▶ RTX 5080 meets Ryzen X3D - our Computex workstation",
+			"link": "https://www.notebookcheck.net/RTX-5080-meets-Ryzen-X3D-our-Computex-workstation-the-Aorus-Master-16.1319377.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1192-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1192-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1192-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1192-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1192-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb1192-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/5/csm_thumb1192_e003eba17b.jpg\" loading=\"lazy\" alt=\"RTX 5080 meets Ryzen X3D - our Computex workstation, the Aorus Master 16\"></picture><div class=\"intro_featured_bar_title\">▶ RTX 5080 meets Ryzen X3D - our Computex workstation</div>",
+			"retrieved": 1781096209422
+		},
+		{
 			"id": "link-ae6c12f846f91bfd4144541e46076763",
 			"title": "Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, SmartCard, Wi-Fi 7 & LTE",
 			"link": "https://www.notebookcheck.net/Schenker-Connect-15-E26-review-Business-laptop-with-a-replaceable-battery-SmartCard-Wi-Fi-7-LTE.1318359.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/The-smartphone-with-a-giant-8-500-mAh-battery-and-a-light-show-Xiaomi-Poco-X8-Pro-Max-review.1316214.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro_Max/aPic_Xiaomi_Poco_X8_Pro_Max-2581-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro_Max/aPic_Xiaomi_Poco_X8_Pro_Max-2581-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro_Max/aPic_Xiaomi_Poco_X8_Pro_Max-2581-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro_Max/aPic_Xiaomi_Poco_X8_Pro_Max-2581-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro_Max/aPic_Xiaomi_Poco_X8_Pro_Max-2581-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8_Pro_Max/aPic_Xiaomi_Poco_X8_Pro_Max-2581-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/c/csm_aPic_Xiaomi_Poco_X8_Pro_Max-2581_eab9897b49.jpg\" loading=\"lazy\" alt=\"The smartphone with a giant 8,500-mAh battery and a light show - Xiaomi Poco X8 Pro Max review\"></picture><div class=\"intro_featured_bar_title\">High-end SoC in the mid-range segment - Poco X8 Pro Max review</div>",
 			"retrieved": 1780860176478
-		},
-		{
-			"id": "link-72381e039fbbdb38acde8d0c6ef71b55",
-			"title": "▶ Acer @Computex2026 - cheap laptops, exciting handhelds",
-			"link": "https://www.notebookcheck.net/Acer-Computex2026-cheap-laptops-exciting-handhelds.1316687.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb25-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb25-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb25-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb25-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb25-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb25-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/6/csm_thumb25_6646b10f6a.jpg\" loading=\"lazy\" alt=\"Acer @Computex2026 - cheap laptops, exciting handhelds\"></picture><div class=\"intro_featured_bar_title\">▶ Acer @Computex2026 - cheap laptops, exciting handhelds</div>",
-			"retrieved": 1780758958458
 		}
 	]
 }
