@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.python.org/downloads/</id>
     <title>Python.org release history</title>
-    <updated>2026-06-10T17:01:00.343Z</updated>
+    <updated>2026-06-10T20:33:01.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.python.org/static/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://docs.python.org/3.14/whatsnew/3.14.html"/>
         <updated>2026-02-07T20:33:16.888Z</updated>
         <content type="html"><![CDATA[<a href="/downloads/release/python-3140/">Python 3.14.0</a> — Oct. 7, 2025 — <a href="/downloads/release/python-3140/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/3.14/whatsnew/3.14.html">Release notes</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.13.14 — June 10, 2026]]></title>
+        <id>link-30326af187ea053e9dc74d0cd06e0bad</id>
+        <link href="https://docs.python.org/release/3.13.14/whatsnew/changelog.html"/>
+        <updated>2026-06-10T20:30:44.365Z</updated>
+        <content type="html"><![CDATA[<a href="/downloads/release/python-31314/">Python 3.13.14</a> — June 10, 2026 — <a href="/downloads/release/python-31314/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.13.14/whatsnew/changelog.html">Release notes</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.13.13 — April 7, 2026]]></title>
@@ -242,12 +249,5 @@
         <link href="https://docs.python.org/release/3.12.1/whatsnew/changelog.html#python-3-12-1"/>
         <updated>2026-02-07T20:33:16.888Z</updated>
         <content type="html"><![CDATA[<a href="/downloads/release/python-3121/">Python 3.12.1</a> — Dec. 8, 2023 — <a href="/downloads/release/python-3121/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.12.1/whatsnew/changelog.html#python-3-12-1">Release notes</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.12.0 — Oct. 2, 2023]]></title>
-        <id>link-7097e01bc96ab843ec5de7ab7aaa975d</id>
-        <link href="https://docs.python.org/release/3.12.0/whatsnew/changelog.html#python-3-12-0"/>
-        <updated>2026-02-07T20:33:16.888Z</updated>
-        <content type="html"><![CDATA[<a href="/downloads/release/python-3120/">Python 3.12.0</a> — Oct. 2, 2023 — <a href="/downloads/release/python-3120/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.12.0/whatsnew/changelog.html#python-3-12-0">Release notes</a>]]></content>
     </entry>
 </feed>
