@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-06-10T23:27:11.747Z</updated>
+    <updated>2026-06-11T04:01:42.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -22,6 +22,12 @@
         <id>link-82704a01d584d5b5f31e5ac8e650882a</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/16917"/>
         <updated>2026-06-10T08:08:11.407Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Pornhub] Error 403 on downloads.]]></title>
+        <id>link-2cdebf7a6c616c469071a5cb311e00ea</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/16860"/>
+        <updated>2026-06-11T03:59:41.457Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Output/convert metadata to Jellyfin/Emby/Plex-compatible .nfo files]]></title>
@@ -87,12 +93,6 @@
         <title type="html"><![CDATA[PBS An extractor error has occurred. (caused by KeyError('title'))]]></title>
         <id>link-1ff4d0556df2131734438da2b7948f67</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/12165"/>
-        <updated>2026-06-05T15:47:05.972Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[pbs] An extractor error has occurred. (caused by KeyError('title'))]]></title>
-        <id>link-c68e7b71cce83ba07aa49f3fa3beb36f</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/11514"/>
         <updated>2026-06-05T15:47:05.972Z</updated>
     </entry>
 </feed>

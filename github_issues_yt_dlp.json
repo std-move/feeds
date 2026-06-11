@@ -25,6 +25,13 @@
 			"retrieved": 1781078891407
 		},
 		{
+			"id": "link-2cdebf7a6c616c469071a5cb311e00ea",
+			"title": "[Pornhub] Error 403 on downloads.",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16860",
+			"contents": "",
+			"retrieved": 1781150381457
+		},
+		{
 			"id": "link-042e09d3ce73a0f383df405e999d5d86",
 			"title": "Output/convert metadata to Jellyfin/Emby/Plex-compatible .nfo files",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16837",
@@ -98,13 +105,6 @@
 			"id": "link-1ff4d0556df2131734438da2b7948f67",
 			"title": "PBS An extractor error has occurred. (caused by KeyError('title'))",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/12165",
-			"contents": "",
-			"retrieved": 1780674425972
-		},
-		{
-			"id": "link-c68e7b71cce83ba07aa49f3fa3beb36f",
-			"title": "[pbs] An extractor error has occurred. (caused by KeyError('title'))",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/11514",
 			"contents": "",
 			"retrieved": 1780674425972
 		}
