@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information</id>
     <title>Windows 11 - current update revisions</title>
-    <updated>2026-06-11T14:01:48.021Z</updated>
+    <updated>2026-06-11T17:42:34.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://learn.microsoft.com/en-us/windows/release-health/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2026-05-26 — 26H1 — General Availability Channel — 28000.2179 — 2026-05 D]]></title>
-        <id>title-4941a637b7b5082bec7865c7aea92bb6</id>
+        <title type="html"><![CDATA[2026-06-09 — 26H1 — General Availability Channel — 28000.2269 — 2026-06 B]]></title>
+        <id>title-b83d89b9f9da4c6c27cbb99239f3c9be</id>
         <link href="https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information?link_extraction_failed=true"/>
-        <updated>2026-06-04T14:45:30.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5089570" target="_blank" data-linktype="external">2026-05 D</a> — 2026-05-26 — 28000.2179]]></content>
+        <updated>2026-06-11T17:40:16.303Z</updated>
+        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5095051" target="_blank" data-linktype="external">2026-06 B</a> — 2026-06-09 — 28000.2269]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026-05-26 — 25H2 — General Availability Channel — 26200.8524 — 2026-05 D]]></title>
-        <id>title-fe4b2514137558fba58d82075939b3e0</id>
+        <title type="html"><![CDATA[2026-06-09 — 25H2 — General Availability Channel — 26200.8655 — 2026-06 B]]></title>
+        <id>title-1c4f5e561dee34e1b5ec5f734e047861</id>
         <link href="https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information?link_extraction_failed=true"/>
-        <updated>2026-06-04T14:45:30.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5089573" target="_blank" data-linktype="external">2026-05 D</a> — 2026-05-26 — 26200.8524]]></content>
+        <updated>2026-06-11T17:40:16.303Z</updated>
+        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5094126" target="_blank" data-linktype="external">2026-06 B</a> — 2026-06-09 — 26200.8655]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026-05-26 — 24H2 — General Availability Channel — 26100.8524 — 2026-05 D]]></title>
-        <id>title-4e97b7cab3f79effae7827e180c2f56a</id>
+        <title type="html"><![CDATA[2026-06-09 — 24H2 — General Availability Channel — 26100.8655 — 2026-06 B]]></title>
+        <id>title-8a5e836e5ad5dc5cc1d10c8a172ce9fc</id>
         <link href="https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information?link_extraction_failed=true"/>
-        <updated>2026-06-04T14:45:30.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5089573" target="_blank" data-linktype="external">2026-05 D</a> — 2026-05-26 — 26100.8524]]></content>
+        <updated>2026-06-11T17:40:16.303Z</updated>
+        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5094126" target="_blank" data-linktype="external">2026-06 B</a> — 2026-06-09 — 26100.8655]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026-05-12 — 23H2 — General Availability Channel — 22631.7079 — 2026-05 B]]></title>
-        <id>title-76c27f7060e8a4a3de520e5e7bd4ed17</id>
+        <title type="html"><![CDATA[2026-06-09 — 23H2 — General Availability Channel — 22631.7219 — 2026-06 B]]></title>
+        <id>title-c99c962cfc4a24283ad69efca15b2c6c</id>
         <link href="https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information?link_extraction_failed=true"/>
-        <updated>2026-06-04T14:45:30.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5087420" target="_blank" data-linktype="external">2026-05 B</a> — 2026-05-12 — 22631.7079]]></content>
+        <updated>2026-06-11T17:40:16.303Z</updated>
+        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5093998" target="_blank" data-linktype="external">2026-06 B</a> — 2026-06-09 — 22631.7219]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026-05-26 — 24H2 — Long-Term Servicing Channel (LTSC) — 26100.8524 — 2026-05 D]]></title>
-        <id>title-04d7a09bbb17bf3b15b2b68010df08ff</id>
+        <title type="html"><![CDATA[2026-06-09 — 24H2 — Long-Term Servicing Channel (LTSC) — 26100.8655 — 2026-06 B]]></title>
+        <id>title-63cefd6dd466b24502b0c16aab614572</id>
         <link href="https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information?link_extraction_failed=true"/>
-        <updated>2026-06-04T14:45:30.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5089573" target="_blank" data-linktype="external">2026-05 D</a> — 2026-05-26 — 26100.8524]]></content>
+        <updated>2026-06-11T17:40:16.303Z</updated>
+        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5094126" target="_blank" data-linktype="external">2026-06 B</a> — 2026-06-09 — 26100.8655]]></content>
     </entry>
 </feed>
