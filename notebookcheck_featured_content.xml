@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-06-12T16:46:47.993Z</updated>
+    <updated>2026-06-12T20:13:23.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Enable LDAC: How to get better sound quality from Bluetooth headphones (using the Marshall Milton as an example)]]></title>
+        <id>link-0574c8e1e63800ad0e06ab199952b9ca</id>
+        <link href="https://www.notebookcheck.net/Enable-LDAC-How-to-get-better-sound-quality-from-Bluetooth-headphones-using-the-Marshall-Milton-as-an-example.1320198.0.html"/>
+        <updated>2026-06-12T20:11:19.924Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/LDAC-use-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/LDAC-use-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/LDAC-use-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/LDAC-use-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/LDAC-use-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/LDAC-use-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/f/csm_LDAC-use_307081590d.png" loading="lazy" alt="Smartphone streams Hi-Res music onto headphones"></picture><div class="intro_featured_bar_title">Enable LDAC: How to get better sound quality from Bluetooth headphones (using the Marshall Milton as an example)</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU AI Eustella tested: How it performs for coding, tabletop RPG planning, and everyday tasks]]></title>
         <id>link-17990fe1a49c0b4b9e9f9bec4ef9db4a</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Nvidia-RTX-Spark-laptops-something-new-or-just-more-of-the-same.1320154.0.html"/>
         <updated>2026-06-11T17:40:16.303Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5166-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5166-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5166-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5166-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5166-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb5166-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/6/csm_thumb5166_6df6c626a1.jpg" loading="lazy" alt="Nvidia RTX Spark laptops - something new, or just more of the same?"></picture><div class="intro_featured_bar_title">▶ Nvidia RTX Spark laptops - something new, or just more of the same?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardly any lighter: MSI Prestige 13 AI+ review]]></title>
-        <id>link-6163c4b5909804edf2dcfdb3a4961750</id>
-        <link href="https://www.notebookcheck.net/MSI-Prestige-13-AI-laptop-review-The-perfect-companion-for-on-the-go.1318523.0.html"/>
-        <updated>2026-06-11T08:52:11.419Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Prestige_13_AI2B_A3MG/feature-prestige13b-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Prestige_13_AI2B_A3MG/feature-prestige13b-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige_13_AI2B_A3MG/feature-prestige13b-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Prestige_13_AI2B_A3MG/feature-prestige13b-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige_13_AI2B_A3MG/feature-prestige13b-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/MSI/Prestige_13_AI2B_A3MG/feature-prestige13b-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/4/csm_feature-prestige13b_49e66f7c03.jpg" loading="lazy" alt="MSI Prestige 13 AI+ laptop review: The perfect companion for on the go?"></picture><div class="intro_featured_bar_title">Hardly any lighter: MSI Prestige 13 AI+ review</div>]]></content>
     </entry>
 </feed>
