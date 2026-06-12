@@ -343,3 +343,13 @@ waitForSelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/anc
 entrySelector = "xpath=//a[contains(@href, '/commit/') and ./ancestor::li]/ancestor::li"
 linkSelector = "a"
 titleSelector = "a"
+
+[shottr_release_notes]
+title = "Shottr release notes"
+url = "https://shottr.cc/#section-releasenotes"
+waitForSelector = "#section-releasenotes div.colDate"
+entrySelector = "#section-releasenotes div.colDate"
+titleSelector = ["xpath=./following-sibling::div[contains(@class, 'colVersion')]", ".", "xpathstr=./following-sibling::div[contains(@class, 'colText')]/text()"]
+contentSelector = "xpath=./following-sibling::div[contains(@class, 'colText')]"
+
+
