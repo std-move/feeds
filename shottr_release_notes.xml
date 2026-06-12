@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shottr.cc/#section-releasenotes</id>
+    <title>Shottr release notes</title>
+    <updated>2026-06-12T15:11:02.082Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://shottr.cc/assets/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[v1.9.1 — Dec 17, 2025 — S3 Improvements, minor polishing and bug fixes]]></title>
+        <id>title-481d89119f376e0264a0fbbb5727514d</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[S3 Improvements, minor polishing and bug fixes
+			<br><a href="#" class="showmore gaChangelog181">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Expanded support for third-party S3 services (Tencent, Yandex, Minio, etc).</li>
+					<li>Print dialog now allows changing print orientation.</li>
+					<li>Freehand tool: brought back an ability to draw a point with a single click.</li>
+					<li>Aesthetic adjustments to both hand-drawn and classic rectangle styles.</li>
+				</ul>
+
+				<br>
+				<b>Bug Fixes</b>
+				<ul>
+					<li>Bug fix: the app used to show the editor along with the preview thumbnail when macOS failed to grant the permission to activate the app.</li>
+					<li>Bug fix: S3 upload on the systems with non-gregorian calendar.</li>
+					<li>Bug fix: app freezing on affected computers.</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.9 — Nov 23, 2025 — S3 Upload, Magnifier tool, hand-drawn annotation style, bendable arrows.]]></title>
+        <id>title-4bbf290427c4dcafe9ca343ced51da6c</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[S3 Upload, Magnifier tool, hand-drawn annotation style, bendable arrows.
+			<br><a href="#" class="showmore gaChangelog181">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br>
+				<b>New Features</b>
+				<ul>
+					<li>S3 Upload (any S3-compatible storage).</li>
+					<li>Magnifier tool (zoomed-in callout).</li>
+					<li>Hand-drawn style option for Text, Arrow, Oval and Rectangle objects.</li>
+					<li>Every arrow type can now be bent in an arch.</li>
+					<li>Configurable object snapping (check the Draw menu).</li>
+				</ul>
+
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>All 16 tools are now shown in the toolbar if the window is large enough.</li>
+					<li>Custom-styled Notification could now be dismissed by dragging it out (drag up).</li>
+					<li>Menubar icon shows a quick confirmation animation when copying, saving or uploading files.</li>
+				</ul>
+
+				<br>
+				<b>Bug Fixes</b>
+				<ul>
+					<li>Copy to clipboard may have had a delay on busy computers. Not anymore.</li>
+					<li>The option to prefer large window had an issue in v1.8. It's fixed now, and renamed to Default zoom level: Prefer 100%.</li>
+					<li>On the computers affected by macOS scrolling capture issue, the app should deploy a workaround.</li>
+					<li>Shottr now uses a workaround when macOS blocks its request to activate on hotkey.</li>
+					<li>Fixed a rare crash in the auto-adjust feature when the selection touches the lower edge of the image.</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.8.1 — Nov 28, 2024 — Support for OKLCH and APCA, and a few bug fixes]]></title>
+        <id>title-3b8e79251425293dfce247bd46c2e4c1</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Support for OKLCH and APCA, and a few bug fixes
+			<br><a href="#" class="showmore gaChangelog181">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>OCR prevents accidental appearance of double spaces in the output.</li>
+					<li>Backdrop tool: Shadows rendering algorithm was tweaked to produce a neater shadow for smaller intensity values.</li>
+					<li>Added OKLCH to the list of available colors in the color inspector
+						<img src="/release-files/1-8-1/oklch.webp" style="margin: 4px 0 8px 0; max-width: min(100%, 441px); width: 100%; border-radius: 10px; border: 1px solid rgba(0 0 0 / 10%);">
+					</li>
+					<li>Added APCA measurement to the color contrast checker (switch between the WCGA 2.0 and APCA by Opt+Click on the contrast value)
+						<img src="/release-files/1-8-1/apca.webp" style="margin: 4px 0 8px 0; max-width: min(100%, 441px); width: auto; display: block;  border-radius: 10px; border: 1px solid rgba(0 0 0 / 10%);">
+					</li>
+				</ul>
+				<br>
+				<b>Bug Fixes</b>
+				<ul>
+					<li>Fixed a bug when the previous image would occasionally stay in the clipboard after Cmd+C or Esc.</li>
+					<li>Fixed a bug when the large (a few megapixel) backdrop would take a long time to render on Save or Copy.</li>
+					<li>If on your computer Cmd+Z affects more than one text object at once, that bug is now fixed.</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.8 — Sep 29, 2024 — Backdrop tool: add gradient backgrounds, shadows and rounded corners to your screenshots.]]></title>
+        <id>title-b3d7bd2b5757b7f16a545a6ab295a692</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Backdrop tool: add gradient backgrounds, shadows and rounded corners to your screenshots.
+			<br><a href="#" class="showmore gaChangelog180">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br>
+				<b>New Features</b>
+				<video playsinline="" loop="" autoplay="" muted="" style="max-width:520px; width: 100%; border-radius: 10px; border: 1px solid rgba(0 0 0 / 10%);" src="/kb/content/files/backdrop-preview.mp4"></video>
+				<ul>
+					<li>Backdrop Tool</li>
+					<li>Support for Raycast Extension and Alfred Workflow</li>
+					<li>URL Schemes API: <a href="/kb/urlschemes">more info</a></li>
+				</ul>
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Custom annotation colors</li>
+					<li>More sizes for Text labels, Arrows, and other annotations</li>
+					<li>Setting to hide the splash screen</li>
+					<li>Better handling of thumbnails on top of the Fullscreen windows</li>
+					<li>Numerous smaller improvements and fixes</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.2 — Nov 4, 2023 — Expandable canvas, side-by-side screenshots, and new experimental features]]></title>
+        <id>title-34a057256f41a7f953c854509deac8bd</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Expandable canvas, side-by-side screenshots, and new experimental features]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.1 — July 27, 2023 — Fixed bugs introduced by the recent macOS update]]></title>
+        <id>title-12fb9e9d493ef3d520e652f6d9d01447</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Fixed bugs introduced by the recent macOS update]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.0 — May 28, 2023 — Screenshot resize and new tools: freehand drawing, highlighter and spotlight]]></title>
+        <id>title-b744fd2ff6c0924018c37b6c84eba967</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Screenshot resize and new tools: freehand drawing, highlighter and spotlight
+			<br><a href="#" class="showmore gaChangelog170">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br>
+				<b>New Features</b>
+				<video playsinline="" loop="" autoplay="" muted="" style="max-width:520px; width: 100%;" src="/kb/content/files/v170-teaser.mp4"></video>
+				<ul>
+					<li>Freehand Drawing tool (change stroke variability with cmd+enter, smoothness with opt+up/down)</li>
+					<li>Text Highlighter tool (change cap style with cmd+enter)</li>
+					<li>Spotlight tool (change background opacity with keys 1..9)</li>
+					<li>Image resizer (click on the image size in the upper right corner)</li>
+					<li>An option to hide the menubar icon (only available with the license)</li>
+					<li>A button to remove linebreaks from the OCR text after it was recognized, and a setting to remove
+						linebreaks by default
+						<img src="/kb/content/files/v170-cutbreaks.png" style="max-width: min(100%, 441px); widtth: 100%;">
+					</li>
+				</ul>
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Fixed an issue when scrolling capture would include a cursor in the middle of the screenshot on some
+						computers</li>
+					<li>Scroll Capture will show a message if it fails to scroll, or if it reaches the max-height limit</li>
+					<li>A setting to reverse auto-scroll direction (may help if you're using an app like Scroll Reverser)</li>
+					<li>Ability to blur selected area by pressing key B</li>
+					<li>The editor window now always opens on the screen on which the screenshot was taken</li>
+					<li>Holding Shift while selecting the image area will produce a square selection</li>
+					<li>Starting the app when it's already running will bring the original app forward instead of showing the
+						message</li>
+					<li>If your Shottr icon is pinned in the dock, clicking on it when the app is running but the window is
+						closed will open up the editor</li>
+					<li>Semi-transparent pinned screenshot doesn't have a shadow now. Convenient for overlay comparison.</li>
+					<li>Fixed a bug when the Max Scrolling Height won't persist after the app relaunch</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.6.2 — February 25, 2023 — Auto-update functionality, new in-app shortcuts, scroll-to resize pinned windows, and more.]]></title>
+        <id>title-99233fd53961ea70449f85f087809cd2</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Auto-update functionality, new in-app shortcuts, scroll-to resize pinned windows, and more.
+			<br><a href="#" class="showmore gaChangelog162">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br>
+				<b>New Features</b>
+				<ul>
+					<li>Auto-update functionality</li>
+				</ul>
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Preview thumbnail now opens on top of the Fullscreen and Stage Manager windows
+					</li><li>Added fill/opacity control to the  Rectangle and Oval instruments
+					</li><li>Pinned screenshots can be resized with scroll</li>
+					<li>New editor shortcuts: Cmd+Shift+O to open a file, and Cmd+Shift+V to load image from the clipboard</li>
+					<li>Save As shortcut (Cmd+Shift+S) now works in the preview thumbnail as well</li>
+					<li>When you selected an annotation object, it goes to the frontmost level, on top of other drawings</li>
+					<li>Size slider changes objects in real-time</li>
+					<li>BUG Fix: text editing and resizing now works properly on all zoom levels</li>
+					<li>Fixed an issue when a part of the mouse cursor would show up in the corner of the area-capture screenshot</li>
+					<li>Automatic filename timecode changed from alphanumeric to alphabetic, files will now be properly chronologically sorted when sorting by name in Finder</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.6.1 — October 22, 2022 — Pinned thumbnail, hotkey for "Capture Any Window", auto-padding button, improved work with the third-party clipboard managers.]]></title>
+        <id>title-978429c9b45d239c642be91445b18101</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Pinned thumbnail, hotkey for "Capture Any Window", auto-padding button, improved work with the third-party clipboard managers.
+			<br><a href="#" class="showmore gaChangelog161">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br>
+				<b>New Features</b>
+				<ul>
+					<li>A setting to keep the preview thumbnail up until you use the image, or close the thumbnail.</li>
+					<li>Ability to assign hotkeys to "Capture Any Window" and "Reopen Shottr" actions.</li>
+					<li>A button to quickly add padding to selection marquee (convinient after applying Autoadjust):
+						<video playsinline="" loop="" autoplay="" muted="" style="max-width:520px; width: 100%;" src="release-files/1-6-1/crop-paddings.mp4"></video>
+					</li>
+					<li>Click on a selection marquee edge to auto-adjust this edge only.</li>
+				</ul>
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Fixed a bug when Pinned screenshot will display at 50% on low-dpi displays.</li>
+					<li>Some clipboard managers used to miss certain screenshots copied by Shottr. This should not be happening any more.</li>
+					<li>Saving retina images with 144dpi when applicable.</li>
+					<li>A more prominent notification about the new version.</li>
+					<li>If you drag-and-drop image onto the app like Yoink or Dropover, the file will remain available after the new screenshot is done.</li>
+					<li>Increased max scrolling screenshot height limit to 200,000px (it's still set to 20,000px by default).</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.6.0 — September 4, 2022 — Pin screenshots, image overlays, new confirmations.]]></title>
+        <id>title-892317331d55e33af8d7f1c59112266b</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Pin screenshots, image overlays, new confirmations.
+			<br><a href="#" class="showmore gaChangelog160">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br><b>New Features</b>
+				<ul>
+					<li>Pin screenshots: ability to pin the image as a floating always-on-top window.</li>
+					<li>Image overlay: paste images on top of the screenshot.</li>
+					<li>Before/after gifs. Quickly create two-frame animations (paste an "after" image on top of the "before" screengrab, press "5" to enable transpaency, align frames and hit the GIF icon in the top right corner of the app):
+						<video playsinline="" loop="" autoplay="" muted="" style="max-width:520px; width: 100%;" src="release-files/1-6-0/gif-short.mp4"></video></li>
+				</ul>
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Custom confirmations for OCR, Color Copy, Save and Upload, and an option to turn off notifications completely. System notifications are available in the app settings, but they will only work if Shottr is allowed to show them (System Preferences → Notifications)
+						<img src="release-files/1-6-0/notification.png" style="max-width:381px; widtth: 100%;"></li>
+					<li>Added customizable shortcut for the Repeat Area capture.</li>
+					<li>More robust DPI detection when working with Retina and Non-retina monitors at the same time.</li>
+					<li>Undo/Redo now available from the menu as well.</li>
+					<li>Improved Text-only erase and pixelation accuracy for Chinese.</li>
+					<li>Fixes Text label rendering bug intrpduced by macOS Ventura Beta 4.</li>
+				</ul>
+
+				<br>
+				<b>Important Changes</b>
+				<br>
+				Upload button is removed from the toolbar. The feature is still available through the menu and with the shortcuts (Cmd+E, F2)
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.5.4 — July 17, 2022 — Text-only blur/erase, step counter tool, opt+drag duplication and uploaded files management.]]></title>
+        <id>title-9d4d3c060a33a8ac53b22d22144fae9b</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Text-only blur/erase, step counter tool, opt+drag duplication and uploaded files management.
+			<br><a href="#" class="showmore gaChangelog154">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br><b>New Features</b>
+				<ul>
+					<li>Added Step counter annotation tool</li>
+					<li>Text-only mode for Blur/Erase tool
+						<video playsinline="" loop="" autoplay="" muted="" style="max-width:520px; width: 100%;" src="/kb/content/files/text-erase.mp4"></video></li>
+					<li>Opt+Drag to duplicate drawings</li>
+					<li>Ability to manage uploaded Screenshots (main menu button)</li>
+				</ul>
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Bug fix: crash with auto-copy/auto-save settings</li>
+					<li>More robust Undo functionality</li>
+					<li>Now Shottr copies PNG instead of TIFF on Esc or Cmd+C</li>
+					<li>Shottr keeps selected tool after the object is created (it's quicker now to add multiple arrows, counters, etc.)</li>
+					<li>Object attributes panel doesn't hide the tool selector</li>
+					<li>Default instrument (Select/Crop) now has a button and a shortcut (V)</li>
+					<li>Text label has a pointy arrow by default</li>
+					<li>Cmd+V and Cmd+D insertion position is more predictable now</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.5.3 — February 10, 2022 — Preview thumbnail for Area Capture, a setting to auto-save or auto-copy the screenshot.]]></title>
+        <id>title-b63bfd11cd66427d6caebb2d515d1591</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Preview thumbnail for Area Capture, a setting to auto-save or auto-copy the screenshot.
+			<br><a href="#" class="showmore gaChangelog153">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br><b>New Features</b>
+				<ul>
+					<li>A setting to automatically Copy and/or Save the image after screenshot. </li>
+					<li>A setting to show Preview instead of the Editor after the Area Capture.
+						<video playsinline="" loop="" autoplay="" muted="" style="max-width:520px; width: 100%;" src="/kb/content/Shottr%20Beta/Screen%20Recording%202022-01-30%20at%201-46-20%20PM_gifv.mp4"></video></li>
+					<li>Quick zoom by Z+Drag (press Z and drag your mouse around the area that you want to zoom in).</li>
+				</ul>
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Ability to open files and load clipboard images from the main menu (Shottr icon → More → Open File.)</li>
+					<li>Hold CMD while drawing an arrow to reverse its deirection</li>
+					<li>When part of the image is selected, Cmd+C now copies the selection only, and doesn’t close the window.</li>
+					<li>Drag’n’drop now applies the same settings as regular save (PNG/Jpeg, 1x downscale).</li>
+					<li>Default Folder selection dialogue allows to create New Folder.</li>
+					<li>More robust checking for Screen Recording permissions.</li>
+					<li>Bug fix: Scrolling Capture now works fine when the Hot Corners are enabled.</li>
+					<li>Bug fix: Cmd+C used to rely on the Esc button settings.</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.5.2 — January 9, 2022 — Colors and styles for drawings, narrow and curved arrows, guides, convenience settings, QR reader, open PNG and Jpeg, Repeat Area screenshot, Delayed screenshot.]]></title>
+        <id>title-27e58d50efa80bad83b816d149a189a3</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Colors and styles for drawings, narrow and curved arrows, guides, convenience settings, QR reader, open PNG and Jpeg, Repeat Area screenshot, Delayed screenshot.
+			<br><a href="#" class="showmore gaChangelog152">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br><b>New Features</b>
+				<ul>
+					<li>Ability to change object styling (color, thickness, line style, pixelation level, etc)	</li>
+					<li>Setting to change behavior of the Escape button when nothing is selected (options to Copy image and/or Save image)	</li>
+					<li>Setting to open Shottr window bigger by default. When selected, the app starts at 80% zoom for the fullscreen screenshot, and area screenshots will open at 100% zoom more often	</li>
+					<li>Setting to turn on/off telemetry collection. Please consider leaving this checkbox on, at least for a while, so that I can verify the app runs smoothly and no exceptions are thrown across variety of devices and OS versions	</li>
+					<li>Ability to open a PNG or Jpeg file in Shottr via the “Open With” context menu. The app needs to be copied to the Application folder for that feature to work. If you save the opened file, it will override the original file	</li>
+					<li>You can also open the image file through the “File” → “Open File” menu item	</li>
+					<li>QR Reader: Text Recognition now detects and decodes QR codes	</li>
+					<li>Guides: hold Opt+S or Opt+D to show a vertical or horizontal guide, click to imprint it on the image	</li>
+					<li>Cmd+C / Cmd+V now works for the annotation objects	</li>
+					<li>Chinese language is supported in Text Recognition. You need to select Chinese as your primary language in the Preferences (Advanced tab)	</li>
+					<li>Added Repeat Area Screenshot – it will retake screenshot of the previously selected area	</li>
+					<li>Added Delayed Screenshot (3s delay)	</li>
+				</ul>
+				<br><b>Improvements</b>
+				<ul>
+					<li>Arrow tool improvements. Longer arrows are now slimmer, more styles are available, including curved arrows and super-slim arrows.	</li>
+					<li>Hold space while drawing an object to move it around.	</li>
+					<li>If you start taking an area capture and hit Esc in the process, the window won’t pop up.	</li>
+					<li>Pixelation algo produces a more uniform pattern, works a tad faster too.	</li>
+					<li>Pixelation on small areas scrambles pixels for better protection.	</li>
+					<li>Improved Ruler rendering on non-retina displays (crisper look).	</li>
+					<li>Window screenshot with Wallpaper or Solid background now have proportionate top and bottom paddings.	</li>
+					<li>Addressed an issue when the cursor is occasionally imprinted in the scrolling screenshot.	</li>
+					<li>Cosmetic improvements to the object handling knobs and helper popovers.	</li>
+					<li>Added new color format: HEX without the sharp (#) character.	</li>
+					<li>Improved stability when doing Cmd+Click raster selection on area screenshots.	</li>
+					<li>Window Screenshot better process edge case scenarios and allows you to select window is Shottr can’t identify which window is currently active.	</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.5.1 — October 6, 2021 — Added an ability to Drag'n'Drop screenshot file to the other applications and a setting to downscale retina screenshots.]]></title>
+        <id>title-f623e5204a66e018529fa7cf8504212d</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Added an ability to Drag'n'Drop screenshot file to the other applications and a setting to downscale retina screenshots.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.5.0 — September 21, 2021 — Scrolling screenshots, objects removal, preferences, and more.]]></title>
+        <id>title-5bb0e67a5446bdb07a275b3fe12bd0cf</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Scrolling screenshots, objects removal, preferences, and more.
+			<br><a href="#" class="showmore gaChangelog150">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br><b>Major Features</b>
+				<ul>
+					<li>Scrolling Capture (up and down)</li>
+					<li>Area capture</li>
+					<li>Active window capture</li>
+					<li>Instant text recognition</li>
+					<li>Objects Removal (selection + Delete)</li>
+				</ul>
+				<br><b>Preferences</b>
+				<ul>
+					<li>Hotkeys customization</li>
+					<li>Window Capture modes: keep shadow on a transparent background, trim window shadow, keep shadow on a solid background, keep shadow over a wallpaper</li>
+					<li>Color format setting (click on the current pixel color box in the toolbar)</li>
+					<li>Auto format selection setting for Cmd+S: Shottr will save images with lots of text as PNG and choose JPEG if the screenshot is graphic-heavy</li>
+					<li>A setting to keep the main window always on top</li>
+				</ul>
+				<br><b>Other Improvements</b>
+				<ul>
+					<li>Cmd+Z / Cmd+Shift+Z for Undo/Redo</li>
+					<li>Menu "Edit" → "Reset Crop" undoes cropping</li>
+					<li>Hitting Tab while editing text label will add color under the cursor to the label’s text</li>
+					<li>The main window is now resizable and supports fullscreen</li>
+					<li>Ability to drag’n’drop file on the main window canvas to open an image</li>
+					<li>If you’re using multiple spaces,  the main window will now open in the active space</li>
+					<li>Trackpad and Magic Mouse zoom is smoother</li>
+					<li>Cmd+Q now shows a dialog asking if the app should close or quit, the selection is remembered</li>
+					<li>Shottr remembers OS permissions to access the selected screenshots folder and doesn’t ask for permissions after each restart</li>
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.4.8 — July 24, 2021 — Shottr was rebuilt from scratch, it's a much smaller and faster app now. Added annotation capabilities.]]></title>
+        <id>title-745642a3012532964822c1d43bb96d56</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Shottr was rebuilt from scratch, it's a much smaller and faster app now. Added annotation capabilities.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.3 — December 19, 2020 — Improved performance of the fullscreen screenshot. Added Cmd+Shift+2 shortcut to grab a part of the screen. Added New Version notification. Improved Ruler — press Shift to get an outer size of the element, click while measuring to imprint the measurement onto the screenshot.]]></title>
+        <id>title-8b4f71b999793747aae3b55410a45a57</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Improved performance of the fullscreen screenshot. Added Cmd+Shift+2 shortcut to grab a part of the screen. Added New Version notification. Improved Ruler — press Shift to get an outer size of the element, click while measuring to imprint the measurement onto the screenshot.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1 — December 6, 2020 — Shottr is now signed and notarized by Apple. Added quick measure tool (arrow keys).]]></title>
+        <id>title-dbaa7651ad6d8b7e814590d0446cf154</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Shottr is now signed and notarized by Apple. Added quick measure tool (arrow keys).]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.0 — November 28, 2020 — Bug fixes (autosave crop issue, toolbar visual glitch); Show icon in the dock when shottr is active.]]></title>
+        <id>title-8df8ad721654f06c6b256c43127d4536</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[Bug fixes (autosave crop issue, toolbar visual glitch); Show icon in the dock when shottr is active.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.1 — September 5, 2020 — The private beta release]]></title>
+        <id>title-d13056351c98fa04d36777d9742c7fb8</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-06-12T15:08:59.016Z</updated>
+        <content type="html"><![CDATA[The private beta release]]></content>
+    </entry>
+</feed>
