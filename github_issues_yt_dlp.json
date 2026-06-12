@@ -100,13 +100,6 @@
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/12354",
 			"contents": "",
 			"retrieved": 1780674425972
-		},
-		{
-			"id": "link-1ff4d0556df2131734438da2b7948f67",
-			"title": "PBS An extractor error has occurred. (caused by KeyError('title'))",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/12165",
-			"contents": "",
-			"retrieved": 1780674425972
 		}
 	]
 }
