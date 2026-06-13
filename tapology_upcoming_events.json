@@ -4,17 +4,10 @@
 	"favicon": "https://www.tapology.com/assets/master/favicon-f9366723b5fb5e949dee9a45d50e871e9c630376184cb1eb7e29fbc6e72c522c.png",
 	"elements": [
 		{
-			"id": "link-6550faee05485c844053e3f2e3b07bc3",
-			"title": "PFL Africa — 2026-06-13 12:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/142300-pfl-africa-2-nigeria",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142300-pfl-africa-2-nigeria\">PFL Africa</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-13 12:00:00 -0400\">in 13 minutes</abbr>\n</td>",
-			"retrieved": 1780135265992
-		},
-		{
 			"id": "link-d81fd2d2eeb53830a956ad9a8a785129",
 			"title": "Bam vs. Vargas — 2026-06-13 16:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142593-bam-vs-vargas",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142593-bam-vs-vargas\">Bam vs. Vargas</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-13 16:00:00 -0400\">in 4 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142593-bam-vs-vargas\">Bam vs. Vargas</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-13 16:00:00 -0400\">in 2 hours</abbr>\n</td>",
 			"retrieved": 1780199614896
 		},
 		{
@@ -35,14 +28,14 @@
 			"id": "link-03ba8377e58489d3188b602c1ef05a4b",
 			"title": "PFL MENA 10 — 2026-06-19 12:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143425-pfl-mena-jeddah",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143425-pfl-mena-jeddah\">PFL MENA 10</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-19 12:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143425-pfl-mena-jeddah\">PFL MENA 10</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-19 12:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1780766105165
 		},
 		{
 			"id": "link-8bf027d5626d31b5b0ff313a9fe537d0",
 			"title": "Cage Warriors 206 — 2026-06-19 12:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143594-cage-warriors-206-unplugged",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143594-cage-warriors-206-unplugged\">Cage Warriors 206</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-19 12:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143594-cage-warriors-206-unplugged\">Cage Warriors 206</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-19 12:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1780766105165
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/135742-oktagon-90",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/135742-oktagon-90\">OKTAGON 90</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-20 11:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1780779905824
+		},
+		{
+			"id": "link-a7567b52f83a3b5a4afb3a35dca9851c",
+			"title": "Cage Warriors 207 — 2026-06-20 11:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/141978-cage-warriors",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/141978-cage-warriors\">Cage Warriors 207</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-06-20 11:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1781371363252
 		}
 	]
 }
