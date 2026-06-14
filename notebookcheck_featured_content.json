@@ -4,6 +4,20 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-0e8bd653300fbb8a3497f4158296663b",
+			"title": "▶ MSI just fixed the thin & light Gaming Laptop!",
+			"link": "https://www.notebookcheck.net/Thin-light-with-upgradable-RAM-MSI-Stealth-16.1321668.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb417841-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb417841-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb417841-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb417841-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb417841-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/thumb417841-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/e/csm_thumb417841_3678d9770c.jpg\" loading=\"lazy\" alt=\"Thin &amp; light with upgradable RAM! - MSI Stealth 16\"></picture><div class=\"intro_featured_bar_title\">▶ MSI just fixed the thin &amp; light Gaming Laptop!</div>",
+			"retrieved": 1781446698743
+		},
+		{
+			"id": "link-004c3c3fd1ab247c118ad32e9820b2ea",
+			"title": "$10 wireless earbuds tested",
+			"link": "https://www.notebookcheck.net/10-solar-headphones-reviewed-Are-the-Solix-SL-510-worth-it.1321363.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/SolixSolarTWS016-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/SolixSolarTWS016-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SolixSolarTWS016-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/SolixSolarTWS016-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SolixSolarTWS016-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/SolixSolarTWS016-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/4/csm_SolixSolarTWS016_78e9b0ddec.jpg\" loading=\"lazy\" alt=\"$10 solar headphones reviewed: Are the Solix SL-510 worth it?\"></picture><div class=\"intro_featured_bar_title\">$10 wireless earbuds tested</div>",
+			"retrieved": 1781446698743
+		},
+		{
 			"id": "link-ad5bc0fa5701040547b766c6b3013748",
 			"title": "OmniBook Ultra 14 Core Ultra X9 review: HP's best subnotebook costs a pretty penny",
 			"link": "https://www.notebookcheck.net/HP-OmniBook-Ultra-14-Core-Ultra-X9-review-Fully-redesigned-and-so-much-better-than-before.1317970.0.html",
@@ -37,20 +51,6 @@
 			"link": "https://www.notebookcheck.net/Oppo-Find-X9s-Pro-Review-Mini-flagship-makes-Galaxy-S26-look-bad-in-key-areas.1316696.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9s_Pro/Oppo_Find_X9s_Pro_Test_12-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9s_Pro/Oppo_Find_X9s_Pro_Test_12-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9s_Pro/Oppo_Find_X9s_Pro_Test_12-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9s_Pro/Oppo_Find_X9s_Pro_Test_12-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9s_Pro/Oppo_Find_X9s_Pro_Test_12-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_X9s_Pro/Oppo_Find_X9s_Pro_Test_12-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/9/csm_Oppo_Find_X9s_Pro_Test_12_88f01aef04.jpg\" loading=\"lazy\" alt=\"Oppo Find X9s Pro Review\"></picture><div class=\"intro_featured_bar_title\">Oppo Find X9s Pro: Compact with Ultra features</div>",
 			"retrieved": 1781236787993
-		},
-		{
-			"id": "link-6d0ebc3ac918da555d5ab2578ecbace1",
-			"title": "Oppo Find N6 review: finally crease-free",
-			"link": "https://www.notebookcheck.net/Oppo-Find-N6-review-finally-crease-free.1318522.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_N6/aPic_Oppo_Find_N6-2847-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_N6/aPic_Oppo_Find_N6-2847-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_N6/aPic_Oppo_Find_N6-2847-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Find_N6/aPic_Oppo_Find_N6-2847-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_N6/aPic_Oppo_Find_N6-2847-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Find_N6/aPic_Oppo_Find_N6-2847-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/7/csm_aPic_Oppo_Find_N6-2847_9bc661d909.jpg\" loading=\"lazy\" alt=\"Oppo Find N6 review: finally crease-free\"></picture><div class=\"intro_featured_bar_title\">Oppo Find N6 review: finally crease-free</div>",
-			"retrieved": 1781236787993
-		},
-		{
-			"id": "link-c26bac1b28110446f112a27d8c2f60aa",
-			"title": "Marshall Milton A.N.C. review: Compact, foldable, and packed with features usually reserved for over-ear headphones",
-			"link": "https://www.notebookcheck.net/Marshall-Milton-A-N-C-review-Compact-foldable-and-packed-with-features-usually-reserved-for-over-ear-headphones.1319878.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Milton-title-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Milton-title-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Milton-title-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Milton-title-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Milton-title-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Milton-title-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/b/csm_Milton-title-1_1ab03ba91d.jpg\" loading=\"lazy\" alt=\"Marshall Milton hanging from an old door handle\"></picture><div class=\"intro_featured_bar_title\">Marshall Milton A.N.C. review: Compact, foldable, and packed with features usually reserved for over-ear headphones</div>",
-			"retrieved": 1781199616303
 		}
 	]
 }
