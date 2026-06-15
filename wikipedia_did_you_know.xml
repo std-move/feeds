@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-06-15T04:22:00.044Z</updated>
+    <updated>2026-06-15T12:15:54.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>link-38f1cdf9564edbbb31014f00034c70a9</id>
         <link href="https://en.wikipedia.org/wiki/Laura_Taylor_(softball)"/>
         <updated>2026-06-15T04:18:29.569Z</updated>
-        <content type="html"><![CDATA[... that softball player <b><a href="/wiki/Laura_Taylor_(softball)" title="Laura Taylor (softball)">Laura Taylor</a></b> scored only four <a href="/wiki/Home_run" title="Home run">home runs</a> in high school, but then became one of the top home run-hitters in college history?]]></content>
+        <content type="html"><![CDATA[... that softball player <b><a href="/wiki/Laura_Taylor_(softball)" title="Laura Taylor (softball)">Laura Taylor</a></b> scored only four <a href="/wiki/Home_run" title="Home run">home runs</a> in high school, but then became one of the top home-run-hitters in college history?]]></content>
     </entry>
 </feed>
