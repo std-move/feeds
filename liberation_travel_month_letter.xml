@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liberation.travel/liberation-travel-hacks-month-letter/</id>
     <title>Liberation Travel Month-letter</title>
-    <updated>2026-06-17T15:32:49.310Z</updated>
+    <updated>2026-06-17T18:24:15.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://liberation.travel/wp-content/uploads/2023/10/cropped-thumbnail-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Liberation Travel Hacks 06/2026 (EN)]]></title>
+        <id>link-6e29f3dd88c3527569584e06278d2f16</id>
+        <link href="https://liberation.travel/?na=view&amp;id=69"/>
+        <updated>2026-06-17T18:21:09.953Z</updated>
+        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 17, 2026</span><a href="https://liberation.travel/?na=view&amp;id=69" target="_blank">Liberation Travel Hacks 06/2026 (EN)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liberation Travel Hacks 06/2026 (CZSK)]]></title>
+        <id>link-f9af93e2329157e72908cfc13d7c89c9</id>
+        <link href="https://liberation.travel/?na=view&amp;id=68"/>
+        <updated>2026-06-17T18:21:09.953Z</updated>
+        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 17, 2026</span><a href="https://liberation.travel/?na=view&amp;id=68" target="_blank">Liberation Travel Hacks 06/2026 (CZSK)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liberation Travel Hacks 05/2026 (EN)]]></title>
         <id>link-962d1ca6465ba9d21f3b0e893936025a</id>
