@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-06-18T12:54:34.776Z</updated>
+    <updated>2026-06-18T16:58:49.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -22,6 +22,12 @@
         <id>link-82704a01d584d5b5f31e5ac8e650882a</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/16917"/>
         <updated>2026-06-10T08:08:11.407Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannot download full Youtube plylist]]></title>
+        <id>link-9bd5d3ad3d08efa2dad377b6fdd75e0e</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/16998"/>
+        <updated>2026-06-18T16:56:42.821Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Pornhub] Error 403 on downloads.]]></title>
@@ -81,12 +87,6 @@
         <title type="html"><![CDATA[Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)]]></title>
         <id>link-201a231131a0067406208cae40e71069</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/13548"/>
-        <updated>2026-06-05T15:47:05.972Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[iPrima.cz] Unable to extract real id]]></title>
-        <id>link-80d0475c0909ae6b470c6ea45716ffd3</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/12354"/>
         <updated>2026-06-05T15:47:05.972Z</updated>
     </entry>
 </feed>

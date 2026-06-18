@@ -25,6 +25,13 @@
 			"retrieved": 1781078891407
 		},
 		{
+			"id": "link-9bd5d3ad3d08efa2dad377b6fdd75e0e",
+			"title": "Cannot download full Youtube plylist",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16998",
+			"contents": "",
+			"retrieved": 1781801802821
+		},
+		{
 			"id": "link-2cdebf7a6c616c469071a5cb311e00ea",
 			"title": "[Pornhub] Error 403 on downloads.",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16860",
@@ -91,13 +98,6 @@
 			"id": "link-201a231131a0067406208cae40e71069",
 			"title": "Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/13548",
-			"contents": "",
-			"retrieved": 1780674425972
-		},
-		{
-			"id": "link-80d0475c0909ae6b470c6ea45716ffd3",
-			"title": "[iPrima.cz] Unable to extract real id",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/12354",
 			"contents": "",
 			"retrieved": 1780674425972
 		}
