@@ -2,18 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com Windows changelog</title>
-    <updated>2026-06-22T20:50:51.602Z</updated>
+    <updated>2026-06-22T23:21:50.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.35 - 06/22/2026]]></title>
+        <id>title-e810381d233843672f163a830b5fdd04</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-06-22T23:19:52.000Z</updated>
+        <content type="html"><![CDATA[<li data-local-id="c30908c0-0825-4df9-87a0-25870937d4d7" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e880872e5af6f4613935a8afb608ca454"><p data-local-id="09e4cbdceb82" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Added web-based authentication for sign-in and account creation, with automatic device provisioning.</p></li>
+<li data-local-id="bbba65833d23" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ed2d845a867cfbb04cf98e27d396c9bd5"><p data-local-id="093fee63e631" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Fixed several sync issues that could cause files or folders to become stuck or reappear unexpectedly.</p></li>
+<li data-local-id="26aa8738-6785-4c28-9f14-77c3aa715731" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e400061607879df67ffb68b0aa8acd6e9"><p data-local-id="5690b76a2df4" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Improved reliability for large file uploads.</p></li>
+<li data-local-id="48aab00c-919b-437f-b5d6-2711e2ddb24b" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e6a66e7c578a38ff3bacf17f5dc3590e6"><p data-local-id="d37b37d21bcf" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Resolved an issue where shared links to large folders excluded some files.</p></li>
+<li data-local-id="ce44dbe4-8ba6-4026-af64-052a23edf76e" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ee8c130b1a9853cc4244f0de3c7f18757"><p data-local-id="b21a0f24678d" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Fixed an issue that prevented resolved excluded file errors from disappearing from the progress tab.</p></li>
+<li data-local-id="c86ba7b1-656a-41e0-93c6-d03090ae4c6b" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ef4c407ec883aa9ebd8dee2df8e3b81bb"><p data-local-id="2bddef62e8f8" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Improved link copying reliability.</p></li>
+<li data-local-id="53886e52-3d60-40d2-bef6-31d30c24053a" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e18730bf270d3086eea808b33e6cf87a6"><p data-local-id="184b0d6219be" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Resolved initial sync stalls after upgrading on devices with very large file counts.</p></li>
+<li data-local-id="3ba4f5f1-4e20-4d0c-8fb0-af7a2babd036" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="eeabcb3e35953032da3da6de0c615aa89"><p data-local-id="5de0ad80c925" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Addressed an update issue that prompted some users to sign in again or reinstall.</p></li>
+<li data-local-id="517dd7f4-6e41-49e0-bb94-a931c3b19731" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="eb6eb9956ba4ddf6eef2754f7ef04c1f1"><p data-local-id="89b4f394cea7" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Fixed a deadlock that could occur when Windows dehydrates cached files in the sync folder.</p></li>
+<li data-local-id="5b0fc454-20a0-41db-bb36-c70aa194740e" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e1a6b4394151147f618a7eecd1983989e"><p data-local-id="78d80c06da5b" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Corrected the "Learn more" link on the update screen.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.60 - 06/22/2026]]></title>
+        <id>title-2b8e8651634bd143616073c78310ffa0</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-06-22T23:19:52.000Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e7b8c6506dedbf2ef618b7c3c4ee6e832">Fixed several sync issues that could cause files or folders to become stuck or reappear unexpectedly.</li>
+<li data-list-item-id="e75f09ddc70940892bd2aa94ab86bcac3">Improved upload reliability and fixed silent failures affecting some large file uploads.</li>
+<li data-list-item-id="e262806248ff0bf71bd095d0b6ea93eb0">Fixed shared link issues affecting large folders.</li>
+<li data-list-item-id="ed3a72b2b357a5e68aa0c0eabc4c46fe1">Resolved progress tab and clipboard issues.</li>
+<li data-list-item-id="e541c85ff27418d6ef2d8f620b49f48fe">Improved update reliability and fixed initial sync stalls after upgrading.</li>
+<li data-list-item-id="ec0234eb0428fbe69eebf15bc6d6847b7">Fixed stability issues that could cause sign-in prompts or app hangs in certain scenarios.</li>
+<li data-list-item-id="e72ea8517effd2428066efc7dee16d1a7">Corrected the update screen help link.</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.33 - 04/30/2026]]></title>
         <id>title-60d85537c0c0c5b6aaba8949f0f1d590</id>
         <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
         <updated>2026-04-30T13:56:15.358Z</updated>
-        <content type="html"><![CDATA[<li data-list-item-id="e6abb1092059c9b93a9eca4041bdb408c">Increased sync reliability across more file update, upload, and delete scenarios.</li>
-<li data-list-item-id="e5852882576ed0c2d77c85adaec00bd86">Reduced setup time for accounts with large sync histories.</li>
-<li data-list-item-id="ed953b3554b7e0e0af93fe70af3c91090">Improved placeholder handling for certain file names and sync status updates.</li>
-<li data-list-item-id="e17738a15d2cf39d93e45ae72756e9f11">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>]]></content>
+        <content type="html"><![CDATA[<li data-list-item-id="eadb4662abe9cf2da1c7117b5967a8793">Increased sync reliability across more file update, upload, and delete scenarios.</li>
+<li data-list-item-id="edec6508a7bb30f86266fa1108e684c2b">Reduced setup time for accounts with large sync histories.</li>
+<li data-list-item-id="e008922e10196079eada3e36f16caf24d">Improved placeholder handling for certain file names and sync status updates.</li>
+<li data-list-item-id="e940f50a3e07400d37e9e452036f56251">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 2.2.58 - 04/30/2026]]></title>

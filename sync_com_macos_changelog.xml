@@ -2,18 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com macOS changelog</title>
-    <updated>2026-06-22T20:50:51.603Z</updated>
+    <updated>2026-06-22T23:21:50.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.35 - 06/22/2026]]></title>
+        <id>title-e810381d233843672f163a830b5fdd04</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-06-22T23:19:52.000Z</updated>
+        <content type="html"><![CDATA[<li data-local-id="fe650438-5e09-4675-b374-02d15f44e332" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e56d91b8fa91300e21a8b75433e7abb2a"><p data-local-id="39f2b27fa6bb" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Added web-based authentication for sign-in and account creation, with automatic device provisioning.</p></li>
+<li data-local-id="880e3f6a-ae93-4dfc-8b01-c41348641172" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ee0532ea6be99c86da7a02d0775aaa04b"><p data-local-id="c53863c07868" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Improved visual consistency across setup and account creation screens.</p></li>
+<li data-local-id="e110c5d7-460b-4be0-b30c-76b307b1db24" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ee616bd54a496f678d32394fabf0b1c10"><p data-local-id="99ebb3d3c26f" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Ensured shared links to large folders include all files.</p></li>
+<li data-local-id="072dd7eb-9899-40c7-ae18-51375554aa7c" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ef50398edda3b1e420f213c458195d432"><p data-local-id="ce5842755a95" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Resolved sync issues that caused some files to become stuck and reappear after being resolved.</p></li>
+<li data-local-id="ac4f2273-0926-4339-8e45-7a9939d359e6" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e465fa26e605ca98d137a2752b12da521"><p data-local-id="2e376b74a8d6" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Improved stability and memory management.</p></li>
+<li data-local-id="6e91c8b2-5054-416b-aaff-cf8852a94740" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ea261306dab094b22ab6af560ad857f0c"><p data-local-id="81d52982df48" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Eliminated re-index loops triggered by external USB drives after sleep or reconnect.</p></li>
+<li data-local-id="19d8a358-d4f9-4105-8641-b649d3d292b6" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e52c28a25bc2243563627b142c0ee3ba9"><p data-local-id="4e62ead531f3" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Resolved an issue that caused the app to hang when launched directly from a downloaded DMG.</p></li>
+<li data-local-id="e695f06d-6a6d-4307-a12b-c49244b09480" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e89af18188d114b488c57a8f2d8b3899e"><p data-local-id="7159b4730d87" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Fixed icon layout issues in the Mac Ultimate Installer.</p></li>
+<li data-local-id="d4ba8444-fa7f-4f0f-996e-91237849f50b" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ebffaaab21c49a4ebfcd114be8874be05"><p data-local-id="8f0091682963" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Corrected the "Learn more" link on the update screen.</p></li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.60 - 06/22/2026]]></title>
+        <id>title-2b8e8651634bd143616073c78310ffa0</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-06-22T23:19:52.000Z</updated>
+        <content type="html"><![CDATA[<li data-local-id="1ceb86ea-a97d-4e11-a1cc-52e72d826bde" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e924510de13da154b8115c20b876c5c2d"><p data-local-id="c9141c018b92" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Fixed several sync issues that could cause files or folders to become stuck or reappear unexpectedly.</p></li>
+<li data-local-id="234762ff-1bf2-4f65-8a4b-83171d760c8a" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e88e26f284b37836bb7e75a79b85053c7"><p data-local-id="77669efb9d16" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Improved upload reliability and fixed silent failures affecting some large file uploads.</p></li>
+<li data-local-id="643ed3fb-7d1e-44c5-9273-d099024772bc" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e3b35be865a7cd103e7d86ea5e7c60134"><p data-local-id="91fdbf82a53f" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Fixed shared link issues affecting large folders.</p></li>
+<li data-local-id="1f49e25a-83d6-43a4-9b18-81c92c9338e2" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="ec4c0a80901ec2c1b9a239eefca3b6567"><p data-local-id="cd71b9cdd3ba" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Improved update reliability and fixed initial sync stalls after upgrading.</p></li>
+<li data-local-id="c187ba29-c0bd-4c57-b026-d65b53d9e848" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e994938e5ad1dc9e48b32489b37859769"><p data-local-id="814fef9678f5" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Fixed several stability issues, including re-indexing, launch, and memory usage problems.</p></li>
+<li data-local-id="8b832cb0-666d-4023-baea-b7d14c23a996" data-prosemirror-content-type="node" data-prosemirror-node-name="listItem" data-prosemirror-node-block="true" data-list-item-id="e62e4ef224767ef85defaed48d4b8bf6e"><p data-local-id="72901199c425" data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true">Corrected the update screen help link.</p></li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.33 - 04/30/2026]]></title>
         <id>title-60d85537c0c0c5b6aaba8949f0f1d590</id>
         <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
         <updated>2026-04-30T13:56:15.358Z</updated>
-        <content type="html"><![CDATA[<li data-list-item-id="ef45c83dc2c718eb8b52dacfc679c04f7">Improved sync reliability in more upload, delete, and file registration scenarios.</li>
-<li data-section-id="19rhvs9" data-start="90" data-end="182" data-list-item-id="e089578fa7b4016810957f5de5d52a1a3">Updated folder syncing, folder loading, and excluded file handling for better reliability.</li>
-<li data-section-id="xf6jlx" data-start="183" data-end="243" data-list-item-id="e77641fe5302fb2637951b5f38f9395d1">Reduced setup time for accounts with large sync histories.</li>
-<li data-list-item-id="e74c2474990479161ae9d2b5719d832f0">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>]]></content>
+        <content type="html"><![CDATA[<li data-list-item-id="e1f2488929e58d05f7811f57df0a78d6a">Improved sync reliability in more upload, delete, and file registration scenarios.</li>
+<li data-section-id="19rhvs9" data-start="90" data-end="182" data-list-item-id="e06a31782036123cb9a2f82c4767c7d66">Updated folder syncing, folder loading, and excluded file handling for better reliability.</li>
+<li data-section-id="xf6jlx" data-start="183" data-end="243" data-list-item-id="e7acddd61744b40859f6bc4caed646f17">Reduced setup time for accounts with large sync histories.</li>
+<li data-list-item-id="e12cfd008b85b503cd5229514854e63cb">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 2.2.58 - 04/30/2026]]></title>
