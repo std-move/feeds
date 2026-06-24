@@ -2,40 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-06-24T17:56:48.002Z</updated>
+    <updated>2026-06-24T19:48:13.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
-    <entry>
-        <title type="html"><![CDATA[Senior IS Architekt / Analytik - Praha, IČO — až 210 000 Kč / měsíc]]></title>
-        <id>link-2417de6812aa51da2a4429659940f3b8</id>
-        <link href="https://www.jobstack.it/it-job/architekt/6a3bc9bd157e0"/>
-        <updated>2026-06-24T14:30:46.884Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Architekt</span>
-				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Analytik</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
-									</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Principal engineering s.r.o.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 210 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[.NET vývojář – vývoj aplikací pro řízení špičkových technologií — až 130 000 Kč / měsíc]]></title>
         <id>link-0f20663ec3ae393343cb9041006f778a</id>
@@ -64,6 +33,37 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 130 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior IS Architekt / Analytik - Praha, IČO — až 210 000 Kč / měsíc]]></title>
+        <id>link-2417de6812aa51da2a4429659940f3b8</id>
+        <link href="https://www.jobstack.it/it-job/architekt/6a3bc9bd157e0"/>
+        <updated>2026-06-24T14:30:46.884Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Architekt</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Analytik</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
+									</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>Principal engineering s.r.o.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 210 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
