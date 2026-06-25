@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-39bf41a3ac2ed710820def84c81feda0",
+			"title": "Tactile meets technical: A visit to the Asus Design Center",
+			"link": "https://www.notebookcheck.net/400-failures-one-working-hinge-A-peek-into-the-R-D-behind-premium-Asus-laptop-design.1326170.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/b/csm_121_58f15b2108.jpg\" loading=\"lazy\" alt=\"A visit to the Asus Design Center at Asus HQ\"></picture><div class=\"intro_featured_bar_title\">Tactile meets technical: A visit to the Asus Design Center</div>",
+			"retrieved": 1782373342723
+		},
+		{
 			"id": "link-591736b5b6617c85e8571175e6fe3951",
 			"title": "A mopping robot for 700 euros: Testing the Lefant M5 Pro robot vacuum",
 			"link": "https://www.notebookcheck.net/Robot-vacuum-with-mopping-roller-at-an-affordable-price-Lefant-M5-Pro-review.1328189.0.html",
@@ -26,9 +33,9 @@
 		},
 		{
 			"id": "link-b5723b3b19019cca5ab95a43cd7bb8aa",
-			"title": "Revopoint’s Prime Event Sale is here! (Advert ising)",
+			"title": "Revopoint’s Prime Event Sale is here! (Adv‎ertising)",
 			"link": "https://www.notebookcheck.net/Revopoint-Prime-Event-Sale-Starts-Now-Save-Up-to-35-on-Selected-3D-Scanners.1323699.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/9/csm_Revopoint-Prime-Day_6818d6fdab.jpg\" loading=\"lazy\" alt=\"Revopoint’s Prime Event Sale is here!\"></picture><div class=\"intro_featured_bar_title\">Revopoint’s Prime Event Sale is here! <span class=\"introa_ad_hd\">(Advert ising)</span></div>",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Revopoint-Prime-Day-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/9/csm_Revopoint-Prime-Day_6818d6fdab.jpg\" loading=\"lazy\" alt=\"Revopoint’s Prime Event Sale is here!\"></picture><div class=\"intro_featured_bar_title\">Revopoint’s Prime Event Sale is here! <span class=\"introa_ad_hd\">(Adv‎ertising)</span></div>",
 			"retrieved": 1782311446884
 		},
 		{
@@ -40,17 +47,10 @@
 		},
 		{
 			"id": "link-198ab1dea3192fc2959ca5d8299face3",
-			"title": "Grab up to 30% off a Geekom mini PC for Prime Day (Advertoria l)",
+			"title": "Grab up to 30% off a Geekom mini PC for Prime Day (Advert‌icle)",
 			"link": "https://www.notebookcheck.net/Massive-Prime-Day-deals-on-AMD-and-Intel-Geekom-mini-PCs-with-AMD-Ryzen-9-APUs-and-upgradable-RAM.1327088.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/5/csm_geekom-prime-day-1_580f7b21b0.jpg\" loading=\"lazy\" alt=\"Geekom Prime Day deal\"></picture><div class=\"intro_featured_bar_title\">Grab up to 30% off a Geekom mini PC for Prime Day <span class=\"introa_ad_hd\">(Advertoria l)</span></div>",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/geekom-prime-day-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/5/csm_geekom-prime-day-1_580f7b21b0.jpg\" loading=\"lazy\" alt=\"Geekom Prime Day deal\"></picture><div class=\"intro_featured_bar_title\">Grab up to 30% off a Geekom mini PC for Prime Day <span class=\"introa_ad_hd\">(Advert‌icle)</span></div>",
 			"retrieved": 1782200998394
-		},
-		{
-			"id": "link-5ba300da7dfa624f9e08c87901aeee73",
-			"title": "Unrivaled | Oppo Pad Mini Review",
-			"link": "https://www.notebookcheck.net/Ultra-light-OLED-tablet-is-miles-ahead-of-the-competition-Oppo-Pad-Mini-Review.1325870.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_Mini/Oppo_Pad_Mini_review_448-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_Mini/Oppo_Pad_Mini_review_448-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_Mini/Oppo_Pad_Mini_review_448-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_Mini/Oppo_Pad_Mini_review_448-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_Mini/Oppo_Pad_Mini_review_448-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_Mini/Oppo_Pad_Mini_review_448-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/0/csm_Oppo_Pad_Mini_review_448_c440836f28.jpg\" loading=\"lazy\" alt=\"Oppo Pad Mini Review \"></picture><div class=\"intro_featured_bar_title\">Unrivaled | Oppo Pad Mini Review</div>",
-			"retrieved": 1782147434103
 		}
 	]
 }
