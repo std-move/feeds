@@ -4,6 +4,13 @@
 	"favicon": "https://github.githubassets.com/favicons/favicon.svg",
 	"elements": [
 		{
+			"id": "link-2c24a0f01e4566a161d56522aa74ccc4",
+			"title": "Views",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/views",
+			"contents": "",
+			"retrieved": 1782423776346
+		},
+		{
 			"id": "link-95e30f9dcdfb1200e47c323a504ee1c7",
 			"title": "URL download from CT24/CTsport/subdomains of ceskatelevize.cz",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/78",

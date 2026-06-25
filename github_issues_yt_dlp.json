@@ -4,6 +4,13 @@
 	"favicon": "https://github.githubassets.com/favicons/favicon.svg",
 	"elements": [
 		{
+			"id": "link-bd8e9b854c93e08d7296ca67eeb6342a",
+			"title": "Views",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/views",
+			"contents": "",
+			"retrieved": 1782423776346
+		},
+		{
 			"id": "link-835a5d584f04d10080ea546c95e345bf",
 			"title": "🚨[IMPORTANT]🚨 KNOWN ISSUES/FAQ",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/3766",

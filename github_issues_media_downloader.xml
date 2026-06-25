@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-06-25T18:12:18.875Z</updated>
+    <updated>2026-06-25T21:45:03.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Views]]></title>
+        <id>link-2c24a0f01e4566a161d56522aa74ccc4</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/views"/>
+        <updated>2026-06-25T21:42:56.346Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[URL download from CT24/CTsport/subdomains of ceskatelevize.cz]]></title>
         <id>link-95e30f9dcdfb1200e47c323a504ee1c7</id>
