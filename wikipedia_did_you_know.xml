@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-06-26T19:50:33.243Z</updated>
+    <updated>2026-06-26T21:21:45.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>link-802ccd51299b644ff2631e46c6b74525</id>
         <link href="https://en.wikipedia.org/wiki/John_Nasseff"/>
         <updated>2026-06-26T03:42:00.915Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/John_Nasseff" title="John Nasseff">John Nasseff</a></b> started at West Publishing as a boxcar unloader, and later earned $175&nbsp;million for his stock when the company was sold 50 years later?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/John_Nasseff" title="John Nasseff">John Nasseff</a></b> started at West Publishing as a boxcar unloader, and later earned US$175&nbsp;million for his stock when the company was sold 50 years later?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a wooden doll]]></title>

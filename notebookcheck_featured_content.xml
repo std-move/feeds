@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-06-26T19:50:33.258Z</updated>
+    <updated>2026-06-26T21:21:45.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Vipcoo H2 tears up trails]]></title>
+        <id>link-5ca29b7414a33b5cb5dd48285964df04</id>
+        <link href="https://www.notebookcheck.net/VIPCOO-H2-Electric-Dirt-Bike-Review-A-small-bike-that-s-big-on-power.1329597.0.html"/>
+        <updated>2026-06-26T21:19:33.055Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/hero2-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/hero2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/hero2-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/hero2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/hero2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/hero2-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/1/csm_hero2_ff768e4686.jpg" loading="lazy" alt="Read to hit the trail"></picture><div class="intro_featured_bar_title">Vipcoo H2 tears up trails</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The best smartphones: Summer 2026]]></title>
         <id>link-572d6ae7be33b110a1a66f9284bab8f1</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Google-Pixel-10a-review-The-best-mid-range-smartphone-of-2026.1328484.0.html"/>
         <updated>2026-06-25T14:33:40.303Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Google/Pixel_10a/aPic_Google_Pixel_10a-2878-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Google/Pixel_10a/aPic_Google_Pixel_10a-2878-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Google/Pixel_10a/aPic_Google_Pixel_10a-2878-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Google/Pixel_10a/aPic_Google_Pixel_10a-2878-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Google/Pixel_10a/aPic_Google_Pixel_10a-2878-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Google/Pixel_10a/aPic_Google_Pixel_10a-2878-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/9/csm_aPic_Google_Pixel_10a-2878_3cca06fd2b.jpg" loading="lazy" alt="Google Pixel 10a review: The best mid-range smartphone of 2026?"></picture><div class="intro_featured_bar_title">Google Pixel 10a review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tactile meets technical: A visit to the Asus Design Center]]></title>
-        <id>link-39bf41a3ac2ed710820def84c81feda0</id>
-        <link href="https://www.notebookcheck.net/400-failures-one-working-hinge-A-peek-into-the-R-D-behind-premium-Asus-laptop-design.1326170.0.html"/>
-        <updated>2026-06-25T07:42:22.723Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/b/csm_121_58f15b2108.jpg" loading="lazy" alt="A visit to the Asus Design Center at Asus HQ"></picture><div class="intro_featured_bar_title">Tactile meets technical: A visit to the Asus Design Center</div>]]></content>
     </entry>
 </feed>
