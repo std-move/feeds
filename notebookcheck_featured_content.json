@@ -4,6 +4,20 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-572d6ae7be33b110a1a66f9284bab8f1",
+			"title": "The best smartphones: Summer 2026",
+			"link": "https://www.notebookcheck.net/The-best-smartphones-for-summer-2026-A-comparison-of-26-phones.1325270.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Awards/edcoice_intro_mobile2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/e/csm_edcoice_intro_mobile2_fc82f747ea.jpg\" loading=\"lazy\" alt=\"The best smartphones for summer 2026\"></picture><div class=\"intro_featured_bar_title\">The best smartphones: Summer 2026</div>",
+			"retrieved": 1782483900667
+		},
+		{
+			"id": "link-7b56db1e147a2b505d12b7c8f5a056a7",
+			"title": "Samsung Galaxy A37 5G review",
+			"link": "https://www.notebookcheck.net/Strong-but-the-competition-isn-t-sleeping-Samsung-Galaxy-A37-5G-review.1328741.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_A37_5G/sPic_Samsung_Galaxy_A37_5G-2258-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_A37_5G/sPic_Samsung_Galaxy_A37_5G-2258-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_A37_5G/sPic_Samsung_Galaxy_A37_5G-2258-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_A37_5G/sPic_Samsung_Galaxy_A37_5G-2258-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_A37_5G/sPic_Samsung_Galaxy_A37_5G-2258-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_A37_5G/sPic_Samsung_Galaxy_A37_5G-2258-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/7/csm_sPic_Samsung_Galaxy_A37_5G-2258_4d6253616a.jpg\" loading=\"lazy\" alt=\"Strong, but the competition isn't sleeping - Samsung Galaxy A37 5G review\"></picture><div class=\"intro_featured_bar_title\">Samsung Galaxy A37 5G review</div>",
+			"retrieved": 1782483900667
+		},
+		{
 			"id": "link-cfeadfbafb10d6e251c024c2d6dea168",
 			"title": "MSI Claw 8 EX AI+ Review - Intel's dedicated handheld chip is impressive (Update 2)",
 			"link": "https://www.notebookcheck.net/Intel-s-Arc-G3-Extreme-changes-the-handheld-game-MSI-Claw-8-EX-AI-Review.1325574.0.html",
@@ -37,20 +51,6 @@
 			"link": "https://www.notebookcheck.net/400-failures-one-working-hinge-A-peek-into-the-R-D-behind-premium-Asus-laptop-design.1326170.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/Asus/Computex_2026/121-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/b/csm_121_58f15b2108.jpg\" loading=\"lazy\" alt=\"A visit to the Asus Design Center at Asus HQ\"></picture><div class=\"intro_featured_bar_title\">Tactile meets technical: A visit to the Asus Design Center</div>",
 			"retrieved": 1782373342723
-		},
-		{
-			"id": "link-591736b5b6617c85e8571175e6fe3951",
-			"title": "A mopping robot for 700 euros: Testing the Lefant M5 Pro robot vacuum",
-			"link": "https://www.notebookcheck.net/Robot-vacuum-with-mopping-roller-at-an-affordable-price-Lefant-M5-Pro-review.1328189.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-M5-Pro-Test-Feature-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-M5-Pro-Test-Feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-M5-Pro-Test-Feature-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-M5-Pro-Test-Feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-M5-Pro-Test-Feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-M5-Pro-Test-Feature-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/4/csm_Lefant-M5-Pro-Test-Feature_11e05dfdb3.jpg\" loading=\"lazy\" alt=\"Lefant M5 Pro Review\"></picture><div class=\"intro_featured_bar_title\">A mopping robot for 700 euros: Testing the Lefant M5 Pro robot vacuum</div>",
-			"retrieved": 1782336152524
-		},
-		{
-			"id": "link-cb18edfef4a0fb4506d3fafda9f07a79",
-			"title": "One brick, five devices",
-			"link": "https://www.notebookcheck.net/One-charger-for-almost-everything-5-port-Ugreen-Nexode-Pro-160W-review.1327965.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Five-port-Ugreen-Nexode-Pro-160W-review-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Five-port-Ugreen-Nexode-Pro-160W-review-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Five-port-Ugreen-Nexode-Pro-160W-review-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Five-port-Ugreen-Nexode-Pro-160W-review-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Five-port-Ugreen-Nexode-Pro-160W-review-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Five-port-Ugreen-Nexode-Pro-160W-review-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/4/csm_Five-port-Ugreen-Nexode-Pro-160W-review_a491e4cf00.jpg\" loading=\"lazy\" alt=\"Five port Ugreen Nexode Pro 160W review\"></picture><div class=\"intro_featured_bar_title\">One brick, five devices</div>",
-			"retrieved": 1782323679816
 		}
 	]
 }
