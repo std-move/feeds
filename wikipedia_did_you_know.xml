@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-06-27T10:10:11.033Z</updated>
+    <updated>2026-06-27T13:45:29.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>link-6a5e48c353545c275b695cb0a936cb31</id>
         <link href="https://en.wikipedia.org/wiki/Pine_Gap_Women%27s_Peace_Camp"/>
         <updated>2026-06-27T03:28:37.143Z</updated>
-        <content type="html"><![CDATA[... that the 1983 <b><a href="/wiki/Pine_Gap_Women%27s_Peace_Camp" title="Pine Gap Women's Peace Camp">Pine Gap Women's Peace Camp</a></b> in Alice Springs led to many women moving there and making it a regional lesbian capital of Australia?]]></content>
+        <content type="html"><![CDATA[... that the 1983 <b><a href="/wiki/Pine_Gap_Women%27s_Peace_Camp" title="Pine Gap Women's Peace Camp">Pine Gap Women's Peace Camp</a></b> in Alice Springs led to many women moving there and made it a regional lesbian capital of Australia?]]></content>
     </entry>
 </feed>

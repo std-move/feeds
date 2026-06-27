@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-06-27T10:10:11.045Z</updated>
+    <updated>2026-06-27T13:45:29.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.124]]></title>
+        <id>title-894d5db809c3ca35c0ed279c89b27e4c</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-06-27T13:43:21.722Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.124</strong> (27 June 2026)<br>
+            + Improved speed (PRO version)<br>
+            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
+            + Improved cleanup : cookies<br>
+            + Improved cleanup : RAM<br>
+            + Improved support : PC with multi-monitor setup<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.123]]></title>
         <id>title-b38a55ae8fb6c537e5037d9a4f95a0e8</id>
@@ -226,17 +238,5 @@
              + New cleanup : Only Office<br>
              + New cleanup : WPS Office<br>
              + Improved UI<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.108]]></title>
-        <id>title-a1edfdb5cf8d2cb071f2dfa90298f07f</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-05-09T06:16:19.682Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.108</strong> (06 July 2025)<br>
-             + New cleanup : Floorp Browser<br>
-             + Improved support : Cookies <br>
-             + Improved UI<br>
-             + Improved support : XP <br>
-             + Minor bug fixes<br>]]></content>
     </entry>
 </feed>
