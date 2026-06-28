@@ -35,8 +35,15 @@
 			"id": "link-a43b69e61c83270c2c66723517a4df22",
 			"title": "The 'papers, please' era of the internet will decimate your privacy",
 			"link": "https://news.ycombinator.com/item?id=48679608",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48679608\"><span>The 'papers, please' era of the internet will decimate your privacy</span></a><a href=\"https://expression.fire.org/p/the-papers-please-era-of-the-internet\" target=\"_blank\" class=\"Story_link\">(https://expression.fire.org/p/the-papers-please-era-of-the-internet)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48679608\">1139 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bilsbie\"><span>bilsbie</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48679608\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48679608\">610 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48679608\"><span>The 'papers, please' era of the internet will decimate your privacy</span></a><a href=\"https://expression.fire.org/p/the-papers-please-era-of-the-internet\" target=\"_blank\" class=\"Story_link\">(https://expression.fire.org/p/the-papers-please-era-of-the-internet)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48679608\">1139 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bilsbie\"><span>bilsbie</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48679608\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48679608\">611 comments</a></span></div></div></div>",
 			"retrieved": 1782483900667
+		},
+		{
+			"id": "link-d46d4c63865264004ce23af49864fb42",
+			"title": "Previewing GPT‑5.6 Sol: a next-generation model",
+			"link": "https://news.ycombinator.com/item?id=48689028",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48689028\"><span>Previewing GPT‑5.6 Sol: a next-generation model</span></a><a href=\"https://openai.com/index/previewing-gpt-5-6-sol/\" target=\"_blank\" class=\"Story_link\">(https://openai.com/index/previewing-gpt-5-6-sol/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48689028\">1120 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=minimaxir\"><span>minimaxir</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48689028\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48689028\">736 comments</a></span><div class=\"Story_comment\"><span>System card: <a href=\"https://deploymentsafety.openai.com/gpt-5-6-preview\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-5-6-preview</a></span></div></div></div></div>",
+			"retrieved": 1782530917143
 		},
 		{
 			"id": "link-a9febd2010d528a72fb865dc8f6249e8",
@@ -46,13 +53,6 @@
 			"retrieved": 1782161330840
 		},
 		{
-			"id": "link-d46d4c63865264004ce23af49864fb42",
-			"title": "Previewing GPT‑5.6 Sol: a next-generation model",
-			"link": "https://news.ycombinator.com/item?id=48689028",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48689028\"><span>Previewing GPT‑5.6 Sol: a next-generation model</span></a><a href=\"https://openai.com/index/previewing-gpt-5-6-sol/\" target=\"_blank\" class=\"Story_link\">(https://openai.com/index/previewing-gpt-5-6-sol/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48689028\">1117 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=minimaxir\"><span>minimaxir</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48689028\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48689028\">736 comments</a></span><div class=\"Story_comment\"><span>System card: <a href=\"https://deploymentsafety.openai.com/gpt-5-6-preview\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-5-6-preview</a></span></div></div></div></div>",
-			"retrieved": 1782530917143
-		},
-		{
 			"id": "link-447f1c4157cb27b86d6211377c62bcb3",
 			"title": "What we call \"age verification\" is actually mass surveillance",
 			"link": "https://news.ycombinator.com/item?id=48645173",
@@ -60,18 +60,18 @@
 			"retrieved": 1782298220028
 		},
 		{
+			"id": "link-2f3b09285e8a5e9927394e0e940b851d",
+			"title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+			"link": "https://news.ycombinator.com/item?id=48698617",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48698617\"><span>Anonymous GitHub account mass-dropping undisclosed 0-days</span></a><a href=\"https://github.com/bikini/exploitarium\" target=\"_blank\" class=\"Story_link\">(https://github.com/bikini/exploitarium)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48698617\">922 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=binyu\"><span>binyu</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48698617\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48698617\">372 comments</a></span></div></div></div>",
+			"retrieved": 1782654380199
+		},
+		{
 			"id": "link-ae8f910a7fad0644fa43d2bb5cad3bf4",
 			"title": "We’re making Bunny DNS free",
 			"link": "https://news.ycombinator.com/item?id=48657030",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48657030\"><span>We’re making Bunny DNS free</span></a><a href=\"https://bunny.net/blog/were-making-bunny-dns-free/\" target=\"_blank\" class=\"Story_link\">(https://bunny.net/blog/were-making-bunny-dns-free/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48657030\">921 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=dabinat\"><span>dabinat</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48657030\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48657030\">268 comments</a></span></div></div></div>",
 			"retrieved": 1782342227496
-		},
-		{
-			"id": "link-2f3b09285e8a5e9927394e0e940b851d",
-			"title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-			"link": "https://news.ycombinator.com/item?id=48698617",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48698617\"><span>Anonymous GitHub account mass-dropping undisclosed 0-days</span></a><a href=\"https://github.com/bikini/exploitarium\" target=\"_blank\" class=\"Story_link\">(https://github.com/bikini/exploitarium)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48698617\">920 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=binyu\"><span>binyu</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48698617\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48698617\">367 comments</a></span></div></div></div>",
-			"retrieved": 1782654380199
 		}
 	]
 }
