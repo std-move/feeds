@@ -11,18 +11,18 @@
 			"retrieved": 1782423776346
 		},
 		{
+			"id": "link-0fa6ffe52bf4a2d25659218a9beb36b7",
+			"title": "[Instagram] \"Instagram sent an empty media response\"",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/17074",
+			"contents": "",
+			"retrieved": 1782674394231
+		},
+		{
 			"id": "link-835a5d584f04d10080ea546c95e345bf",
 			"title": "🚨[IMPORTANT]🚨 KNOWN ISSUES/FAQ",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/3766",
 			"contents": "",
 			"retrieved": 1780674425972
-		},
-		{
-			"id": "link-634ad95a8b766bc4a62eca85e02a3f72",
-			"title": "[Announcement] Dropping support for Python 3.10",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/16916",
-			"contents": "",
-			"retrieved": 1781078891407
 		},
 		{
 			"id": "link-82704a01d584d5b5f31e5ac8e650882a",

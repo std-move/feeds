@@ -2,15 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-06-28T17:13:57.317Z</updated>
+    <updated>2026-06-28T19:21:55.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[v4.0.124]]></title>
-        <id>title-894d5db809c3ca35c0ed279c89b27e4c</id>
+        <title type="html"><![CDATA[v4.0.124.1]]></title>
+        <id>title-6fcd1260c59dc91d7243a120aff8fdd6</id>
         <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-06-27T13:43:21.722Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.124</strong> (27 June 2026)<br>
+        <updated>2026-06-28T19:19:54.231Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.124.1</strong> (28 June 2026)<br>
+            + Minor bug fixes<br>
+            <strong>v4.0.124</strong> (27 June 2026)<br>
             + Improved speed (PRO version)<br>
             + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
             + Improved cleanup : cookies<br>

@@ -4,10 +4,10 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
-			"id": "title-894d5db809c3ca35c0ed279c89b27e4c",
-			"title": "v4.0.124",
-			"contents": "<strong>v4.0.124</strong> (27 June 2026)<br>\n            + Improved speed (PRO version)<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Improved cleanup : cookies<br>\n            + Improved cleanup : RAM<br>\n            + Improved support : PC with multi-monitor setup<br>",
-			"retrieved": 1782567801722
+			"id": "title-6fcd1260c59dc91d7243a120aff8fdd6",
+			"title": "v4.0.124.1",
+			"contents": "<strong>v4.0.124.1</strong> (28 June 2026)<br>\n            + Minor bug fixes<br>\n            <strong>v4.0.124</strong> (27 June 2026)<br>\n            + Improved speed (PRO version)<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Improved cleanup : cookies<br>\n            + Improved cleanup : RAM<br>\n            + Improved support : PC with multi-monitor setup<br>",
+			"retrieved": 1782674394231
 		},
 		{
 			"id": "title-b38a55ae8fb6c537e5037d9a4f95a0e8",
