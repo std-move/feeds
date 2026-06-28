@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-852f482d15403102baefb1a54451e49e",
+			"title": "▶ Asus ROG Zephyrus G14 2026 - a dying breed already?",
+			"link": "https://www.notebookcheck.net/Asus-ROG-Zephyrus-G14-2026-a-dying-breed-already.1330391.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/1/csm__1051848_f63f6a119b.jpg\" loading=\"lazy\" alt=\"The best 14&quot; Gaming Laptop 2026! ROG Zephyrus G14\"></picture><div class=\"intro_featured_bar_title\">▶ Asus ROG Zephyrus G14 2026 - a dying breed already?</div>",
+			"retrieved": 1782654380199
+		},
+		{
 			"id": "link-8dc43b9e21d54651732da287e4fe0964",
 			"title": "Lenovo ThinkPad X1 2-in-1 Gen 11 review: Refined and professional 14-inch convertible",
 			"link": "https://www.notebookcheck.net/ThinkPad-X1-2-in-1-Gen-11-review-Most-compelling-convertible-yet-from-Lenovo.1328172.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Public-cinema-in-the-garden-AWOL-Valerion-Pro-2-and-120-inch-outdoor-screen-review.1325956.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/AWOL-Valerion-Pro-2-Test-Teaser20-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/AWOL-Valerion-Pro-2-Test-Teaser20-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/AWOL-Valerion-Pro-2-Test-Teaser20-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/AWOL-Valerion-Pro-2-Test-Teaser20-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/AWOL-Valerion-Pro-2-Test-Teaser20-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/AWOL-Valerion-Pro-2-Test-Teaser20-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/2/csm_AWOL-Valerion-Pro-2-Test-Teaser20_26d6c7de76.jpg\" loading=\"lazy\" alt=\"AWOL Valerion Pro 2 Review\"></picture><div class=\"intro_featured_bar_title\">World Cup: Laser projector and outdoor screen review</div>",
 			"retrieved": 1782445320915
-		},
-		{
-			"id": "link-9d67784dc3a4f340264a36c344b677f0",
-			"title": "Titan Army C49C1S review: 49 inches, 240 Hz, and 32:9 can feel almost unfair in FIFA",
-			"link": "https://www.notebookcheck.net/Titan-Army-C49C1S-review-49-inches-240-Hz-and-32-9-can-feel-almost-unfair-in-FIFA.1328481.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/c49c1s-title-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/c49c1s-title-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/c49c1s-title-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/c49c1s-title-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/c49c1s-title-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/c49c1s-title-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/6/csm_c49c1s-title-1_e6e3d34fd6.jpg\" loading=\"lazy\" alt=\"Titan Army C49C1S mit japanischen Kirschblüten auf dem Bildschirm\"></picture><div class=\"intro_featured_bar_title\">Titan Army C49C1S review: 49 inches, 240 Hz, and 32:9 can feel almost unfair in FIFA</div>",
-			"retrieved": 1782411013269
 		}
 	]
 }
