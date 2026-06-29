@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://appledb.dev/device/Mac17,4.html?filter=release</id>
     <title>macOS releases for Air 15 M5</title>
-    <updated>2026-06-29T18:11:02.674Z</updated>
+    <updated>2026-06-29T21:29:00.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://appledb.dev/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[macOS 26.5.2 — Jun 29, 2026]]></title>
+        <id>link-52842a68cdce557bb4d770a748198dea</id>
+        <link href="https://updates.cdn-apple.com/2026SpringFCS/fullrestores/140-24263/B95838F0-6815-4F0B-A039-156526C081AD/UniversalMac_26.5.2_25F84_Restore.ipsw"/>
+        <updated>2026-06-29T21:26:48.982Z</updated>
+        <content type="html"><![CDATA[<div data-v-3d231806="" class="firmwareAndReleasedStr" style="width: calc(100% - 64px);"><div data-v-3d231806=""><span data-v-3d231806="" style="font-weight: 600;">macOS 26.5.2</span><i data-v-3d231806="" style="margin-inline: 8px; font-size: 0.3em;" class="fas fa-circle"></i><code data-v-3d231806="" style="padding-inline: 0px; background: none; font-size: 0.95em;">25F84</code><!----><div data-v-3d231806="" style="padding-inline: 0.25em; display: inline-block;"></div><!----><!----><!----><div data-v-3d231806="" class="signingStatus"><i data-v-3d231806="" id="signing-status-macOS-25F84" class="fas fa-check"></i><span data-v-3d231806="" id="signing-text-macOS-25F84" class="signingText">Signed</span></div></div><div data-v-3d231806="" style="text-align: right;" class="releasedStr">Jun 29, 2026</div></div><div data-v-3d231806="" class="iconFlex"><div data-v-3d231806="" class="downloadIcon iconChild"><a data-v-3d231806="" style="cursor: pointer;"><i data-v-3d231806="" class="downloadIcon fas fa-download"></i></a><div data-v-3d231806="" class="downloadDropdown custom-container" style="cursor: initial;"><h5 data-v-3d231806="">Download</h5><ul data-v-3d231806="" style="padding-left: 0px; list-style-type: none;"><li data-v-3d231806=""><a data-v-3d231806="" href="https://updates.cdn-apple.com/2026SpringFCS/fullrestores/140-24263/B95838F0-6815-4F0B-A039-156526C081AD/UniversalMac_26.5.2_25F84_Restore.ipsw">MacBook Air (15-inch, M5)</a></li></ul><!----></div></div><div data-v-3d231806="" class="iconChild"><a data-v-3d231806="" style="cursor: pointer;"><i data-v-3d231806="" class="fas fa-chevron-right"></i></a></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS 26.5.1 — Jun 1, 2026]]></title>
         <id>link-4aceda8b425959e9c492ca7d8b8a6169</id>
