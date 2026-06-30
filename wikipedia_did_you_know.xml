@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-06-30T03:41:27.767Z</updated>
+    <updated>2026-06-30T07:56:03.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[... that a faulty <b><a href="/wiki/Premise" title="Premise">premise</a></b> can turn a whole argument into a fallacy?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Black Swan]]></title>
+        <title type="html"><![CDATA[the musical adaptation of Black Swan]]></title>
         <id>link-68bad34f673b04aa3ce4b0c74ed93a92</id>
         <link href="https://en.wikipedia.org/wiki/Black_Swan_(musical)"/>
         <updated>2026-06-30T03:39:21.664Z</updated>
-        <content type="html"><![CDATA[... that the musical adaptation of <i><b><a href="/wiki/Black_Swan_(musical)" title="Black Swan (musical)">Black Swan</a></b></i> rewrote the character of Thomas LeRoy as a woman to avoid writing a #MeToo story?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Black_Swan_(musical)" title="Black Swan (musical)">the musical adaptation of <i>Black Swan</i></a></b> rewrote the character of Thomas LeRoy as a woman to avoid writing a #MeToo story?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Salvation Army Memorial Temple]]></title>
