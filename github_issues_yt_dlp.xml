@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-07-02T14:02:45.790Z</updated>
+    <updated>2026-07-02T16:12:50.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2026-06-25T21:42:56.346Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Instagram] "Instagram sent an empty media response"]]></title>
+        <title type="html"><![CDATA[[Instagram] "Instagram sent an empty media response" WITHOUT cookies]]></title>
         <id>link-0fa6ffe52bf4a2d25659218a9beb36b7</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/17074"/>
         <updated>2026-06-28T19:19:54.231Z</updated>
