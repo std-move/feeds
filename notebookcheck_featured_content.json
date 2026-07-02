@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-5daaa7069b941247c17de909d14b82a1",
+			"title": "Super-Foldable - Honor Magic V6 review",
+			"link": "https://www.notebookcheck.net/Foldable-feather-light-and-with-almost-no-compromises-Honor-Magic-V6-review.1333392.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/6/csm_aPic_Honor_Magic_V6-3190_a2bad91077.jpg\" loading=\"lazy\" alt=\"Foldable, feather-light, and with almost no compromises - Honor Magic V6 review\"></picture><div class=\"intro_featured_bar_title\">Super-Foldable - Honor Magic V6 review</div>",
+			"retrieved": 1783000830329
+		},
+		{
 			"id": "link-7fe5727f1d9e0f74b149a5386a7f3da5",
 			"title": "32 GB DDR5 RAM and affordable",
 			"link": "https://www.notebookcheck.net/32-GB-DDR5-RAM-and-affordable-Lenovo-ThinkBook-14-G9-IPL-laptop-review.1327762.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Lenovo-IdeaPad-Slim-3-15IWC11-review-Intel-Wildcat-Lake-Core-7-350-performance-debut.1328444.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15IWC11/ideapad315_feature_5-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15IWC11/ideapad315_feature_5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15IWC11/ideapad315_feature_5-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15IWC11/ideapad315_feature_5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15IWC11/ideapad315_feature_5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15IWC11/ideapad315_feature_5-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/8/csm_ideapad315_feature_5_2d0f1b6913.jpg\" loading=\"lazy\" alt=\"Lenovo IdeaPad Slim 3 15IWC11 review: Intel Wildcat Lake Core 7 350 performance debut\"></picture><div class=\"intro_featured_bar_title\">Lenovo IdeaPad Slim 3 15 review: Wildcat Intel Core 7 350 makes its debut</div>",
 			"retrieved": 1782773853074
-		},
-		{
-			"id": "link-852f482d15403102baefb1a54451e49e",
-			"title": "▶ Asus ROG Zephyrus G14 2026 - a dying breed already?",
-			"link": "https://www.notebookcheck.net/Asus-ROG-Zephyrus-G14-2026-a-dying-breed-already.1330391.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051848-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/1/csm__1051848_f63f6a119b.jpg\" loading=\"lazy\" alt=\"The best 14&quot; Gaming Laptop 2026! ROG Zephyrus G14\"></picture><div class=\"intro_featured_bar_title\">▶ Asus ROG Zephyrus G14 2026 - a dying breed already?</div>",
-			"retrieved": 1782654380199
 		}
 	]
 }
