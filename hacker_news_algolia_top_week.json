@@ -14,14 +14,14 @@
 			"id": "link-a18e66c0f68175be268a626c1b2892e2",
 			"title": "Android Developer Verification: Threat masquerading as protection",
 			"link": "https://news.ycombinator.com/item?id=48755965",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48755965\"><span>Android Developer Verification: Threat masquerading as protection</span></a><a href=\"https://f-droid.org/2026/07/01/adv-malware.html\" target=\"_blank\" class=\"Story_link\">(https://f-droid.org/2026/07/01/adv-malware.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48755965\">1666 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=drewfax\"><span>drewfax</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">715 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48755965\"><span>Android Developer Verification: Threat masquerading as protection</span></a><a href=\"https://f-droid.org/2026/07/01/adv-malware.html\" target=\"_blank\" class=\"Story_link\">(https://f-droid.org/2026/07/01/adv-malware.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48755965\">1672 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=drewfax\"><span>drewfax</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">715 comments</a></span></div></div></div>",
 			"retrieved": 1783000830329
 		},
 		{
 			"id": "link-b9bd6e22f19bb6f3662549ed8617b1db",
 			"title": "Claude Sonnet 5",
 			"link": "https://news.ycombinator.com/item?id=48736605",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48736605\"><span>Claude Sonnet 5</span></a><a href=\"https://www.anthropic.com/news/claude-sonnet-5\" target=\"_blank\" class=\"Story_link\">(https://www.anthropic.com/news/claude-sonnet-5)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48736605\">1257 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=marinesebastian\"><span>marinesebastian</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48736605\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48736605\">780 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48736605\"><span>Claude Sonnet 5</span></a><a href=\"https://www.anthropic.com/news/claude-sonnet-5\" target=\"_blank\" class=\"Story_link\">(https://www.anthropic.com/news/claude-sonnet-5)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48736605\">1257 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=marinesebastian\"><span>marinesebastian</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48736605\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48736605\">781 comments</a></span></div></div></div>",
 			"retrieved": 1782855728144
 		},
 		{
@@ -32,6 +32,13 @@
 			"retrieved": 1782790761664
 		},
 		{
+			"id": "link-2212fcda2b3689dd4bb0614abbcc61fb",
+			"title": "Half-Baked Product",
+			"link": "https://news.ycombinator.com/item?id=48772388",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48772388\"><span>Half-Baked Product</span></a><a href=\"https://weli.dev/blog/half-baked-product/\" target=\"_blank\" class=\"Story_link\">(https://weli.dev/blog/half-baked-product/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48772388\">1146 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=weli\"><span>weli</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">13 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">350 comments</a></span></div></div></div>",
+			"retrieved": 1783099691197
+		},
+		{
 			"id": "link-eba232dd3996574b4d10c290d9e5b9cb",
 			"title": "GLM 5.2 beats Claude in our benchmarks",
 			"link": "https://news.ycombinator.com/item?id=48709670",
@@ -39,17 +46,10 @@
 			"retrieved": 1782723616253
 		},
 		{
-			"id": "link-2212fcda2b3689dd4bb0614abbcc61fb",
-			"title": "Half-Baked Product",
-			"link": "https://news.ycombinator.com/item?id=48772388",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48772388\"><span>Half-Baked Product</span></a><a href=\"https://weli.dev/blog/half-baked-product/\" target=\"_blank\" class=\"Story_link\">(https://weli.dev/blog/half-baked-product/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48772388\">1087 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=weli\"><span>weli</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">11 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">335 comments</a></span></div></div></div>",
-			"retrieved": 1783099691197
-		},
-		{
 			"id": "link-46c243085ab1bc6ee3e0b4cf79df1409",
 			"title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
 			"link": "https://news.ycombinator.com/item?id=48713832",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48713832\"><span>HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88</span></a><a href=\"https://danunparsed.com/p/hackerrank-open-source-ats\" target=\"_blank\" class=\"Story_link\">(https://danunparsed.com/p/hackerrank-open-source-ats)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48713832\">1026 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sambellll\"><span>sambellll</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48713832\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48713832\">433 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48713832\"><span>HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88</span></a><a href=\"https://danunparsed.com/p/hackerrank-open-source-ats\" target=\"_blank\" class=\"Story_link\">(https://danunparsed.com/p/hackerrank-open-source-ats)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48713832\">1027 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sambellll\"><span>sambellll</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48713832\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48713832\">433 comments</a></span></div></div></div>",
 			"retrieved": 1782741816303
 		},
 		{
@@ -84,7 +84,7 @@
 			"id": "link-0147b7a664692eec2c205f13c267a188",
 			"title": "Virginia bans sale of precise geolocation data",
 			"link": "https://news.ycombinator.com/item?id=48767347",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48767347\"><span>Virginia bans sale of precise geolocation data</span></a><a href=\"https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\" target=\"_blank\" class=\"Story_link\">(https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48767347\">930 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=toomuchtodo\"><span>toomuchtodo</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48767347\">22 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48767347\">137 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://lis.virginia.gov/bill-details/20261/SB338/text/SB338\" rel=\"nofollow\">https://lis.virginia.gov/bill-details/20261/SB338/text/SB338</a></span></div></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48767347\"><span>Virginia bans sale of precise geolocation data</span></a><a href=\"https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\" target=\"_blank\" class=\"Story_link\">(https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48767347\">933 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=toomuchtodo\"><span>toomuchtodo</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48767347\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48767347\">137 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://lis.virginia.gov/bill-details/20261/SB338/text/SB338\" rel=\"nofollow\">https://lis.virginia.gov/bill-details/20261/SB338/text/SB338</a></span></div></div></div></div>",
 			"retrieved": 1783063218934
 		},
 		{
@@ -119,7 +119,7 @@
 			"id": "link-3bccbadc0ebd6568d37f16daca4942ad",
 			"title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
 			"link": "https://news.ycombinator.com/item?id=48745456",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48745456\"><span>Physical disc production ending in Jan 2028 for new games on PlayStation</span></a><a href=\"https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\" target=\"_blank\" class=\"Story_link\">(https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48745456\">780 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Tiberium\"><span>Tiberium</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">789 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48745456\"><span>Physical disc production ending in Jan 2028 for new games on PlayStation</span></a><a href=\"https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\" target=\"_blank\" class=\"Story_link\">(https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48745456\">781 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Tiberium\"><span>Tiberium</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">789 comments</a></span></div></div></div>",
 			"retrieved": 1782977572272
 		},
 		{
@@ -140,8 +140,15 @@
 			"id": "link-9842aa7b30825b703a375420521fd235",
 			"title": "Most arguments are about ego, not ideas",
 			"link": "https://news.ycombinator.com/item?id=48746445",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48746445\"><span>Most arguments are about ego, not ideas</span></a><a href=\"https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html\" target=\"_blank\" class=\"Story_link\">(https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48746445\">717 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=backlit4034\"><span>backlit4034</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48746445\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48746445\">557 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48746445\"><span>Most arguments are about ego, not ideas</span></a><a href=\"https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html\" target=\"_blank\" class=\"Story_link\">(https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48746445\">718 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=backlit4034\"><span>backlit4034</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48746445\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48746445\">557 comments</a></span></div></div></div>",
 			"retrieved": 1782963351829
+		},
+		{
+			"id": "link-e1c00fcdb7edcfb2409ffcf935a42e1c",
+			"title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+			"link": "https://news.ycombinator.com/item?id=48762725",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48762725\"><span>Spain Orders Blacklist of Palantir from Public and Private Companies</span></a><a href=\"https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv\" target=\"_blank\" class=\"Story_link\">(https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48762725\">710 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=mgh2\"><span>mgh2</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48762725\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48762725\">290 comments</a></span></div></div></div>",
+			"retrieved": 1783063218934
 		},
 		{
 			"id": "link-d63a6c57b17a2c0ed66c08f825e657e2",
@@ -149,13 +156,6 @@
 			"link": "https://news.ycombinator.com/item?id=48730729",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48730729\"><span>European digital ID wallets rely on safety services of Google and Apple</span></a><a href=\"https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/\" target=\"_blank\" class=\"Story_link\">(https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48730729\">708 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=donohoe\"><span>donohoe</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48730729\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48730729\">308 comments</a></span></div></div></div>",
 			"retrieved": 1782849490976
-		},
-		{
-			"id": "link-e1c00fcdb7edcfb2409ffcf935a42e1c",
-			"title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-			"link": "https://news.ycombinator.com/item?id=48762725",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48762725\"><span>Spain Orders Blacklist of Palantir from Public and Private Companies</span></a><a href=\"https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv\" target=\"_blank\" class=\"Story_link\">(https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48762725\">706 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=mgh2\"><span>mgh2</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48762725\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48762725\">288 comments</a></span></div></div></div>",
-			"retrieved": 1783063218934
 		},
 		{
 			"id": "link-c270f107b115cd5787cc7492d6eafc15",
@@ -182,8 +182,15 @@
 			"id": "link-f3b9cbaa0f3cf538f1b6f0dad9ee4b4e",
 			"title": ".self: A new top-level domain designed to support self-hosting",
 			"link": "https://news.ycombinator.com/item?id=48724230",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48724230\"><span>.self: A new top-level domain designed to support self-hosting</span></a><a href=\"https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\" target=\"_blank\" class=\"Story_link\">(https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48724230\">675 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=HumanCCF\"><span>HumanCCF</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48724230\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48724230\">382 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48724230\"><span>.self: A new top-level domain designed to support self-hosting</span></a><a href=\"https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\" target=\"_blank\" class=\"Story_link\">(https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48724230\">675 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=HumanCCF\"><span>HumanCCF</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48724230\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48724230\">383 comments</a></span></div></div></div>",
 			"retrieved": 1782842045913
+		},
+		{
+			"id": "link-d215ef2d6f761876812479049b456802",
+			"title": "PeerTube is a free, decentralized and federated video platform",
+			"link": "https://news.ycombinator.com/item?id=48759634",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48759634\"><span>PeerTube is a free, decentralized and federated video platform</span></a><a href=\"https://github.com/Chocobozzz/PeerTube\" target=\"_blank\" class=\"Story_link\">(https://github.com/Chocobozzz/PeerTube)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48759634\">653 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=doener\"><span>doener</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">334 comments</a></span></div></div></div>",
+			"retrieved": 1783087575686
 		},
 		{
 			"id": "link-5f8046186a1d0ffc07920bf4121830c5",
@@ -191,13 +198,6 @@
 			"link": "https://news.ycombinator.com/item?id=48706560",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48706560\"><span>The KIDS Act would require age checks to get online</span></a><a href=\"https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online\" target=\"_blank\" class=\"Story_link\">(https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48706560\">649 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bilsbie\"><span>bilsbie</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48706560\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48706560\">566 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://act.eff.org/action/tell-congress-don-t-force-age-checks-online\" rel=\"nofollow\">https://act.eff.org/action/tell-congress-don-t-force-age-che...</a></span></div></div></div></div>",
 			"retrieved": 1783008638886
-		},
-		{
-			"id": "link-d215ef2d6f761876812479049b456802",
-			"title": "PeerTube is a free, decentralized and federated video platform",
-			"link": "https://news.ycombinator.com/item?id=48759634",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48759634\"><span>PeerTube is a free, decentralized and federated video platform</span></a><a href=\"https://github.com/Chocobozzz/PeerTube\" target=\"_blank\" class=\"Story_link\">(https://github.com/Chocobozzz/PeerTube)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48759634\">649 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=doener\"><span>doener</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">333 comments</a></span></div></div></div>",
-			"retrieved": 1783087575686
 		},
 		{
 			"id": "link-990f2d482d743943e035e54a2c40e18f",

@@ -14,14 +14,14 @@
 			"id": "link-a18e66c0f68175be268a626c1b2892e2",
 			"title": "Android Developer Verification: Threat masquerading as protection",
 			"link": "https://news.ycombinator.com/item?id=48755965",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48755965\"><span>Android Developer Verification: Threat masquerading as protection</span></a><a href=\"https://f-droid.org/2026/07/01/adv-malware.html\" target=\"_blank\" class=\"Story_link\">(https://f-droid.org/2026/07/01/adv-malware.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48755965\">1666 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=drewfax\"><span>drewfax</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">715 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48755965\"><span>Android Developer Verification: Threat masquerading as protection</span></a><a href=\"https://f-droid.org/2026/07/01/adv-malware.html\" target=\"_blank\" class=\"Story_link\">(https://f-droid.org/2026/07/01/adv-malware.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48755965\">1672 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=drewfax\"><span>drewfax</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">715 comments</a></span></div></div></div>",
 			"retrieved": 1783008638886
 		},
 		{
 			"id": "link-b9bd6e22f19bb6f3662549ed8617b1db",
 			"title": "Claude Sonnet 5",
 			"link": "https://news.ycombinator.com/item?id=48736605",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48736605\"><span>Claude Sonnet 5</span></a><a href=\"https://www.anthropic.com/news/claude-sonnet-5\" target=\"_blank\" class=\"Story_link\">(https://www.anthropic.com/news/claude-sonnet-5)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48736605\">1257 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=marinesebastian\"><span>marinesebastian</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48736605\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48736605\">780 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48736605\"><span>Claude Sonnet 5</span></a><a href=\"https://www.anthropic.com/news/claude-sonnet-5\" target=\"_blank\" class=\"Story_link\">(https://www.anthropic.com/news/claude-sonnet-5)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48736605\">1257 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=marinesebastian\"><span>marinesebastian</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48736605\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48736605\">781 comments</a></span></div></div></div>",
 			"retrieved": 1782893636910
 		},
 		{
@@ -32,6 +32,13 @@
 			"retrieved": 1782817013452
 		},
 		{
+			"id": "link-2212fcda2b3689dd4bb0614abbcc61fb",
+			"title": "Half-Baked Product",
+			"link": "https://news.ycombinator.com/item?id=48772388",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48772388\"><span>Half-Baked Product</span></a><a href=\"https://weli.dev/blog/half-baked-product/\" target=\"_blank\" class=\"Story_link\">(https://weli.dev/blog/half-baked-product/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48772388\">1146 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=weli\"><span>weli</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">13 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">350 comments</a></span></div></div></div>",
+			"retrieved": 1783099691197
+		},
+		{
 			"id": "link-eba232dd3996574b4d10c290d9e5b9cb",
 			"title": "GLM 5.2 beats Claude in our benchmarks",
 			"link": "https://news.ycombinator.com/item?id=48709670",
@@ -39,17 +46,10 @@
 			"retrieved": 1782741816303
 		},
 		{
-			"id": "link-2212fcda2b3689dd4bb0614abbcc61fb",
-			"title": "Half-Baked Product",
-			"link": "https://news.ycombinator.com/item?id=48772388",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48772388\"><span>Half-Baked Product</span></a><a href=\"https://weli.dev/blog/half-baked-product/\" target=\"_blank\" class=\"Story_link\">(https://weli.dev/blog/half-baked-product/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48772388\">1087 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=weli\"><span>weli</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">11 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">335 comments</a></span></div></div></div>",
-			"retrieved": 1783099691197
-		},
-		{
 			"id": "link-46c243085ab1bc6ee3e0b4cf79df1409",
 			"title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
 			"link": "https://news.ycombinator.com/item?id=48713832",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48713832\"><span>HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88</span></a><a href=\"https://danunparsed.com/p/hackerrank-open-source-ats\" target=\"_blank\" class=\"Story_link\">(https://danunparsed.com/p/hackerrank-open-source-ats)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48713832\">1026 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sambellll\"><span>sambellll</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48713832\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48713832\">433 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48713832\"><span>HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88</span></a><a href=\"https://danunparsed.com/p/hackerrank-open-source-ats\" target=\"_blank\" class=\"Story_link\">(https://danunparsed.com/p/hackerrank-open-source-ats)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48713832\">1027 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sambellll\"><span>sambellll</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48713832\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48713832\">433 comments</a></span></div></div></div>",
 			"retrieved": 1782768408982
 		},
 		{
