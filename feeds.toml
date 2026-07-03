@@ -74,8 +74,8 @@ titleSelector = "xpathstr=./text()[normalize-space()]"
 [bellsoft_releases]
 title = "BellSoft Java releases"
 url = ["https://bell-sw.com/blog/tags/bellsoft-products/", "https://bell-sw.com/blog/tags/release/"]
-waitForSelector = "xpath=//*[contains(@class, 'blog_content')]//a[contains(@href, '/blog/')]"
-entrySelector = "xpath=//*[contains(@class, 'blog_content')]//a[contains(@href, '/blog/')]"
+waitForSelector = "xpath=//*[contains(@class, 'blog_content')]//a[contains(@href, '/blog/') and not(contains(@class, 'pageButton'))]"
+entrySelector = "xpath=//*[contains(@class, 'blog_content')]//a[contains(@href, '/blog/') and not(contains(@class, 'pageButton'))]"
 titleSelector = "xpath=.//h3 | .//h5"
 linkSelector = "*"
 contentSelector = []
