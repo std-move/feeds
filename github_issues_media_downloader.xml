@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-07-04T06:49:12.168Z</updated>
+    <updated>2026-07-04T10:11:46.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2026-06-25T21:42:56.346Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Problém - Oneplay]]></title>
+        <title type="html"><![CDATA[Problém se získáním mediálních zdrojů - Oneplay]]></title>
         <id>link-d38144ef5f1f689f0242a6c2f441b478</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/79"/>
         <updated>2026-07-03T14:06:15.686Z</updated>

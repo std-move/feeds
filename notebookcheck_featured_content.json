@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-e7338ab645ebf83b7f182997a0bf6e97",
+			"title": "GMKtec NucBox K17 Review: Compact, Efficient, and Surprisingly Quiet",
+			"link": "https://www.notebookcheck.net/GMKtec-NucBox-K17-Review-Just-how-quiet-an-Intel-Core-Ultra-mini-PC-can-be.1333605.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K17/K17_414-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K17/K17_414-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K17/K17_414-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K17/K17_414-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K17/K17_414-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/GMK/NucBox_K17/K17_414-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/e/csm_K17_414_a112fad512.jpg\" loading=\"lazy\" alt=\"GMKtec NucBox K17\"></picture><div class=\"intro_featured_bar_title\">GMKtec NucBox K17 Review: Compact, Efficient, and Surprisingly Quiet</div>",
+			"retrieved": 1783159784413
+		},
+		{
 			"id": "link-1e2bce2d59d2a8d20af47e366adb3a15",
 			"title": "MSI Crosshair A16 HX review: Ryzen 9 Zen 4 still has a lot of life",
 			"link": "https://www.notebookcheck.net/MSI-Crosshair-A16-HX-E8WGK-review-Ryzen-9-Zen-4-outperforming-Ryzen-9-AI-Zen-5.1332012.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Foldable-feather-light-and-with-almost-no-compromises-Honor-Magic-V6-review.1333392.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/Magic_V6/aPic_Honor_Magic_V6-3190-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/6/csm_aPic_Honor_Magic_V6-3190_a2bad91077.jpg\" loading=\"lazy\" alt=\"Foldable, feather-light, and with almost no compromises - Honor Magic V6 review\"></picture><div class=\"intro_featured_bar_title\">Super-Foldable - Honor Magic V6 review</div>",
 			"retrieved": 1783000830329
-		},
-		{
-			"id": "link-7fe5727f1d9e0f74b149a5386a7f3da5",
-			"title": "32 GB DDR5 RAM and affordable",
-			"link": "https://www.notebookcheck.net/32-GB-DDR5-RAM-and-affordable-Lenovo-ThinkBook-14-G9-IPL-laptop-review.1327762.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkBook_14_G9_IPL/Lenovo_ThinkBook14_IPL_teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkBook_14_G9_IPL/Lenovo_ThinkBook14_IPL_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkBook_14_G9_IPL/Lenovo_ThinkBook14_IPL_teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkBook_14_G9_IPL/Lenovo_ThinkBook14_IPL_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkBook_14_G9_IPL/Lenovo_ThinkBook14_IPL_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkBook_14_G9_IPL/Lenovo_ThinkBook14_IPL_teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/1/csm_Lenovo_ThinkBook14_IPL_teaser_b7866028ba.jpg\" loading=\"lazy\" alt=\"32 GB DDR5 RAM and affordable: Lenovo ThinkBook 14 G9 IPL laptop review\"></picture><div class=\"intro_featured_bar_title\">32 GB DDR5 RAM and affordable</div>",
-			"retrieved": 1782923203375
 		}
 	]
 }
