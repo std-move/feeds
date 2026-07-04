@@ -4,60 +4,74 @@
 	"favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
 	"elements": [
 		{
-			"id": "link-dc898340cf67519bb79e7c8d7cb9a059",
-			"title": "Flatiron Building",
-			"link": "https://en.wikipedia.org/wiki/Flatiron_Building",
-			"contents": "... that past tenants of New York City's <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Flatiron_Building\" title=\"Flatiron Building\">Flatiron Building</a></b> <i>(pictured)</i> have included a consulate, musicians, and a crime syndicate?",
-			"retrieved": 1783047513419
+			"id": "link-70af54f7325505357cc5ba79f6085d37",
+			"title": "James Smith",
+			"link": "https://en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician)",
+			"contents": "... that <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician)\" title=\"James Smith (Pennsylvania politician)\">James Smith</a></b> <i>(pictured)</i> signed the U.S. Declaration of Independence even though he was not in Congress to vote on it on July<span typeof=\"mw:Entity\">&nbsp;</span>4, 1776?",
+			"retrieved": 1783133699485
 		},
 		{
-			"id": "link-4449932466f08dbd2e12fa9d7524c340",
-			"title": "Mo'Kalamity",
-			"link": "https://en.wikipedia.org/wiki/Mo'Kalamity",
-			"contents": "... that reggae musician <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Mo'Kalamity\" title=\"Mo'Kalamity\">Mo'Kalamity</a></b> derives her stage name from American frontierswoman <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Calamity_Jane\" title=\"Calamity Jane\">Calamity Jane</a>?",
-			"retrieved": 1783047513419
+			"id": "link-46ca2372afa734feba4563a2816b3540",
+			"title": "the opening number from 1776",
+			"link": "https://en.wikipedia.org/wiki/Sit_Down,_John",
+			"contents": "... that <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Sit_Down,_John\" title=\"Sit Down, John\">the opening number from <i>1776</i></a></b> was quoted in the musical <i>Hamilton</i><span style=\"padding-left:0.15em;\"><span typeof=\"mw:Entity\">?</span></span>",
+			"retrieved": 1783133699485
 		},
 		{
-			"id": "link-d5cded3a3c4b17c22d9af2a5871fe597",
-			"title": "Endeavor: Deep Sea",
-			"link": "https://en.wikipedia.org/wiki/Endeavor:_Deep_Sea",
-			"contents": "... that the board game <i><b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Endeavor:_Deep_Sea\" title=\"Endeavor: Deep Sea\">Endeavor: Deep Sea</a></b></i>, in which players lead a group of marine-life specialists, won the industry Connoisseurs' Game of the Year award?",
-			"retrieved": 1783047513419
+			"id": "link-bfc5b820c4b45a9393bfdc5bd378a37f",
+			"title": "Manuel García de Sena",
+			"link": "https://en.wikipedia.org/wiki/Manuel_Garc%C3%ADa_de_Sena",
+			"contents": "... that <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Manuel_García_de_Sena\" title=\"Manuel García de Sena\">Manuel García de Sena</a></b><span class=\"nowrap\"><span typeof=\"mw:Entity\">'</span>s</span> 1811 translation of U.S. founding documents into Spanish influenced the first constitutions of Argentina, Chile, Mexico, Uruguay and Venezuela?",
+			"retrieved": 1783133699485
 		},
 		{
-			"id": "link-1a9f810c9314739a21291eae17e2219e",
-			"title": "2026 China–US summit",
-			"link": "https://en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_China",
-			"contents": "... that, for the <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_China\" title=\"2026 state visit by Donald Trump to China\">2026 China–US summit</a></b>, China used a transliteration of the US Secretary of State's name beginning with a character meaning 'reckless', 'clumsy', or 'crass'?",
-			"retrieved": 1783047513419
+			"id": "link-ad89c6ec7cdc424016d34b4c2dccf87f",
+			"title": "Faneuil Hall",
+			"link": "https://en.wikipedia.org/wiki/Faneuil_Hall",
+			"contents": "... that construction of Boston's <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Faneuil_Hall\" title=\"Faneuil Hall\">Faneuil Hall</a></b>, later to become the \"Cradle of Liberty\", was approved by a mere seven-vote majority?",
+			"retrieved": 1783133699485
 		},
 		{
-			"id": "link-f2df316bbf5aa1f2f14bf82a2d229ddc",
-			"title": "Colin Queen",
-			"link": "https://en.wikipedia.org/wiki/Colin_Queen",
-			"contents": "... that Lamborghini-supported <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Colin_Queen\" title=\"Colin Queen\">Colin Queen</a></b> is a racing driver despite having a congenital heart defect?",
-			"retrieved": 1783047513419
+			"id": "link-8a2ef1f9e03d21f35e9d4557d8c97301",
+			"title": "the author of Liberia's declaration of independence",
+			"link": "https://en.wikipedia.org/wiki/Hilary_Teage",
+			"contents": "... that <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Hilary_Teage\" title=\"Hilary Teage\">the author of Liberia's declaration of independence</a></b>, based on the United States's, was also the pastor of <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Providence_Baptist_Church\" title=\"Providence Baptist Church\">the church where it was signed</a></b>?",
+			"retrieved": 1783133699485
 		},
 		{
-			"id": "link-005ce0f2795fac6b1143c231af9a494b",
-			"title": "Rochdale v York City in April 2026",
-			"link": "https://en.wikipedia.org/wiki/Rochdale_A.F.C._1%E2%80%931_York_City_F.C._(2026)",
-			"contents": "... that <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Rochdale_A.F.C._1–1_York_City_F.C._(2026)\" title=\"Rochdale A.F.C. 1–1 York City F.C. (2026)\">Rochdale v York City in April<span typeof=\"mw:Entity\">&nbsp;</span>2026</a></b> was the first time that a single English football league match was a title-decider since <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Liverpool_0–2_Arsenal_(1989)\" title=\"Liverpool 0–2 Arsenal (1989)\">Liverpool faced Arsenal in May<span typeof=\"mw:Entity\">&nbsp;</span>1989</a>?",
-			"retrieved": 1783047513419
+			"id": "link-bf622489dad8ab7bd148c74cd8408415",
+			"title": "a widely read Chinese revolutionary tract",
+			"link": "https://en.wikipedia.org/wiki/The_Revolutionary_Army",
+			"contents": "... that <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/The_Revolutionary_Army\" title=\"The Revolutionary Army\">a widely read Chinese revolutionary tract</a></b> published in 1903 was influenced by the U.S. Declaration of Independence?",
+			"retrieved": 1783133699485
 		},
 		{
-			"id": "link-f57d330f7862ecd5a82489781648439b",
-			"title": "a teenager murdered in 2013",
-			"link": "https://en.wikipedia.org/wiki/Murder_of_%C3%81ngeles_Rawson",
-			"contents": "... that a Buenos Aires public square was renamed in honor of <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Murder_of_Ángeles_Rawson\" title=\"Murder of Ángeles Rawson\">a teenager murdered in 2013</a></b>?",
-			"retrieved": 1783047513419
+			"id": "link-61e234244356f5e5aafdb1987ba34f5b",
+			"title": "an All-American",
+			"link": "https://en.wikipedia.org/wiki/Tyrell_Fortune",
+			"contents": "... that <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Tyrell_Fortune\" title=\"Tyrell Fortune\">an All-American</a></b> born on the Fourth of July came back from the dead to fight another day?",
+			"retrieved": 1783133699485
 		},
 		{
-			"id": "link-3c081481c08fe11a167ed7dff544428d",
-			"title": "Leon Milton Birkhead",
-			"link": "https://en.wikipedia.org/wiki/Leon_Milton_Birkhead",
-			"contents": "... that, after doctors told him he had a year to live, <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Leon_Milton_Birkhead\" title=\"Leon Milton Birkhead\">Leon Milton Birkhead</a></b> went into debt to visit Nazi Germany?",
-			"retrieved": 1783047513419
+			"id": "link-81e3b1f1a9dcfe717f7e15ac61f17166",
+			"title": "hundreds of replicas",
+			"link": "https://en.wikipedia.org/wiki/Monticello_replicas",
+			"contents": "... that Thomas Jefferson's Monticello has inspired <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Monticello_replicas\" title=\"Monticello replicas\">hundreds of replicas</a></b>?",
+			"retrieved": 1783133699485
+		},
+		{
+			"id": "link-9fa9e8e322a97133929777a78d6a05ec",
+			"title": "Rhoda Palmer",
+			"link": "https://en.wikipedia.org/wiki/Rhoda_Palmer",
+			"contents": "... that <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Rhoda_Palmer\" title=\"Rhoda Palmer\">Rhoda Palmer</a></b> was the only signer of the pro–universal suffrage <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Declaration_of_Sentiments\" title=\"Declaration of Sentiments\">Declaration of Sentiments</a> known to have cast a vote?",
+			"retrieved": 1783133699485
+		},
+		{
+			"id": "link-4da43fe324700831cacb0cc633f7fd76",
+			"title": "his own house",
+			"link": "https://en.wikipedia.org/wiki/Paul_Revere_House",
+			"contents": "... that, according to one historian, American patriot Paul Revere might not even recognize <b><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Paul_Revere_House\" title=\"Paul Revere House\">his own house</a></b>?",
+			"retrieved": 1783133699485
 		}
 	]
 }
