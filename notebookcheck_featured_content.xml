@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-07-05T07:27:49.545Z</updated>
+    <updated>2026-07-05T10:15:06.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[How I vibe coded a running beats app while running]]></title>
+        <id>link-975482b4d4cac6ceb6fe2c95091982aa</id>
+        <link href="https://www.notebookcheck.net/How-I-vibe-coded-a-running-beats-app-while-running.1335002.0.html"/>
+        <updated>2026-07-05T10:12:58.350Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/8/csm_marathon-pro_0cdd804087.jpg" loading="lazy" alt="Ready to run! Screenshot of the app in question"></picture><div class="intro_featured_bar_title">How I vibe coded a running beats app while running</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Galaxy Buds4 series review]]></title>
         <id>link-54a1a75f4a50ee7381190f8c978a7c71</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Charges-laptops-with-up-to-300-W-Cuktech-30-Ultra-Charging-Station-review.1333609.0.html"/>
         <updated>2026-07-02T19:24:32.564Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/2/csm_Cuktech-30-Ultra-Test-Teaser47_0dc11a8c75.jpg" loading="lazy" alt="Charges laptops with up to 300 W: Cuktech 30 Ultra Charging Station review"></picture><div class="intro_featured_bar_title">This charging station charges notebooks at up to 300 W</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premium where it matters most]]></title>
-        <id>link-4b4fbb55789ca63bb9242de7101e520b</id>
-        <link href="https://www.notebookcheck.net/Premium-low-profile-mechanical-keyboard-made-affordable-Akko-Air-01-review.1333521.0.html"/>
-        <updated>2026-07-02T19:24:32.564Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Akko-Air-01-low-profile-mechanical-keyboard-review-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Akko-Air-01-low-profile-mechanical-keyboard-review-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Akko-Air-01-low-profile-mechanical-keyboard-review-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Akko-Air-01-low-profile-mechanical-keyboard-review-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Akko-Air-01-low-profile-mechanical-keyboard-review-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Akko-Air-01-low-profile-mechanical-keyboard-review-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/9/csm_Akko-Air-01-low-profile-mechanical-keyboard-review_f2ae7fd302.jpg" loading="lazy" alt="Akko Air 01 low profile mechanical keyboard review"></picture><div class="intro_featured_bar_title">Premium where it matters most</div>]]></content>
     </entry>
 </feed>
