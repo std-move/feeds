@@ -2,77 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-07-04T22:59:47.281Z</updated>
+    <updated>2026-07-05T03:27:06.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[James Smith]]></title>
-        <id>link-70af54f7325505357cc5ba79f6085d37</id>
-        <link href="https://en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician)"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician)" title="James Smith (Pennsylvania politician)">James Smith</a></b> <i>(pictured)</i> signed the U.S. Declaration of Independence even though he was not in Congress to vote on it on July<span typeof="mw:Entity">&nbsp;</span>4, 1776?]]></content>
+        <title type="html"><![CDATA[Arceuthobium mengeanum]]></title>
+        <id>link-64ab995b48f9cd2baaf7c671fa679e2c</id>
+        <link href="https://en.wikipedia.org/wiki/Arceuthobium_mengeanum"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that the lost <i><b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Arceuthobium_mengeanum" title="Arceuthobium mengeanum">Arceuthobium mengeanum</a></b></i> mistletoe fossils <i>(illustrated)</i> were possibly entombed in "sea amber"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[the opening number from 1776]]></title>
-        <id>link-46ca2372afa734feba4563a2816b3540</id>
-        <link href="https://en.wikipedia.org/wiki/Sit_Down,_John"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Sit_Down,_John" title="Sit Down, John">the opening number from <i>1776</i></a></b> was quoted in the musical <i>Hamilton</i><span style="padding-left:0.15em;"><span typeof="mw:Entity">?</span></span>]]></content>
+        <title type="html"><![CDATA[John Kinloch Anderson]]></title>
+        <id>link-520419011a7d5009347075828f917980</id>
+        <link href="https://en.wikipedia.org/wiki/John_Kinloch_Anderson"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/John_Kinloch_Anderson" title="John Kinloch Anderson">John Kinloch Anderson</a></b> tested ancient Greek horse riding techniques?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manuel García de Sena]]></title>
-        <id>link-bfc5b820c4b45a9393bfdc5bd378a37f</id>
-        <link href="https://en.wikipedia.org/wiki/Manuel_Garc%C3%ADa_de_Sena"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Manuel_García_de_Sena" title="Manuel García de Sena">Manuel García de Sena</a></b><span class="nowrap"><span typeof="mw:Entity">'</span>s</span> 1811 translation of U.S. founding documents into Spanish influenced the first constitutions of Argentina, Chile, Mexico, Uruguay and Venezuela?]]></content>
+        <title type="html"><![CDATA[one of the Emperor's consorts]]></title>
+        <id>link-3044bd3a7a11e905606634c1679be513</id>
+        <link href="https://en.wikipedia.org/wiki/List_of_Wanli_Emperor's_consorts_and_children"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that the <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Wanli_Emperor" title="Wanli Emperor">Wanli Emperor</a> opposed naming his eldest son heir because his mother, though <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/List_of_Wanli_Emperor's_consorts_and_children" title="List of Wanli Emperor's consorts and children">one of the Emperor's consorts</a></b>, had once been a palace servant?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faneuil Hall]]></title>
-        <id>link-ad89c6ec7cdc424016d34b4c2dccf87f</id>
-        <link href="https://en.wikipedia.org/wiki/Faneuil_Hall"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that construction of Boston's <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Faneuil_Hall" title="Faneuil Hall">Faneuil Hall</a></b>, later to become the "Cradle of Liberty", was approved by a mere seven-vote majority?]]></content>
+        <title type="html"><![CDATA[Bill Bray]]></title>
+        <id>link-98d89603b6207c3127a3c59926f75621</id>
+        <link href="https://en.wikipedia.org/wiki/Bill_Bray_(bodyguard)"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that Michael Jackson once thanked <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Bill_Bray_(bodyguard)" title="Bill Bray (bodyguard)">Bill Bray</a></b> "for being a father" to him?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[the author of Liberia's declaration of independence]]></title>
-        <id>link-8a2ef1f9e03d21f35e9d4557d8c97301</id>
-        <link href="https://en.wikipedia.org/wiki/Hilary_Teage"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Hilary_Teage" title="Hilary Teage">the author of Liberia's declaration of independence</a></b>, based on the United States's, was also the pastor of <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Providence_Baptist_Church" title="Providence Baptist Church">the church where it was signed</a></b>?]]></content>
+        <title type="html"><![CDATA[Mermaid Melody Pichi Pichi Pitch]]></title>
+        <id>link-7d39416063cce68898742158636d57a7</id>
+        <link href="https://en.wikipedia.org/wiki/Mermaid_Melody_Pichi_Pichi_Pitch"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that the manga <i><b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Mermaid_Melody_Pichi_Pichi_Pitch" title="Mermaid Melody Pichi Pichi Pitch">Mermaid Melody Pichi Pichi Pitch</a></b></i> was created to market the <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/E-kara" title="E-kara">E-kara</a></b> karaoke toy to young girls?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a widely read Chinese revolutionary tract]]></title>
-        <id>link-bf622489dad8ab7bd148c74cd8408415</id>
-        <link href="https://en.wikipedia.org/wiki/The_Revolutionary_Army"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/The_Revolutionary_Army" title="The Revolutionary Army">a widely read Chinese revolutionary tract</a></b> published in 1903 was influenced by the U.S. Declaration of Independence?]]></content>
+        <title type="html"><![CDATA[Kailey Utley]]></title>
+        <id>link-90efb1cb4676abc8bb0f5ddeb00e44c9</id>
+        <link href="https://en.wikipedia.org/wiki/Kailey_Utley"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Kailey_Utley" title="Kailey Utley">Kailey Utley</a></b> took a break from her optometry career to become a professional soccer player?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[an All-American]]></title>
-        <id>link-61e234244356f5e5aafdb1987ba34f5b</id>
-        <link href="https://en.wikipedia.org/wiki/Tyrell_Fortune"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Tyrell_Fortune" title="Tyrell Fortune">an All-American</a></b> born on the Fourth of July said that he came back from the dead?]]></content>
+        <title type="html"><![CDATA[fourth novel]]></title>
+        <id>link-e79134a576609aa88b46c20fa8e3ad2c</id>
+        <link href="https://en.wikipedia.org/wiki/Diamond_(novel)"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Jacqueline_Wilson" title="Jacqueline Wilson">Jacqueline Wilson</a> wrote a <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Diamond_(novel)" title="Diamond (novel)">fourth novel</a></b> in her <i>Hetty Feather</i> series despite only planning to write a trilogy?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[hundreds of replicas]]></title>
-        <id>link-81e3b1f1a9dcfe717f7e15ac61f17166</id>
-        <link href="https://en.wikipedia.org/wiki/Monticello_replicas"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that Thomas Jefferson's Monticello has inspired <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Monticello_replicas" title="Monticello replicas">hundreds of replicas</a></b>?]]></content>
+        <title type="html"><![CDATA[Be Sweet to Me]]></title>
+        <id>link-ea9dcd22c5cbadcec66821ac0184b194</id>
+        <link href="https://en.wikipedia.org/wiki/Be_Sweet_to_Me"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that the title of <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Violet_Grohl" title="Violet Grohl">Violet Grohl</a>'s debut album <i><b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Be_Sweet_to_Me" title="Be Sweet to Me">Be Sweet to Me</a></b></i> began as an in-joke between her and her best friend?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rhoda Palmer]]></title>
-        <id>link-9fa9e8e322a97133929777a78d6a05ec</id>
-        <link href="https://en.wikipedia.org/wiki/Rhoda_Palmer"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Rhoda_Palmer" title="Rhoda Palmer">Rhoda Palmer</a></b> was the only signer of the pro–universal suffrage <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Declaration_of_Sentiments" title="Declaration of Sentiments">Declaration of Sentiments</a> known to have cast a vote?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[his own house]]></title>
-        <id>link-4da43fe324700831cacb0cc633f7fd76</id>
-        <link href="https://en.wikipedia.org/wiki/Paul_Revere_House"/>
-        <updated>2026-07-04T02:54:59.485Z</updated>
-        <content type="html"><![CDATA[... that, according to one historian, American patriot Paul Revere might not even recognize <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Paul_Revere_House" title="Paul Revere House">his own house</a></b>?]]></content>
+        <title type="html"><![CDATA[Paulus Samador da Cunha]]></title>
+        <id>link-6a771890ac89fe4d75fdbf7ccda0d9d1</id>
+        <link href="https://en.wikipedia.org/wiki/Paulus_Samador_da_Cunha"/>
+        <updated>2026-07-05T03:24:55.820Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Paulus_Samador_da_Cunha" title="Paulus Samador da Cunha">Paulus Samador da Cunha</a></b> lost a vote to become the regent of <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Sikka_Regency" title="Sikka Regency">Sikka</a>, but was appointed anyway?]]></content>
     </entry>
 </feed>
