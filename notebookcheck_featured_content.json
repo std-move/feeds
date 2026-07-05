@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-9abc23dfcea3e04ecec17d53cb366fca",
+			"title": "▶ Should you pay more for an RTX 5070 Ti gaming laptop?",
+			"link": "https://www.notebookcheck.net/Should-you-pay-more-for-an-RTX-5070-Ti-gaming-laptop.1334984.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/f/csm__1051859_bfc0d097a7.jpg\" loading=\"lazy\" alt=\"Should you pay more for an RTX 5070 Ti gaming laptop?\"></picture><div class=\"intro_featured_bar_title\">▶ Should you pay more for an RTX 5070 Ti gaming laptop?</div>",
+			"retrieved": 1783264349718
+		},
+		{
 			"id": "link-975482b4d4cac6ceb6fe2c95091982aa",
 			"title": "How I vibe coded a running beats app while running",
 			"link": "https://www.notebookcheck.net/How-I-vibe-coded-a-running-beats-app-while-running.1335002.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Titanium-smartwatch-review-Amazfit-Cheetah-2-Pro-performs-well-despite-a-minor-design-misstep.1333810.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Amazfit/Cheetah_2_Pro/AmazfitCheetah2ProTest-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Amazfit/Cheetah_2_Pro/AmazfitCheetah2ProTest-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Amazfit/Cheetah_2_Pro/AmazfitCheetah2ProTest-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Amazfit/Cheetah_2_Pro/AmazfitCheetah2ProTest-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Amazfit/Cheetah_2_Pro/AmazfitCheetah2ProTest-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Amazfit/Cheetah_2_Pro/AmazfitCheetah2ProTest-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/9/csm_AmazfitCheetah2ProTest_8a21d09a9f.jpg\" loading=\"lazy\" alt=\"Amazfit Cheetah 2 Pro Review\"></picture><div class=\"intro_featured_bar_title\">Subtle Yet Powerful: Amazfit Cheetah 2 Pro review</div>",
 			"retrieved": 1783063218934
-		},
-		{
-			"id": "link-cfa0612dd3d4530ad9208aa444aa4a56",
-			"title": "This charging station charges notebooks at up to 300 W",
-			"link": "https://www.notebookcheck.net/Charges-laptops-with-up-to-300-W-Cuktech-30-Ultra-Charging-Station-review.1333609.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Cuktech-30-Ultra-Test-Teaser47-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/2/csm_Cuktech-30-Ultra-Test-Teaser47_0dc11a8c75.jpg\" loading=\"lazy\" alt=\"Charges laptops with up to 300 W: Cuktech 30 Ultra Charging Station review\"></picture><div class=\"intro_featured_bar_title\">This charging station charges notebooks at up to 300 W</div>",
-			"retrieved": 1783020272564
 		}
 	]
 }
