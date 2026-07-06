@@ -4,123 +4,123 @@
 	"favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
 	"elements": [
 		{
-			"id": "title-34e19c582d359dbcf8a4335946c288cd",
-			"title": "16.2.0 — 14 October 2021",
-			"contents": "<ul id=\"mwBOM\"><li id=\"mwBOQ\">Added support for <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Vulkan\" title=\"Vulkan\" id=\"mwBOU\">Vulkan</a> renderer on a Linux host with Intel, Nvidia, and AMD GPUs</li>\n<li id=\"mwBOY\">Added partial support for <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_11\" title=\"Windows 11\" id=\"mwBOc\">Windows 11</a> as host or guest machines<sup about=\"#mwt501\" class=\"mw-ref reference\" id=\"cite_ref-win11_95-0\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" data-mw=\"{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;win11&quot;},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-win11-95&quot;}}\"><a href=\"#cite_note-win11-95\" id=\"mwBOg\"><span class=\"mw-reflink-text\" id=\"mwBOk\"><span class=\"cite-bracket\" id=\"mwBOo\">[</span>95<span class=\"cite-bracket\" id=\"mwBOs\">]</span></span></a></sup></li>\n<li id=\"mwBOw\">Host GPUs that do not support <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/DirectX\" title=\"DirectX\" id=\"mwBO0\">DirectX</a> feature level 11.1 are supported but deprecated<sup about=\"#mwt504\" class=\"mw-ref reference\" id=\"cite_ref-96\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" data-mw=\"{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-96&quot;}}\"><a href=\"#cite_note-96\" id=\"mwBO4\"><span class=\"mw-reflink-text\" id=\"mwBO8\"><span class=\"cite-bracket\" id=\"mwBPA\">[</span>96<span class=\"cite-bracket\" id=\"mwBPE\">]</span></span></a></sup></li>\n<li id=\"mwBPI\">Host CPUs that do not support <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Mode-based_Execution_Control\" title=\"Mode-based Execution Control\" class=\"mw-redirect\" id=\"mwBPM\">Mode-based Execution Control</a> are supported but deprecated</li>\n<li id=\"mwBPQ\">Security updates and bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-027f2e58fe6adf8598732395bb08bd0b",
+			"title": "16.2.0 Pro — 14 October 2021",
+			"contents": "<ul><li>Added support for <a href=\"/wiki/Vulkan\" title=\"Vulkan\">Vulkan</a> renderer on a Linux host with Intel, Nvidia, and AMD GPUs</li>\n<li>Added partial support for <a href=\"/wiki/Windows_11\" title=\"Windows 11\">Windows 11</a> as host or guest machines<sup id=\"cite_ref-win11_95-0\" class=\"reference\"><a href=\"#cite_note-win11-95\"><span class=\"cite-bracket\">[</span>95<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>Host GPUs that do not support <a href=\"/wiki/DirectX\" title=\"DirectX\">DirectX</a> feature level 11.1 are supported but deprecated<sup id=\"cite_ref-96\" class=\"reference\"><a href=\"#cite_note-96\"><span class=\"cite-bracket\">[</span>96<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>Host CPUs that do not support <a href=\"/wiki/Mode-based_Execution_Control\" class=\"mw-redirect\" title=\"Mode-based Execution Control\">Mode-based Execution Control</a> are supported but deprecated</li>\n<li>Security updates and bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-ccabbb2a99f4d73bd810784aa3eaaa47",
-			"title": "16.2.1 — 9 November 2021",
-			"contents": "<ul id=\"mwBP0\"><li id=\"mwBP4\">Bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-7bfd6b5b69991703163bd89451742b21",
+			"title": "16.2.1 Pro — 9 November 2021",
+			"contents": "<ul><li>Bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-cb12b96318f1ae88a18f3000da8e3f32",
-			"title": "16.2.2 — 18 January 2022",
-			"contents": "<ul id=\"mwBQc\"><li id=\"mwBQg\">Security updates</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-a5a82839f6e433babe16d1f2bdf4b718",
+			"title": "16.2.2 Pro — 18 January 2022",
+			"contents": "<ul><li>Security updates</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-0bffd99f6deb5de421fd0da79acb3f08",
-			"title": "16.2.3 — 10 March 2022",
-			"contents": "<ul id=\"mwBRE\"><li id=\"mwBRI\">Bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-5a482c8d1025ed33391f43fe141dfad4",
+			"title": "16.2.3 Pro — 10 March 2022",
+			"contents": "<ul><li>Bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-05ee7d52f13731ba8a13dd8d0bf943e6",
-			"title": "16.2.4 — 21 July 2022",
-			"contents": "<ul id=\"mwBRs\"><li id=\"mwBRw\">Bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-cfce66d71a7a8769583d74f7594abdd5",
+			"title": "16.2.4 Pro — 21 July 2022",
+			"contents": "<ul><li>Bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-18687302d0fa5cb22c3d20e8c9a3ff8d",
-			"title": "16.2.5 — 7 December 2022",
-			"contents": "<ul id=\"mwBSU\"><li id=\"mwBSY\">Bug fixes</li>\n<li id=\"mwBSc\">Last version for <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_8.1\" title=\"Windows 8.1\" id=\"mwBSg\">Windows 8.1</a> on hosts. Note: If version 16 did not drop <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_7\" title=\"Windows 7\" id=\"mwBSk\">Windows 7</a> support until this version, it would not require Windows 7 users to upgrade to Windows 8 or later.</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-1409dcf246206d6765ddd87632fbaf57",
+			"title": "16.2.5 Pro — 7 December 2022",
+			"contents": "<ul><li>Bug fixes</li>\n<li>Last version for <a href=\"/wiki/Windows_8.1\" title=\"Windows 8.1\">Windows 8.1</a> on hosts. Note: If version 16 did not drop <a href=\"/wiki/Windows_7\" title=\"Windows 7\">Windows 7</a> support until this version, it would not require Windows 7 users to upgrade to Windows 8 or later.</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-9171a6960541fa656463a22e56bed797",
-			"title": "17.0 — 17 November 2022",
-			"contents": "<ul id=\"mwBTI\"><li id=\"mwBTM\">Support for new guest operating systems\n<ul id=\"mwBTQ\"><li id=\"mwBTU\">New <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Microsoft\" title=\"Microsoft\" id=\"mwBTY\">Microsoft</a> <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_11\" title=\"Windows 11\" id=\"mwBTc\">Windows 11</a> builds (including Enterprise)</li>\n<li id=\"mwBTg\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_Server_2022\" title=\"Windows Server 2022\" id=\"mwBTk\">Windows Server 2022</a></li>\n<li id=\"mwBTo\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Ubuntu_version_history#Ubuntu_22.04_LTS_(Jammy_Jellyfish)\" title=\"Ubuntu version history\" id=\"mwBTs\">Ubuntu 22.04</a></li>\n<li id=\"mwBTw\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#RHEL_9\" title=\"Red Hat Enterprise Linux\" id=\"mwBT0\">RHEL 9</a></li>\n<li id=\"mwBT4\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Debian_version_history#Debian_11_(Bullseye)\" title=\"Debian version history\" class=\"mw-redirect\" id=\"mwBT8\">Debian 11.x</a></li></ul></li>\n<li id=\"mwBUA\">New auto-start virtual machine feature</li>\n<li id=\"mwBUE\">New virtual <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Trusted_Platform_Module\" title=\"Trusted Platform Module\" id=\"mwBUI\">Trusted Platform Module</a> (TPM) 2.0</li>\n<li id=\"mwBUM\">New full or fast encryption features</li>\n<li id=\"mwBUQ\">Support for OpenGL 4.3 and WDDM 1.2</li>\n<li id=\"mwBUU\">Bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-edadbbd8b891bd05b8922bfdbbf3d91a",
+			"title": "17.0 Pro — 17 November 2022",
+			"contents": "<ul><li>Support for new guest operating systems\n<ul><li>New <a href=\"/wiki/Microsoft\" title=\"Microsoft\">Microsoft</a> <a href=\"/wiki/Windows_11\" title=\"Windows 11\">Windows 11</a> builds (including Enterprise)</li>\n<li><a href=\"/wiki/Windows_Server_2022\" title=\"Windows Server 2022\">Windows Server 2022</a></li>\n<li><a href=\"/wiki/Ubuntu_version_history#Ubuntu_22.04_LTS_(Jammy_Jellyfish)\" title=\"Ubuntu version history\">Ubuntu 22.04</a></li>\n<li><a href=\"/wiki/Red_Hat_Enterprise_Linux#RHEL_9\" title=\"Red Hat Enterprise Linux\">RHEL 9</a></li>\n<li><a href=\"/wiki/Debian_version_history#Debian_11_(Bullseye)\" class=\"mw-redirect\" title=\"Debian version history\">Debian 11.x</a></li></ul></li>\n<li>New auto-start virtual machine feature</li>\n<li>New virtual <a href=\"/wiki/Trusted_Platform_Module\" title=\"Trusted Platform Module\">Trusted Platform Module</a> (TPM) 2.0</li>\n<li>New full or fast encryption features</li>\n<li>Support for OpenGL 4.3 and WDDM 1.2</li>\n<li>Bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-1de8eb7a8bbf00ef6c251f81e00adb04",
-			"title": "17.0.1 — 2 February 2023",
-			"contents": "<ul id=\"mwBU4\"><li id=\"mwBU8\">Security updates and bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-97c351d5b25a08f131ab2270acf86a5e",
+			"title": "17.0.1 Pro — 2 February 2023",
+			"contents": "<ul><li>Security updates and bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-3913b8638b42e47e24949e9bb67eb62f",
-			"title": "17.0.2 — 25 April 2023",
-			"contents": "<ul id=\"mwBVg\"><li id=\"mwBVk\">Security updates and bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-ed6c07f2affd9cc678596314d10e4df3",
+			"title": "17.0.2 Pro — 25 April 2023",
+			"contents": "<ul><li>Security updates and bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-5595ae236b1243918c39c327476426f6",
-			"title": "17.5 — 19 October 2023",
-			"contents": "<ul id=\"mwBWI\"><li id=\"mwBWM\">Support for up to 256 NVMe devices (4 controllers and 64 devices per controller)</li>\n<li id=\"mwBWQ\">Support for NVMe 1.3</li>\n<li id=\"mwBWU\">Upgraded encryption algorithm from <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Disk_encryption_theory#Cipher-block_chaining_(CBC)\" title=\"Disk encryption theory\" id=\"mwBWY\">CBC</a> to <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Disk_encryption_theory#XEX-based_tweaked-codebook_mode_with_ciphertext_stealing_(XTS)\" title=\"Disk encryption theory\" id=\"mwBWc\">XTS</a></li>\n<li id=\"mwBWg\">New <code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" style=\"\" dir=\"ltr\" typeof=\"mw:Extension/syntaxhighlight mw:Transclusion\" about=\"#mwt550\" id=\"mwBWk\" data-mw=\"{&quot;name&quot;:&quot;syntaxhighlight&quot;,&quot;attrs&quot;:{&quot;lang&quot;:&quot;text&quot;,&quot;class&quot;:&quot;&quot;,&quot;style&quot;:&quot;&quot;,&quot;inline&quot;:&quot;1&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;VMRUN&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;code&quot;,&quot;href&quot;:&quot;./Template:Code&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;VMRUN&quot;}},&quot;i&quot;:0}}]}\">VMRUN</code> command line utility for controlling virtual machines</li>\n<li id=\"mwBWo\">Support for importing or exporting virtual machines with vTPM device</li>\n<li id=\"mwBWs\">Support for managing power operations of encrypted virtual machines using VMREST API</li>\n<li id=\"mwBWw\">Security updates and bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-633f7e72c93915b57eb63ddb3163c4dd",
+			"title": "17.5 Pro — 19 October 2023",
+			"contents": "<ul><li>Support for up to 256 NVMe devices (4 controllers and 64 devices per controller)</li>\n<li>Support for NVMe 1.3</li>\n<li>Upgraded encryption algorithm from <a href=\"/wiki/Disk_encryption_theory#Cipher-block_chaining_(CBC)\" title=\"Disk encryption theory\">CBC</a> to <a href=\"/wiki/Disk_encryption_theory#XEX-based_tweaked-codebook_mode_with_ciphertext_stealing_(XTS)\" title=\"Disk encryption theory\">XTS</a></li>\n<li>New <code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" style=\"\" dir=\"ltr\">VMRUN</code> command line utility for controlling virtual machines</li>\n<li>Support for importing or exporting virtual machines with vTPM device</li>\n<li>Support for managing power operations of encrypted virtual machines using VMREST API</li>\n<li>Security updates and bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-fc43aafc4c312c375119690c7fc7e89f",
-			"title": "17.5.1 — 27 February 2024",
-			"contents": "<ul id=\"mwBXU\"><li id=\"mwBXY\">Fixed CVE-2024-22251 vulnerability</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-1aaa2f3d1b645625d17549f8a5f4bcd9",
+			"title": "17.5.1 Pro — 27 February 2024",
+			"contents": "<ul><li>Fixed CVE-2024-22251 vulnerability</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-7d4f2bcbec84fa75779773799ecc6fe6",
-			"title": "17.5.2 — 14 May 2024",
-			"contents": "<ul id=\"mwBX8\"><li id=\"mwBYA\">Copyrights of program now link to <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Broadcom\" title=\"Broadcom\" id=\"mwBYE\">Broadcom</a>, VMware LLC's new owner</li>\n<li id=\"mwBYI\">Introduced commercial and personal use subscriptions licensing model. For personal use, a product key won't be required</li>\n<li id=\"mwBYM\">Workstation Player was discontinued as Workstation Pro became free for personal use<sup about=\"#mwt562\" class=\"mw-ref reference\" id=\"cite_ref-:0_15-1\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" data-mw=\"{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;:0&quot;}}\"><a href=\"#cite_note-:0-15\" id=\"mwBYQ\"><span class=\"mw-reflink-text\" id=\"mwBYU\"><span class=\"cite-bracket\" id=\"mwBYY\">[</span>15<span class=\"cite-bracket\" id=\"mwBYc\">]</span></span></a></sup></li>\n<li id=\"mwBYg\">Fixed CVE-2024-22267, CVE-2024-22268, CVE-2024-22269, and CVE-2024-22270 vulnerabilities</li>\n<li id=\"mwBYk\">Last version for <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_Server_2012_R2\" title=\"Windows Server 2012 R2\" id=\"mwBYo\">Windows Server 2012 R2</a> and <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_Server_2016\" title=\"Windows Server 2016\" id=\"mwBYs\">Windows Server 2016</a> on hosts</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-6fcb50ceeaacc2fb0d3fb734aacfb112",
+			"title": "17.5.2 Pro — 14 May 2024",
+			"contents": "<ul><li>Copyrights of program now link to <a href=\"/wiki/Broadcom\" title=\"Broadcom\">Broadcom</a>, VMware LLC's new owner</li>\n<li>Introduced commercial and personal use subscriptions licensing model. For personal use, a product key won't be required</li>\n<li>Workstation Player was discontinued as Workstation Pro became free for personal use<sup id=\"cite_ref-:0_15-1\" class=\"reference\"><a href=\"#cite_note-:0-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>Fixed CVE-2024-22267, CVE-2024-22268, CVE-2024-22269, and CVE-2024-22270 vulnerabilities</li>\n<li>Last version for <a href=\"/wiki/Windows_Server_2012_R2\" title=\"Windows Server 2012 R2\">Windows Server 2012 R2</a> and <a href=\"/wiki/Windows_Server_2016\" title=\"Windows Server 2016\">Windows Server 2016</a> on hosts</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-f4f78ed7f69afb14ceb930fb04fc2e72",
-			"title": "17.6 — 3 September 2024",
-			"contents": "<ul id=\"mwBZQ\"><li id=\"mwBZU\">Support for new guest operating systems\n<ul id=\"mwBZY\"><li id=\"mwBZc\">New <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Microsoft\" title=\"Microsoft\" id=\"mwBZg\">Microsoft</a> <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_11\" title=\"Windows 11\" id=\"mwBZk\">Windows 11</a> builds (including Enterprise)</li>\n<li id=\"mwBZo\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Windows_Server_2025\" title=\"Windows Server 2025\" id=\"mwBZs\">Windows Server 2025</a></li>\n<li id=\"mwBZw\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Ubuntu_version_history#Ubuntu_24.04_LTS_(Noble_Numbat)\" title=\"Ubuntu version history\" id=\"mwBZ0\">Ubuntu 24.04</a></li>\n<li id=\"mwBZ4\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Fedora_Linux_release_history#Fedora_40\" title=\"Fedora Linux release history\" id=\"mwBZ8\">Fedora 40</a></li></ul></li>\n<li id=\"mwBaA\">New <code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" style=\"\" dir=\"ltr\" typeof=\"mw:Extension/syntaxhighlight mw:Transclusion\" about=\"#mwt568\" id=\"mwBaE\" data-mw=\"{&quot;name&quot;:&quot;syntaxhighlight&quot;,&quot;attrs&quot;:{&quot;lang&quot;:&quot;text&quot;,&quot;class&quot;:&quot;&quot;,&quot;style&quot;:&quot;&quot;,&quot;inline&quot;:&quot;1&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;vmcli&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;code&quot;,&quot;href&quot;:&quot;./Template:Code&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;vmcli&quot;}},&quot;i&quot;:0}}]}\">vmcli</code> command line utility for directly interacting with the hypervisor from a Linux or macOS terminal, or the Windows command prompt</li></ul>\n<p id=\"mwBaI\"><i id=\"mwBaM\">Removed</i> features:</p>\n\n<ul id=\"mwBaQ\"><li id=\"mwBaU\">Legacy operating systems Tools ISOs omitted from program download (still available for separate download)</li>\n<li id=\"mwBaY\">Bluetooth hub pass-through</li>\n<li id=\"mwBac\">Physical <a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Parallel_port\" title=\"Parallel port\" id=\"mwBag\">parallel port</a> pass-through</li>\n<li id=\"mwBak\">Unity mode</li>\n<li id=\"mwBao\">Enhanced keyboard driver</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-20a7cccea69bb05564aa3e9882e8604c",
+			"title": "17.6 Pro — 3 September 2024",
+			"contents": "<ul><li>Support for new guest operating systems\n<ul><li>New <a href=\"/wiki/Microsoft\" title=\"Microsoft\">Microsoft</a> <a href=\"/wiki/Windows_11\" title=\"Windows 11\">Windows 11</a> builds (including Enterprise)</li>\n<li><a href=\"/wiki/Windows_Server_2025\" title=\"Windows Server 2025\">Windows Server 2025</a></li>\n<li><a href=\"/wiki/Ubuntu_version_history#Ubuntu_24.04_LTS_(Noble_Numbat)\" title=\"Ubuntu version history\">Ubuntu 24.04</a></li>\n<li><a href=\"/wiki/Fedora_Linux_release_history#Fedora_40\" title=\"Fedora Linux release history\">Fedora 40</a></li></ul></li>\n<li>New <code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" style=\"\" dir=\"ltr\">vmcli</code> command line utility for directly interacting with the hypervisor from a Linux or macOS terminal, or the Windows command prompt</li></ul>\n<p><i>Removed</i> features:\n</p>\n<ul><li>Legacy operating systems Tools ISOs omitted from program download (still available for separate download)</li>\n<li>Bluetooth hub pass-through</li>\n<li>Physical <a href=\"/wiki/Parallel_port\" title=\"Parallel port\">parallel port</a> pass-through</li>\n<li>Unity mode</li>\n<li>Enhanced keyboard driver</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-ede2438818ad1d97bc15948cd7405317",
-			"title": "17.6.1 — 10 October 2024",
-			"contents": "<ul id=\"mwBbM\"><li id=\"mwBbQ\">Bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-12783037c4a514a99aac06cb4731fdc9",
+			"title": "17.6.1 Pro — 10 October 2024",
+			"contents": "<ul><li>Bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-7d412224bb98856fa5ad6c4267a95888",
-			"title": "17.6.2 — 17 December 2024",
-			"contents": "<ul id=\"mwBb0\"><li id=\"mwBb4\">Bug fixes</li>\n<li id=\"mwBb8\">Introduced a free licensing model for commercial, education, and personal use</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-f7b01365ec76d6e553e012a4fcb654b1",
+			"title": "17.6.2 Pro — 17 December 2024",
+			"contents": "<ul><li>Bug fixes</li>\n<li>Introduced a free licensing model for commercial, education, and personal use</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-5267e9e58bf4b7cd341058d89781f67e",
-			"title": "17.6.3 — 4 March 2025",
-			"contents": "<ul id=\"mwBcg\"><li id=\"mwBck\">Fixed CVE-2025-22224 and CVE-2025-22226 vulnerabilities</li>\n<li id=\"mwBco\">Bug fixes</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-160caf17f829ee2d47efed86fabc9a16",
+			"title": "17.6.3 Pro — 4 March 2025",
+			"contents": "<ul><li>Fixed CVE-2025-22224 and CVE-2025-22226 vulnerabilities</li>\n<li>Bug fixes</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-a643fdf60c03502b63fa9437738babd6",
-			"title": "17.6.4 — 15 July 2025",
-			"contents": "<ul id=\"mwBdM\"><li id=\"mwBdQ\">Fixed CVE-2025-41236, CVE-2025-41237, CVE-2025-41238, and CVE-2025-41239 vulnerabilities</li>\n<li id=\"mwBdU\">Fixed CVE-2025-2884 vulnerability</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-d75d54ef7711ac004aa9d68a86b0d062",
+			"title": "17.6.4 Pro — 15 July 2025",
+			"contents": "<ul><li>Fixed CVE-2025-41236, CVE-2025-41237, CVE-2025-41238, and CVE-2025-41239 vulnerabilities</li>\n<li>Fixed CVE-2025-2884 vulnerability</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
-			"id": "title-29a8aee198ce4501a030fdbcf2d3e883",
-			"title": "Pro — 14 October 2025",
-			"contents": "<ul id=\"mwBd4\"><li id=\"mwBd8\">Support for new guest operating systems\n<ul id=\"mwBeA\"><li id=\"mwBeE\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#RHEL_10\" title=\"Red Hat Enterprise Linux\" id=\"mwBeI\">Red Hat Enterprise Linux 10</a></li>\n<li id=\"mwBeM\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Fedora_Linux_release_history#Fedora_40\" title=\"Fedora Linux release history\" id=\"mwBeQ\">Fedora 42</a></li>\n<li id=\"mwBeU\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/SUSE_Linux_Enterprise\" title=\"SUSE Linux Enterprise\" id=\"mwBeY\">SUSE Linux Enterprise</a> 16 (Beta)</li>\n<li id=\"mwBec\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/OpenSUSE#Leap_16.x_series\" title=\"OpenSUSE\" id=\"mwBeg\">OpenSUSE Leap 16.0</a> (RC)</li>\n<li id=\"mwBek\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Debian\" title=\"Debian\" id=\"mwBeo\">Debian</a> 13</li>\n<li id=\"mwBes\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Oracle_Linux#Release_history\" title=\"Oracle Linux\" id=\"mwBew\">Oracle Linux 10</a></li>\n<li id=\"mwBe0\">VMware ESX 9.0</li></ul></li>\n<li id=\"mwBe4\">Support for new host operating systems\n<ul id=\"mwBe8\"><li id=\"mwBfA\">Red Hat Enterprise Linux 10</li>\n<li id=\"mwBfE\">Fedora Linux 42</li>\n<li id=\"mwBfI\">openSUSE Leap 16.0 (RC)</li>\n<li id=\"mwBfM\">SUSE Linux 16 (Beta)</li>\n<li id=\"mwBfQ\">Debian 13</li></ul></li>\n<li id=\"mwBfU\"><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/USB_3.0#3.2\" title=\"USB 3.0\" id=\"mwBfY\">USB 3.2 Gen 2×2</a> controller (up to <span class=\"nowrap\" about=\"#mwt595\" typeof=\"mw:Transclusion\" id=\"mwBfc\" data-mw=\"{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;val&quot;,&quot;href&quot;:&quot;./Template:Val&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;20&quot;},&quot;ul&quot;:{&quot;wt&quot;:&quot;gbit/s&quot;}},&quot;i&quot;:0}}]}\"><span data-sort-value=\"7001200000000000000♠\"></span>20<span typeof=\"mw:Entity\">&nbsp;</span><a rel=\"mw:WikiLink\" href=\"//en.wikipedia.org/wiki/Gbit/s\" title=\"Gbit/s\" class=\"mw-redirect\">gbit/s</a></span>)</li>\n<li id=\"mwBfg\">Update hardware compatibility to version v22</li>\n<li id=\"mwBfk\">Support for Hyper-V/WHP detection</li>\n<li id=\"mwBfo\">New <code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" style=\"\" dir=\"ltr\" typeof=\"mw:Extension/syntaxhighlight mw:Transclusion\" about=\"#mwt596\" id=\"mwBfs\" data-mw=\"{&quot;name&quot;:&quot;syntaxhighlight&quot;,&quot;attrs&quot;:{&quot;lang&quot;:&quot;text&quot;,&quot;class&quot;:&quot;&quot;,&quot;style&quot;:&quot;&quot;,&quot;inline&quot;:&quot;1&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;dictTool&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;code&quot;,&quot;href&quot;:&quot;./Template:Code&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;dictTool&quot;}},&quot;i&quot;:0}}]}\">dictTool</code> command line utility for examining and modifying VMware configuration files</li></ul>",
-			"retrieved": 1783308771241
+			"id": "title-0559866e55664dcfb4355fde97a62ea1",
+			"title": "Pro 25H2 (25.0.0) — 14 October 2025",
+			"contents": "<ul><li>Support for new guest operating systems\n<ul><li><a href=\"/wiki/Red_Hat_Enterprise_Linux#RHEL_10\" title=\"Red Hat Enterprise Linux\">Red Hat Enterprise Linux 10</a></li>\n<li><a href=\"/wiki/Fedora_Linux_release_history#Fedora_40\" title=\"Fedora Linux release history\">Fedora 42</a></li>\n<li><a href=\"/wiki/SUSE_Linux_Enterprise\" title=\"SUSE Linux Enterprise\">SUSE Linux Enterprise</a> 16 (Beta)</li>\n<li><a href=\"/wiki/OpenSUSE#Leap_16.x_series\" title=\"OpenSUSE\">OpenSUSE Leap 16.0</a> (RC)</li>\n<li><a href=\"/wiki/Debian\" title=\"Debian\">Debian</a> 13</li>\n<li><a href=\"/wiki/Oracle_Linux#Release_history\" title=\"Oracle Linux\">Oracle Linux 10</a></li>\n<li>VMware ESX 9.0</li></ul></li>\n<li>Support for new host operating systems\n<ul><li>Red Hat Enterprise Linux 10</li>\n<li>Fedora Linux 42</li>\n<li>openSUSE Leap 16.0 (RC)</li>\n<li>SUSE Linux 16 (Beta)</li>\n<li>Debian 13</li></ul></li>\n<li><a href=\"/wiki/USB_3.0#3.2\" title=\"USB 3.0\">USB 3.2 Gen 2×2</a> controller (up to <span class=\"nowrap\"><span data-sort-value=\"7001200000000000000♠\"></span>20&nbsp;<a href=\"/wiki/Gbit/s\" class=\"mw-redirect\" title=\"Gbit/s\">gbit/s</a></span>)</li>\n<li>Update hardware compatibility to version v22</li>\n<li>Support for Hyper-V/WHP detection</li>\n<li>New <code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" style=\"\" dir=\"ltr\">dictTool</code> command line utility for examining and modifying VMware configuration files</li></ul>",
+			"retrieved": 1783326013234
 		},
 		{
 			"id": "title-2745a073d1741210a5115edc8f6227ba",
 			"title": "25H2u1 (25.0.1.25219725) — 26 February 2026",
-			"contents": "<ul id=\"mwBgQ\"><li id=\"mwBgU\">Re-enabled the Check for updates option</li>\n<li id=\"mwBgY\">Fixed CVE-2026-22715, CVE-2026-22716, CVE-2026-22717, and CVE-2026-22722 vulnerabilities</li></ul>",
+			"contents": "<ul><li>Re-enabled the Check for updates option</li>\n<li>Fixed CVE-2026-22715, CVE-2026-22716, CVE-2026-22717, and CVE-2026-22722 vulnerabilities</li></ul>",
 			"retrieved": 1777389134958
 		},
 		{
 			"id": "title-4ff8f6b01b28e7e775d1cbf167d2c845",
 			"title": "26H1[115] — 14 May 2026",
-			"contents": "<ul id=\"mwBg8\"><li id=\"mwBhA\">VMWare Workstation has become a fully 64-bit application: all the included binaries are now 64-bit</li>\n<li id=\"mwBhE\">Virtual machines now store and display time stamps and can be sorted by last used</li>\n<li id=\"mwBhI\">VM notes can be displayed in tabs</li>\n<li id=\"mwBhM\">New hosts and guests support (refer to release notes)</li></ul>",
+			"contents": "<ul><li>VMWare Workstation has become a fully 64-bit application: all the included binaries are now 64-bit</li>\n<li>Virtual machines now store and display time stamps and can be sorted by last used</li>\n<li>VM notes can be displayed in tabs</li>\n<li>New hosts and guests support (refer to release notes)</li></ul>",
 			"retrieved": 1779133488306
 		}
 	]
