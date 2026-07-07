@@ -4,24 +4,17 @@
 	"favicon": "https://hn.algolia.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-cc94e6e5d2bceff4820bf97f1184c709",
-			"title": "Claude Code is steganographically marking requests",
-			"link": "https://news.ycombinator.com/item?id=48734373",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48734373\"><span>Claude Code is steganographically marking requests</span></a><a href=\"https://thereallo.dev/blog/claude-code-prompt-steganography\" target=\"_blank\" class=\"Story_link\">(https://thereallo.dev/blog/claude-code-prompt-steganography)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48734373\">2442 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=kirushik\"><span>kirushik</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48734373\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48734373\">747 comments</a></span></div></div></div>",
-			"retrieved": 1782849490976
-		},
-		{
 			"id": "link-a18e66c0f68175be268a626c1b2892e2",
 			"title": "Android Developer Verification: Threat masquerading as protection",
 			"link": "https://news.ycombinator.com/item?id=48755965",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48755965\"><span>Android Developer Verification: Threat masquerading as protection</span></a><a href=\"https://f-droid.org/2026/07/01/adv-malware.html\" target=\"_blank\" class=\"Story_link\">(https://f-droid.org/2026/07/01/adv-malware.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48755965\">1727 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=drewfax\"><span>drewfax</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">742 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48755965\"><span>Android Developer Verification: Threat masquerading as protection</span></a><a href=\"https://f-droid.org/2026/07/01/adv-malware.html\" target=\"_blank\" class=\"Story_link\">(https://f-droid.org/2026/07/01/adv-malware.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48755965\">1729 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=drewfax\"><span>drewfax</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48755965\">742 comments</a></span></div></div></div>",
 			"retrieved": 1783000830329
 		},
 		{
 			"id": "link-2212fcda2b3689dd4bb0614abbcc61fb",
 			"title": "Half-Baked Product",
 			"link": "https://news.ycombinator.com/item?id=48772388",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48772388\"><span>Half-Baked Product</span></a><a href=\"https://weli.dev/blog/half-baked-product/\" target=\"_blank\" class=\"Story_link\">(https://weli.dev/blog/half-baked-product/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48772388\">1385 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=weli\"><span>weli</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">409 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48772388\"><span>Half-Baked Product</span></a><a href=\"https://weli.dev/blog/half-baked-product/\" target=\"_blank\" class=\"Story_link\">(https://weli.dev/blog/half-baked-product/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48772388\">1389 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=weli\"><span>weli</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48772388\">409 comments</a></span></div></div></div>",
 			"retrieved": 1783099691197
 		},
 		{
@@ -35,22 +28,29 @@
 			"id": "link-bf3639ea952c7e28235b476b64dfa301",
 			"title": "Organic Maps",
 			"link": "https://news.ycombinator.com/item?id=48794446",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48794446\"><span>Organic Maps</span></a><a href=\"https://organicmaps.app/\" target=\"_blank\" class=\"Story_link\">(https://organicmaps.app/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48794446\">1158 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=tosh\"><span>tosh</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794446\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794446\">362 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48794446\"><span>Organic Maps</span></a><a href=\"https://organicmaps.app/\" target=\"_blank\" class=\"Story_link\">(https://organicmaps.app/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48794446\">1159 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=tosh\"><span>tosh</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794446\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794446\">362 comments</a></span></div></div></div>",
 			"retrieved": 1783285191010
 		},
 		{
 			"id": "link-d2b9ffe3267235ff6abdd7be5213ae05",
 			"title": "OpenPrinter",
 			"link": "https://news.ycombinator.com/item?id=48797916",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48797916\"><span>OpenPrinter</span></a><a href=\"https://www.opentools.studio/\" target=\"_blank\" class=\"Story_link\">(https://www.opentools.studio/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48797916\">1123 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bouh\"><span>bouh</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48797916\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48797916\">283 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48797916\"><span>OpenPrinter</span></a><a href=\"https://www.opentools.studio/\" target=\"_blank\" class=\"Story_link\">(https://www.opentools.studio/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48797916\">1128 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bouh\"><span>bouh</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48797916\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48797916\">285 comments</a></span></div></div></div>",
 			"retrieved": 1783326013234
 		},
 		{
 			"id": "link-e3f7f7d0a074875cb5519d8124bf2400",
 			"title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
 			"link": "https://news.ycombinator.com/item?id=48740771",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48740771\"><span>Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5</span></a><a href=\"https://twitter.com/AnthropicAI/status/2072106151890809341\" target=\"_blank\" class=\"Story_link\">(https://twitter.com/AnthropicAI/status/2072106151890809341)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48740771\">976 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Pragmata\"><span>Pragmata</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48740771\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48740771\">690 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48740771\"><span>Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5</span></a><a href=\"https://twitter.com/AnthropicAI/status/2072106151890809341\" target=\"_blank\" class=\"Story_link\">(https://twitter.com/AnthropicAI/status/2072106151890809341)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48740771\">977 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Pragmata\"><span>Pragmata</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48740771\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48740771\">690 comments</a></span></div></div></div>",
 			"retrieved": 1782909193230
+		},
+		{
+			"id": "link-3ce44ef87f2c2718524fa8be194c0651",
+			"title": "For first time, a cell built from scratch grows and divides",
+			"link": "https://news.ycombinator.com/item?id=48747304",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48747304\"><span>For first time, a cell built from scratch grows and divides</span></a><a href=\"https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/\" target=\"_blank\" class=\"Story_link\">(https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48747304\">954 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=defrost\"><span>defrost</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747304\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747304\">302 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://biotic.org/research/spudcell/\" rel=\"nofollow\">https://biotic.org/research/spudcell/</a><p><a href=\"https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch\" rel=\"nofollow\">https://www.science.org/content/article/lab-created-spudcell...</a></p><p><a href=\"https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html?unlocked_article_code=1.uVA.6Rwg.20U5t0kLK6oU&amp;smid=nytcore-ios-share\" rel=\"nofollow\">https://www.nytimes.com/interactive/2026/07/01/science/spudc...</a></p></span></div></div></div></div>",
+			"retrieved": 1782947744403
 		},
 		{
 			"id": "link-0147b7a664692eec2c205f13c267a188",
@@ -60,25 +60,25 @@
 			"retrieved": 1783063218934
 		},
 		{
-			"id": "link-3ce44ef87f2c2718524fa8be194c0651",
-			"title": "For first time, a cell built from scratch grows and divides",
-			"link": "https://news.ycombinator.com/item?id=48747304",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48747304\"><span>For first time, a cell built from scratch grows and divides</span></a><a href=\"https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/\" target=\"_blank\" class=\"Story_link\">(https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48747304\">952 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=defrost\"><span>defrost</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747304\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747304\">302 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://biotic.org/research/spudcell/\" rel=\"nofollow\">https://biotic.org/research/spudcell/</a><p><a href=\"https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch\" rel=\"nofollow\">https://www.science.org/content/article/lab-created-spudcell...</a></p><p><a href=\"https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html?unlocked_article_code=1.uVA.6Rwg.20U5t0kLK6oU&amp;smid=nytcore-ios-share\" rel=\"nofollow\">https://www.nytimes.com/interactive/2026/07/01/science/spudc...</a></p></span></div></div></div></div>",
-			"retrieved": 1782947744403
-		},
-		{
 			"id": "link-3f12935ff44e65fa7d113efc5ce19038",
 			"title": "The bottleneck might be the air in the room",
 			"link": "https://news.ycombinator.com/item?id=48783117",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48783117\"><span>The bottleneck might be the air in the room</span></a><a href=\"https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\" target=\"_blank\" class=\"Story_link\">(https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48783117\">822 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=gslin\"><span>gslin</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48783117\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48783117\">465 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48783117\"><span>The bottleneck might be the air in the room</span></a><a href=\"https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\" target=\"_blank\" class=\"Story_link\">(https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48783117\">823 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=gslin\"><span>gslin</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48783117\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48783117\">465 comments</a></span></div></div></div>",
 			"retrieved": 1783184741137
 		},
 		{
 			"id": "link-3bccbadc0ebd6568d37f16daca4942ad",
 			"title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
 			"link": "https://news.ycombinator.com/item?id=48745456",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48745456\"><span>Physical disc production ending in Jan 2028 for new games on PlayStation</span></a><a href=\"https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\" target=\"_blank\" class=\"Story_link\">(https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48745456\">788 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Tiberium\"><span>Tiberium</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">794 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48745456\"><span>Physical disc production ending in Jan 2028 for new games on PlayStation</span></a><a href=\"https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\" target=\"_blank\" class=\"Story_link\">(https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48745456\">789 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Tiberium\"><span>Tiberium</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">795 comments</a></span></div></div></div>",
 			"retrieved": 1782977572272
+		},
+		{
+			"id": "link-9ff9d551a82a4a397a23fe88701e3573",
+			"title": "OpenWrt One – Open Hardware Router",
+			"link": "https://news.ycombinator.com/item?id=48808482",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48808482\"><span>OpenWrt One – Open Hardware Router</span></a><a href=\"https://openwrt.org/toh/openwrt/one\" target=\"_blank\" class=\"Story_link\">(https://openwrt.org/toh/openwrt/one)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48808482\">788 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=peter_d_sherman\"><span>peter_d_sherman</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808482\">24 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808482\">293 comments</a></span></div></div></div>",
+			"retrieved": 1783421759453
 		},
 		{
 			"id": "link-e1c00fcdb7edcfb2409ffcf935a42e1c",
@@ -88,18 +88,25 @@
 			"retrieved": 1783063218934
 		},
 		{
-			"id": "link-9ff9d551a82a4a397a23fe88701e3573",
-			"title": "OpenWrt One – Open Hardware Router",
-			"link": "https://news.ycombinator.com/item?id=48808482",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48808482\"><span>OpenWrt One – Open Hardware Router</span></a><a href=\"https://openwrt.org/toh/openwrt/one\" target=\"_blank\" class=\"Story_link\">(https://openwrt.org/toh/openwrt/one)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48808482\">736 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=peter_d_sherman\"><span>peter_d_sherman</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808482\">20 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808482\">280 comments</a></span></div></div></div>",
+			"id": "link-553b38ffd1ac93c8070ff89598428d5c",
+			"title": "CoMaps – FOSS Offline Maps",
+			"link": "https://news.ycombinator.com/item?id=48808928",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48808928\"><span>CoMaps – FOSS Offline Maps</span></a><a href=\"https://www.comaps.app/\" target=\"_blank\" class=\"Story_link\">(https://www.comaps.app/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48808928\">735 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=basilikum\"><span>basilikum</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808928\">23 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808928\">182 comments</a></span></div></div></div>",
 			"retrieved": 1783421759453
 		},
 		{
 			"id": "link-9842aa7b30825b703a375420521fd235",
 			"title": "Most arguments are about ego, not ideas",
 			"link": "https://news.ycombinator.com/item?id=48746445",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48746445\"><span>Most arguments are about ego, not ideas</span></a><a href=\"https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html\" target=\"_blank\" class=\"Story_link\">(https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48746445\">724 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=backlit4034\"><span>backlit4034</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48746445\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48746445\">559 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48746445\"><span>Most arguments are about ego, not ideas</span></a><a href=\"https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html\" target=\"_blank\" class=\"Story_link\">(https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48746445\">725 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=backlit4034\"><span>backlit4034</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48746445\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48746445\">559 comments</a></span></div></div></div>",
 			"retrieved": 1782963351829
+		},
+		{
+			"id": "link-fe9bc540a9d7a769bbf1833b10891b5e",
+			"title": "Resetting Xbox",
+			"link": "https://news.ycombinator.com/item?id=48804993",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48804993\"><span>Resetting Xbox</span></a><a href=\"https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\" target=\"_blank\" class=\"Story_link\">(https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48804993\">716 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=dijksterhuis\"><span>dijksterhuis</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48804993\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48804993\">867 comments</a></span></div></div></div>",
+			"retrieved": 1783409889487
 		},
 		{
 			"id": "link-f69597bd88a80fe7b78eb5dfe23a7d47",
@@ -109,13 +116,6 @@
 			"retrieved": 1783246378350
 		},
 		{
-			"id": "link-fe9bc540a9d7a769bbf1833b10891b5e",
-			"title": "Resetting Xbox",
-			"link": "https://news.ycombinator.com/item?id=48804993",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48804993\"><span>Resetting Xbox</span></a><a href=\"https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\" target=\"_blank\" class=\"Story_link\">(https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48804993\">687 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=dijksterhuis\"><span>dijksterhuis</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48804993\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48804993\">810 comments</a></span></div></div></div>",
-			"retrieved": 1783409889487
-		},
-		{
 			"id": "link-4cdfdfce6a4fa2552138d79b5da5fdee",
 			"title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
 			"link": "https://news.ycombinator.com/item?id=48788283",
@@ -123,31 +123,31 @@
 			"retrieved": 1783258744477
 		},
 		{
-			"id": "link-553b38ffd1ac93c8070ff89598428d5c",
-			"title": "CoMaps – FOSS Offline Maps",
-			"link": "https://news.ycombinator.com/item?id=48808928",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48808928\"><span>CoMaps – FOSS Offline Maps</span></a><a href=\"https://www.comaps.app/\" target=\"_blank\" class=\"Story_link\">(https://www.comaps.app/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48808928\">679 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=basilikum\"><span>basilikum</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808928\">20 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808928\">169 comments</a></span></div></div></div>",
-			"retrieved": 1783421759453
+			"id": "link-1e366bddb0e4081ca7f8b038dd92e4be",
+			"title": "It's not about physical vs. digital games, it's about ownership",
+			"link": "https://news.ycombinator.com/item?id=48794750",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48794750\"><span>It's not about physical vs. digital games, it's about ownership</span></a><a href=\"https://popcar.bearblog.dev/its-about-ownership/\" target=\"_blank\" class=\"Story_link\">(https://popcar.bearblog.dev/its-about-ownership/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48794750\">682 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=popcar2\"><span>popcar2</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794750\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794750\">518 comments</a></span></div></div></div>",
+			"retrieved": 1783345469652
 		},
 		{
 			"id": "link-d215ef2d6f761876812479049b456802",
 			"title": "PeerTube is a free, decentralized and federated video platform",
 			"link": "https://news.ycombinator.com/item?id=48759634",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48759634\"><span>PeerTube is a free, decentralized and federated video platform</span></a><a href=\"https://github.com/Chocobozzz/PeerTube\" target=\"_blank\" class=\"Story_link\">(https://github.com/Chocobozzz/PeerTube)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48759634\">678 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=doener\"><span>doener</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">354 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48759634\"><span>PeerTube is a free, decentralized and federated video platform</span></a><a href=\"https://github.com/Chocobozzz/PeerTube\" target=\"_blank\" class=\"Story_link\">(https://github.com/Chocobozzz/PeerTube)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48759634\">679 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=doener\"><span>doener</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">354 comments</a></span></div></div></div>",
 			"retrieved": 1783087575686
 		},
 		{
-			"id": "link-1e366bddb0e4081ca7f8b038dd92e4be",
-			"title": "It's not about physical vs. digital games, it's about ownership",
-			"link": "https://news.ycombinator.com/item?id=48794750",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48794750\"><span>It's not about physical vs. digital games, it's about ownership</span></a><a href=\"https://popcar.bearblog.dev/its-about-ownership/\" target=\"_blank\" class=\"Story_link\">(https://popcar.bearblog.dev/its-about-ownership/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48794750\">676 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=popcar2\"><span>popcar2</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794750\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794750\">515 comments</a></span></div></div></div>",
-			"retrieved": 1783345469652
+			"id": "link-c211dd88aaa1295d178eb41f8e9dcd98",
+			"title": "GLM 5.2 and the coming AI margin collapse",
+			"link": "https://news.ycombinator.com/item?id=48809877",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48809877\"><span>GLM 5.2 and the coming AI margin collapse</span></a><a href=\"https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\" target=\"_blank\" class=\"Story_link\">(https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48809877\">646 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=martinald\"><span>martinald</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48809877\">22 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48809877\">422 comments</a></span></div></div></div>",
+			"retrieved": 1783434809174
 		},
 		{
 			"id": "link-5df5fab98dc33fdcdc427c6a0f954d02",
 			"title": "Immich 3.0",
 			"link": "https://news.ycombinator.com/item?id=48761944",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48761944\"><span>Immich 3.0</span></a><a href=\"https://github.com/immich-app/immich/discussions/29439\" target=\"_blank\" class=\"Story_link\">(https://github.com/immich-app/immich/discussions/29439)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48761944\">646 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=hashier\"><span>hashier</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48761944\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48761944\">292 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48761944\"><span>Immich 3.0</span></a><a href=\"https://github.com/immich-app/immich/discussions/29439\" target=\"_blank\" class=\"Story_link\">(https://github.com/immich-app/immich/discussions/29439)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48761944\">646 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=hashier\"><span>hashier</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48761944\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48761944\">293 comments</a></span></div></div></div>",
 			"retrieved": 1783171550105
 		},
 		{
@@ -161,7 +161,7 @@
 			"id": "link-670f4f64ea1311ad69efb7aecdc33ac0",
 			"title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
 			"link": "https://news.ycombinator.com/item?id=48747389",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48747389\"><span>Sony Deletes 551 Movies PlayStation Owners Paid For</span></a><a href=\"https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for\" target=\"_blank\" class=\"Story_link\">(https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48747389\">632 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bilsbie\"><span>bilsbie</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747389\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747389\">294 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48747389\"><span>Sony Deletes 551 Movies PlayStation Owners Paid For</span></a><a href=\"https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for\" target=\"_blank\" class=\"Story_link\">(https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48747389\">633 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bilsbie\"><span>bilsbie</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747389\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747389\">294 comments</a></span></div></div></div>",
 			"retrieved": 1783103815415
 		},
 		{
@@ -170,6 +170,13 @@
 			"link": "https://news.ycombinator.com/item?id=48774518",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48774518\"><span>Valve open-source the Steam Machine e-ink screen so you can make your own</span></a><a href=\"https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/\" target=\"_blank\" class=\"Story_link\">(https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48774518\">608 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ahlCVA\"><span>ahlCVA</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48774518\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48774518\">114 comments</a></span></div></div></div>",
 			"retrieved": 1783177533713
+		},
+		{
+			"id": "link-e6b5cf38f960acf7ed0aa61784f2f637",
+			"title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+			"link": "https://news.ycombinator.com/item?id=48811591",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48811591\"><span>Fable turned reMarkable into Tom Riddle's diary from Harry Potter</span></a><a href=\"https://github.com/MaximeRivest/Riddle\" target=\"_blank\" class=\"Story_link\">(https://github.com/MaximeRivest/Riddle)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48811591\">600 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=modinfo\"><span>modinfo</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48811591\">19 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48811591\">377 comments</a></span></div></div></div>",
+			"retrieved": 1783447158896
 		},
 		{
 			"id": "link-123e7025475b53e435ad495499dd3ed8",
@@ -182,7 +189,7 @@
 			"id": "link-5a0dc09135ca1f8287237f92fb1a6539",
 			"title": "If you're a button, you have one job",
 			"link": "https://news.ycombinator.com/item?id=48790689",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48790689\"><span>If you're a button, you have one job</span></a><a href=\"https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/\" target=\"_blank\" class=\"Story_link\">(https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48790689\">585 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=nozzlegear\"><span>nozzlegear</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48790689\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48790689\">273 comments</a></span><div class=\"Story_comment\"><span>Related: <a href=\"https://aresluna.org/show-your-hands-honor/\" rel=\"nofollow\">https://aresluna.org/show-your-hands-honor/</a></span></div></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48790689\"><span>If you're a button, you have one job</span></a><a href=\"https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/\" target=\"_blank\" class=\"Story_link\">(https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48790689\">586 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=nozzlegear\"><span>nozzlegear</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48790689\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48790689\">274 comments</a></span><div class=\"Story_comment\"><span>Related: <a href=\"https://aresluna.org/show-your-hands-honor/\" rel=\"nofollow\">https://aresluna.org/show-your-hands-honor/</a></span></div></div></div></div>",
 			"retrieved": 1783356709575
 		},
 		{
@@ -198,13 +205,6 @@
 			"link": "https://news.ycombinator.com/item?id=48776044",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48776044\"><span>Costco is the anti-Amazon</span></a><a href=\"https://phenomenalworld.org/analysis/the-anti-amazon/\" target=\"_blank\" class=\"Story_link\">(https://phenomenalworld.org/analysis/the-anti-amazon/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48776044\">577 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bookofjoe\"><span>bookofjoe</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48776044\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48776044\">582 comments</a></span></div></div></div>",
 			"retrieved": 1783345469652
-		},
-		{
-			"id": "link-c211dd88aaa1295d178eb41f8e9dcd98",
-			"title": "GLM 5.2 and the coming AI margin collapse",
-			"link": "https://news.ycombinator.com/item?id=48809877",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48809877\"><span>GLM 5.2 and the coming AI margin collapse</span></a><a href=\"https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\" target=\"_blank\" class=\"Story_link\">(https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48809877\">575 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=martinald\"><span>martinald</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48809877\">18 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48809877\">361 comments</a></span></div></div></div>",
-			"retrieved": 1783434809174
 		},
 		{
 			"id": "link-6e7560d6a9de8b7198d80c37d1fdc44a",
