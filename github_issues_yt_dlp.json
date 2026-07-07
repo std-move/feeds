@@ -25,6 +25,13 @@
 			"retrieved": 1781078891407
 		},
 		{
+			"id": "link-634ad95a8b766bc4a62eca85e02a3f72",
+			"title": "[Announcement] Dropping support for Python 3.10",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16916",
+			"contents": "",
+			"retrieved": 1783394604013
+		},
+		{
 			"id": "link-9bd5d3ad3d08efa2dad377b6fdd75e0e",
 			"title": "Cannot download full Youtube plylist",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16998",
