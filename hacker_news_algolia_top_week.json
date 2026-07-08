@@ -28,8 +28,15 @@
 			"id": "link-d2b9ffe3267235ff6abdd7be5213ae05",
 			"title": "OpenPrinter",
 			"link": "https://news.ycombinator.com/item?id=48797916",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48797916\"><span>OpenPrinter</span></a><a href=\"https://www.opentools.studio/\" target=\"_blank\" class=\"Story_link\">(https://www.opentools.studio/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48797916\">1138 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bouh\"><span>bouh</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48797916\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48797916\">285 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48797916\"><span>OpenPrinter</span></a><a href=\"https://www.opentools.studio/\" target=\"_blank\" class=\"Story_link\">(https://www.opentools.studio/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48797916\">1138 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bouh\"><span>bouh</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48797916\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48797916\">285 comments</a></span></div></div></div>",
 			"retrieved": 1783326013234
+		},
+		{
+			"id": "link-0147b7a664692eec2c205f13c267a188",
+			"title": "Virginia bans sale of precise geolocation data",
+			"link": "https://news.ycombinator.com/item?id=48767347",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48767347\"><span>Virginia bans sale of precise geolocation data</span></a><a href=\"https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\" target=\"_blank\" class=\"Story_link\">(https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48767347\">955 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=toomuchtodo\"><span>toomuchtodo</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48767347\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48767347\">138 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://lis.virginia.gov/bill-details/20261/SB338/text/SB338\" rel=\"nofollow\">https://lis.virginia.gov/bill-details/20261/SB338/text/SB338</a></span></div></div></div></div>",
+			"retrieved": 1783063218934
 		},
 		{
 			"id": "link-3ce44ef87f2c2718524fa8be194c0651",
@@ -37,13 +44,6 @@
 			"link": "https://news.ycombinator.com/item?id=48747304",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48747304\"><span>For first time, a cell built from scratch grows and divides</span></a><a href=\"https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/\" target=\"_blank\" class=\"Story_link\">(https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48747304\">954 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=defrost\"><span>defrost</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747304\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48747304\">302 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://biotic.org/research/spudcell/\" rel=\"nofollow\">https://biotic.org/research/spudcell/</a><p><a href=\"https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch\" rel=\"nofollow\">https://www.science.org/content/article/lab-created-spudcell...</a></p><p><a href=\"https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html?unlocked_article_code=1.uVA.6Rwg.20U5t0kLK6oU&amp;smid=nytcore-ios-share\" rel=\"nofollow\">https://www.nytimes.com/interactive/2026/07/01/science/spudc...</a></p></span></div></div></div></div>",
 			"retrieved": 1782947744403
-		},
-		{
-			"id": "link-0147b7a664692eec2c205f13c267a188",
-			"title": "Virginia bans sale of precise geolocation data",
-			"link": "https://news.ycombinator.com/item?id=48767347",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48767347\"><span>Virginia bans sale of precise geolocation data</span></a><a href=\"https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\" target=\"_blank\" class=\"Story_link\">(https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48767347\">954 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=toomuchtodo\"><span>toomuchtodo</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48767347\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48767347\">138 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://lis.virginia.gov/bill-details/20261/SB338/text/SB338\" rel=\"nofollow\">https://lis.virginia.gov/bill-details/20261/SB338/text/SB338</a></span></div></div></div></div>",
-			"retrieved": 1783063218934
 		},
 		{
 			"id": "link-3f12935ff44e65fa7d113efc5ce19038",
@@ -56,22 +56,29 @@
 			"id": "link-9ff9d551a82a4a397a23fe88701e3573",
 			"title": "OpenWrt One – Open Hardware Router",
 			"link": "https://news.ycombinator.com/item?id=48808482",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48808482\"><span>OpenWrt One – Open Hardware Router</span></a><a href=\"https://openwrt.org/toh/openwrt/one\" target=\"_blank\" class=\"Story_link\">(https://openwrt.org/toh/openwrt/one)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48808482\">803 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=peter_d_sherman\"><span>peter_d_sherman</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808482\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808482\">305 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48808482\"><span>OpenWrt One – Open Hardware Router</span></a><a href=\"https://openwrt.org/toh/openwrt/one\" target=\"_blank\" class=\"Story_link\">(https://openwrt.org/toh/openwrt/one)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48808482\">808 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=peter_d_sherman\"><span>peter_d_sherman</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808482\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808482\">309 comments</a></span></div></div></div>",
 			"retrieved": 1783421759453
 		},
 		{
 			"id": "link-3bccbadc0ebd6568d37f16daca4942ad",
 			"title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
 			"link": "https://news.ycombinator.com/item?id=48745456",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48745456\"><span>Physical disc production ending in Jan 2028 for new games on PlayStation</span></a><a href=\"https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\" target=\"_blank\" class=\"Story_link\">(https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48745456\">789 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Tiberium\"><span>Tiberium</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">795 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48745456\"><span>Physical disc production ending in Jan 2028 for new games on PlayStation</span></a><a href=\"https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\" target=\"_blank\" class=\"Story_link\">(https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48745456\">789 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Tiberium\"><span>Tiberium</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48745456\">797 comments</a></span></div></div></div>",
 			"retrieved": 1782977572272
 		},
 		{
 			"id": "link-553b38ffd1ac93c8070ff89598428d5c",
 			"title": "CoMaps – FOSS Offline Maps",
 			"link": "https://news.ycombinator.com/item?id=48808928",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48808928\"><span>CoMaps – FOSS Offline Maps</span></a><a href=\"https://www.comaps.app/\" target=\"_blank\" class=\"Story_link\">(https://www.comaps.app/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48808928\">766 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=basilikum\"><span>basilikum</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808928\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808928\">200 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48808928\"><span>CoMaps – FOSS Offline Maps</span></a><a href=\"https://www.comaps.app/\" target=\"_blank\" class=\"Story_link\">(https://www.comaps.app/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48808928\">770 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=basilikum\"><span>basilikum</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808928\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48808928\">205 comments</a></span></div></div></div>",
 			"retrieved": 1783421759453
+		},
+		{
+			"id": "link-70da885702fe06e9b4e56bc7f10c44f7",
+			"title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+			"link": "https://news.ycombinator.com/item?id=48816883",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48816883\"><span>StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</span></a><a href=\"https://streetcomplete.app/\" target=\"_blank\" class=\"Story_link\">(https://streetcomplete.app/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48816883\">767 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=kls0e\"><span>kls0e</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48816883\">22 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48816883\">189 comments</a></span></div></div></div>",
+			"retrieved": 1783465286036
 		},
 		{
 			"id": "link-e1c00fcdb7edcfb2409ffcf935a42e1c",
@@ -81,17 +88,10 @@
 			"retrieved": 1783063218934
 		},
 		{
-			"id": "link-70da885702fe06e9b4e56bc7f10c44f7",
-			"title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-			"link": "https://news.ycombinator.com/item?id=48816883",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48816883\"><span>StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</span></a><a href=\"https://streetcomplete.app/\" target=\"_blank\" class=\"Story_link\">(https://streetcomplete.app/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48816883\">732 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=kls0e\"><span>kls0e</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48816883\">18 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48816883\">173 comments</a></span></div></div></div>",
-			"retrieved": 1783465286036
-		},
-		{
 			"id": "link-fe9bc540a9d7a769bbf1833b10891b5e",
 			"title": "Resetting Xbox",
 			"link": "https://news.ycombinator.com/item?id=48804993",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48804993\"><span>Resetting Xbox</span></a><a href=\"https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\" target=\"_blank\" class=\"Story_link\">(https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48804993\">726 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=dijksterhuis\"><span>dijksterhuis</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48804993\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48804993\">906 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48804993\"><span>Resetting Xbox</span></a><a href=\"https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\" target=\"_blank\" class=\"Story_link\">(https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48804993\">729 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=dijksterhuis\"><span>dijksterhuis</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48804993\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48804993\">907 comments</a></span></div></div></div>",
 			"retrieved": 1783409889487
 		},
 		{
@@ -102,6 +102,13 @@
 			"retrieved": 1782963351829
 		},
 		{
+			"id": "link-1e366bddb0e4081ca7f8b038dd92e4be",
+			"title": "It's not about physical vs. digital games, it's about ownership",
+			"link": "https://news.ycombinator.com/item?id=48794750",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48794750\"><span>It's not about physical vs. digital games, it's about ownership</span></a><a href=\"https://popcar.bearblog.dev/its-about-ownership/\" target=\"_blank\" class=\"Story_link\">(https://popcar.bearblog.dev/its-about-ownership/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48794750\">692 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=popcar2\"><span>popcar2</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794750\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794750\">521 comments</a></span></div></div></div>",
+			"retrieved": 1783345469652
+		},
+		{
 			"id": "link-f69597bd88a80fe7b78eb5dfe23a7d47",
 			"title": "Leaking YouTube creators' private videos",
 			"link": "https://news.ycombinator.com/item?id=48786781",
@@ -109,39 +116,46 @@
 			"retrieved": 1783246378350
 		},
 		{
-			"id": "link-1e366bddb0e4081ca7f8b038dd92e4be",
-			"title": "It's not about physical vs. digital games, it's about ownership",
-			"link": "https://news.ycombinator.com/item?id=48794750",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48794750\"><span>It's not about physical vs. digital games, it's about ownership</span></a><a href=\"https://popcar.bearblog.dev/its-about-ownership/\" target=\"_blank\" class=\"Story_link\">(https://popcar.bearblog.dev/its-about-ownership/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48794750\">688 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=popcar2\"><span>popcar2</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794750\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48794750\">521 comments</a></span></div></div></div>",
-			"retrieved": 1783345469652
-		},
-		{
 			"id": "link-4cdfdfce6a4fa2552138d79b5da5fdee",
 			"title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
 			"link": "https://news.ycombinator.com/item?id=48788283",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48788283\"><span>Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable</span></a><a href=\"https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main\" target=\"_blank\" class=\"Story_link\">(https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48788283\">687 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=asronline\"><span>asronline</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48788283\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48788283\">287 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48788283\"><span>Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable</span></a><a href=\"https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main\" target=\"_blank\" class=\"Story_link\">(https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48788283\">687 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=asronline\"><span>asronline</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48788283\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48788283\">287 comments</a></span></div></div></div>",
 			"retrieved": 1783258744477
 		},
 		{
 			"id": "link-d215ef2d6f761876812479049b456802",
 			"title": "PeerTube is a free, decentralized and federated video platform",
 			"link": "https://news.ycombinator.com/item?id=48759634",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48759634\"><span>PeerTube is a free, decentralized and federated video platform</span></a><a href=\"https://github.com/Chocobozzz/PeerTube\" target=\"_blank\" class=\"Story_link\">(https://github.com/Chocobozzz/PeerTube)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48759634\">679 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=doener\"><span>doener</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">354 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48759634\"><span>PeerTube is a free, decentralized and federated video platform</span></a><a href=\"https://github.com/Chocobozzz/PeerTube\" target=\"_blank\" class=\"Story_link\">(https://github.com/Chocobozzz/PeerTube)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48759634\">680 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=doener\"><span>doener</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48759634\">354 comments</a></span></div></div></div>",
 			"retrieved": 1783087575686
 		},
 		{
 			"id": "link-c211dd88aaa1295d178eb41f8e9dcd98",
 			"title": "GLM 5.2 and the coming AI margin collapse",
 			"link": "https://news.ycombinator.com/item?id=48809877",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48809877\"><span>GLM 5.2 and the coming AI margin collapse</span></a><a href=\"https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\" target=\"_blank\" class=\"Story_link\">(https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48809877\">669 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=martinald\"><span>martinald</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48809877\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48809877\">453 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48809877\"><span>GLM 5.2 and the coming AI margin collapse</span></a><a href=\"https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\" target=\"_blank\" class=\"Story_link\">(https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48809877\">671 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=martinald\"><span>martinald</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48809877\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48809877\">455 comments</a></span></div></div></div>",
 			"retrieved": 1783434809174
+		},
+		{
+			"id": "link-50d2145e2d2b1d39a9568988aeb403ad",
+			"title": "Chat Control 1.0 and 2.0 Explained",
+			"link": "https://news.ycombinator.com/item?id=48818311",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48818311\"><span>Chat Control 1.0 and 2.0 Explained</span></a><a href=\"https://fightchatcontrol.eu/chat-control-overview\" target=\"_blank\" class=\"Story_link\">(https://fightchatcontrol.eu/chat-control-overview)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48818311\">663 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=gasull\"><span>gasull</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48818311\">20 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48818311\">259 comments</a></span></div></div></div>",
+			"retrieved": 1783505907560
 		},
 		{
 			"id": "link-5df5fab98dc33fdcdc427c6a0f954d02",
 			"title": "Immich 3.0",
 			"link": "https://news.ycombinator.com/item?id=48761944",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48761944\"><span>Immich 3.0</span></a><a href=\"https://github.com/immich-app/immich/discussions/29439\" target=\"_blank\" class=\"Story_link\">(https://github.com/immich-app/immich/discussions/29439)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48761944\">647 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=hashier\"><span>hashier</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48761944\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48761944\">293 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48761944\"><span>Immich 3.0</span></a><a href=\"https://github.com/immich-app/immich/discussions/29439\" target=\"_blank\" class=\"Story_link\">(https://github.com/immich-app/immich/discussions/29439)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48761944\">648 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=hashier\"><span>hashier</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48761944\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48761944\">293 comments</a></span></div></div></div>",
 			"retrieved": 1783171550105
+		},
+		{
+			"id": "link-734f65d73595e69356d51545352c5c0c",
+			"title": "Every new car sold in the European Union must include a driver monitoring camera",
+			"link": "https://news.ycombinator.com/item?id=48823557",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48823557\"><span>Every new car sold in the European Union must include a driver monitoring camera</span></a><a href=\"https://allaboutcookies.org/eu-mandatory-distracted-driver-system\" target=\"_blank\" class=\"Story_link\">(https://allaboutcookies.org/eu-mandatory-distracted-driver-system)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48823557\">647 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=nickslaughter02\"><span>nickslaughter02</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48823557\">13 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48823557\">820 comments</a></span></div></div></div>",
+			"retrieved": 1783505907560
 		},
 		{
 			"id": "link-3d9fdb42b7511852ccd1a00409a40c78",
@@ -161,7 +175,7 @@
 			"id": "link-e6b5cf38f960acf7ed0aa61784f2f637",
 			"title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
 			"link": "https://news.ycombinator.com/item?id=48811591",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48811591\"><span>Fable turned reMarkable into Tom Riddle's diary from Harry Potter</span></a><a href=\"https://github.com/MaximeRivest/Riddle\" target=\"_blank\" class=\"Story_link\">(https://github.com/MaximeRivest/Riddle)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48811591\">615 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=modinfo\"><span>modinfo</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48811591\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48811591\">409 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48811591\"><span>Fable turned reMarkable into Tom Riddle's diary from Harry Potter</span></a><a href=\"https://github.com/MaximeRivest/Riddle\" target=\"_blank\" class=\"Story_link\">(https://github.com/MaximeRivest/Riddle)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48811591\">619 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=modinfo\"><span>modinfo</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48811591\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48811591\">411 comments</a></span></div></div></div>",
 			"retrieved": 1783447158896
 		},
 		{
@@ -170,6 +184,13 @@
 			"link": "https://news.ycombinator.com/item?id=48774518",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48774518\"><span>Valve open-source the Steam Machine e-ink screen so you can make your own</span></a><a href=\"https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/\" target=\"_blank\" class=\"Story_link\">(https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48774518\">608 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ahlCVA\"><span>ahlCVA</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48774518\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48774518\">114 comments</a></span></div></div></div>",
 			"retrieved": 1783177533713
+		},
+		{
+			"id": "link-200f84fbaaf9673645e9b3e827af4bfe",
+			"title": "Microsoft fire idTech team at Id software",
+			"link": "https://news.ycombinator.com/item?id=48819244",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48819244\"><span>Microsoft fire idTech team at Id software</span></a><a href=\"https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/\" target=\"_blank\" class=\"Story_link\">(https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48819244\">601 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bauc\"><span>bauc</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48819244\">19 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48819244\">535 comments</a></span></div></div></div>",
+			"retrieved": 1783492089440
 		},
 		{
 			"id": "link-123e7025475b53e435ad495499dd3ed8",
@@ -191,27 +212,6 @@
 			"link": "https://news.ycombinator.com/item?id=48769397",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48769397\"><span>CarPlay Is Additive</span></a><a href=\"https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\" target=\"_blank\" class=\"Story_link\">(https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48769397\">582 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sprawl_\"><span>sprawl_</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48769397\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48769397\">736 comments</a></span></div></div></div>",
 			"retrieved": 1783292478130
-		},
-		{
-			"id": "link-200f84fbaaf9673645e9b3e827af4bfe",
-			"title": "Microsoft fire idTech team at Id software",
-			"link": "https://news.ycombinator.com/item?id=48819244",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48819244\"><span>Microsoft fire idTech team at Id software</span></a><a href=\"https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/\" target=\"_blank\" class=\"Story_link\">(https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48819244\">579 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bauc\"><span>bauc</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48819244\">15 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48819244\">520 comments</a></span></div></div></div>",
-			"retrieved": 1783492089440
-		},
-		{
-			"id": "link-002eb38703e31dbac2ad3b977fda4691",
-			"title": "Costco is the anti-Amazon",
-			"link": "https://news.ycombinator.com/item?id=48776044",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48776044\"><span>Costco is the anti-Amazon</span></a><a href=\"https://phenomenalworld.org/analysis/the-anti-amazon/\" target=\"_blank\" class=\"Story_link\">(https://phenomenalworld.org/analysis/the-anti-amazon/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48776044\">577 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bookofjoe\"><span>bookofjoe</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48776044\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48776044\">582 comments</a></span></div></div></div>",
-			"retrieved": 1783345469652
-		},
-		{
-			"id": "link-6e7560d6a9de8b7198d80c37d1fdc44a",
-			"title": "Asahi Linux 7.1 Progress Report",
-			"link": "https://news.ycombinator.com/item?id=48744518",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=48744518\"><span>Asahi Linux 7.1 Progress Report</span></a><a href=\"https://asahilinux.org/2026/06/progress-report-7-1/\" target=\"_blank\" class=\"Story_link\">(https://asahilinux.org/2026/06/progress-report-7-1/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=48744518\">572 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=pantalaimon\"><span>pantalaimon</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48744518\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=48744518\">239 comments</a></span></div></div></div>",
-			"retrieved": 1783308771241
 		}
 	]
 }
