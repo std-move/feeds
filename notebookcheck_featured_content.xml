@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-07-08T17:38:35.662Z</updated>
+    <updated>2026-07-08T19:27:18.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Surface Laptop 13.8 2026 Review - Debut for the Snapdragon X2 Plus]]></title>
+        <id>link-c719ee05af2d04b8ac4cd4d15115bbb2</id>
+        <link href="https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html"/>
+        <updated>2026-07-08T19:25:10.305Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/e/csm_surface_laptop_13_2026_x2_plus_case_07_b4d5e37b66.jpg" loading="lazy" alt="Snapdragon X2 Plus is much faster - Microsoft Surface Laptop 13.8 2026 Review"></picture><div class="intro_featured_bar_title">Surface Laptop 13.8 2026 Review - Debut for the Snapdragon X2 Plus</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INNOCN CB32U1 review: An affordable alternative to the Apple Studio Display?]]></title>
         <id>link-eecde08377217ca209406f9ab54dc6d9</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Should-you-pay-more-for-an-RTX-5070-Ti-gaming-laptop.1334984.0.html"/>
         <updated>2026-07-05T15:12:29.718Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051859-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/f/csm__1051859_bfc0d097a7.jpg" loading="lazy" alt="Should you pay more for an RTX 5070 Ti gaming laptop?"></picture><div class="intro_featured_bar_title">▶ Should you pay more for an RTX 5070 Ti gaming laptop?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I vibe coded a running beats app while running]]></title>
-        <id>link-975482b4d4cac6ceb6fe2c95091982aa</id>
-        <link href="https://www.notebookcheck.net/How-I-vibe-coded-a-running-beats-app-while-running.1335002.0.html"/>
-        <updated>2026-07-05T10:12:58.350Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/marathon-pro-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/8/csm_marathon-pro_0cdd804087.jpg" loading="lazy" alt="Ready to run! Screenshot of the app in question"></picture><div class="intro_featured_bar_title">How I vibe coded a running beats app while running</div>]]></content>
     </entry>
 </feed>
