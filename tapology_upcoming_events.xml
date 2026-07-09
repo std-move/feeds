@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-07-09T19:49:47.919Z</updated>
+    <updated>2026-07-09T21:25:25.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145241-pfl-mena-10-riyadh">PFL MENA 10</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-07-10 10:00:00 -0400">in 18 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-07-10 10:00:00 -0400">in 16 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/140956-ufc-330">UFC 329</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-07-11 17:00:00 -0400">in 2 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-07-11 17:00:00 -0400">in 1 day</abbr>
 </td>]]></content>
     </entry>
     <entry>
