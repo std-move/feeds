@@ -2,16 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-07-09T21:25:25.191Z</updated>
+    <updated>2026-07-09T23:13:58.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ckma.cz/cdn-ujdvt/images/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Novou licenci v EU získalo jen 14 kryptoburz. Dvě z toho jsou z Česka]]></title>
+        <id>link-314fc710dd6d6c3ec8dc789f9c8da504</id>
+        <link href="https://www.ckma.cz/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska"/>
+        <updated>2026-07-09T23:11:44.305Z</updated>
+        <content type="html"><![CDATA[<a href="/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska" class="ArticleLink ArticleLink--horizontal">
+    <div class="ArticleLink-image"><img alt="Novou licenci v EU získalo jen 14 kryptoburz. Dvě z toho jsou z Česka" src="/res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" width="298" height="199" srcset="/res/crc-2474908422/pages/images/596x398crop/73073-lz-prague-crypto.png 2x, /res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" data-lazy-loaded=""></div>
+    <div class="ArticleLink-body">
+        <div class="ArticleLink-content">
+            <div class="ArticleLink-addedOn">9.7.2026</div>
+            <h3 class="ArticleLink-heading">Novou licenci v EU získalo jen 14 kryptoburz. Dvě z toho jsou z Česka</h3>
+            <div class="ArticleLink-perex">
+                TISKOVÁ ZPRÁVA
+Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července začíná naplno platit evropské nařízení MiCA a&nbsp;všechny firmy, které v&nbsp;kryptoměnách podnikají, tak nově musí vlastnit povinnou licenci. A&nbsp;jak poslední měsíce ukázaly, podmínky pro její získání byly brutální.
+
+            </div>
+            <div class="ArticleLink-link">Číst více</div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Na státní nakládání s kryptoměnami je třeba uplatňovat stejné standardy jako na soukromý sektor]]></title>
         <id>link-c9f6548385c0e903e233f60dda059046</id>
         <link href="https://www.ckma.cz/cs/blog/na-statni-nakladani-s-kryptomenami-je-treba-uplatnovat-stejne-standardy-jako-na-soukromy-sektor"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
-        <content type="html"><![CDATA[<a href="/cs/blog/na-statni-nakladani-s-kryptomenami-je-treba-uplatnovat-stejne-standardy-jako-na-soukromy-sektor" class="ArticleLink ArticleLink--horizontal">
-    <div class="ArticleLink-image"><img alt="Na státní nakládání s kryptoměnami je třeba uplatňovat stejné standardy jako na soukromý sektor" src="/res/crc-1267891577/pages/images/298x199crop/53164-1r-government-bitcoin2.webp" width="298" height="199" srcset="/res/crc-3461351925/pages/images/596x398crop/53164-1r-government-bitcoin2.webp 2x, /res/crc-1267891577/pages/images/298x199crop/53164-1r-government-bitcoin2.webp" data-lazy-loaded=""></div>
+        <content type="html"><![CDATA[<a href="/cs/blog/na-statni-nakladani-s-kryptomenami-je-treba-uplatnovat-stejne-standardy-jako-na-soukromy-sektor" class="ArticleLink">
+    <div class="ArticleLink-image w-100"><img alt="Na státní nakládání s kryptoměnami je třeba uplatňovat stejné standardy jako na soukromý sektor" src="/res/crc-1267891577/pages/images/298x199crop/53164-1r-government-bitcoin2.webp" width="298" height="199" srcset="/res/crc-3461351925/pages/images/596x398crop/53164-1r-government-bitcoin2.webp 2x, /res/crc-1267891577/pages/images/298x199crop/53164-1r-government-bitcoin2.webp" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">5.6.2025</div>
@@ -70,7 +91,7 @@
         <link href="https://www.ckma.cz/cs/kryptomenovy-legislativni-balicek-podzim-2024"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/kryptomenovy-legislativni-balicek-podzim-2024" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Kryptoměnový legislativní balíček, podzim 2024" src="/res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" width="298" height="199" srcset="/res/crc-2913777513/pages/images/596x398crop/141821-rt-img-0220.jpg 2x, /res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img alt="Kryptoměnový legislativní balíček, podzim 2024" data-srcset="/res/crc-2913777513/pages/images/596x398crop/141821-rt-img-0220.jpg 2x, /res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" data-src="/res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">9.12.2024</div>
@@ -191,25 +212,6 @@ vytvořit férové podmínky pro krypto!<br>&nbsp;
             <h3 class="ArticleLink-heading">Ombudsman ČKMA</h3>
             <div class="ArticleLink-perex">
                 <strong>Ombudsman ČKMA, z.s. - ochránce vašich práv a&nbsp;partner ve&nbsp;světě kryptoměn</strong>
-            </div>
-            <div class="ArticleLink-link">Číst více</div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ČNB: Výzva zájemcům o získání povolení dle nařízení MiCA]]></title>
-        <id>link-245167dc3d0b7d29c000ac8e6f192c37</id>
-        <link href="https://www.ckma.cz/cs/blog/cnb-vyzva-zajemcum-o-ziskani-povoleni-dle-narizeni-mica"/>
-        <updated>2026-05-18T08:04:13.990Z</updated>
-        <content type="html"><![CDATA[<a href="/cs/blog/cnb-vyzva-zajemcum-o-ziskani-povoleni-dle-narizeni-mica" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="ČNB: Výzva zájemcům o získání povolení dle nařízení MiCA" data-srcset="/res/crc-977222759/pages/images/596x398crop/s4-cnb-logo-small.jpg 2x, /res/crc-1125012441/pages/images/298x199crop/s4-cnb-logo-small.jpg" data-src="/res/crc-1125012441/pages/images/298x199crop/s4-cnb-logo-small.jpg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
-    <div class="ArticleLink-body">
-        <div class="ArticleLink-content">
-            <div class="ArticleLink-addedOn">4.12.2023</div>
-            <h3 class="ArticleLink-heading">ČNB: Výzva zájemcům o získání povolení dle nařízení MiCA</h3>
-            <div class="ArticleLink-perex">
-                <strong>Že by se nakonec ledy hnuly a&nbsp;ČR se také přihlásila o&nbsp;slovo?</strong>
             </div>
             <div class="ArticleLink-link">Číst více</div>
         </div>
