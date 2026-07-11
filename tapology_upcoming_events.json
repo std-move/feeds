@@ -4,17 +4,10 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-7f237bcaf05273fa322a8c787953878e",
-			"title": "OKTAGON 91 — 2026-07-11 11:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/138682-oktagon-91",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/138682-oktagon-91\">OKTAGON 91</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-11 11:00:00 -0400\">in 6 minutes</abbr>\n</td>",
-			"retrieved": 1782567801722
-		},
-		{
 			"id": "link-82b2f30aef6b5075eca351a2d628602a",
 			"title": "UFC 329 — 2026-07-11 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140956-ufc-330",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140956-ufc-330\">UFC 329</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-11 17:00:00 -0400\">in 6 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140956-ufc-330\">UFC 329</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-11 17:00:00 -0400\">in 4 hours</abbr>\n</td>",
 			"retrieved": 1782580244982
 		},
 		{
@@ -42,7 +35,7 @@
 			"id": "link-e78e0a8354ca98f703430c2624b23c66",
 			"title": "KSW 120 — 2026-07-18 11:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142392-ksw-120",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142392-ksw-120\">KSW 120</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 11:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142392-ksw-120\">KSW 120</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 11:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1783192404412
 		},
 		{
@@ -54,10 +47,17 @@
 		},
 		{
 			"id": "link-6b4ae5f05ef8fb1d82a56e47816c51ee",
-			"title": "PFL Austin — 2026-07-18 17:00:00 -0400",
+			"title": "PFL Austin — 2026-07-18 17:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143368-pfl-austin-van-steenis-vs-eblen-2",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143368-pfl-austin-van-steenis-vs-eblen-2\">PFL Austin</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 17:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143368-pfl-austin-van-steenis-vs-eblen-2\">PFL Austin</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 17:30:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1783693574564
+		},
+		{
+			"id": "link-2db26ae313a63e653f878bbbdc677315",
+			"title": "UAE Warriors 72 — 2026-07-22 22:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/144620-uae-warriors-72",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144620-uae-warriors-72\">UAE Warriors 72</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-22 22:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1783789093345
 		}
 	]
 }
