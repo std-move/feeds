@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-07-14T02:31:05.786Z</updated>
+    <updated>2026-07-14T06:12:35.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Astier_de_Villatte" title="Astier de Villatte">a French company</a></b> revived a favorite perfume of the ancient Roman nobility in 2023?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a two-metre-high (6 ft 7 in) wall of dry stone]]></title>
+        <title type="html"><![CDATA[a two-metre-high (6 ft 5 in) wall of dry stone]]></title>
         <id>link-eb45bad3d0d7b52e47edddfd92a0cc4a</id>
         <link href="https://en.wikipedia.org/wiki/Mur_de_la_peste"/>
         <updated>2026-07-14T02:29:06.109Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Mur_de_la_peste" title="Mur de la peste">a two-metre-high (6<span typeof="mw:Entity">&nbsp;</span>ft 7<span typeof="mw:Entity">&nbsp;</span>in) wall of dry stone</a></b> was built in 1721 to stop the advance of the <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Great_Plague_of_Marseille" title="Great Plague of Marseille">Great Plague of Marseille</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Mur_de_la_peste" title="Mur de la peste">a two-metre-high (6<span typeof="mw:Entity">&nbsp;</span>ft 5<span typeof="mw:Entity">&nbsp;</span>in) wall of dry stone</a></b> was built in 1721 to stop the advance of the <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Great_Plague_of_Marseille" title="Great Plague of Marseille">Great Plague of Marseille</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pierre Noël Lecauchois]]></title>
