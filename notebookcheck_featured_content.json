@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-592e7567f158d10a5359d58d08d34627",
+			"title": "Lightweight, Affordable: The Motorola Edge 70 Pro Review",
+			"link": "https://www.notebookcheck.net/Slim-Phone-with-powerful-Cameras-and-long-Battery-Life-but-one-major-Drawback-Motorola-Edge-70-Pro-Smartphone-Review.1342446.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Pro/Motorola_Edge_70_Pro_im_Test_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Pro/Motorola_Edge_70_Pro_im_Test_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Pro/Motorola_Edge_70_Pro_im_Test_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Pro/Motorola_Edge_70_Pro_im_Test_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Pro/Motorola_Edge_70_Pro_im_Test_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Pro/Motorola_Edge_70_Pro_im_Test_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/0/csm_Motorola_Edge_70_Pro_im_Test_1_342d4478f9.jpg\" loading=\"lazy\" alt=\"Motorola Edge 70 Pro Review\"></picture><div class=\"intro_featured_bar_title\">Lightweight, Affordable: The Motorola Edge 70 Pro Review</div>",
+			"retrieved": 1784023095363
+		},
+		{
 			"id": "link-ed17da968e5eca1bf7edb5ae4c973a1d",
 			"title": "GeekBook M16 Review: One of the longest-lasting 16-inch laptops with Core Ultra 9",
 			"link": "https://www.notebookcheck.net/Geekom-GeekBook-M16-Review-This-16-inch-laptop-surprises-with-its-battery-life.1341399.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Eyesore-or-eye-catcher-Lenovo-LOQ-15-gaming-laptop-review.1338691.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_15AHP11/Feature2-LOQ-15-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_15AHP11/Feature2-LOQ-15-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_15AHP11/Feature2-LOQ-15-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_15AHP11/Feature2-LOQ-15-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_15AHP11/Feature2-LOQ-15-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_15AHP11/Feature2-LOQ-15-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/b/csm_Feature2-LOQ-15_828a24fccf.jpg\" loading=\"lazy\" alt=\"The green beast? Lenovo LOQ 15 gaming laptop review\"></picture><div class=\"intro_featured_bar_title\">Eye-catcher: Lenovo LOQ 15 review</div>",
 			"retrieved": 1783737484261
-		},
-		{
-			"id": "link-bebbbb6099881e20dbedfbb9d955366e",
-			"title": "▶ Affordable ultrawide gaming - Alienware AW3426DW",
-			"link": "https://www.notebookcheck.net/Affordable-ultrawide-gaming-Alienware-AW3426DW.1338812.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051914-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051914-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051914-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051914-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051914-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1051914-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/7/csm__1051914_c0367ebaa3.jpg\" loading=\"lazy\" alt=\"Alienware's new ultrawide QD-OLED monitor. \"></picture><div class=\"intro_featured_bar_title\">▶ Affordable ultrawide gaming - Alienware AW3426DW</div>",
-			"retrieved": 1783609112285
 		}
 	]
 }
