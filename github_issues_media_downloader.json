@@ -11,13 +11,6 @@
 			"retrieved": 1782423776346
 		},
 		{
-			"id": "link-fc31c558315aec1f16e078ef27ddbaf9",
-			"title": "Error - Method \"user.device.slot.list\" does not exist - Iprima",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/81",
-			"contents": "",
-			"retrieved": 1784209795081
-		},
-		{
 			"id": "link-d38144ef5f1f689f0242a6c2f441b478",
 			"title": "Problém se získáním mediálních zdrojů - Oneplay",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/79",
@@ -93,6 +86,13 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/63",
 			"contents": "",
 			"retrieved": 1780674779571
+		},
+		{
+			"id": "link-4887a17840eb7de457adf041207b77c2",
+			"title": "FFmpeg pro Win7 s verzí 00.02.09-dev.26",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/62",
+			"contents": "",
+			"retrieved": 1784216310489
 		}
 	]
 }
