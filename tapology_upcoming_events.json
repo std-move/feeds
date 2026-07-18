@@ -4,52 +4,45 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-0781bf51f3322722fec296ea22b89852",
-			"title": "ONE Fight Night 45 — 2026-07-17 21:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/143722-one-fight-night-45",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143722-one-fight-night-45\">ONE Fight Night 45</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-17 21:00:00 -0400\">in 2 hours</abbr>\n</td>",
-			"retrieved": 1782618712128
-		},
-		{
 			"id": "link-2ab96ab7187035b9155a304df469e890",
 			"title": "RIZIN LANDMARK 15 in... — 2026-07-17 21:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/140754-rizin-landmark-15-in-hiroshima",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140754-rizin-landmark-15-in-hiroshima\">RIZIN LANDMARK 15 in...</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-17 21:30:00 -0400\">in 2 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/140754-rizin-landmark-15-in-hiroshima\">RIZIN LANDMARK 15 in...</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-17 21:30:00 -0400\">58 minutes ago</abbr>\n</td>",
 			"retrieved": 1782687728944
 		},
 		{
 			"id": "link-e78e0a8354ca98f703430c2624b23c66",
 			"title": "KSW 120 — 2026-07-18 12:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142392-ksw-120",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142392-ksw-120\">KSW 120</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 12:00:00 -0400\">in 17 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142392-ksw-120\">KSW 120</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 12:00:00 -0400\">in 13 hours</abbr>\n</td>",
 			"retrieved": 1783192404412
 		},
 		{
 			"id": "link-1500899354da725d0e22a38557ef7a37",
 			"title": "UFC Fight Night — 2026-07-18 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142777-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142777-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 17:00:00 -0400\">in 22 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142777-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 17:00:00 -0400\">in 18 hours</abbr>\n</td>",
 			"retrieved": 1783538710305
 		},
 		{
 			"id": "link-6b4ae5f05ef8fb1d82a56e47816c51ee",
 			"title": "PFL Austin — 2026-07-18 17:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143368-pfl-austin-van-steenis-vs-eblen-2",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143368-pfl-austin-van-steenis-vs-eblen-2\">PFL Austin</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 17:30:00 -0400\">in 22 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143368-pfl-austin-van-steenis-vs-eblen-2\">PFL Austin</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-18 17:30:00 -0400\">in 19 hours</abbr>\n</td>",
 			"retrieved": 1783693574564
 		},
 		{
 			"id": "link-2db26ae313a63e653f878bbbdc677315",
 			"title": "UAE Warriors 72 — 2026-07-22 22:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/144620-uae-warriors-72",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144620-uae-warriors-72\">UAE Warriors 72</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-22 22:00:00 -0400\">in 5 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144620-uae-warriors-72\">UAE Warriors 72</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-22 22:00:00 -0400\">in 4 days</abbr>\n</td>",
 			"retrieved": 1783789093345
 		},
 		{
 			"id": "link-36f48b515376fed4561a87f549a72f71",
 			"title": "LFA 237 — 2026-07-24 20:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/144218-lfa-237",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144218-lfa-237\">LFA 237</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-24 20:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144218-lfa-237\">LFA 237</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-24 20:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1783810104891
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/143627-ufc-fight-night",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143627-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 09:00:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1784294870606
+		},
+		{
+			"id": "link-538909b9ad672462c29fd9f4e8ee6a65",
+			"title": "Joshua vs. Prenga — 2026-07-25 08:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/142996-joshua-vs-prenga",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142996-joshua-vs-prenga\">Joshua vs. Prenga</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 08:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1784341721918
 		}
 	]
 }
