@@ -2,16 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-07-19T06:32:06.419Z</updated>
+    <updated>2026-07-19T09:53:55.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ckma.cz/cdn-ujdvt/images/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Valná hromada 08/2026]]></title>
+        <id>link-c9f5d0edadf54c2e99b34b963c5890e0</id>
+        <link href="https://www.ckma.cz/cs/blog/valna-hromada-08-2026"/>
+        <updated>2026-07-19T09:51:42.616Z</updated>
+        <content type="html"><![CDATA[<a href="/cs/blog/valna-hromada-08-2026" class="ArticleLink ArticleLink--horizontal">
+    <div class="ArticleLink-image"><img alt="Valná hromada 08/2026" src="/res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" width="298" height="199" srcset="/res/crc-660322913/pages/images/596x398crop/73114-ya-valna-hromada.png 2x, /res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" data-lazy-loaded=""></div>
+    <div class="ArticleLink-body">
+        <div class="ArticleLink-content">
+            <div class="ArticleLink-addedOn">19.7.2026</div>
+            <h3 class="ArticleLink-heading">Valná hromada 08/2026</h3>
+            <div class="ArticleLink-perex">
+                Oznámení o&nbsp;svolání zasedání valné hromady
+konané formou per rollam
+Adresováno: certifikovaným členům spolku ČKMA z.s.
+&nbsp;
+            </div>
+            <div class="ArticleLink-link">Číst více</div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novou licenci v EU získalo jen 14 kryptoburz. Dvě z toho jsou z Česka]]></title>
         <id>link-314fc710dd6d6c3ec8dc789f9c8da504</id>
         <link href="https://www.ckma.cz/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska"/>
         <updated>2026-07-09T23:11:44.305Z</updated>
-        <content type="html"><![CDATA[<a href="/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska" class="ArticleLink ArticleLink--horizontal">
-    <div class="ArticleLink-image"><img alt="Novou licenci v EU získalo jen 14 kryptoburz. Dvě z toho jsou z Česka" src="/res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" width="298" height="199" srcset="/res/crc-2474908422/pages/images/596x398crop/73073-lz-prague-crypto.png 2x, /res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" data-lazy-loaded=""></div>
+        <content type="html"><![CDATA[<a href="/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska" class="ArticleLink">
+    <div class="ArticleLink-image w-100"><img alt="Novou licenci v EU získalo jen 14 kryptoburz. Dvě z toho jsou z Česka" src="/res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" width="298" height="199" srcset="/res/crc-2474908422/pages/images/596x398crop/73073-lz-prague-crypto.png 2x, /res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">9.7.2026</div>
@@ -71,7 +93,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/blog/ceska-republika-evropskym-kryptomenovym-hubem"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/ceska-republika-evropskym-kryptomenovym-hubem" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="TZ: Česká republika se stává evropským kryptoměnovým hubem díky nové legislativě" src="/res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" width="298" height="199" srcset="/res/crc-3038967019/pages/images/596x398crop/vm-cr-kryptomenovym-hubem-evropy.webp 2x, /res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img alt="TZ: Česká republika se stává evropským kryptoměnovým hubem díky nové legislativě" data-srcset="/res/crc-3038967019/pages/images/596x398crop/vm-cr-kryptomenovym-hubem-evropy.webp 2x, /res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" data-src="/res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">10.12.2024</div>
@@ -193,25 +215,6 @@ vytvořit férové podmínky pro krypto!<br>&nbsp;
 
 &nbsp;
 &nbsp;
-            </div>
-            <div class="ArticleLink-link">Číst více</div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ombudsman ČKMA]]></title>
-        <id>link-33e96214e163e4cb19b44a21183558b9</id>
-        <link href="https://www.ckma.cz/cs/blog/ombudsman-ckma"/>
-        <updated>2026-05-18T08:04:13.990Z</updated>
-        <content type="html"><![CDATA[<a href="/cs/blog/ombudsman-ckma" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Ombudsman ČKMA" data-srcset="/res/crc-540660692/pages/images/596x398crop/3r-tomas-cunik.jpg 2x, /res/crc-157790722/pages/images/298x199crop/3r-tomas-cunik.jpg" data-src="/res/crc-157790722/pages/images/298x199crop/3r-tomas-cunik.jpg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
-    <div class="ArticleLink-body">
-        <div class="ArticleLink-content">
-            <div class="ArticleLink-addedOn">14.5.2024</div>
-            <h3 class="ArticleLink-heading">Ombudsman ČKMA</h3>
-            <div class="ArticleLink-perex">
-                <strong>Ombudsman ČKMA, z.s. - ochránce vašich práv a&nbsp;partner ve&nbsp;světě kryptoměn</strong>
             </div>
             <div class="ArticleLink-link">Číst více</div>
         </div>
