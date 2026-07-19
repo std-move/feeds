@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-e2297e0835a6402968ec0d87f8f4b4a4",
+			"title": "▶ How much should you pay for an RTX 5060 laptop?!",
+			"link": "https://www.notebookcheck.net/How-much-should-you-pay-for-an-RTX-5060-laptop.1346786.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/f/csm__1052059_428811a76e.jpg\" loading=\"lazy\" alt=\"Which RTX 5060 (Gaming-)Laptop is the right one for you?\"></picture><div class=\"intro_featured_bar_title\">▶ How much should you pay for an RTX 5060 laptop?!</div>",
+			"retrieved": 1784480282714
+		},
+		{
 			"id": "link-f75a9ad6d291fbd6553cd5feef6ed566",
 			"title": "With edge-cutting module: Roborock RockNeo Q1 Review",
 			"link": "https://www.notebookcheck.net/Edge-cutting-module-on-an-entry-level-robotic-lawn-mower-Roborock-RockNeo-Q1-review.1346047.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Noctua-AiOs-Review-The-king-of-air-coolers-can-also-handle-water-cooling.1343699.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/5/csm_AIOs_13_0daf786a8a.jpg\" loading=\"lazy\" alt=\"Noctua AiOs Review: The king of air coolers can also handle water cooling\"></picture><div class=\"intro_featured_bar_title\">Noctua NL-LC1 series review: Three all-in-one coolers, an impressive debut</div>",
 			"retrieved": 1784287409838
-		},
-		{
-			"id": "link-7fa0d00c50afb797587e5f9097a7045c",
-			"title": "Audibly diabolical - Teufel Cage Pro review",
-			"link": "https://www.notebookcheck.net/Attack-on-the-gaming-elite-Teufel-Cage-Pro-review.1344323.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/8/csm_aPic_Teufel_Cage_Pro-3249_61191c5b32.jpg\" loading=\"lazy\" alt=\"Attack on the gaming elite – Teufel Cage Pro review\"></picture><div class=\"intro_featured_bar_title\">Audibly diabolical - Teufel Cage Pro review</div>",
-			"retrieved": 1784209795081
 		}
 	]
 }

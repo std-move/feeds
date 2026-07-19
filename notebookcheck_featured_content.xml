@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-07-19T14:57:23.474Z</updated>
+    <updated>2026-07-19T17:00:08.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ How much should you pay for an RTX 5060 laptop?!]]></title>
+        <id>link-e2297e0835a6402968ec0d87f8f4b4a4</id>
+        <link href="https://www.notebookcheck.net/How-much-should-you-pay-for-an-RTX-5060-laptop.1346786.0.html"/>
+        <updated>2026-07-19T16:58:02.714Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052059-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/f/csm__1052059_428811a76e.jpg" loading="lazy" alt="Which RTX 5060 (Gaming-)Laptop is the right one for you?"></picture><div class="intro_featured_bar_title">▶ How much should you pay for an RTX 5060 laptop?!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[With edge-cutting module: Roborock RockNeo Q1 Review]]></title>
         <id>link-f75a9ad6d291fbd6553cd5feef6ed566</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Noctua-AiOs-Review-The-king-of-air-coolers-can-also-handle-water-cooling.1343699.0.html"/>
         <updated>2026-07-17T11:23:29.838Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/5/csm_AIOs_13_0daf786a8a.jpg" loading="lazy" alt="Noctua AiOs Review: The king of air coolers can also handle water cooling"></picture><div class="intro_featured_bar_title">Noctua NL-LC1 series review: Three all-in-one coolers, an impressive debut</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audibly diabolical - Teufel Cage Pro review]]></title>
-        <id>link-7fa0d00c50afb797587e5f9097a7045c</id>
-        <link href="https://www.notebookcheck.net/Attack-on-the-gaming-elite-Teufel-Cage-Pro-review.1344323.0.html"/>
-        <updated>2026-07-16T13:49:55.081Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Teufel/Cage_Pro/aPic_Teufel_Cage_Pro-3249-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/8/csm_aPic_Teufel_Cage_Pro-3249_61191c5b32.jpg" loading="lazy" alt="Attack on the gaming elite – Teufel Cage Pro review"></picture><div class="intro_featured_bar_title">Audibly diabolical - Teufel Cage Pro review</div>]]></content>
     </entry>
 </feed>
