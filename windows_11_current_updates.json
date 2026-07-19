@@ -10,16 +10,16 @@
 			"retrieved": 1784056786087
 		},
 		{
-			"id": "title-80411cfc8843ade558fd95e31be5b32f",
-			"title": "2026-07-14 — 25H2 — General Availability Channel — 26200.8875 — 2026-07 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5101650\" target=\"_blank\" data-linktype=\"external\">2026-07 B</a> — 2026-07-14 — 26200.8875",
-			"retrieved": 1784056786087
+			"id": "title-39f2ad645450c2871da9d1c2ac43bd0a",
+			"title": "2026-07-18 — 25H2 — General Availability Channel — 26200.8894 — 2026-07 OOB",
+			"contents": "<a href=\"https://support.microsoft.com/help/5121767\" target=\"_blank\" data-linktype=\"external\">2026-07 OOB</a> — 2026-07-18 — 26200.8894",
+			"retrieved": 1784442605034
 		},
 		{
-			"id": "title-7c195653a7772513bb5a4c09c6785b4e",
-			"title": "2026-07-14 — 24H2 — General Availability Channel — 26100.8875 — 2026-07 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5101650\" target=\"_blank\" data-linktype=\"external\">2026-07 B</a> — 2026-07-14 — 26100.8875",
-			"retrieved": 1784056786087
+			"id": "title-0698058c14953205ee54b600fdbabba8",
+			"title": "2026-07-18 — 24H2 — General Availability Channel — 26100.8894 — 2026-07 OOB",
+			"contents": "<a href=\"https://support.microsoft.com/help/5121767\" target=\"_blank\" data-linktype=\"external\">2026-07 OOB</a> — 2026-07-18 — 26100.8894",
+			"retrieved": 1784442605034
 		},
 		{
 			"id": "title-c02d0c84874797603c05fc9733b43463",
@@ -28,10 +28,10 @@
 			"retrieved": 1784056786087
 		},
 		{
-			"id": "title-89c7704bb2b747d68bb40fe8ecbc35d9",
-			"title": "2026-07-14 — 24H2 — Long-Term Servicing Channel (LTSC) — 26100.8875 — 2026-07 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5101650\" target=\"_blank\" data-linktype=\"external\">2026-07 B</a> — 2026-07-14 — 26100.8875",
-			"retrieved": 1784056786087
+			"id": "title-4ea7cf4321e641675154d1ae5d18d0ad",
+			"title": "2026-07-18 — 24H2 — Long-Term Servicing Channel (LTSC) — 26100.8894 — 2026-07 OOB",
+			"contents": "<a href=\"https://support.microsoft.com/help/5121767\" target=\"_blank\" data-linktype=\"external\">2026-07 OOB</a> — 2026-07-18 — 26100.8894",
+			"retrieved": 1784442605034
 		}
 	]
 }
