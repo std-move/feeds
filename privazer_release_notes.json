@@ -1,5 +1,127 @@
 {
 	"title": "Privazer - release notes",
 	"url": "https://privazer.com/en/changelog.php",
-	"elements": []
+	"favicon": "https://privazer.com/en/favicon.ico",
+	"elements": [
+		{
+			"id": "title-987d389c205d291d3d50d752690269fe",
+			"title": "v4.0.124.3",
+			"contents": "<strong>v4.0.124.3</strong> (14 July 2026)<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Improved speed (PRO version)<br>\n            + Minor bug fixes<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-f4c08b6bc5499f562abe9d336aa1be04",
+			"title": "v4.0.124.2",
+			"contents": "<strong>v4.0.124.2</strong> (01 July 2026)<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Minor bug fixes<br>\n            <strong>v4.0.124.1</strong> (28 June 2026)<br>\n            + Minor bug fixes<br>\n            <strong>v4.0.124</strong> (27 June 2026)<br>\n            + Improved speed (PRO version)<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Improved cleanup : cookies<br>\n            + Improved cleanup : RAM<br>\n            + Improved support : PC with multi-monitor setup<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-b38a55ae8fb6c537e5037d9a4f95a0e8",
+			"title": "v4.0.123",
+			"contents": "<strong>v4.0.123</strong> (05 June 2026)<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Improved cleanup : Firefox...<br>\n            + Improved cleanup : Web Browsers (portable version)<br> \n            + Improved automatic cleanups<br> \n            + Improved cleanup : cookies<br>\n            + New cleanup : Helium Browser<br>\n            + New cleanup : Powershell ISE<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-9de3e73c80c677d906d2cc018d85bd3a",
+			"title": "v4.0.122",
+			"contents": "<strong>v4.0.122</strong> (13 May 2026)<br>\n            + Improved cleanup : cookies<br>\n            + Minor bug fixes<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-45dca627982982db6721289b532b6d5d",
+			"title": "v4.0.121",
+			"contents": "<strong>v4.0.121</strong> (02 May 2026)<br>\n            + Improved UI : new design<br>\n            + Improved speed<br> \n            + Improved cleanup : Firefox<br>\n            + Improved cleanup : Media Player Classic (MPC-HC)<br>  \n            + Minor bug fixes<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-dff769ec20baa2d1f1d6eaff14d19752",
+			"title": "v4.0.120.3",
+			"contents": "<strong>v4.0.120.3</strong> (08 April 2026)<br>\n            + Minor bug fixes",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-c2c514b66a49fd5b5f7b8268bfffbf73",
+			"title": "v4.0.120.2",
+			"contents": "<strong>v4.0.120.2</strong> (03 April 2026)<br>\n            + Minor bug fixes : Repair (loop)",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-6eb7727fbfbcd5d63340041aa0131175",
+			"title": "v4.0.120.1",
+			"contents": "<strong>v4.0.120.1</strong> (30 March 2026)<br>\n            + Minor bug fixes",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-6cd230b712e64f20337b29dda1e157a5",
+			"title": "v4.0.120",
+			"contents": "<strong>v4.0.120</strong> (27 March 2026)<br>\n             + Improved cleanup : MFT<br>  \n             + Improved cleanup : Microsoft Word, Excel,... (Office)<br> \n             + Improved cleanup : Cookies<br> \n             + Improved cleanup : Registry<br> \n             + Improved UI<br> \n             + Improved installation<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-1375b230de2c5041a94bd090f1cbcdb6",
+			"title": "v4.0.119.1",
+			"contents": "<br>\n            <strong>v4.0.119.1</strong> (09 March 2026)<br>\n             Minor bug fixes",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-42d7bf7981f73360de638953c085d667",
+			"title": "v4.0.119",
+			"contents": "<strong>v4.0.119</strong> (07 March 2026)<br>\n             + Improved speed<br> \n             + Improved portable version <br>  \n             + Improved cleanup : Firefox\n             + New cleanup : r3dfox\n             + Improved UI<br> \n             + New command lines :  /INTERNET_TRACES<br>\n             + New command lines :  /CREATE_RESTORE_POINT<br>\n             + New command lines :  /CLOSE_WEB_BROSER<br> \n             <u>More info</u>  : <a href=\"https://privazer.com/download.php#commandlines\">https://privazer.com/download.php#commandlines</a>               <br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-de98c0870d47e05826d0f618e4251a8f",
+			"title": "v4.0.118",
+			"contents": "<strong>v4.0.118</strong> (03 March 2026)<br>\n            + Replaced by v4.0.119, Minor bug fixes : PrivaZer hangs <br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-a588c318ee23650cc4ed41815f457b7b",
+			"title": "v4.0.117",
+			"contents": "<strong>v4.0.117</strong> (30 January 2026)<br>\n             + Improved speed<br>  \n             + Improved cleanup : Delivery Optimization<br>  \n             + Minor bug fixes minimizing, null file<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-2533db989a9de8239b7920381c36f2e5",
+			"title": "v4.0.116",
+			"contents": "<strong>v4.0.116</strong> (10 January 2026)<br>\n             + New cleanup : Mullvad<br>\n             + Improved cleanup : Tor Browser<br>  \n             + Improved cleanup : Opera<br>  \n             + Improved cleanup : Cookies<br>  \n             + Improved automatic cleanups<br>    \n             + Improved support : Import CCleaner cookies (CCleaner 6, 7)<br> \n             + Improved UI<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-0db7ff29da763b4f9bf56fb273bcefb3",
+			"title": "v4.0.115",
+			"contents": "<strong>v4.0.115</strong> (06 December 2025)<br>\n            + New option : Import CCleaner cookies  (CCleaner 7)<br> \n             + Improved support : Import CCleaner cookies (CCleaner 6)<br> \n             + Improved backups: registry<br> \n             + Improved speed<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-3a1d84c986fa04227ffe1a4dcfd88f83",
+			"title": "v4.0.114",
+			"contents": "<strong>v4.0.114</strong> (29 October 2025)<br>\n             + Improved support : Import CCleaner cookies<br> \n             + Improved support : Import cookies from a txt file<br> \n             + Improved automatic cleanups<br> \n             + Improved cleanup : Chrome<br>           \n             + Improved cleanup : Opera, Opera GX<br> \n             + Improved support : JDownloader<br> \n             + Improved UI<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-b70622a2b39c5acfc1b075498a212460",
+			"title": "v4.0.113",
+			"contents": "<strong>v4.0.113</strong> (18 October 2025)<br>\n            + Improved cleanup : Jumplists<br>\n             + Improved cleanup : Recycle bin <br>\n             + New cleanup : T-online Browser<br>\n             + New cleanup : Opera developer<br>\n             + New cleanup : Opera Next<br>\n             + New cleanup : Chrome Dev<br>\n             + Improved support : You can check and repair your PC <br>\n             + Improved cleanup : Chrome<br> \n             + Improved cleanup : Chrome (portable version)<br> \n             \n             + Improved cleanup : Opera, Opera GX<br> \n             + Improved cleanup : Opera, Opera GX (portable version)<br> \n             + Improved cleanup : Firefox (portable version)<br> \n             + Improved UI<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-602071493d1301727703beb2c8ddb704",
+			"title": "v4.0.112",
+			"contents": "<strong>v4.0.112</strong> (28 September 2025)<br>\n            + New option : Clean + SHUT DOWN the PC (PRO Version)<br>\n             + New cleanup : Brave Nightly<br>\n             + New cleanup : Chrome Canary<br>\n             + New cleanup : Chrome Beta<br>\n             + New cleanup : Chrome Dev<br>\n             + Improved cleanup : Chrome, SRWare Iron (portable version)<br> \n             + Improved UI<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-ed89f454f32415217aa6f51527d74a97",
+			"title": "v4.0.111",
+			"contents": "<strong>v4.0.111</strong> (26 September 2025)<br>\n            + replaced by v4.0.112<br>\n            + Minor bug fixes : \"Close, restart,... when completed\"<br>",
+			"retrieved": 1784428959961
+		},
+		{
+			"id": "title-a2d1663b71009e950986cfb4792727f8",
+			"title": "v4.0.110",
+			"contents": "<strong>v4.0.110</strong> (29 August 2025)<br>\n             + New cleanup : Tor Browser <br>\n             + Improved cleanup : Firefox <br>\n             + Improved cleanup : Librewolf<br>\n             + Improved cleanup : Comodo iceDragon<br>\n             + Improved cleanup : Recent files<br>\n             + Improved UI<br> \n             + Minor bug fixes<br>",
+			"retrieved": 1784428959961
+		}
+	]
 }
