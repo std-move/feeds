@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-f1f19464ab4c425219543a170652ea8d",
+			"title": "Amazing Battery Life|: Oppo Pad 5 Pro Review",
+			"link": "https://www.notebookcheck.net/Ultra-thin-13-2-inch-tablet-with-spectacular-battery-life-Oppo-Pad-5-Pro-review.1346046.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5_Pro/Test_Oppo_Pad_5_Pro_Review_12-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5_Pro/Test_Oppo_Pad_5_Pro_Review_12-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5_Pro/Test_Oppo_Pad_5_Pro_Review_12-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5_Pro/Test_Oppo_Pad_5_Pro_Review_12-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5_Pro/Test_Oppo_Pad_5_Pro_Review_12-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5_Pro/Test_Oppo_Pad_5_Pro_Review_12-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/c/csm_Test_Oppo_Pad_5_Pro_Review_12_86d9bfcda3.jpg\" loading=\"lazy\" alt=\"Oppo Pad 5 Pro Tablet Review\"></picture><div class=\"intro_featured_bar_title\">Amazing Battery Life|: Oppo Pad 5 Pro Review</div>",
+			"retrieved": 1784529930833
+		},
+		{
 			"id": "link-e2297e0835a6402968ec0d87f8f4b4a4",
 			"title": "▶ How much should you pay for an RTX 5060 laptop?!",
 			"link": "https://www.notebookcheck.net/How-much-should-you-pay-for-an-RTX-5060-laptop.1346786.0.html",
@@ -43,13 +50,6 @@
 			"title": "A Real Beast? Testing the Asus TUF Gaming A18",
 			"link": "https://www.notebookcheck.net/Overkill-or-inspired-Asus-TUF-Gaming-A18-review.1341611.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/2/csm_TUF-Gaming-A18-1_6e7a3d4d2f.jpg\" loading=\"lazy\" alt=\"Overkill or inspired? Asus TUF Gaming A18 review\"></picture><div class=\"intro_featured_bar_title\">A Real Beast? Testing the Asus TUF Gaming A18</div>",
-			"retrieved": 1784287409838
-		},
-		{
-			"id": "link-ff1dd59935b4755bdb7e97f0a34d4b34",
-			"title": "Noctua NL-LC1 series review: Three all-in-one coolers, an impressive debut",
-			"link": "https://www.notebookcheck.net/Noctua-AiOs-Review-The-king-of-air-coolers-can-also-handle-water-cooling.1343699.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Noctua/AiOs/AIOs_13-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/5/csm_AIOs_13_0daf786a8a.jpg\" loading=\"lazy\" alt=\"Noctua AiOs Review: The king of air coolers can also handle water cooling\"></picture><div class=\"intro_featured_bar_title\">Noctua NL-LC1 series review: Three all-in-one coolers, an impressive debut</div>",
 			"retrieved": 1784287409838
 		}
 	]
