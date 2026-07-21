@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico",
 	"elements": [
 		{
+			"id": "link-8f97d4d9df27326840354cb4430227bf",
+			"title": "BellSoft Releases Hardened Builder for Paketo Buildpacks",
+			"link": "https://bell-sw.com/blog/bellsoft-releases-hardened-builder-for-paketo-buildpacks/",
+			"contents": "",
+			"retrieved": 1784641757969
+		},
+		{
 			"id": "link-3d5f8a116a130fdde0cf61938f165eba",
 			"title": "The builds of Liberica NIK 23.0.12, 23.1.11, and 25.0.3 are generally available",
 			"link": "https://bell-sw.com/blog/the-builds-of-liberica-nik-23-0-12-23-1-11-and-25-0-3-are-generally-available/",
@@ -161,13 +168,6 @@
 			"id": "link-35e88381076cedd7f973227f015bfa06",
 			"title": "BellSoft Releases Container Images with Liberica JDK for Rocky Linux",
 			"link": "https://bell-sw.com/blog/bellsoft-releases-container-images-with-liberica-jdk-for-rocky-linux/",
-			"contents": "",
-			"retrieved": 1783103815415
-		},
-		{
-			"id": "link-eb554dbb130184018895066b7df6101d",
-			"title": "Liberica Native Image Kit 23.0.6, 23.1.5, and 24.1.1 builds are released",
-			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-6-23-1-5-and-24-1-1-builds-are-released/",
 			"contents": "",
 			"retrieved": 1783103815415
 		},
