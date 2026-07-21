@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-07-21T13:51:15.661Z</updated>
+    <updated>2026-07-21T15:45:28.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
+    <entry>
+        <title type="html"><![CDATA[IT Specialista L1, Praha, on-site — až 55 000 Kč / měsíc]]></title>
+        <id>link-d3c00e6338983e764f08ecdb62ce65e2</id>
+        <link href="https://www.jobstack.it/it-job/it-podpora/6a5e39298bb58"/>
+        <updated>2026-07-21T15:43:20.351Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Podpora</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">MS admin</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
+															</div>
+			
+							<div class="jobposts-item_labels">
+											<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Junior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																			</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>BeeInside s.r.o.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 55 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senior Enterprise Architect | Od strategie až k realizaci | Téměř plně remote — až 140 000 Kč / měsíc]]></title>
         <id>link-2da7c49cb07dd0464f31658e7a48742e</id>
@@ -574,35 +605,6 @@
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 45 000 Kč / měsíc</b></span>
 					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT Delivery / Release Specialista — Navrhni si mzdu]]></title>
-        <id>link-90567d72e60dbe509e3c16ddb6804ff0</id>
-        <link href="https://www.jobstack.it/it-job/it-other/6a4f8b4120ca5"/>
-        <updated>2026-07-13T17:54:52.417Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">IT mimo škatulky</span>
-				 													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-														</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Principal engineering s.r.o.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-												<i class="icon icon--salary-gray"></i>
-						<span><b>Navrhni si mzdu</b></span>
-											</span>
 							</div>]]></content>
     </entry>
 </feed>
