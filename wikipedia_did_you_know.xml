@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-07-21T19:23:51.156Z</updated>
+    <updated>2026-07-21T21:11:20.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-33c19990373089d1423beae3151840eb</id>
         <link href="https://en.wikipedia.org/wiki/Murder_of_Khuan_Phokaeng"/>
         <updated>2026-07-21T13:49:17.969Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Murder_of_Khuan_Phokaeng" title="Murder of Khuan Phokaeng">the murder of a taxi driver</a></b> in Bangkok at the hands of a teenager addicted to video games led to the Thai government banning the sale of <i>Grand Theft Auto</i><span style="padding-left:0.15em;"><span typeof="mw:Entity">?</span></span>]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Murder_of_Khuan_Phokaeng" title="Murder of Khuan Phokaeng">the murder of a taxi driver</a></b> in Bangkok at the hands of a teenage gamer led to the Thai government banning the sale of <i>Grand Theft Auto</i><span style="padding-left:0.15em;"><span typeof="mw:Entity">?</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a gunpowder explosion]]></title>
