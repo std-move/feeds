@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/tags/bellsoft-products/</id>
     <title>BellSoft Java releases</title>
-    <updated>2026-07-22T15:44:23.195Z</updated>
+    <updated>2026-07-22T17:21:22.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Liberica JDK and Liberica NIK Are Moving Toward Monthly Security Updates]]></title>
+        <id>link-6f485bbf0b817631f59141a570ccc4b9</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-and-liberica-nik-are-moving-toward-monthly-security-updates/"/>
+        <updated>2026-07-22T17:19:06.834Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liberica JDK 8u502, 11.0.32, 17.0.20, 21.0.12, 25.0.4, and 26.0.2 builds are generally available]]></title>
+        <id>link-7417d3352793e91119416faa9640881f</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-8u502-11-0-32-17-0-20-21-0-12-25-0-4-and-26-0-2-builds-are-generally-available/"/>
+        <updated>2026-07-22T17:19:06.834Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BellSoft Releases Hardened Builder for Paketo Buildpacks]]></title>
         <id>link-8f97d4d9df27326840354cb4430227bf</id>
@@ -138,16 +150,16 @@
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alpaquita Linux Performance on ARM: A Comparative Study]]></title>
-        <id>link-a784fed824a3452f142b47eae3371172</id>
-        <link href="https://bell-sw.com/blog/alpaquita-linux-performance-on-arm-a-comparative-study/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
+        <title type="html"><![CDATA[Liberica JDK and Liberica NIK Are Moving Toward Monthly Security Updates]]></title>
+        <id>link-6f485bbf0b817631f59141a570ccc4b9</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-and-liberica-nik-are-moving-toward-monthly-security-updates/"/>
+        <updated>2026-07-22T17:19:06.834Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BellSoft Releases Container Images with Liberica JDK for Rocky Linux]]></title>
-        <id>link-35e88381076cedd7f973227f015bfa06</id>
-        <link href="https://bell-sw.com/blog/bellsoft-releases-container-images-with-liberica-jdk-for-rocky-linux/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
+        <title type="html"><![CDATA[Liberica JDK 8u502, 11.0.32, 17.0.20, 21.0.12, 25.0.4, and 26.0.2 builds are generally available]]></title>
+        <id>link-7417d3352793e91119416faa9640881f</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-8u502-11-0-32-17-0-20-21-0-12-25-0-4-and-26-0-2-builds-are-generally-available/"/>
+        <updated>2026-07-22T17:19:06.834Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[The builds of Liberica NIK 23.0.12, 23.1.11, and 25.0.3 are generally available]]></title>
@@ -279,18 +291,6 @@
         <title type="html"><![CDATA[BellSoft Releases Container Images with Liberica JDK for Rocky Linux]]></title>
         <id>link-35e88381076cedd7f973227f015bfa06</id>
         <link href="https://bell-sw.com/blog/bellsoft-releases-container-images-with-liberica-jdk-for-rocky-linux/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica Native Image Kit 23.0.6, 23.1.5, and 24.1.1 builds are released]]></title>
-        <id>link-eb554dbb130184018895066b7df6101d</id>
-        <link href="https://bell-sw.com/blog/liberica-native-image-kit-23-0-6-23-1-5-and-24-1-1-builds-are-released/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica JDK 8u432, 11.0.25, 17.0.13, 21.0.5, and 23.0.1 builds are generally available]]></title>
-        <id>link-b958b20fc47e51afdc14367b10b63300</id>
-        <link href="https://bell-sw.com/blog/liberica-jdk-8u432-11-0-25-17-0-13-21-0-5-and-23-0-1-builds-are-generally-available/"/>
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
 </feed>
