@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-07-22T13:55:24.708Z</updated>
+    <updated>2026-07-22T15:44:23.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[... that NFL player <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Mel_Tom" title="Mel Tom">Mel Tom</a></b> reportedly told a coach to "trade me, fire me, or fight me"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iceland had the world's first openly gay head of state]]></title>
+        <title type="html"><![CDATA[Iceland had the world's first openly gay head of government]]></title>
         <id>link-d8bf9275dabb988e8bb3b2df4f8dc1e6</id>
         <link href="https://en.wikipedia.org/wiki/LGBTQ_history_in_Iceland"/>
         <updated>2026-07-22T13:53:10.848Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/LGBTQ_history_in_Iceland" title="LGBTQ history in Iceland">Iceland had the world's first openly gay head of state</a></b> in 2009?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/LGBTQ_history_in_Iceland" title="LGBTQ history in Iceland">Iceland had the world's first openly gay head of government</a></b> in 2009?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pope Michael]]></title>
