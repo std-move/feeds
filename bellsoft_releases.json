@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico",
 	"elements": [
 		{
+			"id": "link-d8aeb2028d257b515f46acb4b0f97994",
+			"title": "Liberica Native Image Kit 23.0.13, 23.1.12, and 25.0.4 builds are released",
+			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-13-23-1-12-and-25-0-4-builds-are-released/",
+			"contents": "",
+			"retrieved": 1784815137798
+		},
+		{
 			"id": "link-6f485bbf0b817631f59141a570ccc4b9",
 			"title": "Liberica JDK and Liberica NIK Are Moving Toward Monthly Security Updates",
 			"link": "https://bell-sw.com/blog/liberica-jdk-and-liberica-nik-are-moving-toward-monthly-security-updates/",
@@ -165,11 +172,11 @@
 			"retrieved": 1783103815415
 		},
 		{
-			"id": "link-873c8733641939e95f8c2bbecb719c50",
-			"title": "2024 in Review: BellSoft’s Key Milestones and What’s Next in 2025",
-			"link": "https://bell-sw.com/blog/2024-in-review-bellsoft-s-key-milestones-and-what-s-next-in-2025/",
+			"id": "link-d8aeb2028d257b515f46acb4b0f97994",
+			"title": "Liberica Native Image Kit 23.0.13, 23.1.12, and 25.0.4 builds are released",
+			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-13-23-1-12-and-25-0-4-builds-are-released/",
 			"contents": "",
-			"retrieved": 1783103815415
+			"retrieved": 1784815137798
 		},
 		{
 			"id": "link-6f485bbf0b817631f59141a570ccc4b9",
@@ -329,13 +336,6 @@
 			"id": "link-d7f0c47870019602f1eadb29e094848b",
 			"title": "Liberica JDK 8u442, 11.0.26, 17.0.14, 21.0.6, and 23.0.2 builds are generally available",
 			"link": "https://bell-sw.com/blog/liberica-jdk-8u442-11-0-26-17-0-14-21-0-6-and-23-0-2-builds-are-generally-available/",
-			"contents": "",
-			"retrieved": 1783103815415
-		},
-		{
-			"id": "link-35e88381076cedd7f973227f015bfa06",
-			"title": "BellSoft Releases Container Images with Liberica JDK for Rocky Linux",
-			"link": "https://bell-sw.com/blog/bellsoft-releases-container-images-with-liberica-jdk-for-rocky-linux/",
 			"contents": "",
 			"retrieved": 1783103815415
 		}
