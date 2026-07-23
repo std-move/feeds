@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-deb6ab6b16d355d483a998fd46482f9b",
+			"title": "Huge farewell gift: Review of the OnePlus Pad 4",
+			"link": "https://www.notebookcheck.net/Really-fast-tablet-giant-that-lasts-for-days-OnePlus-Pad-4-Review.1349991.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/OnePlus/Pad_4/OnePlus_Pad_4_im_Test_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/OnePlus/Pad_4/OnePlus_Pad_4_im_Test_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/OnePlus/Pad_4/OnePlus_Pad_4_im_Test_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/OnePlus/Pad_4/OnePlus_Pad_4_im_Test_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/OnePlus/Pad_4/OnePlus_Pad_4_im_Test_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/OnePlus/Pad_4/OnePlus_Pad_4_im_Test_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/2/csm_OnePlus_Pad_4_im_Test_1_3cf69b433d.jpg\" loading=\"lazy\" alt=\"OnePlus Pad 4 Review\"></picture><div class=\"intro_featured_bar_title\">Huge farewell gift: Review of the OnePlus Pad 4</div>",
+			"retrieved": 1784802151564
+		},
+		{
 			"id": "link-5a7aac080bf67bfbfafa4707fbd97ef5",
 			"title": "Self-cleaning wet/dry vacuum: Eureka FloorShine 830 review",
 			"link": "https://www.notebookcheck.net/Affordable-wet-dry-vacuum-with-self-cleaning-Eureka-FloorShine-830-review.1349352.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Asus-ZenBook-S14-2026-Laptop-Review-Brighter-OLED-but-a-slow-Panther-Lake-iGPU.1342874.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S14_UX5406AA/zenbook_s14_2026_case_01-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S14_UX5406AA/zenbook_s14_2026_case_01-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S14_UX5406AA/zenbook_s14_2026_case_01-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S14_UX5406AA/zenbook_s14_2026_case_01-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S14_UX5406AA/zenbook_s14_2026_case_01-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ZenBook_S14_UX5406AA/zenbook_s14_2026_case_01-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/b/csm_zenbook_s14_2026_case_01_50e119de28.jpg\" loading=\"lazy\" alt=\"Asus ZenBook S14 2026 Laptop Review - Brighter OLED, but a slow Panther Lake iGPU\"></picture><div class=\"intro_featured_bar_title\">Asus Zenbook S14 2026 Review - Panther Lake with a slow GPU</div>",
 			"retrieved": 1784341721918
-		},
-		{
-			"id": "link-0dc3bdd39303001777cc5b986a920966",
-			"title": "Farewell, flagship killer – Saying goodbye to OnePlus",
-			"link": "https://www.notebookcheck.net/Farewell-flagship-killer-A-personal-look-back-as-OnePlus-leaves-Europe.1345291.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/OnePlus/One/detail_open_SIM_slot-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/OnePlus/One/detail_open_SIM_slot-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/OnePlus/One/detail_open_SIM_slot-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/OnePlus/One/detail_open_SIM_slot-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/OnePlus/One/detail_open_SIM_slot-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/OnePlus/One/detail_open_SIM_slot-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/0/csm_detail_open_SIM_slot_354e86b241.jpg\" loading=\"lazy\" alt=\"The OnePlus One was OnePlus's first phone and had a lasting impact on the smartphone world.\"></picture><div class=\"intro_featured_bar_title\">Farewell, flagship killer – Saying goodbye to OnePlus</div>",
-			"retrieved": 1784294870606
 		}
 	]
 }
