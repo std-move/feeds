@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-07-24T02:41:48.257Z</updated>
+    <updated>2026-07-24T06:28:09.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,6 +10,12 @@
         <id>link-2c24a0f01e4566a161d56522aa74ccc4</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/views"/>
         <updated>2026-06-25T21:42:56.346Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nelze stahovat z Oneplay]]></title>
+        <id>link-14f593ef9dba2ef0302b57fbdb4243d3</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/82"/>
+        <updated>2026-07-24T06:26:04.989Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Problém se získáním mediálních zdrojů - Oneplay]]></title>
@@ -76,11 +82,5 @@
         <id>link-d83b39b305011cdc94bc35bbda25e7e9</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/63"/>
         <updated>2026-06-05T15:52:59.571Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg pro Win7 s verzí 00.02.09-dev.26]]></title>
-        <id>link-4887a17840eb7de457adf041207b77c2</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/62"/>
-        <updated>2026-07-16T15:38:30.489Z</updated>
     </entry>
 </feed>
