@@ -4,38 +4,31 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-36f48b515376fed4561a87f549a72f71",
-			"title": "LFA 237 — 2026-07-24 17:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/144218-lfa-237",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144218-lfa-237\">LFA 237</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-24 17:30:00 -0400\">1 hour ago</abbr>\n</td>",
-			"retrieved": 1783810104891
-		},
-		{
 			"id": "link-538909b9ad672462c29fd9f4e8ee6a65",
 			"title": "Joshua vs. Prenga — 2026-07-25 08:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142996-joshua-vs-prenga",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142996-joshua-vs-prenga\">Joshua vs. Prenga</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 08:00:00 -0400\">in 12 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142996-joshua-vs-prenga\">Joshua vs. Prenga</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 08:00:00 -0400\">in 9 hours</abbr>\n</td>",
 			"retrieved": 1784341721918
 		},
 		{
 			"id": "link-6751fb918284a80455a16d0e0be04915",
 			"title": "UFC Fight Night — 2026-07-25 09:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143627-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143627-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 09:00:00 -0400\">in 13 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143627-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 09:00:00 -0400\">in 10 hours</abbr>\n</td>",
 			"retrieved": 1784294870606
 		},
 		{
 			"id": "link-979dce4fd818493ccfd66f971e892e98",
 			"title": "PFL Washington DC — 2026-07-25 20:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143625-pfl-washington-d-c-jean-vs-musaev",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143625-pfl-washington-d-c-jean-vs-musaev\">PFL Washington DC</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 20:00:00 -0400\">in 1 day</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143625-pfl-washington-d-c-jean-vs-musaev\">PFL Washington DC</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 20:00:00 -0400\">in 21 hours</abbr>\n</td>",
 			"retrieved": 1784354712791
 		},
 		{
 			"id": "link-0ceb9ba284c317cbd30a1928d4053d8b",
 			"title": "Spence vs. Tszyu — 2026-07-25 20:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142931-spencer-vs-tszyu",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142931-spencer-vs-tszyu\">Spence vs. Tszyu</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 20:00:00 -0400\">in 1 day</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142931-spencer-vs-tszyu\">Spence vs. Tszyu</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-25 20:00:00 -0400\">in 21 hours</abbr>\n</td>",
 			"retrieved": 1784401408088
 		},
 		{
@@ -56,8 +49,15 @@
 			"id": "link-12e9cb4236143295c70296514d185bc4",
 			"title": "LFA 238 — 2026-07-31 20:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/144219-lfa-238",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144219-lfa-238\">LFA 238</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-31 20:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144219-lfa-238\">LFA 238</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-07-31 20:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1784822324538
+		},
+		{
+			"id": "link-4e74bab5e06739a59a027d7b381d97c6",
+			"title": "UFC Fight Night — 2026-08-01 10:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/142997-ufc-fight-night",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142997-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-08-01 10:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1784947040266
 		}
 	]
 }
