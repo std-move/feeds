@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-07-25T02:39:19.631Z</updated>
+    <updated>2026-07-25T06:20:06.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142996-joshua-vs-prenga">Joshua vs. Prenga</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-07-25 08:00:00 -0400">in 9 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-07-25 08:00:00 -0400">in 5 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143627-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-07-25 09:00:00 -0400">in 10 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-07-25 09:00:00 -0400">in 6 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143625-pfl-washington-d-c-jean-vs-musaev">PFL Washington DC</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-07-25 20:00:00 -0400">in 21 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-07-25 20:00:00 -0400">in 17 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142931-spencer-vs-tszyu">Spence vs. Tszyu</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-07-25 20:00:00 -0400">in 21 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-07-25 20:00:00 -0400">in 17 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
