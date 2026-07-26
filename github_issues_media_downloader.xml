@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-07-26T02:48:45.500Z</updated>
+    <updated>2026-07-26T06:38:54.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,6 +10,12 @@
         <id>link-2c24a0f01e4566a161d56522aa74ccc4</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/views"/>
         <updated>2026-06-25T21:42:56.346Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Číslování/pojmenování epizod seriálu (iPrima)]]></title>
+        <id>link-a6a50491e1360e1809947ade514f3918</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/84"/>
+        <updated>2026-07-26T06:36:51.803Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nelze se přihlásit - Oneplay]]></title>
@@ -75,12 +81,6 @@
         <title type="html"><![CDATA[Sledovanitv.cz - chyba při stahování]]></title>
         <id>link-ab662597b264cb849f7a32d1e446e28b</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/70"/>
-        <updated>2026-06-05T15:52:59.571Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oneplay - nefunguje výběr z více služeb]]></title>
-        <id>link-27de62c411600e963e7802517e0d8e5b</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/67"/>
         <updated>2026-06-05T15:52:59.571Z</updated>
     </entry>
 </feed>
