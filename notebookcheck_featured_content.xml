@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-07-26T11:27:50.209Z</updated>
+    <updated>2026-07-26T13:23:31.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Asus Zenbook S14 - the Intel problem!]]></title>
+        <id>link-c1e41c7acc2432a64a9d92f8c898320a</id>
+        <link href="https://www.notebookcheck.net/Asus-Zenbook-S14-the-Intel-problem.1352242.0.html"/>
+        <updated>2026-07-26T13:21:25.633Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052079-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052079-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052079-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052079-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052079-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052079-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/9/csm__1052079_4c4c8fccf0.jpg" loading="lazy" alt="The Asus Zenbook S14 has a problem!"></picture><div class="intro_featured_bar_title">▶ Asus Zenbook S14 - the Intel problem!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ThinkPad X1 Carbon Gen 14 Review - Almost 24 hours battery life]]></title>
         <id>link-5c8c048069be4b5610e266bc5ab15207</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Dell-Pro-7-14-P714265-review-Business-with-style.1337397.0.html"/>
         <updated>2026-07-21T21:09:13.343Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_14_P714265/dellpro714_feature_2-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_14_P714265/dellpro714_feature_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_14_P714265/dellpro714_feature_2-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_14_P714265/dellpro714_feature_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_14_P714265/dellpro714_feature_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_14_P714265/dellpro714_feature_2-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/9/b/csm_dellpro714_feature_2_fc2ec69ede.jpg" loading="lazy" alt="Dell Pro 7 14 P714265 review: Business with style"></picture><div class="intro_featured_bar_title">Dell Pro 7 14 review: Ryzen AI 9 HX Pro 470 performance debut</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ How much should you pay for an RTX 5060 laptop?!]]></title>
-        <id>link-e2297e0835a6402968ec0d87f8f4b4a4</id>
-        <link href="https://www.notebookcheck.net/How-much-should-you-pay-for-an-RTX-5060-laptop.1346786.0.html"/>
-        <updated>2026-07-19T16:58:02.714Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_105207237-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_105207237-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_105207237-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/_105207237-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_105207237-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_105207237-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/5/csm__105207237_bc30f9cf9a.jpg" loading="lazy" alt="Want an RTX 5060 (Gaming-)Laptop? Don't choose wrong!"></picture><div class="intro_featured_bar_title">▶ How much should you pay for an RTX 5060 laptop?!</div>]]></content>
     </entry>
 </feed>
