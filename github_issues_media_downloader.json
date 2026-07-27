@@ -46,13 +46,6 @@
 			"retrieved": 1781028363411
 		},
 		{
-			"id": "link-7b18b517a3450030505baf93e78902a9",
-			"title": "Nelze stahovat z Prima+",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/76",
-			"contents": "",
-			"retrieved": 1780674779571
-		},
-		{
 			"id": "link-91cf4b71864376a1402c82b657f4d1ac",
 			"title": "Problematický kontakt na webu",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/75",
@@ -93,6 +86,13 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/70",
 			"contents": "",
 			"retrieved": 1780674779571
+		},
+		{
+			"id": "link-27de62c411600e963e7802517e0d8e5b",
+			"title": "Oneplay - nefunguje výběr z více služeb",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/67",
+			"contents": "",
+			"retrieved": 1785186600454
 		}
 	]
 }
