@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-07-27T14:35:21.680Z</updated>
+    <updated>2026-07-27T17:44:24.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -22,12 +22,6 @@
         <id>link-9592a6907f4e80e9cc851c68e4372943</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/83"/>
         <updated>2026-07-26T02:46:39.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nelze stahovat z Oneplay]]></title>
-        <id>link-14f593ef9dba2ef0302b57fbdb4243d3</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/82"/>
-        <updated>2026-07-24T06:26:04.989Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Problém se získáním mediálních zdrojů - Oneplay]]></title>
@@ -82,5 +76,11 @@
         <id>link-ab662597b264cb849f7a32d1e446e28b</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/70"/>
         <updated>2026-06-05T15:52:59.571Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oneplay - nefunguje výběr z více služeb]]></title>
+        <id>link-27de62c411600e963e7802517e0d8e5b</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/67"/>
+        <updated>2026-07-27T17:42:12.793Z</updated>
     </entry>
 </feed>

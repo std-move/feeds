@@ -4,6 +4,12 @@
 	"favicon": "https://www.startallback.com/favicon.ico",
 	"elements": [
 		{
+			"id": "title-9d100e04f15585882dfc7db5a32b4e8e",
+			"title": "Version 3.9.24 27 Jul 2026",
+			"contents": "Version 3.9.24 27 Jul 2026\n\t\t\t\t<li>Minor improvements and fixes</li>",
+			"retrieved": 1785174132793
+		},
+		{
 			"id": "title-bee75e5b2950abeec69cea7943e4f217",
 			"title": "Version 3.9.23 16 May 2026",
 			"contents": "Version 3.9.23 16 May 2026\n\t\t\t\t<li>Fixes for latest Windows updates</li>",
