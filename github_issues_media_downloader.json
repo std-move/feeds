@@ -11,6 +11,13 @@
 			"retrieved": 1782423776346
 		},
 		{
+			"id": "link-4280ac7ea212f8d43419ce2e55b47b2a",
+			"title": "Nejde stahovat z Oneplay",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/87",
+			"contents": "",
+			"retrieved": 1785234887132
+		},
+		{
 			"id": "link-548abfffe4450b147fd6f049150bc9b0",
 			"title": "iPrima \"Unable to extract information about episodes\" po delší době běhu programu. Po restartu funguje.",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/86",
@@ -84,13 +91,6 @@
 			"id": "link-d83b39b305011cdc94bc35bbda25e7e9",
 			"title": "Jak stáhnout víc jazykových stop ze \"sledovanitv\" - v dočasném souboru během stahování jsou, v hotovém Merge pak už ne",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/63",
-			"contents": "",
-			"retrieved": 1785193284996
-		},
-		{
-			"id": "link-4887a17840eb7de457adf041207b77c2",
-			"title": "FFmpeg pro Win7 s verzí 00.02.09-dev.26",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/62",
 			"contents": "",
 			"retrieved": 1785193284996
 		}
