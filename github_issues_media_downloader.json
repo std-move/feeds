@@ -11,6 +11,13 @@
 			"retrieved": 1782423776346
 		},
 		{
+			"id": "link-a673ef881bb0031033305fa0790e753e",
+			"title": "Obtížné stahování z Prima+",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/88",
+			"contents": "",
+			"retrieved": 1785345281169
+		},
+		{
 			"id": "link-4280ac7ea212f8d43419ce2e55b47b2a",
 			"title": "Nejde stahovat z Oneplay",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/87",
@@ -86,13 +93,6 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/67",
 			"contents": "",
 			"retrieved": 1785186600454
-		},
-		{
-			"id": "link-d83b39b305011cdc94bc35bbda25e7e9",
-			"title": "Jak stáhnout víc jazykových stop ze \"sledovanitv\" - v dočasném souboru během stahování jsou, v hotovém Merge pak už ne",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/63",
-			"contents": "",
-			"retrieved": 1785193284996
 		}
 	]
 }
