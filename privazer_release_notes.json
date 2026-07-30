@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-70ad8947ef6eadadef42d714ad8af479",
+			"title": "v4.0.125",
+			"contents": "<strong>v4.0.125</strong> (30 July 2026)<br>\n            + Improved cleanup : snapshots<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Minor bug fixes<br>",
+			"retrieved": 1785420143250
+		},
+		{
 			"id": "title-987d389c205d291d3d50d752690269fe",
 			"title": "v4.0.124.3",
 			"contents": "<strong>v4.0.124.3</strong> (14 July 2026)<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Improved speed (PRO version)<br>\n            + Minor bug fixes<br>",
@@ -115,12 +121,6 @@
 			"id": "title-ed89f454f32415217aa6f51527d74a97",
 			"title": "v4.0.111",
 			"contents": "<strong>v4.0.111</strong> (26 September 2025)<br>\n            + replaced by v4.0.112<br>\n            + Minor bug fixes : \"Close, restart,... when completed\"<br>",
-			"retrieved": 1785378222448
-		},
-		{
-			"id": "title-a2d1663b71009e950986cfb4792727f8",
-			"title": "v4.0.110",
-			"contents": "<strong>v4.0.110</strong> (29 August 2025)<br>\n             + New cleanup : Tor Browser <br>\n             + Improved cleanup : Firefox <br>\n             + Improved cleanup : Librewolf<br>\n             + Improved cleanup : Comodo iceDragon<br>\n             + Improved cleanup : Recent files<br>\n             + Improved UI<br> \n             + Minor bug fixes<br>",
 			"retrieved": 1785378222448
 		}
 	]

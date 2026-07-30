@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-07-30T10:26:33.775Z</updated>
+    <updated>2026-07-30T14:05:08.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.125]]></title>
+        <id>title-70ad8947ef6eadadef42d714ad8af479</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-07-30T14:02:23.250Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.125</strong> (30 July 2026)<br>
+            + Improved cleanup : snapshots<br>
+            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
+            + Minor bug fixes<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.124.3]]></title>
         <id>title-987d389c205d291d3d50d752690269fe</id>
@@ -229,19 +239,5 @@
         <content type="html"><![CDATA[<strong>v4.0.111</strong> (26 September 2025)<br>
             + replaced by v4.0.112<br>
             + Minor bug fixes : "Close, restart,... when completed"<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.110]]></title>
-        <id>title-a2d1663b71009e950986cfb4792727f8</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-07-30T02:23:42.448Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.110</strong> (29 August 2025)<br>
-             + New cleanup : Tor Browser <br>
-             + Improved cleanup : Firefox <br>
-             + Improved cleanup : Librewolf<br>
-             + Improved cleanup : Comodo iceDragon<br>
-             + Improved cleanup : Recent files<br>
-             + Improved UI<br> 
-             + Minor bug fixes<br>]]></content>
     </entry>
 </feed>
