@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-07-30T15:59:10.867Z</updated>
+    <updated>2026-07-30T17:40:16.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[PFL New York — 2026-07-31 16:00:00 -0400]]></title>
+        <title type="html"><![CDATA[PFL New York — 2026-07-31 16:30:00 -0400]]></title>
         <id>link-344852d21ca2cbadfd8f9f63ff1cfe4d</id>
         <link href="https://www.tapology.com/fightcenter/events/144072-pfl-new-york-nurmagomedov-vs-colgan"/>
         <updated>2026-07-18T22:50:02.540Z</updated>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/144072-pfl-new-york-nurmagomedov-vs-colgan">PFL New York</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-07-31 16:00:00 -0400">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-07-31 16:30:00 -0400">in 1 day</abbr>
 </td>]]></content>
     </entry>
     <entry>
