@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-08-01T20:54:28.907Z</updated>
+    <updated>2026-08-01T22:57:53.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-ec090377fc7fb702e95514263c038c0d</id>
         <link href="https://news.ycombinator.com/item?id=49124218"/>
         <updated>2026-08-01T02:46:45.748Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49124218"><span>Elevators</span></a><a href="https://john.fun/elevators" target="_blank" class="Story_link">(https://john.fun/elevators)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49124218">1558 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Jrh0203"><span>Jrh0203</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49124218">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49124218">384 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49124218"><span>Elevators</span></a><a href="https://john.fun/elevators" target="_blank" class="Story_link">(https://john.fun/elevators)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49124218">1571 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Jrh0203"><span>Jrh0203</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49124218">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49124218">386 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kimi-K3 on HuggingFace]]></title>
@@ -66,7 +66,7 @@
         <id>link-82a7348d2d3c6ccb915e409658f9fe46</id>
         <link href="https://news.ycombinator.com/item?id=49102774"/>
         <updated>2026-07-31T10:38:49.393Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49102774"><span>The coolest use for the Vision Pro</span></a><a href="https://christianselig.com/2026/07/vision-pro-house/" target="_blank" class="Story_link">(https://christianselig.com/2026/07/vision-pro-house/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49102774">838 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=robbiet480"><span>robbiet480</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49102774">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49102774">317 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49102774"><span>The coolest use for the Vision Pro</span></a><a href="https://christianselig.com/2026/07/vision-pro-house/" target="_blank" class="Story_link">(https://christianselig.com/2026/07/vision-pro-house/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49102774">839 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=robbiet480"><span>robbiet480</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49102774">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49102774">317 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7.1 Earthquake in Japan]]></title>
