@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-08-02T20:57:38.404Z</updated>
+    <updated>2026-08-02T22:58:25.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-ec090377fc7fb702e95514263c038c0d</id>
         <link href="https://news.ycombinator.com/item?id=49124218"/>
         <updated>2026-08-01T02:46:45.748Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49124218"><span>Show HN: Elevators</span></a><a href="https://john.fun/elevators" target="_blank" class="Story_link">(https://john.fun/elevators)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49124218">1619 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Jrh0203"><span>Jrh0203</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49124218">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49124218">397 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49124218"><span>Show HN: Elevators</span></a><a href="https://john.fun/elevators" target="_blank" class="Story_link">(https://john.fun/elevators)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49124218">1622 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Jrh0203"><span>Jrh0203</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49124218">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49124218">397 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kimi-K3 on HuggingFace]]></title>
@@ -20,18 +20,11 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49065752"><span>Kimi-K3 on HuggingFace</span></a><a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank" class="Story_link">(https://huggingface.co/moonshotai/Kimi-K3)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49065752">1378 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=nateb2022"><span>nateb2022</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49065752">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49065752">545 comments</a></span><div class="Story_comment"><span>Related: <i>Kimi-K3 Technical Report [pdf]</i> - <a href="https://news.ycombinator.com/item?id=49070985">https://news.ycombinator.com/item?id=49070985</a></span></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US citizen charged after GrapheneOS phone wipes during airport search]]></title>
-        <id>link-9303ee4f374bc9c7a46120b2d39ffd5a</id>
-        <link href="https://news.ycombinator.com/item?id=49063022"/>
-        <updated>2026-07-27T14:33:18.134Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49063022"><span>US citizen charged after GrapheneOS phone wipes during airport search</span></a><a href="https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html" target="_blank" class="Story_link">(https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49063022">1337 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=eecc"><span>eecc</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49063022">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49063022">1114 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UEFA and its national associations will not participate in FIFA competitions]]></title>
         <id>link-421d68ab4caa44dfb8b2dda1486731f9</id>
         <link href="https://news.ycombinator.com/item?id=49113929"/>
         <updated>2026-07-31T02:48:13.799Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49113929"><span>UEFA and its national associations will not participate in FIFA competitions</span></a><a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/" target="_blank" class="Story_link">(https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49113929">1222 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=dickfickling"><span>dickfickling</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49113929">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49113929">671 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49113929"><span>UEFA and its national associations will not participate in FIFA competitions</span></a><a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/" target="_blank" class="Story_link">(https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49113929">1225 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=dickfickling"><span>dickfickling</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49113929">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49113929">672 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Our position on open-weights models]]></title>
@@ -74,5 +67,12 @@
         <link href="https://news.ycombinator.com/item?id=49112744"/>
         <updated>2026-08-02T13:20:10.217Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49112744"><span>Read this before you buy that TV streaming stick</span></a><a href="https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/" target="_blank" class="Story_link">(https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49112744">808 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=speckx"><span>speckx</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49112744">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49112744">545 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI companies are shredding rare books]]></title>
+        <id>link-b0c48bbb2539c6d094c838a20387e47f</id>
+        <link href="https://news.ycombinator.com/item?id=49068738"/>
+        <updated>2026-08-02T22:56:18.276Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49068738"><span>AI companies are shredding rare books</span></a><a href="https://twitter.com/HedgieMarkets/status/2081534588485296565" target="_blank" class="Story_link">(https://twitter.com/HedgieMarkets/status/2081534588485296565)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49068738">796 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=anon373839"><span>anon373839</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49068738">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49068738">516 comments</a></span><div class="Story_comment"><span><a href="https://xcancel.com/HedgieMarkets/status/2081534588485296565" rel="nofollow">https://xcancel.com/HedgieMarkets/status/2081534588485296565</a></span></div></div></div></div>]]></content>
     </entry>
 </feed>
