@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-cbd45c66d30e8b4d2b978ff96980a234",
+			"title": "The 2026 Razer Blade 18 is ultra-quiet, but ...",
+			"link": "https://www.notebookcheck.net/The-2026-Razer-Blade-18-is-ultra-quiet-but-last-year-s-model-might-be-the-smarter-buy.1358362.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/7/csm__1052129_79ea67711a.jpg\" loading=\"lazy\" alt=\"Razer Blade 18 2026 gaming laptop setup on a white desk with glowing RGB keyboard, mouse, gaming controller, and headphones in a dark studio setting.\"></picture><div class=\"intro_featured_bar_title\">The 2026 Razer Blade 18 is ultra-quiet, but ...</div>",
+			"retrieved": 1785689907508
+		},
+		{
 			"id": "link-f194b440ade46661b3b771b8ea907f89",
 			"title": "A successful debut? Motorola Razr Fold Review",
 			"link": "https://www.notebookcheck.net/Is-Motorola-s-flip-phone-debut-so-successful-that-Samsung-has-reason-to-worry-Razr-Fold-Smartphone-Review.1358081.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Big-affordable-long-lasting-yet-still-disappointing-Oppo-Pad-5-5G-review.1352145.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5/Oppo_Pad_5_Test_290-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5/Oppo_Pad_5_Test_290-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5/Oppo_Pad_5_Test_290-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5/Oppo_Pad_5_Test_290-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5/Oppo_Pad_5_Test_290-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_5/Oppo_Pad_5_Test_290-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/3/csm_Oppo_Pad_5_Test_290_b222e1af05.jpg\" loading=\"lazy\" alt=\"Oppo Pad 5 tablet review\"></picture><div class=\"intro_featured_bar_title\">Review of an affordable 12.1-inch tablet with 5G</div>",
 			"retrieved": 1785321526177
-		},
-		{
-			"id": "link-d40a679d9c758c5ea148575ce233890a",
-			"title": "Framework Laptop 13 Pro review: Improvements almost everywhere",
-			"link": "https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/9/csm_frameworkpro_feature_1_da940e581e.jpg\" loading=\"lazy\" alt=\"Framework Laptop 13 Pro review: The king of repairability is back\"></picture><div class=\"intro_featured_bar_title\">Framework Laptop 13 Pro review: Improvements almost everywhere</div>",
-			"retrieved": 1785259626475
 		}
 	]
 }
