@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-08-02T22:58:25.935Z</updated>
+    <updated>2026-08-03T02:48:45.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.82]]></title>
+        <id>title-fe6c37438ccad805d9e4a475c3822253</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-08-03T02:46:44.019Z</updated>
+        <content type="html"><![CDATA[Released Aug 2, 2026 - 354.6 KB — Fixed a bug where settings could intermittently reset to defaults for signed-in and Premium users.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.81]]></title>
         <id>title-b9ddea66b207ac478f95992426a5ab50</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-01-04T17:33:37.655Z</updated>
         <content type="html"><![CDATA[Released Mar 7, 2024 - 327.65 KB — Implemented "only show playlists" for the left sidebar.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.53]]></title>
-        <id>title-faa5f63a36eb1181ab508fbbd2ec7a50</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-01-04T17:33:37.655Z</updated>
-        <content type="html"><![CDATA[Released Mar 4, 2024 - 327.3 KB — Implemented "True full screen mode" thank you to Jon-guy30 for the suggestion!]]></content>
     </entry>
 </feed>

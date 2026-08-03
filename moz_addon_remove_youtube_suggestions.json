@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-fe6c37438ccad805d9e4a475c3822253",
+			"title": "Version 4.3.82",
+			"contents": "Released Aug 2, 2026 - 354.6 KB — Fixed a bug where settings could intermittently reset to defaults for signed-in and Premium users.",
+			"retrieved": 1785725204019
+		},
+		{
 			"id": "title-b9ddea66b207ac478f95992426a5ab50",
 			"title": "Version 4.3.81",
 			"contents": "Released May 7, 2026 - 354.57 KB — Free redirect-to-Library / Subscriptions / Watch Later for everyone, and fixed the broken Library redirect now that YouTube renamed the section to \"You\".",
@@ -145,12 +151,6 @@
 			"id": "title-ed64d55329c2699d8e460f444f7a1d9a",
 			"title": "Version 4.3.54",
 			"contents": "Released Mar 7, 2024 - 327.65 KB — Implemented \"only show playlists\" for the left sidebar.",
-			"retrieved": 1767548017655
-		},
-		{
-			"id": "title-faa5f63a36eb1181ab508fbbd2ec7a50",
-			"title": "Version 4.3.53",
-			"contents": "Released Mar 4, 2024 - 327.3 KB — Implemented \"True full screen mode\" thank you to Jon-guy30 for the suggestion!",
 			"retrieved": 1767548017655
 		}
 	]
