@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-08-04T06:29:28.345Z</updated>
+    <updated>2026-08-04T10:40:49.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[The best foldable phones according to our tests]]></title>
+        <id>link-75a2551a7d2f984e2145ad60d9e35dec</id>
+        <link href="https://www.notebookcheck.net/Ranking-Best-foldables-tested-and-rated.1347925.0.html"/>
+        <updated>2026-08-04T10:38:50.940Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/5/csm_2026_Charts_Best_Foldables-3193_0a21de0cd1.jpg" loading="lazy" alt="Ranking: Best foldables tested and rated"></picture><div class="intro_featured_bar_title">The best foldable phones according to our tests</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More premium than the price]]></title>
         <id>link-a626b1b5b762746bdcf8c5200155c078</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/DJI-Osmo-Pocket-4P-review-Dual-lenses-and-impressive-4K-quality-at-a-highly-competitive-price.1355639.0.html"/>
         <updated>2026-07-30T17:38:06.724Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Pocket_4p-title-1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Pocket_4p-title-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Pocket_4p-title-1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Pocket_4p-title-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Pocket_4p-title-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Pocket_4p-title-1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/6/csm_Pocket_4p-title-1_f488f1cb87.jpg" loading="lazy" alt="DJI Osmo Pocket 4P review: Dual lenses and impressive 4K quality at a highly competitive price"></picture><div class="intro_featured_bar_title">DJI Osmo Pocket 4P review: Dual lenses and impressive 4K quality at a highly competitive price</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saving money at any cost: Motorola Moto G37 review]]></title>
-        <id>link-b2e9b999926001b25c58d9fd0a083517</id>
-        <link href="https://www.notebookcheck.net/The-predecessor-might-actually-be-the-better-choice-Motorola-Moto-G37-Smartphone-Review.1355595.0.html"/>
-        <updated>2026-07-30T10:24:26.604Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G37/IMG_20260730_072704-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G37/IMG_20260730_072704-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G37/IMG_20260730_072704-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G37/IMG_20260730_072704-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G37/IMG_20260730_072704-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G37/IMG_20260730_072704-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/5/csm_IMG_20260730_072704_28d96f93c8.jpg" loading="lazy" alt="Motorola Moto G37 Review"></picture><div class="intro_featured_bar_title">Saving money at any cost: Motorola Moto G37 review</div>]]></content>
     </entry>
 </feed>
