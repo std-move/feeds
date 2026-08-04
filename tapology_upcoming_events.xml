@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-08-04T02:32:42.714Z</updated>
+    <updated>2026-08-04T06:29:28.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -62,11 +62,11 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142898-rizin-54">RIZIN 54</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-10 23:00:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-10 23:00:00 -0400">in 6 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Contender Series 2026 — 2026-08-11 20:00:00 -0400]]></title>
+        <title type="html"><![CDATA[Contender Series 2026 — 2026-08-11 19:00:00 -0400]]></title>
         <id>link-ab4e367e4a414e75ead199a851579934</id>
         <link href="https://www.tapology.com/fightcenter/events/142720-contender-series-2026-week-1"/>
         <updated>2026-08-01T15:00:29.812Z</updated>
@@ -74,7 +74,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142720-contender-series-2026-week-1">Contender Series 2026</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-11 20:00:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-11 19:00:00 -0400">in 1 week</abbr>
 </td>]]></content>
     </entry>
     <entry>
