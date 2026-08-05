@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-08-05T19:31:31.944Z</updated>
+    <updated>2026-08-05T21:09:56.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-fe08087341e732ac6861655792775ce3</id>
         <link href="https://news.ycombinator.com/item?id=49151933"/>
         <updated>2026-08-03T14:38:10.370Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49151933"><span>Don't be a meat proxy</span></a><a href="https://gruhn.me/blog/2026-08-03/" target="_blank" class="Story_link">(https://gruhn.me/blog/2026-08-03/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49151933">1807 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ngruhn"><span>ngruhn</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49151933">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49151933">721 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49151933"><span>Don't be a meat proxy</span></a><a href="https://gruhn.me/blog/2026-08-03/" target="_blank" class="Story_link">(https://gruhn.me/blog/2026-08-03/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49151933">1807 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ngruhn"><span>ngruhn</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49151933">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49151933">722 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Elevators]]></title>
@@ -24,14 +24,14 @@
         <id>link-88680e62dac6bf957cd14ed365ab3304</id>
         <link href="https://news.ycombinator.com/item?id=49173165"/>
         <updated>2026-08-05T02:29:36.350Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49173165"><span>In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years</span></a><a href="https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/" target="_blank" class="Story_link">(https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49173165">1574 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=jdcampolargo"><span>jdcampolargo</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49173165">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49173165">93 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49173165"><span>In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years</span></a><a href="https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/" target="_blank" class="Story_link">(https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49173165">1582 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=jdcampolargo"><span>jdcampolargo</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49173165">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49173165">93 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LLMs reward expertise]]></title>
         <id>link-9b95e69b2015f23194c68cd6889b9cc0</id>
         <link href="https://news.ycombinator.com/item?id=49161518"/>
         <updated>2026-08-04T10:38:50.940Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49161518"><span>LLMs reward expertise</span></a><a href="https://www.seangoedecke.com/llms-reward-expertise/" target="_blank" class="Story_link">(https://www.seangoedecke.com/llms-reward-expertise/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49161518">1379 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=MaxMussio"><span>MaxMussio</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49161518">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49161518">564 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49161518"><span>LLMs reward expertise</span></a><a href="https://www.seangoedecke.com/llms-reward-expertise/" target="_blank" class="Story_link">(https://www.seangoedecke.com/llms-reward-expertise/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49161518">1380 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=MaxMussio"><span>MaxMussio</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49161518">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49161518">564 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UEFA and its national associations will not participate in FIFA competitions]]></title>
@@ -45,14 +45,7 @@
         <id>link-38ac269f46da5a9b66503b1b23f61412</id>
         <link href="https://news.ycombinator.com/item?id=49150470"/>
         <updated>2026-08-03T14:38:10.370Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49150470"><span>Qwen3.8-Max: A New Bar for Coding and Cowork</span></a><a href="https://qwen.ai/blog?id=qwen3.8" target="_blank" class="Story_link">(https://qwen.ai/blog?id=qwen3.8)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49150470">1109 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ai2027"><span>ai2027</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49150470">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49150470">606 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The coolest use for the Vision Pro]]></title>
-        <id>link-82a7348d2d3c6ccb915e409658f9fe46</id>
-        <link href="https://news.ycombinator.com/item?id=49102774"/>
-        <updated>2026-07-31T10:38:49.393Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49102774"><span>The coolest use for the Vision Pro</span></a><a href="https://christianselig.com/2026/07/vision-pro-house/" target="_blank" class="Story_link">(https://christianselig.com/2026/07/vision-pro-house/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49102774">846 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=robbiet480"><span>robbiet480</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49102774">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49102774">320 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49150470"><span>Qwen3.8-Max: A New Bar for Coding and Cowork</span></a><a href="https://qwen.ai/blog?id=qwen3.8" target="_blank" class="Story_link">(https://qwen.ai/blog?id=qwen3.8)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49150470">1109 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ai2027"><span>ai2027</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49150470">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49150470">607 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Read this before you buy that TV streaming stick]]></title>
@@ -67,6 +60,13 @@
         <link href="https://news.ycombinator.com/item?id=49118781"/>
         <updated>2026-08-05T17:36:40.517Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49118781"><span>The session you cannot take with you</span></a><a href="https://earendil.com/posts/session-portability/" target="_blank" class="Story_link">(https://earendil.com/posts/session-portability/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49118781">786 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=apitman"><span>apitman</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49118781">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49118781">225 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Generated Images Discourage Me from Reading Your Blog]]></title>
+        <id>link-93e37cbdc3a880aa0d08e29e2ed1e3f5</id>
+        <link href="https://news.ycombinator.com/item?id=49167113"/>
+        <updated>2026-08-05T21:07:54.549Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49167113"><span>AI-Generated Images Discourage Me from Reading Your Blog</span></a><a href="https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/" target="_blank" class="Story_link">(https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49167113">780 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=meysamazad"><span>meysamazad</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49167113">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49167113">460 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stacked PRs are now live on GitHub]]></title>
