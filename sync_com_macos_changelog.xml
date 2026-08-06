@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com macOS changelog</title>
-    <updated>2026-08-06T14:10:02.188Z</updated>
+    <updated>2026-08-06T19:58:51.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.36 - 08/06/2026]]></title>
+        <id>title-c14d6f13f285fa820983bec4c34b5645</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-08-06T19:56:16.896Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e32bc129b0adbafa50db8a2bd9ab1443c">Fixed files that permanently showed "couldn't be opened" in Finder; affected files can now recover and open correctly.</li>
+<li data-list-item-id="e5c2751675ed7d0438ec187d35bcd4a9c">Fixed excessive background activity caused by the app repeatedly retrying items that could not be fetched.</li>
+<li data-list-item-id="eff495b6c7d78623eec3142e1645aa476">Fixed uploads stalling when a very large number of files were waiting to upload.</li>
+<li data-list-item-id="e5d0649e5761d57a39e2797bc085da75a">Fixed several sync issues that could cause deleted files to reappear or items to remain stuck.</li>
+<li data-list-item-id="e515703cd51b9acf03cc7db1aea3e3f7d">Improved sync reliability and performance on accounts with very large numbers of files.</li>
+<li data-list-item-id="e2cc28a47832ab77c40d89357d29091b2">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.0.61 - 08/06/2026]]></title>
+        <id>title-a206da09aa952968cb469461fbea668e</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-08-06T19:56:16.896Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="edd5937b5801b999059d34ab7cb9b013e">Expanded the range of supported characters in file and folder names.</li>
+<li data-list-item-id="ef887a7d8a6e563319b7929cc04579c55">Fixed several sync issues that could cause deleted files to reappear or items to remain stuck.</li>
+<li data-list-item-id="ebd705975bcdc55c520bbc3d06b15af57">Improved sync reliability and performance on accounts with very large numbers of files.</li>
+<li data-list-item-id="ea382feb0133230c063241a7a94a64044">Reduced background CPU usage on accounts with large numbers of files.</li>
+<li data-list-item-id="e0c5133c36d44d79a521aa504add8c08c">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>
+<li data-list-item-id="eb40830c265fbbddf75ee2b957eef63d4">Added safeguards to prevent files from being removed if a local folder scan fails.</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.35 - 06/22/2026]]></title>
         <id>title-e810381d233843672f163a830b5fdd04</id>

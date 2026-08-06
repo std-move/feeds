@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com Windows changelog</title>
-    <updated>2026-08-06T14:10:02.187Z</updated>
+    <updated>2026-08-06T19:58:51.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.36 - 08/06/2026]]></title>
+        <id>title-c14d6f13f285fa820983bec4c34b5645</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-08-06T19:56:16.896Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e6c4df8d1e20f45871af270c04c4bb3c9">Expanded the range of supported characters in file and folder names.</li>
+<li data-list-item-id="e7a059e82633a674dd72c6e1a41af53a8">Fixed several sync issues that could cause deleted files or folders to reappear or items to remain stuck.</li>
+<li data-list-item-id="ea1d8da5352febed71c0c886200272d6e">Fixed an issue where resuming an interrupted upload could leave the file unable to open on any device.</li>
+<li data-list-item-id="e119dcaf6031acf41f019addaf1ceaae8">Improved sync reliability and performance on accounts with very large numbers of files.</li>
+<li data-list-item-id="ea89abd17220eaa31dea0fe8b5aa42790">Reduced background CPU usage on accounts with large numbers of files.</li>
+<li data-list-item-id="ef27a3a13814864f1d095f78300e6748e">Fixed files with corrupt placeholder data getting stuck in a sync loop.</li>
+<li data-list-item-id="ec964fdca54873271d94da02a331fc1a0">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>
+<li data-list-item-id="e6329befbc3d9f0d250c2e694b28db1ae">Added safeguards to prevent files from being removed if a local folder scan fails.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.0.61 - 08/06/2026]]></title>
+        <id>title-a206da09aa952968cb469461fbea668e</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-08-06T19:56:16.896Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ec7290f1263a7dd1db86beb070a268b25">Expanded the range of supported characters in file and folder names.</li>
+<li data-list-item-id="e520d1cb2813ee632eb41a8ef094233fc">Fixed several sync issues that could cause deleted files or folders to reappear or items to remain stuck.</li>
+<li data-list-item-id="e5e6990e5fb086cb8910d8e85fc17ad69">Fixed an issue where resuming an interrupted upload could leave the file unable to open on any device.</li>
+<li data-list-item-id="e37332496b3385bb8342cce03f8ca75e3">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>
+<li data-list-item-id="ec30185c3f39e99935954889466c5d491">Added safeguards to prevent files from being removed if a local folder scan fails.</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.35 - 06/22/2026]]></title>
         <id>title-e810381d233843672f163a830b5fdd04</id>
