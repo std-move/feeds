@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-b40ebc000e0b974989a2f09c08c8a4c6",
+			"title": "360°-drone: Antigravity A1 reviewed",
+			"link": "https://www.notebookcheck.net/Antigravity-A1-review-Immersive-360-flying-made-easy.1361022.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/1/csm_AntigravityA1_Test_Notebookcheck03_d741f27a7a.jpg\" loading=\"lazy\" alt=\"Antigravity A1 review: Immersive 360° flying made easy\"></picture><div class=\"intro_featured_bar_title\">360°-drone: Antigravity A1 reviewed</div>",
+			"retrieved": 1786012709247
+		},
+		{
 			"id": "link-1a8e23ca99b4df80597db057d6917f01",
 			"title": "Snapdragon X2 Elite in a sleek tablet - Asus ProArt PZ14 review",
 			"link": "https://www.notebookcheck.net/Powerful-creator-tablet-with-Snapdragon-X2-Elite-Asus-ProArt-PZ14-Review.1359622.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Is-Motorola-s-book-style-phone-debut-so-successful-that-Samsung-has-reason-to-worry-Razr-Fold-Smartphone-Review.1358081.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_Fold/Motorola_Razr_Fold_im_Test_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_Fold/Motorola_Razr_Fold_im_Test_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_Fold/Motorola_Razr_Fold_im_Test_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_Fold/Motorola_Razr_Fold_im_Test_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_Fold/Motorola_Razr_Fold_im_Test_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_Fold/Motorola_Razr_Fold_im_Test_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/2/csm_Motorola_Razr_Fold_im_Test_1_870cbe7f89.jpg\" loading=\"lazy\" alt=\"Motorola Razr Fold Review\"></picture><div class=\"intro_featured_bar_title\">A successful debut? Motorola Razr Fold Review</div>",
 			"retrieved": 1785756181146
-		},
-		{
-			"id": "link-afe737e8a544e0535702b93362138562",
-			"title": "Bambu Lab A2L: Large-format printer with cutter option",
-			"link": "https://www.notebookcheck.net/Bambu-Lab-A2L-review-Large-build-volume-and-high-quality-at-a-fair-price-plus-a-plotter-option.1356574.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabA2L_Test-26_1-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabA2L_Test-26_1-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabA2L_Test-26_1-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabA2L_Test-26_1-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabA2L_Test-26_1-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabA2L_Test-26_1-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/3/csm_BambuLabA2L_Test-26_1_73522964fb.jpg\" loading=\"lazy\" alt=\"Bambu Lab A2L review: Large build volume and high quality at a fair price, plus a plotter option\"></picture><div class=\"intro_featured_bar_title\">Bambu Lab A2L: Large-format printer with cutter option</div>",
-			"retrieved": 1785506745400
 		}
 	]
 }
