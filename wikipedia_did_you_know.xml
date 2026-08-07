@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-07T20:42:41.772Z</updated>
+    <updated>2026-08-07T22:36:42.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-12c78e19121a4a8a067bdb188ac542a8</id>
         <link href="https://en.wikipedia.org/wiki/Tennessee_State_Capitol"/>
         <updated>2026-08-07T13:02:20.347Z</updated>
-        <content type="html"><![CDATA[... that the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Tennessee_State_Capitol" title="Tennessee State Capitol">Tennessee State Capitol</a></b> <i>(pictured)</i> was one of the first buildings in the United States to use structural iron?]]></content>
+        <content type="html"><![CDATA[... that the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Tennessee_State_Capitol" title="Tennessee State Capitol">Tennessee State Capitol</a></b> <i>(pictured)</i> uses structural iron in its roof?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cambridge South railway station]]></title>
