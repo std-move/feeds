@@ -107,6 +107,62 @@
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/13548",
 			"contents": "",
 			"retrieved": 1780674425972
+		},
+		{
+			"id": "link-80d0475c0909ae6b470c6ea45716ffd3",
+			"title": "[iPrima.cz] Unable to extract real id",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/12354",
+			"contents": "",
+			"retrieved": 1786086884643
+		},
+		{
+			"id": "link-1ff4d0556df2131734438da2b7948f67",
+			"title": "PBS An extractor error has occurred. (caused by KeyError('title'))",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/12165",
+			"contents": "",
+			"retrieved": 1786086884643
+		},
+		{
+			"id": "link-c68e7b71cce83ba07aa49f3fa3beb36f",
+			"title": "[pbs] An extractor error has occurred. (caused by KeyError('title'))",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/11514",
+			"contents": "",
+			"retrieved": 1786086884643
+		},
+		{
+			"id": "link-cec99e0430656a0d84e15e09edfef649",
+			"title": "[TikTok] 31KB non-video files are being downloaded",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/11034",
+			"contents": "",
+			"retrieved": 1786086884643
+		},
+		{
+			"id": "link-8700f11a2c8db046e6c3085389af6944",
+			"title": "[Youtube] Unable to extract initial JS player n function name",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/10916",
+			"contents": "",
+			"retrieved": 1786086884643
+		},
+		{
+			"id": "link-55d20fd551479a9b98a8b8b13714e418",
+			"title": "Falling back to generic extractor for voyo.nova.cz",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/9999",
+			"contents": "",
+			"retrieved": 1786086884643
+		},
+		{
+			"id": "link-d138da2a26b0e08430f6a776f553067f",
+			"title": "Markíza.py not working",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/9692",
+			"contents": "",
+			"retrieved": 1786086884643
+		},
+		{
+			"id": "link-1877050c5b5e9991b06ede0f3f75f46f",
+			"title": "Download from https://www.pbs.org not working: ERROR: An extractor error has occurred. (caused by KeyError('title'))",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/9397",
+			"contents": "",
+			"retrieved": 1786086884643
 		}
 	]
 }
