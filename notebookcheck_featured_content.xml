@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-08-07T13:04:24.422Z</updated>
+    <updated>2026-08-07T14:54:06.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Zen 5 at Full Throttle: Aorus Master 16 Review]]></title>
+        <id>link-b74182baee1acaaf7ce86aa77ff9df04</id>
+        <link href="https://www.notebookcheck.net/Did-Gigabyte-go-too-far-Aorus-Master-16-gaming-laptop-with-AMD-Zen-5-review.1362768.0.html"/>
+        <updated>2026-08-07T14:52:18.360Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Aorus/Master_16_AM6J/Aorus-Master-16-1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Aorus/Master_16_AM6J/Aorus-Master-16-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Aorus/Master_16_AM6J/Aorus-Master-16-1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Aorus/Master_16_AM6J/Aorus-Master-16-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Aorus/Master_16_AM6J/Aorus-Master-16-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Aorus/Master_16_AM6J/Aorus-Master-16-1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/6/csm_Aorus-Master-16-1_6f4693e28b.jpg" loading="lazy" alt="Did Gigabyte go too far? Aorus Master 16 gaming laptop with AMD Zen 5 review"></picture><div class="intro_featured_bar_title">Zen 5 at Full Throttle: Aorus Master 16 Review</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worth it? Motorola Moto G47 Review]]></title>
         <id>link-8ba843a97865876e34e272ff205570a1</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Ranking-Best-foldables-tested-and-rated.1347925.0.html"/>
         <updated>2026-08-04T10:38:50.940Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/2026_Charts_Best_Foldables-3193-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/5/csm_2026_Charts_Best_Foldables-3193_0a21de0cd1.jpg" loading="lazy" alt="Ranking: Best foldables tested and rated"></picture><div class="intro_featured_bar_title">The best foldable phones according to our tests</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2026 Razer Blade 18 is ultra-quiet, but ...]]></title>
-        <id>link-cbd45c66d30e8b4d2b978ff96980a234</id>
-        <link href="https://www.notebookcheck.net/The-2026-Razer-Blade-18-is-ultra-quiet-but-last-year-s-model-might-be-the-smarter-buy.1358362.0.html"/>
-        <updated>2026-08-02T16:58:27.508Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052129-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/7/csm__1052129_79ea67711a.jpg" loading="lazy" alt="Razer Blade 18 2026 gaming laptop setup on a white desk with glowing RGB keyboard, mouse, gaming controller, and headphones in a dark studio setting."></picture><div class="intro_featured_bar_title">The 2026 Razer Blade 18 is ultra-quiet, but ...</div>]]></content>
     </entry>
 </feed>
