@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-08T04:58:34.879Z</updated>
+    <updated>2026-08-08T06:54:43.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://en.wikipedia.org/wiki/Niall_Garbh_O'Donnell"/>
         <updated>2026-08-08T01:37:37.940Z</updated>
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Niall_Garbh_O'Donnell" title="Niall Garbh O'Donnell">Niall Garbh O'Donnell</a></b>, Lord of Tyrconnell, stole his cousin's cattle for surrendering to the Crown?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Route 101 in California]]></title>
-        <id>link-ddda234e7202b1826e1d373d5d84f5bf</id>
-        <link href="https://en.wikipedia.org/wiki/U.S._Route_101_in_California"/>
-        <updated>2026-08-08T01:37:37.940Z</updated>
-        <content type="html"><![CDATA[... that the earliest predecessors of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/U.S._Route_101_in_California" title="U.S. Route 101 in California">U.S. Route<span typeof="mw:Entity">&nbsp;</span>101 in California</a></b> were 16th-century "royal roads" built by the Spanish?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[King Eiso]]></title>
