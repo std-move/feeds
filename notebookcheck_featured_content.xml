@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-08-09T12:51:32.107Z</updated>
+    <updated>2026-08-09T14:36:04.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Can an eGPU save your ultraportable laptop?]]></title>
+        <id>link-7ab406b1b3f31950c70df222de023c28</id>
+        <link href="https://www.notebookcheck.net/The-Aorus-RTX-5060-Ti-AI-Box-turns-compact-notebooks-into-1440p-gaming-rigs.1364139.0.html"/>
+        <updated>2026-08-09T14:34:01.670Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052242-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052242-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052242-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052242-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052242-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052242-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/1/csm__1052242_7569f15dd5.jpg" loading="lazy" alt="Aorus RTX 5060 Ti AI Box eGPU connected to a Lenovo ThinkPad X9 laptop running Cyberpunk 2077 on an external monitor."></picture><div class="intro_featured_bar_title">Can an eGPU save your ultraportable laptop?</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Handbag-sized projector with laser & battery: Etoe Dolphin 2 Review]]></title>
         <id>link-cba72bf278c15fed0ed55f9311f510f4</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Powerful-creator-tablet-with-Snapdragon-X2-Elite-Asus-ProArt-PZ14-Review.1359622.0.html"/>
         <updated>2026-08-05T02:29:36.350Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/0/csm_proart_pz14_2026_case_01_23b0d4a076.jpg" loading="lazy" alt="Powerful creator tablet with Snapdragon X2 Elite - Asus ProArt PZ14 Review"></picture><div class="intro_featured_bar_title">Snapdragon X2 Elite in a sleek tablet - Asus ProArt PZ14 review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD update for the ThinkPad  classic: Is the E14 G8 worth it?]]></title>
-        <id>link-a8d17b7b74e669ab6b8a51741847a7e5</id>
-        <link href="https://www.notebookcheck.net/Lenovo-ThinkPad-E14-G8-review-AMD-update-for-the-classic-ThinkPad-with-long-battery-life.1358792.0.html"/>
-        <updated>2026-08-08T22:28:50.694Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/7/csm_ThinkPad_G8_11_8559f8a91f.jpg" loading="lazy" alt="Lenovo ThinkPad E14 G8 review - AMD update for the classic ThinkPad with long battery life"></picture><div class="intro_featured_bar_title">AMD update for the ThinkPad  classic: Is the E14 G8 worth it?</div>]]></content>
     </entry>
 </feed>
