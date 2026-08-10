@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-10T01:48:39.556Z</updated>
+    <updated>2026-08-10T03:56:59.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://en.wikipedia.org/wiki/Verstummte_Stimmen"/>
         <updated>2026-08-10T01:46:31.936Z</updated>
         <content type="html"><![CDATA[... that part of the travelling exhibition <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Verstummte_Stimmen" title="Verstummte Stimmen">Verstummte Stimmen</a></b></i>, which commemorated Jewish figures in opera who faced Nazi persecution, remained permanently in a park in Bayreuth?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arthur Edwards]]></title>
-        <id>link-825d6bb6b8bdde8a88ae1bd85e76145d</id>
-        <link href="https://en.wikipedia.org/wiki/Arthur_Edwards_(architect)"/>
-        <updated>2026-08-10T01:46:31.936Z</updated>
-        <content type="html"><![CDATA[... that architect <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Arthur_Edwards_(architect)" title="Arthur Edwards (architect)">Arthur Edwards</a></b> designed the Birmingham Municipal Technical School with a <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Engine_house" title="Engine house">steam engine in the basement</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Casino Royale]]></title>
