@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-cb2796554c6fb78ac8844441e22351d9",
+			"title": "Geekom IT13 Max review: Small, fast, and surprisingly affordable",
+			"link": "https://www.notebookcheck.net/Geekom-IT13-Max-mini-PC-review-Affordable-and-fast-but-with-a-catch.1364007.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Geekom/IT13_Max/IT13_Max_24-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Geekom/IT13_Max/IT13_Max_24-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Geekom/IT13_Max/IT13_Max_24-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Geekom/IT13_Max/IT13_Max_24-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Geekom/IT13_Max/IT13_Max_24-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Geekom/IT13_Max/IT13_Max_24-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/b/csm_IT13_Max_24_ecc7f15eef.jpg\" loading=\"lazy\" alt=\"Geekom IT13 Max mini PC review: Affordable and fast, but with a catch\"></picture><div class=\"intro_featured_bar_title\">Geekom IT13 Max review: Small, fast, and surprisingly affordable</div>",
+			"retrieved": 1786367190201
+		},
+		{
 			"id": "link-7ab406b1b3f31950c70df222de023c28",
 			"title": "Can an eGPU save your ultraportable laptop?",
 			"link": "https://www.notebookcheck.net/The-Aorus-RTX-5060-Ti-AI-Box-turns-compact-notebooks-into-1440p-gaming-rigs.1364139.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Antigravity-A1-review-Immersive-360-flying-made-easy.1361022.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/1/csm_AntigravityA1_Test_Notebookcheck03_d741f27a7a.jpg\" loading=\"lazy\" alt=\"Antigravity A1 review: Immersive 360° flying made easy\"></picture><div class=\"intro_featured_bar_title\">360°-drone: Antigravity A1 reviewed</div>",
 			"retrieved": 1786012709247
-		},
-		{
-			"id": "link-1a8e23ca99b4df80597db057d6917f01",
-			"title": "Snapdragon X2 Elite in a sleek tablet - Asus ProArt PZ14 review",
-			"link": "https://www.notebookcheck.net/Powerful-creator-tablet-with-Snapdragon-X2-Elite-Asus-ProArt-PZ14-Review.1359622.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_PZ14_HT7407/proart_pz14_2026_case_01-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/0/csm_proart_pz14_2026_case_01_23b0d4a076.jpg\" loading=\"lazy\" alt=\"Powerful creator tablet with Snapdragon X2 Elite - Asus ProArt PZ14 Review\"></picture><div class=\"intro_featured_bar_title\">Snapdragon X2 Elite in a sleek tablet - Asus ProArt PZ14 review</div>",
-			"retrieved": 1785896976350
 		}
 	]
 }
