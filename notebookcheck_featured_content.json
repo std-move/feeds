@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-ed37931f56572801caafff191e7ca8b2",
+			"title": "▶ Aorus RTX 5060 Ti AI Box Review: Maybe don't buy a new Laptop!",
+			"link": "https://www.notebookcheck.net/Aorus-RTX-5060-Ti-AI-Box-Review-Maybe-don-t-buy-a-new-Laptop.1364716.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_105221351-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_105221351-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_105221351-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_105221351-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_105221351-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_105221351-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/4/csm__105221351_43ba5915de.jpg\" loading=\"lazy\" alt=\"We tested the Lunar Lake-powered Lenovo ThinkPad X9 14 with the Aorus RTX 5060 Ti eGPU.\"></picture><div class=\"intro_featured_bar_title\">▶ Aorus RTX 5060 Ti AI Box Review: Maybe don't buy a new Laptop!</div>",
+			"retrieved": 1786373879312
+		},
+		{
 			"id": "link-cb2796554c6fb78ac8844441e22351d9",
 			"title": "Geekom IT13 Max review: Small, fast, and surprisingly affordable",
 			"link": "https://www.notebookcheck.net/Geekom-IT13-Max-mini-PC-review-Affordable-and-fast-but-with-a-catch.1364007.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Disappointment-at-full-price-but-worth-it-as-a-bargain-Motorola-Moto-G47-Smartphone-Review.1361348.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G47/Motorola_Moto-G47_im_Test-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G47/Motorola_Moto-G47_im_Test-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G47/Motorola_Moto-G47_im_Test-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G47/Motorola_Moto-G47_im_Test-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G47/Motorola_Moto-G47_im_Test-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Moto_G47/Motorola_Moto-G47_im_Test-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/2/csm_Motorola_Moto-G47_im_Test_1e4fc18a84.jpg\" loading=\"lazy\" alt=\"Motorola Moto G47 Review\"></picture><div class=\"intro_featured_bar_title\">Worth it? Motorola Moto G47 Review</div>",
 			"retrieved": 1786025280032
-		},
-		{
-			"id": "link-b40ebc000e0b974989a2f09c08c8a4c6",
-			"title": "360°-drone: Antigravity A1 reviewed",
-			"link": "https://www.notebookcheck.net/Antigravity-A1-review-Immersive-360-flying-made-easy.1361022.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AntigravityA1_Test_Notebookcheck03-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/1/csm_AntigravityA1_Test_Notebookcheck03_d741f27a7a.jpg\" loading=\"lazy\" alt=\"Antigravity A1 review: Immersive 360° flying made easy\"></picture><div class=\"intro_featured_bar_title\">360°-drone: Antigravity A1 reviewed</div>",
-			"retrieved": 1786012709247
 		}
 	]
 }

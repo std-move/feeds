@@ -10,10 +10,10 @@
 			"retrieved": 1786046176896
 		},
 		{
-			"id": "title-a206da09aa952968cb469461fbea668e",
-			"title": "Version 2.0.61 - 08/06/2026",
+			"id": "title-106d9cb746dba93c8eee37f0768bef5b",
+			"title": "Version 2.2.61 - 08/06/2026",
 			"contents": "<li data-list-item-id=\"ec7290f1263a7dd1db86beb070a268b25\">Expanded the range of supported characters in file and folder names.</li>\n<li data-list-item-id=\"e520d1cb2813ee632eb41a8ef094233fc\">Fixed several sync issues that could cause deleted files or folders to reappear or items to remain stuck.</li>\n<li data-list-item-id=\"e5e6990e5fb086cb8910d8e85fc17ad69\">Fixed an issue where resuming an interrupted upload could leave the file unable to open on any device.</li>\n<li data-list-item-id=\"e37332496b3385bb8342cce03f8ca75e3\">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>\n<li data-list-item-id=\"ec30185c3f39e99935954889466c5d491\">Added safeguards to prevent files from being removed if a local folder scan fails.</li>",
-			"retrieved": 1786046176896
+			"retrieved": 1786373879312
 		},
 		{
 			"id": "title-e810381d233843672f163a830b5fdd04",

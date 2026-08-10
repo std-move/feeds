@@ -10,10 +10,10 @@
 			"retrieved": 1786046176896
 		},
 		{
-			"id": "title-a206da09aa952968cb469461fbea668e",
-			"title": "Version 2.0.61 - 08/06/2026",
+			"id": "title-106d9cb746dba93c8eee37f0768bef5b",
+			"title": "Version 2.2.61 - 08/06/2026",
 			"contents": "<li data-list-item-id=\"edd5937b5801b999059d34ab7cb9b013e\">Expanded the range of supported characters in file and folder names.</li>\n<li data-list-item-id=\"ef887a7d8a6e563319b7929cc04579c55\">Fixed several sync issues that could cause deleted files to reappear or items to remain stuck.</li>\n<li data-list-item-id=\"ebd705975bcdc55c520bbc3d06b15af57\">Improved sync reliability and performance on accounts with very large numbers of files.</li>\n<li data-list-item-id=\"ea382feb0133230c063241a7a94a64044\">Reduced background CPU usage on accounts with large numbers of files.</li>\n<li data-list-item-id=\"e0c5133c36d44d79a521aa504add8c08c\">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>\n<li data-list-item-id=\"eb40830c265fbbddf75ee2b957eef63d4\">Added safeguards to prevent files from being removed if a local folder scan fails.</li>",
-			"retrieved": 1786046176896
+			"retrieved": 1786373879312
 		},
 		{
 			"id": "title-e810381d233843672f163a830b5fdd04",

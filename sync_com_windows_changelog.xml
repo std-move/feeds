@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com Windows changelog</title>
-    <updated>2026-08-10T13:08:28.527Z</updated>
+    <updated>2026-08-10T15:00:09.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
     <entry>
@@ -20,10 +20,10 @@
 <li data-list-item-id="e6329befbc3d9f0d250c2e694b28db1ae">Added safeguards to prevent files from being removed if a local folder scan fails.</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Version 2.0.61 - 08/06/2026]]></title>
-        <id>title-a206da09aa952968cb469461fbea668e</id>
+        <title type="html"><![CDATA[Version 2.2.61 - 08/06/2026]]></title>
+        <id>title-106d9cb746dba93c8eee37f0768bef5b</id>
         <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
-        <updated>2026-08-06T19:56:16.896Z</updated>
+        <updated>2026-08-10T14:57:59.312Z</updated>
         <content type="html"><![CDATA[<li data-list-item-id="ec7290f1263a7dd1db86beb070a268b25">Expanded the range of supported characters in file and folder names.</li>
 <li data-list-item-id="e520d1cb2813ee632eb41a8ef094233fc">Fixed several sync issues that could cause deleted files or folders to reappear or items to remain stuck.</li>
 <li data-list-item-id="e5e6990e5fb086cb8910d8e85fc17ad69">Fixed an issue where resuming an interrupted upload could leave the file unable to open on any device.</li>
