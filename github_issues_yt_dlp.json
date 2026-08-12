@@ -1,5 +1,112 @@
 {
 	"title": "yt-dlp Czech + pinned issues",
 	"url": "https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani",
-	"elements": []
+	"favicon": "https://github.githubassets.com/favicons/favicon.svg",
+	"elements": [
+		{
+			"id": "link-bd8e9b854c93e08d7296ca67eeb6342a",
+			"title": "Views",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/views",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-835a5d584f04d10080ea546c95e345bf",
+			"title": "🚨[IMPORTANT]🚨 KNOWN ISSUES/FAQ",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/3766",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-82704a01d584d5b5f31e5ac8e650882a",
+			"title": "[Announcement] Windows executables will require Win10+ starting in October",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16917",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-634ad95a8b766bc4a62eca85e02a3f72",
+			"title": "[Announcement] Dropping support for Python 3.10",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16916",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-9bd5d3ad3d08efa2dad377b6fdd75e0e",
+			"title": "Cannot download full Youtube plylist",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16998",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-2cdebf7a6c616c469071a5cb311e00ea",
+			"title": "[Pornhub] Error 403 on downloads.",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16860",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-042e09d3ce73a0f383df405e999d5d86",
+			"title": "Output/convert metadata to Jellyfin/Emby/Plex-compatible .nfo files",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16837",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-1f478531d0aaaca388f263f3d9316eea",
+			"title": "RTP (Rádio e Televisão de Portugal): subtitles not detected/downloaded",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16836",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-98d69b0182f9cb1b74ed13cdfa6c11b4",
+			"title": "bandcamp: 'station nova' cannot be got",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16613",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-c6f19efb11ec093d73007f2214edebac",
+			"title": "YouTube: When using cookies, when premium is detected, the player is downgraded to tv, resulting in no DASH formats being listed",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/16226",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-ebc7e93ca734c55757352ab54eefb91c",
+			"title": "SponsorBlock segment outside of video range makes video longer",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/15716",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-23acbb2a22b98c9d656763aaac14cff8",
+			"title": "Server-side ad injection in megaphone.fm hosted podcasts",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/15241",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-27817f0c0de282aca6f0e55441710c3a",
+			"title": "Support Duktape as external JS runtime (YouTube JS challenge provider)",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/14689",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-e44f73e3033abec43101a801dca224fb",
+			"title": "[CeskaTelevize] HTTP Error 410: Gone",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/14298",
+			"contents": "",
+			"retrieved": 1786567387605
+		},
+		{
+			"id": "link-201a231131a0067406208cae40e71069",
+			"title": "Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/13548",
+			"contents": "",
+			"retrieved": 1786567387605
+		}
+	]
 }
