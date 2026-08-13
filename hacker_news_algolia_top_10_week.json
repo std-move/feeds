@@ -25,6 +25,13 @@
 			"retrieved": 1786199493107
 		},
 		{
+			"id": "link-bba3709e0ff42c8cec717e50dc9c991d",
+			"title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+			"link": "https://news.ycombinator.com/item?id=49272832",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49272832\"><span>Tracking down the 16-year-old WAL-reset SQLite bug</span></a><a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\" target=\"_blank\" class=\"Story_link\">(https://tailscale.com/blog/sqlite-wal-reset-bug)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49272832\">1057 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ropbear\"><span>ropbear</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49272832\">21 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49272832\">198 comments</a></span></div></div></div>",
+			"retrieved": 1786594466713
+		},
+		{
 			"id": "link-4edb510ab2985cb715822a6fb4b7f23a",
 			"title": "France to ban unsolicited telemarketing calls",
 			"link": "https://news.ycombinator.com/item?id=49254880",
@@ -32,11 +39,11 @@
 			"retrieved": 1786467434304
 		},
 		{
-			"id": "link-bba3709e0ff42c8cec717e50dc9c991d",
-			"title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-			"link": "https://news.ycombinator.com/item?id=49272832",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49272832\"><span>Tracking down the 16-year-old WAL-reset SQLite bug</span></a><a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\" target=\"_blank\" class=\"Story_link\">(https://tailscale.com/blog/sqlite-wal-reset-bug)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49272832\">1023 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ropbear\"><span>ropbear</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49272832\">19 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49272832\">190 comments</a></span></div></div></div>",
-			"retrieved": 1786594466713
+			"id": "link-1cf4ae654dfa1e10bba8fc5a4da21650",
+			"title": "DeepSeek V4 Pro 0813",
+			"link": "https://news.ycombinator.com/item?id=49274600",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49274600\"><span>DeepSeek V4 Pro 0813</span></a><a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\" target=\"_blank\" class=\"Story_link\">(https://openrouter.ai/deepseek/deepseek-v4-pro-0813)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49274600\">945 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=explosion-s\"><span>explosion-s</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274600\">19 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274600\">393 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://api-docs.deepseek.com/\" rel=\"nofollow\">https://api-docs.deepseek.com/</a><p><a href=\"https://artificialanalysis.ai/models/deepseek-v4-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/deepseek-v4-pro</a></p><p><a href=\"https://twitter.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://twitter.com/ChrisGPT/status/2087572834650407024</a>, <a href=\"https://xcancel.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://xcancel.com/ChrisGPT/status/2087572834650407024</a></p></span></div></div></div></div>",
+			"retrieved": 1786605964943
 		},
 		{
 			"id": "link-ca5cdde56650a4ebd7fd1ec83964b108",
@@ -56,15 +63,8 @@
 			"id": "link-5b02584b30ca5523283392887143f0b9",
 			"title": "As AI eats the web, the internet’s collective memory is disappearing",
 			"link": "https://news.ycombinator.com/item?id=49250836",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49250836\"><span>As AI eats the web, the internet’s collective memory is disappearing</span></a><a href=\"https://thewalrus.ca/google-search-is-dying/\" target=\"_blank\" class=\"Story_link\">(https://thewalrus.ca/google-search-is-dying/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49250836\">929 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=awnird\"><span>awnird</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49250836\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49250836\">966 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49250836\"><span>As AI eats the web, the internet’s collective memory is disappearing</span></a><a href=\"https://thewalrus.ca/google-search-is-dying/\" target=\"_blank\" class=\"Story_link\">(https://thewalrus.ca/google-search-is-dying/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49250836\">929 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=awnird\"><span>awnird</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49250836\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49250836\">967 comments</a></span></div></div></div>",
 			"retrieved": 1786480954654
-		},
-		{
-			"id": "link-1cf4ae654dfa1e10bba8fc5a4da21650",
-			"title": "DeepSeek V4 Pro 0813",
-			"link": "https://news.ycombinator.com/item?id=49274600",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49274600\"><span>DeepSeek V4 Pro 0813</span></a><a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\" target=\"_blank\" class=\"Story_link\">(https://openrouter.ai/deepseek/deepseek-v4-pro-0813)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49274600\">912 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=explosion-s\"><span>explosion-s</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274600\">17 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274600\">373 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://api-docs.deepseek.com/\" rel=\"nofollow\">https://api-docs.deepseek.com/</a><p><a href=\"https://artificialanalysis.ai/models/deepseek-v4-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/deepseek-v4-pro</a></p><p><a href=\"https://twitter.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://twitter.com/ChrisGPT/status/2087572834650407024</a>, <a href=\"https://xcancel.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://xcancel.com/ChrisGPT/status/2087572834650407024</a></p></span></div></div></div></div>",
-			"retrieved": 1786605964943
 		},
 		{
 			"id": "link-8c2771c2015842f0da07323eddb18997",

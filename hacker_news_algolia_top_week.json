@@ -25,6 +25,13 @@
 			"retrieved": 1786164985882
 		},
 		{
+			"id": "link-bba3709e0ff42c8cec717e50dc9c991d",
+			"title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+			"link": "https://news.ycombinator.com/item?id=49272832",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49272832\"><span>Tracking down the 16-year-old WAL-reset SQLite bug</span></a><a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\" target=\"_blank\" class=\"Story_link\">(https://tailscale.com/blog/sqlite-wal-reset-bug)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49272832\">1057 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ropbear\"><span>ropbear</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49272832\">21 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49272832\">198 comments</a></span></div></div></div>",
+			"retrieved": 1786567387605
+		},
+		{
 			"id": "link-4edb510ab2985cb715822a6fb4b7f23a",
 			"title": "France to ban unsolicited telemarketing calls",
 			"link": "https://news.ycombinator.com/item?id=49254880",
@@ -32,10 +39,10 @@
 			"retrieved": 1786460200077
 		},
 		{
-			"id": "link-bba3709e0ff42c8cec717e50dc9c991d",
-			"title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-			"link": "https://news.ycombinator.com/item?id=49272832",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49272832\"><span>Tracking down the 16-year-old WAL-reset SQLite bug</span></a><a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\" target=\"_blank\" class=\"Story_link\">(https://tailscale.com/blog/sqlite-wal-reset-bug)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49272832\">1023 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ropbear\"><span>ropbear</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49272832\">19 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49272832\">190 comments</a></span></div></div></div>",
+			"id": "link-1cf4ae654dfa1e10bba8fc5a4da21650",
+			"title": "DeepSeek V4 Pro 0813",
+			"link": "https://news.ycombinator.com/item?id=49274600",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49274600\"><span>DeepSeek V4 Pro 0813</span></a><a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\" target=\"_blank\" class=\"Story_link\">(https://openrouter.ai/deepseek/deepseek-v4-pro-0813)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49274600\">945 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=explosion-s\"><span>explosion-s</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274600\">19 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274600\">393 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://api-docs.deepseek.com/\" rel=\"nofollow\">https://api-docs.deepseek.com/</a><p><a href=\"https://artificialanalysis.ai/models/deepseek-v4-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/deepseek-v4-pro</a></p><p><a href=\"https://twitter.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://twitter.com/ChrisGPT/status/2087572834650407024</a>, <a href=\"https://xcancel.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://xcancel.com/ChrisGPT/status/2087572834650407024</a></p></span></div></div></div></div>",
 			"retrieved": 1786567387605
 		},
 		{
@@ -56,15 +63,8 @@
 			"id": "link-5b02584b30ca5523283392887143f0b9",
 			"title": "As AI eats the web, the internet’s collective memory is disappearing",
 			"link": "https://news.ycombinator.com/item?id=49250836",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49250836\"><span>As AI eats the web, the internet’s collective memory is disappearing</span></a><a href=\"https://thewalrus.ca/google-search-is-dying/\" target=\"_blank\" class=\"Story_link\">(https://thewalrus.ca/google-search-is-dying/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49250836\">929 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=awnird\"><span>awnird</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49250836\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49250836\">966 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49250836\"><span>As AI eats the web, the internet’s collective memory is disappearing</span></a><a href=\"https://thewalrus.ca/google-search-is-dying/\" target=\"_blank\" class=\"Story_link\">(https://thewalrus.ca/google-search-is-dying/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49250836\">929 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=awnird\"><span>awnird</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49250836\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49250836\">967 comments</a></span></div></div></div>",
 			"retrieved": 1786460200077
-		},
-		{
-			"id": "link-1cf4ae654dfa1e10bba8fc5a4da21650",
-			"title": "DeepSeek V4 Pro 0813",
-			"link": "https://news.ycombinator.com/item?id=49274600",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49274600\"><span>DeepSeek V4 Pro 0813</span></a><a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\" target=\"_blank\" class=\"Story_link\">(https://openrouter.ai/deepseek/deepseek-v4-pro-0813)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49274600\">912 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=explosion-s\"><span>explosion-s</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274600\">17 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274600\">373 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://api-docs.deepseek.com/\" rel=\"nofollow\">https://api-docs.deepseek.com/</a><p><a href=\"https://artificialanalysis.ai/models/deepseek-v4-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/deepseek-v4-pro</a></p><p><a href=\"https://twitter.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://twitter.com/ChrisGPT/status/2087572834650407024</a>, <a href=\"https://xcancel.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://xcancel.com/ChrisGPT/status/2087572834650407024</a></p></span></div></div></div></div>",
-			"retrieved": 1786567387605
 		},
 		{
 			"id": "link-8c2771c2015842f0da07323eddb18997",
@@ -77,14 +77,14 @@
 			"id": "link-b605b7aa165f5d678f42222da6a6836d",
 			"title": "AI is removing the middle class of software engineering?",
 			"link": "https://news.ycombinator.com/item?id=49271994",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49271994\"><span>AI is removing the middle class of software engineering?</span></a><a href=\"https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html\" target=\"_blank\" class=\"Story_link\">(https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49271994\">874 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=florianherrengt\"><span>florianherrengt</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49271994\">20 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49271994\">779 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49271994\"><span>AI is removing the middle class of software engineering?</span></a><a href=\"https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html\" target=\"_blank\" class=\"Story_link\">(https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49271994\">893 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=florianherrengt\"><span>florianherrengt</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49271994\">22 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49271994\">801 comments</a></span></div></div></div>",
 			"retrieved": 1786567387605
 		},
 		{
 			"id": "link-6f1e1333262e4b98b0edccabed5627b9",
 			"title": "How I use LLMs to learn complex topics",
 			"link": "https://news.ycombinator.com/item?id=49234675",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49234675\"><span>How I use LLMs to learn complex topics</span></a><a href=\"https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\" target=\"_blank\" class=\"Story_link\">(https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49234675\">821 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=laurentiurad\"><span>laurentiurad</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49234675\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49234675\">544 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49234675\"><span>How I use LLMs to learn complex topics</span></a><a href=\"https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\" target=\"_blank\" class=\"Story_link\">(https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49234675\">822 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=laurentiurad\"><span>laurentiurad</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49234675\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49234675\">544 comments</a></span></div></div></div>",
 			"retrieved": 1786339590291
 		},
 		{
@@ -119,7 +119,7 @@
 			"id": "link-9fe9f473e556fe4aea250452b5af9e57",
 			"title": "Stealing Reasoning Traces from Proprietary LLM APIs",
 			"link": "https://news.ycombinator.com/item?id=49257876",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49257876\"><span>Stealing Reasoning Traces from Proprietary LLM APIs</span></a><a href=\"https://stolen-thoughts.com/\" target=\"_blank\" class=\"Story_link\">(https://stolen-thoughts.com/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49257876\">685 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=quantumgarbage\"><span>quantumgarbage</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49257876\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49257876\">301 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49257876\"><span>Stealing Reasoning Traces from Proprietary LLM APIs</span></a><a href=\"https://stolen-thoughts.com/\" target=\"_blank\" class=\"Story_link\">(https://stolen-thoughts.com/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49257876\">686 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=quantumgarbage\"><span>quantumgarbage</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49257876\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49257876\">301 comments</a></span></div></div></div>",
 			"retrieved": 1786507687821
 		},
 		{
@@ -147,7 +147,7 @@
 			"id": "link-72fd3560428f19db1e74d43140ffaab2",
 			"title": "Compression is prediction",
 			"link": "https://news.ycombinator.com/item?id=49263497",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49263497\"><span>Compression is prediction</span></a><a href=\"https://ngrok.com/blog/compression-is-prediction\" target=\"_blank\" class=\"Story_link\">(https://ngrok.com/blog/compression-is-prediction)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49263497\">650 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=nikolay\"><span>nikolay</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49263497\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49263497\">280 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49263497\"><span>Compression is prediction</span></a><a href=\"https://ngrok.com/blog/compression-is-prediction\" target=\"_blank\" class=\"Story_link\">(https://ngrok.com/blog/compression-is-prediction)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49263497\">651 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=nikolay\"><span>nikolay</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49263497\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49263497\">283 comments</a></span></div></div></div>",
 			"retrieved": 1786532388078
 		},
 		{
@@ -158,18 +158,18 @@
 			"retrieved": 1786445434739
 		},
 		{
-			"id": "link-59bb0a1de1087ebfc4a265a01096cd09",
-			"title": "Tl;dv: Over 180k meetings left wide open",
-			"link": "https://news.ycombinator.com/item?id=49242739",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49242739\"><span>Tl;dv: Over 180k meetings left wide open</span></a><a href=\"https://bobdahacker.com/blog/tldv-hack\" target=\"_blank\" class=\"Story_link\">(https://bobdahacker.com/blog/tldv-hack)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49242739\">626 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=colesantiago\"><span>colesantiago</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49242739\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49242739\">208 comments</a></span></div></div></div>",
-			"retrieved": 1786412585867
-		},
-		{
 			"id": "link-bf31de61bd1730937ad91952f9c3ecd6",
 			"title": "Qwen3.8-2.4T",
 			"link": "https://news.ycombinator.com/item?id=49273478",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49273478\"><span>Qwen3.8-2.4T</span></a><a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B\" target=\"_blank\" class=\"Story_link\">(https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49273478\">615 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Philpax\"><span>Philpax</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49273478\">18 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49273478\">143 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8</a></span></div></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49273478\"><span>Qwen3.8-2.4T</span></a><a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B\" target=\"_blank\" class=\"Story_link\">(https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49273478\">638 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Philpax\"><span>Philpax</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49273478\">20 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49273478\">149 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8</a></span></div></div></div></div>",
 			"retrieved": 1786605964943
+		},
+		{
+			"id": "link-59bb0a1de1087ebfc4a265a01096cd09",
+			"title": "Tl;dv: Over 180k meetings left wide open",
+			"link": "https://news.ycombinator.com/item?id=49242739",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49242739\"><span>Tl;dv: Over 180k meetings left wide open</span></a><a href=\"https://bobdahacker.com/blog/tldv-hack\" target=\"_blank\" class=\"Story_link\">(https://bobdahacker.com/blog/tldv-hack)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49242739\">626 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=colesantiago\"><span>colesantiago</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49242739\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49242739\">209 comments</a></span></div></div></div>",
+			"retrieved": 1786412585867
 		},
 		{
 			"id": "link-4e352103dd36cb21126d2cb039b9cae6",
@@ -182,8 +182,22 @@
 			"id": "link-a3c50ed4de96578d8211d405800747b2",
 			"title": "License plate reader searches should require a warrant",
 			"link": "https://news.ycombinator.com/item?id=49273165",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49273165\"><span>License plate reader searches should require a warrant</span></a><a href=\"https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/\" target=\"_blank\" class=\"Story_link\">(https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49273165\">581 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=apwheele\"><span>apwheele</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49273165\">18 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49273165\">345 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49273165\"><span>License plate reader searches should require a warrant</span></a><a href=\"https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/\" target=\"_blank\" class=\"Story_link\">(https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49273165\">584 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=apwheele\"><span>apwheele</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49273165\">20 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49273165\">349 comments</a></span></div></div></div>",
 			"retrieved": 1786586220637
+		},
+		{
+			"id": "link-6970f3dab64d34b0163b3a699667896d",
+			"title": "Delta",
+			"link": "https://news.ycombinator.com/item?id=49276574",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49276574\"><span>Delta</span></a><a href=\"https://zed.dev/blog/introducing-delta\" target=\"_blank\" class=\"Story_link\">(https://zed.dev/blog/introducing-delta)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49276574\">564 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=khy\"><span>khy</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49276574\">17 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49276574\">206 comments</a></span></div></div></div>",
+			"retrieved": 1786612280758
+		},
+		{
+			"id": "link-e89950e8eea3c8af07f77af85973af99",
+			"title": "Grok 4.6",
+			"link": "https://news.ycombinator.com/item?id=49274027",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49274027\"><span>Grok 4.6</span></a><a href=\"https://x.ai/news/grok-4-6\" target=\"_blank\" class=\"Story_link\">(https://x.ai/news/grok-4-6)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49274027\">560 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=iLuddite\"><span>iLuddite</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274027\">19 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274027\">506 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a...</a></span></div></div></div></div>",
+			"retrieved": 1786612280758
 		},
 		{
 			"id": "link-7172e04109b2e86d1b4084f5e52225a3",
@@ -198,20 +212,6 @@
 			"link": "https://news.ycombinator.com/item?id=49200652",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49200652\"><span>Qwen3.8 Max now ranked as the best overall model by agentic index</span></a><a href=\"https://artificialanalysis.ai/?intelligence=agentic-index\" target=\"_blank\" class=\"Story_link\">(https://artificialanalysis.ai/?intelligence=agentic-index)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49200652\">546 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=apitman\"><span>apitman</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49200652\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49200652\">354 comments</a></span></div></div></div>",
 			"retrieved": 1786093102928
-		},
-		{
-			"id": "link-6970f3dab64d34b0163b3a699667896d",
-			"title": "Delta",
-			"link": "https://news.ycombinator.com/item?id=49276574",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49276574\"><span>Delta</span></a><a href=\"https://zed.dev/blog/introducing-delta\" target=\"_blank\" class=\"Story_link\">(https://zed.dev/blog/introducing-delta)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49276574\">542 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=khy\"><span>khy</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49276574\">15 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49276574\">190 comments</a></span></div></div></div>",
-			"retrieved": 1786612280758
-		},
-		{
-			"id": "link-e89950e8eea3c8af07f77af85973af99",
-			"title": "Grok 4.6",
-			"link": "https://news.ycombinator.com/item?id=49274027",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49274027\"><span>Grok 4.6</span></a><a href=\"https://x.ai/news/grok-4-6\" target=\"_blank\" class=\"Story_link\">(https://x.ai/news/grok-4-6)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49274027\">540 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=iLuddite\"><span>iLuddite</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274027\">18 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49274027\">487 comments</a></span><div class=\"Story_comment\"><span><a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a...</a></span></div></div></div></div>",
-			"retrieved": 1786612280758
 		}
 	]
 }
