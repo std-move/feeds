@@ -11,13 +11,6 @@
 			"retrieved": 1782423776346
 		},
 		{
-			"id": "link-39ff6dc9d648fd66512b65e53e377e71",
-			"title": "java.lang. IllegalStateException: Unable to extract information about media contect - IPrima",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/89",
-			"contents": "",
-			"retrieved": 1786705051936
-		},
-		{
 			"id": "link-a673ef881bb0031033305fa0790e753e",
 			"title": "Obtížné stahování z Prima+",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/88",
@@ -39,13 +32,6 @@
 			"retrieved": 1785180409745
 		},
 		{
-			"id": "link-a6a50491e1360e1809947ade514f3918",
-			"title": "Číslování/pojmenování epizod seriálu (iPrima)",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/84",
-			"contents": "",
-			"retrieved": 1785047811803
-		},
-		{
 			"id": "link-9592a6907f4e80e9cc851c68e4372943",
 			"title": "Nelze se přihlásit - Oneplay",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/83",
@@ -58,13 +44,6 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/79",
 			"contents": "",
 			"retrieved": 1783087575686
-		},
-		{
-			"id": "link-95e30f9dcdfb1200e47c323a504ee1c7",
-			"title": "URL download from CT24/CTsport/subdomains of ceskatelevize.cz",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/78",
-			"contents": "",
-			"retrieved": 1781028363411
 		},
 		{
 			"id": "link-91cf4b71864376a1402c82b657f4d1ac",
@@ -93,6 +72,27 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/70",
 			"contents": "",
 			"retrieved": 1780674779571
+		},
+		{
+			"id": "link-27de62c411600e963e7802517e0d8e5b",
+			"title": "Oneplay - nefunguje výběr z více služeb",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/67",
+			"contents": "",
+			"retrieved": 1786719090611
+		},
+		{
+			"id": "link-d83b39b305011cdc94bc35bbda25e7e9",
+			"title": "Jak stáhnout víc jazykových stop ze \"sledovanitv\" - v dočasném souboru během stahování jsou, v hotovém Merge pak už ne",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/63",
+			"contents": "",
+			"retrieved": 1786719090611
+		},
+		{
+			"id": "link-4887a17840eb7de457adf041207b77c2",
+			"title": "FFmpeg pro Win7 s verzí 00.02.09-dev.26",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/62",
+			"contents": "",
+			"retrieved": 1786719090611
 		}
 	]
 }

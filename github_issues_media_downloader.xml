@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-08-14T13:07:08.715Z</updated>
+    <updated>2026-08-14T14:53:28.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,12 +10,6 @@
         <id>link-2c24a0f01e4566a161d56522aa74ccc4</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/views"/>
         <updated>2026-06-25T21:42:56.346Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[java.lang. IllegalStateException: Unable to extract information about media contect - IPrima]]></title>
-        <id>link-39ff6dc9d648fd66512b65e53e377e71</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/89"/>
-        <updated>2026-08-14T10:57:31.936Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Obtížné stahování z Prima+]]></title>
@@ -36,12 +30,6 @@
         <updated>2026-07-27T19:26:49.745Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Číslování/pojmenování epizod seriálu (iPrima)]]></title>
-        <id>link-a6a50491e1360e1809947ade514f3918</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/84"/>
-        <updated>2026-07-26T06:36:51.803Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nelze se přihlásit - Oneplay]]></title>
         <id>link-9592a6907f4e80e9cc851c68e4372943</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/83"/>
@@ -52,12 +40,6 @@
         <id>link-d38144ef5f1f689f0242a6c2f441b478</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/79"/>
         <updated>2026-07-03T14:06:15.686Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[URL download from CT24/CTsport/subdomains of ceskatelevize.cz]]></title>
-        <id>link-95e30f9dcdfb1200e47c323a504ee1c7</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/78"/>
-        <updated>2026-06-09T18:06:03.411Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Problematický kontakt na webu]]></title>
@@ -82,5 +64,23 @@
         <id>link-ab662597b264cb849f7a32d1e446e28b</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/70"/>
         <updated>2026-06-05T15:52:59.571Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oneplay - nefunguje výběr z více služeb]]></title>
+        <id>link-27de62c411600e963e7802517e0d8e5b</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/67"/>
+        <updated>2026-08-14T14:51:30.611Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jak stáhnout víc jazykových stop ze "sledovanitv" - v dočasném souboru během stahování jsou, v hotovém Merge pak už ne]]></title>
+        <id>link-d83b39b305011cdc94bc35bbda25e7e9</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/63"/>
+        <updated>2026-08-14T14:51:30.611Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg pro Win7 s verzí 00.02.09-dev.26]]></title>
+        <id>link-4887a17840eb7de457adf041207b77c2</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/62"/>
+        <updated>2026-08-14T14:51:30.611Z</updated>
     </entry>
 </feed>
