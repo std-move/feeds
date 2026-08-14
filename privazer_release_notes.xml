@@ -2,6 +2,242 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-08-14T04:12:56.823Z</updated>
+    <updated>2026-08-14T07:26:06.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.125]]></title>
+        <id>title-70ad8947ef6eadadef42d714ad8af479</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.125</strong> (30 July 2026)<br>
+            + Improved cleanup : snapshots<br>
+            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
+            + Minor bug fixes<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.124.3]]></title>
+        <id>title-987d389c205d291d3d50d752690269fe</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.124.3</strong> (14 July 2026)<br>
+            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
+            + Improved speed (PRO version)<br>
+            + Minor bug fixes<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.124.2]]></title>
+        <id>title-f4c08b6bc5499f562abe9d336aa1be04</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.124.2</strong> (01 July 2026)<br>
+            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
+            + Minor bug fixes<br>
+            <strong>v4.0.124.1</strong> (28 June 2026)<br>
+            + Minor bug fixes<br>
+            <strong>v4.0.124</strong> (27 June 2026)<br>
+            + Improved speed (PRO version)<br>
+            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
+            + Improved cleanup : cookies<br>
+            + Improved cleanup : RAM<br>
+            + Improved support : PC with multi-monitor setup<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.123]]></title>
+        <id>title-b38a55ae8fb6c537e5037d9a4f95a0e8</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.123</strong> (05 June 2026)<br>
+            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
+            + Improved cleanup : Firefox...<br>
+            + Improved cleanup : Web Browsers (portable version)<br> 
+            + Improved automatic cleanups<br> 
+            + Improved cleanup : cookies<br>
+            + New cleanup : Helium Browser<br>
+            + New cleanup : Powershell ISE<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.122]]></title>
+        <id>title-9de3e73c80c677d906d2cc018d85bd3a</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.122</strong> (13 May 2026)<br>
+            + Improved cleanup : cookies<br>
+            + Minor bug fixes<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.121]]></title>
+        <id>title-45dca627982982db6721289b532b6d5d</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.121</strong> (02 May 2026)<br>
+            + Improved UI : new design<br>
+            + Improved speed<br> 
+            + Improved cleanup : Firefox<br>
+            + Improved cleanup : Media Player Classic (MPC-HC)<br>  
+            + Minor bug fixes<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.120.3]]></title>
+        <id>title-dff769ec20baa2d1f1d6eaff14d19752</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.120.3</strong> (08 April 2026)<br>
+            + Minor bug fixes]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.120.2]]></title>
+        <id>title-c2c514b66a49fd5b5f7b8268bfffbf73</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.120.2</strong> (03 April 2026)<br>
+            + Minor bug fixes : Repair (loop)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.120.1]]></title>
+        <id>title-6eb7727fbfbcd5d63340041aa0131175</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.120.1</strong> (30 March 2026)<br>
+            + Minor bug fixes]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.120]]></title>
+        <id>title-6cd230b712e64f20337b29dda1e157a5</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.120</strong> (27 March 2026)<br>
+             + Improved cleanup : MFT<br>  
+             + Improved cleanup : Microsoft Word, Excel,... (Office)<br> 
+             + Improved cleanup : Cookies<br> 
+             + Improved cleanup : Registry<br> 
+             + Improved UI<br> 
+             + Improved installation<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.119.1]]></title>
+        <id>title-1375b230de2c5041a94bd090f1cbcdb6</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<br>
+            <strong>v4.0.119.1</strong> (09 March 2026)<br>
+             Minor bug fixes]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.119]]></title>
+        <id>title-42d7bf7981f73360de638953c085d667</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.119</strong> (07 March 2026)<br>
+             + Improved speed<br> 
+             + Improved portable version <br>  
+             + Improved cleanup : Firefox
+             + New cleanup : r3dfox
+             + Improved UI<br> 
+             + New command lines :  /INTERNET_TRACES<br>
+             + New command lines :  /CREATE_RESTORE_POINT<br>
+             + New command lines :  /CLOSE_WEB_BROSER<br> 
+             <u>More info</u>  : <a href="https://privazer.com/download.php#commandlines">https://privazer.com/download.php#commandlines</a>               <br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.118]]></title>
+        <id>title-de98c0870d47e05826d0f618e4251a8f</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.118</strong> (03 March 2026)<br>
+            + Replaced by v4.0.119, Minor bug fixes : PrivaZer hangs <br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.117]]></title>
+        <id>title-a588c318ee23650cc4ed41815f457b7b</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.117</strong> (30 January 2026)<br>
+             + Improved speed<br>  
+             + Improved cleanup : Delivery Optimization<br>  
+             + Minor bug fixes minimizing, null file<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.116]]></title>
+        <id>title-2533db989a9de8239b7920381c36f2e5</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.116</strong> (10 January 2026)<br>
+             + New cleanup : Mullvad<br>
+             + Improved cleanup : Tor Browser<br>  
+             + Improved cleanup : Opera<br>  
+             + Improved cleanup : Cookies<br>  
+             + Improved automatic cleanups<br>    
+             + Improved support : Import CCleaner cookies (CCleaner 6, 7)<br> 
+             + Improved UI<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.115]]></title>
+        <id>title-0db7ff29da763b4f9bf56fb273bcefb3</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.115</strong> (06 December 2025)<br>
+            + New option : Import CCleaner cookies  (CCleaner 7)<br> 
+             + Improved support : Import CCleaner cookies (CCleaner 6)<br> 
+             + Improved backups: registry<br> 
+             + Improved speed<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.114]]></title>
+        <id>title-3a1d84c986fa04227ffe1a4dcfd88f83</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.114</strong> (29 October 2025)<br>
+             + Improved support : Import CCleaner cookies<br> 
+             + Improved support : Import cookies from a txt file<br> 
+             + Improved automatic cleanups<br> 
+             + Improved cleanup : Chrome<br>           
+             + Improved cleanup : Opera, Opera GX<br> 
+             + Improved support : JDownloader<br> 
+             + Improved UI<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.113]]></title>
+        <id>title-b70622a2b39c5acfc1b075498a212460</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.113</strong> (18 October 2025)<br>
+            + Improved cleanup : Jumplists<br>
+             + Improved cleanup : Recycle bin <br>
+             + New cleanup : T-online Browser<br>
+             + New cleanup : Opera developer<br>
+             + New cleanup : Opera Next<br>
+             + New cleanup : Chrome Dev<br>
+             + Improved support : You can check and repair your PC <br>
+             + Improved cleanup : Chrome<br> 
+             + Improved cleanup : Chrome (portable version)<br> 
+             
+             + Improved cleanup : Opera, Opera GX<br> 
+             + Improved cleanup : Opera, Opera GX (portable version)<br> 
+             + Improved cleanup : Firefox (portable version)<br> 
+             + Improved UI<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.112]]></title>
+        <id>title-602071493d1301727703beb2c8ddb704</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.112</strong> (28 September 2025)<br>
+            + New option : Clean + SHUT DOWN the PC (PRO Version)<br>
+             + New cleanup : Brave Nightly<br>
+             + New cleanup : Chrome Canary<br>
+             + New cleanup : Chrome Beta<br>
+             + New cleanup : Chrome Dev<br>
+             + Improved cleanup : Chrome, SRWare Iron (portable version)<br> 
+             + Improved UI<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v4.0.111]]></title>
+        <id>title-ed89f454f32415217aa6f51527d74a97</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-14T07:24:04.023Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.111</strong> (26 September 2025)<br>
+            + replaced by v4.0.112<br>
+            + Minor bug fixes : "Close, restart,... when completed"<br>]]></content>
+    </entry>
 </feed>
