@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-08-14T09:08:21.774Z</updated>
+    <updated>2026-08-14T10:59:38.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,6 +10,12 @@
         <id>link-2c24a0f01e4566a161d56522aa74ccc4</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/views"/>
         <updated>2026-06-25T21:42:56.346Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[java.lang. IllegalStateException: Unable to extract information about media contect - IPrima]]></title>
+        <id>link-39ff6dc9d648fd66512b65e53e377e71</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/89"/>
+        <updated>2026-08-14T10:57:31.936Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Obtížné stahování z Prima+]]></title>
@@ -76,11 +82,5 @@
         <id>link-ab662597b264cb849f7a32d1e446e28b</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/70"/>
         <updated>2026-06-05T15:52:59.571Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oneplay - nefunguje výběr z více služeb]]></title>
-        <id>link-27de62c411600e963e7802517e0d8e5b</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/67"/>
-        <updated>2026-07-27T21:10:00.454Z</updated>
     </entry>
 </feed>
