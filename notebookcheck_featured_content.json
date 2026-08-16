@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-e7fcba6417f113cc2b0c7358e96225f4",
+			"title": "A GaN+ USB dock with useful gimmicks",
+			"link": "https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/0/csm_MOKiN-13-in-1-USB-C-docking-station-feature_11da8c0d67.jpg\" loading=\"lazy\" alt=\"MOKiN 13 in 1 USB C charging dock review\"></picture><div class=\"intro_featured_bar_title\">A GaN+ USB dock with useful gimmicks</div>",
+			"retrieved": 1786843003988
+		},
+		{
 			"id": "link-0fb92a4f184b09b48da79f091b94d555",
 			"title": "▶ 100 € for a single keycap?",
 			"link": "https://www.notebookcheck.net/100-EUR-for-a-single-keycap.1369637.0.html",
@@ -43,13 +50,6 @@
 			"title": "Dell XPS 13 Wildcat review: Lavish XPS for only $699",
 			"link": "https://www.notebookcheck.net/Dell-XPS-13-Wildcat-Lake-review-Redefining-the-budget-Windows-category.1356646.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/8/csm_xps13feature_af6b2e3801.jpg\" loading=\"lazy\" alt=\"Dell XPS 13 Wildcat Lake review: Redefining the budget Windows category\"></picture><div class=\"intro_featured_bar_title\">Dell XPS 13 Wildcat review: Lavish XPS for only $699</div>",
-			"retrieved": 1786553781972
-		},
-		{
-			"id": "link-4289dd41cc599c9ab7e79a99e0b3b1d2",
-			"title": "Reviewed: Is the Xiaomi 17T the king of value for money?",
-			"link": "https://www.notebookcheck.net/Price-drop-turns-Leica-camera-phone-into-a-bargain-Xiaomi-17T-review.1363998.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T/Test_Xiaomi_17T_14-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T/Test_Xiaomi_17T_14-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T/Test_Xiaomi_17T_14-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17T/Test_Xiaomi_17T_14-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T/Test_Xiaomi_17T_14-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17T/Test_Xiaomi_17T_14-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/b/csm_Test_Xiaomi_17T_14_b856878e8f.jpg\" loading=\"lazy\" alt=\"Xiaomi 17T Android phone review\"></picture><div class=\"intro_featured_bar_title\">Reviewed: Is the Xiaomi 17T the king of value for money?</div>",
 			"retrieved": 1786553781972
 		}
 	]
