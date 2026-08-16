@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-db293dfab4a4d2fcd5101955eb7073af",
+			"title": "HoverAir X1 Promax: Review of the flying action cam",
+			"link": "https://www.notebookcheck.net/HoverAir-X1-Promax-A-rugged-DJI-Neo-alternative-with-8K-and-tracking-put-to-the-test.1369828.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirProMax0692-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirProMax0692-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirProMax0692-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirProMax0692-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirProMax0692-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirProMax0692-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/6/csm_HoverAirProMax0692_b88d5fb341.jpg\" loading=\"lazy\" alt=\"HoverAir X1 Promax: A rugged DJI Neo alternative with 8K and tracking put to the test\"></picture><div class=\"intro_featured_bar_title\">HoverAir X1 Promax: Review of the flying action cam</div>",
+			"retrieved": 1786875738962
+		},
+		{
 			"id": "link-518c81ea350e46b8a1a32c4d79af452d",
 			"title": "A GaN+ USB dock with useful gimmicks",
 			"link": "https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/All-new-foldable-is-faster-sharper-and-more-stylish-Motorola-Razr-Plus-2026-Razr-70-Plus-Smartphone-Review.1367425.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70_Plus/Motorola_Razr_70_Plus_im_Test_240-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70_Plus/Motorola_Razr_70_Plus_im_Test_240-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70_Plus/Motorola_Razr_70_Plus_im_Test_240-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70_Plus/Motorola_Razr_70_Plus_im_Test_240-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70_Plus/Motorola_Razr_70_Plus_im_Test_240-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Razr_70_Plus/Motorola_Razr_70_Plus_im_Test_240-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/3/csm_Motorola_Razr_70_Plus_im_Test_240_b65f7823b0.jpg\" loading=\"lazy\" alt=\"Motorola Razr Plus 2026 Review\"></picture><div class=\"intro_featured_bar_title\">Folds better: Motorola Razr+ 2026 Review</div>",
 			"retrieved": 1786618824889
-		},
-		{
-			"id": "link-bc641930d09c837c30223026b7dba621",
-			"title": "Dell XPS 13 Wildcat review: Lavish XPS for only $699",
-			"link": "https://www.notebookcheck.net/Dell-XPS-13-Wildcat-Lake-review-Redefining-the-budget-Windows-category.1356646.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/XPS_13_DX13260/xps13feature-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/8/csm_xps13feature_af6b2e3801.jpg\" loading=\"lazy\" alt=\"Dell XPS 13 Wildcat Lake review: Redefining the budget Windows category\"></picture><div class=\"intro_featured_bar_title\">Dell XPS 13 Wildcat review: Lavish XPS for only $699</div>",
-			"retrieved": 1786553781972
 		}
 	]
 }
