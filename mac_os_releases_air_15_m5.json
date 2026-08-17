@@ -4,6 +4,13 @@
 	"favicon": "https://appledb.dev/favicon-32x32.png",
 	"elements": [
 		{
+			"id": "link-8abdd8973d42b2c42ee91d50d9d324f6",
+			"title": "macOS 26.6.2 — Aug 17, 2026",
+			"link": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75212/A2A24B94-1FC1-45A3-93F7-C51B02AF1F4D/UniversalMac_26.6.2_25G83_Restore.ipsw",
+			"contents": "<div data-v-3d231806=\"\" class=\"firmwareAndReleasedStr\" style=\"width: calc(100% - 64px);\"><div data-v-3d231806=\"\"><span data-v-3d231806=\"\" style=\"font-weight: 600;\">macOS 26.6.2</span><!----><!----><div data-v-3d231806=\"\" style=\"padding-inline: 0.25em; display: inline-block;\"></div><!----><!----><!----><div data-v-3d231806=\"\" class=\"signingStatus\"><i data-v-3d231806=\"\" id=\"signing-status-macOS-25G83\" class=\"fas fa-check\"></i><span data-v-3d231806=\"\" id=\"signing-text-macOS-25G83\" class=\"signingText\">Signed</span></div></div><div data-v-3d231806=\"\" style=\"text-align: right;\" class=\"releasedStr\">Aug 17, 2026</div></div><div data-v-3d231806=\"\" class=\"iconFlex\"><div data-v-3d231806=\"\" class=\"downloadIcon iconChild\"><a data-v-3d231806=\"\" style=\"cursor: pointer;\"><i data-v-3d231806=\"\" class=\"downloadIcon fas fa-download\"></i></a><div data-v-3d231806=\"\" class=\"downloadDropdown custom-container\" style=\"cursor: initial;\"><h5 data-v-3d231806=\"\">Download</h5><ul data-v-3d231806=\"\" style=\"padding-left: 0px; list-style-type: none;\"><li data-v-3d231806=\"\"><a data-v-3d231806=\"\" href=\"https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75212/A2A24B94-1FC1-45A3-93F7-C51B02AF1F4D/UniversalMac_26.6.2_25G83_Restore.ipsw\">MacBook Air (15-inch, M5)</a></li></ul><!----></div></div><div data-v-3d231806=\"\" class=\"iconChild\"><a data-v-3d231806=\"\" style=\"cursor: pointer;\"><i data-v-3d231806=\"\" class=\"fas fa-chevron-right\"></i></a></div></div>",
+			"retrieved": 1786998383138
+		},
+		{
 			"id": "link-1a3e0e05af99f8b3d747b1beb4303775",
 			"title": "macOS 26.6.1 — Aug 6, 2026",
 			"link": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-83079/25315EF6-AEAB-4588-9774-A3723774C47F/UniversalMac_26.6.1_25G76_Restore.ipsw",
