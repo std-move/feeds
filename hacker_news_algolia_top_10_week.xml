@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-08-18T08:38:05.037Z</updated>
+    <updated>2026-08-18T10:29:45.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49289112"><span>Gemini 3.7 Flash</span></a><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/" target="_blank" class="Story_link">(https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49289112">967 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=thisisauserid"><span>thisisauserid</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49289112">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49289112">492 comments</a></span><div class="Story_comment"><span><a href="https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash" rel="nofollow">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...</a></span></div></div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI;DR (AI; Didn't Read)]]></title>
+        <id>link-4c2d11f62e6b595e7f00f473ec99950d</id>
+        <link href="https://news.ycombinator.com/item?id=49336573"/>
+        <updated>2026-08-18T08:36:03.923Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49336573"><span>AI;DR (AI; Didn't Read)</span></a><a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read" target="_blank" class="Story_link">(https://www.rickmanelius.com/p/aidr-ai-didnt-read)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49336573">891 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=mooreds"><span>mooreds</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49336573">15 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49336573">543 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Every Fucking Website (2020)]]></title>
         <id>link-9ddf969ff3c59799e46a8f3f70a6f2d2</id>
         <link href="https://news.ycombinator.com/item?id=49299222"/>
         <updated>2026-08-18T01:11:48.748Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49299222"><span>Every Fucking Website (2020)</span></a><a href="https://lxe.github.io/everywebsite/" target="_blank" class="Story_link">(https://lxe.github.io/everywebsite/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49299222">864 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=doubletwoyou"><span>doubletwoyou</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49299222">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49299222">493 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI;DR (AI; Didn't Read)]]></title>
-        <id>link-4c2d11f62e6b595e7f00f473ec99950d</id>
-        <link href="https://news.ycombinator.com/item?id=49336573"/>
-        <updated>2026-08-18T08:36:03.923Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49336573"><span>AI;DR (AI; Didn't Read)</span></a><a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read" target="_blank" class="Story_link">(https://www.rickmanelius.com/p/aidr-ai-didnt-read)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49336573">849 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=mooreds"><span>mooreds</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49336573">13 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49336573">521 comments</a></span></div></div></div>]]></content>
     </entry>
 </feed>
