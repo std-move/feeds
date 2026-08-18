@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-08-18T14:35:33.905Z</updated>
+    <updated>2026-08-18T16:32:46.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -27,12 +27,6 @@
         <title type="html"><![CDATA[iPrima "Unable to extract information about episodes" po delší době běhu programu. Po restartu funguje.]]></title>
         <id>link-548abfffe4450b147fd6f049150bc9b0</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/86"/>
-        <updated>2026-08-17T16:26:42.677Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nelze se přihlásit - Oneplay]]></title>
-        <id>link-9592a6907f4e80e9cc851c68e4372943</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/83"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
     </entry>
     <entry>
@@ -82,5 +76,11 @@
         <id>link-4887a17840eb7de457adf041207b77c2</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/62"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Česká televize - DRM chráněné video - problém při dekódování]]></title>
+        <id>link-116fd82ffdbd920efe059b98e20bf302</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/59"/>
+        <updated>2026-08-18T16:30:32.669Z</updated>
     </entry>
 </feed>

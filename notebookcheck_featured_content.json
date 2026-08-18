@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-6626b54bc54dec9fc3f131b00b98a63c",
+			"title": "HP EliteBook 8 G2a 14 Review - Almost 20 hours battery life",
+			"link": "https://www.notebookcheck.net/14-inch-business-laptop-with-excellent-battery-life-HP-EliteBook-8-G2a-14-AI-Review.1370559.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/2/csm_elitebook_8_ga2_14_case_08_064ce3f0c3.jpg\" loading=\"lazy\" alt=\"14-inch business laptop with excellent battery life - HP EliteBook 8 G2a 14 AI Review\"></picture><div class=\"intro_featured_bar_title\">HP EliteBook 8 G2a 14 Review - Almost 20 hours battery life</div>",
+			"retrieved": 1787070632669
+		},
+		{
 			"id": "link-e3d99784b191e69f88d6bda6401c653a",
 			"title": "Dell 14S review: Strong XPS 14 alternative",
 			"link": "https://www.notebookcheck.net/Dell-14S-DS14260-review-As-powerful-as-an-XPS-14.1366869.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/100-EUR-for-a-single-keycap.1369637.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/0/csm__1052337_61b48a33b4.jpg\" loading=\"lazy\" alt=\"100 € for a single keycap?\"></picture><div class=\"intro_featured_bar_title\">▶ 100 € for a single keycap?</div>",
 			"retrieved": 1786818538641
-		},
-		{
-			"id": "link-8880c335861400a9b90baa9bb5ef1e69",
-			"title": "A refreshing breeze: Testing a mist fan",
-			"link": "https://www.notebookcheck.net/A-refreshing-breeze-on-hot-summer-days-Dreo-TurboCool-Misting-Fan-765S-review.1368932.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Dreo-TurboCool-Nebelventilator-765S-Test69-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Dreo-TurboCool-Nebelventilator-765S-Test69-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Dreo-TurboCool-Nebelventilator-765S-Test69-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Dreo-TurboCool-Nebelventilator-765S-Test69-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Dreo-TurboCool-Nebelventilator-765S-Test69-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Dreo-TurboCool-Nebelventilator-765S-Test69-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/b/csm_Dreo-TurboCool-Nebelventilator-765S-Test69_5c20bd69cb.jpg\" loading=\"lazy\" alt=\"Dreo TurboCool 765S Misting Fan Review\"></picture><div class=\"intro_featured_bar_title\">A refreshing breeze: Testing a mist fan</div>",
-			"retrieved": 1786726324801
 		}
 	]
 }

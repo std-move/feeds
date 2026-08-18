@@ -32,13 +32,6 @@
 			"retrieved": 1786984002677
 		},
 		{
-			"id": "link-9592a6907f4e80e9cc851c68e4372943",
-			"title": "Nelze se přihlásit - Oneplay",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/83",
-			"contents": "",
-			"retrieved": 1786984002677
-		},
-		{
 			"id": "link-d38144ef5f1f689f0242a6c2f441b478",
 			"title": "Problém se získáním mediálních zdrojů - Oneplay",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/79",
@@ -93,6 +86,13 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/62",
 			"contents": "",
 			"retrieved": 1786984002677
+		},
+		{
+			"id": "link-116fd82ffdbd920efe059b98e20bf302",
+			"title": "Česká televize - DRM chráněné video - problém při dekódování",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/59",
+			"contents": "",
+			"retrieved": 1787070632669
 		}
 	]
 }
