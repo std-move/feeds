@@ -11,23 +11,23 @@
 			"retrieved": 1786984002677
 		},
 		{
+			"id": "link-74f557a9f362550e401b0b049daf6f05",
+			"title": "[Youtube] ERROR: unable to download video data: HTTP Error 403: Forbidden (with android_vr)",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/17456",
+			"contents": "",
+			"retrieved": 1787057040228
+		},
+		{
+			"id": "link-335bc1ffa663382201dfa9473dcd2b7a",
+			"title": "[TikTok] Unexpected response from webpage request",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/17403",
+			"contents": "",
+			"retrieved": 1787057040228
+		},
+		{
 			"id": "link-835a5d584f04d10080ea546c95e345bf",
 			"title": "🚨[IMPORTANT]🚨 KNOWN ISSUES/FAQ",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/3766",
-			"contents": "",
-			"retrieved": 1786984002677
-		},
-		{
-			"id": "link-82704a01d584d5b5f31e5ac8e650882a",
-			"title": "[Announcement] Windows executables will require Win10+ starting in October",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/16917",
-			"contents": "",
-			"retrieved": 1786984002677
-		},
-		{
-			"id": "link-634ad95a8b766bc4a62eca85e02a3f72",
-			"title": "[Announcement] Dropping support for Python 3.10",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/16916",
 			"contents": "",
 			"retrieved": 1786984002677
 		},
