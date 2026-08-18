@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-c769ebd7875d5dcf65e7556b91778d65",
+			"title": "14-inch workstation with 64 GB RAM",
+			"link": "https://www.notebookcheck.net/This-laptop-with-64-GB-RAM-is-perfect-for-AI-agents-HP-ZBook-8-G2a-14-review.1350756.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/d/csm_HP_ZBook8G2a_teaser_99fb4af78f.jpg\" loading=\"lazy\" alt=\"This laptop with 64 GB RAM is perfect for AI agents: HP ZBook 8 G2a 14 review\"></picture><div class=\"intro_featured_bar_title\">14-inch workstation with 64 GB RAM</div>",
+			"retrieved": 1787084590359
+		},
+		{
 			"id": "link-6626b54bc54dec9fc3f131b00b98a63c",
 			"title": "HP EliteBook 8 G2a 14 Review - Almost 20 hours battery life",
 			"link": "https://www.notebookcheck.net/14-inch-business-laptop-with-excellent-battery-life-HP-EliteBook-8-G2a-14-AI-Review.1370559.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-docking-station-feature-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/0/csm_MOKiN-13-in-1-USB-C-docking-station-feature_11da8c0d67.jpg\" loading=\"lazy\" alt=\"MOKiN 13 in 1 USB C charging dock review\"></picture><div class=\"intro_featured_bar_title\">A GaN+ USB dock with useful gimmicks</div>",
 			"retrieved": 1786849154822
-		},
-		{
-			"id": "link-0fb92a4f184b09b48da79f091b94d555",
-			"title": "▶ 100 € for a single keycap?",
-			"link": "https://www.notebookcheck.net/100-EUR-for-a-single-keycap.1369637.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/_1052337-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/0/csm__1052337_61b48a33b4.jpg\" loading=\"lazy\" alt=\"100 € for a single keycap?\"></picture><div class=\"intro_featured_bar_title\">▶ 100 € for a single keycap?</div>",
-			"retrieved": 1786818538641
 		}
 	]
 }
