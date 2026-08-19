@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-08-19T14:35:25.584Z</updated>
+    <updated>2026-08-19T16:32:46.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[JIGOO J300 dust mite vacuum in practical test]]></title>
+        <id>link-f1935f35aace3a8ef396219f60addac0</id>
+        <link href="https://www.notebookcheck.net/JIGOO-J300-dust-mite-vacuum-with-dust-mite-sensor-in-practical-test-Beating-roller-UV-light-and-heating-function-tackle-dust-mites.1370438.0.html"/>
+        <updated>2026-08-19T16:30:48.723Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/f/csm_title1_1fa3eed3fb.jpg" loading="lazy" alt="JIGOO J300 dust mite vacuum with dust mite sensor in practical test: Beating roller, UV light and heating function tackle dust mites"></picture><div class="intro_featured_bar_title">JIGOO J300 dust mite vacuum in practical test</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is a $1,000+ 1440p OLED Worth It?]]></title>
         <id>link-44d5c23f78ac20666af2b68285e9662d</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052358-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052358-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052358-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052358-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052358-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052358-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/d/csm__1052358_8d3821ca92.jpg" loading="lazy" alt="A clean studio gaming setup featuring the Sony Inzone M10S II monitor on a white desk alongside a vertical PlayStation 5 Pro console, mechanical keyboard, wireless mouse, and headset with subtle blue lighting."></picture><div class="intro_featured_bar_title">Is a $1,000+ 1440p OLED Worth It?</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Large AMD Business Laptop with a Good 144-Hz Display]]></title>
-        <id>link-4e527e92f8d599128633dddc9f64c706</id>
-        <link href="https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html"/>
-        <updated>2026-08-19T12:45:14.921Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/a/csm_expertbook_pm5_g2_16_case_07_f38ed0d098.jpg" loading="lazy" alt="AMD Business Laptop with a Great 144 Hz IPS Display: Asus ExpertBook PM5 G2 Review"></picture><div class="intro_featured_bar_title">Large AMD Business Laptop with a Good 144-Hz Display</div>]]></content>
+        <title type="html"><![CDATA[Large AMD business laptop with a good 144-Hz display]]></title>
+        <id>link-e82307c3b181c54295f9ada0dc7452a6</id>
+        <link href="https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html"/>
+        <updated>2026-08-19T16:30:48.723Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/a/csm_expertbook_pm5_g2_16_case_07_f38ed0d098.jpg" loading="lazy" alt="AMD business laptop with a great 144-Hz IPS display: Asus ExpertBook PM5 G2 review"></picture><div class="intro_featured_bar_title">Large AMD business laptop with a good 144-Hz display</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14-inch workstation with 64 GB RAM]]></title>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/All-wheel-drive-robotic-lawn-mowers-review-comparison-Dreame-A3-AWD-Pro-vs-Mova-LiDAX-Ultra-AWD.1370097.0.html"/>
         <updated>2026-08-16T18:28:23.699Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test25-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test25-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test25-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test25-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test25-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test25-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/f/csm_Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test25_ff52f58ebf.jpg" loading="lazy" alt="Dreame A3 AWD Pro vs. Mova LiDAX Ultra AWD review &amp; comparison"></picture><div class="intro_featured_bar_title">Face Off: Dreame A3 AWD vs. Mova LiDAX Ultra AWD</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambitious, with compromises]]></title>
-        <id>link-14f2fc460d8087db0a542d47a2be1c55</id>
-        <link href="https://www.notebookcheck.net/Powerful-fast-charging-hub-with-DC-port-Ugreen-Nexode-Pro-300W-Desktop-Charger-review.1370087.0.html"/>
-        <updated>2026-08-16T18:28:23.699Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Ugreen-Nexode-Pro-300W-review-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Ugreen-Nexode-Pro-300W-review-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Ugreen-Nexode-Pro-300W-review-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Ugreen-Nexode-Pro-300W-review-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Ugreen-Nexode-Pro-300W-review-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Ugreen-Nexode-Pro-300W-review-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/7/csm_Ugreen-Nexode-Pro-300W-review_8e4a39174e.jpg" loading="lazy" alt="The Ugreen Nexode Pro 300W"></picture><div class="intro_featured_bar_title">Ambitious, with compromises</div>]]></content>
     </entry>
 </feed>

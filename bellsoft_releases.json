@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico",
 	"elements": [
 		{
+			"id": "link-c43ce250c574e06ecf227948adb2b9a3",
+			"title": "Liberica JDK August 2026 CSPU builds are released",
+			"link": "https://bell-sw.com/blog/liberica-jdk-august-2026-cspu-builds-are-released/",
+			"contents": "",
+			"retrieved": 1787157048723
+		},
+		{
 			"id": "link-d8aeb2028d257b515f46acb4b0f97994",
 			"title": "Liberica Native Image Kit 23.0.13, 23.1.12, and 25.0.4 builds are released",
 			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-13-23-1-12-and-25-0-4-builds-are-released/",
@@ -165,11 +172,11 @@
 			"retrieved": 1783103815415
 		},
 		{
-			"id": "link-d7f0c47870019602f1eadb29e094848b",
-			"title": "Liberica JDK 8u442, 11.0.26, 17.0.14, 21.0.6, and 23.0.2 builds are generally available",
-			"link": "https://bell-sw.com/blog/liberica-jdk-8u442-11-0-26-17-0-14-21-0-6-and-23-0-2-builds-are-generally-available/",
+			"id": "link-c43ce250c574e06ecf227948adb2b9a3",
+			"title": "Liberica JDK August 2026 CSPU builds are released",
+			"link": "https://bell-sw.com/blog/liberica-jdk-august-2026-cspu-builds-are-released/",
 			"contents": "",
-			"retrieved": 1783103815415
+			"retrieved": 1787157048723
 		},
 		{
 			"id": "link-d8aeb2028d257b515f46acb4b0f97994",
@@ -329,13 +336,6 @@
 			"id": "link-4999b5baf3ab48072cf079b34f425912",
 			"title": "Liberica Native Image Kit 23.0.7, 23.1.6, and 24.1.2 builds are released",
 			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-7-23-1-6-and-24-1-2-builds-are-released/",
-			"contents": "",
-			"retrieved": 1783103815415
-		},
-		{
-			"id": "link-d7f0c47870019602f1eadb29e094848b",
-			"title": "Liberica JDK 8u442, 11.0.26, 17.0.14, 21.0.6, and 23.0.2 builds are generally available",
-			"link": "https://bell-sw.com/blog/liberica-jdk-8u442-11-0-26-17-0-14-21-0-6-and-23-0-2-builds-are-generally-available/",
 			"contents": "",
 			"retrieved": 1783103815415
 		}
