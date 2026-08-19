@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-19T06:44:11.633Z</updated>
+    <updated>2026-08-19T08:38:41.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-99e50af1d80404aff1abf6872a667d79</id>
         <link href="https://en.wikipedia.org/wiki/Reinforced_concrete_bridge"/>
         <updated>2026-08-19T01:12:57.715Z</updated>
-        <content type="html"><![CDATA[... that the 600-metre (2,000<span typeof="mw:Entity">&nbsp;</span>ft) arch span of the Tian'e Longtan Bridge <i>(pictured)</i> is the longest of any <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Reinforced_concrete_bridge" title="Reinforced concrete bridge">reinforced concrete bridge</a></b>?]]></content>
+        <content type="html"><![CDATA[... that the 600-metre (2,000<span typeof="mw:Entity">&nbsp;</span>ft) arch span of the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Tian'e_Longtan_Bridge" title="Tian'e Longtan Bridge">Tian'e Longtan Bridge</a> <i>(pictured)</i> is the longest of any <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Reinforced_concrete_bridge" title="Reinforced concrete bridge">reinforced concrete bridge</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Whisper Me a Love Song]]></title>
