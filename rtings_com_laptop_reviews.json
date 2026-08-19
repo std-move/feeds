@@ -4,11 +4,18 @@
 	"favicon": "https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png",
 	"elements": [
 		{
-			"id": "link-8caa26f494d1e784358a663396f41d0d",
+			"id": "link-4fc8825e23a0a0413e7f98570d44c680",
+			"title": "Framework Laptop 16 (2026) Review\n            New",
+			"link": "https://www.rtings.com/laptop/reviews/framework/laptop-16-2026",
+			"contents": "<img src=\"https://i.rtings.com/assets/products/MljoNPlf/framework-laptop-16-2026/design-small.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Framework Laptop 16 (2026) Review\n            <div class=\"e-event_tag\" data-kind=\"new\" style=\"vertical-align: middle; margin-left: 6px;\">New</div>\n          </div>\n          <div class=\"latest_page-preview-date\">about 2 hours ago</div>\n        </div>",
+			"retrieved": 1787149996887
+		},
+		{
+			"id": "link-4fc8825e23a0a0413e7f98570d44c680",
 			"title": "Framework Laptop 16 (2026) Test Results\n            Early Access",
-			"link": "https://www.rtings.com/early-access/laptop/reviews/framework/laptop-16-2026",
+			"link": "https://www.rtings.com/laptop/reviews/framework/laptop-16-2026",
 			"contents": "<img src=\"https://i.rtings.com/assets/products/XZJTwjzq/framework-laptop-16-2026/in-test-medium.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Framework Laptop 16 (2026) Test Results\n            <div class=\"e-event_tag\" data-kind=\"early-access\" style=\"vertical-align: middle; margin-left: 6px;\">Early Access</div>\n          </div>\n          <div class=\"latest_page-preview-date\">2 days ago</div>\n        </div>",
-			"retrieved": 1786984002677
+			"retrieved": 1787149996887
 		},
 		{
 			"id": "link-9f38ce1fc0f63cc74ff2f4cb2f0b6f8d",
@@ -274,13 +281,6 @@
 			"title": "Gigabyte AORUS MASTER 16 (2025) Test Results\n            Early Access",
 			"link": "https://www.rtings.com/laptop/reviews/gigabyte/aorus-master-16-2025",
 			"contents": "<img src=\"https://i.rtings.com/assets/products/vzwPPOgv/gigabyte-aorus-master-16-2025/in-test-medium.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Gigabyte AORUS MASTER 16 (2025) Test Results\n            <div class=\"e-event_tag\" data-kind=\"early-access\" style=\"vertical-align: middle; margin-left: 6px;\">Early Access</div>\n          </div>\n          <div class=\"latest_page-preview-date\">about 1 year ago</div>\n        </div>",
-			"retrieved": 1777535545847
-		},
-		{
-			"id": "link-46d2641a9f8f9e6738346c07fc29dfb3",
-			"title": "Framework Laptop 13 (2025) Test Results\n            Early Access",
-			"link": "https://www.rtings.com/laptop/reviews/framework/laptop-13-2025",
-			"contents": "<img src=\"https://i.rtings.com/assets/products/z6BNtWTH/framework-laptop-13-2025/in-test-medium.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Framework Laptop 13 (2025) Test Results\n            <div class=\"e-event_tag\" data-kind=\"early-access\" style=\"vertical-align: middle; margin-left: 6px;\">Early Access</div>\n          </div>\n          <div class=\"latest_page-preview-date\">about 1 year ago</div>\n        </div>",
 			"retrieved": 1777535545847
 		}
 	]
