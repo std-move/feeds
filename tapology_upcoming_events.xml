@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-08-20T20:29:54.318Z</updated>
+    <updated>2026-08-20T22:29:03.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145987-one-friday-fights-167">ONE Friday Fights 167</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-21 06:30:00 -0400">in 14 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-21 06:30:00 -0400">in 12 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/144704-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-22 17:00:00 -0400">in 2 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-22 17:00:00 -0400">in 1 day</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145227-pfl-tampa-cyborg-vs-vieira">PFL Tampa</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-22 17:30:00 -0400">in 2 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-22 17:30:00 -0400">in 1 day</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145425-romero-vs-lopez">Romero vs. Lopez</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-22 17:00:00 -0400">in 2 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-22 17:00:00 -0400">in 1 day</abbr>
 </td>]]></content>
     </entry>
     <entry>
