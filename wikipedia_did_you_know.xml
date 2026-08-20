@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-20T18:40:00.823Z</updated>
+    <updated>2026-08-20T20:29:54.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-fd10bea849f83f1abc2ba4f3c7856750</id>
         <link href="https://en.wikipedia.org/wiki/Academy_of_Vocal_Arts"/>
         <updated>2026-08-20T12:48:32.771Z</updated>
-        <content type="html"><![CDATA[... that the home of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Academy_of_Vocal_Arts" title="Academy of Vocal Arts">Academy of Vocal Arts</a></b> is allegedly haunted by a ghost?]]></content>
+        <content type="html"><![CDATA[... that the home of the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Academy_of_Vocal_Arts" title="Academy of Vocal Arts">Academy of Vocal Arts</a></b> is allegedly haunted by a ghost?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arbel Yehoud]]></title>

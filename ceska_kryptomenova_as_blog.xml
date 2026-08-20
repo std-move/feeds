@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-08-20T18:40:00.833Z</updated>
+    <updated>2026-08-20T20:29:54.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.ckma.cz/cdn-ujdvt/images/favicon.png</icon>
+    <icon>https://www.ckma.cz/cdn-b35i0/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Valná hromada 08/2026]]></title>
         <id>link-c9f5d0edadf54c2e99b34b963c5890e0</id>
         <link href="https://www.ckma.cz/cs/blog/valna-hromada-08-2026"/>
         <updated>2026-07-19T09:51:42.616Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/valna-hromada-08-2026" class="ArticleLink ArticleLink--horizontal">
-    <div class="ArticleLink-image"><img alt="Valná hromada 08/2026" src="/res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" width="298" height="199" srcset="/res/crc-660322913/pages/images/596x398crop/73114-ya-valna-hromada.png 2x, /res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image"><img src="/res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" width="298" height="199" alt="" srcset="/res/crc-660322913/pages/images/596x398crop/73114-ya-valna-hromada.png 2x, /res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">19.7.2026</div>
@@ -33,7 +33,7 @@ Adresováno: certifikovaným členům spolku ČKMA z.s.
         <link href="https://www.ckma.cz/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska"/>
         <updated>2026-07-09T23:11:44.305Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Novou licenci v EU získalo jen 14 kryptoburz. Dvě z toho jsou z Česka" src="/res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" width="298" height="199" srcset="/res/crc-2474908422/pages/images/596x398crop/73073-lz-prague-crypto.png 2x, /res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img src="/res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" width="298" height="199" alt="" srcset="/res/crc-2474908422/pages/images/596x398crop/73073-lz-prague-crypto.png 2x, /res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">9.7.2026</div>
@@ -54,7 +54,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/blog/na-statni-nakladani-s-kryptomenami-je-treba-uplatnovat-stejne-standardy-jako-na-soukromy-sektor"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/na-statni-nakladani-s-kryptomenami-je-treba-uplatnovat-stejne-standardy-jako-na-soukromy-sektor" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Na státní nakládání s kryptoměnami je třeba uplatňovat stejné standardy jako na soukromý sektor" src="/res/crc-1267891577/pages/images/298x199crop/53164-1r-government-bitcoin2.webp" width="298" height="199" srcset="/res/crc-3461351925/pages/images/596x398crop/53164-1r-government-bitcoin2.webp 2x, /res/crc-1267891577/pages/images/298x199crop/53164-1r-government-bitcoin2.webp" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img src="/res/crc-1267891577/pages/images/298x199crop/53164-1r-government-bitcoin2.webp" width="298" height="199" alt="" srcset="/res/crc-3461351925/pages/images/596x398crop/53164-1r-government-bitcoin2.webp 2x, /res/crc-1267891577/pages/images/298x199crop/53164-1r-government-bitcoin2.webp" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">5.6.2025</div>
@@ -73,7 +73,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/blog/tz-prezident-pavel-podepsal-kryptomenovy-balicek"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/tz-prezident-pavel-podepsal-kryptomenovy-balicek" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="TZ: Prezident Pavel podepsal kryptoměnový balíček" src="/res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" width="298" height="199" srcset="/res/crc-572659721/pages/images/596x398crop/147982-9p-czech-republic-crypto-hub-of-europe.webp 2x, /res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img src="/res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" width="298" height="199" alt="" srcset="/res/crc-572659721/pages/images/596x398crop/147982-9p-czech-republic-crypto-hub-of-europe.webp 2x, /res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">6.2.2025</div>
@@ -93,7 +93,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/blog/ceska-republika-evropskym-kryptomenovym-hubem"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/ceska-republika-evropskym-kryptomenovym-hubem" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="TZ: Česká republika se stává evropským kryptoměnovým hubem díky nové legislativě" data-srcset="/res/crc-3038967019/pages/images/596x398crop/vm-cr-kryptomenovym-hubem-evropy.webp 2x, /res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" data-src="/res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-3038967019/pages/images/596x398crop/vm-cr-kryptomenovym-hubem-evropy.webp 2x, /res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" data-src="/res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">10.12.2024</div>
@@ -113,7 +113,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/kryptomenovy-legislativni-balicek-podzim-2024"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/kryptomenovy-legislativni-balicek-podzim-2024" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Kryptoměnový legislativní balíček, podzim 2024" data-srcset="/res/crc-2913777513/pages/images/596x398crop/141821-rt-img-0220.jpg 2x, /res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" data-src="/res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-2913777513/pages/images/596x398crop/141821-rt-img-0220.jpg 2x, /res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" data-src="/res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" title="Akce na podporu legislativního balíčku podzim 24" alt="Akce na podporu legislativního balíčku podzim 24"></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">9.12.2024</div>
@@ -134,7 +134,7 @@ S takto širokou politickou podporou se Česká republika právem stává evrops
         <link href="https://www.ckma.cz/cs/blog/pripomen-se-svemu-poslanci"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/pripomen-se-svemu-poslanci" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Připomeň se svému poslanci" data-srcset="/res/crc-4212209115/pages/images/596x398crop/hw-img-3228.jpg 2x, /res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" data-src="/res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-4212209115/pages/images/596x398crop/hw-img-3228.jpg 2x, /res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" data-src="/res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">12.11.2024</div>
@@ -161,7 +161,7 @@ V mezičase se ve&nbsp;veřejném prostoru ovšem objevilo několik více či m�
         <link href="https://www.ckma.cz/cs/stanovisko-ckma-k-dopisu-ncoz"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/stanovisko-ckma-k-dopisu-ncoz" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Stanovisko ČKMA k dopisu NCOZ" data-srcset="/res/crc-2919507168/pages/images/596x398crop/141764-s3-ncoz-header.webp 2x, /res/crc-3118610648/pages/images/298x199crop/141764-s3-ncoz-header.webp" data-src="/res/crc-3118610648/pages/images/298x199crop/141764-s3-ncoz-header.webp" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-2919507168/pages/images/596x398crop/141764-s3-ncoz-header.webp 2x, /res/crc-3118610648/pages/images/298x199crop/141764-s3-ncoz-header.webp" data-src="/res/crc-3118610648/pages/images/298x199crop/141764-s3-ncoz-header.webp" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">23.10.2024</div>
@@ -181,7 +181,7 @@ V mezičase se ve&nbsp;veřejném prostoru ovšem objevilo několik více či m�
         <link href="https://www.ckma.cz/cs/blog/casovy-a-hodnotovy-test-fakta-omyly-myty"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/casovy-a-hodnotovy-test-fakta-omyly-myty" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Časový a hodnotový test: fakta vs omyly a mýty" data-srcset="/res/crc-1386619344/pages/images/596x398crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp 2x, /res/crc-3067301955/pages/images/298x199crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp" data-src="/res/crc-3067301955/pages/images/298x199crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-1386619344/pages/images/596x398crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp 2x, /res/crc-3067301955/pages/images/298x199crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp" data-src="/res/crc-3067301955/pages/images/298x199crop/1s-casovy-hodnotovy-test-fakta-omyly-myty.webp" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">22.10.2024</div>
@@ -200,7 +200,7 @@ V mezičase se ve&nbsp;veřejném prostoru ovšem objevilo několik více či m�
         <link href="https://www.ckma.cz/cs/blog/oslov-sve-poslance"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/oslov-sve-poslance" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img alt="Oslov své poslance" data-srcset="/res/crc-2384186868/pages/images/596x398crop/9k-medojed.jpg 2x, /res/crc-2145331962/pages/images/298x199crop/9k-medojed.jpg" data-src="/res/crc-2145331962/pages/images/298x199crop/9k-medojed.jpg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTgiIGhlaWdodD0iMTk5Ij48cmVjdCB3aWR0aD0iMjk4IiBoZWlnaHQ9IjE5OSIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=" data-lazy="" width="298" height="199"></div>
+    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-2384186868/pages/images/596x398crop/9k-medojed.jpg 2x, /res/crc-2145331962/pages/images/298x199crop/9k-medojed.jpg" data-src="/res/crc-2145331962/pages/images/298x199crop/9k-medojed.jpg" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">14.10.2024</div>
