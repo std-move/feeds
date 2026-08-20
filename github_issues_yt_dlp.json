@@ -32,6 +32,13 @@
 			"retrieved": 1786984002677
 		},
 		{
+			"id": "link-33dab3bc4597a8845b77d4aaafd3be0d",
+			"title": "PBS: An extractor error has occurred. (caused by KeyError('title'));",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/17485",
+			"contents": "",
+			"retrieved": 1787200602489
+		},
+		{
 			"id": "link-9bd5d3ad3d08efa2dad377b6fdd75e0e",
 			"title": "Cannot download full Youtube plylist",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/16998",
@@ -98,13 +105,6 @@
 			"id": "link-e44f73e3033abec43101a801dca224fb",
 			"title": "[CeskaTelevize] HTTP Error 410: Gone",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/14298",
-			"contents": "",
-			"retrieved": 1786984002677
-		},
-		{
-			"id": "link-201a231131a0067406208cae40e71069",
-			"title": "Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/13548",
 			"contents": "",
 			"retrieved": 1786984002677
 		}

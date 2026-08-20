@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-08-20T02:58:13.241Z</updated>
+    <updated>2026-08-20T04:38:34.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -28,6 +28,12 @@
         <id>link-835a5d584f04d10080ea546c95e345bf</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/3766"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PBS: An extractor error has occurred. (caused by KeyError('title'));]]></title>
+        <id>link-33dab3bc4597a8845b77d4aaafd3be0d</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/17485"/>
+        <updated>2026-08-20T04:36:42.489Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cannot download full Youtube plylist]]></title>
@@ -87,12 +93,6 @@
         <title type="html"><![CDATA[[CeskaTelevize] HTTP Error 410: Gone]]></title>
         <id>link-e44f73e3033abec43101a801dca224fb</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/14298"/>
-        <updated>2026-08-17T16:26:42.677Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)]]></title>
-        <id>link-201a231131a0067406208cae40e71069</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/13548"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
     </entry>
 </feed>
