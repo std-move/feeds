@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-20T01:14:20.362Z</updated>
+    <updated>2026-08-20T02:58:13.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>link-9fe04095fb9a5120ebc774f56265ebbd</id>
         <link href="https://en.wikipedia.org/wiki/1945_Zhijiang_surrender_ceremony"/>
         <updated>2026-08-20T01:11:57.504Z</updated>
-        <content type="html"><![CDATA[... that the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/1945_Zhijiang_surrender_ceremony" title="1945 Zhijiang surrender ceremony">1945 Zhijiang surrender ceremony</a></b> marked the the beginning of China's acceptance of Japan's surrender in World War<span typeof="mw:Entity">&nbsp;</span>II?]]></content>
+        <content type="html"><![CDATA[... that the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/1945_Zhijiang_surrender_ceremony" title="1945 Zhijiang surrender ceremony">1945 Zhijiang surrender ceremony</a></b> marked the beginning of China's acceptance of Japan's surrender in World War<span typeof="mw:Entity">&nbsp;</span>II?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faiza Ali]]></title>
