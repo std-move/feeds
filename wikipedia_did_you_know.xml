@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-21T12:48:34.386Z</updated>
+    <updated>2026-08-21T14:36:35.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>link-2158d758f5fbb94be8bc09e91970e479</id>
         <link href="https://en.wikipedia.org/wiki/Baltimore_(Randy_Newman_song)"/>
         <updated>2026-08-21T12:46:10.816Z</updated>
-        <content type="html"><![CDATA[... that Randy Newman's song "<b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Baltimore_(Randy_Newman_song)" title="Baltimore (Randy Newman song)">Baltimore</a></b>" inspired a city officer to respond with a poem criticizing Newman?]]></content>
+        <content type="html"><![CDATA[... that Randy Newman's song "<b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Baltimore_(Randy_Newman_song)" title="Baltimore (Randy Newman song)">Baltimore</a></b>" inspired a city official to respond with a poem criticizing Newman?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[mythical creatures with their feet or legs facing backwards]]></title>
