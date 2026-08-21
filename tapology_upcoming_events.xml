@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-08-21T10:31:45.860Z</updated>
+    <updated>2026-08-21T12:48:34.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[ONE Friday Fights 167 — 2026-08-21 06:30:00 -0400]]></title>
-        <id>link-cec56e2ba9795da16bee8593935286ed</id>
-        <link href="https://www.tapology.com/fightcenter/events/145987-one-friday-fights-167"/>
-        <updated>2026-08-16T18:28:23.699Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145987-one-friday-fights-167">ONE Friday Fights 167</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-21 06:30:00 -0400">right now</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[LFA 239 — 2026-08-21 18:30:00 -0400]]></title>
         <id>link-8ebd7d4f8f216a5024242d550e6cc06c</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145386-lfa-239">LFA 239</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-21 18:30:00 -0400">in 12 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-21 18:30:00 -0400">in 9 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-08-28 05:00:00 -0400">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE Friday Fights 168 — 2026-08-28 07:30:00 -0400]]></title>
+        <id>link-fded245057cffc8e12944ae4d9cf9ef1</id>
+        <link href="https://www.tapology.com/fightcenter/events/145990-one-friday-fights-168"/>
+        <updated>2026-08-21T12:46:10.816Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145990-one-friday-fights-168">ONE Friday Fights 168</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-08-28 07:30:00 -0400">in 6 days</abbr>
 </td>]]></content>
     </entry>
 </feed>
