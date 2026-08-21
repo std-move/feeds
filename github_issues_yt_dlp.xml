@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-08-21T03:04:16.324Z</updated>
+    <updated>2026-08-21T04:38:49.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -94,5 +94,59 @@
         <id>link-e44f73e3033abec43101a801dca224fb</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/14298"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)]]></title>
+        <id>link-201a231131a0067406208cae40e71069</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/13548"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[iPrima.cz] Unable to extract real id]]></title>
+        <id>link-80d0475c0909ae6b470c6ea45716ffd3</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/12354"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PBS An extractor error has occurred. (caused by KeyError('title'))]]></title>
+        <id>link-1ff4d0556df2131734438da2b7948f67</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/12165"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[pbs] An extractor error has occurred. (caused by KeyError('title'))]]></title>
+        <id>link-c68e7b71cce83ba07aa49f3fa3beb36f</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/11514"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TikTok] 31KB non-video files are being downloaded]]></title>
+        <id>link-cec99e0430656a0d84e15e09edfef649</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/11034"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Youtube] Unable to extract initial JS player n function name]]></title>
+        <id>link-8700f11a2c8db046e6c3085389af6944</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/10916"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falling back to generic extractor for voyo.nova.cz]]></title>
+        <id>link-55d20fd551479a9b98a8b8b13714e418</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/9999"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markíza.py not working]]></title>
+        <id>link-d138da2a26b0e08430f6a776f553067f</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/9692"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download from https://www.pbs.org not working: ERROR: An extractor error has occurred. (caused by KeyError('title'))]]></title>
+        <id>link-1877050c5b5e9991b06ede0f3f75f46f</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/9397"/>
+        <updated>2026-08-21T04:37:12.408Z</updated>
     </entry>
 </feed>
