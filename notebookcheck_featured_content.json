@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-b63e65203c753dddba338b05ab31e4c2",
+			"title": "LiDAR Instead of RTK: Navimow H2 review",
+			"link": "https://www.notebookcheck.net/LiDAR-instead-of-RTK-Navimow-H2-robotic-lawn-mower-review.1375807.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/b/csm_Navimow-H2-Test-Teaser83_ff2058074b.jpg\" loading=\"lazy\" alt=\"Navimow H2 review\"></picture><div class=\"intro_featured_bar_title\">LiDAR Instead of RTK: Navimow H2 review</div>",
+			"retrieved": 1787423387297
+		},
+		{
 			"id": "link-4ddd9b34704a151785d09ff1c9ada91d",
 			"title": "HP HyperX Omen 16 review: Ryzen 9 9955HX3D with 115 W graphics",
 			"link": "https://www.notebookcheck.net/HP-HyperX-Omen-16-review-One-of-the-fastest-AMD-CPUs-for-mainstream-gamers.1348846.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/14-inch-business-laptop-with-excellent-battery-life-HP-EliteBook-8-G2a-14-AI-Review.1370559.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/2/csm_elitebook_8_ga2_14_case_08_064ce3f0c3.jpg\" loading=\"lazy\" alt=\"14-inch business laptop with excellent battery life - HP EliteBook 8 G2a 14 AI Review\"></picture><div class=\"intro_featured_bar_title\">HP EliteBook 8 G2a 14 Review - Almost 20 hours battery life</div>",
 			"retrieved": 1787070632669
-		},
-		{
-			"id": "link-e3d99784b191e69f88d6bda6401c653a",
-			"title": "Dell 14S review: Strong XPS 14 alternative",
-			"link": "https://www.notebookcheck.net/Dell-14S-DS14260-review-As-powerful-as-an-XPS-14.1366869.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/14S_DS14260/dell14s_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/14S_DS14260/dell14s_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/14S_DS14260/dell14s_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/14S_DS14260/dell14s_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/14S_DS14260/dell14s_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/14S_DS14260/dell14s_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/a/csm_dell14s_feature_1_46aac901f3.jpg\" loading=\"lazy\" alt=\"Dell 14S DS14260 review: As powerful as an XPS 14\"></picture><div class=\"intro_featured_bar_title\">Dell 14S review: Strong XPS 14 alternative</div>",
-			"retrieved": 1786929243325
 		}
 	]
 }
