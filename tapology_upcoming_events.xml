@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-08-23T10:25:20.007Z</updated>
+    <updated>2026-08-23T12:40:41.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[FightStar Championship 37 — 2026-08-23 11:00:00 -0400]]></title>
+        <title type="html"><![CDATA[FightStar Championship 37 — 2026-08-23 07:30:00 -0400]]></title>
         <id>link-14411788cc8deb9e67e1b059910de505</id>
         <link href="https://www.tapology.com/fightcenter/events/145565-fightstar-championship-37"/>
         <updated>2026-08-16T18:28:23.699Z</updated>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145565-fightstar-championship-37">FightStar Championship 37</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-23 11:00:00 -0400">in 4 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-23 07:30:00 -0400">1 hour ago</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145990-one-friday-fights-168">ONE Friday Fights 168</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-08-28 07:30:00 -0400">in 5 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-08-28 07:30:00 -0400">in 4 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
