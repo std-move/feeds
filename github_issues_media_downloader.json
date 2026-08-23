@@ -93,6 +93,90 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/59",
 			"contents": "",
 			"retrieved": 1787070632669
+		},
+		{
+			"id": "link-158aa73d782af1ffc4d008af00b00d4a",
+			"title": "Muxing s mkvmerge",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/58",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-f5480c418ce257bdfc544f42b21df2e5",
+			"title": "Duální zvuk v iVysílání",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/55",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-2b515766073c861022dc64ab8b23c00d",
+			"title": "Docker podpora",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/47",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-a421e62dde44249591b99b9f3e28c25c",
+			"title": "Podpora více jazykových stop současně",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/45",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-36f00919dab77e61daeaafaf07f7b3b5",
+			"title": "Nestahuje z nova",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/44",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-283f4963234cf7af2011a6286bae519a",
+			"title": "Nefunkční YouTube",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/43",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-2c5368cc0e3bb2b9bc1d0ba5a9621b15",
+			"title": "Preserve added links on close",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/33",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-558d8414dcd14cfe0b00b4e60bcd8f6d",
+			"title": "Podpora proxy",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/32",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-757432afd2e2b55b054923b351677cb9",
+			"title": "Možnost používat program pouze přes CLI",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/24",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-20c777675494e4486ad0fa6bde63b69d",
+			"title": "Česká televize",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/23",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-efbaf3a7beeb44dad2fa14d0db027009",
+			"title": "Maximální rychlost stahování",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/20",
+			"contents": "",
+			"retrieved": 1787459781217
+		},
+		{
+			"id": "link-f1ed573ace733eb3a2ce93f1e85a71cb",
+			"title": "Upctv",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/17",
+			"contents": "",
+			"retrieved": 1787459781217
 		}
 	]
 }
