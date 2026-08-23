@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-08-23T04:38:22.067Z</updated>
+    <updated>2026-08-23T06:41:42.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -82,77 +82,5 @@
         <id>link-116fd82ffdbd920efe059b98e20bf302</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/59"/>
         <updated>2026-08-18T16:30:32.669Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muxing s mkvmerge]]></title>
-        <id>link-158aa73d782af1ffc4d008af00b00d4a</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/58"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duální zvuk v iVysílání]]></title>
-        <id>link-f5480c418ce257bdfc544f42b21df2e5</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/55"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker podpora]]></title>
-        <id>link-2b515766073c861022dc64ab8b23c00d</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/47"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podpora více jazykových stop současně]]></title>
-        <id>link-a421e62dde44249591b99b9f3e28c25c</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/45"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nestahuje z nova]]></title>
-        <id>link-36f00919dab77e61daeaafaf07f7b3b5</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/44"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nefunkční YouTube]]></title>
-        <id>link-283f4963234cf7af2011a6286bae519a</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/43"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preserve added links on close]]></title>
-        <id>link-2c5368cc0e3bb2b9bc1d0ba5a9621b15</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/33"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podpora proxy]]></title>
-        <id>link-558d8414dcd14cfe0b00b4e60bcd8f6d</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/32"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Možnost používat program pouze přes CLI]]></title>
-        <id>link-757432afd2e2b55b054923b351677cb9</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/24"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Česká televize]]></title>
-        <id>link-20c777675494e4486ad0fa6bde63b69d</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/23"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximální rychlost stahování]]></title>
-        <id>link-efbaf3a7beeb44dad2fa14d0db027009</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/20"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upctv]]></title>
-        <id>link-f1ed573ace733eb3a2ce93f1e85a71cb</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/17"/>
-        <updated>2026-08-23T04:36:21.217Z</updated>
     </entry>
 </feed>
