@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-9d386a52c9bc82a3ac30fe312e6c4a7c",
+			"title": "\"Made in Germany\" flagship smartphone review",
+			"link": "https://www.notebookcheck.net/Germany-s-affordable-Fairphone-alternative-Gigaset-GS6-Pro-review.1375726.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/5/csm_Test_Gigaset_GS6_Pro_6_9b5d1eed25.jpg\" loading=\"lazy\" alt=\"Gigaset GS6 Pro review\"></picture><div class=\"intro_featured_bar_title\">\"Made in Germany\" flagship smartphone review</div>",
+			"retrieved": 1787502266375
+		},
+		{
 			"id": "link-b63e65203c753dddba338b05ab31e4c2",
 			"title": "LiDAR Instead of RTK: Navimow H2 review",
 			"link": "https://www.notebookcheck.net/LiDAR-instead-of-RTK-Navimow-H2-robotic-lawn-mower-review.1375807.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/This-laptop-with-64-GB-RAM-is-perfect-for-AI-agents-HP-ZBook-8-G2a-14-review.1350756.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_8_G2a_14/HP_ZBook8G2a_teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/d/csm_HP_ZBook8G2a_teaser_99fb4af78f.jpg\" loading=\"lazy\" alt=\"This laptop combines 64 GB RAM with 16-Hour battery life: HP ZBook 8 G2a 14 review\"></picture><div class=\"intro_featured_bar_title\">14-inch workstation with 64 GB RAM</div>",
 			"retrieved": 1787084590359
-		},
-		{
-			"id": "link-6626b54bc54dec9fc3f131b00b98a63c",
-			"title": "HP EliteBook 8 G2a 14 Review - Almost 20 hours battery life",
-			"link": "https://www.notebookcheck.net/14-inch-business-laptop-with-excellent-battery-life-HP-EliteBook-8-G2a-14-AI-Review.1370559.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_8_G2a_14/elitebook_8_ga2_14_case_08-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/2/csm_elitebook_8_ga2_14_case_08_064ce3f0c3.jpg\" loading=\"lazy\" alt=\"14-inch business laptop with excellent battery life - HP EliteBook 8 G2a 14 AI Review\"></picture><div class=\"intro_featured_bar_title\">HP EliteBook 8 G2a 14 Review - Almost 20 hours battery life</div>",
-			"retrieved": 1787070632669
 		}
 	]
 }
