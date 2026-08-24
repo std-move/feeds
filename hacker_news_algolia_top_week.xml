@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - top stories (week)</title>
-    <updated>2026-08-24T12:51:38.866Z</updated>
+    <updated>2026-08-24T14:43:02.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-428624658cef78377d8d017b0f1fcbb6</id>
         <link href="https://news.ycombinator.com/item?id=49355606"/>
         <updated>2026-08-19T10:28:13.549Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49355606"><span>OpenLogi</span></a><a href="https://openlogi.org/en" target="_blank" class="Story_link">(https://openlogi.org/en)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49355606">1624 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=amatheus"><span>amatheus</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49355606">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49355606">429 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49355606"><span>OpenLogi</span></a><a href="https://openlogi.org/en" target="_blank" class="Story_link">(https://openlogi.org/en)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49355606">1624 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=amatheus"><span>amatheus</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49355606">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49355606">429 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Amazon tax]]></title>
@@ -125,20 +125,6 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49365405"><span>Go 1.27</span></a><a href="https://go.dev/blog/go1.27" target="_blank" class="Story_link">(https://go.dev/blog/go1.27)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49365405">751 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=database64128"><span>database64128</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49365405">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49365405">265 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Incident with Github.com]]></title>
-        <id>link-daf83e843a770ab286d489b4117db678</id>
-        <link href="https://news.ycombinator.com/item?id=49330684"/>
-        <updated>2026-08-17T16:26:42.677Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49330684"><span>Incident with Github.com</span></a><a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx" target="_blank" class="Story_link">(https://www.githubstatus.com/incidents/zkxwbgr0cnmx)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49330684">719 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=kevcampb"><span>kevcampb</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49330684">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49330684">2 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Preview of DuckDB v2.0]]></title>
-        <id>link-fcfe69e72a01ad8e87477ce5621f38bb</id>
-        <link href="https://news.ycombinator.com/item?id=49330781"/>
-        <updated>2026-08-18T08:36:03.923Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49330781"><span>A Preview of DuckDB v2.0</span></a><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights" target="_blank" class="Story_link">(https://duckdb.org/2026/08/17/duckdb-20-highlights)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49330781">718 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ibotty"><span>ibotty</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49330781">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49330781">132 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Bluesky draws its logo on screenshots]]></title>
         <id>link-c95f0728fa2d568100237b218c35181d</id>
         <link href="https://news.ycombinator.com/item?id=49338459"/>
@@ -165,13 +151,6 @@
         <link href="https://news.ycombinator.com/item?id=49387570"/>
         <updated>2026-08-22T22:20:56.886Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49387570"><span>I accidentally logged hundreds of thousands of phone calls to military bases</span></a><a href="https://lina.sh/blog/hijacking-e164-arpa" target="_blank" class="Story_link">(https://lina.sh/blog/hijacking-e164-arpa)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49387570">669 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=gavide"><span>gavide</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49387570">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49387570">83 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Alternatives to GitHub]]></title>
-        <id>link-17056c89af99d597e8d962b0432c45f4</id>
-        <link href="https://news.ycombinator.com/item?id=49331033"/>
-        <updated>2026-08-23T01:18:10.042Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49331033"><span>Ask HN: Alternatives to GitHub</span></a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49331033">649 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=dhruv3006"><span>dhruv3006</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49331033">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49331033">435 comments</a></span><div class="Story_comment"><span>Github has been down consistently over the last few months - does it make sense to switch to alternatives?</span></div></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kobo can run apps now]]></title>
@@ -206,7 +185,7 @@
         <id>link-462373ae65b89be3a741559c1c85f6a6</id>
         <link href="https://news.ycombinator.com/item?id=49395628"/>
         <updated>2026-08-23T22:20:55.924Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49395628"><span>There's no reason for software to be slow anymore</span></a><a href="https://danluu.com/perf-opt/" target="_blank" class="Story_link">(https://danluu.com/perf-opt/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49395628">638 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Jach"><span>Jach</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49395628">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49395628">485 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49395628"><span>There's no reason for software to be slow anymore</span></a><a href="https://danluu.com/perf-opt/" target="_blank" class="Story_link">(https://danluu.com/perf-opt/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49395628">638 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Jach"><span>Jach</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49395628">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49395628">485 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The August 17 outage]]></title>
@@ -214,5 +193,26 @@
         <link href="https://news.ycombinator.com/item?id=49378957"/>
         <updated>2026-08-24T01:15:42.335Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49378957"><span>The August 17 outage</span></a><a href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/" target="_blank" class="Story_link">(https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49378957">636 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=0xedb"><span>0xedb</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49378957">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49378957">751 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 Sol Pricing Cut by 50% on OpenRouter]]></title>
+        <id>link-4525a0a4bd16b4f0adf237b3f1a99b3d</id>
+        <link href="https://news.ycombinator.com/item?id=49337602"/>
+        <updated>2026-08-24T14:40:59.715Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49337602"><span>GPT-5.6 Sol Pricing Cut by 50% on OpenRouter</span></a><a href="https://openrouter.ai/openai/gpt-5.6-sol" target="_blank" class="Story_link">(https://openrouter.ai/openai/gpt-5.6-sol)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49337602">635 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Topfi"><span>Topfi</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49337602">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49337602">448 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI companies destroy physical books – let's scan rare books before it's too late]]></title>
+        <id>link-eb50293a5f90920b883a169c0e8df007</id>
+        <link href="https://news.ycombinator.com/item?id=49383026"/>
+        <updated>2026-08-24T14:40:59.715Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49383026"><span>AI companies destroy physical books – let's scan rare books before it's too late</span></a><a href="https://annas-archive.gl/blog/physical-destruction.html" target="_blank" class="Story_link">(https://annas-archive.gl/blog/physical-destruction.html)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49383026">623 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=Cider9986"><span>Cider9986</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49383026">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49383026">898 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware Management Consultants]]></title>
+        <id>link-6e3ccdf05253df8e356e23ae8640027f</id>
+        <link href="https://news.ycombinator.com/item?id=49351324"/>
+        <updated>2026-08-24T14:40:59.715Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49351324"><span>Beware Management Consultants</span></a><a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/" target="_blank" class="Story_link">(https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49351324">623 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=KolmogorovComp"><span>KolmogorovComp</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49351324">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49351324">158 comments</a></span></div></div></div>]]></content>
     </entry>
 </feed>
