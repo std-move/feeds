@@ -88,13 +88,6 @@
 			"retrieved": 1787188317504
 		},
 		{
-			"id": "link-748e2057d8c406b2fbc80958569099da",
-			"title": "Universal health coverage could save $1T and 114k lives a year: study",
-			"link": "https://news.ycombinator.com/item?id=49332981",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49332981\"><span>Universal health coverage could save $1T and 114k lives a year: study</span></a><a href=\"https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/\" target=\"_blank\" class=\"Story_link\">(https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49332981\">901 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=karakoram\"><span>karakoram</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49332981\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49332981\">972 comments</a></span><div class=\"Story_comment\"><span>Paper: <a href=\"https://www.medrxiv.org/content/10.64898/2026.07.22.26358689v1.full.pdf\" rel=\"nofollow\">https://www.medrxiv.org/content/10.64898/2026.07.22.26358689...</a></span></div></div></div></div>",
-			"retrieved": 1787091756650
-		},
-		{
 			"id": "link-97bb7cb980704f4f3b4f402ead88763c",
 			"title": "I like 'em thick: an apology to my English teachers",
 			"link": "https://news.ycombinator.com/item?id=49347543",
@@ -212,6 +205,13 @@
 			"link": "https://news.ycombinator.com/item?id=49351324",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49351324\"><span>Beware Management Consultants</span></a><a href=\"https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/\" target=\"_blank\" class=\"Story_link\">(https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49351324\">623 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=KolmogorovComp\"><span>KolmogorovComp</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49351324\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49351324\">158 comments</a></span></div></div></div>",
 			"retrieved": 1787582459715
+		},
+		{
+			"id": "link-a066bfa1a9a7e2b28385832bfd62e444",
+			"title": "Google has acquired the data of failed US airline Spirit",
+			"link": "https://news.ycombinator.com/item?id=49343559",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49343559\"><span>Google has acquired the data of failed US airline Spirit</span></a><a href=\"https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\" target=\"_blank\" class=\"Story_link\">(https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49343559\">616 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=pseudolus\"><span>pseudolus</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49343559\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49343559\">420 comments</a></span></div></div></div>",
+			"retrieved": 1787589410020
 		}
 	]
 }
