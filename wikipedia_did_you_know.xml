@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-24T01:17:46.317Z</updated>
+    <updated>2026-08-24T03:04:46.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Reagan Wilson]]></title>
-        <id>link-5581ce10e3cba030828a675fd90ed110</id>
-        <link href="https://en.wikipedia.org/wiki/Reagan_Wilson"/>
-        <updated>2026-08-24T01:15:42.335Z</updated>
-        <content type="html"><![CDATA[... that a topless picture of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Reagan_Wilson" title="Reagan Wilson">Reagan Wilson</a></b> <i>(pictured)</i> went to the Moon?]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[a statue of Dante Alighieri]]></title>
         <id>link-df0f052cdf14539851e19df1904b59b4</id>
         <link href="https://en.wikipedia.org/wiki/Statue_of_Dante_Alighieri_(Meridian_Hill_Park)"/>
         <updated>2026-08-24T01:15:42.335Z</updated>
-        <content type="html"><![CDATA[... that the dedication of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Statue_of_Dante_Alighieri_(Meridian_Hill_Park)" title="Statue of Dante Alighieri (Meridian Hill Park)">a statue of Dante Alighieri</a></b> in Washington, D.C., was described as an "international love feast" between French and Italian officials?]]></content>
+        <content type="html"><![CDATA[... that the dedication of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Statue_of_Dante_Alighieri_(Meridian_Hill_Park)" title="Statue of Dante Alighieri (Meridian Hill Park)">a statue of Dante Alighieri</a></b> <i>(pictured)</i> in Washington, D.C., was described as an "international love feast" between French and Italian officials?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reagan Wilson]]></title>
+        <id>link-5581ce10e3cba030828a675fd90ed110</id>
+        <link href="https://en.wikipedia.org/wiki/Reagan_Wilson"/>
+        <updated>2026-08-24T01:15:42.335Z</updated>
+        <content type="html"><![CDATA[... that a topless picture of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Reagan_Wilson" title="Reagan Wilson">Reagan Wilson</a></b> went to the Moon?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a popular Marvel villain]]></title>
