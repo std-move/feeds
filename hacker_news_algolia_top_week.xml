@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - top stories (week)</title>
-    <updated>2026-08-24T16:38:57.336Z</updated>
+    <updated>2026-08-24T18:41:05.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -132,13 +132,6 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49387497"><span>Grand jury declines to indict Ohio man charged with destroying Flock camera</span></a><a href="https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/" target="_blank" class="Story_link">(https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49387497">699 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=throw7"><span>throw7</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49387497">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49387497">395 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Memory prices climb 500% in 12 months]]></title>
-        <id>link-62833a46278f99230195e2aaf37a938f</id>
-        <link href="https://news.ycombinator.com/item?id=49334960"/>
-        <updated>2026-08-19T14:33:16.887Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49334960"><span>Memory prices climb 500% in 12 months</span></a><a href="https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399" target="_blank" class="Story_link">(https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49334960">674 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=haunter"><span>haunter</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49334960">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49334960">563 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I accidentally logged hundreds of thousands of phone calls to military bases]]></title>
         <id>link-da80187740fd6b286595b741bd66dfb9</id>
         <link href="https://news.ycombinator.com/item?id=49387570"/>
@@ -171,7 +164,7 @@
         <id>link-7143e975018cd22010e6304b0ced95c7</id>
         <link href="https://news.ycombinator.com/item?id=49397074"/>
         <updated>2026-08-23T18:28:31.919Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49397074"><span>Canada will match US tariffs 'dollar for dollar' as trade talks break down</span></a><a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo" target="_blank" class="Story_link">(https://www.bbc.com/news/articles/cvgvyy4x2mvo)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49397074">644 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=tartoran"><span>tartoran</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49397074">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49397074">1509 comments</a></span><div class="Story_comment"><span><a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations" rel="nofollow">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement...</a></span></div></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49397074"><span>Canada will match US tariffs 'dollar for dollar' as trade talks break down</span></a><a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo" target="_blank" class="Story_link">(https://www.bbc.com/news/articles/cvgvyy4x2mvo)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49397074">644 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=tartoran"><span>tartoran</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49397074">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49397074">1509 comments</a></span><div class="Story_comment"><span><a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations" rel="nofollow">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement...</a></span></div></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[There's no reason for software to be slow anymore]]></title>
@@ -214,5 +207,12 @@
         <link href="https://news.ycombinator.com/item?id=49343559"/>
         <updated>2026-08-24T16:36:50.020Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49343559"><span>Google has acquired the data of failed US airline Spirit</span></a><a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962" target="_blank" class="Story_link">(https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49343559">616 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=pseudolus"><span>pseudolus</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49343559">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49343559">420 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma]]></title>
+        <id>link-a00dc76d5f095ecaf388bef25f60bde3</id>
+        <link href="https://news.ycombinator.com/item?id=49361395"/>
+        <updated>2026-08-24T18:39:01.346Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49361395"><span>Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma</span></a><a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787" target="_blank" class="Story_link">(https://twitter.com/NoubarAfeyan/status/2090050162441752787)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49361395">599 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=heydenberk"><span>heydenberk</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49361395">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49361395">299 comments</a></span></div></div></div>]]></content>
     </entry>
 </feed>
