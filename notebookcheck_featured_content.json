@@ -4,24 +4,24 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-aea38b71fc91bd747de7a3f3f07b73d5",
+			"title": "▶ Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 & 5060 Test)",
+			"link": "https://www.notebookcheck.net/Should-you-care-about-Pathtracing-on-Gaming-Laptops-in-2026.1378368.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/c/csm__105248517_bb20cc77cb.jpg\" loading=\"lazy\" alt=\"An Alienware 18 Area 51 Gaming Laptop running Alan Wake II\"></picture><div class=\"intro_featured_bar_title\">▶ Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 &amp; 5060 Test)</div>",
+			"retrieved": 1787683110555
+		},
+		{
+			"id": "link-24dc0ce92a13793f6f313d135797f9d1",
+			"title": "HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (A‎d)",
+			"link": "https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png\" loading=\"lazy\" alt=\"HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g\"></picture><div class=\"intro_featured_bar_title\">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class=\"introa_ad_hd\">(A‎d)</span></div>",
+			"retrieved": 1787647275394
+		},
+		{
 			"id": "link-b21bf57dde42f1c31515a465e72644ae",
 			"title": "AI video generator: I tried out ComfyUI with MiniMax H3",
 			"link": "https://www.notebookcheck.net/ComfyUI-with-MiniMax-H3-Better-than-Kling-AI-Seedance-and-other-video-generators-on-the-free-tier.1378024.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/8/csm_BRIDGE-00194_0f51691485.jpg\" loading=\"lazy\" alt=\"ComfyUI with MiniMax H3: Better than Kling AI, Seedance and other video generators on the free tier?\"></picture><div class=\"intro_featured_bar_title\">AI video generator: I tried out ComfyUI with MiniMax H3</div>",
-			"retrieved": 1787675816453
-		},
-		{
-			"id": "link-24dc0ce92a13793f6f313d135797f9d1",
-			"title": "HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (A‌d)",
-			"link": "https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png\" loading=\"lazy\" alt=\"HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g\"></picture><div class=\"intro_featured_bar_title\">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class=\"introa_ad_hd\">(A‌d)</span></div>",
-			"retrieved": 1787647275394
-		},
-		{
-			"id": "link-5832979ce3a711adb4f14143d4a5db0a",
-			"title": "Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 & 5060 Test)",
-			"link": "https://www.notebookcheck.net/Is-Path-Tracing-Ready-for-Laptops-Testing-NVIDIA-s-Free-DLSS-4-5-Upgrade-on-an-RTX-5090-RTX-5060.1377817.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/0/csm__1052480_d3e0ac3789.jpg\" loading=\"lazy\" alt=\"Two gaming laptops sitting on a white desk displaying detailed path-traced game footage next to a controller, mouse, and headset in a studio room.\"></picture><div class=\"intro_featured_bar_title\">Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 &amp; 5060 Test)</div>",
 			"retrieved": 1787675816453
 		},
 		{
