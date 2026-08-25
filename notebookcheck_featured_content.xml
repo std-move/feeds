@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-08-25T18:40:49.789Z</updated>
+    <updated>2026-08-25T20:30:21.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/c/csm__105248517_bb20cc77cb.jpg" loading="lazy" alt="An Alienware 18 Area 51 Gaming Laptop running Alan Wake II"></picture><div class="intro_featured_bar_title">▶ Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 &amp; 5060 Test)</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (A‎d)]]></title>
+        <title type="html"><![CDATA[HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (Advert‌ising)]]></title>
         <id>link-24dc0ce92a13793f6f313d135797f9d1</id>
         <link href="https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html"/>
         <updated>2026-08-25T08:41:15.394Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png" loading="lazy" alt="HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g"></picture><div class="intro_featured_bar_title">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class="introa_ad_hd">(A‎d)</span></div>]]></content>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png" loading="lazy" alt="HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g"></picture><div class="intro_featured_bar_title">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class="introa_ad_hd">(Advert‌ising)</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI video generator: I tried out ComfyUI with MiniMax H3]]></title>
