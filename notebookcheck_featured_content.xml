@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-08-25T20:30:21.490Z</updated>
+    <updated>2026-08-25T22:28:50.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Lenovo LOQ Essential 15 review: Can a 55 W GeForce RTX 5060 perform?]]></title>
+        <id>link-09837a7fe63354939a71674bbc587663</id>
+        <link href="https://www.notebookcheck.net/Lenovo-LOQ-Essential-15IRX11-review-RTX-gaming-on-single-channel-RAM.1372071.0.html"/>
+        <updated>2026-08-25T22:26:45.179Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_Essential_15IRX11/loqessential15_feature_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_Essential_15IRX11/loqessential15_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_Essential_15IRX11/loqessential15_feature_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_Essential_15IRX11/loqessential15_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_Essential_15IRX11/loqessential15_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/LOQ_Essential_15IRX11/loqessential15_feature_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/e/csm_loqessential15_feature_1_e7d94c895b.jpg" loading="lazy" alt="Lenovo LOQ Essential 15IRX11 review: RTX gaming on single-channel RAM"></picture><div class="intro_featured_bar_title">Lenovo LOQ Essential 15 review: Can a 55 W GeForce RTX 5060 perform?</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (Adv erticle)]]></title>
+        <id>link-24dc0ce92a13793f6f313d135797f9d1</id>
+        <link href="https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html"/>
+        <updated>2026-08-25T08:41:15.394Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png" loading="lazy" alt="HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g"></picture><div class="intro_featured_bar_title">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class="introa_ad_hd">(Adv erticle)</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[▶ Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 & 5060 Test)]]></title>
         <id>link-aea38b71fc91bd747de7a3f3f07b73d5</id>
         <link href="https://www.notebookcheck.net/Should-you-care-about-Pathtracing-on-Gaming-Laptops-in-2026.1378368.0.html"/>
         <updated>2026-08-25T18:38:30.555Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/c/csm__105248517_bb20cc77cb.jpg" loading="lazy" alt="An Alienware 18 Area 51 Gaming Laptop running Alan Wake II"></picture><div class="intro_featured_bar_title">▶ Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 &amp; 5060 Test)</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (Advert‌ising)]]></title>
-        <id>link-24dc0ce92a13793f6f313d135797f9d1</id>
-        <link href="https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html"/>
-        <updated>2026-08-25T08:41:15.394Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png" loading="lazy" alt="HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g"></picture><div class="intro_featured_bar_title">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class="introa_ad_hd">(Advert‌ising)</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI video generator: I tried out ComfyUI with MiniMax H3]]></title>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Germany-s-affordable-Fairphone-alternative-Gigaset-GS6-Pro-review.1375726.0.html"/>
         <updated>2026-08-23T16:24:26.375Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Gigaset/GS6_Pro/Test_Gigaset_GS6_Pro_6-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/5/csm_Test_Gigaset_GS6_Pro_6_9b5d1eed25.jpg" loading="lazy" alt="Gigaset GS6 Pro review"></picture><div class="intro_featured_bar_title">"Made in Germany" flagship smartphone review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiDAR Instead of RTK: Navimow H2 review]]></title>
-        <id>link-b63e65203c753dddba338b05ab31e4c2</id>
-        <link href="https://www.notebookcheck.net/LiDAR-instead-of-RTK-Navimow-H2-robotic-lawn-mower-review.1375807.0.html"/>
-        <updated>2026-08-22T18:29:47.297Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/b/csm_Navimow-H2-Test-Teaser83_ff2058074b.jpg" loading="lazy" alt="Navimow H2 review"></picture><div class="intro_featured_bar_title">LiDAR Instead of RTK: Navimow H2 review</div>]]></content>
     </entry>
 </feed>
