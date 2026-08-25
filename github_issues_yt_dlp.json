@@ -11,16 +11,16 @@
 			"retrieved": 1786984002677
 		},
 		{
+			"id": "link-7a13d2b3660203fd37ed6161f93401c2",
+			"title": "[Youtube] ERROR: Video unavailable. Playback on other websites has been disabled by the video owner (web_embedded player response playability status: UNPLAYABLE)",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/17497",
+			"contents": "",
+			"retrieved": 1787675816453
+		},
+		{
 			"id": "link-74f557a9f362550e401b0b049daf6f05",
 			"title": "[Youtube] ERROR: unable to download video data: HTTP Error 403: Forbidden (with android_vr)",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/17456",
-			"contents": "",
-			"retrieved": 1787057040228
-		},
-		{
-			"id": "link-335bc1ffa663382201dfa9473dcd2b7a",
-			"title": "[TikTok] Unexpected response from webpage request",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/17403",
 			"contents": "",
 			"retrieved": 1787057040228
 		},

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-08-25T14:45:58.574Z</updated>
+    <updated>2026-08-25T16:38:58.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -12,15 +12,15 @@
         <updated>2026-08-17T16:26:42.677Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Youtube] ERROR: Video unavailable. Playback on other websites has been disabled by the video owner (web_embedded player response playability status: UNPLAYABLE)]]></title>
+        <id>link-7a13d2b3660203fd37ed6161f93401c2</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/17497"/>
+        <updated>2026-08-25T16:36:56.453Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Youtube] ERROR: unable to download video data: HTTP Error 403: Forbidden (with android_vr)]]></title>
         <id>link-74f557a9f362550e401b0b049daf6f05</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/17456"/>
-        <updated>2026-08-18T12:44:00.228Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TikTok] Unexpected response from webpage request]]></title>
-        <id>link-335bc1ffa663382201dfa9473dcd2b7a</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/17403"/>
         <updated>2026-08-18T12:44:00.228Z</updated>
     </entry>
     <entry>

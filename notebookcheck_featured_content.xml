@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-08-25T14:45:58.549Z</updated>
+    <updated>2026-08-25T16:38:58.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[AI video generator: I tried out ComfyUI with MiniMax H3]]></title>
+        <id>link-b21bf57dde42f1c31515a465e72644ae</id>
+        <link href="https://www.notebookcheck.net/ComfyUI-with-MiniMax-H3-Better-than-Kling-AI-Seedance-and-other-video-generators-on-the-free-tier.1378024.0.html"/>
+        <updated>2026-08-25T16:36:56.453Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/8/csm_BRIDGE-00194_0f51691485.jpg" loading="lazy" alt="ComfyUI with MiniMax H3: Better than Kling AI, Seedance and other video generators on the free tier?"></picture><div class="intro_featured_bar_title">AI video generator: I tried out ComfyUI with MiniMax H3</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (A‌d)]]></title>
+        <id>link-24dc0ce92a13793f6f313d135797f9d1</id>
+        <link href="https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html"/>
+        <updated>2026-08-25T08:41:15.394Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png" loading="lazy" alt="HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g"></picture><div class="intro_featured_bar_title">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class="introa_ad_hd">(A‌d)</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 & 5060 Test)]]></title>
+        <id>link-5832979ce3a711adb4f14143d4a5db0a</id>
+        <link href="https://www.notebookcheck.net/Is-Path-Tracing-Ready-for-Laptops-Testing-NVIDIA-s-Free-DLSS-4-5-Upgrade-on-an-RTX-5090-RTX-5060.1377817.0.html"/>
+        <updated>2026-08-25T16:36:56.453Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052480-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/0/csm__1052480_d3e0ac3789.jpg" loading="lazy" alt="Two gaming laptops sitting on a white desk displaying detailed path-traced game footage next to a controller, mouse, and headset in a studio room."></picture><div class="intro_featured_bar_title">Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 &amp; 5060 Test)</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vivo X Fold6 Review: Foldable with stamina in its DNA]]></title>
         <id>link-a358d643762c8c72c3c2d6735bace181</id>
         <link href="https://www.notebookcheck.net/7-000-mAh-meets-200-MP-Vivo-X-Fold6-foldable-review.1375725.0.html"/>
         <updated>2026-08-25T08:41:15.394Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/f/csm_aPic_Vivo_X_Fold6-3195_f8df5200c4.jpg" loading="lazy" alt="Vivo X Fold6 foldable smartphone review"></picture><div class="intro_featured_bar_title">Vivo X Fold6 Review: Foldable with stamina in its DNA</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (Adve‌rtorial)]]></title>
-        <id>link-24dc0ce92a13793f6f313d135797f9d1</id>
-        <link href="https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html"/>
-        <updated>2026-08-25T08:41:15.394Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png" loading="lazy" alt="HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g"></picture><div class="intro_featured_bar_title">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class="introa_ad_hd">(Adve‌rtorial)</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Smart office chair with AI, massage, and heat: Hbada X7 review]]></title>
@@ -39,19 +53,5 @@
         <link href="https://www.notebookcheck.net/LiDAR-instead-of-RTK-Navimow-H2-robotic-lawn-mower-review.1375807.0.html"/>
         <updated>2026-08-22T18:29:47.297Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc4/Navimow-H2-Test-Teaser83-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/b/csm_Navimow-H2-Test-Teaser83_ff2058074b.jpg" loading="lazy" alt="Navimow H2 review"></picture><div class="intro_featured_bar_title">LiDAR Instead of RTK: Navimow H2 review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP HyperX Omen 16 review: Ryzen 9 9955HX3D with 115 W graphics]]></title>
-        <id>link-4ddd9b34704a151785d09ff1c9ada91d</id>
-        <link href="https://www.notebookcheck.net/HP-HyperX-Omen-16-review-One-of-the-fastest-AMD-CPUs-for-mainstream-gamers.1348846.0.html"/>
-        <updated>2026-08-21T16:33:42.882Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/HyperX_Omen_16_16-ap1931nr/omen16_valorant_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/HyperX_Omen_16_16-ap1931nr/omen16_valorant_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/HyperX_Omen_16_16-ap1931nr/omen16_valorant_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/HyperX_Omen_16_16-ap1931nr/omen16_valorant_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/HyperX_Omen_16_16-ap1931nr/omen16_valorant_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/HyperX_Omen_16_16-ap1931nr/omen16_valorant_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/3/csm_omen16_valorant_1_9650c9ad2e.jpg" loading="lazy" alt="HP HyperX Omen 16 review: One of the fastest AMD CPUs for mainstream gamers"></picture><div class="intro_featured_bar_title">HP HyperX Omen 16 review: Ryzen 9 9955HX3D with 115 W graphics</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JIGOO J300 dust mite vacuum in practical test]]></title>
-        <id>link-f1935f35aace3a8ef396219f60addac0</id>
-        <link href="https://www.notebookcheck.net/JIGOO-J300-dust-mite-vacuum-with-dust-mite-sensor-in-practical-test-Beating-roller-UV-light-and-heating-function-tackle-dust-mites.1370438.0.html"/>
-        <updated>2026-08-19T16:30:48.723Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/title1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/f/csm_title1_1fa3eed3fb.jpg" loading="lazy" alt="JIGOO J300 dust mite vacuum with dust mite sensor in practical test: Beating roller, UV light and heating function tackle dust mites"></picture><div class="intro_featured_bar_title">JIGOO J300 dust mite vacuum in practical test</div>]]></content>
     </entry>
 </feed>
