@@ -4,18 +4,32 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-294e45a0fe0bf72635fd4d315c6c1e6a",
+			"title": "RingConn Gen 3 review",
+			"link": "https://www.notebookcheck.net/RingConn-Gen-3-review-The-new-benchmark-without-subscription-fees.1379115.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/RingConn/Gen_3/aPic_RingConn_Gen_3-3694t-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/RingConn/Gen_3/aPic_RingConn_Gen_3-3694t-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/RingConn/Gen_3/aPic_RingConn_Gen_3-3694t-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/RingConn/Gen_3/aPic_RingConn_Gen_3-3694t-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/RingConn/Gen_3/aPic_RingConn_Gen_3-3694t-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/RingConn/Gen_3/aPic_RingConn_Gen_3-3694t-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/7/csm_aPic_RingConn_Gen_3-3694t_16970099a7.jpg\" loading=\"lazy\" alt=\"RingConn Gen 3 review: The new benchmark without subscription fees?\"></picture><div class=\"intro_featured_bar_title\">RingConn Gen 3 review</div>",
+			"retrieved": 1787762870398
+		},
+		{
+			"id": "link-24dc0ce92a13793f6f313d135797f9d1",
+			"title": "HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (A‏d)",
+			"link": "https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png\" loading=\"lazy\" alt=\"HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g\"></picture><div class=\"intro_featured_bar_title\">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class=\"introa_ad_hd\">(A‏d)</span></div>",
+			"retrieved": 1787647275394
+		},
+		{
+			"id": "link-09a9a9d2ab8cf7bbce8ff503312ef84c",
+			"title": "Robotic Lawn Mower for Urban Gardens: Testing the TerraMow Mini 500",
+			"link": "https://www.notebookcheck.net/Small-robotic-lawn-mower-for-urban-gardens-TerraMow-Mini-500-review.1379283.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/TerraMow-Mini-500-Test-Teaser25-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/TerraMow-Mini-500-Test-Teaser25-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/TerraMow-Mini-500-Test-Teaser25-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/TerraMow-Mini-500-Test-Teaser25-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/TerraMow-Mini-500-Test-Teaser25-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/TerraMow-Mini-500-Test-Teaser25-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/4/csm_TerraMow-Mini-500-Test-Teaser25_f5e5b2b474.jpg\" loading=\"lazy\" alt=\"TerraMow Mini 500 Review\"></picture><div class=\"intro_featured_bar_title\">Robotic Lawn Mower for Urban Gardens: Testing the TerraMow Mini 500</div>",
+			"retrieved": 1787762870398
+		},
+		{
 			"id": "link-2a81f6cffb6a33ff195d055dce4bbbc0",
 			"title": "Affordable with a huge battery: Xiaomi 17 Max Review",
 			"link": "https://www.notebookcheck.net/Affordable-Leica-phone-with-a-huge-battery-takes-on-the-top-tier-Xiaomi-17-Max-Smartphone-Review.1379116.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Max/IMG_20260822_082112-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Max/IMG_20260822_082112-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Max/IMG_20260822_082112-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Max/IMG_20260822_082112-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Max/IMG_20260822_082112-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/17_Max/IMG_20260822_082112-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/3/csm_IMG_20260822_082112_0bd40123ce.jpg\" loading=\"lazy\" alt=\"Under Review: Xiaomi 17 Max.\"></picture><div class=\"intro_featured_bar_title\">Affordable with a huge battery: Xiaomi 17 Max Review</div>",
 			"retrieved": 1787733737304
-		},
-		{
-			"id": "link-24dc0ce92a13793f6f313d135797f9d1",
-			"title": "HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g (Adver torial)",
-			"link": "https://www.notebookcheck.net/HUAWEI-MateBook-Pro-S-Sets-New-Ultra-Light-Laptop-Benchmark-at-798g.1367453.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/teaser-image-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/8/csm_teaser-image_31feea9073.png\" loading=\"lazy\" alt=\"HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g\"></picture><div class=\"intro_featured_bar_title\">HUAWEI MateBook Pro S Sets New Ultra-Light Laptop Benchmark at 798g <span class=\"introa_ad_hd\">(Adver torial)</span></div>",
-			"retrieved": 1787647275394
 		},
 		{
 			"id": "link-f00a657d79c8665595ee5e97c1074c6d",
@@ -37,20 +51,6 @@
 			"link": "https://www.notebookcheck.net/Should-you-care-about-Pathtracing-on-Gaming-Laptops-in-2026.1378368.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_105248517-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/c/csm__105248517_bb20cc77cb.jpg\" loading=\"lazy\" alt=\"An Alienware 18 Area 51 Gaming Laptop running Alan Wake II\"></picture><div class=\"intro_featured_bar_title\">▶ Is Path Tracing FINALLY Usable on Laptops? (RTX 5090 &amp; 5060 Test)</div>",
 			"retrieved": 1787683110555
-		},
-		{
-			"id": "link-b21bf57dde42f1c31515a465e72644ae",
-			"title": "AI video generator: I tried out ComfyUI with MiniMax H3",
-			"link": "https://www.notebookcheck.net/ComfyUI-with-MiniMax-H3-Better-than-Kling-AI-Seedance-and-other-video-generators-on-the-free-tier.1378024.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BRIDGE-00194-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/8/csm_BRIDGE-00194_0f51691485.jpg\" loading=\"lazy\" alt=\"ComfyUI with MiniMax H3: Better than Kling AI, Seedance and other video generators on the free tier?\"></picture><div class=\"intro_featured_bar_title\">AI video generator: I tried out ComfyUI with MiniMax H3</div>",
-			"retrieved": 1787675816453
-		},
-		{
-			"id": "link-a358d643762c8c72c3c2d6735bace181",
-			"title": "Vivo X Fold6 Review: Foldable with stamina in its DNA",
-			"link": "https://www.notebookcheck.net/7-000-mAh-meets-200-MP-Vivo-X-Fold6-foldable-review.1375725.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3195-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/f/csm_aPic_Vivo_X_Fold6-3195_f8df5200c4.jpg\" loading=\"lazy\" alt=\"Vivo X Fold6 foldable smartphone review\"></picture><div class=\"intro_featured_bar_title\">Vivo X Fold6 Review: Foldable with stamina in its DNA</div>",
-			"retrieved": 1787647275394
 		}
 	]
 }
