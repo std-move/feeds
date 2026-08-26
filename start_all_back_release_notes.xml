@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.startallback.com/</id>
     <title>StartAllBack release notes</title>
-    <updated>2026-08-26T08:44:28.569Z</updated>
+    <updated>2026-08-26T10:36:41.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.startallback.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 3.9.25 26 Aug 2026]]></title>
+        <id>title-c471792d60bdcc97294393e4fac6fac4</id>
+        <link href="https://www.startallback.com/?link_extraction_failed=true"/>
+        <updated>2026-08-26T10:34:27.632Z</updated>
+        <content type="html"><![CDATA[Version 3.9.25 26 Aug 2026
+				<li>Improved appearance of Explorer dropdowns</li>
+				<li>Fixes for latest Insider builds</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 3.9.24 27 Jul 2026]]></title>
         <id>title-9d100e04f15585882dfc7db5a32b4e8e</id>
