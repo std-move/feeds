@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-2d09f033636c81f8c7462c5f97252a46",
+			"title": "v4.0.126",
+			"contents": "<strong>v4.0.126</strong> (28 August 2026)<br>\n            + Improved speed : +++++  (PRO version)<br>\n            + Improved speed : ++ (Free version)<br>\n            + Improved cleanup : MFT<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + New cleanup : Zen Browser<br>\n            + Improved UI : Darker <br> \n            + Minor bug fixes<br>",
+			"retrieved": 1787940953456
+		},
+		{
 			"id": "title-70ad8947ef6eadadef42d714ad8af479",
 			"title": "v4.0.125",
 			"contents": "<strong>v4.0.125</strong> (30 July 2026)<br>\n            + Improved cleanup : snapshots<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + Minor bug fixes<br>",
@@ -48,7 +54,7 @@
 		{
 			"id": "title-c2c514b66a49fd5b5f7b8268bfffbf73",
 			"title": "v4.0.120.2",
-			"contents": "<strong>v4.0.120.2</strong> (03 April 2026)<br>\n            + Minor bug fixes : Repair (loop)",
+			"contents": "<strong>v4.0.120.2</strong> (03 April 2026)<br>\n            + Minor bug fixes : Repair (endless loop)",
 			"retrieved": 1786692244023
 		},
 		{
@@ -115,12 +121,6 @@
 			"id": "title-602071493d1301727703beb2c8ddb704",
 			"title": "v4.0.112",
 			"contents": "<strong>v4.0.112</strong> (28 September 2025)<br>\n            + New option : Clean + SHUT DOWN the PC (PRO Version)<br>\n             + New cleanup : Brave Nightly<br>\n             + New cleanup : Chrome Canary<br>\n             + New cleanup : Chrome Beta<br>\n             + New cleanup : Chrome Dev<br>\n             + Improved cleanup : Chrome, SRWare Iron (portable version)<br> \n             + Improved UI<br>",
-			"retrieved": 1786692244023
-		},
-		{
-			"id": "title-ed89f454f32415217aa6f51527d74a97",
-			"title": "v4.0.111",
-			"contents": "<strong>v4.0.111</strong> (26 September 2025)<br>\n            + replaced by v4.0.112<br>\n            + Minor bug fixes : \"Close, restart,... when completed\"<br>",
 			"retrieved": 1786692244023
 		}
 	]

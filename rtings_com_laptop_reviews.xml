@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-08-28T09:15:29.294Z</updated>
+    <updated>2026-08-28T18:17:43.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Apple MacBook Air 13 (M5, 2026) Review
+            New]]></title>
+        <id>link-f5c2cd5377533993ffaf95181b5f0b2a</id>
+        <link href="https://www.rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026"/>
+        <updated>2026-08-28T18:15:53.456Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/eqwh6cRg/apple-macbook-air-13-m5-2026/design-small.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">Apple MacBook Air 13 (M5, 2026) Review
+            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
+          </div>
+          <div class="latest_page-preview-date">35 minutes ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HP OmniBook 5 16 (2026) Review
             New]]></title>
@@ -16,21 +30,21 @@
           <div class="latest_page-preview-title t-card-title-link">HP OmniBook 5 16 (2026) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">1 day ago</div>
+          <div class="latest_page-preview-date">2 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple MacBook Air 13 (M5, 2026) Test Results
             Early Access]]></title>
-        <id>link-1868a04e7463a2debed92c8b3846b0c2</id>
-        <link href="https://www.rtings.com/early-access/laptop/reviews/apple/macbook-air-13-m5-2026"/>
-        <updated>2026-08-26T01:16:30.156Z</updated>
+        <id>link-f5c2cd5377533993ffaf95181b5f0b2a</id>
+        <link href="https://www.rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026"/>
+        <updated>2026-08-28T18:15:53.456Z</updated>
         <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/JrtWaRWC/apple-macbook-air-13-m5-2026/in-test-medium.jpg?format=auto" alt="">
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">Apple MacBook Air 13 (M5, 2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">2 days ago</div>
+          <div class="latest_page-preview-date">3 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -156,7 +170,7 @@
           <div class="latest_page-preview-title t-card-title-link">Dell XPS 14 (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">29 days ago</div>
+          <div class="latest_page-preview-date">30 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -547,20 +561,6 @@
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">ASUS Zenbook DUO UX8406 14 (2025) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
-          </div>
-          <div class="latest_page-preview-date">about 1 year ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dell Pro Max 16 (2025) Review
-            New]]></title>
-        <id>link-6713edd51ac81c761ec583675b97d03e</id>
-        <link href="https://www.rtings.com/laptop/reviews/dell/pro-max-16-2025"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/ZSQoVvXF/dell-pro-max-16-2025/design-small.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Dell Pro Max 16 (2025) Review
-            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
           <div class="latest_page-preview-date">about 1 year ago</div>
         </div>]]></content>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-08-28T09:15:29.295Z</updated>
+    <updated>2026-08-28T18:17:43.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.126]]></title>
+        <id>title-2d09f033636c81f8c7462c5f97252a46</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-08-28T18:15:53.456Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.126</strong> (28 August 2026)<br>
+            + Improved speed : +++++  (PRO version)<br>
+            + Improved speed : ++ (Free version)<br>
+            + Improved cleanup : MFT<br>
+            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>
+            + New cleanup : Zen Browser<br>
+            + Improved UI : Darker <br> 
+            + Minor bug fixes<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.125]]></title>
         <id>title-70ad8947ef6eadadef42d714ad8af479</id>
@@ -91,7 +105,7 @@
         <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
         <updated>2026-08-14T07:24:04.023Z</updated>
         <content type="html"><![CDATA[<strong>v4.0.120.2</strong> (03 April 2026)<br>
-            + Minor bug fixes : Repair (loop)]]></content>
+            + Minor bug fixes : Repair (endless loop)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.120.1]]></title>
@@ -230,14 +244,5 @@
              + New cleanup : Chrome Dev<br>
              + Improved cleanup : Chrome, SRWare Iron (portable version)<br> 
              + Improved UI<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.111]]></title>
-        <id>title-ed89f454f32415217aa6f51527d74a97</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-08-14T07:24:04.023Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.111</strong> (26 September 2025)<br>
-            + replaced by v4.0.112<br>
-            + Minor bug fixes : "Close, restart,... when completed"<br>]]></content>
     </entry>
 </feed>

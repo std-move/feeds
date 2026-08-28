@@ -4,31 +4,24 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-fded245057cffc8e12944ae4d9cf9ef1",
-			"title": "ONE Friday Fights 168 — 2026-08-28 07:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/145990-one-friday-fights-168",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145990-one-friday-fights-168\">ONE Friday Fights 168</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-08-28 07:30:00 -0400\">in 2 hours</abbr>\n</td>",
-			"retrieved": 1787316370816
-		},
-		{
 			"id": "link-42419857034eccb4663a7e39392d4dcb",
 			"title": "LFA 240 — 2026-08-28 17:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/145387-lfa-240",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145387-lfa-240\">LFA 240</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-08-28 17:30:00 -0400\">in 12 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145387-lfa-240\">LFA 240</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-08-28 17:30:00 -0400\">in 3 hours</abbr>\n</td>",
 			"retrieved": 1787361128746
 		},
 		{
 			"id": "link-fc286a775208de3406cc7a6d8931fa76",
 			"title": "UFC Fight Night — 2026-08-29 03:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/137846-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137846-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-08-29 03:00:00 -0400\">in 21 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/137846-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-08-29 03:00:00 -0400\">in 12 hours</abbr>\n</td>",
 			"retrieved": 1787437256886
 		},
 		{
 			"id": "link-392c2c4c16476a71b7ef035762613c08",
 			"title": "Itauma vs. Hrgovic — 2026-08-29 10:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/144976-itauma-vs-hrgovic",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144976-itauma-vs-hrgovic\">Itauma vs. Hrgovic</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-08-29 10:00:00 -0400\">in 1 day</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144976-itauma-vs-hrgovic\">Itauma vs. Hrgovic</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-08-29 10:00:00 -0400\">in 19 hours</abbr>\n</td>",
 			"retrieved": 1787437256886
 		},
 		{
@@ -42,7 +35,7 @@
 			"id": "link-90e3e0f32c7fb9c7bf16e9d744aec4d5",
 			"title": "ONE Friday Fights 169 — 2026-09-04 07:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/145988-one-friday-fights-169",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145988-one-friday-fights-169\">ONE Friday Fights 169</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-04 07:30:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145988-one-friday-fights-169\">ONE Friday Fights 169</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-04 07:30:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1787856794721
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/144513-ufc-fight-night",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144513-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-05 12:00:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1787907916971
+		},
+		{
+			"id": "link-5c860682defbf4673e5d6da9df8c91f3",
+			"title": "Taylor vs. Pili — 2026-09-05 10:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/144343-taylor-vs-pili",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144343-taylor-vs-pili\">Taylor vs. Pili</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-05 10:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1787940953456
 		}
 	]
 }
