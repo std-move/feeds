@@ -18,6 +18,13 @@
 			"retrieved": 1787856794721
 		},
 		{
+			"id": "link-34646d3e0e5aa9d48d36e7a828dc2f8e",
+			"title": "CFFC 160 — 2026-09-04 18:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/147129-cffc-160-kostyuchenko-vs-veal",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147129-cffc-160-kostyuchenko-vs-veal\">CFFC 160</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-04 18:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1788035370305
+		},
+		{
 			"id": "link-b42db2db88518109068cb47af962a750",
 			"title": "ONE Fight Night 47 — 2026-09-04 21:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143725-one-fight-night-47",
@@ -39,25 +46,18 @@
 			"retrieved": 1787940953456
 		},
 		{
-			"id": "link-f6933f7b1078b6b28fb9824853beb2d4",
-			"title": "Contender Series 2026 — 2026-09-08 19:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/142724-contender-series-2026-week-5",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142724-contender-series-2026-week-5\">Contender Series 2026</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-08 19:00:00 -0400\">in 1 week</abbr>\n</td>",
-			"retrieved": 1787971452360
+			"id": "link-b8505ee8482a387400763b6ab5cd0fda",
+			"title": "BRAVE CF 108 — 2026-09-05 13:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/146395-brave-cf-108",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146395-brave-cf-108\">BRAVE CF 108</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-05 13:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1788035370305
 		},
 		{
-			"id": "link-7641bd6eec6fb0117221a27892922a3a",
-			"title": "Super RIZIN 5 — 2026-09-09 23:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/142897-super-rizin-5-naniwa-no-chou-fukkatsu-matsuri",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142897-super-rizin-5-naniwa-no-chou-fukkatsu-matsuri\">Super RIZIN 5</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-09 23:00:00 -0400\">in 1 week</abbr>\n</td>",
-			"retrieved": 1788000685560
-		},
-		{
-			"id": "link-66a6a59b88d827851efc7286fa216a47",
-			"title": "ONE Friday Fights 170 — 2026-09-11 07:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/145989-one-friday-fights-170",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145989-one-friday-fights-170\">ONE Friday Fights 170</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-11 07:30:00 -0400\">in 1 week</abbr>\n</td>",
-			"retrieved": 1788020225592
+			"id": "link-2178e5e1577d519d422a39c51a98239e",
+			"title": "Pancrase 365 — 2026-09-06 01:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/145701-pancrase-365",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145701-pancrase-365\">Pancrase 365</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-06 01:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1788035370305
 		}
 	]
 }
