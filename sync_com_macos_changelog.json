@@ -4,6 +4,18 @@
 	"favicon": "https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6",
 	"elements": [
 		{
+			"id": "title-460c2f5ffbe354416c908771e2e17944",
+			"title": "Version 5.0.37 - 08/31/2026",
+			"contents": "<li data-list-item-id=\"e1868dbc49369bb03f4cf8a1ea11d53d9\">Fixed an upload issue that could cause failed uploads to repeatedly retry and re-queue.</li>\n<li data-list-item-id=\"e1318f4f4861d07a0d1990158b634ada4\">Very large file downloads are now resumable, preventing downloads from repeatedly restarting.</li>",
+			"retrieved": 1788202254519
+		},
+		{
+			"id": "title-5c2c01fd4e787f05d1c7548a277070c0",
+			"title": "Version 2.2.62 - 08/31/2026",
+			"contents": "<li data-list-item-id=\"e8db7a29ab6584d5021d059d2acb59fb7\">Fixed several upload issues that could cause repeated retries, failed chunks, or endless re-upload loops.</li>\n<li data-list-item-id=\"efeaba00b915320d0aed5ba1894efa795\">Very large file downloads are now resumable, preventing downloads from repeatedly restarting.</li>\n<li data-list-item-id=\"ef968c17df12f26195be80ad745cef2a5\">Fixed an issue where Selective Sync could incorrectly treat missing local files as deletions when re-enabling a folder.</li>\n<li data-list-item-id=\"e6ef52b54362bb490f72d4c89dbbaa077\">Fixed several cases where syncing or downloads could become permanently stuck on large accounts or after local state errors.</li>\n<li data-list-item-id=\"ecca2ffc76933f4826d09761736ac5495\">Improved automatic recovery from corrupted Windows Sync folder metadata.</li>",
+			"retrieved": 1788202254519
+		},
+		{
 			"id": "title-c14d6f13f285fa820983bec4c34b5645",
 			"title": "Version 5.0.36 - 08/06/2026",
 			"contents": "<li data-list-item-id=\"e32bc129b0adbafa50db8a2bd9ab1443c\">Fixed files that permanently showed \"couldn't be opened\" in Finder; affected files can now recover and open correctly.</li>\n<li data-list-item-id=\"e5c2751675ed7d0438ec187d35bcd4a9c\">Fixed excessive background activity caused by the app repeatedly retrying items that could not be fetched.</li>\n<li data-list-item-id=\"eff495b6c7d78623eec3142e1645aa476\">Fixed uploads stalling when a very large number of files were waiting to upload.</li>\n<li data-list-item-id=\"e5d0649e5761d57a39e2797bc085da75a\">Fixed several sync issues that could cause deleted files to reappear or items to remain stuck.</li>\n<li data-list-item-id=\"e515703cd51b9acf03cc7db1aea3e3f7d\">Improved sync reliability and performance on accounts with very large numbers of files.</li>\n<li data-list-item-id=\"e2cc28a47832ab77c40d89357d29091b2\">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>",

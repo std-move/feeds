@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com Windows changelog</title>
-    <updated>2026-08-31T10:47:55.795Z</updated>
+    <updated>2026-08-31T18:52:44.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.37 - 08/31/2026]]></title>
+        <id>title-460c2f5ffbe354416c908771e2e17944</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-08-31T18:50:54.519Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="eadfe9c444ec6990ea8eb212371332ee4">Fixed several upload issues that could cause repeated retries, failed chunks, or endless re-upload loops.</li>
+<li data-list-item-id="ed107f3e38d0e11332ea09900c9876164">Very large file downloads are now resumable, preventing downloads from repeatedly restarting.</li>
+<li data-list-item-id="e4877b6f3ee964be4e16d956530b71466">Fixed an issue where Selective Sync could incorrectly treat missing local files as deletions when re-enabling a folder.</li>
+<li data-list-item-id="eafc520adb14eb2bc528ab8187da45039">Fixed several cases where syncing or downloads could become permanently stuck on large accounts or after local state errors.</li>
+<li data-list-item-id="eea3c51895af555f693c791574462d086">Improved automatic recovery from corrupted Windows Sync folder metadata.</li>
+<li data-list-item-id="ee6eff1b0c228803bc2f927435ca3c40f">Fixed a CloudFiles cache issue that could block file operations.</li>
+<li data-list-item-id="e90aaeade04e3c73146fc7e675b998d04">Fixed files becoming permanently excluded after low-memory download failures, including recovery for previously affected files.</li>
+<li data-list-item-id="ec3ad610ec66c67e92f1068435e7648ff">Improved handling of filename encoding conflicts to prevent duplicate files or folders.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.62 - 08/31/2026]]></title>
+        <id>title-5c2c01fd4e787f05d1c7548a277070c0</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-08-31T18:50:54.519Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e327a1d0f82660fa6baf8c438093bda13">Fixed several upload issues that could cause repeated retries, failed chunks, or endless re-upload loops.</li>
+<li data-list-item-id="e9306a46c53e3998a8660a20dff012b7a">Very large file downloads are now resumable, preventing downloads from repeatedly restarting.</li>
+<li data-list-item-id="e6b90d739ca75025b5e6b30072eabfd5a">Fixed an issue where Selective Sync could incorrectly treat missing local files as deletions when re-enabling a folder.</li>
+<li data-list-item-id="e545380231e4068de6d64fc79c9e54f9e">Fixed several cases where syncing or downloads could become permanently stuck on large accounts or after local state errors.</li>
+<li data-list-item-id="e4d7af9474cd482b003a60d5289eb03d2">Improved automatic recovery from corrupted Windows Sync folder metadata.</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.36 - 08/06/2026]]></title>
         <id>title-c14d6f13f285fa820983bec4c34b5645</id>

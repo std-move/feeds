@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com macOS changelog</title>
-    <updated>2026-08-31T10:47:55.796Z</updated>
+    <updated>2026-08-31T18:52:44.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.37 - 08/31/2026]]></title>
+        <id>title-460c2f5ffbe354416c908771e2e17944</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-08-31T18:50:54.519Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e1868dbc49369bb03f4cf8a1ea11d53d9">Fixed an upload issue that could cause failed uploads to repeatedly retry and re-queue.</li>
+<li data-list-item-id="e1318f4f4861d07a0d1990158b634ada4">Very large file downloads are now resumable, preventing downloads from repeatedly restarting.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.62 - 08/31/2026]]></title>
+        <id>title-5c2c01fd4e787f05d1c7548a277070c0</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-08-31T18:50:54.519Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e8db7a29ab6584d5021d059d2acb59fb7">Fixed several upload issues that could cause repeated retries, failed chunks, or endless re-upload loops.</li>
+<li data-list-item-id="efeaba00b915320d0aed5ba1894efa795">Very large file downloads are now resumable, preventing downloads from repeatedly restarting.</li>
+<li data-list-item-id="ef968c17df12f26195be80ad745cef2a5">Fixed an issue where Selective Sync could incorrectly treat missing local files as deletions when re-enabling a folder.</li>
+<li data-list-item-id="e6ef52b54362bb490f72d4c89dbbaa077">Fixed several cases where syncing or downloads could become permanently stuck on large accounts or after local state errors.</li>
+<li data-list-item-id="ecca2ffc76933f4826d09761736ac5495">Improved automatic recovery from corrupted Windows Sync folder metadata.</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.36 - 08/06/2026]]></title>
         <id>title-c14d6f13f285fa820983bec4c34b5645</id>
