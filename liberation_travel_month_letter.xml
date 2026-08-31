@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liberation.travel/liberation-travel-hacks-month-letter/</id>
     <title>Liberation Travel Month-letter</title>
-    <updated>2026-08-31T18:52:44.856Z</updated>
+    <updated>2026-08-31T23:40:39.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://liberation.travel/wp-content/uploads/2023/10/cropped-thumbnail-150x150.png</icon>
     <entry>
@@ -13,25 +13,11 @@
         <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">August 13, 2026</span><a href="https://liberation.travel/?na=view&amp;id=75" target="_blank">Liberation Travel Hacks 08/2026 (EN)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 08/2026 (CZSK)]]></title>
-        <id>link-692c0a23a6ec7ddf86c297c2f21dbb2e</id>
-        <link href="https://liberation.travel/?na=view&amp;id=74"/>
-        <updated>2026-08-13T13:09:14.637Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">August 13, 2026</span><a href="https://liberation.travel/?na=view&amp;id=74" target="_blank">Liberation Travel Hacks 08/2026 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Liberation Travel Hacks 07/2026 (EN): In the future, freedom belongs to invisible nomads]]></title>
         <id>link-27290837ad14ba402d1f880790166725</id>
         <link href="https://liberation.travel/?na=view&amp;id=73"/>
         <updated>2026-07-02T14:00:30.329Z</updated>
         <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">July 2, 2026</span><a href="https://liberation.travel/?na=view&amp;id=73" target="_blank">Liberation Travel Hacks 07/2026 (EN): In the future, freedom belongs to invisible nomads</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 07/2026 (CZSK): Sloboda v budúcnosti patrí neviditeľným nomádom]]></title>
-        <id>link-e852a9f6265fd42ad4224c162bba3077</id>
-        <link href="https://liberation.travel/?na=view&amp;id=72"/>
-        <updated>2026-07-02T14:00:30.329Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">July 2, 2026</span><a href="https://liberation.travel/?na=view&amp;id=72" target="_blank">Liberation Travel Hacks 07/2026 (CZSK): Sloboda v budúcnosti patrí neviditeľným nomádom</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Liberation Travel Hacks 06/2026 (EN)]]></title>
@@ -41,13 +27,6 @@
         <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 17, 2026</span><a href="https://liberation.travel/?na=view&amp;id=69" target="_blank">Liberation Travel Hacks 06/2026 (EN)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 06/2026 (CZSK)]]></title>
-        <id>link-f9af93e2329157e72908cfc13d7c89c9</id>
-        <link href="https://liberation.travel/?na=view&amp;id=68"/>
-        <updated>2026-06-17T18:21:09.953Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 17, 2026</span><a href="https://liberation.travel/?na=view&amp;id=68" target="_blank">Liberation Travel Hacks 06/2026 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Liberation Travel Hacks 05/2026 (EN)]]></title>
         <id>link-962d1ca6465ba9d21f3b0e893936025a</id>
         <link href="https://liberation.travel/?na=view&amp;id=67"/>
@@ -55,402 +34,31 @@
         <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">May 3, 2026</span><a href="https://liberation.travel/?na=view&amp;id=67" target="_blank">Liberation Travel Hacks 05/2026 (EN)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Liberation Travel Hacks 08/2026 (CZSK)]]></title>
+        <id>link-692c0a23a6ec7ddf86c297c2f21dbb2e</id>
+        <link href="https://liberation.travel/?na=view&amp;id=74"/>
+        <updated>2026-08-13T13:09:14.637Z</updated>
+        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">August 13, 2026</span><a href="https://liberation.travel/?na=view&amp;id=74" target="_blank">Liberation Travel Hacks 08/2026 (CZSK)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liberation Travel Hacks 07/2026 (CZSK): Sloboda v budúcnosti patrí neviditeľným nomádom]]></title>
+        <id>link-e852a9f6265fd42ad4224c162bba3077</id>
+        <link href="https://liberation.travel/?na=view&amp;id=72"/>
+        <updated>2026-07-02T14:00:30.329Z</updated>
+        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">July 2, 2026</span><a href="https://liberation.travel/?na=view&amp;id=72" target="_blank">Liberation Travel Hacks 07/2026 (CZSK): Sloboda v budúcnosti patrí neviditeľným nomádom</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liberation Travel Hacks 06/2026 (CZSK)]]></title>
+        <id>link-f9af93e2329157e72908cfc13d7c89c9</id>
+        <link href="https://liberation.travel/?na=view&amp;id=68"/>
+        <updated>2026-06-17T18:21:09.953Z</updated>
+        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 17, 2026</span><a href="https://liberation.travel/?na=view&amp;id=68" target="_blank">Liberation Travel Hacks 06/2026 (CZSK)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Liberation Travel Hacks 05/2026 (CZSK)]]></title>
         <id>link-46ee1d17a66406a6bd2c9a176eddc081</id>
         <link href="https://liberation.travel/?na=view&amp;id=66"/>
         <updated>2026-06-08T10:55:12.984Z</updated>
         <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">May 3, 2026</span><a href="https://liberation.travel/?na=view&amp;id=66" target="_blank">Liberation Travel Hacks 05/2026 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 04/2026 (EN)]]></title>
-        <id>link-41583120c3e8cc053aeb1860ab8930a2</id>
-        <link href="https://liberation.travel/?na=view&amp;id=59"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">April 14, 2026</span><a href="https://liberation.travel/?na=view&amp;id=59" target="_blank">Liberation Travel Hacks 04/2026 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 04/2026 (CZSK)]]></title>
-        <id>link-840e534269ae3d61b57c63caeb5c16b1</id>
-        <link href="https://liberation.travel/?na=view&amp;id=57"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">April 14, 2026</span><a href="https://liberation.travel/?na=view&amp;id=57" target="_blank">Liberation Travel Hacks 04/2026 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 03/2026 (CZSK)]]></title>
-        <id>link-62fe39ff4c5c8642b207a50f137912e4</id>
-        <link href="https://liberation.travel/?na=view&amp;id=55"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">March 27, 2026</span><a href="https://liberation.travel/?na=view&amp;id=55" target="_blank">Liberation Travel Hacks 03/2026 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 03/2026 (EN)]]></title>
-        <id>link-952a0109659564da9151a4db7fef97dc</id>
-        <link href="https://liberation.travel/?na=view&amp;id=54"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">March 27, 2026</span><a href="https://liberation.travel/?na=view&amp;id=54" target="_blank">Liberation Travel Hacks 03/2026 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 02/2026 (CZSK)]]></title>
-        <id>link-eb362de28eeca7249a9a7770eae90f8e</id>
-        <link href="https://liberation.travel/?na=view&amp;id=53"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">February 5, 2026</span><a href="https://liberation.travel/?na=view&amp;id=53" target="_blank">Liberation Travel Hacks 02/2026 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 02/2026 (EN)]]></title>
-        <id>link-54e59b2195e5d0c6acc89f2397e519e0</id>
-        <link href="https://liberation.travel/?na=view&amp;id=52"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">February 5, 2026</span><a href="https://liberation.travel/?na=view&amp;id=52" target="_blank">Liberation Travel Hacks 02/2026 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 01/2026 (EN)]]></title>
-        <id>link-9cc0a04ecd026d1dfc561118703fd711</id>
-        <link href="https://liberation.travel/?na=view&amp;id=51"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">January 12, 2026</span><a href="https://liberation.travel/?na=view&amp;id=51" target="_blank">Liberation Travel Hacks 01/2026 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 01/2026 (CZSK)]]></title>
-        <id>link-2d77a1c49f30990475b05365260f2056</id>
-        <link href="https://liberation.travel/?na=view&amp;id=50"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">January 12, 2026</span><a href="https://liberation.travel/?na=view&amp;id=50" target="_blank">Liberation Travel Hacks 01/2026 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 12/2025 (EN)]]></title>
-        <id>link-6d5918f38f8a2cbd054972943354f87d</id>
-        <link href="https://liberation.travel/?na=view&amp;id=49"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">December 8, 2025</span><a href="https://liberation.travel/?na=view&amp;id=49" target="_blank">Liberation Travel Hacks 12/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 12/2025 (CZSK)]]></title>
-        <id>link-bd7d245d8797cd6bd83e5ea94fa79715</id>
-        <link href="https://liberation.travel/?na=view&amp;id=48"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">December 8, 2025</span><a href="https://liberation.travel/?na=view&amp;id=48" target="_blank">Liberation Travel Hacks 12/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 11/2025 (EN)]]></title>
-        <id>link-22ef6bc68c33947de868882801302d53</id>
-        <link href="https://liberation.travel/?na=view&amp;id=47"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">November 2, 2025</span><a href="https://liberation.travel/?na=view&amp;id=47" target="_blank">Liberation Travel Hacks 11/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 11/2025 (CZSK)]]></title>
-        <id>link-81751b928554e5bf38e49e4d9c115443</id>
-        <link href="https://liberation.travel/?na=view&amp;id=46"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">November 2, 2025</span><a href="https://liberation.travel/?na=view&amp;id=46" target="_blank">Liberation Travel Hacks 11/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 10/2025 (EN)]]></title>
-        <id>link-0d58030e3a2ac1c13c48c3d6b7cafc9d</id>
-        <link href="https://liberation.travel/?na=view&amp;id=45"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">October 20, 2025</span><a href="https://liberation.travel/?na=view&amp;id=45" target="_blank">Liberation Travel Hacks 10/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 10/2025 (CZSK)]]></title>
-        <id>link-e24acf5aee0b36ac2055ddbe44d54d76</id>
-        <link href="https://liberation.travel/?na=view&amp;id=44"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">October 20, 2025</span><a href="https://liberation.travel/?na=view&amp;id=44" target="_blank">Liberation Travel Hacks 10/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 09/2025 (EN)]]></title>
-        <id>link-834ca61d4b9633bb7bd296d5dc943904</id>
-        <link href="https://liberation.travel/?na=view&amp;id=43"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">September 17, 2025</span><a href="https://liberation.travel/?na=view&amp;id=43" target="_blank">Liberation Travel Hacks 09/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 09/2025 (CZSK)]]></title>
-        <id>link-30a391c3bbb76a310e43cf905d960442</id>
-        <link href="https://liberation.travel/?na=view&amp;id=42"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">September 17, 2025</span><a href="https://liberation.travel/?na=view&amp;id=42" target="_blank">Liberation Travel Hacks 09/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 08/2025 (EN)]]></title>
-        <id>link-872226e83f80e94c8c883f63df75df15</id>
-        <link href="https://liberation.travel/?na=view&amp;id=41"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">August 5, 2025</span><a href="https://liberation.travel/?na=view&amp;id=41" target="_blank">Liberation Travel Hacks 08/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 08/2025 (CZSK)]]></title>
-        <id>link-357ff41d9b4f0445d125e5c1fd86c352</id>
-        <link href="https://liberation.travel/?na=view&amp;id=40"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">August 5, 2025</span><a href="https://liberation.travel/?na=view&amp;id=40" target="_blank">Liberation Travel Hacks 08/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 07/2025 (CZSK)]]></title>
-        <id>link-ec2c4e42d7165067bdb9d17573c4dfa2</id>
-        <link href="https://liberation.travel/?na=view&amp;id=39"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">July 9, 2025</span><a href="https://liberation.travel/?na=view&amp;id=39" target="_blank">Liberation Travel Hacks 07/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 07/2025 (EN)]]></title>
-        <id>link-2b05515ebba6dcf3f4863e9b76f658cb</id>
-        <link href="https://liberation.travel/?na=view&amp;id=38"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">July 9, 2025</span><a href="https://liberation.travel/?na=view&amp;id=38" target="_blank">Liberation Travel Hacks 07/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 06/2025 (EN)]]></title>
-        <id>link-da5e4a4138bd050a5fd045474ed19faa</id>
-        <link href="https://liberation.travel/?na=view&amp;id=37"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 3, 2025</span><a href="https://liberation.travel/?na=view&amp;id=37" target="_blank">Liberation Travel Hacks 06/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 06/2025 (CZSK)]]></title>
-        <id>link-609bb3d69bfd9b6d29f73ca183ed3054</id>
-        <link href="https://liberation.travel/?na=view&amp;id=36"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 3, 2025</span><a href="https://liberation.travel/?na=view&amp;id=36" target="_blank">Liberation Travel Hacks 06/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 05/2025 (EN)]]></title>
-        <id>link-d2633dee86f67aee0614236080b518ac</id>
-        <link href="https://liberation.travel/?na=view&amp;id=35"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">May 13, 2025</span><a href="https://liberation.travel/?na=view&amp;id=35" target="_blank">Liberation Travel Hacks 05/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 05/2025 (CZSK)]]></title>
-        <id>link-d0c1729d8530165d382c64939e31540c</id>
-        <link href="https://liberation.travel/?na=view&amp;id=34"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">May 13, 2025</span><a href="https://liberation.travel/?na=view&amp;id=34" target="_blank">Liberation Travel Hacks 05/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 04/2025 (CZSK)]]></title>
-        <id>link-5696832b92a762a5c39757705984b8fc</id>
-        <link href="https://liberation.travel/?na=view&amp;id=33"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">April 3, 2025</span><a href="https://liberation.travel/?na=view&amp;id=33" target="_blank">Liberation Travel Hacks 04/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 04/2025 (EN)]]></title>
-        <id>link-a2835a40f09a6ad9b33542bb8092ee94</id>
-        <link href="https://liberation.travel/?na=view&amp;id=32"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">April 3, 2025</span><a href="https://liberation.travel/?na=view&amp;id=32" target="_blank">Liberation Travel Hacks 04/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 03/2025 (CZSK)]]></title>
-        <id>link-a5d3a5d1d3ca3ced3ef33e053d69e48f</id>
-        <link href="https://liberation.travel/?na=view&amp;id=31"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">March 5, 2025</span><a href="https://liberation.travel/?na=view&amp;id=31" target="_blank">Liberation Travel Hacks 03/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 03/2025 (EN)]]></title>
-        <id>link-c7f9431eeedc6c2044930e283027754c</id>
-        <link href="https://liberation.travel/?na=view&amp;id=30"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">March 5, 2025</span><a href="https://liberation.travel/?na=view&amp;id=30" target="_blank">Liberation Travel Hacks 03/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 02/2025 (CZSK)]]></title>
-        <id>link-9aa849a25b422eaa20cd9f0507d85bd0</id>
-        <link href="https://liberation.travel/?na=view&amp;id=29"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">February 4, 2025</span><a href="https://liberation.travel/?na=view&amp;id=29" target="_blank">Liberation Travel Hacks 02/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 02/2025 (EN)]]></title>
-        <id>link-3671da484bcdf5be045a7ce1b55039d8</id>
-        <link href="https://liberation.travel/?na=view&amp;id=28"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">February 4, 2025</span><a href="https://liberation.travel/?na=view&amp;id=28" target="_blank">Liberation Travel Hacks 02/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 01/2025 (EN)]]></title>
-        <id>link-2e9e895e1e3eee9796643534db518d8d</id>
-        <link href="https://liberation.travel/?na=view&amp;id=27"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">January 14, 2025</span><a href="https://liberation.travel/?na=view&amp;id=27" target="_blank">Liberation Travel Hacks 01/2025 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 01/2025 (CZSK)]]></title>
-        <id>link-666af678e271eed519efb9929c015ac4</id>
-        <link href="https://liberation.travel/?na=view&amp;id=26"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">January 14, 2025</span><a href="https://liberation.travel/?na=view&amp;id=26" target="_blank">Liberation Travel Hacks 01/2025 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 12/2024 (EN)]]></title>
-        <id>link-0aef26f1e8a48c149bc6e8c30623ae9c</id>
-        <link href="https://liberation.travel/?na=view&amp;id=25"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">December 7, 2024</span><a href="https://liberation.travel/?na=view&amp;id=25" target="_blank">Liberation Travel Hacks 12/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 12/2024 (CZSK)]]></title>
-        <id>link-e38a284d8ee911fb30dc0f5e9e4dfe1d</id>
-        <link href="https://liberation.travel/?na=view&amp;id=24"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">December 7, 2024</span><a href="https://liberation.travel/?na=view&amp;id=24" target="_blank">Liberation Travel Hacks 12/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 11/2024 (CZSK)]]></title>
-        <id>link-d56f33a279dc55e8c57f430e70d0a1f7</id>
-        <link href="https://liberation.travel/?na=view&amp;id=23"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">November 4, 2024</span><a href="https://liberation.travel/?na=view&amp;id=23" target="_blank">Liberation Travel Hacks 11/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 11/2024 (EN)]]></title>
-        <id>link-032d740beb8e1d592f915850c62f13b6</id>
-        <link href="https://liberation.travel/?na=view&amp;id=22"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">November 4, 2024</span><a href="https://liberation.travel/?na=view&amp;id=22" target="_blank">Liberation Travel Hacks 11/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 10/2024 (EN)]]></title>
-        <id>link-ca294494c2c1666060945bd3a2360d5a</id>
-        <link href="https://liberation.travel/?na=view&amp;id=21"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">October 15, 2024</span><a href="https://liberation.travel/?na=view&amp;id=21" target="_blank">Liberation Travel Hacks 10/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 10/2024 (CZSK)]]></title>
-        <id>link-fbb6c23e891ee87e4ebb6b96bac79edd</id>
-        <link href="https://liberation.travel/?na=view&amp;id=20"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">October 15, 2024</span><a href="https://liberation.travel/?na=view&amp;id=20" target="_blank">Liberation Travel Hacks 10/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 09/2024 (EN)]]></title>
-        <id>link-0e50b10a865d3c0db9ca3e3b92e41fb3</id>
-        <link href="https://liberation.travel/?na=view&amp;id=19"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">September 10, 2024</span><a href="https://liberation.travel/?na=view&amp;id=19" target="_blank">Liberation Travel Hacks 09/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 09/2024 (CZSK)]]></title>
-        <id>link-7cb8ec691e1d29fd7052e5b498c3ee7d</id>
-        <link href="https://liberation.travel/?na=view&amp;id=18"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">September 10, 2024</span><a href="https://liberation.travel/?na=view&amp;id=18" target="_blank">Liberation Travel Hacks 09/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 08/2024 (CZSK)]]></title>
-        <id>link-ac16f6f2b416b51d7cfa8c0409132fcf</id>
-        <link href="https://liberation.travel/?na=view&amp;id=17"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">August 5, 2024</span><a href="https://liberation.travel/?na=view&amp;id=17" target="_blank">Liberation Travel Hacks 08/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 08/2024 (EN)]]></title>
-        <id>link-ca2d40b722f46d08429dee5c9de3f0f4</id>
-        <link href="https://liberation.travel/?na=view&amp;id=16"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">August 5, 2024</span><a href="https://liberation.travel/?na=view&amp;id=16" target="_blank">Liberation Travel Hacks 08/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 07/2024 (CZSK)]]></title>
-        <id>link-c39b3fa959a5ee67d4cf49829f3730bc</id>
-        <link href="https://liberation.travel/?na=view&amp;id=15"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">July 6, 2024</span><a href="https://liberation.travel/?na=view&amp;id=15" target="_blank">Liberation Travel Hacks 07/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 07/2024 (EN)]]></title>
-        <id>link-e36371923faba571675f8a003e78b864</id>
-        <link href="https://liberation.travel/?na=view&amp;id=14"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">July 6, 2024</span><a href="https://liberation.travel/?na=view&amp;id=14" target="_blank">Liberation Travel Hacks 07/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 06/2024 (CZSK)]]></title>
-        <id>link-cd0fe19a78921b1b718096a582a4093f</id>
-        <link href="https://liberation.travel/?na=view&amp;id=13"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 6, 2024</span><a href="https://liberation.travel/?na=view&amp;id=13" target="_blank">Liberation Travel Hacks 06/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 06/2024 (EN)]]></title>
-        <id>link-81555a41f75fd86b3dca19c9672a9a7a</id>
-        <link href="https://liberation.travel/?na=view&amp;id=12"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">June 6, 2024</span><a href="https://liberation.travel/?na=view&amp;id=12" target="_blank">Liberation Travel Hacks 06/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 05/2024 (EN)]]></title>
-        <id>link-b34b61b795e379437dcd65714cc4ae99</id>
-        <link href="https://liberation.travel/?na=view&amp;id=11"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">May 8, 2024</span><a href="https://liberation.travel/?na=view&amp;id=11" target="_blank">Liberation Travel Hacks 05/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 05/2024 (CZSK)]]></title>
-        <id>link-91f877d8b2be1e4e669091e490217096</id>
-        <link href="https://liberation.travel/?na=view&amp;id=10"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">May 8, 2024</span><a href="https://liberation.travel/?na=view&amp;id=10" target="_blank">Liberation Travel Hacks 05/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 04/2024 (EN)]]></title>
-        <id>link-c11a63573be489ec5c1b7f9d833c6802</id>
-        <link href="https://liberation.travel/?na=view&amp;id=9"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">April 7, 2024</span><a href="https://liberation.travel/?na=view&amp;id=9" target="_blank">Liberation Travel Hacks 04/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 04/2024 (CZSK)]]></title>
-        <id>link-199679289b55201e5f025b12fcd8a9f8</id>
-        <link href="https://liberation.travel/?na=view&amp;id=8"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">April 7, 2024</span><a href="https://liberation.travel/?na=view&amp;id=8" target="_blank">Liberation Travel Hacks 04/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 03/2024 (EN)]]></title>
-        <id>link-42f373ca3c9173d498488ce7a3bd912b</id>
-        <link href="https://liberation.travel/?na=view&amp;id=7"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">March 6, 2024</span><a href="https://liberation.travel/?na=view&amp;id=7" target="_blank">Liberation Travel Hacks 03/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 03/2024 (CZSK)]]></title>
-        <id>link-46f6740244efc54e1b7eed6f935b0d1b</id>
-        <link href="https://liberation.travel/?na=view&amp;id=6"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">March 6, 2024</span><a href="https://liberation.travel/?na=view&amp;id=6" target="_blank">Liberation Travel Hacks 03/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 02/2024 (EN)]]></title>
-        <id>link-03abe829995b6d91918e2df1993fea9a</id>
-        <link href="https://liberation.travel/?na=view&amp;id=5"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">February 6, 2024</span><a href="https://liberation.travel/?na=view&amp;id=5" target="_blank">Liberation Travel Hacks 02/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 02/2024 (CZSK)]]></title>
-        <id>link-a5c07ea9fdee15abd996f0720cd8463b</id>
-        <link href="https://liberation.travel/?na=view&amp;id=4"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">February 6, 2024</span><a href="https://liberation.travel/?na=view&amp;id=4" target="_blank">Liberation Travel Hacks 02/2024 (CZSK)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 01/2024 (EN)]]></title>
-        <id>link-b3f86af851fa8f02a5eda504cd57494a</id>
-        <link href="https://liberation.travel/?na=view&amp;id=3"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">January 3, 2024</span><a href="https://liberation.travel/?na=view&amp;id=3" target="_blank">Liberation Travel Hacks 01/2024 (EN)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberation Travel Hacks 01/2024 (CZSK)]]></title>
-        <id>link-092ce27f7126bc233676348534714c7a</id>
-        <link href="https://liberation.travel/?na=view&amp;id=2"/>
-        <updated>2026-06-08T10:55:12.984Z</updated>
-        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">January 3, 2024</span><a href="https://liberation.travel/?na=view&amp;id=2" target="_blank">Liberation Travel Hacks 01/2024 (CZSK)</a>]]></content>
     </entry>
 </feed>
