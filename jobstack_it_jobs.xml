@@ -2,37 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-09-01T09:14:30.516Z</updated>
+    <updated>2026-09-01T14:35:14.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
     <entry>
-        <title type="html"><![CDATA[.NET vývojář – vývoj aplikací pro řízení špičkových technologií — až 130 000 Kč / měsíc]]></title>
-        <id>link-0f20663ec3ae393343cb9041006f778a</id>
-        <link href="https://www.jobstack.it/it-job/dot-net-developer/69b02d07dcedd"/>
+        <title type="html"><![CDATA[Full-stack Developer (Next.js/Node.js/GraphQL) pro Realingo — až 120 000 Kč / měsíc]]></title>
+        <id>link-80eabbcb1be9ad93b114eebf91c81e9c</id>
+        <link href="https://www.jobstack.it/it-job/full-stack-developer/6949120dcd3a8"/>
         <updated>2026-07-13T17:54:52.417Z</updated>
         <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">.NET developer</span>
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Full stack developer</span>
 				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
 																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
 											</div>
 			
 							<div class="jobposts-item_labels">
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
 																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
 									</div>
 						<div class="jobposts-item_labels">
 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>radixal s.r.o.</span>
+						<span>Hyponamíru</span>
 					</span>
 													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
 						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>hybrid Brno</span>
+						<span>Brno</span>
 					</span>
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
-						<span><b>až 130 000 Kč / měsíc</b></span>
+						<span><b>až 120 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -65,36 +64,6 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 70 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior IT analytik | Enterprise Architect | Hybridní režim | až 9 000 Kč/MD — až 185 000 Kč / měsíc]]></title>
-        <id>link-e615cdf5c6870393ffda2e4485ac4939</id>
-        <link href="https://www.jobstack.it/it-job/analytik/6a953f3231ce7"/>
-        <updated>2026-08-31T10:45:54.960Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Analytik</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
-									</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Apsaz Consulting a.s.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha 5 (HO 2-3 dny týdně)</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 185 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
@@ -160,6 +129,67 @@
 							</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[.NET vývojář – vývoj aplikací pro řízení špičkových technologií — až 130 000 Kč / měsíc]]></title>
+        <id>link-0f20663ec3ae393343cb9041006f778a</id>
+        <link href="https://www.jobstack.it/it-job/dot-net-developer/69b02d07dcedd"/>
+        <updated>2026-07-13T17:54:52.417Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">.NET developer</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
+									</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>radixal s.r.o.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>hybrid Brno</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 130 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior IT analytik | Enterprise Architect | Hybridní režim | až 9 000 Kč/MD — až 185 000 Kč / měsíc]]></title>
+        <id>link-e615cdf5c6870393ffda2e4485ac4939</id>
+        <link href="https://www.jobstack.it/it-job/analytik/6a953f3231ce7"/>
+        <updated>2026-08-31T10:45:54.960Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Analytik</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
+									</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>Apsaz Consulting a.s.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha 5 (HO 2-3 dny týdně)</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 185 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Business Development & Account Manager | FULL REMOTE — až 150 000 Kč / měsíc]]></title>
         <id>link-990b6c7c95087981733c5aae2cc4288e</id>
         <link href="https://www.jobstack.it/it-job/obchodnik-it/6a8ff1a712dc6"/>
@@ -188,36 +218,6 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 150 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full-stack Developer (Next.js/Node.js/GraphQL) pro Realingo — až 120 000 Kč / měsíc]]></title>
-        <id>link-80eabbcb1be9ad93b114eebf91c81e9c</id>
-        <link href="https://www.jobstack.it/it-job/full-stack-developer/6949120dcd3a8"/>
-        <updated>2026-07-13T17:54:52.417Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Full stack developer</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																					<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Expert</span>
-									</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Hyponamíru</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Brno</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 120 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>
