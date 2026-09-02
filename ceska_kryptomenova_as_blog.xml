@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-09-01T22:26:57.712Z</updated>
+    <updated>2026-09-02T03:11:14.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ckma.cz/cdn-b35i0/images/favicon.png</icon>
     <entry>
@@ -93,7 +93,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/blog/ceska-republika-evropskym-kryptomenovym-hubem"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/ceska-republika-evropskym-kryptomenovym-hubem" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-3038967019/pages/images/596x398crop/vm-cr-kryptomenovym-hubem-evropy.webp 2x, /res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" data-src="/res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
+    <div class="ArticleLink-image w-100"><img src="/res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" width="298" height="199" alt="" srcset="/res/crc-3038967019/pages/images/596x398crop/vm-cr-kryptomenovym-hubem-evropy.webp 2x, /res/crc-625737607/pages/images/298x199crop/vm-cr-kryptomenovym-hubem-evropy.webp" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">10.12.2024</div>
@@ -113,7 +113,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/kryptomenovy-legislativni-balicek-podzim-2024"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/kryptomenovy-legislativni-balicek-podzim-2024" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-2913777513/pages/images/596x398crop/141821-rt-img-0220.jpg 2x, /res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" data-src="/res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" title="Akce na podporu legislativního balíčku podzim 24" alt="Akce na podporu legislativního balíčku podzim 24"></div>
+    <div class="ArticleLink-image w-100"><img src="/res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" width="298" height="199" title="Akce na podporu legislativního balíčku podzim 24" alt="Akce na podporu legislativního balíčku podzim 24" srcset="/res/crc-2913777513/pages/images/596x398crop/141821-rt-img-0220.jpg 2x, /res/crc-2165053581/pages/images/298x199crop/141821-rt-img-0220.jpg" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">9.12.2024</div>
@@ -134,7 +134,7 @@ S takto širokou politickou podporou se Česká republika právem stává evrops
         <link href="https://www.ckma.cz/cs/blog/pripomen-se-svemu-poslanci"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/pripomen-se-svemu-poslanci" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-4212209115/pages/images/596x398crop/hw-img-3228.jpg 2x, /res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" data-src="/res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
+    <div class="ArticleLink-image w-100"><img src="/res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" width="298" height="199" alt="" srcset="/res/crc-4212209115/pages/images/596x398crop/hw-img-3228.jpg 2x, /res/crc-475585595/pages/images/298x199crop/hw-img-3228.jpg" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">12.11.2024</div>

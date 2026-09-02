@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-09-01T22:26:57.706Z</updated>
+    <updated>2026-09-02T03:11:14.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Contender Series 2026 — 2026-09-01 19:00:00 -0400]]></title>
-        <id>link-b3ddc8b3438ae7be98d6b3353ba84457</id>
-        <link href="https://www.tapology.com/fightcenter/events/142723-contender-series-2026-week-4"/>
-        <updated>2026-08-24T16:36:50.020Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142723-contender-series-2026-week-4">Contender Series 2026</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-01 19:00:00 -0400">in 34 minutes</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ONE Friday Fights 169 — 2026-09-04 07:30:00 -0400]]></title>
         <id>link-90e3e0f32c7fb9c7bf16e9d744aec4d5</id>
@@ -50,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143725-one-fight-night-47">ONE Fight Night 47</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-04 21:00:00 -0400">in 3 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-04 21:00:00 -0400">in 2 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-09-06 01:00:00 -0400">in 4 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contender Series 2026 — 2026-09-08 19:00:00 -0400]]></title>
+        <id>link-f6933f7b1078b6b28fb9824853beb2d4</id>
+        <link href="https://www.tapology.com/fightcenter/events/142724-contender-series-2026-week-5"/>
+        <updated>2026-09-02T03:09:23.966Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142724-contender-series-2026-week-5">Contender Series 2026</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-09-08 19:00:00 -0400">in 6 days</abbr>
 </td>]]></content>
     </entry>
 </feed>
