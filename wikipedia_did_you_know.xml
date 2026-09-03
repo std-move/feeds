@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-09-03T19:10:01.821Z</updated>
+    <updated>2026-09-03T22:31:32.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>link-28c46969ba667104a2e2c76ac98a1269</id>
         <link href="https://en.wikipedia.org/wiki/Tarps_Off"/>
         <updated>2026-09-03T14:10:55.488Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Tarps_Off" title="Tarps Off">Tarps Off</a></b> <i>(fans pictured)</i> started on a $10 dare?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Tarps_Off" title="Tarps Off">Tarps Off</a></b> <i>(fans pictured)</i> started on a US$10 dare?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Emily Flain]]></title>
