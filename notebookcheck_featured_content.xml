@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-09-03T08:37:21.175Z</updated>
+    <updated>2026-09-03T14:13:04.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Lenovo Yoga Pro 9i 2026: Is the 12GB RTX 5070 upgrade worth it?]]></title>
+        <id>link-48c9c49e966aa265d3db5676958f9a16</id>
+        <link href="https://www.notebookcheck.net/ASUS-just-made-the-ultimate-MacBook-Pro-alternative.1387280.0.html"/>
+        <updated>2026-09-03T14:10:55.488Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/d/csm__1052570_9b3ed59721.jpg" loading="lazy" alt="The ASUS ProArt P14 and ProArt P16 creator laptops on display at IFA 2026, powered by NVIDIA RTX Spark."></picture><div class="intro_featured_bar_title">▶ Lenovo Yoga Pro 9i 2026: Is the 12GB RTX 5070 upgrade worth it?</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Huawei Watch GT 7 (41 & 46 mm) Review]]></title>
         <id>link-8b303ed6115c498b998cfad327a49ab2</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Not-for-Gamers-great-for-Games-Gaming-on-RTX-Spark-Laptops.1384227.0.html"/>
         <updated>2026-08-31T18:50:54.519Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051157-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051157-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051157-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051157-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051157-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051157-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/c/csm__1051157_b58361fe67.jpg" loading="lazy" alt="RTX Spark are the next-generation of premium, performance laptops betting on an NVIDIA SOC"></picture><div class="intro_featured_bar_title">▶ Not for Gamers, great for Games? Gaming on RTX Spark Laptops</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My first Gamescom: Cosplayers, party vibes, DnD, Schweinsteiger — and elves at the supermarket]]></title>
-        <id>link-0c1933272f10885ca6a6d2e05b9df506</id>
-        <link href="https://www.notebookcheck.net/My-first-Gamescom-Cosplayers-party-vibes-DnD-Schweinsteiger-and-elves-at-the-supermarket.1384090.0.html"/>
-        <updated>2026-08-31T18:50:54.519Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/GC-group-pic-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/GC-group-pic-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/GC-group-pic-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/GC-group-pic-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/GC-group-pic-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/GC-group-pic-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/7/csm_GC-group-pic_b857b1e382.jpg" loading="lazy" alt="Professional cosplayers and me"></picture><div class="intro_featured_bar_title">My first Gamescom: Cosplayers, party vibes, DnD, Schweinsteiger — and elves at the supermarket</div>]]></content>
     </entry>
 </feed>
