@@ -360,4 +360,4 @@ url = "https://www.oo-software.com/en/shutup10/changelog"
 waitForSelector = "main h2"
 entrySelector = "main div.container div.content h4"
 titleSelector = "*"
-contentSelector = [xpath=".", "xpath=./following-sibling::item[@type != 'h4' and count(preceding-sibling::item[@type='h4']) = 0]"]
+contentSelector = [xpath=".", "xpath=./following-sibling::*[count(. | following-sibling::h4/preceding-sibling::*) = count(following-sibling::h4/preceding-sibling::*)]"]
