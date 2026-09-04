@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-09-04T08:34:05.345Z</updated>
+    <updated>2026-09-04T14:04:02.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Is DLSS 5 (on laptops) actually worth the massive performance penalty?]]></title>
+        <id>link-b5a59931c0396f57c03ce7bc7e46dfff</id>
+        <link href="https://www.notebookcheck.net/Is-DLSS-5-on-laptops-actually-worth-the-massive-performance-penalty.1388616.0.html"/>
+        <updated>2026-09-04T14:01:58.991Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052850-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052850-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052850-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052850-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052850-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052850-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/9/csm__1052850_0fad9f8ce3.jpg" loading="lazy" alt="Testing NVIDIA DLSS 5's 3D-Guided Neural Rendering in NBA 2K27 on an ROG Zephyrus Duo laptop"></picture><div class="intro_featured_bar_title">▶ Is DLSS 5 (on laptops) actually worth the massive performance penalty?</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia DLSS 5 on an RTX 5090 laptop: Our initial impressions]]></title>
         <id>link-fe2a99d6963998960aabd42b1895e0ee</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Lenovo-Yoga-Pro-9i-2026-Is-the-12GB-RTX-5070-upgrade-worth-it.1385293.0.html"/>
         <updated>2026-09-01T19:13:56.813Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/c/csm__1052426_3dd95164ea.jpg" loading="lazy" alt="The 2026 Lenovo Yoga Pro 9 is still one of the best Prosumer/Creator Laptops… but is it worth it?"></picture><div class="intro_featured_bar_title">▶ Lenovo Yoga Pro 9i 2026: Is the 12GB RTX 5070 upgrade worth it?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saving on RAM?]]></title>
-        <id>link-b880beb1734971a5b18ca8fa6f139ad8</id>
-        <link href="https://www.notebookcheck.net/HP-ZBook-Ultra-G1a-14-with-Strix-Halo-review-A-victim-of-the-memory-crisis.1378431.0.html"/>
-        <updated>2026-08-31T18:50:54.519Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/a/7/csm_feature_zbook_6024d28030.jpg" loading="lazy" alt="HP ZBook Ultra G1a 14 with Strix Halo review: A victim of the memory crisis?"></picture><div class="intro_featured_bar_title">Saving on RAM?</div>]]></content>
     </entry>
 </feed>
