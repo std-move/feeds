@@ -354,4 +354,10 @@ entrySelector = "#section-releasenotes div.colDate"
 titleSelector = ["xpath=./following-sibling::div[contains(@class, 'colVersion')]", "xpath=.", "xpathstr=./following-sibling::div[contains(@class, 'colText')]/text()"]
 contentSelector = "xpath=./following-sibling::div[contains(@class, 'colText')]"
 
-
+[oo_shutup10_changelog]
+title = "O&O ShutUp10 changelog"
+url = "https://www.oo-software.com/en/shutup10/changelog"
+waitForSelector = "main h2"
+entrySelector = "main div.container div.content h4"
+titleSelector = "*"
+contentSelector = [xpath=".", "xpath=./following-sibling::item[@type != 'h4' and count(preceding-sibling::item[@type='h4']) = 0]"]
