@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-fe2a99d6963998960aabd42b1895e0ee",
+			"title": "Nvidia DLSS 5 on an RTX 5090 laptop: Our initial impressions",
+			"link": "https://www.notebookcheck.net/Nvidia-DLSS-5-on-an-RTX-5090-laptop-Our-initial-impressions.1387695.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Nvidia-DLSS-5-NBA-2K27-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Nvidia-DLSS-5-NBA-2K27-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Nvidia-DLSS-5-NBA-2K27-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Nvidia-DLSS-5-NBA-2K27-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Nvidia-DLSS-5-NBA-2K27-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Nvidia-DLSS-5-NBA-2K27-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/d/csm_Nvidia-DLSS-5-NBA-2K27_643228846a.png\" loading=\"lazy\" alt=\"We tested DLSS 5 on a fully tricked-out Lenovo Legion gaming laptop\"></picture><div class=\"intro_featured_bar_title\">Nvidia DLSS 5 on an RTX 5090 laptop: Our initial impressions</div>",
+			"retrieved": 1788510729012
+		},
+		{
 			"id": "link-858f7488bc4600d7c92542c172cab90e",
 			"title": "Asus ExpertBook P5605CAA review: Trading AMD Ryzen for Intel Core Ultra",
 			"link": "https://www.notebookcheck.net/Asus-ExpertBook-P5605CAA-review-Trading-AMD-Ryzen-for-Intel-Core-Ultra.1384304.0.html",
@@ -12,9 +19,9 @@
 		},
 		{
 			"id": "link-48c9c49e966aa265d3db5676958f9a16",
-			"title": "▶ Lenovo Yoga Pro 9i 2026: Is the 12GB RTX 5070 upgrade worth it?",
+			"title": "▶ ASUS just made the ultimate MacBook Pro alternative!",
 			"link": "https://www.notebookcheck.net/ASUS-just-made-the-ultimate-MacBook-Pro-alternative.1387280.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/d/csm__1052570_9b3ed59721.jpg\" loading=\"lazy\" alt=\"The ASUS ProArt P14 and ProArt P16 creator laptops on display at IFA 2026, powered by NVIDIA RTX Spark.\"></picture><div class=\"intro_featured_bar_title\">▶ Lenovo Yoga Pro 9i 2026: Is the 12GB RTX 5070 upgrade worth it?</div>",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/d/csm__1052570_9b3ed59721.jpg\" loading=\"lazy\" alt=\"The ASUS ProArt P14 and ProArt P16 creator laptops on display at IFA 2026, powered by NVIDIA RTX Spark.\"></picture><div class=\"intro_featured_bar_title\">▶ ASUS just made the ultimate MacBook Pro alternative!</div>",
 			"retrieved": 1788444655488
 		},
 		{
@@ -43,13 +50,6 @@
 			"title": "Saving on RAM?",
 			"link": "https://www.notebookcheck.net/HP-ZBook-Ultra-G1a-14-with-Strix-Halo-review-A-victim-of-the-memory-crisis.1378431.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/ZBook_Ultra_G1a_14_B30FBES/feature_zbook-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/7/csm_feature_zbook_6024d28030.jpg\" loading=\"lazy\" alt=\"HP ZBook Ultra G1a 14 with Strix Halo review: A victim of the memory crisis?\"></picture><div class=\"intro_featured_bar_title\">Saving on RAM?</div>",
-			"retrieved": 1788202254519
-		},
-		{
-			"id": "link-647a26298acb211f92b8604949b06a25",
-			"title": "Benks Grand Combo cases for the Fold8 review",
-			"link": "https://www.notebookcheck.net/Protecting-the-Galaxy-Z-Fold8-Benks-Grand-Combo-cases-review.1383531.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_Benks_Accessorie-3761-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_Benks_Accessorie-3761-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_Benks_Accessorie-3761-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_Benks_Accessorie-3761-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_Benks_Accessorie-3761-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_Benks_Accessorie-3761-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/6/csm_aPic_Samsung_Galaxy_Z_Fold8_Benks_Accessorie-3761_058df491d9.jpg\" loading=\"lazy\" alt=\"Protecting the Galaxy Z Fold8 – Benks Grand Combo cases review\"></picture><div class=\"intro_featured_bar_title\">Benks Grand Combo cases for the Fold8 review</div>",
 			"retrieved": 1788202254519
 		}
 	]
