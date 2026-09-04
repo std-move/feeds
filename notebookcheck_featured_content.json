@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-cb95b4dadd5db5fe4268d2725245c487",
+			"title": "Dell Pro 7 13 2-in-1 review: Optimized for the office",
+			"link": "https://www.notebookcheck.net/Dell-Pro-7-13-2-in-1-convertible-review-Laser-focused-for-office-work.1386534.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/c/csm_dellpro7132in1_feature_1_a562caf6ae.jpg\" loading=\"lazy\" alt=\"Dell Pro 7 13 2-in-1 convertible review: Laser-focused for office work\"></picture><div class=\"intro_featured_bar_title\">Dell Pro 7 13 2-in-1 review: Optimized for the office</div>",
+			"retrieved": 1788559764692
+		},
+		{
 			"id": "link-b5a59931c0396f57c03ce7bc7e46dfff",
 			"title": "▶ Is DLSS 5 (on laptops) actually worth the massive performance penalty?",
 			"link": "https://www.notebookcheck.net/Is-DLSS-5-on-laptops-actually-worth-the-massive-performance-penalty.1388616.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/The-bike-buddy-Huawei-Watch-GT-7-Pro-Review.1385878.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7_Pro/Huawei_Watch7GT_Pro_Intro6-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7_Pro/Huawei_Watch7GT_Pro_Intro6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7_Pro/Huawei_Watch7GT_Pro_Intro6-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7_Pro/Huawei_Watch7GT_Pro_Intro6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7_Pro/Huawei_Watch7GT_Pro_Intro6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7_Pro/Huawei_Watch7GT_Pro_Intro6-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/8/csm_Huawei_Watch7GT_Pro_Intro6_6fdd08c04f.jpg\" loading=\"lazy\" alt=\"Under review: Huawei Watch GT 7 Pro\"></picture><div class=\"intro_featured_bar_title\">A companion for your bike</div>",
 			"retrieved": 1788376480869
-		},
-		{
-			"id": "link-a38c0b75ae96c576a4838a65b158b150",
-			"title": "▶ Lenovo Yoga Pro 9i 2026: Is the 12GB RTX 5070 upgrade worth it?",
-			"link": "https://www.notebookcheck.net/Lenovo-Yoga-Pro-9i-2026-Is-the-12GB-RTX-5070-upgrade-worth-it.1385293.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052426-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/c/csm__1052426_3dd95164ea.jpg\" loading=\"lazy\" alt=\"The 2026 Lenovo Yoga Pro 9 is still one of the best Prosumer/Creator Laptops… but is it worth it?\"></picture><div class=\"intro_featured_bar_title\">▶ Lenovo Yoga Pro 9i 2026: Is the 12GB RTX 5070 upgrade worth it?</div>",
-			"retrieved": 1788290036813
 		}
 	]
 }
