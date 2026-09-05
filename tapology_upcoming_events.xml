@@ -2,33 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-09-04T22:11:10.919Z</updated>
+    <updated>2026-09-05T03:14:38.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[CFFC 160 — 2026-09-04 18:00:00 -0400]]></title>
-        <id>link-34646d3e0e5aa9d48d36e7a828dc2f8e</id>
-        <link href="https://www.tapology.com/fightcenter/events/147129-cffc-160-kostyuchenko-vs-veal"/>
-        <updated>2026-08-29T20:29:30.305Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147129-cffc-160-kostyuchenko-vs-veal">CFFC 160</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-04 18:00:00 -0400">9 minutes ago</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE Fight Night 47 — 2026-09-04 21:00:00 -0400]]></title>
-        <id>link-b42db2db88518109068cb47af962a750</id>
-        <link href="https://www.tapology.com/fightcenter/events/143725-one-fight-night-47"/>
-        <updated>2026-08-28T04:08:37.656Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143725-one-fight-night-47">ONE Fight Night 47</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-04 21:00:00 -0400">in 2 hours</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Taylor vs. Pili — 2026-09-05 08:00:00 -0400]]></title>
         <id>link-5c860682defbf4673e5d6da9df8c91f3</id>
@@ -38,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/144343-taylor-vs-pili">Taylor vs. Pili</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-05 08:00:00 -0400">in 13 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-05 08:00:00 -0400">in 8 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/144513-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-05 12:00:00 -0400">in 17 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-05 12:00:00 -0400">in 12 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146395-brave-cf-108">BRAVE CF 108</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-05 13:00:00 -0400">in 18 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-05 13:00:00 -0400">in 13 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -86,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142724-contender-series-2026-week-5">Contender Series 2026</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-08 19:00:00 -0400">in 4 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-08 19:00:00 -0400">in 3 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -98,7 +74,31 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142897-super-rizin-5-naniwa-no-chou-fukkatsu-matsuri">Super RIZIN 5</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-09 23:00:00 -0400">in 5 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-09 23:00:00 -0400">in 4 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE Friday Fights 170 — 2026-09-11 07:30:00 -0400]]></title>
+        <id>link-66a6a59b88d827851efc7286fa216a47</id>
+        <link href="https://www.tapology.com/fightcenter/events/145989-one-friday-fights-170"/>
+        <updated>2026-09-05T03:12:44.997Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145989-one-friday-fights-170">ONE Friday Fights 170</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-09-11 07:30:00 -0400">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LFA 241 — 2026-09-11 20:00:00 -0400]]></title>
+        <id>link-a88455b78c40d6432c4dccbd9998cec0</id>
+        <link href="https://www.tapology.com/fightcenter/events/146291-lfa-241"/>
+        <updated>2026-09-05T03:12:44.997Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146291-lfa-241">LFA 241</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-09-11 20:00:00 -0400">in 6 days</abbr>
 </td>]]></content>
     </entry>
 </feed>
