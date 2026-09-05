@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-9ffe3720843e0b094842d3db9d25b39c",
+			"title": "▶ Lenovo IFA 2026 Hands-On: Yoga Pro 9n, 9n 2-in-1 & Project AeroBlade",
+			"link": "https://www.notebookcheck.net/Lenovo-IFA-2026-Hands-On-Yoga-Pro-9n-9n-2-in-1-Project-AeroBlade.1390051.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/f/csm__1052721_f49b5f3369.jpg\" loading=\"lazy\" alt=\"Lenovo's new Yoga Pro, ThinkBook, and RTX Spark creator laptops on display at IFA 2026.\"></picture><div class=\"intro_featured_bar_title\">▶ Lenovo IFA 2026 Hands-On: Yoga Pro 9n, 9n 2-in-1 &amp; Project AeroBlade</div>",
+			"retrieved": 1788638374986
+		},
+		{
 			"id": "link-6159906d55bbb440810c68122f28b25d",
 			"title": "Lenovo goes MacBook Neo",
 			"link": "https://www.notebookcheck.net/Lenovo-goes-MacBook-Neo-Hands-on-review-with-Lenovo-s-best-looking-699-laptop.1389576.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/ASUS-just-made-the-ultimate-MacBook-Pro-alternative.1387280.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/d/csm__1052570_9b3ed59721.jpg\" loading=\"lazy\" alt=\"The ASUS ProArt P14 and ProArt P16 creator laptops on display at IFA 2026, powered by NVIDIA RTX Spark.\"></picture><div class=\"intro_featured_bar_title\">▶ ASUS just made the ultimate MacBook Pro alternative!</div>",
 			"retrieved": 1788444655488
-		},
-		{
-			"id": "link-8b303ed6115c498b998cfad327a49ab2",
-			"title": "Huawei Watch GT 7 (41 & 46 mm) Review",
-			"link": "https://www.notebookcheck.net/Two-sizes-one-powerful-package-Huawei-Watch-GT-7-review.1385834.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7/aPic_Huawei_Watch_GT_7-3699-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7/aPic_Huawei_Watch_GT_7-3699-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7/aPic_Huawei_Watch_GT_7-3699-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7/aPic_Huawei_Watch_GT_7-3699-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7/aPic_Huawei_Watch_GT_7-3699-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_GT_7/aPic_Huawei_Watch_GT_7-3699-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/c/csm_aPic_Huawei_Watch_GT_7-3699_5efab93ae0.jpg\" loading=\"lazy\" alt=\"Huawei Watch GT 7 Review: Can it give the Apple Watch a run for its money?\"></picture><div class=\"intro_featured_bar_title\">Huawei Watch GT 7 (41 &amp; 46 mm) Review</div>",
-			"retrieved": 1788376480869
 		}
 	]
 }
