@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-37da6eda84b2719c40844410c9d6b777",
+			"title": "▶ Alienware made a $699 4K OLED?! (and a true Macbook Neo alternative?)",
+			"link": "https://www.notebookcheck.net/Alienware-made-a-699-4K-OLED-and-a-true-Macbook-Neo-alternative.1390916.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052760-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052760-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052760-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052760-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052760-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052760-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/9/csm__1052760_0a265476c6.jpg\" loading=\"lazy\" alt=\"Alienware’s new $699 AW3226Q 32-inch 4K QD-OLED monitor on display at IFA 2026!\"></picture><div class=\"intro_featured_bar_title\">▶ Alienware made a $699 4K OLED?! (and a true Macbook Neo alternative?)</div>",
+			"retrieved": 1788713020239
+		},
+		{
 			"id": "link-9ffe3720843e0b094842d3db9d25b39c",
 			"title": "▶ Lenovo IFA 2026 Hands-On: Yoga Pro 9n, 9n 2-in-1 & Project AeroBlade",
 			"link": "https://www.notebookcheck.net/Lenovo-IFA-2026-Hands-On-Yoga-Pro-9n-9n-2-in-1-Project-AeroBlade.1390051.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Asus-ExpertBook-P5605CAA-review-Trading-AMD-Ryzen-for-Intel-Core-Ultra.1384304.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_P5605CAA-XS76/expertbookp5605_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_P5605CAA-XS76/expertbookp5605_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_P5605CAA-XS76/expertbookp5605_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_P5605CAA-XS76/expertbookp5605_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_P5605CAA-XS76/expertbookp5605_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_P5605CAA-XS76/expertbookp5605_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/e/csm_expertbookp5605_feature_1_a60fe4a882.jpg\" loading=\"lazy\" alt=\"Asus ExpertBook P5605CAA review: Trading AMD Ryzen for Intel Core Ultra\"></picture><div class=\"intro_featured_bar_title\">Asus ExpertBook P5605CAA review: Trading AMD Ryzen for Intel Core Ultra</div>",
 			"retrieved": 1788462484849
-		},
-		{
-			"id": "link-48c9c49e966aa265d3db5676958f9a16",
-			"title": "▶ ASUS just made the ultimate MacBook Pro alternative!",
-			"link": "https://www.notebookcheck.net/ASUS-just-made-the-ultimate-MacBook-Pro-alternative.1387280.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052570-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/d/csm__1052570_9b3ed59721.jpg\" loading=\"lazy\" alt=\"The ASUS ProArt P14 and ProArt P16 creator laptops on display at IFA 2026, powered by NVIDIA RTX Spark.\"></picture><div class=\"intro_featured_bar_title\">▶ ASUS just made the ultimate MacBook Pro alternative!</div>",
-			"retrieved": 1788444655488
 		}
 	]
 }
