@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-2178e5e1577d519d422a39c51a98239e",
-			"title": "Pancrase 365 — 2026-09-06 01:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/145701-pancrase-365",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145701-pancrase-365\">Pancrase 365</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-06 01:00:00 -0400\">in 1 hour</abbr>\n</td>",
-			"retrieved": 1788035370305
-		},
-		{
 			"id": "link-f6933f7b1078b6b28fb9824853beb2d4",
 			"title": "Contender Series 2026 — 2026-09-08 19:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142724-contender-series-2026-week-5",
@@ -21,7 +14,7 @@
 			"id": "link-7641bd6eec6fb0117221a27892922a3a",
 			"title": "Super RIZIN 5 — 2026-09-10 02:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142897-super-rizin-5-naniwa-no-chou-fukkatsu-matsuri",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142897-super-rizin-5-naniwa-no-chou-fukkatsu-matsuri\">Super RIZIN 5</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-10 02:00:00 -0400\">in 4 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142897-super-rizin-5-naniwa-no-chou-fukkatsu-matsuri\">Super RIZIN 5</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-10 02:00:00 -0400\">in 3 days</abbr>\n</td>",
 			"retrieved": 1788530518991
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/146156-aca-207-goncharov-vs-almeida",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146156-aca-207-goncharov-vs-almeida\">ACA 207</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 11:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1788638374986
+		},
+		{
+			"id": "link-c48011451995d03cdf6ac4d336fca53a",
+			"title": "UFC Fight Night — 2026-09-12 14:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/145702-ufc-fight-night",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145702-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 14:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1788683066185
 		}
 	]
 }
