@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-09-05T22:03:33.853Z</updated>
+    <updated>2026-09-06T03:14:35.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.3.83]]></title>
+        <id>title-21827fa5c49dd24a6703ff32268dabdf</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-09-06T03:12:33.029Z</updated>
+        <content type="html"><![CDATA[Released Sep 6, 2026 - 357.1 KB — <ul><li>Keep selected channels in color while using grayscale mode.</li><li>New premium option to hide the YouTube logo.</li><li>Bug fixes and reliability improvements.</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.82]]></title>
         <id>title-fe6c37438ccad805d9e4a475c3822253</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-08-20T18:38:05.325Z</updated>
         <content type="html"><![CDATA[Released Apr 28, 2024 - 327.66 KB — Set "skip ads" to default false]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.54]]></title>
-        <id>title-ed64d55329c2699d8e460f444f7a1d9a</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-08-20T18:38:05.325Z</updated>
-        <content type="html"><![CDATA[Released Mar 7, 2024 - 327.65 KB — Implemented "only show playlists" for the left sidebar.]]></content>
     </entry>
 </feed>

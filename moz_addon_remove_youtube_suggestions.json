@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-21827fa5c49dd24a6703ff32268dabdf",
+			"title": "Version 4.3.83",
+			"contents": "Released Sep 6, 2026 - 357.1 KB — <ul><li>Keep selected channels in color while using grayscale mode.</li><li>New premium option to hide the YouTube logo.</li><li>Bug fixes and reliability improvements.</li></ul>",
+			"retrieved": 1788664353029
+		},
+		{
 			"id": "title-fe6c37438ccad805d9e4a475c3822253",
 			"title": "Version 4.3.82",
 			"contents": "Released Aug 2, 2026 - 354.6 KB — Fixed a bug where settings could intermittently reset to defaults for signed-in and Premium users.",
@@ -145,12 +151,6 @@
 			"id": "title-3163867d0701444cee852499ad34c0d7",
 			"title": "Version 4.3.55",
 			"contents": "Released Apr 28, 2024 - 327.66 KB — Set \"skip ads\" to default false",
-			"retrieved": 1787251085325
-		},
-		{
-			"id": "title-ed64d55329c2699d8e460f444f7a1d9a",
-			"title": "Version 4.3.54",
-			"contents": "Released Mar 7, 2024 - 327.65 KB — Implemented \"only show playlists\" for the left sidebar.",
 			"retrieved": 1787251085325
 		}
 	]
