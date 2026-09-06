@@ -354,11 +354,14 @@ entrySelector = "#section-releasenotes div.colDate"
 titleSelector = ["xpath=./following-sibling::div[contains(@class, 'colVersion')]", "xpath=.", "xpathstr=./following-sibling::div[contains(@class, 'colText')]/text()"]
 contentSelector = "xpath=./following-sibling::div[contains(@class, 'colText')]"
 
-# to be fixed and finished later
-# [oo_shutup10_changelog]
-# title = "O&O ShutUp10 changelog"
-# url = "https://www.oo-software.com/en/shutup10/changelog"
-# waitForSelector = "main h2"
-# entrySelector = "main div.container div.content h4"
-# titleSelector = "*"
-# contentSelector = ["xpath=.", "xpath=./following-sibling::*[not(self::h4) and (not(following-sibling::h4) or count(. | following-sibling::h4/preceding-sibling::*) = count(following-sibling::h4/preceding-sibling::*))]"]
+[oo_shutup10_changelog]
+title = "O&O ShutUp10 changelog"
+url = "https://www.oo-software.com/en/shutup10/changelog"
+waitForSelector = "main h2"
+entrySelector = "main div.container div.content h4"
+titleSelector = "*"
+# unfortunately, xpath or css does not allow us to extract release notes cleanly
+# as there might be a single or multiple version in one div.content
+# let's just get the whole div.content with possibly unrelated changes, it is better than nothing
+contentSelector = ["xpath=./ancestor::div[contains(@class, 'content')]"]
+
