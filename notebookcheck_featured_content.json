@@ -4,6 +4,20 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-1d0f363dcae57afa36d00e5490448a9f",
+			"title": "A surprising CPU performance champion",
+			"link": "https://www.notebookcheck.net/Lightweight-powerhouse-laptop-with-32-GB-RAM-HP-EliteBook-X-G2i-review.1365539.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_X_G2a_14/HP_EliteBook_XG2i_teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_X_G2a_14/HP_EliteBook_XG2i_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_X_G2a_14/HP_EliteBook_XG2i_teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/EliteBook_X_G2a_14/HP_EliteBook_XG2i_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_X_G2a_14/HP_EliteBook_XG2i_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/EliteBook_X_G2a_14/HP_EliteBook_XG2i_teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/0/csm_HP_EliteBook_XG2i_teaser_fb6aec9e19.jpg\" loading=\"lazy\" alt=\"Lightweight powerhouse laptop with 32 GB RAM: HP EliteBook X G2i review\"></picture><div class=\"intro_featured_bar_title\">A surprising CPU performance champion</div>",
+			"retrieved": 1788809829960
+		},
+		{
+			"id": "link-761152e762f30a799309083201c9d69e",
+			"title": "▶ This Handheld Transforms Into a Mini Laptop!",
+			"link": "https://www.notebookcheck.net/This-Handheld-Transforms-Into-a-Mini-Laptop.1392385.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052649-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052649-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052649-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052649-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052649-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052649-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/4/csm__1052649_323a68ca0d.jpg\" loading=\"lazy\" alt=\"Acer’s Project Dual Play Mini concept features a unique swivel display that instantly converts this gaming handheld into a mini laptop keyboard setup.\"></picture><div class=\"intro_featured_bar_title\">▶ This Handheld Transforms Into a Mini Laptop!</div>",
+			"retrieved": 1788809829960
+		},
+		{
 			"id": "link-5b47f59e3d101100d4b524e4ddcfaf78",
 			"title": "Marketing Coup? Samsung Galaxy Z Fold8 Ultra Review",
 			"link": "https://www.notebookcheck.net/The-Thinnest-Samsung-Smartphone-Ever-Takes-on-the-iPhone-Ultra-Galaxy-Z-Fold-8-Ultra-Review.1390192.0.html",
@@ -37,20 +51,6 @@
 			"link": "https://www.notebookcheck.net/Lenovo-IFA-2026-Hands-On-Yoga-Pro-9n-9n-2-in-1-Project-AeroBlade.1390051.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052721-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/f/csm__1052721_f49b5f3369.jpg\" loading=\"lazy\" alt=\"Lenovo's new Yoga Pro, ThinkBook, and RTX Spark creator laptops on display at IFA 2026.\"></picture><div class=\"intro_featured_bar_title\">▶ Lenovo IFA 2026 Hands-On: Yoga Pro 9n, 9n 2-in-1 &amp; Project AeroBlade</div>",
 			"retrieved": 1788638374986
-		},
-		{
-			"id": "link-6159906d55bbb440810c68122f28b25d",
-			"title": "Lenovo goes MacBook Neo",
-			"link": "https://www.notebookcheck.net/Lenovo-goes-MacBook-Neo-Hands-on-review-with-Lenovo-s-best-looking-699-laptop.1389576.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo_IdeaPadVibe_handson1-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo_IdeaPadVibe_handson1-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo_IdeaPadVibe_handson1-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo_IdeaPadVibe_handson1-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo_IdeaPadVibe_handson1-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Lenovo_IdeaPadVibe_handson1-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/8/csm_Lenovo_IdeaPadVibe_handson1_46a1ba16a3.jpg\" loading=\"lazy\" alt=\"The Lenovo IdeaPad Vibe 14 in &quot;Spicy Gold&quot; with customized keycaps.\"></picture><div class=\"intro_featured_bar_title\">Lenovo goes MacBook Neo</div>",
-			"retrieved": 1788614191433
-		},
-		{
-			"id": "link-cb95b4dadd5db5fe4268d2725245c487",
-			"title": "Dell Pro 7 13 2-in-1 review: Optimized for the office",
-			"link": "https://www.notebookcheck.net/Dell-Pro-7-13-2-in-1-convertible-review-Laser-focused-for-office-work.1386534.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Dell/Pro_7_13_2-in-1/dellpro7132in1_feature_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/c/csm_dellpro7132in1_feature_1_a562caf6ae.jpg\" loading=\"lazy\" alt=\"Dell Pro 7 13 2-in-1 convertible review: Laser-focused for office work\"></picture><div class=\"intro_featured_bar_title\">Dell Pro 7 13 2-in-1 review: Optimized for the office</div>",
-			"retrieved": 1788559764692
 		}
 	]
 }
