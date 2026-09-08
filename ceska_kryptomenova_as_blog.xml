@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-09-08T08:40:49.206Z</updated>
+    <updated>2026-09-08T14:12:54.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ckma.cz/cdn-b35i0/images/favicon.png</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://www.ckma.cz/cs/blog/valna-hromada-08-2026"/>
         <updated>2026-07-19T09:51:42.616Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/valna-hromada-08-2026" class="ArticleLink ArticleLink--horizontal">
-    <div class="ArticleLink-image"><img src="/res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" width="298" height="199" alt="" srcset="/res/crc-660322913/pages/images/596x398crop/73114-ya-valna-hromada.png 2x, /res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image"><img src="/res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" data-lazy="" width="298" height="199" alt="" srcset="/res/crc-660322913/pages/images/596x398crop/73114-ya-valna-hromada.png 2x, /res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png"></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">19.7.2026</div>
@@ -33,7 +33,7 @@ Adresováno: certifikovaným členům spolku ČKMA z.s.
         <link href="https://www.ckma.cz/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska"/>
         <updated>2026-07-09T23:11:44.305Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/novou-licenci-v-eu-ziskalo-jen-14-kryptoburz-dve-z-toho-jsou-z-ceska" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img src="/res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" width="298" height="199" alt="" srcset="/res/crc-2474908422/pages/images/596x398crop/73073-lz-prague-crypto.png 2x, /res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img src="/res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png" data-lazy="" width="298" height="199" alt="" srcset="/res/crc-2474908422/pages/images/596x398crop/73073-lz-prague-crypto.png 2x, /res/crc-2221016894/pages/images/298x199crop/73073-lz-prague-crypto.png"></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">9.7.2026</div>
@@ -73,7 +73,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/blog/tz-prezident-pavel-podepsal-kryptomenovy-balicek"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/tz-prezident-pavel-podepsal-kryptomenovy-balicek" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img src="/res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" width="298" height="199" alt="" srcset="/res/crc-572659721/pages/images/596x398crop/147982-9p-czech-republic-crypto-hub-of-europe.webp 2x, /res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img src="/res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" data-lazy="" width="298" height="199" alt="" srcset="/res/crc-572659721/pages/images/596x398crop/147982-9p-czech-republic-crypto-hub-of-europe.webp 2x, /res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp"></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">6.2.2025</div>
