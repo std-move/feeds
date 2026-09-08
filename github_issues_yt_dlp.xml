@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-09-08T19:19:32.438Z</updated>
+    <updated>2026-09-08T22:25:57.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -28,6 +28,12 @@
         <id>link-835a5d584f04d10080ea546c95e345bf</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/3766"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Broken Site] ceskatelevize.cz (iVysílání) failing with HTTP 410 / DRM errors]]></title>
+        <id>link-c59c76c3dc04cb4137454b37fe2dc2c7</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/17652"/>
+        <updated>2026-09-08T22:24:02.603Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[PBS: An extractor error has occurred. (caused by KeyError('title'));]]></title>
@@ -87,12 +93,6 @@
         <title type="html"><![CDATA[Support Duktape as external JS runtime (YouTube JS challenge provider)]]></title>
         <id>link-27817f0c0de282aca6f0e55441710c3a</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/14689"/>
-        <updated>2026-08-17T16:26:42.677Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CeskaTelevize] HTTP Error 410: Gone]]></title>
-        <id>link-e44f73e3033abec43101a801dca224fb</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/14298"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
     </entry>
 </feed>

@@ -32,6 +32,13 @@
 			"retrieved": 1786984002677
 		},
 		{
+			"id": "link-c59c76c3dc04cb4137454b37fe2dc2c7",
+			"title": "[Broken Site] ceskatelevize.cz (iVysílání) failing with HTTP 410 / DRM errors",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/17652",
+			"contents": "",
+			"retrieved": 1788906242603
+		},
+		{
 			"id": "link-33dab3bc4597a8845b77d4aaafd3be0d",
 			"title": "PBS: An extractor error has occurred. (caused by KeyError('title'));",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/17485",
@@ -98,13 +105,6 @@
 			"id": "link-27817f0c0de282aca6f0e55441710c3a",
 			"title": "Support Duktape as external JS runtime (YouTube JS challenge provider)",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/14689",
-			"contents": "",
-			"retrieved": 1786984002677
-		},
-		{
-			"id": "link-e44f73e3033abec43101a801dca224fb",
-			"title": "[CeskaTelevize] HTTP Error 410: Gone",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/14298",
 			"contents": "",
 			"retrieved": 1786984002677
 		}
