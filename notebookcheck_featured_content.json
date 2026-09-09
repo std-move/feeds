@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-9e4358aee8b525e216428e8f96cea5e1",
+			"title": "Your favorite foldable? Samsung Galaxy Z Fold8 review",
+			"link": "https://www.notebookcheck.net/Shooting-to-the-top-with-a-new-form-factor-Samsung-Galaxy-Z-Fold8-review.1394389.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8-3257-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8-3257-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8-3257-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8-3257-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8-3257-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8-3257-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/f/csm_aPic_Samsung_Galaxy_Z_Fold8-3257_d69b7132a0.jpg\" loading=\"lazy\" alt=\"Finally the Fold we’ve been waiting for? Samsung Galaxy Z Fold8 review\"></picture><div class=\"intro_featured_bar_title\">Your favorite foldable? Samsung Galaxy Z Fold8 review</div>",
+			"retrieved": 1788980785461
+		},
+		{
 			"id": "link-587d11dcf09b82794e996e4a3b76bd31",
 			"title": "Dell Pro 7 14 review: Intel Panther Lake or AMD Gorgon Point?",
 			"link": "https://www.notebookcheck.net/Dell-Pro-7-14-P714260-review-Sticking-with-Intel-has-its-advantages.1388859.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/The-thinnest-Samsung-smartphone-ever-takes-on-the-iPhone-Ultra-Galaxy-Z-Fold-8-Ultra-Review.1390192.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_8-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_8-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_8-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_8-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_8-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_8-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/5/csm_Samsung_Galxy_Fold_8_Ultra_Test_8_c80292ad55.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy Z Fold8 Ultra review\"></picture><div class=\"intro_featured_bar_title\">Marketing trick? Samsung Galaxy Z Fold8 Ultra Review</div>",
 			"retrieved": 1788856732338
-		},
-		{
-			"id": "link-c12f8c79b28624ecb16c69f4a814e747",
-			"title": "Large display, powerful battery: Oppo Pad 6 Review",
-			"link": "https://www.notebookcheck.net/High-quality-Chinese-tablet-has-a-Wi-Fi-problem-Oppo-Pad-6-Review.1391592.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_6/Test-Oppo-Pad-6-7-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_6/Test-Oppo-Pad-6-7-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_6/Test-Oppo-Pad-6-7-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Pad_6/Test-Oppo-Pad-6-7-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_6/Test-Oppo-Pad-6-7-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Pad_6/Test-Oppo-Pad-6-7-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/0/csm_Test-Oppo-Pad-6-7_a079d21e5b.jpg\" loading=\"lazy\" alt=\"Oppo Pad 6 Review\"></picture><div class=\"intro_featured_bar_title\">Large display, powerful battery: Oppo Pad 6 Review</div>",
-			"retrieved": 1788771535437
 		}
 	]
 }
