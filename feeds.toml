@@ -360,5 +360,5 @@ url = "https://www.oo-software.com/en/shutup10/changelog"
 waitForSelector = "main h2"
 entrySelector = "main div.container div.content h4"
 titleSelector = "*"
-contentSelector = ["xpath=./following-sibling::*[not(self::h4) and (not(preceding-sibling::h4) or count(preceding-sibling::h4[1]/following-sibling::*) >= last())]"]
+contentSelector = ["all_elems=xpath=./following-sibling::*[not(self::h4) and (not(preceding-sibling::h4) or count(preceding-sibling::h4[1]/following-sibling::*) >= last())]"]
 
