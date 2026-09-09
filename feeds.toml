@@ -360,8 +360,5 @@ url = "https://www.oo-software.com/en/shutup10/changelog"
 waitForSelector = "main h2"
 entrySelector = "main div.container div.content h4"
 titleSelector = "*"
-# unfortunately, xpath or css does not allow us to extract release notes cleanly
-# as there might be a single or multiple version in one div.content
-# let's just get the whole div.content with possibly unrelated changes, it is better than nothing
-contentSelector = ["xpath=./ancestor::div[contains(@class, 'content')]"]
+contentSelector = ["xpath=./following-sibling::*[not(self::h4) and (not(preceding-sibling::h4) or count(preceding-sibling::h4[1]/following-sibling::*) >= last())]"]
 
