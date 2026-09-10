@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-09-10T03:23:02.502Z</updated>
+    <updated>2026-09-10T08:43:14.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Super RIZIN 5 — 2026-09-10 02:00:00 -0400]]></title>
-        <id>link-7641bd6eec6fb0117221a27892922a3a</id>
-        <link href="https://www.tapology.com/fightcenter/events/142897-super-rizin-5-naniwa-no-chou-fukkatsu-matsuri"/>
-        <updated>2026-09-04T14:01:58.991Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142897-super-rizin-5-naniwa-no-chou-fukkatsu-matsuri">Super RIZIN 5</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-10 02:00:00 -0400">in 2 hours</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ONE Friday Fights 170 — 2026-09-11 07:30:00 -0400]]></title>
         <id>link-66a6a59b88d827851efc7286fa216a47</id>
@@ -50,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/144539-one-samurai-3">ONE Samurai 3</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-12 04:30:00 -0400">in 2 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-12 04:30:00 -0400">in 1 day</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -90,7 +78,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Garcia vs. Benn — 2026-09-12 17:00:00 -0400]]></title>
+        <title type="html"><![CDATA[Garcia vs. Benn — 2026-09-12 16:00:00 -0400]]></title>
         <id>link-e1e96d35a3f07e765a1f975dc1b6720b</id>
         <link href="https://www.tapology.com/fightcenter/events/143850-garcia-vs-benn"/>
         <updated>2026-09-09T03:22:15.769Z</updated>
@@ -98,7 +86,19 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143850-garcia-vs-benn">Garcia vs. Benn</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-12 17:00:00 -0400">in 2 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-12 16:00:00 -0400">in 2 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contender Series 2026 — 2026-09-15 19:00:00 -0400]]></title>
+        <id>link-b2be6bdcf3f8a11fcd15778fd33cd46d</id>
+        <link href="https://www.tapology.com/fightcenter/events/142725-contender-series-2026-week-6"/>
+        <updated>2026-09-10T08:41:19.216Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142725-contender-series-2026-week-6">Contender Series 2026</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-09-15 19:00:00 -0400">in 5 days</abbr>
 </td>]]></content>
     </entry>
 </feed>
