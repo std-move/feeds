@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-09-11T08:39:54.327Z</updated>
+    <updated>2026-09-11T14:07:21.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[ONE Friday Fights 170 — 2026-09-11 07:30:00 -0400]]></title>
-        <id>link-66a6a59b88d827851efc7286fa216a47</id>
-        <link href="https://www.tapology.com/fightcenter/events/145989-one-friday-fights-170"/>
-        <updated>2026-09-05T03:12:44.997Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145989-one-friday-fights-170">ONE Friday Fights 170</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-11 07:30:00 -0400">in 2 hours</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[LFA 241 — 2026-09-11 15:00:00 -0400]]></title>
         <id>link-a88455b78c40d6432c4dccbd9998cec0</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146291-lfa-241">LFA 241</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-11 15:00:00 -0400">in 10 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-11 15:00:00 -0400">in 4 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147130-cffc-161-aladi-vs-lleshi">CFFC 161</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-11 18:00:00 -0400">in 13 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-11 18:00:00 -0400">in 7 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/144539-one-samurai-3">ONE Samurai 3</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-12 04:30:00 -0400">in 23 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-12 04:30:00 -0400">in 18 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146156-aca-207-goncharov-vs-almeida">ACA 207</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-12 07:00:00 -0400">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-12 07:00:00 -0400">in 20 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-09-12 14:00:00 -0400">in 1 day</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garcia vs. Benn — 2026-09-12 16:00:00 -0400]]></title>
+        <id>link-e1e96d35a3f07e765a1f975dc1b6720b</id>
+        <link href="https://www.tapology.com/fightcenter/events/143850-garcia-vs-benn"/>
+        <updated>2026-09-11T14:05:29.107Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143850-garcia-vs-benn">Garcia vs. Benn</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-09-12 16:00:00 -0400">in 1 day</abbr>
 </td>]]></content>
     </entry>
 </feed>
