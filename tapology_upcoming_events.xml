@@ -2,33 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-09-12T16:49:09.317Z</updated>
+    <updated>2026-09-12T20:17:19.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[FNC 33 — 2026-09-12 12:00:00 -0400]]></title>
-        <id>link-d36c7769738555308c19ef2c35e023b0</id>
-        <link href="https://www.tapology.com/fightcenter/events/142426-fnc-33"/>
-        <updated>2026-09-11T08:37:57.123Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142426-fnc-33">FNC 33</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-12 12:00:00 -0400">47 minutes ago</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UFC Fight Night — 2026-09-12 14:00:00 -0400]]></title>
-        <id>link-c48011451995d03cdf6ac4d336fca53a</id>
-        <link href="https://www.tapology.com/fightcenter/events/145702-ufc-fight-night"/>
-        <updated>2026-09-06T08:24:26.185Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145702-ufc-fight-night">UFC Fight Night</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-12 14:00:00 -0400">in 1 hour</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Garcia vs. Benn — 2026-09-12 16:00:00 -0400]]></title>
         <id>link-e1e96d35a3f07e765a1f975dc1b6720b</id>
@@ -38,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143850-garcia-vs-benn">Garcia vs. Benn</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-12 16:00:00 -0400">in 3 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-12 16:00:00 -0400">15 minutes ago</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +75,30 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-09-19 17:00:00 -0400">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contender Series 2026 — 2026-09-22 19:00:00 -0400]]></title>
+        <id>link-fdefce504db83c00c2a6fb683c1deb9f</id>
+        <link href="https://www.tapology.com/fightcenter/events/142726-contender-series-2026-week-7"/>
+        <updated>2026-09-12T20:15:17.197Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142726-contender-series-2026-week-7">Contender Series 2026</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-09-22 19:00:00 -0400">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE Friday Fights 172 — 2026-09-25 07:30:00 -0400]]></title>
+        <id>link-25c622b6db6d3b08f72fadb945b73261</id>
+        <link href="https://www.tapology.com/fightcenter/events/147598-one-friday-fights-171"/>
+        <updated>2026-09-12T20:15:17.197Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147598-one-friday-fights-171">ONE Friday Fights 172</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-09-25 07:30:00 -0400">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>

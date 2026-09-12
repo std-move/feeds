@@ -4,24 +4,10 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-d36c7769738555308c19ef2c35e023b0",
-			"title": "FNC 33 — 2026-09-12 12:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/142426-fnc-33",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142426-fnc-33\">FNC 33</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 12:00:00 -0400\">47 minutes ago</abbr>\n</td>",
-			"retrieved": 1789115877123
-		},
-		{
-			"id": "link-c48011451995d03cdf6ac4d336fca53a",
-			"title": "UFC Fight Night — 2026-09-12 14:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/145702-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145702-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 14:00:00 -0400\">in 1 hour</abbr>\n</td>",
-			"retrieved": 1788683066185
-		},
-		{
 			"id": "link-e1e96d35a3f07e765a1f975dc1b6720b",
 			"title": "Garcia vs. Benn — 2026-09-12 16:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143850-garcia-vs-benn",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143850-garcia-vs-benn\">Garcia vs. Benn</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 16:00:00 -0400\">in 3 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143850-garcia-vs-benn\">Garcia vs. Benn</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 16:00:00 -0400\">15 minutes ago</abbr>\n</td>",
 			"retrieved": 1789135529107
 		},
 		{
@@ -58,6 +44,20 @@
 			"link": "https://www.tapology.com/fightcenter/events/145652-ufc-331",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145652-ufc-331\">UFC 331</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-19 17:00:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1789231632404
+		},
+		{
+			"id": "link-fdefce504db83c00c2a6fb683c1deb9f",
+			"title": "Contender Series 2026 — 2026-09-22 19:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/142726-contender-series-2026-week-7",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142726-contender-series-2026-week-7\">Contender Series 2026</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-22 19:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1789244117197
+		},
+		{
+			"id": "link-25c622b6db6d3b08f72fadb945b73261",
+			"title": "ONE Friday Fights 172 — 2026-09-25 07:30:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/147598-one-friday-fights-171",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147598-one-friday-fights-171\">ONE Friday Fights 172</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-25 07:30:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1789244117197
 		}
 	]
 }
