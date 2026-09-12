@@ -4,45 +4,31 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-6b5fdf9f84c2e3f71da6844742eb456b",
-			"title": "ONE Samurai 3 — 2026-09-12 04:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/144539-one-samurai-3",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144539-one-samurai-3\">ONE Samurai 3</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 04:30:00 -0400\">in 5 minutes</abbr>\n</td>",
-			"retrieved": 1788626044097
-		},
-		{
-			"id": "link-d5844d951918d79fd5a8ba61bd0a78e3",
-			"title": "ACA 207 — 2026-09-12 07:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/146156-aca-207-goncharov-vs-almeida",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146156-aca-207-goncharov-vs-almeida\">ACA 207</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 07:00:00 -0400\">in 2 hours</abbr>\n</td>",
-			"retrieved": 1788638374986
-		},
-		{
 			"id": "link-5c3b8009991740ac82ea01c3ffbf675c",
 			"title": "OKTAGON 93 — 2026-09-12 11:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142998-oktagon-93-brito-vs-gogoladze",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142998-oktagon-93-brito-vs-gogoladze\">OKTAGON 93</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 11:00:00 -0400\">in 6 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142998-oktagon-93-brito-vs-gogoladze\">OKTAGON 93</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 11:00:00 -0400\">in 1 hour</abbr>\n</td>",
 			"retrieved": 1788626044097
 		},
 		{
 			"id": "link-d36c7769738555308c19ef2c35e023b0",
 			"title": "FNC 33 — 2026-09-12 12:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142426-fnc-33",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142426-fnc-33\">FNC 33</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 12:00:00 -0400\">in 7 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142426-fnc-33\">FNC 33</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 12:00:00 -0400\">in 2 hours</abbr>\n</td>",
 			"retrieved": 1789115877123
 		},
 		{
 			"id": "link-c48011451995d03cdf6ac4d336fca53a",
 			"title": "UFC Fight Night — 2026-09-12 14:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/145702-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145702-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 14:00:00 -0400\">in 9 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145702-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 14:00:00 -0400\">in 4 hours</abbr>\n</td>",
 			"retrieved": 1788683066185
 		},
 		{
 			"id": "link-e1e96d35a3f07e765a1f975dc1b6720b",
 			"title": "Garcia vs. Benn — 2026-09-12 16:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143850-garcia-vs-benn",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143850-garcia-vs-benn\">Garcia vs. Benn</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 16:00:00 -0400\">in 11 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143850-garcia-vs-benn\">Garcia vs. Benn</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-12 16:00:00 -0400\">in 6 hours</abbr>\n</td>",
 			"retrieved": 1789135529107
 		},
 		{
@@ -56,8 +42,22 @@
 			"id": "link-158dff99cf92fa7ee53f18b6bca09a56",
 			"title": "ONE Friday Fights 171 — 2026-09-18 07:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/147597-one-friday-fights-170",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147597-one-friday-fights-170\">ONE Friday Fights 171</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-18 07:30:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147597-one-friday-fights-170\">ONE Friday Fights 171</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-18 07:30:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1789183361710
+		},
+		{
+			"id": "link-91cbcae8ad6af2c7e55f76e8c5397022",
+			"title": "LFA 242 — 2026-09-18 20:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/146292-lfa-242-lozej-vs-bittencourt",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146292-lfa-242-lozej-vs-bittencourt\">LFA 242</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-18 20:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1789219363223
+		},
+		{
+			"id": "link-89a942de47db975887ac34e94b1ab6b9",
+			"title": "KSW 121 — 2026-09-19 11:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/144292-ksw-121",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144292-ksw-121\">KSW 121</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-19 11:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1789219363223
 		}
 	]
 }
