@@ -4,34 +4,34 @@
 	"favicon": "https://learn.microsoft.com/en-us/windows/release-health/favicon.ico",
 	"elements": [
 		{
-			"id": "title-88efdb23bd64a579edc8a3b37d713341",
-			"title": "2026-09-08 — 26H1 — General Availability Channel — 28000.2954 — 2026-09 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124012\" target=\"_blank\" data-linktype=\"external\">2026-09 B</a> — 2026-09-08 — 28000.2954",
-			"retrieved": 1788895027032
+			"id": "title-22fde9a4f594609176e9e4670eefa80a",
+			"title": "2026-09-14 — 26H1 — General Availability Channel — 28000.2956 — 2026-09 OOB",
+			"contents": "<a href=\"https://support.microsoft.com/help/5129194\" target=\"_blank\" data-linktype=\"external\">2026-09 OOB</a> — 2026-09-14 — 28000.2956",
+			"retrieved": 1789421656113
 		},
 		{
-			"id": "title-d852d7591fbf3e94e4a9f644a9c218f5",
-			"title": "2026-09-08 — 25H2 — General Availability Channel — 26200.9445 — 2026-09 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124008\" target=\"_blank\" data-linktype=\"external\">2026-09 B</a> — 2026-09-08 — 26200.9445",
-			"retrieved": 1788895027032
+			"id": "title-b81b7572aecaf23df59359b3547c0a29",
+			"title": "2026-09-14 — 25H2 — General Availability Channel — 26200.9457 — 2026-09 OOB",
+			"contents": "<a href=\"https://support.microsoft.com/help/5129195\" target=\"_blank\" data-linktype=\"external\">2026-09 OOB</a> — 2026-09-14 — 26200.9457",
+			"retrieved": 1789421656113
 		},
 		{
-			"id": "title-bfcc8254daee19a586df170fc8632e60",
-			"title": "2026-09-08 — 24H2 — General Availability Channel — 26100.9445 — 2026-09 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124008\" target=\"_blank\" data-linktype=\"external\">2026-09 B</a> — 2026-09-08 — 26100.9445",
-			"retrieved": 1788895027032
+			"id": "title-eeb8678bceb39fa89f4bc6a3cbd5525f",
+			"title": "2026-09-14 — 24H2 — General Availability Channel — 26100.9457 — 2026-09 OOB",
+			"contents": "<a href=\"https://support.microsoft.com/help/5129195\" target=\"_blank\" data-linktype=\"external\">2026-09 OOB</a> — 2026-09-14 — 26100.9457",
+			"retrieved": 1789421656113
 		},
 		{
-			"id": "title-147d78391b854203ba3152277c2c1cd3",
-			"title": "2026-09-08 — 23H2 — General Availability Channel — 22631.7582 — 2026-09 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5122880\" target=\"_blank\" data-linktype=\"external\">2026-09 B</a> — 2026-09-08 — 22631.7582",
-			"retrieved": 1788895027032
+			"id": "title-852e769d0fd788fe333e60643abb62f4",
+			"title": "2026-09-14 — 23H2 — General Availability Channel — 22631.7584 — 2026-09 OOB",
+			"contents": "<a href=\"https://support.microsoft.com/help/5129242\" target=\"_blank\" data-linktype=\"external\">2026-09 OOB</a> — 2026-09-14 — 22631.7584",
+			"retrieved": 1789421656113
 		},
 		{
-			"id": "title-22f3b7e0e47a9443d6cf97586635aecc",
-			"title": "2026-09-08 — 24H2 — Long-Term Servicing Channel (LTSC) — 26100.9445 — 2026-09 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124008\" target=\"_blank\" data-linktype=\"external\">2026-09 B</a> — 2026-09-08 — 26100.9445",
-			"retrieved": 1788895027032
+			"id": "title-da5cf47d6ad37cb2d0f120fd7901fea0",
+			"title": "2026-09-14 — 24H2 — Long-Term Servicing Channel (LTSC) — 26100.9457 — 2026-09 OOB",
+			"contents": "<a href=\"https://support.microsoft.com/help/5129195\" target=\"_blank\" data-linktype=\"external\">2026-09 OOB</a> — 2026-09-14 — 26100.9457",
+			"retrieved": 1789421656113
 		}
 	]
 }
