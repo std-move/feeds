@@ -2,16 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-09-14T09:38:47.819Z</updated>
+    <updated>2026-09-14T16:13:06.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ckma.cz/cdn-nf276/images/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Jak prokázat časový test u bitcoinu?]]></title>
+        <id>link-3ba3256c02c8014ecddc655b8c697d76</id>
+        <link href="https://www.ckma.cz/cs/blog/jak-prokazat-casovy-test-u-bitcoinu"/>
+        <updated>2026-09-14T16:11:06.054Z</updated>
+        <content type="html"><![CDATA[<a href="/cs/blog/jak-prokazat-casovy-test-u-bitcoinu" class="ArticleLink ArticleLink--horizontal">
+    <div class="ArticleLink-image"><img src="/res/crc-1484637753/pages/images/298x199crop/74376-ej-prohlaseni.png" width="298" height="199" alt="" srcset="/res/crc-4281745655/pages/images/596x398crop/74376-ej-prohlaseni.png 2x, /res/crc-1484637753/pages/images/298x199crop/74376-ej-prohlaseni.png" data-lazy-loaded=""></div>
+    <div class="ArticleLink-body">
+        <div class="ArticleLink-content">
+            <div class="ArticleLink-addedOn">14.9.2026</div>
+            <h3 class="ArticleLink-heading">Jak prokázat časový test u bitcoinu?</h3>
+            <div class="ArticleLink-perex">
+                Zavedení tříletého časového testu přineslo českým držitelům kryptoaktiv možnost osvobodit příjem z&nbsp;jejich prodeje od daně. Má to však jednu důležitou podmínku: poplatník musí být schopen prokázat, že prodávané kryptoaktivum skutečně držel po zákonem požadovanou dobu.
+U bitcoinu uloženého ve&nbsp;vlastní peněžence může být takové dokazování složitější. Blockchain sice zaznamenává jednotlivé transakce, sám o&nbsp;sobě ale neříká, komu daná peněženka patří. Česká kryptoměnová asociace proto ve&nbsp;spolupráci s&nbsp;právníky a&nbsp;daňovými poradci připravila praktickou metodiku, která propojuje čestné prohlášení, kryptografický podpis a&nbsp;údaje z&nbsp;blockchainu.
+&nbsp;
+            </div>
+            <div class="ArticleLink-link">Číst více</div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valná hromada 08/2026]]></title>
         <id>link-c9f5d0edadf54c2e99b34b963c5890e0</id>
         <link href="https://www.ckma.cz/cs/blog/valna-hromada-08-2026"/>
         <updated>2026-07-19T09:51:42.616Z</updated>
-        <content type="html"><![CDATA[<a href="/cs/blog/valna-hromada-08-2026" class="ArticleLink ArticleLink--horizontal">
-    <div class="ArticleLink-image"><img src="/res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" width="298" height="199" alt="" srcset="/res/crc-660322913/pages/images/596x398crop/73114-ya-valna-hromada.png 2x, /res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" data-lazy-loaded=""></div>
+        <content type="html"><![CDATA[<a href="/cs/blog/valna-hromada-08-2026" class="ArticleLink">
+    <div class="ArticleLink-image w-100"><img src="/res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" width="298" height="199" alt="" srcset="/res/crc-660322913/pages/images/596x398crop/73114-ya-valna-hromada.png 2x, /res/crc-817735257/pages/images/298x199crop/73114-ya-valna-hromada.png" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">19.7.2026</div>
@@ -73,7 +94,7 @@ Praha, 7. července 2026 – Nová přísná regulace je tady. Od 1. července z
         <link href="https://www.ckma.cz/cs/blog/tz-prezident-pavel-podepsal-kryptomenovy-balicek"/>
         <updated>2026-05-18T08:04:13.990Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/tz-prezident-pavel-podepsal-kryptomenovy-balicek" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img src="/res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" width="298" height="199" alt="" srcset="/res/crc-572659721/pages/images/596x398crop/147982-9p-czech-republic-crypto-hub-of-europe.webp 2x, /res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" data-lazy-loaded=""></div>
+    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-572659721/pages/images/596x398crop/147982-9p-czech-republic-crypto-hub-of-europe.webp 2x, /res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" data-src="/res/crc-768344054/pages/images/298x199crop/147982-9p-czech-republic-crypto-hub-of-europe.webp" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">6.2.2025</div>
@@ -188,33 +209,6 @@ V mezičase se ve&nbsp;veřejném prostoru ovšem objevilo několik více či m�
             <h3 class="ArticleLink-heading">Časový a hodnotový test: fakta vs omyly a mýty</h3>
             <div class="ArticleLink-perex">
                 Stanovisko Generálního finančního ředitelství (GFŘ), zveřejněné včera ekonomickým deníkem E15, přináší několik tvrzení, která považujeme za nepřesná a&nbsp;neaktuální, a&nbsp;na něž chceme reagovat s&nbsp;cílem osvětlit aktuální situaci v&nbsp;oblasti kryptoaktiv a&nbsp;navrženého časového a&nbsp;hodnotového testu. Vyjádření GFŘ je plné omylů a&nbsp;mýtů, což je paradoxní obzvláště v&nbsp;aktuální situaci, kdy se do českého právního řádu implementují pravidla EU&nbsp;o správní spolupráci v&nbsp;oblasti daní se zaměřením právě na oblast kryptoaktiv.
-            </div>
-            <div class="ArticleLink-link">Číst více</div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oslov své poslance]]></title>
-        <id>link-8057ce5a9232b4bbc804ba71f5685abe</id>
-        <link href="https://www.ckma.cz/cs/blog/oslov-sve-poslance"/>
-        <updated>2026-05-18T08:04:13.990Z</updated>
-        <content type="html"><![CDATA[<a href="/cs/blog/oslov-sve-poslance" class="ArticleLink">
-    <div class="ArticleLink-image w-100"><img data-srcset="/res/crc-2384186868/pages/images/596x398crop/9k-medojed.jpg 2x, /res/crc-2145331962/pages/images/298x199crop/9k-medojed.jpg" data-src="/res/crc-2145331962/pages/images/298x199crop/9k-medojed.jpg" src="data:image/svg+xml;utf8,%3Csvg+width%3D%27298%27+height%3D%27199%27+xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3C%2Fsvg%3E" data-lazy="" width="298" height="199" alt=""></div>
-    <div class="ArticleLink-body">
-        <div class="ArticleLink-content">
-            <div class="ArticleLink-addedOn">14.10.2024</div>
-            <h3 class="ArticleLink-heading">Oslov své poslance</h3>
-            <div class="ArticleLink-perex">
-                Pomoz i&nbsp;Ty
-vytvořit férové podmínky pro krypto!<br>&nbsp;
-<strong>Požádej poslance o&nbsp;podporu časového a&nbsp;hodnotového testu</strong>
-&nbsp;
-<strong>UPDATE 8.12.2024: Všechny návrhy byly Poslaneckou sněmovnou v&nbsp;pátek 6.12.2024 schváleny, kampaň tedy úspěšně skončila - více viz zde. POSLANCŮM JIŽ TEDY PROSÍM NEPIŠTE :-) a&nbsp;schovejte si tuto aktivitu až to zase bude potřeba - budeme vás informovat.</strong>
-&nbsp;
-
-&nbsp;
-&nbsp;
             </div>
             <div class="ArticleLink-link">Číst více</div>
         </div>
