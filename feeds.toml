@@ -372,7 +372,7 @@ linkSelector = "xpath=.//a[contains(@href, '/commit/')]"
 
 [gitflic_magnolia1234_bpc_uploads]
 title = "gitflic magnolia1234 bpc_uploads"
-url = "https://gitflic.ru/project/magnolia1234/bpc_uploads/commit?branch=master"
+url = "https://gitflic.ru/project/magnolia1234/bpc_uploads/commit?branch=main"
 waitForSelector = "section.commit-list-item"
 entrySelector = "section.commit-list-item"
 titleSelector = ".commit-message"
