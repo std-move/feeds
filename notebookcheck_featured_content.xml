@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-09-16T11:49:09.819Z</updated>
+    <updated>2026-09-16T16:17:04.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Is Vivo cheating on benchmarks?]]></title>
+        <id>link-df0f7cb2b0a27f1a0ec5f5a57168d845</id>
+        <link href="https://www.notebookcheck.net/Is-Vivo-cheating-on-benchmarks.1401154.0.html"/>
+        <updated>2026-09-16T16:14:57.790Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/f/csm_aPic_Vivo_X_Fold6-3194-2_8c6c38206f.jpg" loading="lazy" alt="Vivo X Fold6"></picture><div class="intro_featured_bar_title">Is Vivo cheating on benchmarks?</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A strong overall package at a fair price—Minisforum M2 Pro review]]></title>
         <id>link-01ece6485f7a755cca96ca5b96bfffaf</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Insta360-X6-Review-A-near-perfect-360-camera-with-a-wild-price-tag.1395004.0.html"/>
         <updated>2026-09-13T18:34:21.720Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/5/csm_Insta360-X69_2516905f7f.jpg" loading="lazy" alt="Insta360 X6 Review: A near-perfect 360° camera with a wild price tag"></picture><div class="intro_featured_bar_title">Insta360 X6 review: Is this the best 360 camera of 2026?</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[▶ Almost an X1 Carbon for a LOT less?! ThinkPad T14s 2026]]></title>
-        <id>link-243086cdaf72240078f8bf20178b9933</id>
-        <link href="https://www.notebookcheck.net/Almost-an-X1-Carbon-for-a-LOT-less-ThinkPad-T14s-2026.1398526.0.html"/>
-        <updated>2026-09-13T18:34:21.720Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/5/csm__1052905_1916146973.jpg" loading="lazy" alt="Almost a flagship? Lenovo's ThinkPad T14s"></picture><div class="intro_featured_bar_title">▶ Almost an X1 Carbon for a LOT less?! ThinkPad T14s 2026</div>]]></content>
     </entry>
 </feed>

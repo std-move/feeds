@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-df0f7cb2b0a27f1a0ec5f5a57168d845",
+			"title": "Is Vivo cheating on benchmarks?",
+			"link": "https://www.notebookcheck.net/Is-Vivo-cheating-on-benchmarks.1401154.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/f/csm_aPic_Vivo_X_Fold6-3194-2_8c6c38206f.jpg\" loading=\"lazy\" alt=\"Vivo X Fold6\"></picture><div class=\"intro_featured_bar_title\">Is Vivo cheating on benchmarks?</div>",
+			"retrieved": 1789575297790
+		},
+		{
 			"id": "link-01ece6485f7a755cca96ca5b96bfffaf",
 			"title": "A strong overall package at a fair price—Minisforum M2 Pro review",
 			"link": "https://www.notebookcheck.net/Minisforum-M2-Pro-mini-PC-review-Plenty-of-performance-a-fair-price-and-a-well-rounded-package.1398885.0.html",
@@ -43,13 +50,6 @@
 			"title": "Insta360 X6 review: Is this the best 360 camera of 2026?",
 			"link": "https://www.notebookcheck.net/Insta360-X6-Review-A-near-perfect-360-camera-with-a-wild-price-tag.1395004.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/5/csm_Insta360-X69_2516905f7f.jpg\" loading=\"lazy\" alt=\"Insta360 X6 Review: A near-perfect 360° camera with a wild price tag\"></picture><div class=\"intro_featured_bar_title\">Insta360 X6 review: Is this the best 360 camera of 2026?</div>",
-			"retrieved": 1789324461720
-		},
-		{
-			"id": "link-243086cdaf72240078f8bf20178b9933",
-			"title": "▶ Almost an X1 Carbon for a LOT less?! ThinkPad T14s 2026",
-			"link": "https://www.notebookcheck.net/Almost-an-X1-Carbon-for-a-LOT-less-ThinkPad-T14s-2026.1398526.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/5/csm__1052905_1916146973.jpg\" loading=\"lazy\" alt=\"Almost a flagship? Lenovo's ThinkPad T14s\"></picture><div class=\"intro_featured_bar_title\">▶ Almost an X1 Carbon for a LOT less?! ThinkPad T14s 2026</div>",
 			"retrieved": 1789324461720
 		}
 	]
