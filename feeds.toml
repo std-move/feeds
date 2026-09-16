@@ -362,10 +362,10 @@ entrySelector = "main div.container div.content h4"
 titleSelector = "*"
 contentSelector = ["all_elems=xpath=./following-sibling::*[not(self::h4) and (not(preceding-sibling::h4) or count(preceding-sibling::h4[1]/following-sibling::*) >= last())]"]
 
-[p2pforum_ibkr]
-title = "IBKR - P2Pforum.cz"
-url = "https://p2pforum.cz/app.php/feed/topic/423"
-waitForSelector = "#feedContent"
-entrySelector = ".entry"
-titleSelector = "h3"
-linkSelector = "a"
+[gitflic_magnolia1234_bypass_paywalls_firefox]
+title = "gitflic magnolia1234 bypass-paywalls-firefox-clean"
+url = "https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean/commit?branch=master"
+waitForSelector = "section.commit-list-item"
+entrySelector = "section.commit-list-item"
+titleSelector = ".commit-message"
+linkSelector = "xpath=.//a[contains(@href, '/commit/')]"
