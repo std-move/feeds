@@ -1,5 +1,14 @@
 {
 	"title": "gitflic magnolia1234 bpc_uploads",
-	"url": "https://gitflic.ru/project/magnolia1234/bpc_uploads/commit?branch=master",
-	"elements": []
+	"url": "https://gitflic.ru/project/magnolia1234/bpc_uploads/commit?branch=main",
+	"favicon": "https://gitflic.ru/project/magnolia1234/bpc_uploads/favicon.ico",
+	"elements": [
+		{
+			"id": "link-cd322e0793005eebbc24a91774a7f79d",
+			"title": "Release latest",
+			"link": "https://gitflic.ru/project/magnolia1234/bpc_uploads/commit/df42a10bc8ad5ead03265d94260bf5e2f9081f2e",
+			"contents": "<div class=\"commit-list-item__info\"><div class=\"commit-message\"><a href=\"/project/magnolia1234/bpc_uploads/commit/df42a10bc8ad5ead03265d94260bf5e2f9081f2e\" class=\"commit-message__content\" tag=\"a\">Release latest</a></div><div class=\"commit-user\"><div class=\"mr-1\"><img height=\"20px\" width=\"20px\" src=\"/static/image/avatar.jpg\" class=\"rounded-circle\"></div><div class=\"f6 text-gray min-width-0\"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class=\"text-muted ml-1\">06:16:56</small></div></div></div><div class=\"commit-list-item__actions\"><!----><!----><!----><!----><div class=\"copy-commit-hash input-group input-group-sm flex-nowrap d-none d-sm-inline-flex\"><input id=\"clipboardId\" type=\"hidden\" value=\"df42a10bc8ad5ead03265d94260bf5e2f9081f2e\"><span class=\"copy-commit-hash__text\">df42a10</span><div class=\"copy-commit-hash__button\"><button type=\"button\" class=\"btn-outline-dark copy-commit-hash__button__copy\"><i class=\"gf-icon gf-icon-copy\"></i><span class=\"clipboard__tooltip f6\" data-tooltip-text=\"Copied!\"></span></button></div></div></div><!----><div id=\"gfModalWindowRevertCommit-df42a10bc8ad5ead03265d94260bf5e2f9081f2e\" class=\"gf-modal\"><div class=\"gf-modal__wrapper\" style=\"--gf-modal-wrapper-width: 500px; --gf-modal-wrapper-height: auto;\"><div class=\"gf-modal__header\"><h3 class=\"gf-modal__header-text\">Revert commit</h3></div><div class=\"gf-modal__body\"><div class=\"project-commit-revert-form\"><div class=\"project-commit-revert-form__body\"><!----><p>This action will create a new commit that reverts the existing changes (similar to 'git revert')</p><b>The commit will be reverted in the branch: <code>main</code></b><div class=\"custom-control custom-checkbox my-2\"><input id=\"initWithNewBranch-df42a10bc8ad5ead03265d94260bf5e2f9081f2e\" type=\"checkbox\" class=\"custom-control-input\"><label class=\"text-muted custom-control-label\" for=\"initWithNewBranch-df42a10bc8ad5ead03265d94260bf5e2f9081f2e\">Create new branch for revert</label></div><!----><!----><p class=\"small text-secondary\">Note: You can only revert a commit with one parent commit.</p></div><div class=\"project-commit-revert-form__footer\"><button type=\"button\" class=\"btn btn-dark btn-sm m-1\">Close</button><button type=\"button\" class=\"btn btn-success btn-sm m-1\">Revert commit</button></div></div></div><div class=\"d-flex align-items-center gf-modal__close\"><i class=\"gf-icon gf-icon-x\"></i></div></div></div>",
+			"retrieved": 1789557790872
+		}
+	]
 }

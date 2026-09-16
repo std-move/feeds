@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-09-16T11:07:11.715Z</updated>
+    <updated>2026-09-16T11:25:22.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[A strong overall package at a fair price—Minisforum M2 Pro review]]></title>
+        <id>link-01ece6485f7a755cca96ca5b96bfffaf</id>
+        <link href="https://www.notebookcheck.net/Minisforum-M2-Pro-mini-PC-review-Plenty-of-performance-a-fair-price-and-a-well-rounded-package.1398885.0.html"/>
+        <updated>2026-09-16T11:23:10.872Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/d/csm_M2_Pro_24_f38594855e.jpg" loading="lazy" alt="Minisforum M2 Pro mini-PC review: Plenty of performance, a fair price, and a well-rounded package"></picture><div class="intro_featured_bar_title">A strong overall package at a fair price—Minisforum M2 Pro review</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Porthole to the sky: Govee Sky Ceiling Light review]]></title>
         <id>link-b2462cb0944918ce137b6500aff4a36e</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Almost-an-X1-Carbon-for-a-LOT-less-ThinkPad-T14s-2026.1398526.0.html"/>
         <updated>2026-09-13T18:34:21.720Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1052905-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/5/csm__1052905_1916146973.jpg" loading="lazy" alt="Almost a flagship? Lenovo's ThinkPad T14s"></picture><div class="intro_featured_bar_title">▶ Almost an X1 Carbon for a LOT less?! ThinkPad T14s 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.9-inch OLED screen in a compact design | Review: Samsung Galaxy Z Flip8]]></title>
-        <id>link-a0a4cbb5631ef7d32e15235b9605b78f</id>
-        <link href="https://www.notebookcheck.net/Ultra-lightweight-smartphone-powerhouse-with-a-6-9-inch-OLED-screen-Samsung-Galaxy-Z-Flip-8-review.1398173.0.html"/>
-        <updated>2026-09-13T14:05:33.531Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Flip8/Test_Samsung_Galaxy_Z_Flip_8_9-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Flip8/Test_Samsung_Galaxy_Z_Flip_8_9-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Flip8/Test_Samsung_Galaxy_Z_Flip_8_9-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Flip8/Test_Samsung_Galaxy_Z_Flip_8_9-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Flip8/Test_Samsung_Galaxy_Z_Flip_8_9-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Flip8/Test_Samsung_Galaxy_Z_Flip_8_9-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/3/csm_Test_Samsung_Galaxy_Z_Flip_8_9_6db7197af1.jpg" loading="lazy" alt="Review of the Samsung Galaxy Z Flip 8 smartphone"></picture><div class="intro_featured_bar_title">6.9-inch OLED screen in a compact design | Review: Samsung Galaxy Z Flip8</div>]]></content>
     </entry>
 </feed>
