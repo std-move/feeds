@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/tags/bellsoft-products/</id>
     <title>BellSoft Java releases</title>
-    <updated>2026-09-16T04:40:20.795Z</updated>
+    <updated>2026-09-16T10:56:40.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Liberica JDK 27 is Released]]></title>
+        <id>link-92c1e31b74142314999f0dc27acf84a2</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-27-is-released/"/>
+        <updated>2026-09-16T10:54:44.126Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liberica JDK August 2026 CSPU builds are released]]></title>
         <id>link-c43ce250c574e06ecf227948adb2b9a3</id>
@@ -144,10 +150,10 @@
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liberica Native Image Kit 23.0.7, 23.1.6, and 24.1.2 builds are released]]></title>
-        <id>link-4999b5baf3ab48072cf079b34f425912</id>
-        <link href="https://bell-sw.com/blog/liberica-native-image-kit-23-0-7-23-1-6-and-24-1-2-builds-are-released/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
+        <title type="html"><![CDATA[Liberica JDK 27 is Released]]></title>
+        <id>link-92c1e31b74142314999f0dc27acf84a2</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-27-is-released/"/>
+        <updated>2026-09-16T10:54:44.126Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Liberica JDK August 2026 CSPU builds are released]]></title>
@@ -285,12 +291,6 @@
         <title type="html"><![CDATA[Liberica JDK 24 is Released]]></title>
         <id>link-2fa375fd67827f3aadb21c5132f2c847</id>
         <link href="https://bell-sw.com/blog/liberica-jdk-24-is-released/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica Native Image Kit 23.0.7, 23.1.6, and 24.1.2 builds are released]]></title>
-        <id>link-4999b5baf3ab48072cf079b34f425912</id>
-        <link href="https://bell-sw.com/blog/liberica-native-image-kit-23-0-7-23-1-6-and-24-1-2-builds-are-released/"/>
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
 </feed>

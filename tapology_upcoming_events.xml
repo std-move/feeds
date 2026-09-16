@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-09-16T04:40:20.790Z</updated>
+    <updated>2026-09-16T10:56:40.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -42,7 +42,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UFC 331 — 2026-09-19 17:00:00 -0400]]></title>
+        <title type="html"><![CDATA[UFC 331 — 2026-09-19 17:30:00 -0400]]></title>
         <id>link-3dc7c9d06e12c1d71b2bab67b172e2a9</id>
         <link href="https://www.tapology.com/fightcenter/events/145652-ufc-331"/>
         <updated>2026-09-12T16:47:12.404Z</updated>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145652-ufc-331">UFC 331</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-19 17:00:00 -0400">in 3 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-19 17:30:00 -0400">in 3 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
