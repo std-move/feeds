@@ -148,13 +148,14 @@ entrySelector = "article"
 titleSelector = ".ArticleLink-heading"
 linkSelector = "a"
 
-[getty_images_ufc_weigh_ins]
-title = "Getty images - UFC weigh-ins"
-url = "https://www.gettyimages.com/editorial-images/ufc"
-waitForSelector = "//article[contains(.//a/@title, 'Weigh') or contains(.//a/@title, 'weigh')]"
-entrySelector = "//article[contains(.//a/@title, 'Weigh') or contains(.//a/@title, 'weigh')]"
-titleSelector = ["figcaption span", "xpathstr=.//a/@title"]
-linkSelector = "a"
+# commented out due to intermittent Error: page.goto: NS_ERROR_NET_EMPTY_RESPONSE
+# [getty_images_ufc_weigh_ins]
+# title = "Getty images - UFC weigh-ins"
+# url = "https://www.gettyimages.com/editorial-images/ufc"
+# waitForSelector = "//article[contains(.//a/@title, 'Weigh') or contains(.//a/@title, 'weigh')]"
+# entrySelector = "//article[contains(.//a/@title, 'Weigh') or contains(.//a/@title, 'weigh')]"
+# titleSelector = ["figcaption span", "xpathstr=.//a/@title"]
+# linkSelector = "a"
 
 [pia_vpn_release_notes]
 title = "PIA VPN - release notes"
