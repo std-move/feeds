@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-09-17T13:07:28.026Z</updated>
+    <updated>2026-09-17T17:59:17.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Camera comparison: Galaxy Z Fold8 vs. Pura X Max]]></title>
+        <id>link-cc277878bc083eef0c254c8d23ea13f0</id>
+        <link href="https://www.notebookcheck.net/Camera-battle-of-the-foldables-Samsung-Galaxy-Z-Fold8-vs-Huawei-Pura-X-Max.1401629.0.html"/>
+        <updated>2026-09-17T17:57:14.174Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/4/3/csm_aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max_f943628b95.jpg" loading="lazy" alt="Camera battle of the foldables: Samsung Galaxy Z Fold8 vs Huawei Pura X Max"></picture><div class="intro_featured_bar_title">Camera comparison: Galaxy Z Fold8 vs. Pura X Max</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Vivo cheating in benchmarks?]]></title>
         <id>link-42dd5dd678bc0520679903bf3ca6f0b3</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Smart-light-strip-impresses-with-its-light-and-versatility-Govee-COB-Strip-Light-2-Pro-review.1398524.0.html"/>
         <updated>2026-09-13T18:34:21.720Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/3/csm_Govee-COB-Strip-Light-2-Pro-Test85_a58a23610a.jpg" loading="lazy" alt="Govee COB Strip Light 2 Pro Review"></picture><div class="intro_featured_bar_title">Enlightening: Govee COB Strip Light 2 Pro Review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insta360 X6 review: Is this the best 360 camera of 2026?]]></title>
-        <id>link-dd9ab2aa80b9f5d946ea639cb775d2af</id>
-        <link href="https://www.notebookcheck.net/Insta360-X6-Review-A-near-perfect-360-camera-with-a-wild-price-tag.1395004.0.html"/>
-        <updated>2026-09-13T18:34:21.720Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Insta360-X69-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/0/5/csm_Insta360-X69_2516905f7f.jpg" loading="lazy" alt="Insta360 X6 Review: A near-perfect 360° camera with a wild price tag"></picture><div class="intro_featured_bar_title">Insta360 X6 review: Is this the best 360 camera of 2026?</div>]]></content>
     </entry>
 </feed>
