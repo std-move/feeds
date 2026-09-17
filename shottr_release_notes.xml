@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shottr.cc/#section-releasenotes</id>
     <title>Shottr release notes</title>
-    <updated>2026-09-17T07:15:43.117Z</updated>
+    <updated>2026-09-17T13:07:28.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://shottr.cc/assets/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[v1.9.2 — Sep 17, 2026 — Improved compatibility with macOS 27]]></title>
+        <id>title-68167a65428a6d75e3e38db1f97ad2ed</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-09-17T13:05:21.645Z</updated>
+        <content type="html"><![CDATA[Improved compatibility with macOS 27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.9.1 — Dec 17, 2025 — S3 Improvements, minor polishing and bug fixes]]></title>
         <id>title-481d89119f376e0264a0fbbb5727514d</id>

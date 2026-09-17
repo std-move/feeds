@@ -4,6 +4,12 @@
 	"favicon": "https://shottr.cc/assets/favicon.png",
 	"elements": [
 		{
+			"id": "title-68167a65428a6d75e3e38db1f97ad2ed",
+			"title": "v1.9.2 — Sep 17, 2026 — Improved compatibility with macOS 27",
+			"contents": "Improved compatibility with macOS 27",
+			"retrieved": 1789650321645
+		},
+		{
 			"id": "title-481d89119f376e0264a0fbbb5727514d",
 			"title": "v1.9.1 — Dec 17, 2025 — S3 Improvements, minor polishing and bug fixes",
 			"contents": "S3 Improvements, minor polishing and bug fixes\n\t\t\t<br><a href=\"#\" class=\"showmore gaChangelog181\">See full changelog</a>\n\t\t\t<div class=\"hiddenChangeLog themore\">\n\t\t\t\t<br>\n\t\t\t\t<b>Improvements</b>\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Expanded support for third-party S3 services (Tencent, Yandex, Minio, etc).</li>\n\t\t\t\t\t<li>Print dialog now allows changing print orientation.</li>\n\t\t\t\t\t<li>Freehand tool: brought back an ability to draw a point with a single click.</li>\n\t\t\t\t\t<li>Aesthetic adjustments to both hand-drawn and classic rectangle styles.</li>\n\t\t\t\t</ul>\n\n\t\t\t\t<br>\n\t\t\t\t<b>Bug Fixes</b>\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Bug fix: the app used to show the editor along with the preview thumbnail when macOS failed to grant the permission to activate the app.</li>\n\t\t\t\t\t<li>Bug fix: S3 upload on the systems with non-gregorian calendar.</li>\n\t\t\t\t\t<li>Bug fix: app freezing on affected computers.</li>\n\t\t\t\t</ul>\n\t\t\t</div>",
