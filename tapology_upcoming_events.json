@@ -7,14 +7,14 @@
 			"id": "link-91cbcae8ad6af2c7e55f76e8c5397022",
 			"title": "LFA 242 — 2026-09-18 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/146292-lfa-242-lozej-vs-bittencourt",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146292-lfa-242-lozej-vs-bittencourt\">LFA 242</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-18 17:00:00 -0400\">in 6 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146292-lfa-242-lozej-vs-bittencourt\">LFA 242</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-18 17:00:00 -0400\">in 2 hours</abbr>\n</td>",
 			"retrieved": 1789219363223
 		},
 		{
 			"id": "link-89a942de47db975887ac34e94b1ab6b9",
 			"title": "KSW 121 — 2026-09-19 11:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/144292-ksw-121",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144292-ksw-121\">KSW 121</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-19 11:00:00 -0400\">in 1 day</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/144292-ksw-121\">KSW 121</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-19 11:00:00 -0400\">in 20 hours</abbr>\n</td>",
 			"retrieved": 1789219363223
 		},
 		{
@@ -28,7 +28,7 @@
 			"id": "link-be7c6064612e44846ea4808e1cda35c2",
 			"title": "Fury FC 124 — 2026-09-20 13:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/146896-fury-fc-124-whitehead-vs-abouzalam",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146896-fury-fc-124-whitehead-vs-abouzalam\">Fury FC 124</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-20 13:00:00 -0400\">in 2 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146896-fury-fc-124-whitehead-vs-abouzalam\">Fury FC 124</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-20 13:00:00 -0400\">in 1 day</abbr>\n</td>",
 			"retrieved": 1789290372933
 		},
 		{
@@ -37,6 +37,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/142726-contender-series-2026-week-7",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142726-contender-series-2026-week-7\">Contender Series 2026</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-22 19:00:00 -0400\">in 4 days</abbr>\n</td>",
 			"retrieved": 1789244117197
+		},
+		{
+			"id": "link-bffdae893cacf99e5cba244bf69edfc4",
+			"title": "Inka 61 — 2026-09-23 19:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/145610-inka-61",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145610-inka-61\">Inka 61</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-23 19:00:00 -0400\">in 5 days</abbr>\n</td>",
+			"retrieved": 1789757704080
 		},
 		{
 			"id": "link-25c622b6db6d3b08f72fadb945b73261",
@@ -51,13 +58,6 @@
 			"link": "https://www.tapology.com/fightcenter/events/135743-oktagon-94-the-biggest-comeback-ever",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/135743-oktagon-94-the-biggest-comeback-ever\">OKTAGON 94</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-26 11:00:00 -0400\">in 1 week</abbr>\n</td>",
 			"retrieved": 1789516757341
-		},
-		{
-			"id": "link-29e64ae8bab4d290c46da2f1d584d010",
-			"title": "Cage Warriors 210 — 2026-09-26 11:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/145599-cage-warriors-210",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145599-cage-warriors-210\">Cage Warriors 210</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-26 11:00:00 -0400\">in 1 week</abbr>\n</td>",
-			"retrieved": 1789740484771
 		}
 	]
 }
