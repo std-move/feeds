@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-09-18T18:57:09.227Z</updated>
+    <updated>2026-09-18T22:22:35.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Kalpana_Chawla" title="Kalpana Chawla">Kalpana Chawla</a></b> <i>(pictured)</i> was the first Indian woman to go to space?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[round-of-16 match between South Korea and Italy]]></title>
+        <title type="html"><![CDATA[Italy in a World Cup match]]></title>
         <id>link-bef136d23bf496013c7452a930ecab8f</id>
         <link href="https://en.wikipedia.org/wiki/South_Korea_v_Italy_(2002_FIFA_World_Cup)"/>
         <updated>2026-09-18T03:34:19.056Z</updated>
-        <content type="html"><![CDATA[... that <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Ahn_Jung-hwan" title="Ahn Jung-hwan">Ahn Jung-hwan</a>'s contract with <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/AC_Perugia_Calcio" title="AC Perugia Calcio">Perugia</a> was cancelled after he scored the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Golden_goal" title="Golden goal">golden goal</a> in a <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/2002_FIFA_World_Cup" title="2002 FIFA World Cup">2002 FIFA World Cup</a> <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/South_Korea_v_Italy_(2002_FIFA_World_Cup)" title="South Korea v Italy (2002 FIFA World Cup)">round-of-16 match between South Korea and Italy</a></b>?]]></content>
+        <content type="html"><![CDATA[... that South Korean footballer <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Ahn_Jung-hwan" title="Ahn Jung-hwan">Ahn Jung-hwan</a>'s contract with Italian club <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/AC_Perugia_Calcio" title="AC Perugia Calcio">Perugia</a> was cancelled after he scored the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Golden_goal" title="Golden goal">golden goal</a> against <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/South_Korea_v_Italy_(2002_FIFA_World_Cup)" title="South Korea v Italy (2002 FIFA World Cup)">Italy in a World Cup match</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Paul Senn]]></title>
