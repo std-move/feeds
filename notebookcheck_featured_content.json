@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-2201ad9b7959c92ba03f5cf01ef8ae40",
+			"title": "Blizzard, this is the Diablo 5 I want",
+			"link": "https://www.notebookcheck.net/Blizzard-this-is-the-Diablo-5-I-want.1402394.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/9/csm_Diablo-5-header60_bec92053b5.png\" loading=\"lazy\" alt=\"Diablo 5 has a chance to turn the franchise around, but it will take some serious work\"></picture><div class=\"intro_featured_bar_title\">Blizzard, this is the Diablo 5 I want</div>",
+			"retrieved": 1789721318056
+		},
+		{
 			"id": "link-cc277878bc083eef0c254c8d23ea13f0",
 			"title": "Camera comparison: Galaxy Z Fold8 vs. Pura X Max",
 			"link": "https://www.notebookcheck.net/Camera-battle-of-the-foldables-Samsung-Galaxy-Z-Fold8-vs-Huawei-Pura-X-Max.1401629.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Huawei-Watch-D3-review-Smartwatch-with-blood-pressure-monitoring-is-now-even-better.1396020.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_D3/HuaweiWatchD3Teaser-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_D3/HuaweiWatchD3Teaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_D3/HuaweiWatchD3Teaser-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/Watch_D3/HuaweiWatchD3Teaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_D3/HuaweiWatchD3Teaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/Watch_D3/HuaweiWatchD3Teaser-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/0/csm_HuaweiWatchD3Teaser_d013b01e18.jpg\" loading=\"lazy\" alt=\"Huawei Watch D3 review: Smartwatch with blood pressure monitoring is now even better\"></picture><div class=\"intro_featured_bar_title\">Huawei Watch D3 review: More than just blood pressure monitoring</div>",
 			"retrieved": 1789477960370
-		},
-		{
-			"id": "link-fd3fe687748d573a2a1a61d079579b3b",
-			"title": "Enlightening: Govee COB Strip Light 2 Pro Review",
-			"link": "https://www.notebookcheck.net/Smart-light-strip-impresses-with-its-light-and-versatility-Govee-COB-Strip-Light-2-Pro-review.1398524.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Govee-COB-Strip-Light-2-Pro-Test85-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/3/csm_Govee-COB-Strip-Light-2-Pro-Test85_a58a23610a.jpg\" loading=\"lazy\" alt=\"Govee COB Strip Light 2 Pro Review\"></picture><div class=\"intro_featured_bar_title\">Enlightening: Govee COB Strip Light 2 Pro Review</div>",
-			"retrieved": 1789324461720
 		}
 	]
 }
