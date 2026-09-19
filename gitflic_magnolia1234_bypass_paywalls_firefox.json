@@ -4,11 +4,11 @@
 	"favicon": "https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean/favicon.ico",
 	"elements": [
 		{
-			"id": "link-cc45ee0871e8d384d617061faa56e56c",
+			"id": "link-b1592a28ae56baaf02742f20873c2abd",
 			"title": "Release latest",
-			"link": "https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean/commit/84ef70945f137513038d5eab4ab18d96c613656d",
-			"contents": "<div class=\"commit-message\"><a href=\"/project/magnolia1234/bypass-paywalls-firefox-clean/commit/84ef70945f137513038d5eab4ab18d96c613656d\" class=\"commit-message__content\" tag=\"a\">Release latest</a></div><div class=\"commit-user\"><div class=\"mr-1\"><img height=\"20px\" width=\"20px\" src=\"/static/image/avatar.jpg\" class=\"rounded-circle\"></div><div class=\"f6 text-gray min-width-0\"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class=\"text-muted ml-1\">06:19:10</small></div></div>",
-			"retrieved": 1789721318056
+			"link": "https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean/commit/a27280a53552ace825215213c299a1558218059f",
+			"contents": "<div class=\"commit-message\"><a href=\"/project/magnolia1234/bypass-paywalls-firefox-clean/commit/a27280a53552ace825215213c299a1558218059f\" class=\"commit-message__content\" tag=\"a\">Release latest</a></div><div class=\"commit-user\"><div class=\"mr-1\"><img height=\"20px\" width=\"20px\" src=\"/static/image/avatar.jpg\" class=\"rounded-circle\"></div><div class=\"f6 text-gray min-width-0\"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class=\"text-muted ml-1\">07:10:11</small></div></div>",
+			"retrieved": 1789806911454
 		}
 	]
 }
