@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-289a63303167b733b0b7f5231a19f843",
+			"title": "Samsung Galaxy Watch9 review",
+			"link": "https://www.notebookcheck.net/Samsung-Galaxy-Watch-9-review-New-Galaxy-smartwatch-delivers-a-huge-performance-leap.1403883.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/b/csm_Test_Samsung_Galaxy_Watch_9_Notebookcheck_2_cfeeaae63a.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy Watch9 review\"></picture><div class=\"intro_featured_bar_title\">Samsung Galaxy Watch9 review</div>",
+			"retrieved": 1789924995931
+		},
+		{
 			"id": "link-a80b3e2fceae8dc31a34fa5e667dd05e",
 			"title": "iPhone 18 Pro (Max) case with dual airbags review",
 			"link": "https://www.notebookcheck.net/iPhone-case-with-dual-airbags-convenient-stand-Torras-Ostand-Q3-Air-Pro-hands-on-review.1403887.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Is-Vivo-cheating-in-benchmarks.1401154.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vivo/X_Fold6/aPic_Vivo_X_Fold6-3194-2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/f/csm_aPic_Vivo_X_Fold6-3194-2_8c6c38206f.jpg\" loading=\"lazy\" alt=\"Vivo X Fold6\"></picture><div class=\"intro_featured_bar_title\">Is Vivo cheating in benchmarks?</div>",
 			"retrieved": 1789592184688
-		},
-		{
-			"id": "link-01ece6485f7a755cca96ca5b96bfffaf",
-			"title": "A strong overall package at a fair price—Minisforum M2 Pro review",
-			"link": "https://www.notebookcheck.net/Minisforum-M2-Pro-mini-PC-review-Plenty-of-performance-a-fair-price-and-a-well-rounded-package.1398885.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Minisforum/M2_Pro/M2_Pro_24-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/d/csm_M2_Pro_24_f38594855e.jpg\" loading=\"lazy\" alt=\"Minisforum M2 Pro mini-PC review: Plenty of performance, a fair price, and a well-rounded package\"></picture><div class=\"intro_featured_bar_title\">A strong overall package at a fair price—Minisforum M2 Pro review</div>",
-			"retrieved": 1789557790872
 		}
 	]
 }
