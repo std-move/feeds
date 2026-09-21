@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-09-21T16:16:20.836Z</updated>
+    <updated>2026-09-21T21:47:38.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[The no-throttle workhorse laptop reviewed]]></title>
+        <id>link-88d345540af584f4c82657454527fb53</id>
+        <link href="https://www.notebookcheck.net/Surprisingly-fast-with-32-GB-RAM-and-Ryzen-7-HP-EliteBook-8-G2a-16-laptop-review.1358548.0.html"/>
+        <updated>2026-09-21T21:44:53.391Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/2/csm_HP_EliteBook8G2a16_teaser_c39bdf709e.jpg" loading="lazy" alt="The HP EliteBook 8 G2a 16"></picture><div class="intro_featured_bar_title">The no-throttle workhorse laptop reviewed</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Mac mini M6 review]]></title>
         <id>link-08fc8c1707f9316e92a62a46680cf39c</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/iPhone-case-with-dual-airbags-convenient-stand-Torras-Ostand-Q3-Air-Pro-hands-on-review.1403887.0.html"/>
         <updated>2026-09-20T13:58:40.764Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Torras-Ostand-Q3-Air-Pro-Test30-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Torras-Ostand-Q3-Air-Pro-Test30-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Torras-Ostand-Q3-Air-Pro-Test30-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Torras-Ostand-Q3-Air-Pro-Test30-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Torras-Ostand-Q3-Air-Pro-Test30-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Torras-Ostand-Q3-Air-Pro-Test30-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/2/1/csm_Torras-Ostand-Q3-Air-Pro-Test30_fcb1f9c586.jpg" loading="lazy" alt="Torras Ostand Q3 Air Pro Review"></picture><div class="intro_featured_bar_title">iPhone 18 Pro (Max) case with dual airbags review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi Watch S5 review: Stylish sports watch with some weaknesses]]></title>
-        <id>link-4b5b94b976929d706b71edacf56abfce</id>
-        <link href="https://www.notebookcheck.net/Xiaomi-Watch-S5-review-Great-battery-life-but-not-really-smart.1403355.0.html"/>
-        <updated>2026-09-19T08:35:11.454Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/7/csm_aPic_Xiaomi_Watch_S5_and_17T-2814_c38ea7f943.jpg" loading="lazy" alt="Xiaomi Watch S5 review: Great battery life, but not really smart"></picture><div class="intro_featured_bar_title">Xiaomi Watch S5 review: Stylish sports watch with some weaknesses</div>]]></content>
     </entry>
 </feed>
