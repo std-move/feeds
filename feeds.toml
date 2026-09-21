@@ -371,6 +371,8 @@ entrySelector = "section.commit-list-item"
 titleSelector = ".commit-message"
 linkSelector = "xpath=.//a[contains(@href, '/commit/')]"
 contentSelector = ".commit-list-item__info"
+suppressFailureUntilEpochSec = 1790244000
+
 
 [gitflic_magnolia1234_bpc_uploads]
 title = "gitflic magnolia1234 bpc_uploads"
@@ -380,4 +382,6 @@ entrySelector = "section.commit-list-item"
 titleSelector = ".commit-message"
 linkSelector = "xpath=.//a[contains(@href, '/commit/')]"
 contentSelector = ".commit-list-item__info"
+suppressFailureUntilEpochSec = 1790244000
+
 
