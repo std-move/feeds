@@ -4,6 +4,27 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-08fc8c1707f9316e92a62a46680cf39c",
+			"title": "Apple Mac mini M6 review",
+			"link": "https://www.notebookcheck.net/Compact-powerhouse-with-the-2-nm-M6-SoC-Apple-Mac-mini-2026-Review.1401148.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/9/csm_mac_mini_m6_case_14_78ac75497a.png\" loading=\"lazy\" alt=\"Compact powerhouse with the 2 nm M6 SoC - Apple Mac mini 2026 Review\"></picture><div class=\"intro_featured_bar_title\">Apple Mac mini M6 review</div>",
+			"retrieved": 1790007255574
+		},
+		{
+			"id": "link-b470bcde601399cc5350ff8d9a4c1db2",
+			"title": "Apple M6 SoC review - No chance for AMD or Intel",
+			"link": "https://www.notebookcheck.net/Apple-M6-SoC-Analysis-Apple-s-2-nm-chip-crushes-AMD-Intel-Qualcomm.1404057.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AI/Create-an-image-with-Apples-M6-SoC-and-a-corr-1789971007-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AI/Create-an-image-with-Apples-M6-SoC-and-a-corr-1789971007-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AI/Create-an-image-with-Apples-M6-SoC-and-a-corr-1789971007-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/AI/Create-an-image-with-Apples-M6-SoC-and-a-corr-1789971007-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/AI/Create-an-image-with-Apples-M6-SoC-and-a-corr-1789971007-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/AI/Create-an-image-with-Apples-M6-SoC-and-a-corr-1789971007-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/2/csm_Create-an-image-with-Apples-M6-SoC-and-a-corr-1789971007_b0747cf347.jpg\" loading=\"lazy\" alt=\"Apple M6 SoC Analysis - Apple's 2 nm chip crushes AMD, Intel &amp; Qualcomm\"></picture><div class=\"intro_featured_bar_title\">Apple M6 SoC review - No chance for AMD or Intel</div>",
+			"retrieved": 1790007255574
+		},
+		{
+			"id": "link-9aa306a2e332420736ccdeb9ef6e586d",
+			"title": "▶ Windows is in trouble ... GoogleBook Laptops Hands-On!",
+			"link": "https://www.notebookcheck.net/Windows-is-in-trouble-Googlebook-Laptops-Hands-On.1404433.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053055-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053055-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053055-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053055-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053055-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053055-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/e/csm__1053055_e5c16fbe23.jpg\" loading=\"lazy\" alt=\"At launch Asus, Acer, HP, Dell and Lenovo will have Googlebooks on offer! \"></picture><div class=\"intro_featured_bar_title\">▶ Windows is in trouble ... GoogleBook Laptops Hands-On!</div>",
+			"retrieved": 1790007255574
+		},
+		{
 			"id": "link-7a95a92a86675a565d7a054950539db2",
 			"title": "49 laptops tested: These are the best notebooks of summer 2026",
 			"link": "https://www.notebookcheck.net/Best-laptops-for-fall-2026-49-notebooks-tried-and-tested.1398522.0.html",
@@ -30,27 +51,6 @@
 			"link": "https://www.notebookcheck.net/Xiaomi-Watch-S5-review-Great-battery-life-but-not-really-smart.1403355.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Watch_S5/aPic_Xiaomi_Watch_S5_and_17T-2814-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/7/csm_aPic_Xiaomi_Watch_S5_and_17T-2814_c38ea7f943.jpg\" loading=\"lazy\" alt=\"Xiaomi Watch S5 review: Great battery life, but not really smart\"></picture><div class=\"intro_featured_bar_title\">Xiaomi Watch S5 review: Stylish sports watch with some weaknesses</div>",
 			"retrieved": 1789806911454
-		},
-		{
-			"id": "link-ffd30c97f79b8ffee8218a382472262d",
-			"title": "Top-notch sound: Lenovo Tab Plus Gen 2 review",
-			"link": "https://www.notebookcheck.net/The-tablet-with-the-best-sound-system-in-years-Lenovo-Tab-Plus-Gen-2-in-review.1402404.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_Plus_Gen_2/Lenovo_Tab_Plus_Gen_2_im_Test_2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_Plus_Gen_2/Lenovo_Tab_Plus_Gen_2_im_Test_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_Plus_Gen_2/Lenovo_Tab_Plus_Gen_2_im_Test_2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_Plus_Gen_2/Lenovo_Tab_Plus_Gen_2_im_Test_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_Plus_Gen_2/Lenovo_Tab_Plus_Gen_2_im_Test_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Tab_Plus_Gen_2/Lenovo_Tab_Plus_Gen_2_im_Test_2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/5/csm_Lenovo_Tab_Plus_Gen_2_im_Test_2_ae94dccc43.jpg\" loading=\"lazy\" alt=\"Lenovo Tab Plus Gen 2 Review\"></picture><div class=\"intro_featured_bar_title\">Top-notch sound: Lenovo Tab Plus Gen 2 review</div>",
-			"retrieved": 1789740484771
-		},
-		{
-			"id": "link-2201ad9b7959c92ba03f5cf01ef8ae40",
-			"title": "Blizzard, this is the Diablo 5 I want",
-			"link": "https://www.notebookcheck.net/Blizzard-this-is-the-Diablo-5-I-want.1402394.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Diablo-5-header60-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/9/csm_Diablo-5-header60_bec92053b5.png\" loading=\"lazy\" alt=\"Diablo 5 has a chance to turn the franchise around, but it will take some serious work\"></picture><div class=\"intro_featured_bar_title\">Blizzard, this is the Diablo 5 I want</div>",
-			"retrieved": 1789721318056
-		},
-		{
-			"id": "link-cc277878bc083eef0c254c8d23ea13f0",
-			"title": "Camera comparison: Galaxy Z Fold8 vs. Pura X Max",
-			"link": "https://www.notebookcheck.net/Camera-battle-of-the-foldables-Samsung-Galaxy-Z-Fold8-vs-Huawei-Pura-X-Max.1401629.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/3/csm_aPic_Samsung_Galaxy_Z_Fold8_vs_Huawei_Pura_X_Max_f943628b95.jpg\" loading=\"lazy\" alt=\"Camera battle of the foldables: Samsung Galaxy Z Fold8 vs Huawei Pura X Max\"></picture><div class=\"intro_featured_bar_title\">Camera comparison: Galaxy Z Fold8 vs. Pura X Max</div>",
-			"retrieved": 1789667834174
 		}
 	]
 }

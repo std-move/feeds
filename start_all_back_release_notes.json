@@ -4,6 +4,12 @@
 	"favicon": "https://www.startallback.com/favicon.ico",
 	"elements": [
 		{
+			"id": "title-b0d3d27545c542cd8d01701f84662aef",
+			"title": "Version 3.9.26 21 Sep 2026",
+			"contents": "Version 3.9.26 21 Sep 2026\n\t\t\t\t<li>Formal support for 26H2</li>\n\t\t\t\t<li>Minor improvements and fixes</li>",
+			"retrieved": 1790007255574
+		},
+		{
 			"id": "title-c471792d60bdcc97294393e4fac6fac4",
 			"title": "Version 3.9.25 26 Aug 2026",
 			"contents": "Version 3.9.25 26 Aug 2026\n\t\t\t\t<li>Improved appearance of Explorer dropdowns</li>\n\t\t\t\t<li>Fixes for latest Insider builds</li>",
