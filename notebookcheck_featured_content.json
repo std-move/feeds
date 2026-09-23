@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-a2945bbc207470eadcc465279e34f2a8",
+			"title": "Asus Zenbook 14 OLED review - $799 rival for XPS 13 & MacBook Neo",
+			"link": "https://www.notebookcheck.net/Great-everyday-OLED-laptop-starting-at-799-Asus-Zenbook-14-UX3480-Review.1401664.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/7/csm_zenbook_14_ux3480_case_06_0bc277369b.jpg\" loading=\"lazy\" alt=\"Great everyday OLED laptop starting at $799 - Asus Zenbook 14 UX3480 Review\"></picture><div class=\"intro_featured_bar_title\">Asus Zenbook 14 OLED review - $799 rival for XPS 13 &amp; MacBook Neo</div>",
+			"retrieved": 1790121749250
+		},
+		{
 			"id": "link-2e58dc5548c543f8784784aa10975317",
 			"title": "ROG at 20 and the India story",
 			"link": "https://www.notebookcheck.net/From-Crosshair-to-the-Ally-Asus-ROG-posts-an-impressive-growth-story-in-India-following-20-years-of-innovations.1404970.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Best-laptops-for-fall-2026-49-notebooks-tried-and-tested.1398522.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/notebookcheckbestlaptopsofsummer2006-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/notebookcheckbestlaptopsofsummer2006-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Awards/notebookcheckbestlaptopsofsummer2006-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Awards/notebookcheckbestlaptopsofsummer2006-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Awards/notebookcheckbestlaptopsofsummer2006-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Awards/notebookcheckbestlaptopsofsummer2006-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/2/csm_notebookcheckbestlaptopsofsummer2006_80743875e0.jpg\" loading=\"lazy\" alt=\"Best laptops of summer 2026\"></picture><div class=\"intro_featured_bar_title\">49 laptops tested: These are the best notebooks of summer 2026</div>",
 			"retrieved": 1789936175530
-		},
-		{
-			"id": "link-289a63303167b733b0b7f5231a19f843",
-			"title": "Samsung Galaxy Watch9 review",
-			"link": "https://www.notebookcheck.net/Samsung-Galaxy-Watch-9-review-New-Galaxy-smartwatch-delivers-a-huge-performance-leap.1403883.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Watch9/Test_Samsung_Galaxy_Watch_9_Notebookcheck_2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/b/csm_Test_Samsung_Galaxy_Watch_9_Notebookcheck_2_cfeeaae63a.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy Watch9 review\"></picture><div class=\"intro_featured_bar_title\">Samsung Galaxy Watch9 review</div>",
-			"retrieved": 1789924995931
 		}
 	]
 }
