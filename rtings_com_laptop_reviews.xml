@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-09-23T18:19:08.484Z</updated>
+    <updated>2026-09-23T22:45:54.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
     <entry>
+        <title type="html"><![CDATA[ASUS Chromebook CX15 (2026) Review
+            New]]></title>
+        <id>link-b9c8329ecdcf71779717bbf496cfebc9</id>
+        <link href="https://www.rtings.com/laptop/reviews/asus/chromebook-cx15-2026"/>
+        <updated>2026-09-23T22:43:38.473Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/iSzCmjI5/asus-chromebook-cx15-2026/design-small.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">ASUS Chromebook CX15 (2026) Review
+            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
+          </div>
+          <div class="latest_page-preview-date">about 3 hours ago</div>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ASUS Chromebook CX15 (2026) Test Results
             Early Access]]></title>
-        <id>link-e6a7dce5a89832ed8736963b3b72d756</id>
-        <link href="https://www.rtings.com/early-access/laptop/reviews/asus/chromebook-cx15-2026"/>
-        <updated>2026-09-17T21:06:35.217Z</updated>
+        <id>link-b9c8329ecdcf71779717bbf496cfebc9</id>
+        <link href="https://www.rtings.com/laptop/reviews/asus/chromebook-cx15-2026"/>
+        <updated>2026-09-23T22:43:38.473Z</updated>
         <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/CAlSPbi6/asus-chromebook-cx15-2026/in-test-medium.jpg?format=auto" alt="">
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">ASUS Chromebook CX15 (2026) Test Results
@@ -547,20 +561,6 @@
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">Dell 16 Plus (2025) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
-          </div>
-          <div class="latest_page-preview-date">about 1 year ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo Chromebook Duet Gen 9 11 (2024) Review
-            New]]></title>
-        <id>link-76dd68cb8070ce493aae3c8c12c8dfca</id>
-        <link href="https://www.rtings.com/laptop/reviews/lenovo/chromebook-duet-gen-9-11-2024-chrome-os"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/4y5AXuJE/lenovo-chromebook-duet-gen-9-11-2024-chrome-os/design-small.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Lenovo Chromebook Duet Gen 9 11 (2024) Review
-            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
           <div class="latest_page-preview-date">about 1 year ago</div>
         </div>]]></content>

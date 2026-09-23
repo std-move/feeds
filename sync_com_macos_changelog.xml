@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com macOS changelog</title>
-    <updated>2026-09-23T18:19:08.506Z</updated>
+    <updated>2026-09-23T22:45:54.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.39 - 09/21/2026]]></title>
+        <id>title-030751e81af1f013e1e878c52aeb0c16</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-09-23T22:43:38.473Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="eaa827cfe6e27db216c080399a1c8ed33">Fixed an issue where fresh installs could miss files during the first sync on large accounts.</li>
+<li data-list-item-id="e43c0ec42ad3df14b9c4f047bceffd0ae">Large downloads now resume after an interruption instead of starting over.</li>
+<li data-list-item-id="e6c9e25bbb40be5cdc1ee132bcc72d002">Fixed files getting stuck on “Waiting to Upload” in Finder.</li>
+<li data-list-item-id="e9b6c24b9bb39c6fb550c8266aa9bd297">Fixed a sync crash that could occur when switching servers during an upload.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.64 - 09/21/2026]]></title>
+        <id>title-1b5190e5f242ee69e0fc041bdd38c11d</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-09-23T22:43:38.473Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e06c6e5cae2e04295e47ee623acec7e72">Fixed an issue where web edits made shortly after uploading a file didn’t sync to the desktop app.</li>
+<li data-list-item-id="e79cf154d3eeb31f62a3be9525c44d1e0">Prevented temporary local file access errors from causing folders to be deleted from Sync.</li>
+<li data-list-item-id="ea18c9e687a843bd5198fc1e209b98f46">Fixed a case where deleted items in shared folders kept reappearing.</li>
+<li data-list-item-id="e47a72a47ec429dae3f904ee8cd4b663b">Fixed a case where an Office lock file prevented a deleted folder from being removed locally.</li>
+<li data-list-item-id="e09ec0c4b69be0d5ee7a61875141d9be5">Reduced long pauses during sync processing.</li>
+<li data-list-item-id="ec93fb1f52bd55d033a572f5179dc7e94">Fixed a sync crash that could occur when switching servers during an upload.</li>
+<li data-list-item-id="efab7ed9073ee9e2d9e39d987bb3c829a">Corrected a misleading cannot connect to the network warning caused by a stuck download.</li>
+<li data-list-item-id="e76fed5751f2c2d313cdb1f249c5b45c8">Fixed transfer timeouts that were shorter than intended.</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.37 - 08/31/2026]]></title>
         <id>title-460c2f5ffbe354416c908771e2e17944</id>

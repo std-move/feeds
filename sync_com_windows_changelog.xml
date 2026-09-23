@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com Windows changelog</title>
-    <updated>2026-09-23T18:19:08.507Z</updated>
+    <updated>2026-09-23T22:45:54.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.39 - 09/21/2026]]></title>
+        <id>title-030751e81af1f013e1e878c52aeb0c16</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-09-23T22:43:38.473Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ea91c2a3e78db5708a4f0b131ee91011c">Fixed an issue where web edits made shortly after uploading a file didn’t sync to the desktop app.</li>
+<li data-list-item-id="ea616c98faa46473e7f06113468c0479b">Prevented temporary local file access errors from causing folders to be deleted from Sync.</li>
+<li data-list-item-id="e92483bd66da597df80e1e8933dc7b17b">Fixed two issues that could cause deleted items or folders to reappear in shared folders.</li>
+<li data-list-item-id="ea3cfb4312f3551671e3dba0c1d85981d">Fixed a case where an Office lock file prevented a deleted folder from being removed locally.</li>
+<li data-list-item-id="e7eb322fcf3d97a176cd74fd1ab293fb7">Reduced long pauses during sync processing.</li>
+<li data-list-item-id="e66da9fb498c87d528a524d3910d09ff1">Fixed a sync crash that could occur when switching servers during an upload.</li>
+<li data-list-item-id="ed65032debf3e94f032180c73bd1978ea">Corrected a misleading “cannot connect to the network” warning caused by a stuck download.</li>
+<li data-list-item-id="e46afbabb530a16841c5dd594b8062968">Fixed transfer timeouts that were shorter than intended.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.64 - 09/21/2026]]></title>
+        <id>title-1b5190e5f242ee69e0fc041bdd38c11d</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-09-23T22:43:38.473Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e6ee1e5d98724113c75294313b911f7ce">Fixed an issue where web edits made shortly after uploading a file didn’t sync to the desktop app.</li>
+<li data-list-item-id="e7ba41021a2a5c57bcb938e5bce2a35ce">Prevented temporary local file access errors from causing folders to be deleted from Sync.</li>
+<li data-list-item-id="ea90c13a5b72d17c24e49488d46a3865a">Fixed a case where deleted items in shared folders kept reappearing.</li>
+<li data-list-item-id="ecefabef9a35b3c242008a2e8e63b0699">Fixed a case where an Office lock file prevented a deleted folder from being removed locally.</li>
+<li data-list-item-id="e68799789494b6809b1442e80decb37b1">Reduced long pauses during sync processing.</li>
+<li data-list-item-id="e8310a278bdff88539f479b8946018509">Fixed a sync crash that could occur when switching servers during an upload.</li>
+<li data-list-item-id="eca9d75d8b6d90656a24140bc96f7c4b7">Corrected a misleading cannot connect to the network warning caused by a stuck download.</li>
+<li data-list-item-id="e4301fa02ddaf0cceb85ff92b7fa94c89">Fixed transfer timeouts that were shorter than intended.</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.37 - 08/31/2026]]></title>
         <id>title-460c2f5ffbe354416c908771e2e17944</id>

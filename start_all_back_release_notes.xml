@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.startallback.com/</id>
     <title>StartAllBack release notes</title>
-    <updated>2026-09-23T18:19:08.474Z</updated>
+    <updated>2026-09-23T22:45:54.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.startallback.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 3.9.27 24 Sep 2026]]></title>
+        <id>title-60aec2822b91bf5079e6a02c4803ade7</id>
+        <link href="https://www.startallback.com/?link_extraction_failed=true"/>
+        <updated>2026-09-23T22:43:38.473Z</updated>
+        <content type="html"><![CDATA[Version 3.9.27 24 Sep 2026
+				<li>Fix dark mode broken with 26H2 features</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 3.9.26 21 Sep 2026]]></title>
         <id>title-b0d3d27545c542cd8d01701f84662aef</id>
