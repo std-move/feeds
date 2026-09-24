@@ -4,6 +4,20 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-6d6421c59c4fbe2c8919f106fdacaa35",
+			"title": "▶ 2026 Flagships are going to be wild!",
+			"link": "https://www.notebookcheck.net/2026-Flagships-are-going-to-be-wild-Snapdragon-8-Elite-Extreme-Gen-6.1407692.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/b/csm__1053276_6e5e21fdfe.jpg\" loading=\"lazy\" alt=\"For a new era of flagship phone: The Snapdragon 8 Elite Extreme Gen 6\"></picture><div class=\"intro_featured_bar_title\">▶ 2026 Flagships are going to be wild!</div>",
+			"retrieved": 1790279370247
+		},
+		{
+			"id": "link-31a125fa2e6a484e6fe6e34e116fa95e",
+			"title": "49-inch, flat, ultrawide and Mini-LED: Innocn E49M1R monitor for CAD and creative work in review",
+			"link": "https://www.notebookcheck.net/49-inch-flat-ultrawide-and-Mini-LED-Innocn-E49M1R-monitor-for-CAD-and-creative-work-in-review.1407530.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/3/csm_Innocn-title4_ae4e42029b.jpg\" loading=\"lazy\" alt=\"The Innocn E49M1R displays a technical drawing on the left and DaVinci Resolve on the right.\"></picture><div class=\"intro_featured_bar_title\">49-inch, flat, ultrawide and Mini-LED: Innocn E49M1R monitor for CAD and creative work in review</div>",
+			"retrieved": 1790279370247
+		},
+		{
 			"id": "link-eac1f93d29a3b02d509655ad04a575f5",
 			"title": "Mid-Range Plus: Oppo Reno 16 FS Review",
 			"link": "https://www.notebookcheck.net/Camera-star-with-performance-issues-Oppo-Reno-16-FS-smartphone-review.1407300.0.html",
@@ -37,20 +51,6 @@
 			"link": "https://www.notebookcheck.net/From-Crosshair-to-the-Ally-Asus-ROG-posts-an-impressive-growth-story-in-India-following-20-years-of-innovations.1404970.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Computex_2026/rog_20_years_india-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Computex_2026/rog_20_years_india-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Computex_2026/rog_20_years_india-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Computex_2026/rog_20_years_india-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Computex_2026/rog_20_years_india-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/Computex_2026/rog_20_years_india-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/a/csm_rog_20_years_india_6f8e44dbfc.jpg\" loading=\"lazy\" alt=\"ROG at 20 and the India story\"></picture><div class=\"intro_featured_bar_title\">ROG at 20 and the India story</div>",
 			"retrieved": 1790061774647
-		},
-		{
-			"id": "link-88d345540af584f4c82657454527fb53",
-			"title": "The no-throttle workhorse laptop reviewed",
-			"link": "https://www.notebookcheck.net/Surprisingly-fast-with-32-GB-RAM-and-Ryzen-7-HP-EliteBook-8-G2a-16-laptop-review.1358548.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/HP_EliteBook_8_G2a_16/HP_EliteBook8G2a16_teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/2/csm_HP_EliteBook8G2a16_teaser_c39bdf709e.jpg\" loading=\"lazy\" alt=\"The HP EliteBook 8 G2a 16\"></picture><div class=\"intro_featured_bar_title\">The no-throttle workhorse laptop reviewed</div>",
-			"retrieved": 1790027093391
-		},
-		{
-			"id": "link-08fc8c1707f9316e92a62a46680cf39c",
-			"title": "Apple Mac mini M6 review",
-			"link": "https://www.notebookcheck.net/Compact-powerhouse-with-the-2-nm-M6-SoC-Apple-Mac-mini-2026-Review.1401148.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/Mac_Mini_M6/mac_mini_m6_case_14-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/9/csm_mac_mini_m6_case_14_78ac75497a.png\" loading=\"lazy\" alt=\"Compact powerhouse with the 2 nm M6 SoC - Apple Mac mini 2026 Review\"></picture><div class=\"intro_featured_bar_title\">Apple Mac mini M6 review</div>",
-			"retrieved": 1790007255574
 		}
 	]
 }
