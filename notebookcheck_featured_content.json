@@ -4,6 +4,27 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-c09c98335a039796d2c44ec94050e35d",
+			"title": "▶ Microsoft FINALLY Built a MacBook Air Killer!",
+			"link": "https://www.notebookcheck.net/Microsoft-FINALLY-built-a-MacBook-Air-killer-Fanless-Surface-Pro-Laptop-13.1408674.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/0/csm__1053461_fe489e1c75.jpg\" loading=\"lazy\" alt=\"No Fans, no problem? Microsoft just announced a major change to the Surface Pro 12&quot;, and the Surface Laptop 13&quot;\"></picture><div class=\"intro_featured_bar_title\">▶ Microsoft FINALLY Built a MacBook Air Killer!</div>",
+			"retrieved": 1790365910521
+		},
+		{
+			"id": "link-f54a0f6111ce559996b9e5da88366822",
+			"title": "AI asked: What are the odds that AI will wipe out humanity this decade?",
+			"link": "https://www.notebookcheck.net/AI-asked-What-are-the-odds-that-AI-will-wipe-out-humanity-this-decade.1408390.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/c/csm_doodlartdotcom-artificial-intelligence-4272991_1920_99a93497a7.png\" loading=\"lazy\" alt=\"Cartoonish robots standing next to a human skull\"></picture><div class=\"intro_featured_bar_title\">AI asked: What are the odds that AI will wipe out humanity this decade?</div>",
+			"retrieved": 1790365910521
+		},
+		{
+			"id": "link-8d9b3ff5dc11969f4f5463ac76b03d24",
+			"title": "Your soccer sidekick – Honor Watch 6 review",
+			"link": "https://www.notebookcheck.net/Honor-Watch-6-review-Long-battery-life-plenty-of-data-and-some-question-marks.1408418.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/9/csm_aPic_Honor_Watch_6-3796_befd2f7458.jpg\" loading=\"lazy\" alt=\"Honor Watch 6 review: Long battery life, plenty of data, and some question marks\"></picture><div class=\"intro_featured_bar_title\">Your soccer sidekick – Honor Watch 6 review</div>",
+			"retrieved": 1790365910521
+		},
+		{
 			"id": "link-bc8210f2d61f4eeaeeab4ad45275b429",
 			"title": "The lightweight ThinkBook 14x: 120 Hz for everyday mobile use",
 			"link": "https://www.notebookcheck.net/A-lightweight-and-powerful-everyday-laptop-for-under-900-The-Lenovo-ThinkBook-14x-review.1407308.0.html",
@@ -30,27 +51,6 @@
 			"link": "https://www.notebookcheck.net/49-inch-flat-ultrawide-and-Mini-LED-Innocn-E49M1R-monitor-for-CAD-and-creative-work-in-review.1407530.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/3/csm_Innocn-title4_ae4e42029b.jpg\" loading=\"lazy\" alt=\"The Innocn E49M1R displays a technical drawing on the left and DaVinci Resolve on the right.\"></picture><div class=\"intro_featured_bar_title\">49-inch, flat, ultrawide and Mini-LED: Innocn E49M1R monitor for CAD and creative work in review</div>",
 			"retrieved": 1790279370247
-		},
-		{
-			"id": "link-eac1f93d29a3b02d509655ad04a575f5",
-			"title": "Mid-Range Plus: Oppo Reno 16 FS Review",
-			"link": "https://www.notebookcheck.net/Camera-star-with-performance-issues-Oppo-Reno-16-FS-smartphone-review.1407300.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Reno16_FS/Oppo_Reno_16_FS_im_Test_0-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Reno16_FS/Oppo_Reno_16_FS_im_Test_0-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Reno16_FS/Oppo_Reno_16_FS_im_Test_0-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Oppo/Reno16_FS/Oppo_Reno_16_FS_im_Test_0-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Oppo/Reno16_FS/Oppo_Reno_16_FS_im_Test_0-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Oppo/Reno16_FS/Oppo_Reno_16_FS_im_Test_0-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/5/csm_Oppo_Reno_16_FS_im_Test_0_a68eb87f91.jpg\" loading=\"lazy\" alt=\"Oppo Reno 16 FS Review.\"></picture><div class=\"intro_featured_bar_title\">Mid-Range Plus: Oppo Reno 16 FS Review</div>",
-			"retrieved": 1790240538902
-		},
-		{
-			"id": "link-40e97e727ffae53d0edf7c38762ea3d3",
-			"title": "Ultra-light or rugged: Pitaka’s iPhone 18 Pro (Max) cases in review",
-			"link": "https://www.notebookcheck.net/From-ultra-light-to-rugged-Pitaka-cases-for-iPhone-18-Pro-Max-in-review.1406992.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Pitaka-Huellen-iPhone-18-Pro-Max-Test93-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Pitaka-Huellen-iPhone-18-Pro-Max-Test93-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Pitaka-Huellen-iPhone-18-Pro-Max-Test93-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Pitaka-Huellen-iPhone-18-Pro-Max-Test93-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Pitaka-Huellen-iPhone-18-Pro-Max-Test93-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Pitaka-Huellen-iPhone-18-Pro-Max-Test93-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/4/csm_Pitaka-Huellen-iPhone-18-Pro-Max-Test93_a55c993cf8.jpg\" loading=\"lazy\" alt=\"Pitaka Cases for iPhone 18 Pro (Max) Review\"></picture><div class=\"intro_featured_bar_title\">Ultra-light or rugged: Pitaka’s iPhone 18 Pro (Max) cases in review</div>",
-			"retrieved": 1790187400246
-		},
-		{
-			"id": "link-aaad8b35c6d5eb29d3868a160cdd3a97",
-			"title": "▶ Asus Zenbook 14 Review: Better Than Dell XPS 13 & MacBook Neo?!",
-			"link": "https://www.notebookcheck.net/Asus-Zenbook-14-Review-Better-Than-Dell-XPS-13-MacBook-Neo.1406980.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053153-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053153-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053153-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053153-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053153-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053153-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/f/csm__1053153_4984e2bfa5.jpg\" loading=\"lazy\" alt=\"Who makes the best affordable, yet premium laptop? Apple, Dell or Asus with the Zenbook 14?\"></picture><div class=\"intro_featured_bar_title\">▶ Asus Zenbook 14 Review: Better Than Dell XPS 13 &amp; MacBook Neo?!</div>",
-			"retrieved": 1790187400246
 		}
 	]
 }
