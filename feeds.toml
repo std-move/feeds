@@ -292,7 +292,7 @@ title = "VMware Fusion release notes"
 # need to update this link when there is a new major version
 url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html"
 waitForSelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]"
-entrySelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]//li"
+entrySelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]//ul//li"
 titleSelector = "a"
 contentSelector = []
 
@@ -318,7 +318,7 @@ title = "VMware Workstation release notes"
 # need to update this link when there is a new major version
 url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1.html"
 waitForSelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]"
-entrySelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]//li"
+entrySelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]//ul//li"
 titleSelector = "a"
 contentSelector = []
 
