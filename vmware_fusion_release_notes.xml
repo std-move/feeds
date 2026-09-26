@@ -2,15 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html</id>
     <title>VMware Fusion release notes</title>
-    <updated>2026-09-26T17:33:01.850Z</updated>
+    <updated>2026-09-26T17:36:54.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Release Notes]]></title>
-        <id>title-bd4702c187a9a655880be010957d7688</id>
-        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
-        <updated>2026-09-26T17:30:49.891Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[VMware Fusion 26H1u1 Release Notes]]></title>
         <id>title-21f50947775fb0dbb5a4746795da76c6</id>
@@ -20,12 +14,6 @@
     <entry>
         <title type="html"><![CDATA[VMware Fusion 26H1 Release Notes]]></title>
         <id>title-0046141dbf953efe76a45682ad383554</id>
-        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
-        <updated>2026-09-26T17:30:49.891Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using VMware Fusion Pro]]></title>
-        <id>title-e7111f8ec1103e4fd923822dfc48ecca</id>
         <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
         <updated>2026-09-26T17:30:49.891Z</updated>
     </entry>
@@ -1658,12 +1646,6 @@
     <entry>
         <title type="html"><![CDATA[Force Virtual Machine Processes to Quit]]></title>
         <id>title-ba684b05261e4aadc8a7cba4b7b045ea</id>
-        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
-        <updated>2026-09-26T17:30:49.891Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documentation Legal Notice]]></title>
-        <id>title-20317c760af81ad6db7068018536373e</id>
         <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
         <updated>2026-09-26T17:30:49.891Z</updated>
     </entry>

@@ -4,12 +4,6 @@
 	"favicon": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/favicon.ico",
 	"elements": [
 		{
-			"id": "title-bd4702c187a9a655880be010957d7688",
-			"title": "Release Notes",
-			"contents": "",
-			"retrieved": 1790443849891
-		},
-		{
 			"id": "title-21f50947775fb0dbb5a4746795da76c6",
 			"title": "VMware Fusion 26H1u1 Release Notes",
 			"contents": "",
@@ -18,12 +12,6 @@
 		{
 			"id": "title-0046141dbf953efe76a45682ad383554",
 			"title": "VMware Fusion 26H1 Release Notes",
-			"contents": "",
-			"retrieved": 1790443849891
-		},
-		{
-			"id": "title-e7111f8ec1103e4fd923822dfc48ecca",
-			"title": "Using VMware Fusion Pro",
 			"contents": "",
 			"retrieved": 1790443849891
 		},
@@ -1656,12 +1644,6 @@
 		{
 			"id": "title-ba684b05261e4aadc8a7cba4b7b045ea",
 			"title": "Force Virtual Machine Processes to Quit",
-			"contents": "",
-			"retrieved": 1790443849891
-		},
-		{
-			"id": "title-20317c760af81ad6db7068018536373e",
-			"title": "Documentation Legal Notice",
 			"contents": "",
 			"retrieved": 1790443849891
 		}

@@ -4,12 +4,6 @@
 	"favicon": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/favicon.ico",
 	"elements": [
 		{
-			"id": "title-bd4702c187a9a655880be010957d7688",
-			"title": "Release Notes",
-			"contents": "",
-			"retrieved": 1790443849891
-		},
-		{
 			"id": "title-d4e7357143e475f843f8700d7f698f66",
 			"title": "VMware Workstation Pro 26H1u1 Release Notes",
 			"contents": "",
@@ -18,12 +12,6 @@
 		{
 			"id": "title-7a609bcbbd6f53fa4d7fd5e9f2435910",
 			"title": "VMware Workstation Pro 26H1 Release Notes",
-			"contents": "",
-			"retrieved": 1790443849891
-		},
-		{
-			"id": "title-8e6066e50c5f522473ec019859a00185",
-			"title": "Using VMware Workstation Pro",
 			"contents": "",
 			"retrieved": 1790443849891
 		},
@@ -2896,12 +2884,6 @@
 			"retrieved": 1790443849891
 		},
 		{
-			"id": "title-a473808c13fa8f5bb00551dec2c42be2",
-			"title": "Using VMware Workstation Player for Windows",
-			"contents": "",
-			"retrieved": 1790443849891
-		},
-		{
 			"id": "title-5ed61501dbe0af15980a8cdf0830c122",
 			"title": "Introduction and System Requirements",
 			"contents": "",
@@ -4360,12 +4342,6 @@
 			"retrieved": 1790443849891
 		},
 		{
-			"id": "title-62f9a54356a60db475c6deae482a64b5",
-			"title": "Using VMware Workstation Player for Linux",
-			"contents": "",
-			"retrieved": 1790443849891
-		},
-		{
 			"id": "title-5ed61501dbe0af15980a8cdf0830c122",
 			"title": "Introduction and System Requirements",
 			"contents": "",
@@ -5820,12 +5796,6 @@
 		{
 			"id": "title-7659be4a174c12111df73c9e3fe6f9ae",
 			"title": "Examples of vmrun Commands",
-			"contents": "",
-			"retrieved": 1790443849891
-		},
-		{
-			"id": "title-20317c760af81ad6db7068018536373e",
-			"title": "Documentation Legal Notice",
 			"contents": "",
 			"retrieved": 1790443849891
 		}
