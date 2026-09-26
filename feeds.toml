@@ -283,9 +283,9 @@ contentSelector = "td:nth-of-type(3)"
 title = "VMware Fusion major version list"
 url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html"
 waitForSelector = "#version-select"
-entrySelector = "#version-select"
-titleSelector = "option"
-contentSelector = "option"
+entrySelector = "#version-select option"
+titleSelector = "*"
+contentSelector = "*"
 
 # disabled due to unresolved issues with selecting title after wiki changes (cannot select exact version while excluding 'Unsupported' prefix and '[ref_num]' suffix)
 # [vmware_workstation_wiki_version_history]
