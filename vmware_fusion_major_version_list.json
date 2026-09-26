@@ -1,5 +1,25 @@
 {
 	"title": "VMware Fusion major version list",
 	"url": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html",
-	"elements": []
+	"favicon": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/favicon.ico",
+	"elements": [
+		{
+			"id": "title-647c6c7b184c79edcc53445cd005352e",
+			"title": "26H1",
+			"contents": "26H1",
+			"retrieved": 1790443849891
+		},
+		{
+			"id": "title-11e38885db1b00f128f3537ffbe0fa96",
+			"title": "25H2",
+			"contents": "25H2",
+			"retrieved": 1790443849891
+		},
+		{
+			"id": "title-be293da5be477078cbeee7feef7b384f",
+			"title": "13.0",
+			"contents": "13.0",
+			"retrieved": 1790443849891
+		}
+	]
 }

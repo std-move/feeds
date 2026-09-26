@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html</id>
+    <title>VMware Fusion release notes</title>
+    <updated>2026-09-26T17:33:01.850Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Release Notes]]></title>
+        <id>title-bd4702c187a9a655880be010957d7688</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Fusion 26H1u1 Release Notes]]></title>
+        <id>title-21f50947775fb0dbb5a4746795da76c6</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Fusion 26H1 Release Notes]]></title>
+        <id>title-0046141dbf953efe76a45682ad383554</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using VMware Fusion Pro]]></title>
+        <id>title-e7111f8ec1103e4fd923822dfc48ecca</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Fusion Pro]]></title>
+        <id>title-0603b759f51ee095c2cfa4114b5fdfc0</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basics About VMware Fusion Pro]]></title>
+        <id>title-e1e7a1547fe5c5fad54c47ca7379311d</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About VMware Fusion Pro]]></title>
+        <id>title-61d8c97d6503161ee63602a8795f8043</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Requirements for Fusion Pro]]></title>
+        <id>title-5451acf825ab765dd7b25ddcf8b80a99</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Fusion Pro]]></title>
+        <id>title-6c72799e2e34445287ff2cb27f7407e3</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start Fusion Pro]]></title>
+        <id>title-5359e385df263d56c6da377abe5daa93</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take Advantage of Fusion Pro Online Resources]]></title>
+        <id>title-e4898a864a6e5d8affa6fa0147865aed</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Fusion Pro]]></title>
+        <id>title-a2b2ea6b7a5bd51eef09dd8bf5596a16</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Machines and What Fusion Pro Can Do]]></title>
+        <id>title-4ad1f24226eef6bfb93f917fc1aa1571</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a Virtual Machine?]]></title>
+        <id>title-3342227d1751d43675e3372011309ec0</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fusion Pro Capabilities]]></title>
+        <id>title-9d2a41bebf801b26e01d1ebe5379135c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supported Guest Operating Systems]]></title>
+        <id>title-2ecb9ed9a45b3fc880325776858ed482</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Hardware Specifications]]></title>
+        <id>title-4cbf9458211424aaccca66b86d63afce</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solid-State Drives]]></title>
+        <id>title-d909750c88cb578c921492e1a1075bc1</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating and Taking Action by Using the Fusion Pro Interface]]></title>
+        <id>title-ccd9f5b08cdab1db1a13f0afe8c9a09b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Fusion Pro Toolbar]]></title>
+        <id>title-60b8350d38d0d4cf23d334aa0dd06954</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the Fusion Pro Toolbar to Access the Virtual-Machine Path]]></title>
+        <id>title-3df4b09504a225846cf3c4a0fc7b8817</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default File Location of a Virtual Machine]]></title>
+        <id>title-62fe09897fcec86249bcb661949fef4a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change the File Location of a Virtual Machine]]></title>
+        <id>title-62c57304905a64f029eaf3f0b7b7d272</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perform Actions on Your Virtual Machines from the Virtual Machine Library Window]]></title>
+        <id>title-69922d3d678daa5540b019e1fb394976</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Home Pane to Create a Virtual Machine or Obtain One from Another Source]]></title>
+        <id>title-373d1313a9ba9cdb3cb9b34bb1d460ea</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power On the Boot Camp Partition as a Virtual Machine]]></title>
+        <id>title-3a83a97433f70b5b141ed050fc77f93e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Different Views in the Fusion Pro Interface]]></title>
+        <id>title-6924c144cb58e370e1a3a377b2cb6397</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Single Window View to Have Your Virtual Machine Appear in a Single Window on the Mac Desktop]]></title>
+        <id>title-9372ba5bee33b1da30daeb95f6ffed94</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch to Single Window View]]></title>
+        <id>title-e0b5e38b5a2e3422b125b7e8cf2b05ac</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Return to Another View from Single Window View]]></title>
+        <id>title-3ea38352eb582ee386fad340ed4adc4c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Full Screen View To Make Your Virtual Machine Desktop Fill Your Display]]></title>
+        <id>title-f1a2eed6e1d9533bd6b2b63804abc409</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch Fusion Pro to Full Screen View]]></title>
+        <id>title-4defdacc5699d9e66fc80207a005502e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hide the VMware Fusion Pro Menu Bar in Full Screen View]]></title>
+        <id>title-593ded782e4f957dd4df93b624c3aa5e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set the Full Screen Minibar]]></title>
+        <id>title-e7cde1d5909b406631099ab75e3e09aa</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Return to Another View from Full Screen View]]></title>
+        <id>title-5f621017d71a18457a7d4e323bda5313</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resize the Virtual Machine Display to Fit]]></title>
+        <id>title-49856403698e5c98d4c6856186f9819c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Multiple Displays]]></title>
+        <id>title-5890ba3bfcf22dc115527bce106ff2a4</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use All Displays in Full Screen View]]></title>
+        <id>title-0c3d06ed86894224265b0e350a9468da</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move Full Screen View to One of Multiple Displays]]></title>
+        <id>title-9b651ed9858ced0981f53fad2d82f1af</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Fusion Pro]]></title>
+        <id>title-8fe4410ab12ca7d4537aed42b1911fc7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Fusion Pro Settings]]></title>
+        <id>title-0caa5adffc488a0d53be4e0a0d70b9be</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set General Settings]]></title>
+        <id>title-88765e24447199165b7e351eae0dd2bb</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Select a Keyboard and Mouse Profile]]></title>
+        <id>title-2a71e702c4254940e62ba6ad100bf388</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Key Mappings on the Keyboard and Mouse Settings Pane]]></title>
+        <id>title-7032b6452023b5f9a170c8c0658ece02</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Mouse Shortcuts on the Keyboard and Mouse Preference Pane]]></title>
+        <id>title-77ccd7aa3cb6517e1991bb7316c86979</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activate or Deactivate Mac Host Shortcuts on the Keyboard and Mouse Preference Pane]]></title>
+        <id>title-ba6e853cbfb96b2842593ccc36f8f1bc</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activate Fusion Pro Shortcuts on the Keyboard and Mouse Preference Pane]]></title>
+        <id>title-28f3241c4d487e31ba5198a271783a3c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Fusion Pro Display Resolution Settings]]></title>
+        <id>title-582af83c72d024d2acdf43843442f93b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Default Applications Settings]]></title>
+        <id>title-9f0e10a00fc8aa1bb7c4513c8db4b9a3</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Custom Networks]]></title>
+        <id>title-dda9bc68f28a820a53f58009ba69b75b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a NAT Configuration]]></title>
+        <id>title-6ea5c7355e6a3fb83d15f38c1dd5f82f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Private Network Configuration]]></title>
+        <id>title-d9901506feb88c11b2ee6036bc2d37a2</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Jumbo Frames]]></title>
+        <id>title-a7d9aee7ff0567def54793d479b70ba8</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Dictation]]></title>
+        <id>title-a38342da324f715632eec9b326a0320a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join or Leave the Customer Experience Improvement Program]]></title>
+        <id>title-3c379e80395f58bc2f5e2fd7661a1481</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizing the Fusion Pro Display]]></title>
+        <id>title-c6f9da5a925c2ef67adcb38c22a2f761</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show or Hide the Fusion Pro Toolbar]]></title>
+        <id>title-d27e74a0e135444a8007043b2ef393d4</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize the Fusion Pro Toolbar]]></title>
+        <id>title-60e6ab1e9b3868e13d713e2f72dd5d90</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resize the Fusion Pro Display and Resolution]]></title>
+        <id>title-3f2a4928e70947cbeb188d086bf48385</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep a Windows Application in the Mac Dock on the Intel-based Mac]]></title>
+        <id>title-f1086d2ec5c8dead2f0097f13036b529</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set a Virtual Machine Application to Open When You Log in to Your Mac]]></title>
+        <id>title-f4ff666b2c4d64376d13bad06b76e9cd</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contents of the Virtual Machine Package]]></title>
+        <id>title-47bebc0319ffd9bc74ab72791ab88613</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work with Virtual Machine Packages]]></title>
+        <id>title-522007ccf5a6d7d74bd1e2c260bcbead</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Virtual Machines]]></title>
+        <id>title-2611fedf92840df0e3eeaf5384fbc1c3</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Machine]]></title>
+        <id>title-2a220ee859032a6a9bcfdd8512502d95</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Microsoft Windows Virtual Machine]]></title>
+        <id>title-8f4a1c6e1d3eb79471dc466a9a5d6232</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Machine by Using Windows Easy Install]]></title>
+        <id>title-d022a4a5b218dae710159ce0f211c601</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Machine by Using Windows Easy Install and a Disc Image File]]></title>
+        <id>title-697346e2a1e2480c0cceeb8b0e61459d</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Windows 11 as the Guest Operating System]]></title>
+        <id>title-7fb54f83b43116cac80df7e7921c9cc9</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download and Install Windows 11 as Guest Operating System on Apple Silicon Mac]]></title>
+        <id>title-75c30da7cb7f18b6464c4734a130ddf7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download and Generate Windows 11 ISO Using the Command-line Interface]]></title>
+        <id>title-0aab41617bd460149e2febcb2817f023</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Linux Virtual Machine in Fusion Pro]]></title>
+        <id>title-62207ff697340479422de93a8b876462</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Machine by Using Linux Easy Install and an Installation CD]]></title>
+        <id>title-5d9265ce5fc0e63f50ab744ad35194fb</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Machine by Using Linux Easy Install and an Image File]]></title>
+        <id>title-94ab4c0e691671536e3cd2891eeb6e86</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a macOS Virtual Machine in Fusion Pro]]></title>
+        <id>title-f7c241aa3547c7b6054f2303af257d0f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Shared Virtual Machine in Fusion Pro]]></title>
+        <id>title-23848b9552223d8df7c22bd0c9fcf90a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Machine from a Mac Recovery Partition]]></title>
+        <id>title-f782b23fa8931b125881fba18c6db1c7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Machine on a Remote Server]]></title>
+        <id>title-36e5adee51a1d1a33d5833c3be1e2df6</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Machine for Any Supported Operating System]]></title>
+        <id>title-fc6472de76548c2f70abdc385eb87fec</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power On the Boot Camp Partition as a Virtual Machine]]></title>
+        <id>title-3a83a97433f70b5b141ed050fc77f93e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activate Windows in a Virtual Machine]]></title>
+        <id>title-7e9de814760267a5c8a09ce219fdf4ed</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upload a Virtual Machine to a Remote Server]]></title>
+        <id>title-09e3b5b64a951bc6b61816e99f93b7cc</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download a Virtual Machine from a Remote Server]]></title>
+        <id>title-1481539f180279424f566e6f6ab529e4</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Importing Windows Virtual Machines]]></title>
+        <id>title-4a87cdd375625fb879d14291982808ff</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supported Guest Operating Systems for Import]]></title>
+        <id>title-f67416414be433d6336d623693424ed8</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Importing Affects Settings]]></title>
+        <id>title-38bc90d58d4b913ed5801a94251bcd16</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Import a Parallels Virtual Machine]]></title>
+        <id>title-280e00f955e1b84369160016f76c5657</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Import the Boot Camp Partition]]></title>
+        <id>title-0da44cadacf7c59e626d72a26284dd63</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Import an Open Virtualization Format Virtual Machine on Intel-based Mac]]></title>
+        <id>title-05a37cd8125d2e4fd77ebbaa91becade</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Export a Virtual Machine to OVF Format on Intel-based Mac]]></title>
+        <id>title-6dd94552692c2e872e5d188a709960b8</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Export a Virtual Machine with vTPM to OVF Format on Intel-based Mac]]></title>
+        <id>title-8624fbcd9f4a75092fdb6c3fdbf17560</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installing and Using VMware Tools]]></title>
+        <id>title-ea68d68bbe665efdafd8f008406b2d3f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installing or Upgrading VMware Tools]]></title>
+        <id>title-d23e820c82f9e49ed4c455fbab944e79</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manually Install VMware Tools on Windows]]></title>
+        <id>title-b94db5b1712267243bf8a2744d7bde1c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manually Install VMware Tools on Linux]]></title>
+        <id>title-76ab683b1924cfbfc22abd73333ca12f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manually Install VMware Tools on macOS]]></title>
+        <id>title-2d27f3259dd9dda4871d146d64b8927f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Repair or Change Modules in Windows Virtual Machines]]></title>
+        <id>title-6d333fc9ed68ddcd275ec1d135e5f71e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uninstalling VMware Tools]]></title>
+        <id>title-c7c1e3825104dac51a71d0c3cef47055</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloning Virtual Machines with Fusion Pro]]></title>
+        <id>title-2bb51596a70c1a55674c272aabab7984</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Linked Clones]]></title>
+        <id>title-ff691873efcf832baebdaac8a465c443</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Full Clones]]></title>
+        <id>title-d7b4b42c019af12a2b93db1ad0cc7131</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clone a Virtual Machine]]></title>
+        <id>title-42976fefefbd370e4253fd01b2daf0ce</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Your Virtual Machines]]></title>
+        <id>title-28364d42cfcdd9142a1d5d54d66edd8e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scan for Virtual Machines to Add to the Virtual Machine Library]]></title>
+        <id>title-371aeebcff55ebf86cb1846012a80662</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Fusion Pro and Virtual Machines]]></title>
+        <id>title-f04c6001deaee74a8093e5192b1e44af</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open an Existing Virtual Machine]]></title>
+        <id>title-a2f1377590b84d9ed084f32de54d544c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browse for a Virtual Machine]]></title>
+        <id>title-b3b5f9d9e80107ec6f84c1896b0daae7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open a Virtual Machine From the Finder]]></title>
+        <id>title-6f2776c2dfcbe9e8ecae6d76326dabc3</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start a Virtual Machine's Operating System]]></title>
+        <id>title-326b97d954315735ee13e6b39f3aa882</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open a Virtual Machine Without Powering On]]></title>
+        <id>title-d228712805807b0db13526e174d0636c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shut Down a Virtual Machine's Operating System]]></title>
+        <id>title-8ca35cae9e157980e7f25be68334ca43</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suspend and Resume a Virtual Machine in Fusion Pro]]></title>
+        <id>title-c17b669460837be95dfa0cf288c8920b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancel a Resume Command]]></title>
+        <id>title-21be1723283cba998793443b5718a3d6</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power on a Virtual Machine to Firmware in Fusion Pro]]></title>
+        <id>title-6fe5177a8789dc2712af5b5f771708f1</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pause a Virtual Machine]]></title>
+        <id>title-e317a544eb4af833c1ed6ac60765173d</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restart a Virtual Machine]]></title>
+        <id>title-e850499d474b54b4a5b49f38f581fe34</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reset a Virtual Machine]]></title>
+        <id>title-4810ab3ed01a01e53eb4288298b72c1e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uninstall a Virtual Machine by Using the Finder]]></title>
+        <id>title-5f384d32ed831a103d725b29b8c914b7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uninstall a Virtual Machine by Using the Virtual Machine Library]]></title>
+        <id>title-b736a92c2412b1bd9055264884f26f50</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure SSH Login on a Linux Virtual Machine]]></title>
+        <id>title-078ec65c5a878d3e6c50909cf4984f7d</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit or Delete the SSH Login Configuration for a Linux Virtual Machine]]></title>
+        <id>title-5d59cad499a615a1a98d3db7c65d227f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send the Ctrl-Alt-Delete Command to a Virtual Machine]]></title>
+        <id>title-2a86f67591472a5097d9261035f591dd</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send Special Key Commands to a Windows or Linux Virtual Machine]]></title>
+        <id>title-c7af3ed60d8a6c78b74c4e9fea1400c8</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Special Key Commands]]></title>
+        <id>title-806244e9c5dc4b85d1bd806b3fa90e50</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch Power Commands from the Default Options]]></title>
+        <id>title-4a6f0ea940f07d7718612f2283a50c9d</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Options for Fusion Pro Power Commands]]></title>
+        <id>title-752e9b075b4fbcb1479f265c38c4c568</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving and Sharing Files with Your Mac]]></title>
+        <id>title-76ba1ed3d63df233fc3afc1349b6ba2a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving and Copying Files and Text Between Virtual Machines and Your Mac]]></title>
+        <id>title-e619b7f8ce842b0a653ea3e12babd297</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drag Files and Folders Between Virtual Machines and Your Mac]]></title>
+        <id>title-e98b835e0386d22d5522c415d23a9e1d</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy and Paste Between Virtual Machines and Your Mac Using the Menu]]></title>
+        <id>title-e89c41ac4259a5120cc295c3f1943203</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy and Paste Between Virtual Machines and Your Mac Using Keyboard Shortcuts]]></title>
+        <id>title-ea64731e716460c7dcb7ce1abd0da87e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View Shared Folders in a Windows Guest by Using Windows Explorer]]></title>
+        <id>title-45dc4f2a605ffb4cda3b87ee47dc2fed</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View Shared Folders in a Windows Guest by Mapping Them as a Drive]]></title>
+        <id>title-fd4170c5eba4ab7d9458129d57981c4f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View Shared Folders in a Linux Guest]]></title>
+        <id>title-dbc449bbd5ad5443a0ca5ceb521b70a5</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View Shared Folders in a macOS Guest]]></title>
+        <id>title-ab42d0eab54a5a7f5a1706dcbf7e3a09</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing Applications Between Your Mac and Your Windows Virtual Machines]]></title>
+        <id>title-88df568b345a56265c7c8b3dbd45b2b1</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open a File in a Virtual Machine with an Application on Your Mac]]></title>
+        <id>title-5c135b9965883eda78da0047d66e2b4d</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open a File on Your Mac with an Application in a Virtual Machine]]></title>
+        <id>title-4e48644c03a9e2a7ef0cdb10b10a3768</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep a Windows Application in the Mac Dock on the Intel-based Mac]]></title>
+        <id>title-f1086d2ec5c8dead2f0097f13036b529</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch Between Virtual Machines That Are Powered On]]></title>
+        <id>title-c657d14bd435800feb74e5fe3c85011f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Mac Input Devices in a Virtual Machine]]></title>
+        <id>title-c1fb9f77b4f8956247d4c2daedd2e55b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable the Secondary Button in an Apple Mighty Mouse]]></title>
+        <id>title-d79da15fa9cfec788e51de9ae3882ec0</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Mac Keyboards in a Virtual Machine]]></title>
+        <id>title-754adca88eea79e40f9919717986034a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Force Virtual Machines to Grab Keyboard and Mouse Input]]></title>
+        <id>title-68b8952ca29844c9761743a465593e1e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing Files Between Windows and Your Intel-based Mac]]></title>
+        <id>title-6c51130d3c1b5cac919092626788a8cc</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Operating Systems That Support Shared Folders]]></title>
+        <id>title-8abc768f054428ff743b60a24416e5ed</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Operating Systems That Support Mirrored Folders]]></title>
+        <id>title-94837650f295e392ecbba4523e288d65</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Shared Folders or Mirrored Folders for a Virtual Machine]]></title>
+        <id>title-17b3da8b1668274b12ed9bd21475e126</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add or Remove a Mirrored Folder]]></title>
+        <id>title-fc35d5a5fb9adc4313153489a4ed6188</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Shared Folder]]></title>
+        <id>title-06e89df2f4593f92d4afd74dc6c34635</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove a Shared Folder]]></title>
+        <id>title-c730452b9001e46abe1634587450c922</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting Your Virtual Machines]]></title>
+        <id>title-a899c2506a8169facd3e6bf33ec33bd6</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapshots]]></title>
+        <id>title-f187f78e07efb26eacf88e2d361f91f4</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View Snapshots for a Virtual Machine]]></title>
+        <id>title-ae5513efd6727e799677b6292f1fdbe0</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take a Snapshot]]></title>
+        <id>title-da0a71d7a0c0fcf41d9885fd38305e6c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restore a Virtual Machine to the State in a Snapshot]]></title>
+        <id>title-d2eff40ef4c96d3dee72429854c085da</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delete a Snapshot]]></title>
+        <id>title-6df2318c3a13feeaceb93247700e2600</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AutoProtect]]></title>
+        <id>title-64ec6228368a9b405db433d62c7096b6</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Up Automatic Snapshots with AutoProtect]]></title>
+        <id>title-c5299a8e0a815e13c7c43ba72d2512dd</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prevent the Deletion of an AutoProtect Snapshot]]></title>
+        <id>title-eabb17ef181c0096b4659a9de8fa1196</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy a Virtual Machine to External Media]]></title>
+        <id>title-7a294fc1d078c3f4d53a0ff338867b52</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Time Machine When You Have Fusion Pro on Your Mac]]></title>
+        <id>title-ba9d31e00fa19fe946bf98a71fb565f2</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclude a Virtual Machine From Time Machine]]></title>
+        <id>title-ce9293e4161e44842b13d54a0b565920</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Shared and Mirrored Folders If You Back Up Your Mac With Time Machine]]></title>
+        <id>title-3ef05cf3204b72b1f31ed39149ca1123</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Your Virtual Machines]]></title>
+        <id>title-23dbb24e1c79282f9e277da4f64f98d2</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fusion Pro General System Settings]]></title>
+        <id>title-1e547a1a3c5122e0a82507f7dcb16b5b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set a Virtual Machine to Start When Fusion Pro Starts]]></title>
+        <id>title-38ea6a238d79b8ad43c6511f482104ee</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Virtual Processors and Memory]]></title>
+        <id>title-04e949a40dde6989f39664490e4f9af1</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set the Number of Virtual Processors]]></title>
+        <id>title-30599f5a24a32c375d8dc560092d0858</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set the Amount of Virtual Memory]]></title>
+        <id>title-d42a96a9f9a9284f508369b9fae577dd</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Advanced Processor Options]]></title>
+        <id>title-96c4ac39969529d04eb7578d4d050512</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Default Applications]]></title>
+        <id>title-784050914e68eae2ef787defa800e8fe</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Nap Support]]></title>
+        <id>title-103194252e51a437ada80f82cb0dd364</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Keyboard and Mouse Profiles]]></title>
+        <id>title-ffd0ea169d4896ec5573f59f18b82678</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable a CD/DVD Drive on a Remote Virtual Machine]]></title>
+        <id>title-2d0be1c728c23f277370368706b72332</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable a Floppy Drive on a Remote Virtual Machine]]></title>
+        <id>title-f91f03bccdba0a576d605b881ea94810</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View the Status of a Server or Remote Virtual Machine]]></title>
+        <id>title-befc0d129d28702216a544a94cfe43ec</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Display Resolution Settings]]></title>
+        <id>title-b40fcd00bdb30d8dce66d58cb21377b0</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Accelerated 3D Graphics]]></title>
+        <id>title-e6f70f5237b5114da2d8235e4c800a61</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable External GPU]]></title>
+        <id>title-244b79e65b2ba6411dd47dd187d12f17</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Retina Display Support]]></title>
+        <id>title-c3a0fd8f131dcaff56d79f25f5ae38a3</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Resolution Settings for Virtual Machine Display]]></title>
+        <id>title-364a602820b910d1c6fa4188a454a085</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Hot Keys for Virtual Machines]]></title>
+        <id>title-e5e7ef97b2234a1326943b029defe955</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Discrete Graphics Management]]></title>
+        <id>title-8f40e8e5d85432e8416cf63f02ac6dd7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Device]]></title>
+        <id>title-fc80da37b8a7a4c78c787f434c9409df</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring the Network Connection]]></title>
+        <id>title-666a9c313c49ef9e05c4fe3df07a94c2</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect and Set Up the Network Adapter]]></title>
+        <id>title-c01e04cd25d7e3609fbea99b23df3d2d</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assign a MAC Address to a Virtual Machine Manually]]></title>
+        <id>title-c6fda1cd0a7837b2b6b0c2e9f0f1fa30</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Network Adapter]]></title>
+        <id>title-a738ec8218c49ee65630e18a6882af9f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change the Network Adapter on a Remote Virtual Machine]]></title>
+        <id>title-dd042e1d0c143178d695366787966722</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove a Network Adapter]]></title>
+        <id>title-d41af41970b8e85e13794d70a68d53e1</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulate a Network Environment with Fusion Pro]]></title>
+        <id>title-0f3bb11b8a2e5097f6237b076113ba2a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Virtual Hard Disks]]></title>
+        <id>title-791103c92e46b8de613ccd7f40186e40</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Hard Disk]]></title>
+        <id>title-540bd7dc056a4a52aec937f878bde0bb</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resize a Hard Disk]]></title>
+        <id>title-210d6d251c24d89c803414847fb63da3</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resize a Windows Partition with the Disk Management Tool]]></title>
+        <id>title-fbbc366739b59bddd2495d2b9da787ab</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clean up a Virtual Machine]]></title>
+        <id>title-593618e1e2ef5f4b55d1d2dadd51c0ea</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add an Existing Virtual Hard Disk]]></title>
+        <id>title-599baac222884a3ddf176844a33bac57</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a VMDK on a Remote Virtual Machine]]></title>
+        <id>title-257ccb4da8ae6820f853df58b5450684</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove a Hard Disk]]></title>
+        <id>title-7c053f780b8e3ce572f692ca3be4c12a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Virtual DiskManager]]></title>
+        <id>title-b0a7342e5489d91a9ae73df71c1fbfdd</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring the CD/DVD Drive]]></title>
+        <id>title-ec908474ee23723cd3cfba0497815545</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a CD/DVD Drive]]></title>
+        <id>title-82880e0ad0abc0715930db7d0c286e39</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove a CD/DVD Drive]]></title>
+        <id>title-93b15471d9e7de886e31e291029620e3</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect and Set Up a CD/DVD Drive]]></title>
+        <id>title-cf7ce157824e081fd6e7635911f5f1c6</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect and Disconnect the CD/DVD Drive Without Using the Settings Window]]></title>
+        <id>title-a972807e1ac600a225f8fc49aaab58f9</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a CD/DVD Image]]></title>
+        <id>title-4fcdb41faf678921b5e98655f5fb4bea</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable a CD/DVD Drive on a Remote Virtual Machine]]></title>
+        <id>title-2d0be1c728c23f277370368706b72332</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring a Floppy Device]]></title>
+        <id>title-78acb144d14db1e5697441bfb0e331e7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Floppy Device]]></title>
+        <id>title-b021121397439300d2e825900112c220</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect and Set Up a Floppy Device]]></title>
+        <id>title-8ad883d309db97043bdbae8533895a0f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Floppy Disk Image]]></title>
+        <id>title-8f9cac66b922079d4f88929a1bfc43cc</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable a Floppy Drive on a Remote Virtual Machine]]></title>
+        <id>title-f91f03bccdba0a576d605b881ea94810</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring the Sound Card]]></title>
+        <id>title-99cc299cd0ce6425fc67cf5faf3d69f2</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect the Sound Card]]></title>
+        <id>title-1f7bce31907cf6f9bc7a2dcc2c8eacfe</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect and Disconnect a Sound Adapter Without Using the Settings Window]]></title>
+        <id>title-388ca84d22e626a183389623b75373f8</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Sound Adapter]]></title>
+        <id>title-6d167e7e6c0ab8c6fb46c2609ea014a4</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove a Sound Adapter]]></title>
+        <id>title-e8b8b1df9cadec23d01cb58861c21aee</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Camera to a Virtual Machine]]></title>
+        <id>title-a0952e28034e7a74a1a8081360ea3d46</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring the USB Controller and Connecting USB Devices]]></title>
+        <id>title-81f8c99bf6ee3d34a7ba49732b19cafb</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add the USB Controller]]></title>
+        <id>title-8232eb9036a9d58c0bfca03decbedbe1</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove the USB Controller]]></title>
+        <id>title-10b50c5e90311c4ea755456489df9b12</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choose Where to Connect a USB Device When You Plug It In]]></title>
+        <id>title-18b8b06251170af9e75935cbe6d3483c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set the Default Plug-In Action for a USB Device]]></title>
+        <id>title-2d75c8814a39c2131cf71a8fd7e21fab</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect and Disconnect USB Devices]]></title>
+        <id>title-86e126a66c0d20a65515300e4184aa7a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect and Disconnect a USB Device Using the Virtual Machine Toolbar]]></title>
+        <id>title-89175cd98fc5c4faab63dbb6cf2faae7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect a USB Smart Card Reader]]></title>
+        <id>title-a7c7b91d43f070a7a8aad7db102fb59c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB Connection Dialog Box Disappears Before Connection Can Be Made]]></title>
+        <id>title-1e9cbdea3149ea7e2d2a3b2f63ec2e5b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Parallel Port]]></title>
+        <id>title-b9940aa272e6363a11f5ede872ac316c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Serial Port]]></title>
+        <id>title-cbe452fc6be4af36e777d1066a8d0e8a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring a Trusted Platform Module Device]]></title>
+        <id>title-4d484c63c14820c6548449903600cd70</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual Trusted Platform Module Device]]></title>
+        <id>title-8dd028c93f7fdd15c1911d381ce8cd9a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove a Virtual Trusted Platform Module Device]]></title>
+        <id>title-a95625cd22722c45884f33579c77737e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Select a Startup Device]]></title>
+        <id>title-d84bbf69ca3558746d7bf69c8143c300</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encrypting a Virtual Machine]]></title>
+        <id>title-3ec5aee38849f5a07b5a26580e876556</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encrypt a Virtual Machine]]></title>
+        <id>title-1720c9cedfeee7f0ad5e5c82e88a5431</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change the Password for an Encrypted Virtual Machine]]></title>
+        <id>title-8b91c66adbc24c210c54b9e7bf065579</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove Encryption from a Virtual Machine]]></title>
+        <id>title-4fe52556b0385452775c1d4b536454c2</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Store the Password for an Encrypted Virtual Machine in Keychain]]></title>
+        <id>title-bbd31d0528d0f8e1b47a5d1175bd1785</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Machine Compatibility]]></title>
+        <id>title-5549f9abf9cba128084269291806fd9a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change the Hardware Compatibility of a Virtual Machine]]></title>
+        <id>title-1229381d616a182dfc037843d1b8cb57</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choose the Hardware Version for a Virtual Machine]]></title>
+        <id>title-d831440ca5987816d3f29b0ecfb84989</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Guest Isolation Options for a Virtual Machine]]></title>
+        <id>title-8ee5b7bff0cb089489e9eb38979eb6f8</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Advanced Settings]]></title>
+        <id>title-47374b40dd1308de9d10d538436b53e3</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Time Synchronization Between Guest and Host Operating Systems]]></title>
+        <id>title-78ae16c9a8931b21ae9ad28c5e988cf2</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show the Mac Power Supply Status in the Virtual Machine]]></title>
+        <id>title-51833986af4a4abc84599e4a020994b0</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troubleshooting Your Virtual Machine]]></title>
+        <id>title-d58c069a23422019ea289c9eda7bd11a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change Hard Disk Buffering]]></title>
+        <id>title-485d77600aa9276c03807c3d8fb30925</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Password Requirement for Opening a Boot Camp Virtual Machine]]></title>
+        <id>title-1d593601dd2bee00847f5be16929bdb4</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable a VNC Client to Access the Virtual Machine Remotely]]></title>
+        <id>title-1f75cb185aa3e036198013a2e08de2f2</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Virtual Machine Power Options]]></title>
+        <id>title-d57c494a2ec945a70f339313bb69666a</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Verbose USB Debugging]]></title>
+        <id>title-4d117764194684436aed03bf84d604fb</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Dark Mode Synchronization]]></title>
+        <id>title-b34b150f1c3c3a9c1b60096db2e921ee</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Microsoft Virtualization-Based Security]]></title>
+        <id>title-14fc57f356357377c4c4af9cc6976b2f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure a Firmware Type]]></title>
+        <id>title-d699f5c2d25a63f8c9dcb6bf86ed19b0</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change Virtual Machine Creation Date]]></title>
+        <id>title-c4b504accc227c2cb83e67d4c410e750</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the vmrun Command to Control Virtual Machines]]></title>
+        <id>title-7d7fe6fd82b1379077b7f160ce26e07f</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the vmrun Utility]]></title>
+        <id>title-bb0cea0c2fa538675753a5266d92c21c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syntax of the vmrun Command]]></title>
+        <id>title-75601f1463ec6797bd2917438a44aae7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Authentication Flags in vmrun Commands]]></title>
+        <id>title-14e78d50c73f7a81dacb41313c8b4683</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running vmrun Commands]]></title>
+        <id>title-5804b17dd00cddfc53d3c418056e5569</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Path to VMX File]]></title>
+        <id>title-2b02a5f658fafa03435d2bc27d4b1e26</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deactivate Dialog Boxes]]></title>
+        <id>title-93a39a83e67a068910df987dc6a98a7b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syntax of vmrun Commands]]></title>
+        <id>title-7ec9bdf817bbf1f17daeb8dc9df3c5b1</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Examples of vmrun Commands]]></title>
+        <id>title-7659be4a174c12111df73c9e3fe6f9ae</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using vmcli to Control Virtual Machines]]></title>
+        <id>title-d92738d25e059afeb2dd6c5853de28bb</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using dictTool to Modify Configuration Files]]></title>
+        <id>title-da9a08789092d93bb02d1229801500b4</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using VMware Fusion Pro REST API]]></title>
+        <id>title-6213bc4cda03135fe70c6d611753bced</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the VMware Fusion Pro REST API Service]]></title>
+        <id>title-7a4bd365adac236bff3e372725f09a71</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using VMware Fusion Pro REST API Service to Manage Power Options of Encrypted Virtual Machines]]></title>
+        <id>title-1d42964fb10dd587838dac3f2a7c52ae</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrading Fusion Pro]]></title>
+        <id>title-2c77411d29a1c9f30c5960616d3ad711</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade Fusion Pro From a Download]]></title>
+        <id>title-1d2f0c0e5c9c56d6af5a9b4a5a45cfb5</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrading VMware Tools]]></title>
+        <id>title-d8a286032e9d936b882d78e76576f73b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uninstalling Fusion Pro]]></title>
+        <id>title-d781319f6df6edd65fd5e4d37a86b2d7</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uninstall Fusion Pro]]></title>
+        <id>title-b2e0c9ede8907b255c8b424db379923c</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Force Virtual Machine Processes to Quit]]></title>
+        <id>title-ba684b05261e4aadc8a7cba4b7b045ea</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documentation Legal Notice]]></title>
+        <id>title-20317c760af81ad6db7068018536373e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
+        <updated>2026-09-26T17:30:49.891Z</updated>
+    </entry>
+</feed>

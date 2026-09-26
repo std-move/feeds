@@ -1,0 +1,25 @@
+{
+	"title": "VMware Workstation major version list",
+	"url": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1.html",
+	"favicon": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/favicon.ico",
+	"elements": [
+		{
+			"id": "title-647c6c7b184c79edcc53445cd005352e",
+			"title": "26H1",
+			"contents": "26H1",
+			"retrieved": 1790443849891
+		},
+		{
+			"id": "title-11e38885db1b00f128f3537ffbe0fa96",
+			"title": "25H2",
+			"contents": "25H2",
+			"retrieved": 1790443849891
+		},
+		{
+			"id": "title-2b7120854845b6c57c51713a6f7a1efa",
+			"title": "17.0",
+			"contents": "17.0",
+			"retrieved": 1790443849891
+		}
+	]
+}
