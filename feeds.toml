@@ -285,7 +285,15 @@ url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion
 waitForSelector = "#version-select"
 entrySelector = "#version-select option"
 titleSelector = "*"
-contentSelector = "*"
+
+[vmware_fusion_release_notes]
+title = "VMware Fusion release notes"
+# need to update this link when there is a new major version
+url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html"
+waitForSelector = "xpath=//div[contains(@class, 'main-left-toc']//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]"
+entrySelector = "xpath=//div[contains(@class, 'main-left-toc']//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]//li"
+titleSelector = "a"
+contentSelector = []
 
 # disabled due to unresolved issues with selecting title after wiki changes (cannot select exact version while excluding 'Unsupported' prefix and '[ref_num]' suffix)
 # [vmware_workstation_wiki_version_history]
