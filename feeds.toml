@@ -294,6 +294,7 @@ url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion
 waitForSelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')]//li[.//a[contains(text(), 'Release Notes')]]"
 entrySelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')]//li[.//a[contains(text(), 'Release Notes')]]//ul//li"
 titleSelector = "a"
+linkSelector = "a"
 contentSelector = []
 
 # disabled due to unresolved issues with selecting title after wiki changes (cannot select exact version while excluding 'Unsupported' prefix and '[ref_num]' suffix)
@@ -320,6 +321,7 @@ url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workst
 waitForSelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')]//li[.//a[contains(text(), 'Release Notes')]]"
 entrySelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')]//li[.//a[contains(text(), 'Release Notes')]]//ul//li"
 titleSelector = "a"
+linkSelector = "a"
 contentSelector = []
 
 [amphetamine_release_notes]
