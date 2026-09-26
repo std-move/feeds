@@ -271,6 +271,7 @@ entrySelector = "#tab-panel-generated-1 > p"
 titleSelector = "*"
 contentSelector = "xpath=./following::ul"
 
+# outdated or lagging a lot in practice, just a back up...
 [vmware_fusion_wiki_version_history]
 title = "VMware Fusion version history"
 url = "https://en.wikipedia.org/wiki/VMware_Fusion"
@@ -290,8 +291,8 @@ titleSelector = "*"
 title = "VMware Fusion release notes"
 # need to update this link when there is a new major version
 url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html"
-waitForSelector = "xpath=//div[contains(@class, 'main-left-toc']//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]"
-entrySelector = "xpath=//div[contains(@class, 'main-left-toc']//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]//li"
+waitForSelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]"
+entrySelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]//li"
 titleSelector = "a"
 contentSelector = []
 
@@ -303,6 +304,23 @@ contentSelector = []
 # entrySelector = "xpath=//table[contains(@class, 'wikitable') and contains(.//th[1]/text(), 'Version')]//tr[td][position() > last() - 20]"
 # titleSelector = ["xpathstr=concat(normalize-space(./td[1]/text()), '', normalize-space(./td[1]//*[not(contains(@style, 'display: none')) or contains(@style, 'display:none')]))", "td:nth-of-type(2)"]
 # contentSelector = "td:nth-of-type(3)"
+
+
+[vmware_workstation_major_version_list]
+title = "VMware Workstation major version list"
+url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1.html"
+waitForSelector = "#version-select"
+entrySelector = "#version-select option"
+titleSelector = "*"
+
+[vmware_workstation_release_notes]
+title = "VMware Workstation release notes"
+# need to update this link when there is a new major version
+url = "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1.html"
+waitForSelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]"
+entrySelector = "xpath=//div[contains(@class, 'main-left-toc')]//ul[contains(@class, 'top-list')][.//li//a[contains(text(), 'Release Notes')]]//li"
+titleSelector = "a"
+contentSelector = []
 
 [amphetamine_release_notes]
 title = "Amphetamine release notes"
