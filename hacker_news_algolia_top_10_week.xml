@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-09-26T17:36:54.060Z</updated>
+    <updated>2026-09-26T17:41:16.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>link-9e4d9d7c02764fb8cfebc89b0e41d0c5</id>
         <link href="https://news.ycombinator.com/item?id=49792730"/>
         <updated>2026-09-22T13:08:38.317Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49792730"><span>MiMo v2.6</span></a><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank" class="Story_link">(https://mimo.xiaomi.com/mimo-v2-6)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49792730">1129 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=volf_"><span>volf_</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49792730">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49792730">479 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49792730"><span>MiMo v2.6</span></a><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank" class="Story_link">(https://mimo.xiaomi.com/mimo-v2-6)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49792730">1130 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=volf_"><span>volf_</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49792730">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49792730">479 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Attention is all you have]]></title>
