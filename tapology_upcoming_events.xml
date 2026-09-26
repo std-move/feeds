@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-09-25T23:10:57.352Z</updated>
+    <updated>2026-09-26T03:50:50.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/135743-oktagon-94-the-biggest-comeback-ever">OKTAGON 94</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-26 11:00:00 -0400">in 15 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-26 11:00:00 -0400">in 11 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145808-zuffa-boxing-11">Zuffa Boxing 11</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-26 11:00:00 -0400">in 15 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-26 11:00:00 -0400">in 11 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145599-cage-warriors-210">Cage Warriors 210</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-26 11:30:00 -0400">in 16 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-26 11:30:00 -0400">in 11 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145961-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-09-26 17:00:00 -0400">in 21 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-09-26 17:00:00 -0400">in 17 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
