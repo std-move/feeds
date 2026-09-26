@@ -4,6 +4,12 @@
 	"favicon": "https://shottr.cc/assets/favicon.png",
 	"elements": [
 		{
+			"id": "title-c7caff28633599a78b3d5f8019b02ca2",
+			"title": "v1.9.3 — Sep 24, 2026 — Another set of improvements to accommodate macOS 27",
+			"contents": "Another set of improvements to accommodate macOS 27",
+			"retrieved": 1790413859914
+		},
+		{
 			"id": "title-68167a65428a6d75e3e38db1f97ad2ed",
 			"title": "v1.9.2 — Sep 17, 2026 — Improved compatibility with macOS 27",
 			"contents": "Improved compatibility with macOS 27",

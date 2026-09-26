@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-be5b9801d540effb06e9b7609ddd4939",
+			"title": "A lifesaver in the heat and when your smartphone battery is dead",
+			"link": "https://www.notebookcheck.net/A-lifesaver-in-the-heat-and-when-your-smartphone-battery-Is-dead-Cuktech-CP-Turbo-Fan-Plus-review.1408665.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/8/csm_Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82_06688b60db.jpg\" loading=\"lazy\" alt=\"Cuktech CP Turbo Fan Plus review\"></picture><div class=\"intro_featured_bar_title\">A lifesaver in the heat and when your smartphone battery is dead</div>",
+			"retrieved": 1790413859914
+		},
+		{
 			"id": "link-c09c98335a039796d2c44ec94050e35d",
 			"title": "▶ Microsoft FINALLY Built a MacBook Air Killer!",
 			"link": "https://www.notebookcheck.net/Microsoft-FINALLY-built-a-MacBook-Air-killer-Fanless-Surface-Pro-Laptop-13.1408674.0.html",
@@ -43,13 +50,6 @@
 			"title": "▶ 2026 Flagships are going to be wild!",
 			"link": "https://www.notebookcheck.net/2026-Flagships-are-going-to-be-wild-Snapdragon-8-Elite-Extreme-Gen-6.1407692.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/b/csm__1053276_6e5e21fdfe.jpg\" loading=\"lazy\" alt=\"For a new era of flagship phone: The Snapdragon 8 Elite Extreme Gen 6\"></picture><div class=\"intro_featured_bar_title\">▶ 2026 Flagships are going to be wild!</div>",
-			"retrieved": 1790279370247
-		},
-		{
-			"id": "link-31a125fa2e6a484e6fe6e34e116fa95e",
-			"title": "49-inch, flat, ultrawide and Mini-LED: Innocn E49M1R monitor for CAD and creative work in review",
-			"link": "https://www.notebookcheck.net/49-inch-flat-ultrawide-and-Mini-LED-Innocn-E49M1R-monitor-for-CAD-and-creative-work-in-review.1407530.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Innocn-title4-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/3/csm_Innocn-title4_ae4e42029b.jpg\" loading=\"lazy\" alt=\"The Innocn E49M1R displays a technical drawing on the left and DaVinci Resolve on the right.\"></picture><div class=\"intro_featured_bar_title\">49-inch, flat, ultrawide and Mini-LED: Innocn E49M1R monitor for CAD and creative work in review</div>",
 			"retrieved": 1790279370247
 		}
 	]
