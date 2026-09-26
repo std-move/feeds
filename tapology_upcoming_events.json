@@ -4,38 +4,17 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-77170ac002af7cff6887430b4e369965",
-			"title": "OKTAGON 94 — 2026-09-26 11:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/135743-oktagon-94-the-biggest-comeback-ever",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/135743-oktagon-94-the-biggest-comeback-ever\">OKTAGON 94</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-26 11:00:00 -0400\">in 49 minutes</abbr>\n</td>",
-			"retrieved": 1789516757341
-		},
-		{
-			"id": "link-21ef09a9e05cd35f547556e0612e37f3",
-			"title": "Zuffa Boxing 11 — 2026-09-26 11:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/145808-zuffa-boxing-11",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145808-zuffa-boxing-11\">Zuffa Boxing 11</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-26 11:00:00 -0400\">in 49 minutes</abbr>\n</td>",
-			"retrieved": 1789837292269
-		},
-		{
-			"id": "link-29e64ae8bab4d290c46da2f1d584d010",
-			"title": "Cage Warriors 210 — 2026-09-26 11:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/145599-cage-warriors-210",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145599-cage-warriors-210\">Cage Warriors 210</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-26 11:30:00 -0400\">in 1 hour</abbr>\n</td>",
-			"retrieved": 1789770030126
-		},
-		{
 			"id": "link-df71c1e2b22ab1c3f2c86a39fdf37cba",
 			"title": "UFC Fight Night — 2026-09-26 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/145961-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145961-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-26 17:00:00 -0400\">in 6 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145961-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-26 17:00:00 -0400\">in 3 hours</abbr>\n</td>",
 			"retrieved": 1789862125863
 		},
 		{
 			"id": "link-6b13a5ff562fa294cdf8297bb0749b3f",
 			"title": "Inoue vs. Tenshin II — 2026-09-27 02:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/146211-inoue-vs-tenshin-ii-prime-video-boxing-16",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146211-inoue-vs-tenshin-ii-prime-video-boxing-16\">Inoue vs. Tenshin II</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-27 02:00:00 -0400\">in 15 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146211-inoue-vs-tenshin-ii-prime-video-boxing-16\">Inoue vs. Tenshin II</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-27 02:00:00 -0400\">in 12 hours</abbr>\n</td>",
 			"retrieved": 1790121749250
 		},
 		{
@@ -58,6 +37,27 @@
 			"link": "https://www.tapology.com/fightcenter/events/145747-pfl-mena-11-riyadh",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145747-pfl-mena-11-riyadh\">PFL MENA 11</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-02 10:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1790348476349
+		},
+		{
+			"id": "link-b061b170293ad6611573380c1808b4a8",
+			"title": "Fury FC 125 — 2026-10-02 17:15:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/146897-fury-fc-125-fight-force",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146897-fury-fc-125-fight-force\">Fury FC 125</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-02 17:15:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1790442525516
+		},
+		{
+			"id": "link-226bad286f0340f44129abd1f9a684dd",
+			"title": "ONE Fight Night 48 — 2026-10-02 21:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/143726-one-fight-night-48",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143726-one-fight-night-48\">ONE Fight Night 48</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-02 21:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1790442525516
+		},
+		{
+			"id": "link-d23869b0b2916c6fdc940df62e96a000",
+			"title": "RIZIN LANDMARK 16 in... — 2026-10-03 00:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/146048-rizin-landmark-16-in-nagasaki",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146048-rizin-landmark-16-in-nagasaki\">RIZIN LANDMARK 16 in...</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-03 00:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1790442525516
 		}
 	]
 }
