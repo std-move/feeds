@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1.html</id>
     <title>VMware Workstation release notes</title>
-    <updated>2026-09-26T17:41:16.386Z</updated>
+    <updated>2026-09-26T17:47:16.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[VMware Workstation Pro 26H1u1 Release Notes]]></title>
-        <id>title-d4e7357143e475f843f8700d7f698f66</id>
-        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1.html?link_extraction_failed=true"/>
-        <updated>2026-09-26T17:30:49.891Z</updated>
+        <id>link-a508ec58d172800e8473bb540fdbe61e</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1/release-notes/vmware-workstation-pro-26h1u1-release-notes.html"/>
+        <updated>2026-09-26T17:44:49.058Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[VMware Workstation Pro 26H1 Release Notes]]></title>
-        <id>title-7a609bcbbd6f53fa4d7fd5e9f2435910</id>
-        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1.html?link_extraction_failed=true"/>
-        <updated>2026-09-26T17:30:49.891Z</updated>
+        <id>link-48b114b1c29488ebdb11aea6ec1f976b</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1/release-notes/vmware-workstation-pro-26h1-release-notes.html"/>
+        <updated>2026-09-26T17:44:49.058Z</updated>
     </entry>
 </feed>

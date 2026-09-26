@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html</id>
     <title>VMware Fusion release notes</title>
-    <updated>2026-09-26T17:41:16.385Z</updated>
+    <updated>2026-09-26T17:47:16.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[VMware Fusion 26H1u1 Release Notes]]></title>
-        <id>title-21f50947775fb0dbb5a4746795da76c6</id>
-        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
-        <updated>2026-09-26T17:30:49.891Z</updated>
+        <id>link-8cf0cd00ecc07b1016eaf887b8fa5bfc</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1/release-notes/vmware-fusion-26h1u1-release-notes.html"/>
+        <updated>2026-09-26T17:44:49.058Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[VMware Fusion 26H1 Release Notes]]></title>
-        <id>title-0046141dbf953efe76a45682ad383554</id>
-        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html?link_extraction_failed=true"/>
-        <updated>2026-09-26T17:30:49.891Z</updated>
+        <id>link-c9b411c89892fc11335e24e481cb9ccc</id>
+        <link href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1/release-notes/vmware-fusion-26h1-release-notes.html"/>
+        <updated>2026-09-26T17:44:49.058Z</updated>
     </entry>
 </feed>

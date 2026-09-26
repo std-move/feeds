@@ -4,16 +4,18 @@
 	"favicon": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/favicon.ico",
 	"elements": [
 		{
-			"id": "title-d4e7357143e475f843f8700d7f698f66",
+			"id": "link-a508ec58d172800e8473bb540fdbe61e",
 			"title": "VMware Workstation Pro 26H1u1 Release Notes",
+			"link": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1/release-notes/vmware-workstation-pro-26h1u1-release-notes.html",
 			"contents": "",
-			"retrieved": 1790443849891
+			"retrieved": 1790444689058
 		},
 		{
-			"id": "title-7a609bcbbd6f53fa4d7fd5e9f2435910",
+			"id": "link-48b114b1c29488ebdb11aea6ec1f976b",
 			"title": "VMware Workstation Pro 26H1 Release Notes",
+			"link": "https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1/release-notes/vmware-workstation-pro-26h1-release-notes.html",
 			"contents": "",
-			"retrieved": 1790443849891
+			"retrieved": 1790444689058
 		}
 	]
 }
