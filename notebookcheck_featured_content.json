@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-1b6f1407d488d062522d29b00aeddb83",
+			"title": "Testing an affordable 1-kWh power station",
+			"link": "https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Oscal-PowerMax-1800-SE-Test31-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Oscal-PowerMax-1800-SE-Test31-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Oscal-PowerMax-1800-SE-Test31-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Oscal-PowerMax-1800-SE-Test31-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Oscal-PowerMax-1800-SE-Test31-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_S26/Oscal-PowerMax-1800-SE-Test31-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/5/csm_Oscal-PowerMax-1800-SE-Test31_90eebe0c57.jpg\" loading=\"lazy\" alt=\"Oscal PowerMax 1800 SE Review\"></picture><div class=\"intro_featured_bar_title\">Testing an affordable 1-kWh power station</div>",
+			"retrieved": 1790431807512
+		},
+		{
 			"id": "link-be5b9801d540effb06e9b7609ddd4939",
 			"title": "A lifesaver in the heat and when your smartphone battery is dead",
 			"link": "https://www.notebookcheck.net/A-lifesaver-in-the-heat-and-when-your-smartphone-battery-Is-dead-Cuktech-CP-Turbo-Fan-Plus-review.1408665.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Great-everyday-OLED-laptop-starting-at-799-Asus-Zenbook-14-UX3480-Review.1401664.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/Zenbook_14_UX3480QA/zenbook_14_ux3480_case_06-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/7/csm_zenbook_14_ux3480_case_06_0bc277369b.jpg\" loading=\"lazy\" alt=\"Great everyday OLED laptop starting at $799 - Asus Zenbook 14 UX3480 Review\"></picture><div class=\"intro_featured_bar_title\">Asus Zenbook 14 OLED review - $799 rival for XPS 13 &amp; MacBook Neo (Update)</div>",
 			"retrieved": 1790121749250
-		},
-		{
-			"id": "link-6d6421c59c4fbe2c8919f106fdacaa35",
-			"title": "▶ 2026 Flagships are going to be wild!",
-			"link": "https://www.notebookcheck.net/2026-Flagships-are-going-to-be-wild-Snapdragon-8-Elite-Extreme-Gen-6.1407692.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053276-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/b/csm__1053276_6e5e21fdfe.jpg\" loading=\"lazy\" alt=\"For a new era of flagship phone: The Snapdragon 8 Elite Extreme Gen 6\"></picture><div class=\"intro_featured_bar_title\">▶ 2026 Flagships are going to be wild!</div>",
-			"retrieved": 1790279370247
 		}
 	]
 }

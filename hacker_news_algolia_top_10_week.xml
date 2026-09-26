@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-09-26T09:13:54.775Z</updated>
+    <updated>2026-09-26T14:12:44.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AI-generated posters don’t have to be horrible]]></title>
-        <id>link-23c1a18923478e544bae1e8c4d815b69</id>
-        <link href="https://news.ycombinator.com/item?id=49764791"/>
-        <updated>2026-09-19T20:08:07.086Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49764791"><span>AI-generated posters don’t have to be horrible</span></a><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html" target="_blank" class="Story_link">(https://john.hartnup.uk/2026/06/07/ai-event-posters.html)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49764791">1890 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=ereiamjh"><span>ereiamjh</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49764791">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49764791">958 comments</a></span></div></div></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Opus 5.5]]></title>
         <id>link-07b6a602c4b4d74bd764f7cda22fb9b6</id>
@@ -24,28 +17,21 @@
         <id>link-d510a28a0230627a50c16968a64f68db</id>
         <link href="https://news.ycombinator.com/item?id=49805509"/>
         <updated>2026-09-23T00:02:29.250Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49805509"><span>GPT-6 Sol and Luna</span></a><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" target="_blank" class="Story_link">(https://openai.com/index/introducing-gpt-6-sol-and-luna/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49805509">1772 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=OfficialTurkey"><span>OfficialTurkey</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49805509">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49805509">849 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49805509"><span>GPT-6 Sol and Luna</span></a><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" target="_blank" class="Story_link">(https://openai.com/index/introducing-gpt-6-sol-and-luna/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49805509">1772 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=OfficialTurkey"><span>OfficialTurkey</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49805509">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49805509">850 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[F-Droid 2.0]]></title>
         <id>link-d458ed5fbcdf562eb12f0857fcebb5d4</id>
         <link href="https://news.ycombinator.com/item?id=49831968"/>
         <updated>2026-09-25T03:42:28.636Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49831968"><span>F-Droid 2.0</span></a><a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html" target="_blank" class="Story_link">(https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49831968">1443 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=daveoc64"><span>daveoc64</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49831968">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49831968">412 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built non-autoregressive decision models with RL a year ago]]></title>
-        <id>link-ee2c603aa136439495cceb3118cd7d61</id>
-        <link href="https://news.ycombinator.com/item?id=49765348"/>
-        <updated>2026-09-19T23:55:25.863Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49765348"><span>I built non-autoregressive decision models with RL a year ago</span></a><a href="https://laya.convaiinnovations.com/" target="_blank" class="Story_link">(https://laya.convaiinnovations.com/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49765348">1356 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=nandakishor_ml"><span>nandakishor_ml</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49765348">7 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49765348">316 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49831968"><span>F-Droid 2.0</span></a><a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html" target="_blank" class="Story_link">(https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49831968">1445 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=daveoc64"><span>daveoc64</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49831968">2 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49831968">413 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MiMo v2.6]]></title>
         <id>link-9e4d9d7c02764fb8cfebc89b0e41d0c5</id>
         <link href="https://news.ycombinator.com/item?id=49792730"/>
         <updated>2026-09-22T13:08:38.317Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49792730"><span>MiMo v2.6</span></a><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank" class="Story_link">(https://mimo.xiaomi.com/mimo-v2-6)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49792730">1129 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=volf_"><span>volf_</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49792730">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49792730">478 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49792730"><span>MiMo v2.6</span></a><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank" class="Story_link">(https://mimo.xiaomi.com/mimo-v2-6)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49792730">1129 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=volf_"><span>volf_</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49792730">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49792730">479 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Attention is all you have]]></title>
@@ -59,20 +45,34 @@
         <id>link-9a256ca8acf18145f8fad62475f43cc7</id>
         <link href="https://news.ycombinator.com/item?id=49794330"/>
         <updated>2026-09-22T17:58:12.003Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49794330"><span>I don't want to read what you didn't write</span></a><a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/" target="_blank" class="Story_link">(https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49794330">1066 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=mooreds"><span>mooreds</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49794330">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49794330">455 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pentagon says overreliance on AI contributed to missile strike on Iran school]]></title>
-        <id>link-3c33b284c4a749c8652dc85df84b8421</id>
-        <link href="https://news.ycombinator.com/item?id=49806430"/>
-        <updated>2026-09-25T15:01:16.349Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49806430"><span>Pentagon says overreliance on AI contributed to missile strike on Iran school</span></a><a href="https://www.bloomberg.com/graphics/2026-iran-school-attack/" target="_blank" class="Story_link">(https://www.bloomberg.com/graphics/2026-iran-school-attack/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49806430">960 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=devonnull"><span>devonnull</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49806430">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49806430">546 comments</a></span><div class="Story_comment"><span><a href="https://archive.ph/0V37g" rel="nofollow">https://archive.ph/0V37g</a></span></div></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49794330"><span>I don't want to read what you didn't write</span></a><a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/" target="_blank" class="Story_link">(https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49794330">1067 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=mooreds"><span>mooreds</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49794330">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49794330">456 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dutch governments builds alternative for Microsoft based on NixOS]]></title>
         <id>link-79c5d787fd139b99a03739b15b6d21c2</id>
         <link href="https://news.ycombinator.com/item?id=49841563"/>
         <updated>2026-09-25T23:07:05.559Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49841563"><span>Dutch governments builds alternative for Microsoft based on NixOS</span></a><a href="https://www.dawo.community/en/" target="_blank" class="Story_link">(https://www.dawo.community/en/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49841563">958 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=fjfaase"><span>fjfaase</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49841563">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49841563">550 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49841563"><span>Dutch governments builds alternative for Microsoft based on NixOS</span></a><a href="https://www.dawo.community/en/" target="_blank" class="Story_link">(https://www.dawo.community/en/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49841563">965 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=fjfaase"><span>fjfaase</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49841563">1 day ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49841563">563 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon says overreliance on AI contributed to missile strike on Iran school]]></title>
+        <id>link-3c33b284c4a749c8652dc85df84b8421</id>
+        <link href="https://news.ycombinator.com/item?id=49806430"/>
+        <updated>2026-09-25T15:01:16.349Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49806430"><span>Pentagon says overreliance on AI contributed to missile strike on Iran school</span></a><a href="https://www.bloomberg.com/graphics/2026-iran-school-attack/" target="_blank" class="Story_link">(https://www.bloomberg.com/graphics/2026-iran-school-attack/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49806430">961 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=devonnull"><span>devonnull</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49806430">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49806430">546 comments</a></span><div class="Story_comment"><span><a href="https://archive.ph/0V37g" rel="nofollow">https://archive.ph/0V37g</a></span></div></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Italian parliament votes for return to nuclear energy]]></title>
+        <id>link-9593fb8632a2a325ffd7ff35ba9133ab</id>
+        <link href="https://news.ycombinator.com/item?id=49819221"/>
+        <updated>2026-09-26T14:10:07.512Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49819221"><span>Italian parliament votes for return to nuclear energy</span></a><a href="https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567" target="_blank" class="Story_link">(https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49819221">898 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=geox"><span>geox</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49819221">3 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49819221">806 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I said no and Apple said yes]]></title>
+        <id>link-e6743755b033f30e527c6072c402b6b0</id>
+        <link href="https://news.ycombinator.com/item?id=49797982"/>
+        <updated>2026-09-26T14:10:07.512Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=49797982"><span>I said no and Apple said yes</span></a><a href="https://dbushell.com/2026/09/22/apple-intelligence/" target="_blank" class="Story_link">(https://dbushell.com/2026/09/22/apple-intelligence/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=49797982">876 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=thatslast"><span>thatslast</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49797982">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=49797982">695 comments</a></span></div></div></div>]]></content>
     </entry>
 </feed>
