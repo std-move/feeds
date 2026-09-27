@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-6b13a5ff562fa294cdf8297bb0749b3f",
-			"title": "Inoue vs. Tenshin II — 2026-09-27 02:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/146211-inoue-vs-tenshin-ii-prime-video-boxing-16",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146211-inoue-vs-tenshin-ii-prime-video-boxing-16\">Inoue vs. Tenshin II</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-09-27 02:00:00 -0400\">in 2 hours</abbr>\n</td>",
-			"retrieved": 1790121749250
-		},
-		{
 			"id": "link-8fee2e2e6afcb044e9f4f1870a30e687",
 			"title": "Contender Series 2026 — 2026-09-29 19:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/142727-contender-series-2026-week-8",
@@ -19,9 +12,9 @@
 		},
 		{
 			"id": "link-dbb3166384584d6fa62c1a7138ef42e9",
-			"title": "ONE Friday Fights 173 — 2026-10-02 06:30:00 -0400",
+			"title": "ONE Friday Fights 173 — 2026-10-02 07:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/147732-one-friday-fights-173",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147732-one-friday-fights-173\">ONE Friday Fights 173</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-02 06:30:00 -0400\">in 5 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147732-one-friday-fights-173\">ONE Friday Fights 173</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-02 07:30:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1790413859914
 		},
 		{
@@ -49,7 +42,7 @@
 			"id": "link-d23869b0b2916c6fdc940df62e96a000",
 			"title": "RIZIN LANDMARK 16 in... — 2026-10-03 00:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/146048-rizin-landmark-16-in-nagasaki",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146048-rizin-landmark-16-in-nagasaki\">RIZIN LANDMARK 16 in...</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-03 00:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146048-rizin-landmark-16-in-nagasaki\">RIZIN LANDMARK 16 in...</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-03 00:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1790442525516
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/146635-ufc-332",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146635-ufc-332\">UFC 332</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-03 16:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1790461460769
+		},
+		{
+			"id": "link-0156c21c200e1ff3c62268bd1ba3c6d4",
+			"title": "ACA 208 — 2026-10-04 09:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy\">ACA 208</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-04 09:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1790502950812
 		}
 	]
 }
