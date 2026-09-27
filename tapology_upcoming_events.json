@@ -25,13 +25,6 @@
 			"retrieved": 1790348476349
 		},
 		{
-			"id": "link-b061b170293ad6611573380c1808b4a8",
-			"title": "Fury FC 125 — 2026-10-02 17:15:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/146897-fury-fc-125-fight-force",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146897-fury-fc-125-fight-force\">Fury FC 125</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-02 17:15:00 -0400\">in 5 days</abbr>\n</td>",
-			"retrieved": 1790442525516
-		},
-		{
 			"id": "link-226bad286f0340f44129abd1f9a684dd",
 			"title": "ONE Fight Night 48 — 2026-10-02 21:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143726-one-fight-night-48",
@@ -40,9 +33,9 @@
 		},
 		{
 			"id": "link-d23869b0b2916c6fdc940df62e96a000",
-			"title": "RIZIN LANDMARK 16 in... — 2026-10-03 00:00:00 -0400",
+			"title": "RIZIN LANDMARK 16 in... — 2026-10-02 22:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/146048-rizin-landmark-16-in-nagasaki",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146048-rizin-landmark-16-in-nagasaki\">RIZIN LANDMARK 16 in...</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-03 00:00:00 -0400\">in 5 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146048-rizin-landmark-16-in-nagasaki\">RIZIN LANDMARK 16 in...</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-02 22:30:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1790442525516
 		},
 		{
@@ -54,10 +47,17 @@
 		},
 		{
 			"id": "link-0156c21c200e1ff3c62268bd1ba3c6d4",
-			"title": "ACA 208 — 2026-10-04 09:00:00 -0400",
+			"title": "ACA 208 — 2026-10-04 07:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy\">ACA 208</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-04 09:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy\">ACA 208</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-04 07:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1790502950812
+		},
+		{
+			"id": "link-217d1d542d17fbe013c6d40fbd1a1749",
+			"title": "Contender Series 2026 — 2026-10-06 19:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/142728-contender-series-2026-week-9",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/142728-contender-series-2026-week-9\">Contender Series 2026</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-06 19:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1790537653159
 		}
 	]
 }

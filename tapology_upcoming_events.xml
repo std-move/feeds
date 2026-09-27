@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-09-27T15:03:10.783Z</updated>
+    <updated>2026-09-27T19:36:27.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -42,18 +42,6 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fury FC 125 — 2026-10-02 17:15:00 -0400]]></title>
-        <id>link-b061b170293ad6611573380c1808b4a8</id>
-        <link href="https://www.tapology.com/fightcenter/events/146897-fury-fc-125-fight-force"/>
-        <updated>2026-09-26T17:08:45.516Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146897-fury-fc-125-fight-force">Fury FC 125</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-02 17:15:00 -0400">in 5 days</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ONE Fight Night 48 — 2026-10-02 21:00:00 -0400]]></title>
         <id>link-226bad286f0340f44129abd1f9a684dd</id>
         <link href="https://www.tapology.com/fightcenter/events/143726-one-fight-night-48"/>
@@ -66,7 +54,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RIZIN LANDMARK 16 in... — 2026-10-03 00:00:00 -0400]]></title>
+        <title type="html"><![CDATA[RIZIN LANDMARK 16 in... — 2026-10-02 22:30:00 -0400]]></title>
         <id>link-d23869b0b2916c6fdc940df62e96a000</id>
         <link href="https://www.tapology.com/fightcenter/events/146048-rizin-landmark-16-in-nagasaki"/>
         <updated>2026-09-26T17:08:45.516Z</updated>
@@ -74,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146048-rizin-landmark-16-in-nagasaki">RIZIN LANDMARK 16 in...</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-03 00:00:00 -0400">in 5 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-02 22:30:00 -0400">in 5 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -90,7 +78,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ACA 208 — 2026-10-04 09:00:00 -0400]]></title>
+        <title type="html"><![CDATA[ACA 208 — 2026-10-04 07:00:00 -0400]]></title>
         <id>link-0156c21c200e1ff3c62268bd1ba3c6d4</id>
         <link href="https://www.tapology.com/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy"/>
         <updated>2026-09-27T09:55:50.812Z</updated>
@@ -98,7 +86,19 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy">ACA 208</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-04 09:00:00 -0400">in 6 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-04 07:00:00 -0400">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contender Series 2026 — 2026-10-06 19:00:00 -0400]]></title>
+        <id>link-217d1d542d17fbe013c6d40fbd1a1749</id>
+        <link href="https://www.tapology.com/fightcenter/events/142728-contender-series-2026-week-9"/>
+        <updated>2026-09-27T19:34:13.159Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142728-contender-series-2026-week-9">Contender Series 2026</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-10-06 19:00:00 -0400">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>
