@@ -4,6 +4,27 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-c2b5ec406dcb1183517550eaec3baed5",
+			"title": "▶ Is the PS5 Pro worth it in 2026?",
+			"link": "https://www.notebookcheck.net/Is-the-PS5-Pro-worth-it-in-2026-A-gaming-laptop-fanboy-s-perspective.1410519.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/e/csm__1051886_3a336b5531.jpg\" loading=\"lazy\" alt=\"A better choice for gamers? Sony's PS5 Pro. \"></picture><div class=\"intro_featured_bar_title\">▶ Is the PS5 Pro worth it in 2026?</div>",
+			"retrieved": 1790623144904
+		},
+		{
+			"id": "link-b7d9cf99639c8fd9f83011a1d7f5d5dd",
+			"title": "Eco-Bard - Fairbuds XL review",
+			"link": "https://www.notebookcheck.net/Headphones-against-the-throwaway-culture-Fairbuds-XL-Gen-2-review.1410427.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Fairphone/Fairbuds_XL_Gen_2/aPic_Fairbuds_XL-3820-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Fairphone/Fairbuds_XL_Gen_2/aPic_Fairbuds_XL-3820-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Fairphone/Fairbuds_XL_Gen_2/aPic_Fairbuds_XL-3820-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Fairphone/Fairbuds_XL_Gen_2/aPic_Fairbuds_XL-3820-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Fairphone/Fairbuds_XL_Gen_2/aPic_Fairbuds_XL-3820-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Fairphone/Fairbuds_XL_Gen_2/aPic_Fairbuds_XL-3820-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/a/csm_aPic_Fairbuds_XL-3820_a29798c7c2.jpg\" loading=\"lazy\" alt=\"Headphones against the throwaway culture - Fairbuds XL (Gen. 2) review\"></picture><div class=\"intro_featured_bar_title\">Eco-Bard - Fairbuds XL review</div>",
+			"retrieved": 1790623144904
+		},
+		{
+			"id": "link-e951b962f09a3013f6e7f5f060b28197",
+			"title": "Sony Xperia 10 Mk 8 Review: Expensive refresh",
+			"link": "https://www.notebookcheck.net/Sony-s-mid-range-lineup-remains-unique-and-is-getting-expensive-Sony-Xperia-10-VIII-Review.1408419.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sony/Xperia_10_VIII/aPic_Sony_Xperia_10_VIII-3805-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sony/Xperia_10_VIII/aPic_Sony_Xperia_10_VIII-3805-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sony/Xperia_10_VIII/aPic_Sony_Xperia_10_VIII-3805-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sony/Xperia_10_VIII/aPic_Sony_Xperia_10_VIII-3805-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sony/Xperia_10_VIII/aPic_Sony_Xperia_10_VIII-3805-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sony/Xperia_10_VIII/aPic_Sony_Xperia_10_VIII-3805-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/8/csm_aPic_Sony_Xperia_10_VIII-3805_3c57bdf56f.jpg\" loading=\"lazy\" alt=\"Sony Xperia 10 VIII in review\"></picture><div class=\"intro_featured_bar_title\">Sony Xperia 10 Mk 8 Review: Expensive refresh</div>",
+			"retrieved": 1790623144904
+		},
+		{
 			"id": "link-ff40f4c93f9d0f8685748f6aaa72f4ce",
 			"title": "▶ The iPhone 18 Pro has found its match!",
 			"link": "https://www.notebookcheck.net/The-iPhone-18-Pro-has-found-its-match-Xiaomi-18-Pro-Hands-On.1409432.0.html",
@@ -30,27 +51,6 @@
 			"link": "https://www.notebookcheck.net/A-lifesaver-in-the-heat-and-when-your-smartphone-battery-is-dead-Cuktech-CP-Turbo-Fan-Plus-review.1408665.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/8/csm_Cuktech-CP-Turbo-Fan-Plus-Test-Teaser82_06688b60db.jpg\" loading=\"lazy\" alt=\"Cuktech CP Turbo Fan Plus review\"></picture><div class=\"intro_featured_bar_title\">A lifesaver in the heat and when your smartphone battery is dead</div>",
 			"retrieved": 1790442525516
-		},
-		{
-			"id": "link-c09c98335a039796d2c44ec94050e35d",
-			"title": "▶ Microsoft FINALLY Built a MacBook Air Killer!",
-			"link": "https://www.notebookcheck.net/Microsoft-FINALLY-built-a-MacBook-Air-killer-Fanless-Surface-Pro-Laptop-13.1408674.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053461-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/0/csm__1053461_fe489e1c75.jpg\" loading=\"lazy\" alt=\"No Fans, no problem? Microsoft just announced a major change to the Surface Pro 12&quot;, and the Surface Laptop 13&quot;\"></picture><div class=\"intro_featured_bar_title\">▶ Microsoft FINALLY Built a MacBook Air Killer!</div>",
-			"retrieved": 1790365910521
-		},
-		{
-			"id": "link-f54a0f6111ce559996b9e5da88366822",
-			"title": "AI asked: What are the odds that AI will wipe out humanity this decade?",
-			"link": "https://www.notebookcheck.net/AI-asked-What-are-the-odds-that-AI-will-wipe-out-humanity-this-decade.1408390.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/doodlartdotcom-artificial-intelligence-4272991_1920-png-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/c/csm_doodlartdotcom-artificial-intelligence-4272991_1920_99a93497a7.png\" loading=\"lazy\" alt=\"Cartoonish robots standing next to a human skull\"></picture><div class=\"intro_featured_bar_title\">AI asked: What are the odds that AI will wipe out humanity this decade?</div>",
-			"retrieved": 1790365910521
-		},
-		{
-			"id": "link-8d9b3ff5dc11969f4f5463ac76b03d24",
-			"title": "Your soccer sidekick – Honor Watch 6 review",
-			"link": "https://www.notebookcheck.net/Honor-Watch-6-review-Long-battery-life-plenty-of-data-and-some-question-marks.1408418.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Honor/Watch_6/aPic_Honor_Watch_6-3796-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/d/9/csm_aPic_Honor_Watch_6-3796_befd2f7458.jpg\" loading=\"lazy\" alt=\"Long battery life, plenty of sports features - Honor Watch 6 review\"></picture><div class=\"intro_featured_bar_title\">Your soccer sidekick – Honor Watch 6 review</div>",
-			"retrieved": 1790365910521
 		}
 	]
 }
