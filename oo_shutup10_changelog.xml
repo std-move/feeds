@@ -2,9 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.oo-software.com/en/shutup10/changelog</id>
     <title>O&amp;O ShutUp10 changelog</title>
-    <updated>2026-09-29T07:58:30.736Z</updated>
+    <updated>2026-09-29T14:43:41.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.oo-software.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3.6.1135 Released on 9/29/2026]]></title>
+        <id>title-48fe1e11cd617f2f43618c588ab97285</id>
+        <link href="https://www.oo-software.com/en/shutup10/changelog?link_extraction_failed=true"/>
+        <updated>2026-09-29T14:40:32.632Z</updated>
+        <content type="html"><![CDATA[<strong>Added</strong>
+<li>Hide the “Try the new Outlook” toggle in Outlook (F022)</li>
+<li>Disable automatic migration to the new Outlook (F023)</li>
+<li>Filter settings by category, including in Edit Mode; the search box explains the available filters</li>
+<li>Nine additional program languages: Czech, Korean, Dutch, Polish, Portuguese (Portugal and Brazil), Turkish, Ukrainian, and Traditional Chinese</li>
+<strong>Improved</strong>
+<li>Biometric features title and description (P009) name Windows Hello; the PIN remains usable</li>
+<li>Lock screen setting descriptions (K001, K002) explain that K002 also disables Windows Spotlight</li>
+<li>“Secure Boot” tab shows error details and provides clearer guidance on blocking settings and firmware errors</li>
+<li>Updated the application runtime to .NET 10</li>
+<li>Notes explain which settings Microsoft Defender may revert through Tamper Protection</li>
+<li>PREM: Custom profiles can be overwritten under the same name after confirmation</li>
+<li>PREM: “Add-Only” and “Replace-All” descriptions explain how settings outside the profile are handled</li>
+<li>PREM: Reverted Defender settings are logged; a notification indicates when automatic retries stop</li>
+<strong>Fixed</strong>
+<li>Edge search bar can also be disabled in current Edge versions (E124, E224); previously applied settings need to be applied again</li>
+<li>After a restore point is created successfully, the prompt only returns on the next program start</li>
+<li>Secure Boot certificate status accounts for newer success events and pending restarts; old error values no longer cause an error message</li>
+<li>Secure Boot certificates are recognized even when firmware data contains extra bytes</li>
+<li>Failed Secure Boot certificate update message no longer repeats the same text</li>
+<li>Window comes to the foreground when opened through the notification area icon or a second program instance</li>
+<li>Window size, maximized state, and screen position are preserved after restarting or restoring from the notification area</li>
+<li>Corrected and completed translations, text formatting, and menu access keys across settings and dialogs</li>
+<li>Failed program restarts, including as administrator, report an error code; the existing window stays open if the new instance exits early</li>
+<li>Diagnostics log includes full error details in warnings and informational messages</li>
+<li>Free Edition: Embedded program files are signed to prevent Smart App Control from blocking startup</li>
+<li>PREM: Reduced processor usage while the main window is hidden and fewer repeated queries by the AI status card</li>
+<li>PREM: Unmonitored settings no longer trigger false change notifications or unintended changes by automatic protection</li>
+<li>PREM: Repeated application of settings reverted by Defender is limited to avoid recurring tampering alerts</li>
+<li>PREM: Profile application mode is saved immediately and retained when duplicating profiles; it survives unexpected exits</li>
+<li>PREM: Recurring status queries no longer displace older entries in the change log</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3.5.1130 Released on 9/2/2026]]></title>
         <id>title-cf410b82a8a24391877a0095cd4ae691</id>
