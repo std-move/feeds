@@ -4,6 +4,13 @@
 	"favicon": "https://hn.algolia.com/favicon.ico",
 	"elements": [
 		{
+			"id": "link-576296f706e51d0d832458d4aa189a7b",
+			"title": "When did Google get so weird?",
+			"link": "https://news.ycombinator.com/item?id=49870367",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49870367\"><span>When did Google get so weird?</span></a><a href=\"https://sancho.bearblog.dev/google-weird/\" target=\"_blank\" class=\"Story_link\">(https://sancho.bearblog.dev/google-weird/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49870367\">1834 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sancho-panza\"><span>sancho-panza</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49870367\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49870367\">1029 comments</a></span></div></div></div>",
+			"retrieved": 1790567879842
+		},
+		{
 			"id": "link-07b6a602c4b4d74bd764f7cda22fb9b6",
 			"title": "Claude Opus 5.5",
 			"link": "https://news.ycombinator.com/item?id=49803892",
@@ -18,45 +25,24 @@
 			"retrieved": 1790111270277
 		},
 		{
-			"id": "link-576296f706e51d0d832458d4aa189a7b",
-			"title": "When did Google get so weird?",
-			"link": "https://news.ycombinator.com/item?id=49870367",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49870367\"><span>When did Google get so weird?</span></a><a href=\"https://sancho.bearblog.dev/google-weird/\" target=\"_blank\" class=\"Story_link\">(https://sancho.bearblog.dev/google-weird/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49870367\">1737 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sancho-panza\"><span>sancho-panza</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49870367\">23 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49870367\">955 comments</a></span></div></div></div>",
-			"retrieved": 1790567879842
-		},
-		{
 			"id": "link-d458ed5fbcdf562eb12f0857fcebb5d4",
 			"title": "F-Droid 2.0",
 			"link": "https://news.ycombinator.com/item?id=49831968",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49831968\"><span>F-Droid 2.0</span></a><a href=\"https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\" target=\"_blank\" class=\"Story_link\">(https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49831968\">1461 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=daveoc64\"><span>daveoc64</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49831968\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49831968\">416 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49831968\"><span>F-Droid 2.0</span></a><a href=\"https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\" target=\"_blank\" class=\"Story_link\">(https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49831968\">1463 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=daveoc64\"><span>daveoc64</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49831968\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49831968\">416 comments</a></span></div></div></div>",
 			"retrieved": 1790290930140
-		},
-		{
-			"id": "link-9e4d9d7c02764fb8cfebc89b0e41d0c5",
-			"title": "MiMo v2.6",
-			"link": "https://news.ycombinator.com/item?id=49792730",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49792730\"><span>MiMo v2.6</span></a><a href=\"https://mimo.xiaomi.com/mimo-v2-6\" target=\"_blank\" class=\"Story_link\">(https://mimo.xiaomi.com/mimo-v2-6)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49792730\">1130 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=volf_\"><span>volf_</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49792730\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49792730\">482 comments</a></span></div></div></div>",
-			"retrieved": 1790061774647
-		},
-		{
-			"id": "link-9a256ca8acf18145f8fad62475f43cc7",
-			"title": "I don't want to read what you didn't write",
-			"link": "https://news.ycombinator.com/item?id=49794330",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49794330\"><span>I don't want to read what you didn't write</span></a><a href=\"https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/\" target=\"_blank\" class=\"Story_link\">(https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49794330\">1068 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=mooreds\"><span>mooreds</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49794330\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49794330\">459 comments</a></span></div></div></div>",
-			"retrieved": 1790082518317
 		},
 		{
 			"id": "link-91b61ef1285154a1ba086ab0bc9667dd",
 			"title": "Owed a billion dollars in Nvidia stock",
 			"link": "https://news.ycombinator.com/item?id=49872723",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49872723\"><span>Owed a billion dollars in Nvidia stock</span></a><a href=\"https://colo.to/nvidia-stock-narrative.html\" target=\"_blank\" class=\"Story_link\">(https://colo.to/nvidia-stock-narrative.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49872723\">1018 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Eric_Gullichsen\"><span>Eric_Gullichsen</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49872723\">17 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49872723\">430 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49872723\"><span>Owed a billion dollars in Nvidia stock</span></a><a href=\"https://colo.to/nvidia-stock-narrative.html\" target=\"_blank\" class=\"Story_link\">(https://colo.to/nvidia-stock-narrative.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49872723\">1054 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Eric_Gullichsen\"><span>Eric_Gullichsen</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49872723\">22 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49872723\">447 comments</a></span></div></div></div>",
 			"retrieved": 1790592309814
 		},
 		{
 			"id": "link-79c5d787fd139b99a03739b15b6d21c2",
 			"title": "Dutch governments builds alternative for Microsoft based on NixOS",
 			"link": "https://news.ycombinator.com/item?id=49841563",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49841563\"><span>Dutch governments builds alternative for Microsoft based on NixOS</span></a><a href=\"https://www.dawo.community/en/\" target=\"_blank\" class=\"Story_link\">(https://www.dawo.community/en/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49841563\">1011 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=fjfaase\"><span>fjfaase</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49841563\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49841563\">581 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49841563\"><span>Dutch governments builds alternative for Microsoft based on NixOS</span></a><a href=\"https://www.dawo.community/en/\" target=\"_blank\" class=\"Story_link\">(https://www.dawo.community/en/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49841563\">1013 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=fjfaase\"><span>fjfaase</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49841563\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49841563\">581 comments</a></span></div></div></div>",
 			"retrieved": 1790348476349
 		},
 		{
@@ -77,7 +63,7 @@
 			"id": "link-e6743755b033f30e527c6072c402b6b0",
 			"title": "I said no and Apple said yes",
 			"link": "https://news.ycombinator.com/item?id=49797982",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49797982\"><span>I said no and Apple said yes</span></a><a href=\"https://dbushell.com/2026/09/22/apple-intelligence/\" target=\"_blank\" class=\"Story_link\">(https://dbushell.com/2026/09/22/apple-intelligence/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49797982\">882 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=thatslast\"><span>thatslast</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49797982\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49797982\">696 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49797982\"><span>I said no and Apple said yes</span></a><a href=\"https://dbushell.com/2026/09/22/apple-intelligence/\" target=\"_blank\" class=\"Story_link\">(https://dbushell.com/2026/09/22/apple-intelligence/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49797982\">882 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=thatslast\"><span>thatslast</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49797982\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49797982\">696 comments</a></span></div></div></div>",
 			"retrieved": 1790099892003
 		},
 		{
@@ -112,56 +98,42 @@
 			"id": "link-2fab6f9b03ab4a0289b27f67008fe94f",
 			"title": "Revealing the details of how OpenAI agents hacked Hugging Face",
 			"link": "https://news.ycombinator.com/item?id=49849985",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49849985\"><span>Revealing the details of how OpenAI agents hacked Hugging Face</span></a><a href=\"https://swarmtraces.org/\" target=\"_blank\" class=\"Story_link\">(https://swarmtraces.org/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49849985\">746 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=specked-citrus\"><span>specked-citrus</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49849985\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49849985\">467 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49849985\"><span>Revealing the details of how OpenAI agents hacked Hugging Face</span></a><a href=\"https://swarmtraces.org/\" target=\"_blank\" class=\"Story_link\">(https://swarmtraces.org/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49849985\">747 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=specked-citrus\"><span>specked-citrus</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49849985\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49849985\">468 comments</a></span></div></div></div>",
 			"retrieved": 1790442525516
 		},
 		{
 			"id": "link-ab7b887da8b092fb88b1f4f52062e8c4",
 			"title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
 			"link": "https://news.ycombinator.com/item?id=49801324",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49801324\"><span>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</span></a><a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\" target=\"_blank\" class=\"Story_link\">(https://www.cryptocellar.org/bgac/the-mvueh-break.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49801324\">735 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sohkamyung\"><span>sohkamyung</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49801324\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49801324\">447 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49801324\"><span>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</span></a><a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\" target=\"_blank\" class=\"Story_link\">(https://www.cryptocellar.org/bgac/the-mvueh-break.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49801324\">736 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=sohkamyung\"><span>sohkamyung</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49801324\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49801324\">447 comments</a></span></div></div></div>",
 			"retrieved": 1790148305688
 		},
 		{
 			"id": "link-67fd32a9b45ee479c931b1042113d1d9",
 			"title": "Breaking Up with Google Play: Why Conversations Is Now Free",
 			"link": "https://news.ycombinator.com/item?id=49855315",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49855315\"><span>Breaking Up with Google Play: Why Conversations Is Now Free</span></a><a href=\"https://gultsch.de/posts/breaking-up-with-google-play/\" target=\"_blank\" class=\"Story_link\">(https://gultsch.de/posts/breaking-up-with-google-play/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49855315\">703 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ezst\"><span>ezst</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49855315\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49855315\">294 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49855315\"><span>Breaking Up with Google Play: Why Conversations Is Now Free</span></a><a href=\"https://gultsch.de/posts/breaking-up-with-google-play/\" target=\"_blank\" class=\"Story_link\">(https://gultsch.de/posts/breaking-up-with-google-play/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49855315\">704 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ezst\"><span>ezst</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49855315\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49855315\">294 comments</a></span></div></div></div>",
 			"retrieved": 1790461460769
-		},
-		{
-			"id": "link-2fe81a963603411ae40395e79a7b71f8",
-			"title": "Spymarks, not Watermarks",
-			"link": "https://news.ycombinator.com/item?id=49794615",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49794615\"><span>Spymarks, not Watermarks</span></a><a href=\"https://brand.io/article/spymarks/\" target=\"_blank\" class=\"Story_link\">(https://brand.io/article/spymarks/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49794615\">697 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=possibilistic\"><span>possibilistic</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49794615\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49794615\">171 comments</a></span></div></div></div>",
-			"retrieved": 1790099892003
 		},
 		{
 			"id": "link-e52fab3a7c8492f1fe15e59a73fadf33",
 			"title": "Jev in 25 Lines of Python",
 			"link": "https://news.ycombinator.com/item?id=49812769",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49812769\"><span>Jev in 25 Lines of Python</span></a><a href=\"https://www.nobodywho.ai/posts/jev-in-25-lines/\" target=\"_blank\" class=\"Story_link\">(https://www.nobodywho.ai/posts/jev-in-25-lines/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49812769\">690 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bashbjorn\"><span>bashbjorn</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49812769\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49812769\">212 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49812769\"><span>Jev in 25 Lines of Python</span></a><a href=\"https://www.nobodywho.ai/posts/jev-in-25-lines/\" target=\"_blank\" class=\"Story_link\">(https://www.nobodywho.ai/posts/jev-in-25-lines/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49812769\">690 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=bashbjorn\"><span>bashbjorn</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49812769\">6 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49812769\">212 comments</a></span></div></div></div>",
 			"retrieved": 1790279370247
-		},
-		{
-			"id": "link-b5a163fac7b7ae9c11b7b0ad94814432",
-			"title": "Transformers Explained Visually",
-			"link": "https://news.ycombinator.com/item?id=49792342",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49792342\"><span>Transformers Explained Visually</span></a><a href=\"https://poloclub.github.io/transformer-explainer/\" target=\"_blank\" class=\"Story_link\">(https://poloclub.github.io/transformer-explainer/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49792342\">658 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=aray07\"><span>aray07</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49792342\">7 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49792342\">92 comments</a></span></div></div></div>",
-			"retrieved": 1790348476349
 		},
 		{
 			"id": "link-ed519b9a541146c3772c0fe0d057756d",
 			"title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
 			"link": "https://news.ycombinator.com/item?id=49827794",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49827794\"><span>Meta takes down a critical video about meta AI Glasses after filming at Meta</span></a><a href=\"https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\" target=\"_blank\" class=\"Story_link\">(https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49827794\">631 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=pieterr\"><span>pieterr</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49827794\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49827794\">393 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49827794\"><span>Meta takes down a critical video about meta AI Glasses after filming at Meta</span></a><a href=\"https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\" target=\"_blank\" class=\"Story_link\">(https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49827794\">631 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=pieterr\"><span>pieterr</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49827794\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49827794\">393 comments</a></span></div></div></div>",
 			"retrieved": 1790348476349
 		},
 		{
 			"id": "link-9c1a0f4403afd89d30b90bd254a4320a",
 			"title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
 			"link": "https://news.ycombinator.com/item?id=49863864",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49863864\"><span>Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI</span></a><a href=\"https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/\" target=\"_blank\" class=\"Story_link\">(https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49863864\">625 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=papergirl\"><span>papergirl</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49863864\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49863864\">609 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49863864\"><span>Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI</span></a><a href=\"https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/\" target=\"_blank\" class=\"Story_link\">(https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49863864\">626 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=papergirl\"><span>papergirl</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49863864\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49863864\">612 comments</a></span></div></div></div>",
 			"retrieved": 1790537653159
 		},
 		{
@@ -182,28 +154,28 @@
 			"id": "link-5d2a70bc26fcb22d8bd29084e726922a",
 			"title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
 			"link": "https://news.ycombinator.com/item?id=49857899",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49857899\"><span>I'm the mom in that viral Giants clip. Let me tell you about my husband</span></a><a href=\"https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\" target=\"_blank\" class=\"Story_link\">(https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49857899\">600 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=minimaxir\"><span>minimaxir</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49857899\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49857899\">240 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49857899\"><span>I'm the mom in that viral Giants clip. Let me tell you about my husband</span></a><a href=\"https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\" target=\"_blank\" class=\"Story_link\">(https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49857899\">602 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=minimaxir\"><span>minimaxir</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49857899\">2 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49857899\">241 comments</a></span></div></div></div>",
 			"retrieved": 1790549442781
 		},
 		{
 			"id": "link-ec9e00d1afb519eac65a994ae41fddaa",
 			"title": "Plan mode is dead",
 			"link": "https://news.ycombinator.com/item?id=49840054",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49840054\"><span>Plan mode is dead</span></a><a href=\"https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html\" target=\"_blank\" class=\"Story_link\">(https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49840054\">582 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=jmvldz\"><span>jmvldz</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49840054\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49840054\">504 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49840054\"><span>Plan mode is dead</span></a><a href=\"https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html\" target=\"_blank\" class=\"Story_link\">(https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49840054\">583 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=jmvldz\"><span>jmvldz</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49840054\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49840054\">506 comments</a></span></div></div></div>",
 			"retrieved": 1790537653159
-		},
-		{
-			"id": "link-978a73df8d784c75c421d1b5df43d80f",
-			"title": "Why is the liver so weirdly regenerative?",
-			"link": "https://news.ycombinator.com/item?id=49832938",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49832938\"><span>Why is the liver so weirdly regenerative?</span></a><a href=\"https://dynomight.substack.com/p/liver\" target=\"_blank\" class=\"Story_link\">(https://dynomight.substack.com/p/liver)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49832938\">574 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=jbotz\"><span>jbotz</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49832938\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49832938\">293 comments</a></span></div></div></div>",
-			"retrieved": 1790623144904
 		},
 		{
 			"id": "link-a38987f770238e1efdd8af09e085575c",
 			"title": "Ember-1",
 			"link": "https://news.ycombinator.com/item?id=49868830",
-			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49868830\"><span>Ember-1</span></a><a href=\"https://fireworks.ai/blog/ember-1\" target=\"_blank\" class=\"Story_link\">(https://fireworks.ai/blog/ember-1)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49868830\">569 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=gmays\"><span>gmays</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49868830\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49868830\">243 comments</a></span></div></div></div>",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49868830\"><span>Ember-1</span></a><a href=\"https://fireworks.ai/blog/ember-1\" target=\"_blank\" class=\"Story_link\">(https://fireworks.ai/blog/ember-1)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49868830\">577 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=gmays\"><span>gmays</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49868830\">1 day ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49868830\">246 comments</a></span></div></div></div>",
+			"retrieved": 1790623144904
+		},
+		{
+			"id": "link-978a73df8d784c75c421d1b5df43d80f",
+			"title": "Why is the liver so weirdly regenerative?",
+			"link": "https://news.ycombinator.com/item?id=49832938",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49832938\"><span>Why is the liver so weirdly regenerative?</span></a><a href=\"https://dynomight.substack.com/p/liver\" target=\"_blank\" class=\"Story_link\">(https://dynomight.substack.com/p/liver)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49832938\">575 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=jbotz\"><span>jbotz</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49832938\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49832938\">293 comments</a></span></div></div></div>",
 			"retrieved": 1790623144904
 		},
 		{
@@ -212,6 +184,34 @@
 			"link": "https://news.ycombinator.com/item?id=49817469",
 			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49817469\"><span>Fixing the Portobello Police Station Clock</span></a><a href=\"https://pointinthecloud.com/2026-04-11-211700.html\" target=\"_blank\" class=\"Story_link\">(https://pointinthecloud.com/2026-04-11-211700.html)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49817469\">548 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=avidly\"><span>avidly</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49817469\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49817469\">116 comments</a></span></div></div></div>",
 			"retrieved": 1790623144904
+		},
+		{
+			"id": "link-93238e8688a4e131b72b7b83804321be",
+			"title": "Sonnet 5.5",
+			"link": "https://news.ycombinator.com/item?id=49881850",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49881850\"><span>Sonnet 5.5</span></a><a href=\"https://www.anthropic.com/claude-sonnet-5-5\" target=\"_blank\" class=\"Story_link\">(https://www.anthropic.com/claude-sonnet-5-5)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49881850\">535 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=D2OQZG8l5BI1S06\"><span>D2OQZG8l5BI1S06</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49881850\">6 hours ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49881850\">367 comments</a></span></div></div></div>",
+			"retrieved": 1790640765113
+		},
+		{
+			"id": "link-84a282b5a9275c5bfdb9711dda95e845",
+			"title": "Two-tier encryption in the UK",
+			"link": "https://news.ycombinator.com/item?id=49828731",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49828731\"><span>Two-tier encryption in the UK</span></a><a href=\"https://macanorak.com/two-tier-encryption-in-the-uk/\" target=\"_blank\" class=\"Story_link\">(https://macanorak.com/two-tier-encryption-in-the-uk/)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49828731\">510 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=ReturnoftheHack\"><span>ReturnoftheHack</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49828731\">5 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49828731\">471 comments</a></span></div></div></div>",
+			"retrieved": 1790640765113
+		},
+		{
+			"id": "link-3ffcbe5e77d4359563f870c9724ea4a8",
+			"title": "Does Georgism work? Five years later",
+			"link": "https://news.ycombinator.com/item?id=49844657",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49844657\"><span>Does Georgism work? Five years later</span></a><a href=\"https://www.astralcodexten.com/p/does-georgism-work-five-years-later\" target=\"_blank\" class=\"Story_link\">(https://www.astralcodexten.com/p/does-georgism-work-five-years-later)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49844657\">509 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=silveraxe93\"><span>silveraxe93</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49844657\">3 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49844657\">508 comments</a></span></div></div></div>",
+			"retrieved": 1790640765113
+		},
+		{
+			"id": "link-c0051aece9afb343714d1c53e56a3624",
+			"title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+			"link": "https://news.ycombinator.com/item?id=49842764",
+			"contents": "<div class=\"Story_container\"><div class=\"Story_data\"><div class=\"Story_title\"><a href=\"https://news.ycombinator.com/item?id=49842764\"><span>PipePipe: NewPipe hard fork implementing SponsorBlock</span></a><a href=\"https://github.com/InfinityLoop1308/PipePipe\" target=\"_blank\" class=\"Story_link\">(https://github.com/InfinityLoop1308/PipePipe)</a></div><div class=\"Story_meta\"><span><a href=\"https://news.ycombinator.com/item?id=49842764\">501 points</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/user?id=Qision\"><span>Qision</span></a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49842764\">4 days ago</a></span><span class=\"Story_separator\">|</span><span><a href=\"https://news.ycombinator.com/item?id=49842764\">286 comments</a></span></div></div></div>",
+			"retrieved": 1790640765113
 		}
 	]
 }
