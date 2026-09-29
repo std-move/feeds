@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-09-29T14:43:41.783Z</updated>
+    <updated>2026-09-29T20:30:43.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,6 +10,12 @@
         <id>link-2c24a0f01e4566a161d56522aa74ccc4</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/views"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MP4 output keeps avc3 codec tag - not playable in QuickTime / Apple TV (needs -tag:v avc1)]]></title>
+        <id>link-56969a35323b33e3fe419392d017006d</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/92"/>
+        <updated>2026-09-29T20:28:26.644Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Obtížné stahování z Prima+]]></title>
@@ -76,11 +82,5 @@
         <id>link-4887a17840eb7de457adf041207b77c2</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/62"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Česká televize - DRM chráněné video - problém při dekódování]]></title>
-        <id>link-116fd82ffdbd920efe059b98e20bf302</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/59"/>
-        <updated>2026-08-18T16:30:32.669Z</updated>
     </entry>
 </feed>

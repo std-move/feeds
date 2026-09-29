@@ -4,6 +4,12 @@
 	"favicon": "https://learn.microsoft.com/en-us/windows/release-health/favicon.ico",
 	"elements": [
 		{
+			"id": "title-9a9e19208e9a119e0a7716819bd01062",
+			"title": "2026-09-29 — 26H2 — General Availability Channel — 26300.9550 — 2026-09 D",
+			"contents": "<a href=\"https://support.microsoft.com/help/5124010\" target=\"_blank\" data-linktype=\"external\">2026-09 D</a> — 2026-09-29 — 26300.9550",
+			"retrieved": 1790713706644
+		},
+		{
 			"id": "title-a353c858ba4d254ed6f2589d2ab694d6",
 			"title": "2026-09-22 — 26H1 — General Availability Channel — 28000.3086 — 2026-09 D",
 			"contents": "<a href=\"https://support.microsoft.com/help/5124006\" target=\"_blank\" data-linktype=\"external\">2026-09 D</a> — 2026-09-22 — 28000.3086",

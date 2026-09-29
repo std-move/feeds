@@ -11,6 +11,13 @@
 			"retrieved": 1786984002677
 		},
 		{
+			"id": "link-56969a35323b33e3fe419392d017006d",
+			"title": "MP4 output keeps avc3 codec tag - not playable in QuickTime / Apple TV (needs -tag:v avc1)",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/92",
+			"contents": "",
+			"retrieved": 1790713706644
+		},
+		{
 			"id": "link-a673ef881bb0031033305fa0790e753e",
 			"title": "Obtížné stahování z Prima+",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/88",
@@ -86,13 +93,6 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/62",
 			"contents": "",
 			"retrieved": 1786984002677
-		},
-		{
-			"id": "link-116fd82ffdbd920efe059b98e20bf302",
-			"title": "Česká televize - DRM chráněné video - problém při dekódování",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/59",
-			"contents": "",
-			"retrieved": 1787070632669
 		}
 	]
 }

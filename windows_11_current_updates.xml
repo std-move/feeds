@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information</id>
     <title>Windows 11 - current update revisions</title>
-    <updated>2026-09-29T14:43:41.784Z</updated>
+    <updated>2026-09-29T20:30:43.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://learn.microsoft.com/en-us/windows/release-health/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2026-09-29 — 26H2 — General Availability Channel — 26300.9550 — 2026-09 D]]></title>
+        <id>title-9a9e19208e9a119e0a7716819bd01062</id>
+        <link href="https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information?link_extraction_failed=true"/>
+        <updated>2026-09-29T20:28:26.644Z</updated>
+        <content type="html"><![CDATA[<a href="https://support.microsoft.com/help/5124010" target="_blank" data-linktype="external">2026-09 D</a> — 2026-09-29 — 26300.9550]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026-09-22 — 26H1 — General Availability Channel — 28000.3086 — 2026-09 D]]></title>
         <id>title-a353c858ba4d254ed6f2589d2ab694d6</id>
