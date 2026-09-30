@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.python.org/downloads/</id>
     <title>Python.org release history</title>
-    <updated>2026-09-30T16:19:10.823Z</updated>
+    <updated>2026-09-30T21:57:46.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.python.org/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Python 3.14.8 — Sept. 30, 2026]]></title>
+        <id>link-c7c509c9702b1fb78685b04afd807417</id>
+        <link href="https://docs.python.org/release/3.14.8/whatsnew/changelog.html"/>
+        <updated>2026-09-30T21:55:28.196Z</updated>
+        <content type="html"><![CDATA[<a href="/downloads/release/python-3148/">Python 3.14.8</a> — Sept. 30, 2026 — <a href="/downloads/release/python-3148/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.14.8/whatsnew/changelog.html">Release notes</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.14.7 — Aug. 5, 2026]]></title>
         <id>link-092483bd180686ef082b1f254c9595d6</id>
@@ -242,12 +249,5 @@
         <link href="https://docs.python.org/release/3.12.5/whatsnew/changelog.html#python-3-12-5"/>
         <updated>2026-02-07T20:33:16.888Z</updated>
         <content type="html"><![CDATA[<a href="/downloads/release/python-3125/">Python 3.12.5</a> — Aug. 6, 2024 — <a href="/downloads/release/python-3125/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.12.5/whatsnew/changelog.html#python-3-12-5">Release notes</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.12.4 — June 6, 2024]]></title>
-        <id>link-7fb5a8aa5177dd4fdfa04a0db7a152cf</id>
-        <link href="https://docs.python.org/release/3.12.4/whatsnew/changelog.html#python-3-12-4"/>
-        <updated>2026-02-07T20:33:16.888Z</updated>
-        <content type="html"><![CDATA[<a href="/downloads/release/python-3124/">Python 3.12.4</a> — June 6, 2024 — <a href="/downloads/release/python-3124/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.12.4/whatsnew/changelog.html#python-3-12-4">Release notes</a>]]></content>
     </entry>
 </feed>
