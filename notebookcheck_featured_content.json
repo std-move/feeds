@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-11d81c28724666d40129a99b811c1750",
+			"title": "Plus or minus? Motorola Edge 70 Plus review",
+			"link": "https://www.notebookcheck.net/This-plus-is-a-minus-except-for-the-battery-Motorola-Edge-70-Plus-smartphone-review.1413140.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Plus/Test_Motorola_Edge_70_Plus_7-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Plus/Test_Motorola_Edge_70_Plus_7-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Plus/Test_Motorola_Edge_70_Plus_7-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Plus/Test_Motorola_Edge_70_Plus_7-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Plus/Test_Motorola_Edge_70_Plus_7-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Plus/Test_Motorola_Edge_70_Plus_7-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/6/csm_Test_Motorola_Edge_70_Plus_7_de0392ca9b.jpg\" loading=\"lazy\" alt=\"Motorola Edge 70 Plus review\"></picture><div class=\"intro_featured_bar_title\">Plus or minus? Motorola Edge 70 Plus review</div>",
+			"retrieved": 1790842961031
+		},
+		{
 			"id": "link-180dabe3b83b5f82bdf1ffe8a763a1d2",
 			"title": "Incredibly bright - Samsung Galaxy Watch Ultra2 review",
 			"link": "https://www.notebookcheck.net/It-outshines-them-all-Samsung-Galaxy-Watch-Ultra2-smartwatch-review.1412581.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/High-quality-in-ear-headphones-at-a-fair-price-Nothing-Ear-3a-review.1411007.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/0/csm_aPic_Nothing_ear_3a-3222_fac2c0cb1d.jpg\" loading=\"lazy\" alt=\"High-quality in-ear headphones at a fair price - Nothing Ear (3a) review\"></picture><div class=\"intro_featured_bar_title\">Why pay more? - Nothing Ear (3a) review</div>",
 			"retrieved": 1790713706644
-		},
-		{
-			"id": "link-c2b5ec406dcb1183517550eaec3baed5",
-			"title": "▶ Is the PS5 Pro worth it in 2026?",
-			"link": "https://www.notebookcheck.net/Is-the-PS5-Pro-worth-it-in-2026-A-gaming-laptop-fanboy-s-perspective.1410519.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1051886-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/e/csm__1051886_3a336b5531.jpg\" loading=\"lazy\" alt=\"A better choice for gamers? Sony's PS5 Pro. \"></picture><div class=\"intro_featured_bar_title\">▶ Is the PS5 Pro worth it in 2026?</div>",
-			"retrieved": 1790623144904
 		}
 	]
 }
