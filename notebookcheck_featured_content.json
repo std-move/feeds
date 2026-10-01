@@ -4,6 +4,27 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-ddaed419f4f5f1ab092be5ee691c0a9c",
+			"title": "Long battery life, great sound – The Poco F9 Ultra Review",
+			"link": "https://www.notebookcheck.net/Poco-F9-Ultra-Review-The-battery-giant-with-high-end-ambitions.1413644.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_F9_Ultra/aPic_Xiaomi_Poco_F9_Ultra-3713-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_F9_Ultra/aPic_Xiaomi_Poco_F9_Ultra-3713-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_F9_Ultra/aPic_Xiaomi_Poco_F9_Ultra-3713-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_F9_Ultra/aPic_Xiaomi_Poco_F9_Ultra-3713-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_F9_Ultra/aPic_Xiaomi_Poco_F9_Ultra-3713-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_F9_Ultra/aPic_Xiaomi_Poco_F9_Ultra-3713-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/4/csm_aPic_Xiaomi_Poco_F9_Ultra-3713_8d8c27e9e3.jpg\" loading=\"lazy\" alt=\"Poco F9 Ultra Review: The battery giant with high-end ambitions\"></picture><div class=\"intro_featured_bar_title\">Long battery life, great sound – The Poco F9 Ultra Review</div>",
+			"retrieved": 1790873658663
+		},
+		{
+			"id": "link-4bfce2fe5a476c0a5b4abe1e6d6ad29d",
+			"title": "Born to clip - CMF Clip Pro review",
+			"link": "https://www.notebookcheck.net/A-price-breaker-with-a-clever-case-CMF-Clip-Pro-review.1413629.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/CMF/Clip_Pro/aPic_CMF_Clip_Pro-3834-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/CMF/Clip_Pro/aPic_CMF_Clip_Pro-3834-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/CMF/Clip_Pro/aPic_CMF_Clip_Pro-3834-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/CMF/Clip_Pro/aPic_CMF_Clip_Pro-3834-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/CMF/Clip_Pro/aPic_CMF_Clip_Pro-3834-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/CMF/Clip_Pro/aPic_CMF_Clip_Pro-3834-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/b/csm_aPic_CMF_Clip_Pro-3834_3328f5cdc8.jpg\" loading=\"lazy\" alt=\"A price breaker with a clever case? - CMF Clip Pro review\"></picture><div class=\"intro_featured_bar_title\">Born to clip - CMF Clip Pro review</div>",
+			"retrieved": 1790873658663
+		},
+		{
+			"id": "link-e52d0c1c065e5e3e7a8f39d701e681b8",
+			"title": "▶ The Best-Looking Game of 2026?!",
+			"link": "https://www.notebookcheck.net/The-Best-Looking-Game-of-2026-Gears-of-War-E-Day-Hands-On.1413571.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053525-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053525-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053525-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053525-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053525-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053525-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/a/csm__1053525_139f127132.jpg\" loading=\"lazy\" alt=\"Gears of War: E-Day on the 2026 ROG Zephyrus Duo\"></picture><div class=\"intro_featured_bar_title\">▶ The Best-Looking Game of 2026?!</div>",
+			"retrieved": 1790873658663
+		},
+		{
 			"id": "link-11d81c28724666d40129a99b811c1750",
 			"title": "Plus or minus? Motorola Edge 70 Plus review",
 			"link": "https://www.notebookcheck.net/This-plus-is-a-minus-except-for-the-battery-Motorola-Edge-70-Plus-smartphone-review.1413140.0.html",
@@ -30,27 +51,6 @@
 			"link": "https://www.notebookcheck.net/Like-a-drug-trip-Control-Resonant-review.1412315.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ControlResonant/feature_control-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ControlResonant/feature_control-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ControlResonant/feature_control-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ControlResonant/feature_control-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ControlResonant/feature_control-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Games/ControlResonant/feature_control-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/4/csm_feature_control_d0a0b665df.jpg\" loading=\"lazy\" alt=\"Like a drug trip: Control Resonant review\"></picture><div class=\"intro_featured_bar_title\">Like a drug trip: Control Resonant review</div>",
 			"retrieved": 1790784997428
-		},
-		{
-			"id": "link-5541cc3276cbfb8460d84c8a186c3e5b",
-			"title": "iPad as a laptop alternative: Keyboard case review",
-			"link": "https://www.notebookcheck.net/Turns-iPad-into-a-laptop-alternative-Inateck-NeoMagic-keyboard-case-review.1412022.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Inateck-NeoMagic-Tes-iPad-Tastatur-Huelle52-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Inateck-NeoMagic-Tes-iPad-Tastatur-Huelle52-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Inateck-NeoMagic-Tes-iPad-Tastatur-Huelle52-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Inateck-NeoMagic-Tes-iPad-Tastatur-Huelle52-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Inateck-NeoMagic-Tes-iPad-Tastatur-Huelle52-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Inateck-NeoMagic-Tes-iPad-Tastatur-Huelle52-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/d/csm_Inateck-NeoMagic-Tes-iPad-Tastatur-Huelle52_512e9c0cc5.jpg\" loading=\"lazy\" alt=\"Inateck NeoMagic review\"></picture><div class=\"intro_featured_bar_title\">iPad as a laptop alternative: Keyboard case review</div>",
-			"retrieved": 1790784997428
-		},
-		{
-			"id": "link-9e073f3f3b336145bf13ad60b03f2e29",
-			"title": "Lenovo ThinkPad X13 Gen 7 AMD Review",
-			"link": "https://www.notebookcheck.net/Road-warrior-with-compromises-Lenovo-ThinkPad-X13-Gen-7-AMD-Laptop-Review.1395047.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_X13_Gen_7_AMD/thinkpad_x13_gen7_amd_case_13-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_X13_Gen_7_AMD/thinkpad_x13_gen7_amd_case_13-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_X13_Gen_7_AMD/thinkpad_x13_gen7_amd_case_13-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_X13_Gen_7_AMD/thinkpad_x13_gen7_amd_case_13-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_X13_Gen_7_AMD/thinkpad_x13_gen7_amd_case_13-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_X13_Gen_7_AMD/thinkpad_x13_gen7_amd_case_13-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/8/csm_thinkpad_x13_gen7_amd_case_13_026896baf5.jpg\" loading=\"lazy\" alt=\"Road warrior with compromises - Lenovo ThinkPad X13 Gen 7 AMD Laptop Review\"></picture><div class=\"intro_featured_bar_title\">Lenovo ThinkPad X13 Gen 7 AMD Review</div>",
-			"retrieved": 1790730417379
-		},
-		{
-			"id": "link-68cb839d7d160d1218a30306ab12d4f7",
-			"title": "Why pay more? - Nothing Ear (3a) review",
-			"link": "https://www.notebookcheck.net/High-quality-in-ear-headphones-at-a-fair-price-Nothing-Ear-3a-review.1411007.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Nothing/Ear_3a/aPic_Nothing_ear_3a-3222-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/0/csm_aPic_Nothing_ear_3a-3222_fac2c0cb1d.jpg\" loading=\"lazy\" alt=\"High-quality in-ear headphones at a fair price - Nothing Ear (3a) review\"></picture><div class=\"intro_featured_bar_title\">Why pay more? - Nothing Ear (3a) review</div>",
-			"retrieved": 1790713706644
 		}
 	]
 }

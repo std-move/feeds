@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-10-01T08:25:00.706Z</updated>
+    <updated>2026-10-01T16:57:03.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
         <title type="html"><![CDATA[Views]]></title>
         <id>link-bd8e9b854c93e08d7296ca67eeb6342a</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/views"/>
-        <updated>2026-08-17T16:26:42.677Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Youtube] ERROR: Video unavailable. Playback on other websites has been disabled by the video owner (web_embedded player response playability status: UNPLAYABLE)]]></title>
-        <id>link-7a13d2b3660203fd37ed6161f93401c2</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/17497"/>
-        <updated>2026-08-25T16:36:56.453Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Youtube] ERROR: unable to download video data: HTTP Error 403: Forbidden (with android_vr)]]></title>
-        <id>link-74f557a9f362550e401b0b049daf6f05</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/17456"/>
-        <updated>2026-08-18T12:44:00.228Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨[IMPORTANT]🚨 KNOWN ISSUES/FAQ]]></title>
-        <id>link-835a5d584f04d10080ea546c95e345bf</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/3766"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
     </entry>
     <entry>
@@ -94,5 +76,53 @@
         <id>link-27817f0c0de282aca6f0e55441710c3a</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/14689"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CeskaTelevize] HTTP Error 410: Gone]]></title>
+        <id>link-e44f73e3033abec43101a801dca224fb</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/14298"/>
+        <updated>2026-10-01T16:54:18.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unrecognized media file found (www.raiplaysound.it/playlist/storia-maturadio)]]></title>
+        <id>link-201a231131a0067406208cae40e71069</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/13548"/>
+        <updated>2026-10-01T16:54:18.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[iPrima.cz] Unable to extract real id]]></title>
+        <id>link-80d0475c0909ae6b470c6ea45716ffd3</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/12354"/>
+        <updated>2026-10-01T16:54:18.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PBS An extractor error has occurred. (caused by KeyError('title'))]]></title>
+        <id>link-1ff4d0556df2131734438da2b7948f67</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/12165"/>
+        <updated>2026-10-01T16:54:18.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CeskaTelevize] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)]]></title>
+        <id>link-46a446ea3606aac20459d9ab57f9f9c2</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/12044"/>
+        <updated>2026-10-01T16:54:18.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[pbs] An extractor error has occurred. (caused by KeyError('title'))]]></title>
+        <id>link-c68e7b71cce83ba07aa49f3fa3beb36f</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/11514"/>
+        <updated>2026-10-01T16:54:18.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TikTok] 31KB non-video files are being downloaded]]></title>
+        <id>link-cec99e0430656a0d84e15e09edfef649</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/11034"/>
+        <updated>2026-10-01T16:54:18.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Youtube] Unable to extract initial JS player n function name]]></title>
+        <id>link-8700f11a2c8db046e6c3085389af6944</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/10916"/>
+        <updated>2026-10-01T16:54:18.663Z</updated>
     </entry>
 </feed>
