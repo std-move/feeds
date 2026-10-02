@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-10-02T12:01:15.823Z</updated>
+    <updated>2026-10-02T17:51:54.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[PFL MENA 11 — 2026-10-02 10:00:00 -0400]]></title>
-        <id>link-ddc040559c105500d0a8af2c5a089c2a</id>
-        <link href="https://www.tapology.com/fightcenter/events/145747-pfl-mena-11-riyadh"/>
-        <updated>2026-09-25T15:01:16.349Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145747-pfl-mena-11-riyadh">PFL MENA 11</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-02 10:00:00 -0400">in 2 hours</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ONE Fight Night 48 — 2026-10-02 21:00:00 -0400]]></title>
         <id>link-226bad286f0340f44129abd1f9a684dd</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143726-one-fight-night-48">ONE Fight Night 48</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-02 21:00:00 -0400">in 13 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-02 21:00:00 -0400">in 7 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146048-rizin-landmark-16-in-nagasaki">RIZIN LANDMARK 16 in...</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-02 22:30:00 -0400">in 14 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-02 22:30:00 -0400">in 8 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-10-09 20:00:00 -0400">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFL Africa — 2026-10-10 13:00:00 -0400]]></title>
+        <id>link-0d4e7aedd2f95f807f2692cc389ec524</id>
+        <link href="https://www.tapology.com/fightcenter/events/145229-pfl-africa-morocco"/>
+        <updated>2026-10-02T17:47:21.046Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145229-pfl-africa-morocco">PFL Africa</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-10-10 13:00:00 -0400">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>
