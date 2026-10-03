@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-10-03T17:52:44.648Z</updated>
+    <updated>2026-10-03T20:42:48.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[UFC 332 — 2026-10-03 16:00:00 -0400]]></title>
-        <id>link-e0c5dd9fe8506f6960fa844107d0cab5</id>
-        <link href="https://www.tapology.com/fightcenter/events/146635-ufc-332"/>
-        <updated>2026-09-26T22:24:20.769Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146635-ufc-332">UFC 332</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-03 16:00:00 -0400">in 2 hours</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ACA 208 — 2026-10-04 07:00:00 -0400]]></title>
         <id>link-0156c21c200e1ff3c62268bd1ba3c6d4</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy">ACA 208</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-04 07:00:00 -0400">in 17 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-04 07:00:00 -0400">in 14 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -96,6 +84,18 @@
         <updated>2026-10-03T07:40:30.839Z</updated>
         <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146495-ufc-fight-night">UFC Fight Night</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-10-10 17:00:00 -0400">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schofield vs. Bahdi — 2026-10-10 17:00:00 -0400]]></title>
+        <id>link-7a404c4609f584f7237358733a4ac4c2</id>
+        <link href="https://www.tapology.com/fightcenter/events/147009-schofield-vs-bahdi"/>
+        <updated>2026-10-03T20:40:07.042Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147009-schofield-vs-bahdi">Schofield vs. Bahdi</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-10-10 17:00:00 -0400">in 1 week</abbr>
