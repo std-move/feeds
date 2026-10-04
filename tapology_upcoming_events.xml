@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-10-04T00:25:45.564Z</updated>
+    <updated>2026-10-04T07:53:03.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[ACA 208 — 2026-10-04 07:00:00 -0400]]></title>
+        <title type="html"><![CDATA[ACA 208 — 2026-10-04 06:00:00 -0400]]></title>
         <id>link-0156c21c200e1ff3c62268bd1ba3c6d4</id>
         <link href="https://www.tapology.com/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy"/>
         <updated>2026-09-27T09:55:50.812Z</updated>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147538-aca-208-kerimov-vs-podlesniy">ACA 208</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-04 07:00:00 -0400">in 10 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-04 06:00:00 -0400">in 2 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -42,7 +42,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LFA 243 — 2026-10-09 20:00:00 -0400]]></title>
+        <title type="html"><![CDATA[LFA 243 — 2026-10-09 18:30:00 -0400]]></title>
         <id>link-14a415e2ab0e671f40e10a198676a9d4</id>
         <link href="https://www.tapology.com/fightcenter/events/147387-lfa-243"/>
         <updated>2026-10-02T11:58:41.457Z</updated>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147387-lfa-243">LFA 243</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-09 20:00:00 -0400">in 5 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-09 18:30:00 -0400">in 5 days</abbr>
 </td>]]></content>
     </entry>
     <entry>

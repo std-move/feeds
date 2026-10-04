@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-10-04T00:25:45.580Z</updated>
+    <updated>2026-10-04T07:53:03.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v4.0.127]]></title>
+        <id>title-154f3421a85545305bea0ed8a8f22764</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-10-04T07:50:18.303Z</updated>
+        <content type="html"><![CDATA[<strong>v4.0.127</strong> (02 October 2027)<br>
+            + Improved cleanup : HDD<br>
+            + Improved cleanup : TRIM<br>
+            + Improved cleanup : snapshots<br>
+            + Improved cleanup : Free Download Manager<br>
+            + Improved language : Finnish <br> 
+            + Minor bug fixes<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.126]]></title>
         <id>title-2d09f033636c81f8c7462c5f97252a46</id>
@@ -229,20 +242,6 @@
              + Improved cleanup : Opera, Opera GX<br> 
              + Improved cleanup : Opera, Opera GX (portable version)<br> 
              + Improved cleanup : Firefox (portable version)<br> 
-             + Improved UI<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.112]]></title>
-        <id>title-602071493d1301727703beb2c8ddb704</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-08-14T07:24:04.023Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.112</strong> (28 September 2025)<br>
-            + New option : Clean + SHUT DOWN the PC (PRO Version)<br>
-             + New cleanup : Brave Nightly<br>
-             + New cleanup : Chrome Canary<br>
-             + New cleanup : Chrome Beta<br>
-             + New cleanup : Chrome Dev<br>
-             + Improved cleanup : Chrome, SRWare Iron (portable version)<br> 
              + Improved UI<br>]]></content>
     </entry>
 </feed>

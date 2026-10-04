@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-154f3421a85545305bea0ed8a8f22764",
+			"title": "v4.0.127",
+			"contents": "<strong>v4.0.127</strong> (02 October 2027)<br>\n            + Improved cleanup : HDD<br>\n            + Improved cleanup : TRIM<br>\n            + Improved cleanup : snapshots<br>\n            + Improved cleanup : Free Download Manager<br>\n            + Improved language : Finnish <br> \n            + Minor bug fixes<br>",
+			"retrieved": 1791100218303
+		},
+		{
 			"id": "title-2d09f033636c81f8c7462c5f97252a46",
 			"title": "v4.0.126",
 			"contents": "<strong>v4.0.126</strong> (28 August 2026)<br>\n            + Improved speed : +++++  (PRO version)<br>\n            + Improved speed : ++ (Free version)<br>\n            + Improved cleanup : MFT<br>\n            + Improved cleanup : Chrome, Edge, Opera, Brave, Chromium...<br>\n            + New cleanup : Zen Browser<br>\n            + Improved UI : Darker <br> \n            + Minor bug fixes<br>",
@@ -115,12 +121,6 @@
 			"id": "title-b70622a2b39c5acfc1b075498a212460",
 			"title": "v4.0.113",
 			"contents": "<strong>v4.0.113</strong> (18 October 2025)<br>\n            + Improved cleanup : Jumplists<br>\n             + Improved cleanup : Recycle bin <br>\n             + New cleanup : T-online Browser<br>\n             + New cleanup : Opera developer<br>\n             + New cleanup : Opera Next<br>\n             + New cleanup : Chrome Dev<br>\n             + Improved support : You can check and repair your PC <br>\n             + Improved cleanup : Chrome<br> \n             + Improved cleanup : Chrome (portable version)<br> \n             \n             + Improved cleanup : Opera, Opera GX<br> \n             + Improved cleanup : Opera, Opera GX (portable version)<br> \n             + Improved cleanup : Firefox (portable version)<br> \n             + Improved UI<br>",
-			"retrieved": 1786692244023
-		},
-		{
-			"id": "title-602071493d1301727703beb2c8ddb704",
-			"title": "v4.0.112",
-			"contents": "<strong>v4.0.112</strong> (28 September 2025)<br>\n            + New option : Clean + SHUT DOWN the PC (PRO Version)<br>\n             + New cleanup : Brave Nightly<br>\n             + New cleanup : Chrome Canary<br>\n             + New cleanup : Chrome Beta<br>\n             + New cleanup : Chrome Dev<br>\n             + Improved cleanup : Chrome, SRWare Iron (portable version)<br> \n             + Improved UI<br>",
 			"retrieved": 1786692244023
 		}
 	]
