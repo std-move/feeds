@@ -4,6 +4,13 @@
 	"favicon": "https://liberation.travel/wp-content/uploads/2023/10/cropped-thumbnail-150x150.png",
 	"elements": [
 		{
+			"id": "link-c0627896c403814421f5ae8ba4b049f4",
+			"title": "Liberation Travel Hacks 10/2026 (EN)",
+			"link": "https://liberation.travel/?na=view&id=80",
+			"contents": "<span class=\"newsletter-archive-date\" style=\"color: #888; margin-right: 10px;\">October 5, 2026</span><a href=\"https://liberation.travel/?na=view&amp;id=80\" target=\"_blank\">Liberation Travel Hacks 10/2026 (EN)</a>",
+			"retrieved": 1791227148020
+		},
+		{
 			"id": "link-d7fa08fe5ccde4ddfe87d983586c0f0a",
 			"title": "Liberation Travel Hacks 09/2026 (EN)",
 			"link": "https://liberation.travel/?na=view&id=77",
@@ -39,6 +46,13 @@
 			"retrieved": 1780916112984
 		},
 		{
+			"id": "link-c7fc9ee6819b5bf94653dd985ab1d3b8",
+			"title": "Liberation Travel Hacks 10/2026 (CZSK)",
+			"link": "https://liberation.travel/?na=view&id=79",
+			"contents": "<span class=\"newsletter-archive-date\" style=\"color: #888; margin-right: 10px;\">October 5, 2026</span><a href=\"https://liberation.travel/?na=view&amp;id=79\" target=\"_blank\">Liberation Travel Hacks 10/2026 (CZSK)</a>",
+			"retrieved": 1791227148020
+		},
+		{
 			"id": "link-2bf3b1e93030f7562ec16c5ee4c18b19",
 			"title": "Liberation Travel Hacks 09/2026 (CZSK)",
 			"link": "https://liberation.travel/?na=view&id=76",
@@ -72,6 +86,13 @@
 			"link": "https://liberation.travel/?na=view&id=66",
 			"contents": "<span class=\"newsletter-archive-date\" style=\"color: #888; margin-right: 10px;\">May 3, 2026</span><a href=\"https://liberation.travel/?na=view&amp;id=66\" target=\"_blank\">Liberation Travel Hacks 05/2026 (CZSK)</a>",
 			"retrieved": 1780916112984
+		},
+		{
+			"id": "link-d3c5a7dd2d866347e930f4f7713873d4",
+			"title": "Liberation Travel Hacks 10/2026 (ES)",
+			"link": "https://liberation.travel/?na=view&id=81",
+			"contents": "<span class=\"newsletter-archive-date\" style=\"color: #888; margin-right: 10px;\">October 5, 2026</span><a href=\"https://liberation.travel/?na=view&amp;id=81\" target=\"_blank\">Liberation Travel Hacks 10/2026 (ES)</a>",
+			"retrieved": 1791227148020
 		},
 		{
 			"id": "link-1046192c90acd1c5f66531b89e8d1fd4",
