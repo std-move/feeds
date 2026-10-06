@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-10-05T19:08:17.693Z</updated>
+    <updated>2026-10-06T01:14:06.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
+    <entry>
+        <title type="html"><![CDATA[IT Business Analyst / Solution Consultant — Navrhni si mzdu]]></title>
+        <id>link-293057f391919dfeaace24816a8247da</id>
+        <link href="https://www.jobstack.it/it-job/analytik/6abd3ea13453b"/>
+        <updated>2026-10-06T01:09:34.186Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Analytik</span>
+				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">IT konzultant</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																			</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>DecisionRules</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Praha</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+												<i class="icon icon--salary-gray"></i>
+						<span><b>Navrhni si mzdu</b></span>
+											</span>
+							</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junior obchodník – nastartujte kariéru v B2B sales — až 60 000 Kč / měsíc]]></title>
         <id>link-f3cb31effcde44df3c4022aff84c7237</id>
@@ -154,43 +185,12 @@
 							</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solution Consultant / IT Business Analyst — Navrhni si mzdu]]></title>
-        <id>link-28d38d5f88e5a972f23fb60833bc4eff</id>
-        <link href="https://www.jobstack.it/it-job/product-designer/6abd3ea13453b"/>
-        <updated>2026-09-30T21:55:28.196Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Produkťák</span>
-				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">IT konzultant</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
-											</div>
-			
-							<div class="jobposts-item_labels">
-																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
-																			</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>DecisionRules</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-												<i class="icon icon--salary-gray"></i>
-						<span><b>Navrhni si mzdu</b></span>
-											</span>
-							</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Architekt – AI & Software Engineering - IČO, Praha — až 180 000 Kč / měsíc]]></title>
-        <id>link-6f3f0bd5f2a4b52099c139f00a5248c2</id>
-        <link href="https://www.jobstack.it/it-job/ai-developer/6abbd10362273"/>
-        <updated>2026-09-29T20:28:26.644Z</updated>
+        <id>link-139eedd836645a08a4d60fb3e6a2625b</id>
+        <link href="https://www.jobstack.it/it-job/ai-native-developer/6abbd10362273"/>
+        <updated>2026-10-06T01:09:34.186Z</updated>
         <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">ML/AI developer</span>
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">AI Native Developer</span>
 				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Architekt</span>
 				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
 																	<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
@@ -307,11 +307,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[SAP Consulting Lead - onsite Praha — Navrhni si mzdu]]></title>
-        <id>link-ee7f059e4a8ab868e9ae950c9e7c78e5</id>
-        <link href="https://www.jobstack.it/it-job/specialista-erp/6aa91e358535a"/>
-        <updated>2026-09-15T13:12:40.370Z</updated>
+        <id>link-665cfef29817ab51f0a571cf39e34e5b</id>
+        <link href="https://www.jobstack.it/it-job/sap/6aa91e358535a"/>
+        <updated>2026-10-06T01:09:34.186Z</updated>
         <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Specialista ERP (SAP)</span>
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">SAP</span>
 				 					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">IT Manažer</span>
 				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
 													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
