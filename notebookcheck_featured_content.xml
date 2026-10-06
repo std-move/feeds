@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-10-06T16:35:30.839Z</updated>
+    <updated>2026-10-06T22:28:36.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/c/csm_SigenMate-2700-Ultra-Test96_94af18266a.jpg" loading="lazy" alt="SigenMate 2700 Ultra Review"></picture><div class="intro_featured_bar_title">Balcony solar storage system: SigenMate 2700 Ultra review</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D scanners are up to 40% off (A‎d)]]></title>
-        <id>link-30924684913c766c18aea1c2ab1ed471</id>
-        <link href="https://www.notebookcheck.net/Revopoint-Fall-Sale-2026-3D-Scanners-for-Metrology-3D-Printing-More-Are-Up-to-40-Off.1412638.0.html"/>
-        <updated>2026-10-05T19:05:48.020Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/NOTEBOOKCHECK71-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/NOTEBOOKCHECK71-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/NOTEBOOKCHECK71-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/NOTEBOOKCHECK71-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/NOTEBOOKCHECK71-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/NOTEBOOKCHECK71-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/7/csm_NOTEBOOKCHECK71_8052db53dc.jpg" loading="lazy" alt="3D scanners are up to 40% off."></picture><div class="intro_featured_bar_title">3D scanners are up to 40% off <span class="introa_ad_hd">(A‎d)</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The TV experience in the garden: Outdoor TV review]]></title>
         <id>link-41fd2034b05952e7a1a512ef823d6e60</id>
         <link href="https://www.notebookcheck.net/Outdoor-TV-withstands-even-direct-sunlight-Sylvox-Frameless-Pro-review.1415690.0.html"/>
@@ -53,5 +46,12 @@
         <link href="https://www.notebookcheck.net/A-tale-of-two-AAA-games-Control-Resonant-shows-what-gaming-can-be-Marvel-s-Wolverine-shows-what-it-is-becoming.1415435.0.html"/>
         <updated>2026-10-04T07:50:18.303Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/control-resonant-vs-wolverine-fight-png-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/control-resonant-vs-wolverine-fight-png-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/control-resonant-vs-wolverine-fight-png-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/control-resonant-vs-wolverine-fight-png-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/control-resonant-vs-wolverine-fight-png-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/control-resonant-vs-wolverine-fight-png-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/8/3/csm_control-resonant-vs-wolverine-fight_0226cc8c93.png" loading="lazy" alt="Control Resonant and Wolverine give us some interesting insights into what AAA games could be"></picture><div class="intro_featured_bar_title">Two AAA games, two completely different futures for gaming</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSI Stealth 16 review: Now with 128 GB of removable RAM]]></title>
+        <id>link-4b5162145e2ab66f034dea59dbc16f68</id>
+        <link href="https://www.notebookcheck.net/MSI-Stealth-16-AI-B3WH-review-Part-Gamer-Part-Creator-All-Professional.1411238.0.html"/>
+        <updated>2026-10-06T22:24:29.902Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Stealth_16_AI_B3WH/msistealth_feature_1-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Stealth_16_AI_B3WH/msistealth_feature_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Stealth_16_AI_B3WH/msistealth_feature_1-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/MSI/Stealth_16_AI_B3WH/msistealth_feature_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/MSI/Stealth_16_AI_B3WH/msistealth_feature_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/MSI/Stealth_16_AI_B3WH/msistealth_feature_1-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/0/csm_msistealth_feature_1_7efb97689a.jpg" loading="lazy" alt="MSI Stealth 16 AI B3WH review: Part Gamer, Part Creator, All Professional"></picture><div class="intro_featured_bar_title">MSI Stealth 16 review: Now with 128 GB of removable RAM</div>]]></content>
     </entry>
 </feed>
