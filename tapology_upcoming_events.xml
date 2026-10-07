@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-10-06T22:28:36.125Z</updated>
+    <updated>2026-10-07T04:40:29.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Contender Series 2026 — 2026-10-06 19:00:00 -0400]]></title>
-        <id>link-217d1d542d17fbe013c6d40fbd1a1749</id>
-        <link href="https://www.tapology.com/fightcenter/events/142728-contender-series-2026-week-9"/>
-        <updated>2026-09-27T19:34:13.159Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142728-contender-series-2026-week-9">Contender Series 2026</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-06 19:00:00 -0400">in 35 minutes</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ONE Friday Fights 174 — 2026-10-09 06:30:00 -0400]]></title>
         <id>link-3393a614e7a2017290657bc4569577e3</id>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147387-lfa-243">LFA 243</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-09 18:30:00 -0400">in 3 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-09 18:30:00 -0400">in 2 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -98,7 +86,19 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/142729-contender-series-2026-week-10">Contender Series 2026</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-13 19:00:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-13 19:00:00 -0400">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE Friday Fights 175 — 2026-10-16 07:30:00 -0400]]></title>
+        <id>link-14712ba8373ba18364a3642d33c7a050</id>
+        <link href="https://www.tapology.com/fightcenter/events/147734-one-friday-fights-175"/>
+        <updated>2026-10-07T04:36:50.443Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147734-one-friday-fights-175">ONE Friday Fights 175</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-10-16 07:30:00 -0400">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>

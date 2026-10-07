@@ -1,5 +1,121 @@
 {
 	"title": "Sync.com Windows changelog",
 	"url": "https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS",
-	"elements": []
+	"favicon": "https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6",
+	"elements": [
+		{
+			"id": "title-030751e81af1f013e1e878c52aeb0c16",
+			"title": "Version 5.0.39 - 09/21/2026",
+			"contents": "<li data-list-item-id=\"ea91c2a3e78db5708a4f0b131ee91011c\">Fixed an issue where web edits made shortly after uploading a file didn’t sync to the desktop app.</li>\n<li data-list-item-id=\"ea616c98faa46473e7f06113468c0479b\">Prevented temporary local file access errors from causing folders to be deleted from Sync.</li>\n<li data-list-item-id=\"e92483bd66da597df80e1e8933dc7b17b\">Fixed two issues that could cause deleted items or folders to reappear in shared folders.</li>\n<li data-list-item-id=\"ea3cfb4312f3551671e3dba0c1d85981d\">Fixed a case where an Office lock file prevented a deleted folder from being removed locally.</li>\n<li data-list-item-id=\"e7eb322fcf3d97a176cd74fd1ab293fb7\">Reduced long pauses during sync processing.</li>\n<li data-list-item-id=\"e66da9fb498c87d528a524d3910d09ff1\">Fixed a sync crash that could occur when switching servers during an upload.</li>\n<li data-list-item-id=\"ed65032debf3e94f032180c73bd1978ea\">Corrected a misleading “cannot connect to the network” warning caused by a stuck download.</li>\n<li data-list-item-id=\"e46afbabb530a16841c5dd594b8062968\">Fixed transfer timeouts that were shorter than intended.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-1b5190e5f242ee69e0fc041bdd38c11d",
+			"title": "Version 2.2.64 - 09/21/2026",
+			"contents": "<li data-list-item-id=\"e6ee1e5d98724113c75294313b911f7ce\">Fixed an issue where web edits made shortly after uploading a file didn’t sync to the desktop app.</li>\n<li data-list-item-id=\"e7ba41021a2a5c57bcb938e5bce2a35ce\">Prevented temporary local file access errors from causing folders to be deleted from Sync.</li>\n<li data-list-item-id=\"ea90c13a5b72d17c24e49488d46a3865a\">Fixed a case where deleted items in shared folders kept reappearing.</li>\n<li data-list-item-id=\"ecefabef9a35b3c242008a2e8e63b0699\">Fixed a case where an Office lock file prevented a deleted folder from being removed locally.</li>\n<li data-list-item-id=\"e68799789494b6809b1442e80decb37b1\">Reduced long pauses during sync processing.</li>\n<li data-list-item-id=\"e8310a278bdff88539f479b8946018509\">Fixed a sync crash that could occur when switching servers during an upload.</li>\n<li data-list-item-id=\"eca9d75d8b6d90656a24140bc96f7c4b7\">Corrected a misleading cannot connect to the network warning caused by a stuck download.</li>\n<li data-list-item-id=\"e4301fa02ddaf0cceb85ff92b7fa94c89\">Fixed transfer timeouts that were shorter than intended.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-460c2f5ffbe354416c908771e2e17944",
+			"title": "Version 5.0.37 - 08/31/2026",
+			"contents": "<li data-list-item-id=\"eadfe9c444ec6990ea8eb212371332ee4\">Fixed several upload issues that could cause repeated retries, failed chunks, or endless re-upload loops.</li>\n<li data-list-item-id=\"ed107f3e38d0e11332ea09900c9876164\">Very large file downloads are now resumable, preventing downloads from repeatedly restarting.</li>\n<li data-list-item-id=\"e4877b6f3ee964be4e16d956530b71466\">Fixed an issue where Selective Sync could incorrectly treat missing local files as deletions when re-enabling a folder.</li>\n<li data-list-item-id=\"eafc520adb14eb2bc528ab8187da45039\">Fixed several cases where syncing or downloads could become permanently stuck on large accounts or after local state errors.</li>\n<li data-list-item-id=\"eea3c51895af555f693c791574462d086\">Improved automatic recovery from corrupted Windows Sync folder metadata.</li>\n<li data-list-item-id=\"ee6eff1b0c228803bc2f927435ca3c40f\">Fixed a CloudFiles cache issue that could block file operations.</li>\n<li data-list-item-id=\"e90aaeade04e3c73146fc7e675b998d04\">Fixed files becoming permanently excluded after low-memory download failures, including recovery for previously affected files.</li>\n<li data-list-item-id=\"ec3ad610ec66c67e92f1068435e7648ff\">Improved handling of filename encoding conflicts to prevent duplicate files or folders.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-5c2c01fd4e787f05d1c7548a277070c0",
+			"title": "Version 2.2.62 - 08/31/2026",
+			"contents": "<li data-list-item-id=\"e327a1d0f82660fa6baf8c438093bda13\">Fixed several upload issues that could cause repeated retries, failed chunks, or endless re-upload loops.</li>\n<li data-list-item-id=\"e9306a46c53e3998a8660a20dff012b7a\">Very large file downloads are now resumable, preventing downloads from repeatedly restarting.</li>\n<li data-list-item-id=\"e6b90d739ca75025b5e6b30072eabfd5a\">Fixed an issue where Selective Sync could incorrectly treat missing local files as deletions when re-enabling a folder.</li>\n<li data-list-item-id=\"e545380231e4068de6d64fc79c9e54f9e\">Fixed several cases where syncing or downloads could become permanently stuck on large accounts or after local state errors.</li>\n<li data-list-item-id=\"e4d7af9474cd482b003a60d5289eb03d2\">Improved automatic recovery from corrupted Windows Sync folder metadata.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-c14d6f13f285fa820983bec4c34b5645",
+			"title": "Version 5.0.36 - 08/06/2026",
+			"contents": "<li data-list-item-id=\"e6c4df8d1e20f45871af270c04c4bb3c9\">Expanded the range of supported characters in file and folder names.</li>\n<li data-list-item-id=\"e7a059e82633a674dd72c6e1a41af53a8\">Fixed several sync issues that could cause deleted files or folders to reappear or items to remain stuck.</li>\n<li data-list-item-id=\"ea1d8da5352febed71c0c886200272d6e\">Fixed an issue where resuming an interrupted upload could leave the file unable to open on any device.</li>\n<li data-list-item-id=\"e119dcaf6031acf41f019addaf1ceaae8\">Improved sync reliability and performance on accounts with very large numbers of files.</li>\n<li data-list-item-id=\"ea89abd17220eaa31dea0fe8b5aa42790\">Reduced background CPU usage on accounts with large numbers of files.</li>\n<li data-list-item-id=\"ef27a3a13814864f1d095f78300e6748e\">Fixed files with corrupt placeholder data getting stuck in a sync loop.</li>\n<li data-list-item-id=\"ec964fdca54873271d94da02a331fc1a0\">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>\n<li data-list-item-id=\"e6329befbc3d9f0d250c2e694b28db1ae\">Added safeguards to prevent files from being removed if a local folder scan fails.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-106d9cb746dba93c8eee37f0768bef5b",
+			"title": "Version 2.2.61 - 08/06/2026",
+			"contents": "<li data-list-item-id=\"ec7290f1263a7dd1db86beb070a268b25\">Expanded the range of supported characters in file and folder names.</li>\n<li data-list-item-id=\"e520d1cb2813ee632eb41a8ef094233fc\">Fixed several sync issues that could cause deleted files or folders to reappear or items to remain stuck.</li>\n<li data-list-item-id=\"e5e6990e5fb086cb8910d8e85fc17ad69\">Fixed an issue where resuming an interrupted upload could leave the file unable to open on any device.</li>\n<li data-list-item-id=\"e37332496b3385bb8342cce03f8ca75e3\">Fixed an issue where the app could retry the same operation indefinitely after certain server responses.</li>\n<li data-list-item-id=\"ec30185c3f39e99935954889466c5d491\">Added safeguards to prevent files from being removed if a local folder scan fails.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-e810381d233843672f163a830b5fdd04",
+			"title": "Version 5.0.35 - 06/22/2026",
+			"contents": "<li data-local-id=\"c30908c0-0825-4df9-87a0-25870937d4d7\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"e880872e5af6f4613935a8afb608ca454\"><p data-local-id=\"09e4cbdceb82\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Added web-based authentication for sign-in and account creation, with automatic device provisioning.</p></li>\n<li data-local-id=\"bbba65833d23\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"ed2d845a867cfbb04cf98e27d396c9bd5\"><p data-local-id=\"093fee63e631\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Fixed several sync issues that could cause files or folders to become stuck or reappear unexpectedly.</p></li>\n<li data-local-id=\"26aa8738-6785-4c28-9f14-77c3aa715731\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"e400061607879df67ffb68b0aa8acd6e9\"><p data-local-id=\"5690b76a2df4\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Improved reliability for large file uploads.</p></li>\n<li data-local-id=\"48aab00c-919b-437f-b5d6-2711e2ddb24b\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"e6a66e7c578a38ff3bacf17f5dc3590e6\"><p data-local-id=\"d37b37d21bcf\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Resolved an issue where shared links to large folders excluded some files.</p></li>\n<li data-local-id=\"ce44dbe4-8ba6-4026-af64-052a23edf76e\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"ee8c130b1a9853cc4244f0de3c7f18757\"><p data-local-id=\"b21a0f24678d\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Fixed an issue that prevented resolved excluded file errors from disappearing from the progress tab.</p></li>\n<li data-local-id=\"c86ba7b1-656a-41e0-93c6-d03090ae4c6b\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"ef4c407ec883aa9ebd8dee2df8e3b81bb\"><p data-local-id=\"2bddef62e8f8\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Improved link copying reliability.</p></li>\n<li data-local-id=\"53886e52-3d60-40d2-bef6-31d30c24053a\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"e18730bf270d3086eea808b33e6cf87a6\"><p data-local-id=\"184b0d6219be\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Resolved initial sync stalls after upgrading on devices with very large file counts.</p></li>\n<li data-local-id=\"3ba4f5f1-4e20-4d0c-8fb0-af7a2babd036\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"eeabcb3e35953032da3da6de0c615aa89\"><p data-local-id=\"5de0ad80c925\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Addressed an update issue that prompted some users to sign in again or reinstall.</p></li>\n<li data-local-id=\"517dd7f4-6e41-49e0-bb94-a931c3b19731\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"eb6eb9956ba4ddf6eef2754f7ef04c1f1\"><p data-local-id=\"89b4f394cea7\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Fixed a deadlock that could occur when Windows dehydrates cached files in the sync folder.</p></li>\n<li data-local-id=\"5b0fc454-20a0-41db-bb36-c70aa194740e\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"listItem\" data-prosemirror-node-block=\"true\" data-list-item-id=\"e1a6b4394151147f618a7eecd1983989e\"><p data-local-id=\"78d80c06da5b\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Corrected the \"Learn more\" link on the update screen.</p></li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-2b8e8651634bd143616073c78310ffa0",
+			"title": "Version 2.2.60 - 06/22/2026",
+			"contents": "<li data-list-item-id=\"e7b8c6506dedbf2ef618b7c3c4ee6e832\">Fixed several sync issues that could cause files or folders to become stuck or reappear unexpectedly.</li>\n<li data-list-item-id=\"e75f09ddc70940892bd2aa94ab86bcac3\">Improved upload reliability and fixed silent failures affecting some large file uploads.</li>\n<li data-list-item-id=\"e262806248ff0bf71bd095d0b6ea93eb0\">Fixed shared link issues affecting large folders.</li>\n<li data-list-item-id=\"ed3a72b2b357a5e68aa0c0eabc4c46fe1\">Resolved progress tab and clipboard issues.</li>\n<li data-list-item-id=\"e541c85ff27418d6ef2d8f620b49f48fe\">Improved update reliability and fixed initial sync stalls after upgrading.</li>\n<li data-list-item-id=\"ec0234eb0428fbe69eebf15bc6d6847b7\">Fixed stability issues that could cause sign-in prompts or app hangs in certain scenarios.</li>\n<li data-list-item-id=\"e72ea8517effd2428066efc7dee16d1a7\">Corrected the update screen help link.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-60d85537c0c0c5b6aaba8949f0f1d590",
+			"title": "Version 5.0.33 - 04/30/2026",
+			"contents": "<li data-list-item-id=\"eadb4662abe9cf2da1c7117b5967a8793\">Increased sync reliability across more file update, upload, and delete scenarios.</li>\n<li data-list-item-id=\"edec6508a7bb30f86266fa1108e684c2b\">Reduced setup time for accounts with large sync histories.</li>\n<li data-list-item-id=\"e008922e10196079eada3e36f16caf24d\">Improved placeholder handling for certain file names and sync status updates.</li>\n<li data-list-item-id=\"e940f50a3e07400d37e9e452036f56251\">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-b018b96d0c16c8c6ef15d60349079ae8",
+			"title": "Version 2.2.58 - 04/30/2026",
+			"contents": "<li data-list-item-id=\"e3f483cd3fa285ea054a3c4ee7a84117a\">Improved sync reliability when handling broken remote path entries, large file deletions, incomplete upload states, and files deleted from another device.</li>\n<li data-list-item-id=\"eaa677971b9b0f1d0c1db0938c43309dd\">Reduced setup time for accounts with large sync histories.</li>\n<li data-list-item-id=\"e2226668c9fab455fc917d7097603ef67\">Fixed stability issues that could cause the app to close or restart unexpectedly.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-8fc29ab256a273aac8983787152f0b46",
+			"title": "Version 5.0.32 / 2.2.57 - 03/24/2026",
+			"contents": "<li data-section-id=\"1fd8i8c\" data-start=\"142\" data-end=\"200\" data-list-item-id=\"eb186d6ff9edba70f15ac91ac385573b7\">Removed inaccurate time remaining estimates.</li>\n<li data-section-id=\"1va3q4y\" data-start=\"496\" data-end=\"582\" data-list-item-id=\"e7850d1b8c7c975968aa032db1dba70f7\">Improved activity log performance and size management.</li>\n<li data-list-item-id=\"e5de7a0619b5f4e5d8289863deb6ec20b\"><p data-start=\"72\" data-end=\"232\">Fixed an issue when upgrading from version 2.1.x to 2.2.x.</p></li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-f3e6f5cbd83c7cdd8e42607cd7197f21",
+			"title": "Version 5.0.30 / 2.2.55 - 01/26/2026",
+			"contents": "<li data-list-item-id=\"e5aa5b79242e7596e63e965f201e80f12\"><p data-start=\"72\" data-end=\"232\">Fixes an issue that was preventing updating from an older version.</p></li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-258cbf51a8f1ac80d947f4da1c401bc2",
+			"title": "Version 5.0.29 - 12/01/2025",
+			"contents": "<li data-list-item-id=\"eedb90a876e66441222f22553a5bcd445\"><p data-start=\"72\" data-end=\"232\">Improved performance, stability, and reduced CPU/memory usage for very large syncs (millions of small files, long paths, nested folder deletes).</p></li>\n<li data-list-item-id=\"efba7608d137ff888c13b414e658797cd\"><p data-start=\"235\" data-end=\"388\">Improved upload reliability so syncing doesn’t stall.</p></li>\n<li data-list-item-id=\"e1795752312601b689380268cd384409c\"><p data-start=\"391\" data-end=\"555\">Fixed issues with automatic updates, app not loading, and crashes caused by excluded/paused paths or too many excluded files.</p></li>\n<li data-list-item-id=\"ed9262e67272037dfdd6b54c001b8272d\"><p data-start=\"558\" data-end=\"619\">Fixed rare crashes during SSL certificate verification.</p></li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-1ca77238775c8a1d09bb7919e9006091",
+			"title": "Version 5.0.28.2 - 09/08/2025",
+			"contents": "<li data-list-item-id=\"e3f4c8d35c61b657c7b7a5114bdb4a22a\">Eliminated issues that would cause syncing to stall.</li>\n<li data-list-item-id=\"e4bb5ccd7979f3a08f7e9cb074867369a\">Ensure downloads don't block uploads.</li>\n<li data-list-item-id=\"e2d2b213f00cbfbdda3ad2506f3190884\">File upload stability.</li>\n<li data-list-item-id=\"e457b0e25b76a2d5f20d6eedc93f76241\">Improved account restore speed.</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-9b688d6c8a2da75d0413b92c90c12b5f",
+			"title": "Version 2.2.52 - 08/25/2025",
+			"contents": "<li data-list-item-id=\"eb2c7bd4412a45b6977e0635774e54db8\">Handle 3010 install errors cleanly</li>\n<li data-list-item-id=\"e326d517a2a94def467310be701fd99a9\">Various fixes to prevent app from crashing</li>\n<li data-list-item-id=\"ed6e962427dfd295a80b3f7aea2258f02\">Fixed \"Run when computer started\" setting</li>\n<li data-list-item-id=\"e57ae6dee446ee1efc0da01064603f99b\">Ensure downgrade from 5.x to 2.x provides correct error messaging</li>\n<li data-list-item-id=\"ed24fbfd2171bb64563d684e627fbefb9\">Expanded file event error coverage to improve app reliability and QA</li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-4af3d3206c35a256841af4e7df42f8f1",
+			"title": "Version 5.0.27 - 07/28/2025",
+			"contents": "<li data-start=\"148\" data-end=\"183\" data-list-item-id=\"efa6acebf71a2a300f7917ccb0388b010\"><p data-start=\"150\" data-end=\"183\">File upload stability.</p></li>\n<li data-start=\"184\" data-end=\"221\" data-list-item-id=\"ef958c1f5029669c5c927ddf77a8284c3\"><p data-start=\"186\" data-end=\"221\">Windows 10 32-bit crash.</p></li>\n<li data-start=\"222\" data-end=\"320\" data-list-item-id=\"ead5908995c3be0a0bc1dc4456baf292c\"><p data-start=\"224\" data-end=\"320\">Modified date of local cloud-only files now correct when files are edited on the web.</p></li>\n<li data-start=\"222\" data-end=\"320\" data-list-item-id=\"e860cef527c46e33282806d8e3bb2e9f6\"><p data-start=\"224\" data-end=\"320\">Note: The 5.0.26 release was skipped</p></li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-4484f36b485cbaa3fae27cf26515e7ea",
+			"title": "Version 2.2.50 - 06/02/2025",
+			"contents": "<li data-list-item-id=\"ed7760da0847bb7df69c342a796199a2b\"><p data-start=\"130\" data-end=\"186\">Increased per folder file limit from 10,000 to 50,000.</p></li>\n<li data-list-item-id=\"ef3ea7ba51bcb77e4aa453115f0888151\"><p data-start=\"189\" data-end=\"262\">More prominent error messaging with links to help desk for stuck files.</p></li>\n<li data-list-item-id=\"e98134d28b6cf330a79a319b78cbbe17b\"><p data-start=\"265\" data-end=\"306\">\"core\" no longer an excluded file name.</p></li>\n<li data-list-item-id=\"ebe4ae06b2a074482786d4a9aedd66eef\"><p data-start=\"309\" data-end=\"350\">Events load much faster (Recents view).</p></li>\n<li data-list-item-id=\"e4b17f518bdc24f3b5ea7514df202792e\"><p data-start=\"353\" data-end=\"408\">Clicking on folders in advanced tab (selective sync).</p></li>\n<li data-list-item-id=\"eafe124e7e5610a0326e56ab1b33e4f38\"><p data-start=\"411\" data-end=\"438\">Installer text alignment.</p></li>\n<li data-list-item-id=\"e04b9d36cbb0f745c96ee297af6c5d98c\"><p data-start=\"441\" data-end=\"503\">Improved load speed and reliability of the preferences pane.</p></li>\n<li data-list-item-id=\"ea63fa7a5a7dde2d4ef341988ac5a3d67\"><p data-start=\"506\" data-end=\"542\">Fixed various installation errors.</p></li>\n<li data-list-item-id=\"e6027abd3b073996b7284e6eb0850ffee\"><p data-start=\"545\" data-end=\"599\">Reduced instances causing deleted files to reappear.</p></li>\n<li data-list-item-id=\"e7b5e75b60db94c8ae765d358cc7a3b9a\"><p data-start=\"602\" data-end=\"639\">Fixed crash related to missing DLL.</p></li>\n<li data-list-item-id=\"e4d78f01634299114798b0a983a88e773\"><p data-start=\"642\" data-end=\"692\">Copy-to-vault no longer causes syncing to pause.</p></li>\n<li data-list-item-id=\"ef5a6883962d64b733d645783053419dd\"><p data-start=\"695\" data-end=\"746\">Moving a share folder no longer breaks the share.</p></li>\n<li data-list-item-id=\"e62f59719f0ff14c9600b8b1af7bff1b8\"><p data-start=\"749\" data-end=\"801\">Deleted files no longer listed as files to review.</p></li>\n<li data-list-item-id=\"e69ff8a156f2736d7e0aeecf3c41caf7f\"><p data-start=\"804\" data-end=\"842\">Fixed incomplete uploads data issue.</p></li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-9a33bfe79cd7a1357c814757e5990deb",
+			"title": "Version 5.0.25 - 04/28/2025",
+			"contents": "<li data-list-item-id=\"ec4251b241c585afd76c7c35330f939db\"><p data-start=\"146\" data-end=\"202\">Increased per folder file limit from 10,000 to 50,000.</p></li>\n<li data-list-item-id=\"e6d896343a3b8b97fe8f189b4f8a4fde1\"><p data-start=\"205\" data-end=\"278\">More prominent error messaging with links to help desk for stuck files.</p></li>\n<li data-list-item-id=\"edc366bef70336a8323ecaa7042c3af6b\"><p data-start=\"281\" data-end=\"322\">\"core\" no longer an excluded file name.</p></li>\n<li data-list-item-id=\"e9c172e44e0b7eca786ae9bad4f3719d8\"><p data-start=\"325\" data-end=\"384\">Fixed various issues that could cause files to get stuck.</p></li>\n<li data-list-item-id=\"e0b4c8ca65a359730eac64339a52a759e\"><p data-start=\"387\" data-end=\"436\">Fixed instances where app would pause or crash.</p></li>\n<li data-list-item-id=\"ee0088b3c236c4b5799531d116be7eadf\"><p data-start=\"439\" data-end=\"514\">Check to prevent multiple users from using the same Sync folder location.</p></li>\n<li data-list-item-id=\"e4aada84629f9c785685a9c9632a8e19a\"><p data-start=\"517\" data-end=\"568\">Moving a share folder no longer breaks the share.</p></li>",
+			"retrieved": 1791347810443
+		},
+		{
+			"id": "title-bb93ca82538c70a157116d0df9ceba14",
+			"title": "Version 5.0.23 - 02/06/2025",
+			"contents": "<li data-list-item-id=\"e17ce3c6a67d704b4affad79a190eeb8c\">Improved load speed and reliability of the preferences panel.</li>\n<li data-list-item-id=\"e7377f774e928d30c1232af823961f8d0\">Improved reliability of large file uploads and downloads.</li>\n<li data-list-item-id=\"ef3b6204755bb452fb346bba1c21ea669\">The installer incorrectly produced the errors “Unhandled unknown exception: terminating the application” and “Initialize failed: The initial message queue failed. Please restart your computer”.</li>\n<li data-list-item-id=\"e224c0d882f4938ee4c44f6d826396831\">Corrected a typo in the app installer.</li>\n<li data-list-item-id=\"e1994c1a8c4faa6bee4e9da7e3235a90f\">Fixed issue causing error “cloudfiles is not supported on sharedfolder”.</li>\n<li data-list-item-id=\"e478c912b429b9abb6f841fbcf3e2dab6\">Setting a file to Cloud-Only sometimes reverts to local storage.</li>\n<li data-list-item-id=\"e9da46fa7aa51c3089bd7d76fc2d43e46\">Item in sync were being incorrectly reported as “pending” in some cases.</li>\n<li data-list-item-id=\"e340ea27707cf1d23c90be65b835f4d96\">When installing on Windows 11 some text was not being displayed fully.</li>\n<li data-list-item-id=\"e6fb29df92f549d25c01fe269c820eb6d\">Video files with the .BRAW extensions were not always downloading from the cloud.</li>\n<li data-list-item-id=\"e6eee7fc70eedad7354fee0d0eca1b366\">Clarified error message shown when trying to create a share link before verifying email on a new account.</li>",
+			"retrieved": 1791347810443
+		}
+	]
 }
