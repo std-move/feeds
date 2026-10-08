@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-10-08T08:31:31.873Z</updated>
+    <updated>2026-10-08T15:43:37.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ Is MiniLED Finally Better Than OLED?]]></title>
+        <id>link-7d46edf74457c20306e61e95cb3da43d</id>
+        <link href="https://www.notebookcheck.net/Is-MiniLED-Finally-Better-Than-OLED.1419396.0.html"/>
+        <updated>2026-10-08T15:41:15.943Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053549-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053549-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053549-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053549-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053549-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053549-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/9/csm__1053549_7e8e0bbe0c.jpg" loading="lazy" alt="For the living room gamers? The 75&quot; TCL C8L"></picture><div class="intro_featured_bar_title">▶ Is MiniLED Finally Better Than OLED?</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sleek & compact: Lenovo Yoga Tab Gen 2 reviewed]]></title>
         <id>link-b83d3b14eb31602f3b1d8e125e62e380</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Intel-clearly-beats-Snapdragon-Microsoft-Surface-Laptop-15-Gen-8-Review.1413537.0.html"/>
         <updated>2026-10-06T08:37:59.528Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_15_Gen_8/surface_laptop_15_8_case_01-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_15_Gen_8/surface_laptop_15_8_case_01-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_15_Gen_8/surface_laptop_15_8_case_01-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_15_Gen_8/surface_laptop_15_8_case_01-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_15_Gen_8/surface_laptop_15_8_case_01-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_15_Gen_8/surface_laptop_15_8_case_01-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/1/csm_surface_laptop_15_8_case_01_c011886f35.jpg" loading="lazy" alt="Intel clearly beats Snapdragon - Microsoft Surface Laptop 15 Gen 8 Review"></picture><div class="intro_featured_bar_title">Surface Laptop 15 Core Ultra X7 Review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balcony solar storage system: SigenMate 2700 Ultra review]]></title>
-        <id>link-3d8942ef51497bcfbc845f8a7fbd1a7c</id>
-        <link href="https://www.notebookcheck.net/Balcony-solar-storage-system-with-two-backup-power-outlets-SigenMate-2700-Ultra-review.1416493.0.html"/>
-        <updated>2026-10-05T19:05:48.020Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/1/c/csm_SigenMate-2700-Ultra-Test96_94af18266a.jpg" loading="lazy" alt="SigenMate 2700 Ultra Review"></picture><div class="intro_featured_bar_title">Balcony solar storage system: SigenMate 2700 Ultra review</div>]]></content>
     </entry>
 </feed>
