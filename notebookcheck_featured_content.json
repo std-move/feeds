@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-b83d3b14eb31602f3b1d8e125e62e380",
+			"title": "Sleek & compact: Lenovo Yoga Tab Gen 2 reviewed",
+			"link": "https://www.notebookcheck.net/New-premium-tablet-with-compact-dimensions-and-plenty-of-power-Lenovo-Yoga-Tab-Gen-2-review.1418928.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Tab_Gen_2/Test_Lenovo_Yoga_Tab_Gen_2_6-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Tab_Gen_2/Test_Lenovo_Yoga_Tab_Gen_2_6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Tab_Gen_2/Test_Lenovo_Yoga_Tab_Gen_2_6-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Tab_Gen_2/Test_Lenovo_Yoga_Tab_Gen_2_6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Tab_Gen_2/Test_Lenovo_Yoga_Tab_Gen_2_6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Yoga_Tab_Gen_2/Test_Lenovo_Yoga_Tab_Gen_2_6-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/7/csm_Test_Lenovo_Yoga_Tab_Gen_2_6_ac7dc673fe.jpg\" loading=\"lazy\" alt=\"Lenovo Yoga Tab Gen 2 review\"></picture><div class=\"intro_featured_bar_title\">Sleek &amp; compact: Lenovo Yoga Tab Gen 2 reviewed</div>",
+			"retrieved": 1791448144674
+		},
+		{
 			"id": "link-2201c774e5b79c9044c6a4002b59e4f8",
 			"title": "Extremely lightweight: 2-kWh power station Anker Solix S2000 review",
 			"link": "https://www.notebookcheck.net/2-kilowatt-hours-have-never-been-this-light-Anker-Solix-S2000-power-station-review.1418245.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Balcony-solar-storage-system-with-two-backup-power-outlets-SigenMate-2700-Ultra-review.1416493.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/SigenMate-2700-Ultra-Test96-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/c/csm_SigenMate-2700-Ultra-Test96_94af18266a.jpg\" loading=\"lazy\" alt=\"SigenMate 2700 Ultra Review\"></picture><div class=\"intro_featured_bar_title\">Balcony solar storage system: SigenMate 2700 Ultra review</div>",
 			"retrieved": 1791227148020
-		},
-		{
-			"id": "link-41fd2034b05952e7a1a512ef823d6e60",
-			"title": "The TV experience in the garden: Outdoor TV review",
-			"link": "https://www.notebookcheck.net/Outdoor-TV-withstands-even-direct-sunlight-Sylvox-Frameless-Pro-review.1415690.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Sylvox-Frameless-Pro-Test-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Sylvox-Frameless-Pro-Test-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Sylvox-Frameless-Pro-Test-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Sylvox-Frameless-Pro-Test-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Sylvox-Frameless-Pro-Test-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Sylvox-Frameless-Pro-Test-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/0/csm_Sylvox-Frameless-Pro-Test_2c6e0555cf.jpg\" loading=\"lazy\" alt=\"Sylvox Frameless Pro Outdoor TV Hands-On Review\"></picture><div class=\"intro_featured_bar_title\">The TV experience in the garden: Outdoor TV review</div>",
-			"retrieved": 1791136837981
 		}
 	]
 }
