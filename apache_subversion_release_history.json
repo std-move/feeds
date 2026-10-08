@@ -4,6 +4,12 @@
 	"favicon": "https://subversion.apache.org/docs/release-notes/favicon.ico",
 	"elements": [
 		{
+			"id": "title-c32a2f73d24341cea76b11cae3a9b955",
+			"title": "Subversion 1.15.0 (Thursday, 8 October 2026): Feature and bugfix release, see the release notes.",
+			"contents": "<b>Subversion 1.15.0</b> (Thursday, 8 October 2026): Feature and bugfix release, see the <a href=\"/docs/release-notes/1.15.html\">release notes</a>.",
+			"retrieved": 1791479652736
+		},
+		{
 			"id": "title-6c108b42a66fa0bc66ced28154a7c61a",
 			"title": "Subversion 1.14.5 (Sunday, 8 December 2024): Bugfix/security release.",
 			"contents": "<b>Subversion 1.14.5</b> (Sunday, 8 December 2024): Bugfix/security release.",
