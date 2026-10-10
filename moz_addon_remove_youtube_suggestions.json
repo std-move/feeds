@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-59bb0be70b53f54aef529c2d85b0f53a",
+			"title": "Version 4.3.84",
+			"contents": "Released Oct 9, 2026 - 357.4 KB — Renamed \"Skip and close ads\" to \"Speed through ads\", and volume and playback speed are now reliably restored after an ad.",
+			"retrieved": 1791660926866
+		},
+		{
 			"id": "title-21827fa5c49dd24a6703ff32268dabdf",
 			"title": "Version 4.3.83",
 			"contents": "Released Sep 6, 2026 - 357.1 KB — <ul><li>Keep selected channels in color while using grayscale mode.</li><li>New premium option to hide the YouTube logo.</li><li>Bug fixes and reliability improvements.</li></ul>",
@@ -145,12 +151,6 @@
 			"id": "title-0d4ef6d61d931a198593380abfc128ec",
 			"title": "Version 4.3.57",
 			"contents": "Released May 12, 2024 - 329.08 KB — Added options to toggle subscribers count &amp; grayscale mode. Thank you to porobertdev for the PR!",
-			"retrieved": 1789096642064
-		},
-		{
-			"id": "title-3163867d0701444cee852499ad34c0d7",
-			"title": "Version 4.3.55",
-			"contents": "Released Apr 28, 2024 - 327.66 KB — Set \"skip ads\" to default false",
 			"retrieved": 1789096642064
 		}
 	]

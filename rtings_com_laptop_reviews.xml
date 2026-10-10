@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-10-08T23:03:05.023Z</updated>
+    <updated>2026-10-10T19:38:05.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Apple MacBook Pro 16 (M5, 2026) Test Results
+            Early Access]]></title>
+        <id>link-9a65052762e5b78552afa601e6e01bb0</id>
+        <link href="https://www.rtings.com/early-access/laptop/reviews/apple/macbook-pro-16-m5-2026"/>
+        <updated>2026-10-10T19:35:26.866Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/pWmKSW2K/apple-macbook-pro-16-m5-2026/in-test-medium.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">Apple MacBook Pro 16 (M5, 2026) Test Results
+            <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
+          </div>
+          <div class="latest_page-preview-date">1 day ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laptop Test Bench 1.0
             New]]></title>
@@ -16,7 +30,7 @@
           <div class="latest_page-preview-title t-card-title-link">Laptop Test Bench 1.0
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">about 5 hours ago</div>
+          <div class="latest_page-preview-date">2 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -30,7 +44,7 @@
           <div class="latest_page-preview-title t-card-title-link">Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (2026) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">6 days ago</div>
+          <div class="latest_page-preview-date">8 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -44,7 +58,7 @@
           <div class="latest_page-preview-title t-card-title-link">Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">8 days ago</div>
+          <div class="latest_page-preview-date">10 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -58,7 +72,7 @@
           <div class="latest_page-preview-title t-card-title-link">ASUS Chromebook CX15 (2026) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">15 days ago</div>
+          <div class="latest_page-preview-date">17 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -72,7 +86,7 @@
           <div class="latest_page-preview-title t-card-title-link">ASUS Chromebook CX15 (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">21 days ago</div>
+          <div class="latest_page-preview-date">23 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -86,7 +100,7 @@
           <div class="latest_page-preview-title t-card-title-link">Microsoft Surface Pro 13 12th Edition (2026) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">24 days ago</div>
+          <div class="latest_page-preview-date">26 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -100,7 +114,7 @@
           <div class="latest_page-preview-title t-card-title-link">Microsoft Surface Pro 13 12th Edition (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">29 days ago</div>
+          <div class="latest_page-preview-date">about 1 month ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -156,7 +170,7 @@
           <div class="latest_page-preview-title t-card-title-link">HP OmniBook 5 16 (2026) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">about 1 month ago</div>
+          <div class="latest_page-preview-date">about 2 months ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -170,7 +184,7 @@
           <div class="latest_page-preview-title t-card-title-link">Apple MacBook Air 13 (M5, 2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">about 1 month ago</div>
+          <div class="latest_page-preview-date">about 2 months ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -226,7 +240,7 @@
           <div class="latest_page-preview-title t-card-title-link">Dell XPS 13 (2026) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">about 2 months ago</div>
+          <div class="latest_page-preview-date">2 months ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -324,7 +338,7 @@
           <div class="latest_page-preview-title t-card-title-link">Lenovo IdeaPad 5a 2-in-1 14 (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">2 months ago</div>
+          <div class="latest_page-preview-date">3 months ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -534,7 +548,7 @@
           <div class="latest_page-preview-title t-card-title-link">Laptop Test Bench 0.9
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">11 months ago</div>
+          <div class="latest_page-preview-date">12 months ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -548,21 +562,7 @@
           <div class="latest_page-preview-title t-card-title-link">Our Tests: Graphics And Professional 3D
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">11 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Tests: Gaming And Ray Tracing
-            New]]></title>
-        <id>link-a2415ddd14e55f890f63d4d368905dc2</id>
-        <link href="https://www.rtings.com/laptop/tests/gaming-ray-tracing"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/pages/S3F9YZQR/gaming-and-ray-tracing-20250826-large.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Our Tests: Gaming And Ray Tracing
-            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">11 months ago</div>
+          <div class="latest_page-preview-date">12 months ago</div>
         </div>]]></content>
     </entry>
 </feed>
