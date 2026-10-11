@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-058c15bcec078132dcb1a77d95512b05",
+			"title": "Version 4.5.0",
+			"contents": "Released Oct 10, 2026 - 357.94 KB — Added an option to keep the power button usable during a schedule, and fixed several settings broken by YouTube changes, including Shorts in search results, like counts, comment upvotes, and the subscriptions page filters.",
+			"retrieved": 1791713072295
+		},
+		{
 			"id": "title-59bb0be70b53f54aef529c2d85b0f53a",
 			"title": "Version 4.3.84",
 			"contents": "Released Oct 9, 2026 - 357.4 KB — Renamed \"Skip and close ads\" to \"Speed through ads\", and volume and playback speed are now reliably restored after an ad.",
@@ -145,12 +151,6 @@
 			"id": "title-ba179f8311fe3547d1313b443d1da23c",
 			"title": "Version 4.3.58",
 			"contents": "Released May 24, 2024 - 329.15 KB — Fixed the skip ad option",
-			"retrieved": 1789096642064
-		},
-		{
-			"id": "title-0d4ef6d61d931a198593380abfc128ec",
-			"title": "Version 4.3.57",
-			"contents": "Released May 12, 2024 - 329.08 KB — Added options to toggle subscribers count &amp; grayscale mode. Thank you to porobertdev for the PR!",
 			"retrieved": 1789096642064
 		}
 	]

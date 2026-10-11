@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-10-10T19:38:05.284Z</updated>
+    <updated>2026-10-11T10:07:07.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.5.0]]></title>
+        <id>title-058c15bcec078132dcb1a77d95512b05</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-10-11T10:04:32.295Z</updated>
+        <content type="html"><![CDATA[Released Oct 10, 2026 - 357.94 KB — Added an option to keep the power button usable during a schedule, and fixed several settings broken by YouTube changes, including Shorts in search results, like counts, comment upvotes, and the subscriptions page filters.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.3.84]]></title>
         <id>title-59bb0be70b53f54aef529c2d85b0f53a</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-09-11T03:17:22.064Z</updated>
         <content type="html"><![CDATA[Released May 24, 2024 - 329.15 KB — Fixed the skip ad option]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.57]]></title>
-        <id>title-0d4ef6d61d931a198593380abfc128ec</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-09-11T03:17:22.064Z</updated>
-        <content type="html"><![CDATA[Released May 12, 2024 - 329.08 KB — Added options to toggle subscribers count &amp; grayscale mode. Thank you to porobertdev for the PR!]]></content>
     </entry>
 </feed>
