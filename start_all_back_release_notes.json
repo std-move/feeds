@@ -4,6 +4,12 @@
 	"favicon": "https://www.startallback.com/favicon.ico",
 	"elements": [
 		{
+			"id": "title-ac3b93e522dad2ee61ddb47705b2e8dd",
+			"title": "Version 3.9.28 12 Oct 2026",
+			"contents": "Version 3.9.28 12 Oct 2026\n\t\t\t\t<li>Major improvements and fixes</li>",
+			"retrieved": 1791821102413
+		},
+		{
 			"id": "title-60aec2822b91bf5079e6a02c4803ade7",
 			"title": "Version 3.9.27 24 Sep 2026",
 			"contents": "Version 3.9.27 24 Sep 2026\n\t\t\t\t<li>Fix dark mode broken with 26H2 features</li>",
