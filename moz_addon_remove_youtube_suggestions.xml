@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-10-11T20:37:15.642Z</updated>
+    <updated>2026-10-12T00:02:47.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.5.2]]></title>
+        <id>title-c6d685556217ce7a8459a000996881f4</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-10-11T23:59:22.241Z</updated>
+        <content type="html"><![CDATA[Released Oct 11, 2026 - 358.45 KB — Fixed several settings: the left-navigation "Hide section" options hiding the wrong section when signed out, "Hide extra sidebar tags" hiding every chip, "Disable ambient mode" and "Disable annotations" switching the wrong player toggle, the history search bar disappearing, black embedded videos in search engine mode, and a conflict with PocketTube.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.5.0]]></title>
         <id>title-058c15bcec078132dcb1a77d95512b05</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-09-11T03:17:22.064Z</updated>
         <content type="html"><![CDATA[Released May 31, 2024 - 329.78 KB — Disabled the power button when a schedule is active. Added an option to lock the menu with a random code.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.58]]></title>
-        <id>title-ba179f8311fe3547d1313b443d1da23c</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-09-11T03:17:22.064Z</updated>
-        <content type="html"><![CDATA[Released May 24, 2024 - 329.15 KB — Fixed the skip ad option]]></content>
     </entry>
 </feed>
