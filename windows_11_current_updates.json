@@ -4,40 +4,40 @@
 	"favicon": "https://learn.microsoft.com/en-us/windows/release-health/favicon.ico",
 	"elements": [
 		{
-			"id": "title-9a9e19208e9a119e0a7716819bd01062",
-			"title": "2026-09-29 — 26H2 — General Availability Channel — 26300.9550 — 2026-09 D",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124010\" target=\"_blank\" data-linktype=\"external\">2026-09 D</a> — 2026-09-29 — 26300.9550",
-			"retrieved": 1790713706644
+			"id": "title-cf2b8a1c2c23aee551bb10d4b4956131",
+			"title": "2026-10-13 — 26H2 — General Availability Channel — 26300.9711 — 2026-10 B",
+			"contents": "<a href=\"https://support.microsoft.com/help/5127648\" target=\"_blank\" data-linktype=\"external\">2026-10 B</a> — 2026-10-13 — 26300.9711",
+			"retrieved": 1791927202673
 		},
 		{
-			"id": "title-a353c858ba4d254ed6f2589d2ab694d6",
-			"title": "2026-09-22 — 26H1 — General Availability Channel — 28000.3086 — 2026-09 D",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124006\" target=\"_blank\" data-linktype=\"external\">2026-09 D</a> — 2026-09-22 — 28000.3086",
-			"retrieved": 1790111270277
+			"id": "title-b65827a9718bcb547dda538fc704d01c",
+			"title": "2026-10-13 — 26H1 — General Availability Channel — 28000.3231 — 2026-10 B",
+			"contents": "<a href=\"https://support.microsoft.com/help/5127646\" target=\"_blank\" data-linktype=\"external\">2026-10 B</a> — 2026-10-13 — 28000.3231",
+			"retrieved": 1791927202673
 		},
 		{
-			"id": "title-14bf54105012ac79d02f2ff081b9dca1",
-			"title": "2026-09-22 — 25H2 — General Availability Channel — 26200.9550 — 2026-09 D",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124010\" target=\"_blank\" data-linktype=\"external\">2026-09 D</a> — 2026-09-22 — 26200.9550",
-			"retrieved": 1790111270277
+			"id": "title-0846c8f581b9735425015bcd56e6dcf1",
+			"title": "2026-10-13 — 25H2 — General Availability Channel — 26200.9711 — 2026-10 B",
+			"contents": "<a href=\"https://support.microsoft.com/help/5127648\" target=\"_blank\" data-linktype=\"external\">2026-10 B</a> — 2026-10-13 — 26200.9711",
+			"retrieved": 1791927202673
 		},
 		{
-			"id": "title-13ca79111074892ad13b8477123e03f2",
-			"title": "2026-09-22 — 24H2 — General Availability Channel — 26100.9550 — 2026-09 D",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124010\" target=\"_blank\" data-linktype=\"external\">2026-09 D</a> — 2026-09-22 — 26100.9550",
-			"retrieved": 1790111270277
+			"id": "title-bdee447382f88ba08e921a5dbf31caa1",
+			"title": "2026-10-13 — 24H2 — General Availability Channel — 26100.9711 — 2026-10 B",
+			"contents": "<a href=\"https://support.microsoft.com/help/5127648\" target=\"_blank\" data-linktype=\"external\">2026-10 B</a> — 2026-10-13 — 26100.9711",
+			"retrieved": 1791927202673
 		},
 		{
-			"id": "title-852e769d0fd788fe333e60643abb62f4",
-			"title": "2026-09-14 — 23H2 — General Availability Channel — 22631.7584 — 2026-09 OOB",
-			"contents": "<a href=\"https://support.microsoft.com/help/5129242\" target=\"_blank\" data-linktype=\"external\">2026-09 OOB</a> — 2026-09-14 — 22631.7584",
-			"retrieved": 1789421656113
+			"id": "title-d68e3f230a94ec42c7448d65320d2009",
+			"title": "2026-10-13 — 23H2 — General Availability Channel — 22631.7652 — 2026-10 B",
+			"contents": "<a href=\"https://support.microsoft.com/help/5126653\" target=\"_blank\" data-linktype=\"external\">2026-10 B</a> — 2026-10-13 — 22631.7652",
+			"retrieved": 1791927202673
 		},
 		{
-			"id": "title-9271d9cc0fd495f6150c8402a7d26d1e",
-			"title": "2026-09-22 — 24H2 — Long-Term Servicing Channel (LTSC) — 26100.9550 — 2026-09 D",
-			"contents": "<a href=\"https://support.microsoft.com/help/5124010\" target=\"_blank\" data-linktype=\"external\">2026-09 D</a> — 2026-09-22 — 26100.9550",
-			"retrieved": 1790111270277
+			"id": "title-7f741f4e466797296de101db0e6f1815",
+			"title": "2026-10-13 — 24H2 — Long-Term Servicing Channel (LTSC) — 26100.9711 — 2026-10 B",
+			"contents": "<a href=\"https://support.microsoft.com/help/5127648\" target=\"_blank\" data-linktype=\"external\">2026-10 B</a> — 2026-10-13 — 26100.9711",
+			"retrieved": 1791927202673
 		}
 	]
 }
