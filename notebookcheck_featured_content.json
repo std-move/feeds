@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-979322c208a8fbc944699091fb7a8729",
+			"title": "Ugreens NAS is growing up - NASync DXP2800 GT review",
+			"link": "https://www.notebookcheck.net/Small-fast-and-surprisingly-quiet-Ugreen-NASync-DXP2800-GT-review.1423049.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Ugreen/DXP2800_GT/aPic_Ugreen_NASync_DXP2800_GT-3872-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Ugreen/DXP2800_GT/aPic_Ugreen_NASync_DXP2800_GT-3872-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Ugreen/DXP2800_GT/aPic_Ugreen_NASync_DXP2800_GT-3872-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Ugreen/DXP2800_GT/aPic_Ugreen_NASync_DXP2800_GT-3872-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Ugreen/DXP2800_GT/aPic_Ugreen_NASync_DXP2800_GT-3872-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Ugreen/DXP2800_GT/aPic_Ugreen_NASync_DXP2800_GT-3872-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/7/csm_aPic_Ugreen_NASync_DXP2800_GT-3872_1b3c9cd742.jpg\" loading=\"lazy\" alt=\"Small, fast, and surprisingly quiet  - Ugreen NASync DXP2800 GT review\"></picture><div class=\"intro_featured_bar_title\">Ugreens NAS is growing up - NASync DXP2800 GT review</div>",
+			"retrieved": 1791908777098
+		},
+		{
 			"id": "link-6582c51487ba03c2ed9ea46c4d10baee",
 			"title": "Lenovo Yoga 9 2-in-1 14 review: Great looks with average performance",
 			"link": "https://www.notebookcheck.net/Lenovo-Yoga-9-2-in-1-14IPH11-review-Panther-Lake-holds-back-an-otherwise-great-convertible.1416434.0.html",
@@ -43,13 +50,6 @@
 			"title": "Bambu Lab R1: Powerful CO2 laser reviewed",
 			"link": "https://www.notebookcheck.net/Bambu-Lab-R1-review-Powerful-plug-and-play-laser-cutting.1420911.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/4/csm_BambuLabR1Teaser235_a8e9578be7.jpg\" loading=\"lazy\" alt=\"Bambu Lab R1 review: Powerful, plug-and-play laser cutting\"></picture><div class=\"intro_featured_bar_title\">Bambu Lab R1: Powerful CO2 laser reviewed</div>",
-			"retrieved": 1791660926866
-		},
-		{
-			"id": "link-97a069b9ec5e862cf2f665f9e277f57e",
-			"title": "Apple iPhone 18 Pro Review",
-			"link": "https://www.notebookcheck.net/Apple-iPhone-18-Pro-review-Compact-powerhouse-with-an-unresolved-weakness.1420103.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/iPhone_18_Pro/Test_Apple_iPhone_18_Pro_Review_5-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/iPhone_18_Pro/Test_Apple_iPhone_18_Pro_Review_5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/iPhone_18_Pro/Test_Apple_iPhone_18_Pro_Review_5-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/iPhone_18_Pro/Test_Apple_iPhone_18_Pro_Review_5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/iPhone_18_Pro/Test_Apple_iPhone_18_Pro_Review_5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/iPhone_18_Pro/Test_Apple_iPhone_18_Pro_Review_5-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/a/5/csm_Test_Apple_iPhone_18_Pro_Review_5_96a5e49aa5.jpg\" loading=\"lazy\" alt=\"Apple iPhone 18 Pro Smartphone Review\"></picture><div class=\"intro_featured_bar_title\">Apple iPhone 18 Pro Review</div>",
 			"retrieved": 1791660926866
 		}
 	]
