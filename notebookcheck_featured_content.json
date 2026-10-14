@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-b4d903c176710543d26d6cdd17fcf7e8",
+			"title": "HP HyperX Omen 15 review: Can an 85 W GeForce RTX 5070 keep up?",
+			"link": "https://www.notebookcheck.net/HP-HyperX-Omen-15-review-85-W-GeForce-RTX-5070-can-feel-underwhelming.1422368.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/Omen_15-ga0931nr/omen15_feature_4_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/Omen_15-ga0931nr/omen15_feature_4_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/Omen_15-ga0931nr/omen15_feature_4_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/Omen_15-ga0931nr/omen15_feature_4_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/Omen_15-ga0931nr/omen15_feature_4_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/Omen_15-ga0931nr/omen15_feature_4_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/b/7/csm_omen15_feature_4_1_4b1b366438.jpg\" loading=\"lazy\" alt=\"HP HyperX Omen 15 review: 85 W GeForce RTX 5070 can feel underwhelming\"></picture><div class=\"intro_featured_bar_title\">HP HyperX Omen 15 review: Can an 85 W GeForce RTX 5070 keep up?</div>",
+			"retrieved": 1791941020885
+		},
+		{
 			"id": "link-979322c208a8fbc944699091fb7a8729",
 			"title": "Ugreens NAS is growing up - NASync DXP2800 GT review",
 			"link": "https://www.notebookcheck.net/Small-fast-and-surprisingly-quiet-Ugreen-NASync-DXP2800-GT-review.1423049.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/DJI-has-done-it-again-DJI-Romo-2-robot-vacuum-review.1421905.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/DJI-Romo-P2-Test74-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/DJI-Romo-P2-Test74-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/DJI-Romo-P2-Test74-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/DJI-Romo-P2-Test74-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/DJI-Romo-P2-Test74-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/DJI-Romo-P2-Test74-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/d/csm_DJI-Romo-P2-Test74_3a315491de.jpg\" loading=\"lazy\" alt=\"DJI Romo 2 Review\"></picture><div class=\"intro_featured_bar_title\">DJI has done it again: DJI Romo 2 review</div>",
 			"retrieved": 1791821102413
-		},
-		{
-			"id": "link-91642bc3abb30f171f22d86818ddf376",
-			"title": "Bambu Lab R1: Powerful CO2 laser reviewed",
-			"link": "https://www.notebookcheck.net/Bambu-Lab-R1-review-Powerful-plug-and-play-laser-cutting.1420911.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/BambuLabR1Teaser235-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/4/csm_BambuLabR1Teaser235_a8e9578be7.jpg\" loading=\"lazy\" alt=\"Bambu Lab R1 review: Powerful, plug-and-play laser cutting\"></picture><div class=\"intro_featured_bar_title\">Bambu Lab R1: Powerful CO2 laser reviewed</div>",
-			"retrieved": 1791660926866
 		}
 	]
 }
