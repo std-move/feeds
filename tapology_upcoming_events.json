@@ -21,8 +21,15 @@
 			"id": "link-6c60cc5fd45a72cbb04979eaa575e66c",
 			"title": "ONE Samurai 4 — 2026-10-17 02:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/145660-one-samurai-4",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145660-one-samurai-4\">ONE Samurai 4</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 02:30:00 -0400\">in 3 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145660-one-samurai-4\">ONE Samurai 4</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 02:30:00 -0400\">in 2 days</abbr>\n</td>",
 			"retrieved": 1791660926866
+		},
+		{
+			"id": "link-49b1fa9140c6210a354fb7ee8407b90d",
+			"title": "Dubois vs. Wardley II — 2026-10-17 10:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/146892-dubois-vs-wardley-ii",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146892-dubois-vs-wardley-ii\">Dubois vs. Wardley II</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 10:00:00 -0400\">in 3 days</abbr>\n</td>",
+			"retrieved": 1791713072295
 		},
 		{
 			"id": "link-bbeb0f7bc1a7bec0e4ea7bd29dddc48d",
@@ -39,13 +46,6 @@
 			"retrieved": 1791660926866
 		},
 		{
-			"id": "link-49b1fa9140c6210a354fb7ee8407b90d",
-			"title": "Dubois vs. Wardley II — 2026-10-17 11:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/146892-dubois-vs-wardley-ii",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146892-dubois-vs-wardley-ii\">Dubois vs. Wardley II</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 11:00:00 -0400\">in 3 days</abbr>\n</td>",
-			"retrieved": 1791713072295
-		},
-		{
 			"id": "link-65c5f41b8db7bbe9f61647f1f6c82660",
 			"title": "UFC Fight Night — 2026-10-17 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/145985-ufc-fight-night",
@@ -54,9 +54,9 @@
 		},
 		{
 			"id": "link-76b0952d4c3981ad0dab3b9c0e4d76e9",
-			"title": "Fundora vs. Hadribeaj — 2026-10-17 17:00:00 -0400",
+			"title": "Fundora vs. Hadribeaj — 2026-10-17 16:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/146518-fundora-vs-hadribeaj",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146518-fundora-vs-hadribeaj\">Fundora vs. Hadribeaj</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 17:00:00 -0400\">in 3 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146518-fundora-vs-hadribeaj\">Fundora vs. Hadribeaj</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 16:00:00 -0400\">in 3 days</abbr>\n</td>",
 			"retrieved": 1791941020885
 		}
 	]
