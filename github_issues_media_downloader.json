@@ -11,13 +11,6 @@
 			"retrieved": 1786984002677
 		},
 		{
-			"id": "link-5ea5e1bf1847928de6c9e816042eb5c6",
-			"title": "Stahování z ČT nefunguje",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/93",
-			"contents": "",
-			"retrieved": 1792065949080
-		},
-		{
 			"id": "link-56969a35323b33e3fe419392d017006d",
 			"title": "MP4 output keeps avc3 codec tag - not playable in QuickTime / Apple TV (needs -tag:v avc1)",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/92",
@@ -184,6 +177,13 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/20",
 			"contents": "",
 			"retrieved": 1790873658663
+		},
+		{
+			"id": "link-f1ed573ace733eb3a2ce93f1e85a71cb",
+			"title": "Upctv",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/17",
+			"contents": "",
+			"retrieved": 1792100742653
 		}
 	]
 }
