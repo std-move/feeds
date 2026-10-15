@@ -4,11 +4,18 @@
 	"favicon": "https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png",
 	"elements": [
 		{
-			"id": "link-9a65052762e5b78552afa601e6e01bb0",
+			"id": "link-77c8c0bd7c4b5f8f7fa8a318f7a199e6",
+			"title": "Apple MacBook Pro 16 (M5, 2026) Review\n            New",
+			"link": "https://www.rtings.com/laptop/reviews/apple/macbook-pro-16-m5-2026",
+			"contents": "<img src=\"https://i.rtings.com/assets/products/4tBH4iF6/apple-macbook-pro-16-m5-2026/design-small.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Apple MacBook Pro 16 (M5, 2026) Review\n            <div class=\"e-event_tag\" data-kind=\"new\" style=\"vertical-align: middle; margin-left: 6px;\">New</div>\n          </div>\n          <div class=\"latest_page-preview-date\">5 minutes ago</div>\n        </div>",
+			"retrieved": 1792084866777
+		},
+		{
+			"id": "link-77c8c0bd7c4b5f8f7fa8a318f7a199e6",
 			"title": "Apple MacBook Pro 16 (M5, 2026) Test Results\n            Early Access",
-			"link": "https://www.rtings.com/early-access/laptop/reviews/apple/macbook-pro-16-m5-2026",
+			"link": "https://www.rtings.com/laptop/reviews/apple/macbook-pro-16-m5-2026",
 			"contents": "<img src=\"https://i.rtings.com/assets/products/pWmKSW2K/apple-macbook-pro-16-m5-2026/in-test-medium.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Apple MacBook Pro 16 (M5, 2026) Test Results\n            <div class=\"e-event_tag\" data-kind=\"early-access\" style=\"vertical-align: middle; margin-left: 6px;\">Early Access</div>\n          </div>\n          <div class=\"latest_page-preview-date\">6 days ago</div>\n        </div>",
-			"retrieved": 1791660926866
+			"retrieved": 1792084866777
 		},
 		{
 			"id": "link-9fd959d82da7036b7454acdb22438647",
@@ -274,13 +281,6 @@
 			"title": "Laptop Test Bench 0.9\n            New",
 			"link": "https://www.rtings.com/laptop/tests/changelogs/0-9",
 			"contents": "<img src=\"https://i.rtings.com/assets/pages/WCd1xPU1/0-8-3-performancesection-medium.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Laptop Test Bench 0.9\n            <div class=\"e-event_tag\" data-kind=\"new\" style=\"vertical-align: middle; margin-left: 6px;\">New</div>\n          </div>\n          <div class=\"latest_page-preview-date\">12 months ago</div>\n        </div>",
-			"retrieved": 1777535545847
-		},
-		{
-			"id": "link-d6a1fa5703295d0ea4ed8a9837ab7a54",
-			"title": "Our Tests: Graphics And Professional 3D\n            New",
-			"link": "https://www.rtings.com/laptop/tests/performance/graphics-3d",
-			"contents": "<img src=\"https://i.rtings.com/assets/pages/fOSGqwTS/lowhigh-tier-graphics-professional-3d-20250826-large.jpg?format=auto\" alt=\"\">\n        <div class=\"latest_page-preview-details\">\n          <div class=\"latest_page-preview-title t-card-title-link\">Our Tests: Graphics And Professional 3D\n            <div class=\"e-event_tag\" data-kind=\"new\" style=\"vertical-align: middle; margin-left: 6px;\">New</div>\n          </div>\n          <div class=\"latest_page-preview-date\">12 months ago</div>\n        </div>",
 			"retrieved": 1777535545847
 		}
 	]
