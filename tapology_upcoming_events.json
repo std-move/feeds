@@ -4,24 +4,17 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-14712ba8373ba18364a3642d33c7a050",
-			"title": "ONE Friday Fights 175 — 2026-10-16 07:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/147734-one-friday-fights-175",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147734-one-friday-fights-175\">ONE Friday Fights 175</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-16 07:30:00 -0400\">in 3 hours</abbr>\n</td>",
-			"retrieved": 1791347810443
-		},
-		{
 			"id": "link-33e694d86baf110349b127fd69222a5a",
 			"title": "PFL Chicago — 2026-10-16 18:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/147222-pfl-chicago-carmouche-vs-bishop-2",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147222-pfl-chicago-carmouche-vs-bishop-2\">PFL Chicago</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-16 18:30:00 -0400\">in 14 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147222-pfl-chicago-carmouche-vs-bishop-2\">PFL Chicago</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-16 18:30:00 -0400\">in 8 hours</abbr>\n</td>",
 			"retrieved": 1791660926866
 		},
 		{
 			"id": "link-6c60cc5fd45a72cbb04979eaa575e66c",
 			"title": "ONE Samurai 4 — 2026-10-17 02:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/145660-one-samurai-4",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145660-one-samurai-4\">ONE Samurai 4</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 02:30:00 -0400\">in 22 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145660-one-samurai-4\">ONE Samurai 4</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 02:30:00 -0400\">in 16 hours</abbr>\n</td>",
 			"retrieved": 1791660926866
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/146518-fundora-vs-hadribeaj",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146518-fundora-vs-hadribeaj\">Fundora vs. Hadribeaj</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-17 16:00:00 -0400\">in 1 day</abbr>\n</td>",
 			"retrieved": 1791941020885
+		},
+		{
+			"id": "link-856afe25d83e791dae82a83fa5222138",
+			"title": "LFA 244 — 2026-10-23 20:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/147388-lfa-244",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147388-lfa-244\">LFA 244</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-23 20:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"retrieved": 1792157532276
 		}
 	]
 }
