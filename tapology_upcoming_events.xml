@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-10-16T21:44:55.403Z</updated>
+    <updated>2026-10-17T00:48:57.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[PFL Chicago — 2026-10-16 18:30:00 -0400]]></title>
-        <id>link-33e694d86baf110349b127fd69222a5a</id>
-        <link href="https://www.tapology.com/fightcenter/events/147222-pfl-chicago-carmouche-vs-bishop-2"/>
-        <updated>2026-10-10T19:35:26.866Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147222-pfl-chicago-carmouche-vs-bishop-2">PFL Chicago</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-16 18:30:00 -0400">in 47 minutes</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ONE Samurai 4 — 2026-10-17 02:30:00 -0400]]></title>
         <id>link-6c60cc5fd45a72cbb04979eaa575e66c</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145660-one-samurai-4">ONE Samurai 4</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-17 02:30:00 -0400">in 8 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-17 02:30:00 -0400">in 5 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146892-dubois-vs-wardley-ii">Dubois vs. Wardley II</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-17 10:00:00 -0400">in 16 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-17 10:00:00 -0400">in 13 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/144466-oktagon-95">OKTAGON 95</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-17 11:00:00 -0400">in 17 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-17 11:00:00 -0400">in 14 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145600-cage-warriors-211">Cage Warriors 211</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-17 11:00:00 -0400">in 17 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-17 11:00:00 -0400">in 14 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -74,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145985-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-17 17:00:00 -0400">in 23 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-17 17:00:00 -0400">in 20 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -86,7 +74,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146518-fundora-vs-hadribeaj">Fundora vs. Hadribeaj</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-17 16:00:00 -0400">in 22 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-17 16:00:00 -0400">in 19 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -98,7 +86,19 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147388-lfa-244">LFA 244</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-23 20:00:00 -0400">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-23 20:00:00 -0400">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFC 333 — 2026-10-24 10:00:00 -0400]]></title>
+        <id>link-e765b55793cba40a10c8dfbda4b100c3</id>
+        <link href="https://www.tapology.com/fightcenter/events/146338-ufc-333"/>
+        <updated>2026-10-17T00:46:44.212Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146338-ufc-333">UFC 333</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-10-24 10:00:00 -0400">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>
