@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-10-18T05:09:35.058Z</updated>
+    <updated>2026-10-18T11:43:26.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Sam_Obisanya" title="Sam Obisanya">Sam Obisanya</a></b> from <i><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Ted_Lasso" title="Ted Lasso">Ted Lasso</a></i> was originally written as a Ghanaian character, but was changed to Nigerian after <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Toheeb_Jimoh" title="Toheeb Jimoh">Toheeb Jimoh</a> was cast in the role?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dumb phone]]></title>
+        <title type="html"><![CDATA[Light Flip]]></title>
         <id>link-19181ccaae019132b7cdb37f727415cb</id>
         <link href="https://en.wikipedia.org/wiki/Light_Flip"/>
         <updated>2026-10-18T05:06:59.442Z</updated>
-        <content type="html"><![CDATA[... that simply buying a new "<b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Light_Flip" title="Light Flip">dumb phone</a></b>" may not be a "magic pill" to solve <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Problematic_smartphone_use" title="Problematic smartphone use">smartphone addiction</a>?]]></content>
+        <content type="html"><![CDATA[... that simply buying a "dumb phone" such as the upcoming <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Light_Flip" title="Light Flip">Light Flip</a></b> may not be a "magic pill" to solve <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Problematic_smartphone_use" title="Problematic smartphone use">smartphone addiction</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Edward Francis]]></title>
