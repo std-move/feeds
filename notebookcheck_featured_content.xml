@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-10-18T11:43:26.135Z</updated>
+    <updated>2026-10-18T16:10:53.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.notebookcheck.net/Xiaomi-Poco-X8-smartphone-review-Probably-the-best-phone-deal-of-2026-for-battery-life-and-display.1426213.0.html"/>
         <updated>2026-10-17T15:56:22.163Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/1/csm_Xiaomi_Poco_X8_im_Test_7_408496c651.jpg" loading="lazy" alt="Xiaomi Poco X8 review"></picture><div class="intro_featured_bar_title">Deal or no deal? Xiaomi Poco X8 review</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best camera phones tested and compared]]></title>
+        <id>link-c09203f3c95ca0f3a858dab96dc35a8e</id>
+        <link href="https://www.notebookcheck.net/Ranking-Best-camera-smartphones-tested-by-Notebookcheck.283106.0.html"/>
+        <updated>2026-10-18T16:08:30.836Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/f/csm_bestcameraphone_8420e304d4.jpg" loading="lazy" alt="The best smartphones for digital photography"></picture><div class="intro_featured_bar_title">Best camera phones tested and compared</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia RTX Spark N1X Analysis - Update: Surface Laptop Ultra]]></title>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html"/>
         <updated>2026-10-16T13:32:12.276Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/d/csm_proart_p16_h7607_teaser_03_0232f62e4e.jpg" loading="lazy" alt="Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?"></picture><div class="intro_featured_bar_title">Asus ProArt P16 RTX Spark Review - A great multimedia laptop</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geekom A5 2027: Proven chassis & fast ports – but where is USB4?]]></title>
-        <id>link-b9525cff4847e7cb6c7c582ae78cb9ec</id>
-        <link href="https://www.notebookcheck.net/Geekom-A5-2027-review-Surprisingly-quiet-What-the-new-version-of-this-budget-mini-PC-has-to-offer.1423873.0.html"/>
-        <updated>2026-10-16T13:32:12.276Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Geekom/A5_R7_7730U/A5_2027_1969-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Geekom/A5_R7_7730U/A5_2027_1969-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Geekom/A5_R7_7730U/A5_2027_1969-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Geekom/A5_R7_7730U/A5_2027_1969-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Geekom/A5_R7_7730U/A5_2027_1969-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Geekom/A5_R7_7730U/A5_2027_1969-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/5/csm_A5_2027_1969_61c7ffe012.jpg" loading="lazy" alt="Geekom A5 2027 review: Surprisingly quiet – What the new version of this budget mini-PC has to offer"></picture><div class="intro_featured_bar_title">Geekom A5 2027: Proven chassis &amp; fast ports – but where is USB4?</div>]]></content>
     </entry>
 </feed>
