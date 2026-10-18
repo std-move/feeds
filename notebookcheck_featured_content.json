@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-c0dbd68f3a120a0016191ac8c8a9e886",
+			"title": "Asus ProArt P16 RTX Spark Review - Update: Gaming & Path Tracing",
+			"link": "https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/d/csm_proart_p16_h7607_teaser_03_0232f62e4e.jpg\" loading=\"lazy\" alt=\"Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?\"></picture><div class=\"intro_featured_bar_title\">Asus ProArt P16 RTX Spark Review - Update: Gaming &amp; Path Tracing</div>",
+			"retrieved": 1792157532276
+		},
+		{
 			"id": "link-f23f6d0aa0354cc1e0692bee08da9f17",
 			"title": "Deal or no deal? Xiaomi Poco X8 review",
 			"link": "https://www.notebookcheck.net/Xiaomi-Poco-X8-smartphone-review-Probably-the-best-phone-deal-of-2026-for-battery-life-and-display.1426213.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/The-7-000-MacBook-Pro-alternative-Asus-ProArt-P16-Review.1426100.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053671-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053671-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053671-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053671-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053671-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053671-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/0/csm__1053671_4869363f6e.jpg\" loading=\"lazy\" alt=\"Nvidia against them all! \"></picture><div class=\"intro_featured_bar_title\">▶ The $7,000 MacBook Pro alternative?</div>",
 			"retrieved": 1792174869003
-		},
-		{
-			"id": "link-c0dbd68f3a120a0016191ac8c8a9e886",
-			"title": "Asus ProArt P16 RTX Spark Review - A great multimedia laptop",
-			"link": "https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/d/csm_proart_p16_h7607_teaser_03_0232f62e4e.jpg\" loading=\"lazy\" alt=\"Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?\"></picture><div class=\"intro_featured_bar_title\">Asus ProArt P16 RTX Spark Review - A great multimedia laptop</div>",
-			"retrieved": 1792157532276
 		}
 	]
 }
