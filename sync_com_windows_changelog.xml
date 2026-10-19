@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com Windows changelog</title>
-    <updated>2026-10-19T05:20:01.060Z</updated>
+    <updated>2026-10-19T13:59:07.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.40 - 10/19/2026]]></title>
+        <id>title-838b71872a1051ea38a92a48bd6b34cd</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-10-19T13:56:09.586Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e25cd235170d674c7e772f5e54928b656">Fixed an issue causing endless re-uploads or files that never finished syncing.</li>
+<li data-list-item-id="e91889f00b81f96c360316a2d0c602188">Files no longer become permanently stuck after brief server interruptions.</li>
+<li data-list-item-id="e98335887ae452170649185926146abdf">Reduced CPU and network activity in some instances.</li>
+<li data-list-item-id="e814b96820ac9c6e0cf9ec2f5b69c2cb1">Ensure app can recover in fail scenarios.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.65 - 10/19/2026]]></title>
+        <id>title-82c7ba5064172fb27d7aec355ed9cbf1</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-10-19T13:56:09.586Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="ed5711216ca9606f833c20fa938ceb2c6">Fixed an issue causing endless re-uploads or files that never finished syncing.</li>
+<li data-list-item-id="e87102b265f9f4e7a3b2e6a8908fc60cc">Files no longer become permanently stuck after brief server interruptions.</li>
+<li data-list-item-id="ee4382c3323e1b01d024fb71a6222061f">Ensure app can recover in fail scenarios.</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.39 - 09/21/2026]]></title>
         <id>title-030751e81af1f013e1e878c52aeb0c16</id>

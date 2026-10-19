@@ -4,6 +4,18 @@
 	"favicon": "https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6",
 	"elements": [
 		{
+			"id": "title-838b71872a1051ea38a92a48bd6b34cd",
+			"title": "Version 5.0.40 - 10/19/2026",
+			"contents": "<li data-list-item-id=\"e25cd235170d674c7e772f5e54928b656\">Fixed an issue causing endless re-uploads or files that never finished syncing.</li>\n<li data-list-item-id=\"e91889f00b81f96c360316a2d0c602188\">Files no longer become permanently stuck after brief server interruptions.</li>\n<li data-list-item-id=\"e98335887ae452170649185926146abdf\">Reduced CPU and network activity in some instances.</li>\n<li data-list-item-id=\"e814b96820ac9c6e0cf9ec2f5b69c2cb1\">Ensure app can recover in fail scenarios.</li>",
+			"retrieved": 1792418169586
+		},
+		{
+			"id": "title-82c7ba5064172fb27d7aec355ed9cbf1",
+			"title": "Version 2.2.65 - 10/19/2026",
+			"contents": "<li data-list-item-id=\"ed5711216ca9606f833c20fa938ceb2c6\">Fixed an issue causing endless re-uploads or files that never finished syncing.</li>\n<li data-list-item-id=\"e87102b265f9f4e7a3b2e6a8908fc60cc\">Files no longer become permanently stuck after brief server interruptions.</li>\n<li data-list-item-id=\"ee4382c3323e1b01d024fb71a6222061f\">Ensure app can recover in fail scenarios.</li>",
+			"retrieved": 1792418169586
+		},
+		{
 			"id": "title-030751e81af1f013e1e878c52aeb0c16",
 			"title": "Version 5.0.39 - 09/21/2026",
 			"contents": "<li data-list-item-id=\"ea91c2a3e78db5708a4f0b131ee91011c\">Fixed an issue where web edits made shortly after uploading a file didn’t sync to the desktop app.</li>\n<li data-list-item-id=\"ea616c98faa46473e7f06113468c0479b\">Prevented temporary local file access errors from causing folders to be deleted from Sync.</li>\n<li data-list-item-id=\"e92483bd66da597df80e1e8933dc7b17b\">Fixed two issues that could cause deleted items or folders to reappear in shared folders.</li>\n<li data-list-item-id=\"ea3cfb4312f3551671e3dba0c1d85981d\">Fixed a case where an Office lock file prevented a deleted folder from being removed locally.</li>\n<li data-list-item-id=\"e7eb322fcf3d97a176cd74fd1ab293fb7\">Reduced long pauses during sync processing.</li>\n<li data-list-item-id=\"e66da9fb498c87d528a524d3910d09ff1\">Fixed a sync crash that could occur when switching servers during an upload.</li>\n<li data-list-item-id=\"ed65032debf3e94f032180c73bd1978ea\">Corrected a misleading “cannot connect to the network” warning caused by a stuck download.</li>\n<li data-list-item-id=\"e46afbabb530a16841c5dd594b8062968\">Fixed transfer timeouts that were shorter than intended.</li>",

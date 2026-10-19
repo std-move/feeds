@@ -4,6 +4,18 @@
 	"favicon": "https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6",
 	"elements": [
 		{
+			"id": "title-838b71872a1051ea38a92a48bd6b34cd",
+			"title": "Version 5.0.40 - 10/19/2026",
+			"contents": "<li data-list-item-id=\"e7aad264e1c1bc286008b20973e433958\">Fixed an issue causing endless re-uploads or files that never finished syncing.</li>\n<li data-list-item-id=\"e1ba5236f07b99bd23f7feeea43717640\">Failed uploads now retry gradually.</li>\n<li data-list-item-id=\"e0b0db4c1ab6c62f59cc24260cee4fdf5\">Fixed missing files in Finder after signing in on a new installation.</li>\n<li data-list-item-id=\"ecabdb2a86a78cc0c477571373ad3f803\">Improved speed of uploads, deletes, and moves on networks that block analytics trackers.</li>",
+			"retrieved": 1792418169586
+		},
+		{
+			"id": "title-82c7ba5064172fb27d7aec355ed9cbf1",
+			"title": "Version 2.2.65 - 10/19/2026",
+			"contents": "<li data-list-item-id=\"e4abdec9e2c187403e7656a3ad78a1da2\">Fixed an issue causing endless re-uploads or files that never finished syncing.</li>\n<li data-list-item-id=\"e9c83931bd6ac4f608f87e0f278bcc76f\">Files no longer become permanently stuck after brief server interruptions.</li>\n<li data-list-item-id=\"eedbc0303a60d1335f655732bbecd9b56\">Ensure app can recover in fail scenarios.</li>",
+			"retrieved": 1792418169586
+		},
+		{
 			"id": "title-030751e81af1f013e1e878c52aeb0c16",
 			"title": "Version 5.0.39 - 09/21/2026",
 			"contents": "<li data-list-item-id=\"eaa827cfe6e27db216c080399a1c8ed33\">Fixed an issue where fresh installs could miss files during the first sync on large accounts.</li>\n<li data-list-item-id=\"e43c0ec42ad3df14b9c4f047bceffd0ae\">Large downloads now resume after an interruption instead of starting over.</li>\n<li data-list-item-id=\"e6c9e25bbb40be5cdc1ee132bcc72d002\">Fixed files getting stuck on “Waiting to Upload” in Finder.</li>\n<li data-list-item-id=\"e9b6c24b9bb39c6fb550c8266aa9bd297\">Fixed a sync crash that could occur when switching servers during an upload.</li>",
