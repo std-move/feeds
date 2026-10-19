@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-10-19T00:33:32.392Z</updated>
+    <updated>2026-10-19T05:20:01.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-ef7a012f95c3880b26c189ca3f6f1bfa</id>
         <link href="https://en.wikipedia.org/wiki/Mount_Bonaparte"/>
         <updated>2026-10-19T00:31:04.256Z</updated>
-        <content type="html"><![CDATA[... that the 7,257-foot (2,212<span typeof="mw:Entity">&nbsp;</span>m) <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Mount_Bonaparte" title="Mount Bonaparte">Mount Bonaparte</a></b> had a cistern hand carved into its granite summit in 1929?]]></content>
+        <content type="html"><![CDATA[... that the 7,257-foot (2,212<span typeof="mw:Entity">&nbsp;</span>m) <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Mount_Bonaparte" title="Mount Bonaparte">Mount Bonaparte</a></b> had a cistern hand-carved into its granite summit in 1929?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chao Xu]]></title>
@@ -66,6 +66,6 @@
         <id>link-0ef732d9c70a65ab4c6b4bdad1cac19b</id>
         <link href="https://en.wikipedia.org/wiki/Andreas_von_Velven"/>
         <updated>2026-10-19T00:31:04.256Z</updated>
-        <content type="html"><![CDATA[... that <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Mindaugas" title="Mindaugas">Mindaugas</a> bribed <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Andreas_von_Velven" title="Andreas von Velven">Andreas von Velven</a></b> out of invading Lithuania by promising to get baptized as a Catholic?]]></content>
+        <content type="html"><![CDATA[... that <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Mindaugas" title="Mindaugas">Mindaugas</a> bribed <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Andreas_von_Velven" title="Andreas von Velven">Andreas von Velven</a></b> with gifts and agreed to be baptized to stop the Livonian Order's invasion of Lithuania?]]></content>
     </entry>
 </feed>
