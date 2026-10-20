@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-10-20T17:38:39.052Z</updated>
+    <updated>2026-10-20T21:54:46.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Surface Laptop 8th Edition (2026) Test Results
+            Early Access]]></title>
+        <id>link-66aa16cb558cf27a2aeea55c31b0404c</id>
+        <link href="https://www.rtings.com/early-access/laptop/reviews/microsoft/surface-laptop-8th-edition-2026"/>
+        <updated>2026-10-20T21:52:23.184Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/dqliwTIl/microsoft-surface-laptop-8th-edition-2026/in-test-medium.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">Microsoft Surface Laptop 8th Edition (2026) Test Results
+            <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
+          </div>
+          <div class="latest_page-preview-date">about 4 hours ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple MacBook Pro 16 (M5, 2026) Review
             New]]></title>
@@ -549,20 +563,6 @@
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
           <div class="latest_page-preview-date">11 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laptop Test Bench 0.9
-            New]]></title>
-        <id>link-f4f31615dd7c0bd8faf8ef0b4201c4a7</id>
-        <link href="https://www.rtings.com/laptop/tests/changelogs/0-9"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/pages/WCd1xPU1/0-8-3-performancesection-medium.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Laptop Test Bench 0.9
-            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">12 months ago</div>
         </div>]]></content>
     </entry>
 </feed>
