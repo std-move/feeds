@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-10-21T14:10:03.775Z</updated>
+    <updated>2026-10-21T18:57:01.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[▶ The $700 4K OLED you should be buying!]]></title>
+        <id>link-27cbf9f9a6b30f54e49464372a664b5a</id>
+        <link href="https://www.notebookcheck.net/The-700-4K-OLED-you-should-be-buying-Alienware-AW3226Q-Review.1430339.0.html"/>
+        <updated>2026-10-21T18:54:54.708Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053705-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053705-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053705-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053705-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053705-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053705-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/d/3/csm__1053705_0aaad09951.jpg" loading="lazy" alt="4K Tandem OLED with up to 1000 Nits without breaking the bank? "></picture><div class="intro_featured_bar_title">▶ The $700 4K OLED you should be buying!</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7100 mAh battery: Motorola Edge 70 Max reviewed]]></title>
         <id>link-2b8e7d3b197c1bbca5eafa930dec6c84</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Xiaomi-Poco-X8-smartphone-review-Probably-the-best-phone-deal-of-2026-for-battery-life-and-display.1426213.0.html"/>
         <updated>2026-10-17T15:56:22.163Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Poco_X8/Xiaomi_Poco_X8_im_Test_7-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/1/csm_Xiaomi_Poco_X8_im_Test_7_408496c651.jpg" loading="lazy" alt="Xiaomi Poco X8 review"></picture><div class="intro_featured_bar_title">Deal or no deal? Xiaomi Poco X8 review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best camera phones tested and compared]]></title>
-        <id>link-c09203f3c95ca0f3a858dab96dc35a8e</id>
-        <link href="https://www.notebookcheck.net/Ranking-Best-camera-smartphones-tested-by-Notebookcheck.283106.0.html"/>
-        <updated>2026-10-18T16:08:30.836Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/f/csm_bestcameraphone_8420e304d4.jpg" loading="lazy" alt="The best smartphones for digital photography"></picture><div class="intro_featured_bar_title">Best camera phones tested and compared</div>]]></content>
     </entry>
 </feed>
