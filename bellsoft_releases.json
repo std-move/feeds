@@ -172,6 +172,13 @@
 			"retrieved": 1783103815415
 		},
 		{
+			"id": "link-cfc81ccf149d6fe8c8045628d809e6da",
+			"title": "Liberica JDK 8u512, 11.0.33, 17.0.21, 21.0.13, 25.0.5, and 27.0.1 builds are generally available",
+			"link": "https://bell-sw.com/blog/liberica-jdk-8u512-11-0-33-17-0-21-21-0-13-25-0-5-and-27-0-1-builds-are-generally-available/",
+			"contents": "",
+			"retrieved": 1792591646780
+		},
+		{
 			"id": "link-92c1e31b74142314999f0dc27acf84a2",
 			"title": "Liberica JDK 27 is Released",
 			"link": "https://bell-sw.com/blog/liberica-jdk-27-is-released/",
@@ -329,13 +336,6 @@
 			"id": "link-b03ee35e92c1b355f873bdfdc959f369",
 			"title": "Liberica Native Image Kit 24.2.0 is released",
 			"link": "https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/",
-			"contents": "",
-			"retrieved": 1783103815415
-		},
-		{
-			"id": "link-2fa375fd67827f3aadb21c5132f2c847",
-			"title": "Liberica JDK 24 is Released",
-			"link": "https://bell-sw.com/blog/liberica-jdk-24-is-released/",
 			"contents": "",
 			"retrieved": 1783103815415
 		}

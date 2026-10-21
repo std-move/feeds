@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.python.org/downloads/</id>
     <title>Python.org release history</title>
-    <updated>2026-10-21T08:03:08.761Z</updated>
+    <updated>2026-10-21T14:10:03.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.python.org/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Python 3.15.1 — Oct. 21, 2026]]></title>
+        <id>link-b4a81624655e7c7055fdb75077cc2030</id>
+        <link href="https://docs.python.org/release/3.15.1/whatsnew/changelog.html"/>
+        <updated>2026-10-21T14:07:26.780Z</updated>
+        <content type="html"><![CDATA[<a href="/downloads/release/python-3151/">Python 3.15.1</a> — Oct. 21, 2026 — <a href="/downloads/release/python-3151/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.15.1/whatsnew/changelog.html">Release notes</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.15.0 — Oct. 9, 2026]]></title>
         <id>link-89f3c2f02d4661f20cfb602834d9291b</id>
         <link href="https://docs.python.org/release/3.15.0/whatsnew/changelog.html"/>
         <updated>2026-10-10T19:35:26.866Z</updated>
         <content type="html"><![CDATA[<a href="/downloads/release/python-3150/">Python 3.15.0</a> — Oct. 9, 2026 — <a href="/downloads/release/python-3150/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.15.0/whatsnew/changelog.html">Release notes</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.14.9 — Oct. 21, 2026]]></title>
+        <id>link-1ab28a80474c56d7c27a6a6f66f3ceab</id>
+        <link href="https://docs.python.org/release/3.14.9/whatsnew/changelog.html"/>
+        <updated>2026-10-21T14:07:26.780Z</updated>
+        <content type="html"><![CDATA[<a href="/downloads/release/python-3149/">Python 3.14.9</a> — Oct. 21, 2026 — <a href="/downloads/release/python-3149/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.14.9/whatsnew/changelog.html">Release notes</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.14.8 — Sept. 30, 2026]]></title>
@@ -235,19 +249,5 @@
         <link href="https://docs.python.org/release/3.12.10/whatsnew/changelog.html#python-3-12-10"/>
         <updated>2026-02-07T20:33:16.888Z</updated>
         <content type="html"><![CDATA[<a href="/downloads/release/python-31210/">Python 3.12.10</a> — April 8, 2025 — <a href="/downloads/release/python-31210/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.12.10/whatsnew/changelog.html#python-3-12-10">Release notes</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.12.9 — Feb. 4, 2025]]></title>
-        <id>link-fe6d91cf0cc727fe753872c9f5dda3ef</id>
-        <link href="https://docs.python.org/release/3.12.9/whatsnew/changelog.html#python-3-12-9"/>
-        <updated>2026-02-07T20:33:16.888Z</updated>
-        <content type="html"><![CDATA[<a href="/downloads/release/python-3129/">Python 3.12.9</a> — Feb. 4, 2025 — <a href="/downloads/release/python-3129/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.12.9/whatsnew/changelog.html#python-3-12-9">Release notes</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.12.8 — Dec. 3, 2024]]></title>
-        <id>link-c78367058426651dea89d66044e971a3</id>
-        <link href="https://docs.python.org/release/3.12.8/whatsnew/changelog.html#python-3-12-8"/>
-        <updated>2026-02-07T20:33:16.888Z</updated>
-        <content type="html"><![CDATA[<a href="/downloads/release/python-3128/">Python 3.12.8</a> — Dec. 3, 2024 — <a href="/downloads/release/python-3128/"><span aria-hidden="true" class="icon-download"></span> Download</a> — <a href="https://docs.python.org/release/3.12.8/whatsnew/changelog.html#python-3-12-8">Release notes</a>]]></content>
     </entry>
 </feed>

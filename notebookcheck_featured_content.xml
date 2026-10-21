@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-10-21T08:03:08.754Z</updated>
+    <updated>2026-10-21T14:10:03.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[7100 mAh battery: Motorola Edge 70 Max reviewed]]></title>
+        <id>link-2b8e7d3b197c1bbca5eafa930dec6c84</id>
+        <link href="https://www.notebookcheck.net/Motorola-Edge-70-Max-smartphone-review-Record-breaking-battery-life-and-flagship-features-at-a-low-price.1430009.0.html"/>
+        <updated>2026-10-21T14:07:26.780Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Max/Motorola_Edge_70_Max_Test_6-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Max/Motorola_Edge_70_Max_Test_6-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Max/Motorola_Edge_70_Max_Test_6-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Max/Motorola_Edge_70_Max_Test_6-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Max/Motorola_Edge_70_Max_Test_6-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Edge_70_Max/Motorola_Edge_70_Max_Test_6-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/a/csm_Motorola_Edge_70_Max_Test_6_7d8b3276dd.jpg" loading="lazy" alt="Review: Motorola Edge 70 Max"></picture><div class="intro_featured_bar_title">7100 mAh battery: Motorola Edge 70 Max reviewed</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acer Swift Spin 14 review: Snapdragon X2E is definitely worth a look]]></title>
         <id>link-22b9dd3e7fd71095dfdc3d98714a8290</id>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/Ranking-Best-camera-smartphones-tested-by-Notebookcheck.283106.0.html"/>
         <updated>2026-10-18T16:08:30.836Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/bestcameraphone-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/e/f/csm_bestcameraphone_8420e304d4.jpg" loading="lazy" alt="The best smartphones for digital photography"></picture><div class="intro_featured_bar_title">Best camera phones tested and compared</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smartphones: The top 10 options]]></title>
-        <id>link-03a3c12753c84da0151ac8c35ec48f92</id>
-        <link href="https://www.notebookcheck.net/Ranking-Best-smartphones-reviewed-by-Notebookcheck.101858.0.html"/>
-        <updated>2026-10-19T13:56:09.586Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/aPic_Charts_Top10_2026_II-2860t-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/aPic_Charts_Top10_2026_II-2860t-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/aPic_Charts_Top10_2026_II-2860t-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Sonstiges/aPic_Charts_Top10_2026_II-2860t-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/aPic_Charts_Top10_2026_II-2860t-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/aPic_Charts_Top10_2026_II-2860t-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/8/csm_aPic_Charts_Top10_2026_II-2860t_cf6e2648a0.jpg" loading="lazy" alt="Ranking: Best smartphones reviewed by Notebookcheck"></picture><div class="intro_featured_bar_title">Smartphones: The top 10 options</div>]]></content>
     </entry>
 </feed>

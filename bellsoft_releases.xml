@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/tags/bellsoft-products/</id>
     <title>BellSoft Java releases</title>
-    <updated>2026-10-21T08:03:08.748Z</updated>
+    <updated>2026-10-21T14:10:03.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico</icon>
     <entry>
@@ -150,6 +150,12 @@
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Liberica JDK 8u512, 11.0.33, 17.0.21, 21.0.13, 25.0.5, and 27.0.1 builds are generally available]]></title>
+        <id>link-cfc81ccf149d6fe8c8045628d809e6da</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-8u512-11-0-33-17-0-21-21-0-13-25-0-5-and-27-0-1-builds-are-generally-available/"/>
+        <updated>2026-10-21T14:07:26.780Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Liberica JDK 27 is Released]]></title>
         <id>link-92c1e31b74142314999f0dc27acf84a2</id>
         <link href="https://bell-sw.com/blog/liberica-jdk-27-is-released/"/>
@@ -285,12 +291,6 @@
         <title type="html"><![CDATA[Liberica Native Image Kit 24.2.0 is released]]></title>
         <id>link-b03ee35e92c1b355f873bdfdc959f369</id>
         <link href="https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica JDK 24 is Released]]></title>
-        <id>link-2fa375fd67827f3aadb21c5132f2c847</id>
-        <link href="https://bell-sw.com/blog/liberica-jdk-24-is-released/"/>
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
 </feed>
