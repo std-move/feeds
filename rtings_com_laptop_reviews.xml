@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-10-22T17:40:23.186Z</updated>
+    <updated>2026-10-22T21:58:55.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Legion Pro 7i Gen 10 16 (2026) Test Results
+            Early Access]]></title>
+        <id>link-88fd3568b2b186212fe5ae8b8fccb5bd</id>
+        <link href="https://www.rtings.com/early-access/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026"/>
+        <updated>2026-10-22T21:56:12.807Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/CEmizWmK/lenovo-legion-pro-7i-gen-10-16-2026/in-test-medium.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">Lenovo Legion Pro 7i Gen 10 16 (2026) Test Results
+            <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
+          </div>
+          <div class="latest_page-preview-date">about 4 hours ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Surface Laptop 8th Edition (2026) Test Results
             Early Access]]></title>
@@ -436,7 +450,7 @@
           <div class="latest_page-preview-title t-card-title-link">Apple MacBook Neo (A18 Pro, 2026) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">6 months ago</div>
+          <div class="latest_page-preview-date">7 months ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -547,20 +561,6 @@
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">Dell 16 Plus (2025) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">11 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dell Alienware 18 Area-51 (2025) Test Results
-            Early Access]]></title>
-        <id>link-9796d51ccac1950fa04381f92b013d36</id>
-        <link href="https://www.rtings.com/laptop/reviews/dell/alienware-18-area-51-2025-rtx-5080"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/9uptIEkW/dell-alienware-18-area-51-2025/in-test-medium.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Dell Alienware 18 Area-51 (2025) Test Results
-            <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
           <div class="latest_page-preview-date">12 months ago</div>
         </div>]]></content>
