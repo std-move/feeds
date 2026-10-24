@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-10-24T16:16:46.176Z</updated>
+    <updated>2026-10-24T19:02:26.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,6 +10,12 @@
         <id>link-bd8e9b854c93e08d7296ca67eeb6342a</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/views"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CeskaTelevize] Failed to find IDEC id]]></title>
+        <id>link-847fcbf7981e24b7447f1514c3f0b227</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/17907"/>
+        <updated>2026-10-24T18:59:26.494Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Broken Site] ceskatelevize.cz (iVysílání) failing with HTTP 410 / DRM errors]]></title>
@@ -111,12 +117,6 @@
         <title type="html"><![CDATA[[pbs] An extractor error has occurred. (caused by KeyError('title'))]]></title>
         <id>link-c68e7b71cce83ba07aa49f3fa3beb36f</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/11514"/>
-        <updated>2026-10-01T16:54:18.663Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TikTok] 31KB non-video files are being downloaded]]></title>
-        <id>link-cec99e0430656a0d84e15e09edfef649</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/11034"/>
         <updated>2026-10-01T16:54:18.663Z</updated>
     </entry>
 </feed>

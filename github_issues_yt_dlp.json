@@ -11,6 +11,13 @@
 			"retrieved": 1786984002677
 		},
 		{
+			"id": "link-847fcbf7981e24b7447f1514c3f0b227",
+			"title": "[CeskaTelevize] Failed to find IDEC id",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/17907",
+			"contents": "",
+			"retrieved": 1792868366494
+		},
+		{
 			"id": "link-c59c76c3dc04cb4137454b37fe2dc2c7",
 			"title": "[Broken Site] ceskatelevize.cz (iVysílání) failing with HTTP 410 / DRM errors",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/17652",
@@ -126,13 +133,6 @@
 			"id": "link-c68e7b71cce83ba07aa49f3fa3beb36f",
 			"title": "[pbs] An extractor error has occurred. (caused by KeyError('title'))",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/11514",
-			"contents": "",
-			"retrieved": 1790873658663
-		},
-		{
-			"id": "link-cec99e0430656a0d84e15e09edfef649",
-			"title": "[TikTok] 31KB non-video files are being downloaded",
-			"link": "https://github.com/yt-dlp/yt-dlp/issues/11034",
 			"contents": "",
 			"retrieved": 1790873658663
 		}
