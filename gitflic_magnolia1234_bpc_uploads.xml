@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gitflic.ru/project/magnolia1234/bpc_uploads/commit?branch=main</id>
     <title>gitflic magnolia1234 bpc_uploads</title>
-    <updated>2026-10-24T05:03:33.456Z</updated>
+    <updated>2026-10-24T11:38:46.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gitflic.ru/project/magnolia1234/bpc_uploads/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Release latest]]></title>
-        <id>link-889084ee603467840fb04a1cfb8454dd</id>
-        <link href="https://gitflic.ru/project/magnolia1234/bpc_uploads/commit/f2a6591b2f7b5745cee1e28431570fca4fdfc037"/>
-        <updated>2026-10-23T18:42:22.468Z</updated>
-        <content type="html"><![CDATA[<div class="commit-message"><a href="/project/magnolia1234/bpc_uploads/commit/f2a6591b2f7b5745cee1e28431570fca4fdfc037" class="commit-message__content" tag="a">Release latest</a></div><div class="commit-user"><div class="mr-1"><img height="20px" width="20px" src="/static/image/avatar.jpg" class="rounded-circle"></div><div class="f6 text-gray min-width-0"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class="text-muted ml-1">15:50:04</small></div></div>]]></content>
+        <id>link-528fe01a62ec3409667a73bfb4bc6fc1</id>
+        <link href="https://gitflic.ru/project/magnolia1234/bpc_uploads/commit/7c7b3c109b4965e147cb077f0c19a2d3b7aa3e58"/>
+        <updated>2026-10-24T11:35:48.646Z</updated>
+        <content type="html"><![CDATA[<div class="commit-message"><a href="/project/magnolia1234/bpc_uploads/commit/7c7b3c109b4965e147cb077f0c19a2d3b7aa3e58" class="commit-message__content" tag="a">Release latest</a></div><div class="commit-user"><div class="mr-1"><img height="20px" width="20px" src="/static/image/avatar.jpg" class="rounded-circle"></div><div class="f6 text-gray min-width-0"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class="text-muted ml-1">10:17:42</small></div></div>]]></content>
     </entry>
 </feed>
