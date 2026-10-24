@@ -4,31 +4,24 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-e765b55793cba40a10c8dfbda4b100c3",
-			"title": "UFC 333 — 2026-10-24 10:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/146338-ufc-333",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146338-ufc-333\">UFC 333</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-24 10:00:00 -0400\">in 2 hours</abbr>\n</td>",
-			"retrieved": 1792198004212
-		},
-		{
 			"id": "link-00ff5fbd3d9c5df823b5fc5deb1de9de",
 			"title": "Smith vs. Puello — 2026-10-24 11:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/145755-smith-vs-puello",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145755-smith-vs-puello\">Smith vs. Puello</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-24 11:30:00 -0400\">in 3 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145755-smith-vs-puello\">Smith vs. Puello</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-24 11:30:00 -0400\">44 minutes ago</abbr>\n</td>",
 			"retrieved": 1792349708724
 		},
 		{
 			"id": "link-feefbd7702a09e9edefebc6917530482",
 			"title": "FNC 34 — 2026-10-24 12:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/141029-fnc",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/141029-fnc\">FNC 34</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-24 12:00:00 -0400\">in 4 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/141029-fnc\">FNC 34</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-24 12:00:00 -0400\">14 minutes ago</abbr>\n</td>",
 			"retrieved": 1792221139122
 		},
 		{
 			"id": "link-a506b57ba506a39b68a6231e36d08930",
 			"title": "Navarrete vs. Foster — 2026-10-24 16:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/147081-navarrete-vs-foster",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147081-navarrete-vs-foster\">Navarrete vs. Foster</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-24 16:30:00 -0400\">in 8 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147081-navarrete-vs-foster\">Navarrete vs. Foster</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-24 16:30:00 -0400\">in 4 hours</abbr>\n</td>",
 			"retrieved": 1792252582163
 		},
 		{
@@ -49,15 +42,22 @@
 			"id": "link-d07a4eea6f368e5660285da64ae34745",
 			"title": "OKTAGON 96 — 2026-10-31 11:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/143765-oktagon-96",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143765-oktagon-96\">OKTAGON 96</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 11:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143765-oktagon-96\">OKTAGON 96</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 11:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1792690672969
 		},
 		{
 			"id": "link-0bf52d08a44111ea54e04ffd45b9b298",
 			"title": "Canelo vs. Mbilli — 2026-10-31 08:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/146164-canelo-vs-mbilli",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146164-canelo-vs-mbilli\">Canelo vs. Mbilli</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 08:00:00 -0400\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146164-canelo-vs-mbilli\">Canelo vs. Mbilli</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 08:00:00 -0400\">in 6 days</abbr>\n</td>",
 			"retrieved": 1792798149145
+		},
+		{
+			"id": "link-be6afc7e22d0817d84e8d23d8f0cadcb",
+			"title": "ACA 209 — 2026-10-31 12:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/147537-aca-209-frolov-vs-odilov",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147537-aca-209-frolov-vs-odilov\">ACA 209</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 12:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1792858451928
 		}
 	]
 }

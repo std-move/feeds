@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-c45d5b80480e239b1c880056b28de92d",
+			"title": "AI tool REA cracks paid software: Is the software industry's business model coming to an end?",
+			"link": "https://www.notebookcheck.net/AI-tool-REA-cracks-paid-software-Is-the-software-industry-s-business-model-coming-to-an-end.1433240.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AI-Reverse-Engineering-Workflow-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AI-Reverse-Engineering-Workflow-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AI-Reverse-Engineering-Workflow-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/AI-Reverse-Engineering-Workflow-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AI-Reverse-Engineering-Workflow-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/AI-Reverse-Engineering-Workflow-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/e/csm_AI-Reverse-Engineering-Workflow_c47f24ef57.jpg\" loading=\"lazy\" alt=\"Desk with a laptop, AI cracks software and reproduces code\"></picture><div class=\"intro_featured_bar_title\">AI tool REA cracks paid software: Is the software industry's business model coming to an end?</div>",
+			"retrieved": 1792858451928
+		},
+		{
 			"id": "link-7e4949e0ac69784da0a3adb72cb35e35",
 			"title": "The most powerful office-class ThinkPad laptop",
 			"link": "https://www.notebookcheck.net/The-most-powerful-office-class-ThinkPad-laptop-Lenovo-ThinkPad-T14-Gen-7-high-end-review.1400748.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Microsoft-Surface-Laptop-Ultra-RTX-Spark-Review-The-2000-nits-Mini-LED-panel-is-a-problem.1426103.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_Ultra_2026/surface_laptop_ultra_case_08-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_Ultra_2026/surface_laptop_ultra_case_08-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_Ultra_2026/surface_laptop_ultra_case_08-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_Ultra_2026/surface_laptop_ultra_case_08-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_Ultra_2026/surface_laptop_ultra_case_08-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_Ultra_2026/surface_laptop_ultra_case_08-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/5/1/csm_surface_laptop_ultra_case_08_9d1af5e973.jpg\" loading=\"lazy\" alt=\"Microsoft Surface Laptop Ultra RTX Spark Review - The 2000-nits Mini-LED panel is a problem\"></picture><div class=\"intro_featured_bar_title\">Microsoft Surface Laptop Ultra Review - Disappointing screen</div>",
 			"retrieved": 1792440672853
-		},
-		{
-			"id": "link-c0dbd68f3a120a0016191ac8c8a9e886",
-			"title": "Asus ProArt P16 RTX Spark Review - Update: Gaming & Path Tracing",
-			"link": "https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P16_H7607/proart_p16_h7607_teaser_03-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/d/csm_proart_p16_h7607_teaser_03_0232f62e4e.jpg\" loading=\"lazy\" alt=\"Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?\"></picture><div class=\"intro_featured_bar_title\">Asus ProArt P16 RTX Spark Review - Update: Gaming &amp; Path Tracing</div>",
-			"retrieved": 1792157532276
 		}
 	]
 }
