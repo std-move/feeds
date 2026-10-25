@@ -42,8 +42,15 @@
 			"id": "link-5b64754e89a00776a7dd54ccc541310a",
 			"title": "UFC Fight Night — 2026-10-31 17:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/147046-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147046-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 17:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147046-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 17:00:00 -0400\">in 5 days</abbr>\n</td>",
 			"retrieved": 1792868366494
+		},
+		{
+			"id": "link-bdb5ede7bbb635c35ae77730c76dfe3c",
+			"title": "Road FC 79 — 2026-11-01 00:00:00 -0400",
+			"link": "https://www.tapology.com/fightcenter/events/147765-road-fc-79",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147765-road-fc-79\">Road FC 79</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-01 00:00:00 -0400\">in 6 days</abbr>\n</td>",
+			"retrieved": 1792962799026
 		},
 		{
 			"id": "link-2045c7f7797b36b389d3a0acc02d7962",
@@ -51,13 +58,6 @@
 			"link": "https://www.tapology.com/fightcenter/events/147736-one-friday-fights-177",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147736-one-friday-fights-177\">ONE Friday Fights 177</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-06 06:30:00 -0500\">in 1 week</abbr>\n</td>",
 			"retrieved": 1792868366494
-		},
-		{
-			"id": "link-806d5e4598394a5c95d75ae620ea58b1",
-			"title": "ONE Fight Night 49 — 2026-11-06 21:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/143727-one-fight-night-49",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143727-one-fight-night-49\">ONE Fight Night 49</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-06 21:00:00 -0500\">in 1 week</abbr>\n</td>",
-			"retrieved": 1792881806827
 		}
 	]
 }

@@ -88,6 +88,13 @@
 			"retrieved": 1770496396888
 		},
 		{
+			"id": "link-1082204ae5144452da043246418c3d6f",
+			"title": "Python 3.13.18 — Oct. 25, 2026",
+			"link": "https://docs.python.org/release/3.13.18/whatsnew/changelog.html",
+			"contents": "<a href=\"/downloads/release/python-31318/\">Python 3.13.18</a> — Oct. 25, 2026 — <a href=\"/downloads/release/python-31318/\"><span aria-hidden=\"true\" class=\"icon-download\"></span> Download</a> — <a href=\"https://docs.python.org/release/3.13.18/whatsnew/changelog.html\">Release notes</a>",
+			"retrieved": 1792962799026
+		},
+		{
 			"id": "link-137ed7e46a3a03db43b1445107713eb3",
 			"title": "Python 3.13.17 — Oct. 21, 2026",
 			"link": "https://docs.python.org/release/3.13.17/whatsnew/changelog.html",
@@ -214,6 +221,13 @@
 			"retrieved": 1770496396888
 		},
 		{
+			"id": "link-effcd3cd78f4076e2e4808766b1bdda5",
+			"title": "Python 3.12.16 — Oct. 25, 2026",
+			"link": "https://docs.python.org/release/3.12.16/whatsnew/changelog.html",
+			"contents": "<a href=\"/downloads/release/python-31216/\">Python 3.12.16</a> — Oct. 25, 2026 — <a href=\"/downloads/release/python-31216/\"><span aria-hidden=\"true\" class=\"icon-download\"></span> Download</a> — <a href=\"https://docs.python.org/release/3.12.16/whatsnew/changelog.html\">Release notes</a>",
+			"retrieved": 1792962799026
+		},
+		{
 			"id": "link-ea29478fc177276ec88c4f75c2cd106e",
 			"title": "Python 3.12.15 — Sept. 30, 2026",
 			"link": "https://docs.python.org/release/3.12.15/whatsnew/changelog.html",
@@ -233,20 +247,6 @@
 			"link": "https://docs.python.org/release/3.12.13/whatsnew/changelog.html#python-3-12-13",
 			"contents": "<a href=\"/downloads/release/python-31213/\">Python 3.12.13</a> — March 3, 2026 — <a href=\"/downloads/release/python-31213/\"><span aria-hidden=\"true\" class=\"icon-download\"></span> Download</a> — <a href=\"https://docs.python.org/release/3.12.13/whatsnew/changelog.html#python-3-12-13\">Release notes</a>",
 			"retrieved": 1772556623386
-		},
-		{
-			"id": "link-62022bf72f34405991ea26b8ccffc05e",
-			"title": "Python 3.12.12 — Oct. 9, 2025",
-			"link": "https://docs.python.org/release/3.12.12/whatsnew/changelog.html#python-3-12-12",
-			"contents": "<a href=\"/downloads/release/python-31212/\">Python 3.12.12</a> — Oct. 9, 2025 — <a href=\"/downloads/release/python-31212/\"><span aria-hidden=\"true\" class=\"icon-download\"></span> Download</a> — <a href=\"https://docs.python.org/release/3.12.12/whatsnew/changelog.html#python-3-12-12\">Release notes</a>",
-			"retrieved": 1770496396888
-		},
-		{
-			"id": "link-e4a571eeebb1d90a9426ddc892e005c7",
-			"title": "Python 3.12.11 — June 3, 2025",
-			"link": "https://docs.python.org/release/3.12.11/whatsnew/changelog.html#python-3-12-11",
-			"contents": "<a href=\"/downloads/release/python-31211/\">Python 3.12.11</a> — June 3, 2025 — <a href=\"/downloads/release/python-31211/\"><span aria-hidden=\"true\" class=\"icon-download\"></span> Download</a> — <a href=\"https://docs.python.org/release/3.12.11/whatsnew/changelog.html#python-3-12-11\">Release notes</a>",
-			"retrieved": 1770496396888
 		}
 	]
 }
