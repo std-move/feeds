@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean/commit?branch=master</id>
     <title>gitflic magnolia1234 bypass-paywalls-firefox-clean</title>
-    <updated>2026-10-25T05:18:43.666Z</updated>
+    <updated>2026-10-25T12:01:25.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Release latest]]></title>
-        <id>link-d0b87ec3bf03efc91db45c3076c19d89</id>
-        <link href="https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean/commit/b536cd18bae8a944f2774cba7834ab8e9863b352"/>
-        <updated>2026-10-24T11:35:48.646Z</updated>
-        <content type="html"><![CDATA[<div class="commit-message"><a href="/project/magnolia1234/bypass-paywalls-firefox-clean/commit/b536cd18bae8a944f2774cba7834ab8e9863b352" class="commit-message__content" tag="a">Release latest</a></div><div class="commit-user"><div class="mr-1"><img height="20px" width="20px" src="/static/image/avatar.jpg" class="rounded-circle"></div><div class="f6 text-gray min-width-0"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class="text-muted ml-1">10:19:11</small></div></div>]]></content>
+        <id>link-f7390a0a2fd52ac3e207374cab17b95f</id>
+        <link href="https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean/commit/4d9537a7a75a7f194829b617d6bd8220999b6196"/>
+        <updated>2026-10-25T11:58:51.759Z</updated>
+        <content type="html"><![CDATA[<div class="commit-message"><a href="/project/magnolia1234/bypass-paywalls-firefox-clean/commit/4d9537a7a75a7f194829b617d6bd8220999b6196" class="commit-message__content" tag="a">Release latest</a></div><div class="commit-user"><div class="mr-1"><img height="20px" width="20px" src="/static/image/avatar.jpg" class="rounded-circle"></div><div class="f6 text-gray min-width-0"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class="text-muted ml-1">07:18:07</small></div></div>]]></content>
     </entry>
 </feed>
