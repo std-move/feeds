@@ -4,6 +4,19 @@
 	"favicon": "https://appledb.dev/favicon-32x32.png",
 	"elements": [
 		{
+			"id": "link-3361b95037c2052bf3db108fb9f2bf2b",
+			"title": "macOS 27.2 — Oct 26, 2026",
+			"link": "https://updates.cdn-apple.com/2026FallFCS/c9671975-52db-4fb5-9af2-00217169ba8d/UniversalMac_27.2_26B123_Restore.ipsw",
+			"contents": "<div data-v-3d231806=\"\" class=\"firmwareAndReleasedStr\" style=\"width: calc(100% - 64px);\"><div data-v-3d231806=\"\"><span data-v-3d231806=\"\" style=\"font-weight: 600;\">macOS 27.2</span><!----><!----><div data-v-3d231806=\"\" style=\"padding-inline: 0.25em; display: inline-block;\"></div><!----><!----><!----><div data-v-3d231806=\"\" class=\"signingStatus\"><i data-v-3d231806=\"\" id=\"signing-status-macOS-26B123\" class=\"fas fa-check\"></i><span data-v-3d231806=\"\" id=\"signing-text-macOS-26B123\" class=\"signingText\">Signed</span></div></div><div data-v-3d231806=\"\" style=\"text-align: right;\" class=\"releasedStr\">Oct 26, 2026</div></div><div data-v-3d231806=\"\" class=\"iconFlex\"><div data-v-3d231806=\"\" class=\"downloadIcon iconChild\"><a data-v-3d231806=\"\" style=\"cursor: pointer;\"><i data-v-3d231806=\"\" class=\"downloadIcon fas fa-download\"></i></a><div data-v-3d231806=\"\" class=\"downloadDropdown custom-container\" style=\"cursor: initial;\"><h5 data-v-3d231806=\"\">Download</h5><ul data-v-3d231806=\"\" style=\"padding-left: 0px; list-style-type: none;\"><li data-v-3d231806=\"\"><a data-v-3d231806=\"\" href=\"https://updates.cdn-apple.com/2026FallFCS/c9671975-52db-4fb5-9af2-00217169ba8d/UniversalMac_27.2_26B123_Restore.ipsw\">MacBook Air (15-inch, M5)</a></li></ul><!----></div></div><div data-v-3d231806=\"\" class=\"iconChild\"><a data-v-3d231806=\"\" style=\"cursor: pointer;\"><i data-v-3d231806=\"\" class=\"fas fa-chevron-right\"></i></a></div></div>",
+			"retrieved": 1793049082344
+		},
+		{
+			"id": "title-144fe80adc5a829d516d7fa9df1f6abd",
+			"title": "macOS 26.7.2 — Oct 26, 2026",
+			"contents": "<div data-v-3d231806=\"\" class=\"firmwareAndReleasedStr\" style=\"width: calc(100% - 64px);\"><div data-v-3d231806=\"\"><span data-v-3d231806=\"\" style=\"font-weight: 600;\">macOS 26.7.2</span><!----><!----><div data-v-3d231806=\"\" style=\"padding-inline: 0.25em; display: inline-block;\"></div><!----><!----><!----><div data-v-3d231806=\"\" class=\"signingStatus\"><i data-v-3d231806=\"\" id=\"signing-status-macOS-25G332\" class=\"fas fa-check\"></i><span data-v-3d231806=\"\" id=\"signing-text-macOS-25G332\" class=\"signingText\">Signed</span></div></div><div data-v-3d231806=\"\" style=\"text-align: right;\" class=\"releasedStr\">Oct 26, 2026</div></div><div data-v-3d231806=\"\" class=\"iconFlex\"><!----><div data-v-3d231806=\"\" class=\"iconChild\"><a data-v-3d231806=\"\" style=\"cursor: pointer;\"><i data-v-3d231806=\"\" class=\"fas fa-chevron-right\"></i></a></div></div>",
+			"retrieved": 1793049082344
+		},
+		{
 			"id": "link-c33308bd87c4b1cb39c9cc002f383a7a",
 			"title": "macOS 27.0.1 — Sep 28, 2026",
 			"link": "https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw",
