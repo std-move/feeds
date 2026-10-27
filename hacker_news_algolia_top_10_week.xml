@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hn.algolia.com/?dateRange=pastWeek&amp;page=0&amp;prefix=false&amp;query=&amp;sort=byPopularity&amp;type=story</id>
     <title>HN Algolia - 10 top stories (week)</title>
-    <updated>2026-10-26T21:14:01.784Z</updated>
+    <updated>2026-10-27T01:40:11.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hn.algolia.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>link-bbee4201b4049c74ed611f10f32901e5</id>
         <link href="https://news.ycombinator.com/item?id=50202285"/>
         <updated>2026-10-23T18:42:22.468Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=50202285"><span>Local Wikipedia: Wikipedia, but only for things a half hour walk from you</span></a><a href="https://edjefferson.com/localwiki/" target="_blank" class="Story_link">(https://edjefferson.com/localwiki/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=50202285">1701 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=sohkamyung"><span>sohkamyung</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50202285">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50202285">254 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=50202285"><span>Local Wikipedia: Wikipedia, but only for things a half hour walk from you</span></a><a href="https://edjefferson.com/localwiki/" target="_blank" class="Story_link">(https://edjefferson.com/localwiki/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=50202285">1703 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=sohkamyung"><span>sohkamyung</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50202285">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50202285">254 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Security advisory: Critical remote code execution vulnerabilities, update now]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=50172041"><span>Security advisory: Critical remote code execution vulnerabilities, update now</span></a><a href="https://www.php.net/archive/2026.php#2026-10-21-5" target="_blank" class="Story_link">(https://www.php.net/archive/2026.php#2026-10-21-5)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=50172041">1560 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=xd"><span>xd</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50172041">6 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50172041">659 comments</a></span><div class="Story_comment"><span><a href="https://cert.europa.eu/publications/security-advisories/2026-018/" rel="nofollow">https://cert.europa.eu/publications/security-advisories/2026...</a><p><a href="https://news.ycombinator.com/item?id=50167754">https://news.ycombinator.com/item?id=50167754</a></p></span></div></div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Anthropic S-1]]></title>
+        <id>link-13d5f781280eaa7bbf66e5df8a897c4b</id>
+        <link href="https://news.ycombinator.com/item?id=50242939"/>
+        <updated>2026-10-26T21:11:22.344Z</updated>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=50242939"><span>Anthropic S-1</span></a><a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm" target="_blank" class="Story_link">(https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=50242939">1474 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=SiNTEx"><span>SiNTEx</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50242939">13 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50242939">1446 comments</a></span></div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quad9 to exit France]]></title>
         <id>link-a6883cd03cfdfd3c1be892e35421d670</id>
         <link href="https://news.ycombinator.com/item?id=50195959"/>
         <updated>2026-10-23T00:55:48.884Z</updated>
         <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=50195959"><span>Quad9 to exit France</span></a><a href="https://quad9.net/news/blog/au-revoir-france/" target="_blank" class="Story_link">(https://quad9.net/news/blog/au-revoir-france/)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=50195959">1373 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=farrokhi"><span>farrokhi</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50195959">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50195959">478 comments</a></span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic S-1]]></title>
-        <id>link-13d5f781280eaa7bbf66e5df8a897c4b</id>
-        <link href="https://news.ycombinator.com/item?id=50242939"/>
-        <updated>2026-10-26T21:11:22.344Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=50242939"><span>Anthropic S-1</span></a><a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm" target="_blank" class="Story_link">(https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=50242939">1329 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=SiNTEx"><span>SiNTEx</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50242939">8 hours ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50242939">1306 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[eMudhra intermediate CA compromise]]></title>
@@ -52,7 +52,7 @@
         <id>link-9931919244d4f7fa3575c5afa0214abf</id>
         <link href="https://news.ycombinator.com/item?id=50195110"/>
         <updated>2026-10-23T07:56:17.496Z</updated>
-        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=50195110"><span>eMudhra to exit global SSL/TLS certificate business</span></a><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business" target="_blank" class="Story_link">(https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=50195110">1157 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=bo0tzz"><span>bo0tzz</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50195110">4 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50195110">750 comments</a></span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="Story_container"><div class="Story_data"><div class="Story_title"><a href="https://news.ycombinator.com/item?id=50195110"><span>eMudhra to exit global SSL/TLS certificate business</span></a><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business" target="_blank" class="Story_link">(https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)</a></div><div class="Story_meta"><span><a href="https://news.ycombinator.com/item?id=50195110">1157 points</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/user?id=bo0tzz"><span>bo0tzz</span></a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50195110">5 days ago</a></span><span class="Story_separator">|</span><span><a href="https://news.ycombinator.com/item?id=50195110">742 comments</a></span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Today, we hacked what we'd set out to hack: the iPhone]]></title>
