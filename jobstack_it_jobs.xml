@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jobstack.it/it-jobs</id>
     <title>Jobstack.it jobs</title>
-    <updated>2026-10-27T08:24:51.631Z</updated>
+    <updated>2026-10-27T14:56:39.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.jobstack.it/favicons/favicon-32x32.png?v=2024</icon>
     <entry>
@@ -364,34 +364,6 @@
 							</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L1 IT support - Praha, IČO, onsite — až 50 000 Kč / měsíc]]></title>
-        <id>link-384e1adb2fe631d242e1f2fd6986160e</id>
-        <link href="https://www.jobstack.it/it-job/it-podpora/6abe43a41a01a"/>
-        <updated>2026-10-01T16:54:18.663Z</updated>
-        <content type="html"><![CDATA[<div class="jobposts-item_labels">
-					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">Podpora</span>
-				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
-																			</div>
-			
-							<div class="jobposts-item_labels">
-											<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Junior</span>
-																								</div>
-						<div class="jobposts-item_labels">
-									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-building-07-secondary mr-5"></span>
-						<span>Principal engineering s.r.o.</span>
-					</span>
-													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
-						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
-						<span>Praha</span>
-					</span>
-													<span class="jobposts-item_salary icontext">
-						<i class="icon icon--salary-gray"></i>
-						<span><b>až 50 000 Kč / měsíc</b></span>
-					</span>
-							</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Architekt – AI & Software Engineering - IČO, Praha — až 180 000 Kč / měsíc]]></title>
         <id>link-139eedd836645a08a4d60fb3e6a2625b</id>
         <link href="https://www.jobstack.it/it-job/ai-native-developer/6abbd10362273"/>
@@ -600,6 +572,37 @@
 													<span class="jobposts-item_salary icontext">
 						<i class="icon icon--salary-gray"></i>
 						<span><b>až 90 000 Kč / měsíc</b></span>
+					</span>
+							</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vývojář C# pro Helios Nephrite — až 120 000 Kč / měsíc]]></title>
+        <id>link-64deb8f248bcd351e99b674f240c4544</id>
+        <link href="https://www.jobstack.it/it-job/dot-net-developer/67ed0c940626f"/>
+        <updated>2026-10-27T14:54:15.552Z</updated>
+        <content type="html"><![CDATA[<div class="jobposts-item_labels">
+					<span class="custom-profile-label custom-profile-label--darkblue custom-profile-label--dotted custom-profile-label--lower">.NET developer</span>
+				 									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-freelance icon--cp-size-0-3"></span>Freelancer</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-hpp icon--cp-size-0-3"></span>HPP</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--light custom-profile-label--with-icon"><span class="icon icon--cp-primary icon--cp-homeoffice icon--cp-size-0-35"></span>Hybrid</span>
+											</div>
+			
+							<div class="jobposts-item_labels">
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Medior</span>
+																<span class="custom-profile-label custom-profile-label--primary custom-profile-label--dotted custom-profile-label--lower">Senior</span>
+														</div>
+						<div class="jobposts-item_labels">
+									<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-building-07-secondary mr-5"></span>
+						<span>Gativa a.s.</span>
+					</span>
+													<span class="custom-profile-label custom-profile-label--lower custom-profile-label--secondary">
+						<span class="icon icon--cp-pin-gray" style="transform: scale(.8)"></span>
+						<span>Boskovice/ Homeoffice</span>
+					</span>
+													<span class="jobposts-item_salary icontext">
+						<i class="icon icon--salary-gray"></i>
+						<span><b>až 120 000 Kč / měsíc</b></span>
 					</span>
 							</div>]]></content>
     </entry>

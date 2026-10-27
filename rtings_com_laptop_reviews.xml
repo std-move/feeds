@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-10-27T08:24:51.634Z</updated>
+    <updated>2026-10-27T14:56:39.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MSI Katana 15  HX (2025) Test Results
+            Early Access]]></title>
+        <id>link-d3415681c29b568d7500a480714bad1e</id>
+        <link href="https://www.rtings.com/early-access/laptop/reviews/msi/katana-15-hx-2025"/>
+        <updated>2026-10-27T14:54:15.552Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/b4AtlDat/msi-katana-15-hx-2025/in-test-medium.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">MSI Katana 15  HX (2025) Test Results
+            <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
+          </div>
+          <div class="latest_page-preview-date">11 minutes ago</div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Legion Pro 7i Gen 10 16 (2026) Review
+            New]]></title>
+        <id>link-934b6402521fc3d210bf04d8693df9b5</id>
+        <link href="https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026"/>
+        <updated>2026-10-27T14:54:15.552Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/STHZLwMN/lenovo-legion-pro-7i-gen-10-16-2026/design-small.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">Lenovo Legion Pro 7i Gen 10 16 (2026) Review
+            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
+          </div>
+          <div class="latest_page-preview-date">about 1 hour ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Surface Laptop 8th Edition (2026) Review
             New]]></title>
@@ -22,9 +50,9 @@
     <entry>
         <title type="html"><![CDATA[Lenovo Legion Pro 7i Gen 10 16 (2026) Test Results
             Early Access]]></title>
-        <id>link-88fd3568b2b186212fe5ae8b8fccb5bd</id>
-        <link href="https://www.rtings.com/early-access/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026"/>
-        <updated>2026-10-22T21:56:12.807Z</updated>
+        <id>link-934b6402521fc3d210bf04d8693df9b5</id>
+        <link href="https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026"/>
+        <updated>2026-10-27T14:54:15.552Z</updated>
         <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/CEmizWmK/lenovo-legion-pro-7i-gen-10-16-2026/in-test-medium.jpg?format=auto" alt="">
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">Lenovo Legion Pro 7i Gen 10 16 (2026) Test Results
@@ -532,34 +560,6 @@
         <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/FBaRSXIC/asus-rog-flow-z13-2025-gz302/in-test-medium.jpg?format=auto" alt="">
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">ASUS ROG Flow Z13 (2025) GZ302 Test Results
-            <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
-          </div>
-          <div class="latest_page-preview-date">11 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dell Alienware 18 Area-51 (2025) Review
-            New]]></title>
-        <id>link-9796d51ccac1950fa04381f92b013d36</id>
-        <link href="https://www.rtings.com/laptop/reviews/dell/alienware-18-area-51-2025-rtx-5080"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/kNutHhh5/dell-alienware-18-area-51-2025-rtx-5080/design-small.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Dell Alienware 18 Area-51 (2025) Review
-            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">11 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple MacBook Pro 14 (M5, 2025) Test Results
-            Early Access]]></title>
-        <id>link-f825da113e3f878223e0ae96632492e0</id>
-        <link href="https://www.rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/nBSvr0J3/apple-macbook-pro-14-m5-2025/in-test-medium.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Apple MacBook Pro 14 (M5, 2025) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
           <div class="latest_page-preview-date">11 months ago</div>
