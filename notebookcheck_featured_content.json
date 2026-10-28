@@ -4,11 +4,25 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-52bb50c551e626904d26ffe2de7543f4",
+			"title": "Microsoft Surface Laptop 13 X2 Plus Review",
+			"link": "https://www.notebookcheck.net/Microsoft-Surface-Laptop-13-2026-Review-Almost-silent-with-Snapdragon-X2-Plus.1429184.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_13_2026/surface_laptop_13_2026_case_11-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_13_2026/surface_laptop_13_2026_case_11-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_13_2026/surface_laptop_13_2026_case_11-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_13_2026/surface_laptop_13_2026_case_11-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_13_2026/surface_laptop_13_2026_case_11-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Microsoft/Surface_Laptop_13_2026/surface_laptop_13_2026_case_11-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/f/csm_surface_laptop_13_2026_case_11_bd42ea923e.jpg\" loading=\"lazy\" alt=\"Microsoft Surface Laptop 13 2026 Review - Almost silent with Snapdragon X2 Plus\"></picture><div class=\"intro_featured_bar_title\">Microsoft Surface Laptop 13 X2 Plus Review</div>",
+			"retrieved": 1793227860319
+		},
+		{
 			"id": "link-455c859c79a7e0553e08b5f1b52eb48b",
 			"title": "Huge battery, small price – Xiaomi Redmi 17 5G review",
 			"link": "https://www.notebookcheck.net/Xiaomi-Redmi-17-5G-smartphone-review-The-affordable-mobile-phone-with-a-monster-battery.1436146.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_17_5G/Xiaomi_Redmi_17_im_Test-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_17_5G/Xiaomi_Redmi_17_im_Test-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_17_5G/Xiaomi_Redmi_17_im_Test-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_17_5G/Xiaomi_Redmi_17_im_Test-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_17_5G/Xiaomi_Redmi_17_im_Test-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_17_5G/Xiaomi_Redmi_17_im_Test-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/c/csm_Xiaomi_Redmi_17_im_Test_7fa3971577.jpg\" loading=\"lazy\" alt=\"Xiaomi Redmi 17 review\"></picture><div class=\"intro_featured_bar_title\">Huge battery, small price – Xiaomi Redmi 17 5G review</div>",
 			"retrieved": 1793206161800
+		},
+		{
+			"id": "link-2d45e9d4f71fde594a288db5ab6b070c",
+			"title": "Mimic hands-on: In a class of its own!",
+			"link": "https://www.notebookcheck.net/Mimic-hands-on-Solo-built-horror-that-looks-great-and-runs-smooth.1436011.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mimic-Gameplay-Mimic-creature-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mimic-Gameplay-Mimic-creature-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mimic-Gameplay-Mimic-creature-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mimic-Gameplay-Mimic-creature-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mimic-Gameplay-Mimic-creature-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mimic-Gameplay-Mimic-creature-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/e/4/csm_Mimic-Gameplay-Mimic-creature-1_9234a34c48.jpg\" loading=\"lazy\" alt=\"Mimic in-game screenshot on the Lenovo LOQ 15IRX10.\"></picture><div class=\"intro_featured_bar_title\">Mimic hands-on: In a class of its own!</div>",
+			"retrieved": 1793227860319
 		},
 		{
 			"id": "link-5e8e114822f7b535e3fdae81fcf8a0e1",
@@ -37,20 +51,6 @@
 			"link": "https://www.notebookcheck.net/A-brilliant-iPad-Air-alternative-with-a-matte-OLED-display-stylus-Huawei-MatePad-Air-2026-review.1434047.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/MatePad_Air_2026/Huawei_MatePad_Air_2026_Test_3-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/MatePad_Air_2026/Huawei_MatePad_Air_2026_Test_3-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/MatePad_Air_2026/Huawei_MatePad_Air_2026_Test_3-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Huawei/MatePad_Air_2026/Huawei_MatePad_Air_2026_Test_3-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Huawei/MatePad_Air_2026/Huawei_MatePad_Air_2026_Test_3-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Huawei/MatePad_Air_2026/Huawei_MatePad_Air_2026_Test_3-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/4/e/csm_Huawei_MatePad_Air_2026_Test_3_088d0514b1.jpg\" loading=\"lazy\" alt=\"Huawei MatePad Air (2026) review\"></picture><div class=\"intro_featured_bar_title\">An extremely bright &amp; matte OLED in the mid-range | MatePad Air (2026) review</div>",
 			"retrieved": 1793049082344
-		},
-		{
-			"id": "link-b466919c696c8f157e530acf938a68e1",
-			"title": "HP OmniBook Ultra 16 Spark review: High performance-per-weight, low performance-per-dollar",
-			"link": "https://www.notebookcheck.net/HP-OmniBook-Ultra-16-Spark-review-Choose-your-RAM-configuration-carefully.1430477.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/OmniBook_Ultra_16-bk0013dx/omnibookultra16_feature_5-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/OmniBook_Ultra_16-bk0013dx/omnibookultra16_feature_5-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/OmniBook_Ultra_16-bk0013dx/omnibookultra16_feature_5-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/HP/OmniBook_Ultra_16-bk0013dx/omnibookultra16_feature_5-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/HP/OmniBook_Ultra_16-bk0013dx/omnibookultra16_feature_5-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/HP/OmniBook_Ultra_16-bk0013dx/omnibookultra16_feature_5-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/0/csm_omnibookultra16_feature_5_54e0f43210.jpg\" loading=\"lazy\" alt=\"HP OmniBook Ultra 16 Spark review: Choose your RAM configuration carefully\"></picture><div class=\"intro_featured_bar_title\">HP OmniBook Ultra 16 Spark review: High performance-per-weight, low performance-per-dollar</div>",
-			"retrieved": 1793049082344
-		},
-		{
-			"id": "link-d125b55d6f33f3740086107ba4577b39",
-			"title": "Vzmore AX9 Max: Can this powerful mini PC stay cool and quiet under load?",
-			"link": "https://www.notebookcheck.net/Vzmore-AX9-Max-review-Powerful-mini-PC-with-Ryzen-9-aims-to-impress-with-quiet-cooling.1432937.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vzmore/AX9_Max/AX9_Max_23-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vzmore/AX9_Max/AX9_Max_23-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vzmore/AX9_Max/AX9_Max_23-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Vzmore/AX9_Max/AX9_Max_23-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Vzmore/AX9_Max/AX9_Max_23-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Vzmore/AX9_Max/AX9_Max_23-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/7/csm_AX9_Max_23_e1f0f427fc.jpg\" loading=\"lazy\" alt=\"Vzmore AX9 Max review: Powerful mini PC with Ryzen 9 aims to impress with quiet cooling\"></picture><div class=\"intro_featured_bar_title\">Vzmore AX9 Max: Can this powerful mini PC stay cool and quiet under load?</div>",
-			"retrieved": 1793028461603
 		}
 	]
 }
