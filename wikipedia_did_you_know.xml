@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-10-28T01:44:22.349Z</updated>
+    <updated>2026-10-28T09:03:00.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>link-f00cb4422060f80fe0459ddc98a905ee</id>
         <link href="https://en.wikipedia.org/wiki/Waipiro_Stream"/>
         <updated>2026-10-28T01:41:06.412Z</updated>
-        <content type="html"><![CDATA[... that "<b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Waipiro_Stream" title="Waipiro Stream">putrid, stinking water</a></b>" once ran beneath New Zealand's parliament?]]></content>
+        <content type="html"><![CDATA[... that "<b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Waipiro_Stream" title="Waipiro Stream">putrid, stinking water</a></b>" once ran through what is now New Zealand's parliament?]]></content>
     </entry>
 </feed>
