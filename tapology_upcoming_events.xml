@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-10-27T20:59:34.540Z</updated>
+    <updated>2026-10-28T01:44:22.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Inka 62 — 2026-10-27 16:00:00 -0400]]></title>
-        <id>link-46cac19b3ecf91a0f41c15cc8c47add8</id>
-        <link href="https://www.tapology.com/fightcenter/events/146460-inka-62"/>
-        <updated>2026-10-26T15:27:41.603Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146460-inka-62">Inka 62</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-27 16:00:00 -0400">57 minutes ago</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ONE Friday Fights 176 — 2026-10-30 07:30:00 -0400]]></title>
         <id>link-555ed7dec4475f0309f715af010375d2</id>
@@ -30,7 +18,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LFA 245 — 2026-10-30 17:30:00 -0400]]></title>
+        <title type="html"><![CDATA[LFA 245 — 2026-10-30 18:30:00 -0400]]></title>
         <id>link-9b6fa23100ba32bae7ff52d337bd143e</id>
         <link href="https://www.tapology.com/fightcenter/events/147389-lfa-245"/>
         <updated>2026-10-17T18:49:42.058Z</updated>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147389-lfa-245">LFA 245</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-30 17:30:00 -0400">in 3 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-30 18:30:00 -0400">in 2 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -54,7 +42,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canelo vs. Mbilli — 2026-10-31 11:00:00 -0400]]></title>
+        <title type="html"><![CDATA[Canelo vs. Mbilli — 2026-10-31 09:00:00 -0400]]></title>
         <id>link-0bf52d08a44111ea54e04ffd45b9b298</id>
         <link href="https://www.tapology.com/fightcenter/events/146164-canelo-vs-mbilli"/>
         <updated>2026-10-23T23:29:09.145Z</updated>
@@ -62,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146164-canelo-vs-mbilli">Canelo vs. Mbilli</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-31 11:00:00 -0400">in 3 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-31 09:00:00 -0400">in 3 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -86,7 +74,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147046-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-31 17:00:00 -0400">in 4 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-31 17:00:00 -0400">in 3 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-11-06 06:30:00 -0500">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE Fight Night 49 — 2026-11-06 21:00:00 -0500]]></title>
+        <id>link-806d5e4598394a5c95d75ae620ea58b1</id>
+        <link href="https://www.tapology.com/fightcenter/events/143727-one-fight-night-49"/>
+        <updated>2026-10-28T01:41:06.412Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143727-one-fight-night-49">ONE Fight Night 49</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-06 21:00:00 -0500">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>
