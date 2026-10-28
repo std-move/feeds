@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ckma.cz/cs/blog</id>
     <title>Blog | Česká kryptoměnová asociace</title>
-    <updated>2026-10-28T09:03:00.628Z</updated>
+    <updated>2026-10-28T16:51:12.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ckma.cz/cdn-nf276/images/favicon.png</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://www.ckma.cz/cs/blog/jak-prokazat-casovy-test-u-bitcoinu"/>
         <updated>2026-09-14T16:11:06.054Z</updated>
         <content type="html"><![CDATA[<a href="/cs/blog/jak-prokazat-casovy-test-u-bitcoinu" class="ArticleLink ArticleLink--horizontal">
-    <div class="ArticleLink-image"><img src="/res/crc-1484637753/pages/images/298x199crop/74376-ej-prohlaseni.png" data-lazy="" width="298" height="199" alt="Jak prokázat časový test u bitcoinu?" srcset="/res/crc-4281745655/pages/images/596x398crop/74376-ej-prohlaseni.png 2x, /res/crc-1484637753/pages/images/298x199crop/74376-ej-prohlaseni.png"></div>
+    <div class="ArticleLink-image"><img src="/res/crc-1484637753/pages/images/298x199crop/74376-ej-prohlaseni.png" width="298" height="199" alt="Jak prokázat časový test u bitcoinu?" srcset="/res/crc-4281745655/pages/images/596x398crop/74376-ej-prohlaseni.png 2x, /res/crc-1484637753/pages/images/298x199crop/74376-ej-prohlaseni.png" data-lazy-loaded=""></div>
     <div class="ArticleLink-body">
         <div class="ArticleLink-content">
             <div class="ArticleLink-addedOn">14.9.2026</div>
