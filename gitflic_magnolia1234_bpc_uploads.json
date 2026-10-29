@@ -4,11 +4,11 @@
 	"favicon": "https://gitflic.ru/project/magnolia1234/bpc_uploads/favicon.ico",
 	"elements": [
 		{
-			"id": "link-f984703d62b953a920d53fba4fb01d75",
+			"id": "link-f991faf0efca8d1f3850aeb7a53d7f79",
 			"title": "Release latest",
-			"link": "https://gitflic.ru/project/magnolia1234/bpc_uploads/commit/446f2837f3f42b8e4d576e8034ae35857eba873f",
-			"contents": "<div class=\"commit-message\"><a href=\"/project/magnolia1234/bpc_uploads/commit/446f2837f3f42b8e4d576e8034ae35857eba873f\" class=\"commit-message__content\" tag=\"a\">Release latest</a></div><div class=\"commit-user\"><div class=\"mr-1\"><img height=\"20px\" width=\"20px\" src=\"/static/image/avatar.jpg\" class=\"rounded-circle\"></div><div class=\"f6 text-gray min-width-0\"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class=\"text-muted ml-1\">07:52:30</small></div></div>",
-			"retrieved": 1793281294727
+			"link": "https://gitflic.ru/project/magnolia1234/bpc_uploads/commit/f4a2460cf6457480d4259fee924f33d4ff943e22",
+			"contents": "<div class=\"commit-message\"><a href=\"/project/magnolia1234/bpc_uploads/commit/f4a2460cf6457480d4259fee924f33d4ff943e22\" class=\"commit-message__content\" tag=\"a\">Release latest</a></div><div class=\"commit-user\"><div class=\"mr-1\"><img height=\"20px\" width=\"20px\" src=\"/static/image/avatar.jpg\" class=\"rounded-circle\"></div><div class=\"f6 text-gray min-width-0\"><b>magnolia1234</b><br> 7676006-magnolia1234@users.noreply.gitlab.com<small class=\"text-muted ml-1\">16:11:16</small></div></div>",
+			"retrieved": 1793303396407
 		}
 	]
 }
