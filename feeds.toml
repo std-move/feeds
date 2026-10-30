@@ -139,6 +139,7 @@ entrySelector = ".jobposts-list .jobposts-item"
 titleSelector = ["h3", ".jobposts-item_salary"]
 linkSelector = "a"
 contentSelector = "xpath=.//*[contains(@class, 'jobposts-item_labels')]/.."
+suppressFailureUntilEpochSec = 1793610000
 
 [ceska_kryptomenova_as_blog]
 title = "Blog | Česká kryptoměnová asociace"
