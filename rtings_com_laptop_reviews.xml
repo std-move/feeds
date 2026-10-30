@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-10-30T14:08:28.342Z</updated>
+    <updated>2026-10-30T19:44:05.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MSI Katana 15 HX (2025) Review
+            New]]></title>
+        <id>link-ddab7df915f19ecdc8e079bc682200a8</id>
+        <link href="https://www.rtings.com/laptop/reviews/msi/katana-15-hx-2025"/>
+        <updated>2026-10-30T19:41:27.488Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/KuEU2mxl/msi-katana-15-hx-2025/design-small.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">MSI Katana 15 HX (2025) Review
+            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
+          </div>
+          <div class="latest_page-preview-date">about 3 hours ago</div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laptop Test Bench 1.0.1
+            New]]></title>
+        <id>link-c71f86c13b8ebfdd965ebc68585c4478</id>
+        <link href="https://www.rtings.com/laptop/tests/changelogs/1-0-1"/>
+        <updated>2026-10-30T19:41:27.488Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/pages/EuQz1mqB/macbook-pro-16-m5-1-0-1-gaming-large.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">Laptop Test Bench 1.0.1
+            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
+          </div>
+          <div class="latest_page-preview-date">about 4 hours ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HP OmniBook Ultra 14 (2026) Test Results
             Early Access]]></title>
@@ -16,15 +44,15 @@
           <div class="latest_page-preview-title t-card-title-link">HP OmniBook Ultra 14 (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">1 day ago</div>
+          <div class="latest_page-preview-date">2 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MSI Katana 15  HX (2025) Test Results
             Early Access]]></title>
-        <id>link-d3415681c29b568d7500a480714bad1e</id>
-        <link href="https://www.rtings.com/early-access/laptop/reviews/msi/katana-15-hx-2025"/>
-        <updated>2026-10-27T14:54:15.552Z</updated>
+        <id>link-ddab7df915f19ecdc8e079bc682200a8</id>
+        <link href="https://www.rtings.com/laptop/reviews/msi/katana-15-hx-2025"/>
+        <updated>2026-10-30T19:41:27.488Z</updated>
         <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/b4AtlDat/msi-katana-15-hx-2025/in-test-medium.jpg?format=auto" alt="">
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">MSI Katana 15  HX (2025) Test Results
@@ -156,7 +184,7 @@
           <div class="latest_page-preview-title t-card-title-link">Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">30 days ago</div>
+          <div class="latest_page-preview-date">about 1 month ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -535,34 +563,6 @@
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
           <div class="latest_page-preview-date">7 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS ROG Flow Z13 (2025) GZ302 Review
-            New]]></title>
-        <id>link-0d0a071b2ba39bbb744c9baaf7c0b62b</id>
-        <link href="https://www.rtings.com/laptop/reviews/asus/rog-flow-z13-gz302-2025"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/Swl9LkRa/asus-rog-flow-z13-gz302-2025/design-small.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">ASUS ROG Flow Z13 (2025) GZ302 Review
-            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">11 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple MacBook Pro 14 (M5, 2025) Review
-            New]]></title>
-        <id>link-f825da113e3f878223e0ae96632492e0</id>
-        <link href="https://www.rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/CkwPRokm/apple-macbook-pro-14-m5-2025/design-small.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Apple MacBook Pro 14 (M5, 2025) Review
-            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">11 months ago</div>
         </div>]]></content>
     </entry>
 </feed>
