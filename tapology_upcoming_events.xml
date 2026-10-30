@@ -2,33 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-10-30T06:28:09.157Z</updated>
+    <updated>2026-10-30T13:37:21.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[ACA 209 — 2026-10-30 06:00:00 -0400]]></title>
-        <id>link-be6afc7e22d0817d84e8d23d8f0cadcb</id>
-        <link href="https://www.tapology.com/fightcenter/events/147537-aca-209-frolov-vs-odilov"/>
-        <updated>2026-10-24T16:14:11.928Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147537-aca-209-frolov-vs-odilov">ACA 209</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-30 06:00:00 -0400">in 3 hours</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE Friday Fights 176 — 2026-10-30 07:30:00 -0400]]></title>
-        <id>link-555ed7dec4475f0309f715af010375d2</id>
-        <link href="https://www.tapology.com/fightcenter/events/147735-one-friday-fights-176"/>
-        <updated>2026-10-17T18:49:42.058Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147735-one-friday-fights-176">ONE Friday Fights 176</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-30 07:30:00 -0400">in 5 hours</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[LFA 245 — 2026-10-30 18:30:00 -0400]]></title>
         <id>link-9b6fa23100ba32bae7ff52d337bd143e</id>
@@ -38,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147389-lfa-245">LFA 245</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-30 18:30:00 -0400">in 16 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-30 18:30:00 -0400">in 8 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146164-canelo-vs-mbilli">Canelo vs. Mbilli</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-31 09:00:00 -0400">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-31 09:00:00 -0400">in 23 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -86,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147736-one-friday-fights-177">ONE Friday Fights 177</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-06 06:30:00 -0500">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-06 06:30:00 -0500">in 6 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +75,30 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-11-06 21:00:00 -0500">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKTAGON 97 — 2026-11-07 11:00:00 -0500]]></title>
+        <id>link-f0629908358ef3ae23daebbb3382cbd9</id>
+        <link href="https://www.tapology.com/fightcenter/events/145768-oktagon-97"/>
+        <updated>2026-10-30T13:33:55.020Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145768-oktagon-97">OKTAGON 97</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-07 11:00:00 -0500">in 1 week</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FNC 35 — 2026-11-07 11:00:00 -0500]]></title>
+        <id>link-315917429b930bd2ae814f64b0c69dd9</id>
+        <link href="https://www.tapology.com/fightcenter/events/148321-fnc-35"/>
+        <updated>2026-10-30T13:33:55.020Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148321-fnc-35">FNC 35</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-07 11:00:00 -0500">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>

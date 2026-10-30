@@ -4,31 +4,17 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-be6afc7e22d0817d84e8d23d8f0cadcb",
-			"title": "ACA 209 — 2026-10-30 06:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/147537-aca-209-frolov-vs-odilov",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147537-aca-209-frolov-vs-odilov\">ACA 209</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-30 06:00:00 -0400\">in 3 hours</abbr>\n</td>",
-			"retrieved": 1792858451928
-		},
-		{
-			"id": "link-555ed7dec4475f0309f715af010375d2",
-			"title": "ONE Friday Fights 176 — 2026-10-30 07:30:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/147735-one-friday-fights-176",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147735-one-friday-fights-176\">ONE Friday Fights 176</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-30 07:30:00 -0400\">in 5 hours</abbr>\n</td>",
-			"retrieved": 1792262982058
-		},
-		{
 			"id": "link-9b6fa23100ba32bae7ff52d337bd143e",
 			"title": "LFA 245 — 2026-10-30 18:30:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/147389-lfa-245",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147389-lfa-245\">LFA 245</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-30 18:30:00 -0400\">in 16 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147389-lfa-245\">LFA 245</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-30 18:30:00 -0400\">in 8 hours</abbr>\n</td>",
 			"retrieved": 1792262982058
 		},
 		{
 			"id": "link-0bf52d08a44111ea54e04ffd45b9b298",
 			"title": "Canelo vs. Mbilli — 2026-10-31 09:00:00 -0400",
 			"link": "https://www.tapology.com/fightcenter/events/146164-canelo-vs-mbilli",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146164-canelo-vs-mbilli\">Canelo vs. Mbilli</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 09:00:00 -0400\">in 1 day</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146164-canelo-vs-mbilli\">Canelo vs. Mbilli</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 09:00:00 -0400\">in 23 hours</abbr>\n</td>",
 			"retrieved": 1792798149145
 		},
 		{
@@ -49,7 +35,7 @@
 			"id": "link-2045c7f7797b36b389d3a0acc02d7962",
 			"title": "ONE Friday Fights 177 — 2026-11-06 06:30:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147736-one-friday-fights-177",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147736-one-friday-fights-177\">ONE Friday Fights 177</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-06 06:30:00 -0500\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147736-one-friday-fights-177\">ONE Friday Fights 177</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-06 06:30:00 -0500\">in 6 days</abbr>\n</td>",
 			"retrieved": 1792868366494
 		},
 		{
@@ -58,6 +44,20 @@
 			"link": "https://www.tapology.com/fightcenter/events/143727-one-fight-night-49",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/143727-one-fight-night-49\">ONE Fight Night 49</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-06 21:00:00 -0500\">in 1 week</abbr>\n</td>",
 			"retrieved": 1793151666412
+		},
+		{
+			"id": "link-f0629908358ef3ae23daebbb3382cbd9",
+			"title": "OKTAGON 97 — 2026-11-07 11:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/145768-oktagon-97",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145768-oktagon-97\">OKTAGON 97</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-07 11:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"retrieved": 1793367235020
+		},
+		{
+			"id": "link-315917429b930bd2ae814f64b0c69dd9",
+			"title": "FNC 35 — 2026-11-07 11:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/148321-fnc-35",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148321-fnc-35\">FNC 35</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-07 11:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"retrieved": 1793367235020
 		}
 	]
 }
