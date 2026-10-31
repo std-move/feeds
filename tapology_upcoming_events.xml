@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-10-31T00:04:13.251Z</updated>
+    <updated>2026-10-31T06:17:53.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146164-canelo-vs-mbilli">Canelo vs. Mbilli</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-31 09:00:00 -0400">in 12 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-31 09:00:00 -0400">in 6 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143765-oktagon-96">OKTAGON 96</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-31 12:00:00 -0400">in 15 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-31 12:00:00 -0400">in 9 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147046-ufc-fight-night">UFC Fight Night</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-10-31 17:00:00 -0400">in 20 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-10-31 17:00:00 -0400">in 14 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143727-one-fight-night-49">ONE Fight Night 49</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-06 21:00:00 -0500">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-06 21:00:00 -0500">in 6 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
