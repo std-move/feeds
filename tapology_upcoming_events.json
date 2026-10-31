@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-5b64754e89a00776a7dd54ccc541310a",
-			"title": "UFC Fight Night — 2026-10-31 17:00:00 -0400",
-			"link": "https://www.tapology.com/fightcenter/events/147046-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147046-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-10-31 17:00:00 -0400\">in 2 hours</abbr>\n</td>",
-			"retrieved": 1792868366494
-		},
-		{
 			"id": "link-2045c7f7797b36b389d3a0acc02d7962",
 			"title": "ONE Friday Fights 177 — 2026-11-06 06:30:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147736-one-friday-fights-177",
@@ -56,8 +49,15 @@
 			"id": "link-4902e27bb15860a9b5ae9041a48d1b9d",
 			"title": "UFC Fight Night — 2026-11-07 17:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147038-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147038-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-07 17:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147038-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-07 17:00:00 -0500\">in 6 days</abbr>\n</td>",
 			"retrieved": 1793472282078
+		},
+		{
+			"id": "link-0c2fa4c71ada9a9d7513d58b78266aab",
+			"title": "RIZIN 55 — 2026-11-07 22:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/146049-rizin-landmark-17-in-chiba",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146049-rizin-landmark-17-in-chiba\">RIZIN 55</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-07 22:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"retrieved": 1793490134967
 		}
 	]
 }
