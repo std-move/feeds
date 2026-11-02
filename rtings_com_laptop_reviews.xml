@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-11-02T09:59:05.713Z</updated>
+    <updated>2026-11-02T20:33:42.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HP OmniBook Ultra 14 (2026) Review
+            New]]></title>
+        <id>link-a31a7fc7cdf32d57a52c3c521bb94468</id>
+        <link href="https://www.rtings.com/laptop/reviews/hp/omnibook-ultra-14-2026"/>
+        <updated>2026-11-02T20:30:58.011Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/ZvY9HW3b/hp-omnibook-ultra-14-2026/design-small.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">HP OmniBook Ultra 14 (2026) Review
+            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
+          </div>
+          <div class="latest_page-preview-date">about 4 hours ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSI Katana 15 HX (2025) Review
             New]]></title>
@@ -36,15 +50,15 @@
     <entry>
         <title type="html"><![CDATA[HP OmniBook Ultra 14 (2026) Test Results
             Early Access]]></title>
-        <id>link-2a8abf67621c9e5f5737be865988f822</id>
-        <link href="https://www.rtings.com/early-access/laptop/reviews/hp/omnibook-ultra-14-2026"/>
-        <updated>2026-10-28T22:51:00.319Z</updated>
+        <id>link-a31a7fc7cdf32d57a52c3c521bb94468</id>
+        <link href="https://www.rtings.com/laptop/reviews/hp/omnibook-ultra-14-2026"/>
+        <updated>2026-11-02T20:30:58.011Z</updated>
         <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/ZahOQ28y/hp-omnibook-ultra-14-2026/in-test-medium.jpg?format=auto" alt="">
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">HP OmniBook Ultra 14 (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">4 days ago</div>
+          <div class="latest_page-preview-date">5 days ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -338,7 +352,7 @@
           <div class="latest_page-preview-title t-card-title-link">Framework Laptop 16 (2026) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
           </div>
-          <div class="latest_page-preview-date">2 months ago</div>
+          <div class="latest_page-preview-date">3 months ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -547,20 +561,6 @@
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">Laptop Test Bench 0.9.1
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">7 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple MacBook Neo (A18 Pro, 2026) Test Results
-            Early Access]]></title>
-        <id>link-efc5071e15d8a38c351497bdce05e04d</id>
-        <link href="https://www.rtings.com/laptop/reviews/apple/macbook-neo-a18-pro-2026"/>
-        <updated>2026-04-30T07:52:25.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/pEaR20bR/apple-macbook-neo-a18-pro-2026/in-test-medium.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">Apple MacBook Neo (A18 Pro, 2026) Test Results
-            <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
           <div class="latest_page-preview-date">7 months ago</div>
         </div>]]></content>
