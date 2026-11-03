@@ -11,6 +11,13 @@
 			"retrieved": 1786984002677
 		},
 		{
+			"id": "link-07fce8b07e07ba99fb92bf6ffb6c8b73",
+			"title": "hls downloader crashes when using --write-pages",
+			"link": "https://github.com/yt-dlp/yt-dlp/issues/17985",
+			"contents": "",
+			"retrieved": 1793708397159
+		},
+		{
 			"id": "link-847fcbf7981e24b7447f1514c3f0b227",
 			"title": "[CeskaTelevize] Failed to find IDEC id",
 			"link": "https://github.com/yt-dlp/yt-dlp/issues/17907",

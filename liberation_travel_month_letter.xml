@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liberation.travel/liberation-travel-hacks-month-letter/</id>
     <title>Liberation Travel Month-letter</title>
-    <updated>2026-11-03T02:40:23.054Z</updated>
+    <updated>2026-11-03T12:22:23.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://liberation.travel/wp-content/uploads/2023/10/cropped-thumbnail-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Liberation Travel Hacks 11/2026 (EN)]]></title>
+        <id>link-5e1c26e55a8900ae05c75a2083e16f79</id>
+        <link href="https://liberation.travel/?na=view&amp;id=83"/>
+        <updated>2026-11-03T12:19:57.159Z</updated>
+        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">November 2, 2026</span><a href="https://liberation.travel/?na=view&amp;id=83" target="_blank">Liberation Travel Hacks 11/2026 (EN)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liberation Travel Hacks 10/2026 (EN)]]></title>
         <id>link-c0627896c403814421f5ae8ba4b049f4</id>
@@ -95,6 +102,13 @@
         <link href="https://liberation.travel/?na=view&amp;id=66"/>
         <updated>2026-06-08T10:55:12.984Z</updated>
         <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">May 3, 2026</span><a href="https://liberation.travel/?na=view&amp;id=66" target="_blank">Liberation Travel Hacks 05/2026 (CZSK)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liberation Travel Hacks 11/2026 (ES)]]></title>
+        <id>link-81d59162aa223ca465cedb95c17e8179</id>
+        <link href="https://liberation.travel/?na=view&amp;id=84"/>
+        <updated>2026-11-03T12:19:57.159Z</updated>
+        <content type="html"><![CDATA[<span class="newsletter-archive-date" style="color: #888; margin-right: 10px;">November 3, 2026</span><a href="https://liberation.travel/?na=view&amp;id=84" target="_blank">Liberation Travel Hacks 11/2026 (ES)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Liberation Travel Hacks 10/2026 (ES)]]></title>

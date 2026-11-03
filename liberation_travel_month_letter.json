@@ -4,6 +4,13 @@
 	"favicon": "https://liberation.travel/wp-content/uploads/2023/10/cropped-thumbnail-150x150.png",
 	"elements": [
 		{
+			"id": "link-5e1c26e55a8900ae05c75a2083e16f79",
+			"title": "Liberation Travel Hacks 11/2026 (EN)",
+			"link": "https://liberation.travel/?na=view&id=83",
+			"contents": "<span class=\"newsletter-archive-date\" style=\"color: #888; margin-right: 10px;\">November 2, 2026</span><a href=\"https://liberation.travel/?na=view&amp;id=83\" target=\"_blank\">Liberation Travel Hacks 11/2026 (EN)</a>",
+			"retrieved": 1793708397159
+		},
+		{
 			"id": "link-c0627896c403814421f5ae8ba4b049f4",
 			"title": "Liberation Travel Hacks 10/2026 (EN)",
 			"link": "https://liberation.travel/?na=view&id=80",
@@ -93,6 +100,13 @@
 			"link": "https://liberation.travel/?na=view&id=66",
 			"contents": "<span class=\"newsletter-archive-date\" style=\"color: #888; margin-right: 10px;\">May 3, 2026</span><a href=\"https://liberation.travel/?na=view&amp;id=66\" target=\"_blank\">Liberation Travel Hacks 05/2026 (CZSK)</a>",
 			"retrieved": 1780916112984
+		},
+		{
+			"id": "link-81d59162aa223ca465cedb95c17e8179",
+			"title": "Liberation Travel Hacks 11/2026 (ES)",
+			"link": "https://liberation.travel/?na=view&id=84",
+			"contents": "<span class=\"newsletter-archive-date\" style=\"color: #888; margin-right: 10px;\">November 3, 2026</span><a href=\"https://liberation.travel/?na=view&amp;id=84\" target=\"_blank\">Liberation Travel Hacks 11/2026 (ES)</a>",
+			"retrieved": 1793708397159
 		},
 		{
 			"id": "link-d3c5a7dd2d866347e930f4f7713873d4",

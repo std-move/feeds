@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yt-dlp/yt-dlp/issues?q=ceska+OR+prima+OR+nova+OR+ivysilani</id>
     <title>yt-dlp Czech + pinned issues</title>
-    <updated>2026-11-03T02:40:23.081Z</updated>
+    <updated>2026-11-03T12:22:23.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,6 +10,12 @@
         <id>link-bd8e9b854c93e08d7296ca67eeb6342a</id>
         <link href="https://github.com/yt-dlp/yt-dlp/issues/views"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hls downloader crashes when using --write-pages]]></title>
+        <id>link-07fce8b07e07ba99fb92bf6ffb6c8b73</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/17985"/>
+        <updated>2026-11-03T12:19:57.159Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[[CeskaTelevize] Failed to find IDEC id]]></title>
