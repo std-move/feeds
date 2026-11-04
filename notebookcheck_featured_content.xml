@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-11-04T18:16:50.709Z</updated>
+    <updated>2026-11-04T23:58:08.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Asus ProArt P14 with RTX Spark & Tandem OLED Review]]></title>
+        <id>link-26e6572911601f25477f3efa385136d9</id>
+        <link href="https://www.notebookcheck.net/The-only-14-inch-laptop-with-Nvidia-RTX-Spark-Asus-ProArt-P14-Review.1442004.0.html"/>
+        <updated>2026-11-04T23:55:28.402Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P14_H7407/ProArt_P14_N1X_case_04-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P14_H7407/ProArt_P14_N1X_case_04-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P14_H7407/ProArt_P14_N1X_case_04-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P14_H7407/ProArt_P14_N1X_case_04-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P14_H7407/ProArt_P14_N1X_case_04-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ProArt_P14_H7407/ProArt_P14_N1X_case_04-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/a/csm_ProArt_P14_N1X_case_04_91a4c18b8f.jpg" loading="lazy" alt="The only 14-inch laptop with Nvidia RTX Spark - Asus ProArt P14 Review"></picture><div class="intro_featured_bar_title">Asus ProArt P14 with RTX Spark &amp; Tandem OLED Review</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A tough cookie with a massive battery – Redmi Note 17 Pro Max 5G review]]></title>
+        <id>link-5c13bb5403d03071957fa5eb1310440b</id>
+        <link href="https://www.notebookcheck.net/A-competitively-priced-battery-powerhouse-without-an-astronomical-MSRP-Xiaomi-Redmi-Note-17-Pro-Max-5G-review.1442015.0.html"/>
+        <updated>2026-11-04T23:55:28.402Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_17_Pro_Max_5G/aPic_Xiaomi_Redmi_Note_17_Pro_Max_5G-3728-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_17_Pro_Max_5G/aPic_Xiaomi_Redmi_Note_17_Pro_Max_5G-3728-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_17_Pro_Max_5G/aPic_Xiaomi_Redmi_Note_17_Pro_Max_5G-3728-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_17_Pro_Max_5G/aPic_Xiaomi_Redmi_Note_17_Pro_Max_5G-3728-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_17_Pro_Max_5G/aPic_Xiaomi_Redmi_Note_17_Pro_Max_5G-3728-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Redmi_Note_17_Pro_Max_5G/aPic_Xiaomi_Redmi_Note_17_Pro_Max_5G-3728-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/0/csm_aPic_Xiaomi_Redmi_Note_17_Pro_Max_5G-3728_ed059ab546.jpg" loading="lazy" alt="A competitively priced battery powerhouse without an astronomical MSRP - Xiaomi Redmi Note 17 Pro Max 5G review"></picture><div class="intro_featured_bar_title">A tough cookie with a massive battery – Redmi Note 17 Pro Max 5G review</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fanless Windows convertible with Snapdragon X2 Plus]]></title>
         <id>link-18e1cc0952bbf23f22314a5adffed0da</id>
@@ -39,19 +53,5 @@
         <link href="https://www.notebookcheck.net/Lenovo-Googlebook-15-Review-Pretty-underwhelming.1437361.0.html"/>
         <updated>2026-11-02T01:48:35.163Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_08-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_08-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_08-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_08-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_08-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_08-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/b/6/csm_lenovo_googlebook_15_case_08_a28d9848f1.jpg" loading="lazy" alt="Lenovo Googlebook 15 Review - Pretty underwhelming"></picture><div class="intro_featured_bar_title">Lenovo Googlebook 15 Review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi’s best tablet of 2026 – Xiaomi Pad 9 Pro Max review]]></title>
-        <id>link-abfba91f1fdea8c284735f84b25b90f6</id>
-        <link href="https://www.notebookcheck.net/An-lightning-fast-tablet-with-a-brilliant-feature-ridiculous-battery-life-Xiaomi-Pad-9-Pro-Max-review.1439016.0.html"/>
-        <updated>2026-11-01T15:27:10.670Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro_Max/Test_Xiaomi_Pad_9_Pro_Max_10-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro_Max/Test_Xiaomi_Pad_9_Pro_Max_10-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro_Max/Test_Xiaomi_Pad_9_Pro_Max_10-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro_Max/Test_Xiaomi_Pad_9_Pro_Max_10-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro_Max/Test_Xiaomi_Pad_9_Pro_Max_10-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro_Max/Test_Xiaomi_Pad_9_Pro_Max_10-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/6/e/csm_Test_Xiaomi_Pad_9_Pro_Max_10_42cf1f68a9.jpg" loading="lazy" alt="Xiaomi Pad 9 Pro Max tablet review"></picture><div class="intro_featured_bar_title">Xiaomi’s best tablet of 2026 – Xiaomi Pad 9 Pro Max review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2: Vivo X500 Pro Max camera review in Brazil]]></title>
-        <id>link-9bad446140a73295cf47121e1a77b737</id>
-        <link href="https://www.notebookcheck.net/Sometimes-less-is-more-Vivo-X500-Pro-Max-Zeiss-camera-review-and-Brazil-travelogue-part-2.1439029.0.html"/>
-        <updated>2026-10-31T18:44:42.078Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mehr-ist-nicht-mehr-Vivo-X500-Pro-Max-Kameratest-und-Reisebericht-aus-Brasilien-Teil-2-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mehr-ist-nicht-mehr-Vivo-X500-Pro-Max-Kameratest-und-Reisebericht-aus-Brasilien-Teil-2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mehr-ist-nicht-mehr-Vivo-X500-Pro-Max-Kameratest-und-Reisebericht-aus-Brasilien-Teil-2-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/Mehr-ist-nicht-mehr-Vivo-X500-Pro-Max-Kameratest-und-Reisebericht-aus-Brasilien-Teil-2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mehr-ist-nicht-mehr-Vivo-X500-Pro-Max-Kameratest-und-Reisebericht-aus-Brasilien-Teil-2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Mehr-ist-nicht-mehr-Vivo-X500-Pro-Max-Kameratest-und-Reisebericht-aus-Brasilien-Teil-2-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/7/c/csm_Mehr-ist-nicht-mehr-Vivo-X500-Pro-Max-Kameratest-und-Reisebericht-aus-Brasilien-Teil-2_ff44f9a092.jpg" loading="lazy" alt="Sparkling in the sunlight: The Vivo X500 Pro Max Zeiss camera accompanies me through Brazil for over a month."></picture><div class="intro_featured_bar_title">Part 2: Vivo X500 Pro Max camera review in Brazil</div>]]></content>
     </entry>
 </feed>
