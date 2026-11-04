@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-11-04T00:55:08.689Z</updated>
+    <updated>2026-11-04T09:51:10.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>link-37bb5ac422a66a1b832ee561f07964e7</id>
         <link href="https://en.wikipedia.org/wiki/Faker_(gamer)"/>
         <updated>2026-11-04T00:53:08.585Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Faker_(gamer)" title="Faker (gamer)">Faker</a></b> celebrated winning the 2015 League of Legends World Championship by eating a raw broccoli stalk on stage?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Faker_(gamer)" title="Faker (gamer)">Faker</a></b> celebrated winning the 2015 <i>League of Legends</i> World Championship by eating a raw broccoli stalk on stage?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rewind]]></title>
