@@ -13,6 +13,21 @@ entrySelector = "#mp-dyk > ul li"
 titleSelector = "b"
 linkSelector = "b a"
 
+[xrel_watched_scene_releases]
+title = "xrel.to watched scene releases"
+url = [
+  "https://www.xrel.to/movie/235970/Die-Odyssee.html?lang=en_US",
+  "https://www.xrel.to/movie/241062/You-Can-See-Everything.html?lang=en_US",
+]
+waitForSelector = "[id$='-scene-button']"
+entrySelector = "html"
+titleSelector = [
+  "#extinfo_title",
+  "[id$='-scene-button']",
+  "xpathstr=substring-after(//*[@id='nav_bottom']//a[contains(@class, 'login')]/@href, '=')",
+]
+contentSelector = []
+
 [exp_view_boom_or_bubble]
 title = "AI Boom/Bubble Monitor"
 url = "https://boomorbubble.ai/news"
