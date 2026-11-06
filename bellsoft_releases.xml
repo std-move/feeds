@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/tags/bellsoft-products/</id>
     <title>BellSoft Java releases</title>
-    <updated>2026-11-06T12:44:49.423Z</updated>
+    <updated>2026-11-06T16:16:57.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Securing Alpaquita Linux against the SSHole OpenSSH bypass]]></title>
+        <id>link-5049b4cec6128fb7346195358abe7900</id>
+        <link href="https://bell-sw.com/blog/securing-alpaquita-linux-against-the-sshole-openssh-bypass/"/>
+        <updated>2026-11-06T16:14:55.367Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liberica JDK 27 is Released]]></title>
         <id>link-92c1e31b74142314999f0dc27acf84a2</id>
@@ -141,12 +147,6 @@
         <title type="html"><![CDATA[Liberica Native Image Kit 24.2.0 is released]]></title>
         <id>link-b03ee35e92c1b355f873bdfdc959f369</id>
         <link href="https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica JDK 24 is Released]]></title>
-        <id>link-2fa375fd67827f3aadb21c5132f2c847</id>
-        <link href="https://bell-sw.com/blog/liberica-jdk-24-is-released/"/>
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
     <entry>
