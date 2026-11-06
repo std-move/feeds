@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-11-06T07:25:48.230Z</updated>
+    <updated>2026-11-06T12:44:49.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[ONE Friday Fights 177 — 2026-11-06 06:30:00 -0500]]></title>
-        <id>link-2045c7f7797b36b389d3a0acc02d7962</id>
-        <link href="https://www.tapology.com/fightcenter/events/147736-one-friday-fights-177"/>
-        <updated>2026-10-24T18:59:26.494Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147736-one-friday-fights-177">ONE Friday Fights 177</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-06 06:30:00 -0500">in 4 hours</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ONE Fight Night 49 — 2026-11-06 21:00:00 -0500]]></title>
         <id>link-806d5e4598394a5c95d75ae620ea58b1</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143727-one-fight-night-49">ONE Fight Night 49</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-06 21:00:00 -0500">in 18 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-06 21:00:00 -0500">in 13 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-11-07 22:00:00 -0500">in 1 day</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVPW 7 — 2026-11-08 16:15:00 -0500]]></title>
+        <id>link-15fabb730791396bfdc1c5c18d9649ad</id>
+        <link href="https://www.tapology.com/fightcenter/events/147424-mvpw-7-turhan-vs-baumgardner"/>
+        <updated>2026-11-06T12:42:08.867Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147424-mvpw-7-turhan-vs-baumgardner">MVPW 7</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-08 16:15:00 -0500">in 2 days</abbr>
 </td>]]></content>
     </entry>
 </feed>
