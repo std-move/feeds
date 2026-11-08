@@ -2,93 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-11-06T21:47:47.049Z</updated>
+    <updated>2026-11-08T18:11:42.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[ONE Fight Night 49 — 2026-11-06 21:00:00 -0500]]></title>
-        <id>link-806d5e4598394a5c95d75ae620ea58b1</id>
-        <link href="https://www.tapology.com/fightcenter/events/143727-one-fight-night-49"/>
-        <updated>2026-10-28T01:41:06.412Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/143727-one-fight-night-49">ONE Fight Night 49</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-06 21:00:00 -0500">in 4 hours</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKTAGON 97 — 2026-11-07 11:00:00 -0500]]></title>
-        <id>link-f0629908358ef3ae23daebbb3382cbd9</id>
-        <link href="https://www.tapology.com/fightcenter/events/145768-oktagon-97"/>
-        <updated>2026-10-30T13:33:55.020Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/145768-oktagon-97">OKTAGON 97</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-07 11:00:00 -0500">in 18 hours</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zuffa Boxing 12 — 2026-11-07 11:00:00 -0500]]></title>
-        <id>link-02f353511dfcf30680ae5f1d6dadbe20</id>
-        <link href="https://www.tapology.com/fightcenter/events/148520-zuffa-boxing-12"/>
-        <updated>2026-10-31T18:44:42.078Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148520-zuffa-boxing-12">Zuffa Boxing 12</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-07 11:00:00 -0500">in 18 hours</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cage Warriors 212 — 2026-11-07 11:00:00 -0500]]></title>
-        <id>link-36ea8a05a44645586da71032844eb355</id>
-        <link href="https://www.tapology.com/fightcenter/events/148777-cage-warriors-212-spanish-showcase"/>
-        <updated>2026-10-31T00:02:20.159Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148777-cage-warriors-212-spanish-showcase">Cage Warriors 212</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-07 11:00:00 -0500">in 18 hours</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FNC 35 — 2026-11-07 11:30:00 -0500]]></title>
-        <id>link-315917429b930bd2ae814f64b0c69dd9</id>
-        <link href="https://www.tapology.com/fightcenter/events/148321-fnc-35"/>
-        <updated>2026-10-30T13:33:55.020Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148321-fnc-35">FNC 35</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-07 11:30:00 -0500">in 18 hours</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UFC Fight Night — 2026-11-07 17:00:00 -0500]]></title>
-        <id>link-4902e27bb15860a9b5ae9041a48d1b9d</id>
-        <link href="https://www.tapology.com/fightcenter/events/147038-ufc-fight-night"/>
-        <updated>2026-10-31T18:44:42.078Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147038-ufc-fight-night">UFC Fight Night</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-07 17:00:00 -0500">in 1 day</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIZIN 55 — 2026-11-07 22:00:00 -0500]]></title>
-        <id>link-0c2fa4c71ada9a9d7513d58b78266aab</id>
-        <link href="https://www.tapology.com/fightcenter/events/146049-rizin-landmark-17-in-chiba"/>
-        <updated>2026-10-31T23:42:14.967Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/146049-rizin-landmark-17-in-chiba">RIZIN 55</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-07 22:00:00 -0500">in 1 day</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[MVPW 7 — 2026-11-08 16:15:00 -0500]]></title>
         <id>link-15fabb730791396bfdc1c5c18d9649ad</id>
@@ -98,7 +14,91 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147424-mvpw-7-turhan-vs-baumgardner">MVPW 7</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-08 16:15:00 -0500">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-08 16:15:00 -0500">in 3 hours</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE Friday Fights 178 — 2026-11-13 06:30:00 -0500]]></title>
+        <id>link-cc6fd547990beb01f267665689d1d66e</id>
+        <link href="https://www.tapology.com/fightcenter/events/147737-one-friday-fights-178"/>
+        <updated>2026-11-08T18:09:06.428Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147737-one-friday-fights-178">ONE Friday Fights 178</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-13 06:30:00 -0500">in 4 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LFA 246 — 2026-11-13 20:00:00 -0500]]></title>
+        <id>link-438688bd825adb38151100e4f3b8477b</id>
+        <link href="https://www.tapology.com/fightcenter/events/148241-lfa-246"/>
+        <updated>2026-11-08T18:09:06.428Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148241-lfa-246">LFA 246</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-13 20:00:00 -0500">in 5 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFL Dubai — 2026-11-14 09:00:00 -0500]]></title>
+        <id>link-00fbac6c06111ec33817cf1856d80f70</id>
+        <link href="https://www.tapology.com/fightcenter/events/147315-pfl-dubai"/>
+        <updated>2026-11-08T18:09:06.428Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147315-pfl-dubai">PFL Dubai</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 09:00:00 -0500">in 5 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zuffa Boxing 13 — 2026-11-14 10:00:00 -0500]]></title>
+        <id>link-de06cd8be7b82bb9cac24c647607a156</id>
+        <link href="https://www.tapology.com/fightcenter/events/149433-zuffa-boxing"/>
+        <updated>2026-11-08T18:09:06.428Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/149433-zuffa-boxing">Zuffa Boxing 13</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 10:00:00 -0500">in 5 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cage Warriors 213 — 2026-11-14 11:00:00 -0500]]></title>
+        <id>link-bc58f90f59bdc649bff3d1e5f80c4101</id>
+        <link href="https://www.tapology.com/fightcenter/events/148778-cage-warriors-213"/>
+        <updated>2026-11-08T18:09:06.428Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148778-cage-warriors-213">Cage Warriors 213</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 11:00:00 -0500">in 5 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFC 334 — 2026-11-14 17:00:00 -0500]]></title>
+        <id>link-ffcb50561ea53030f89daf4ae3489b18</id>
+        <link href="https://www.tapology.com/fightcenter/events/147320-ufc-334"/>
+        <updated>2026-11-08T18:09:06.428Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147320-ufc-334">UFC 334</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 17:00:00 -0500">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacheco vs. Fulghum — 2026-11-14 16:00:00 -0500]]></title>
+        <id>link-210b0e96ca5244a2825ca3c0284a6759</id>
+        <link href="https://www.tapology.com/fightcenter/events/148347-pacheco-vs-fulghum-the-fight"/>
+        <updated>2026-11-08T18:09:06.428Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148347-pacheco-vs-fulghum-the-fight">Pacheco vs. Fulghum</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 16:00:00 -0500">in 6 days</abbr>
 </td>]]></content>
     </entry>
 </feed>
