@@ -4,13 +4,6 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-15fabb730791396bfdc1c5c18d9649ad",
-			"title": "MVPW 7 — 2026-11-08 16:15:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/147424-mvpw-7-turhan-vs-baumgardner",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147424-mvpw-7-turhan-vs-baumgardner\">MVPW 7</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-08 16:15:00 -0500\">in 3 hours</abbr>\n</td>",
-			"retrieved": 1793968928867
-		},
-		{
 			"id": "link-cc6fd547990beb01f267665689d1d66e",
 			"title": "ONE Friday Fights 178 — 2026-11-13 06:30:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147737-one-friday-fights-178",
@@ -19,9 +12,16 @@
 		},
 		{
 			"id": "link-438688bd825adb38151100e4f3b8477b",
-			"title": "LFA 246 — 2026-11-13 20:00:00 -0500",
+			"title": "LFA 246 — 2026-11-13 14:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/148241-lfa-246",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148241-lfa-246\">LFA 246</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-13 20:00:00 -0500\">in 5 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148241-lfa-246\">LFA 246</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-13 14:00:00 -0500\">in 4 days</abbr>\n</td>",
+			"retrieved": 1794161346428
+		},
+		{
+			"id": "link-de06cd8be7b82bb9cac24c647607a156",
+			"title": "Zuffa Boxing 13 — 2026-11-14 06:30:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/149433-zuffa-boxing",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149433-zuffa-boxing\">Zuffa Boxing 13</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 06:30:00 -0500\">in 5 days</abbr>\n</td>",
 			"retrieved": 1794161346428
 		},
 		{
@@ -32,13 +32,6 @@
 			"retrieved": 1794161346428
 		},
 		{
-			"id": "link-de06cd8be7b82bb9cac24c647607a156",
-			"title": "Zuffa Boxing 13 — 2026-11-14 10:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/149433-zuffa-boxing",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149433-zuffa-boxing\">Zuffa Boxing 13</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 10:00:00 -0500\">in 5 days</abbr>\n</td>",
-			"retrieved": 1794161346428
-		},
-		{
 			"id": "link-bc58f90f59bdc649bff3d1e5f80c4101",
 			"title": "Cage Warriors 213 — 2026-11-14 11:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/148778-cage-warriors-213",
@@ -46,18 +39,25 @@
 			"retrieved": 1794161346428
 		},
 		{
-			"id": "link-ffcb50561ea53030f89daf4ae3489b18",
-			"title": "UFC 334 — 2026-11-14 17:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/147320-ufc-334",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147320-ufc-334\">UFC 334</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 17:00:00 -0500\">in 6 days</abbr>\n</td>",
+			"id": "link-210b0e96ca5244a2825ca3c0284a6759",
+			"title": "Pacheco vs. Fulghum — 2026-11-14 15:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/148347-pacheco-vs-fulghum-the-fight",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148347-pacheco-vs-fulghum-the-fight\">Pacheco vs. Fulghum</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 15:00:00 -0500\">in 5 days</abbr>\n</td>",
 			"retrieved": 1794161346428
 		},
 		{
-			"id": "link-210b0e96ca5244a2825ca3c0284a6759",
-			"title": "Pacheco vs. Fulghum — 2026-11-14 16:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/148347-pacheco-vs-fulghum-the-fight",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148347-pacheco-vs-fulghum-the-fight\">Pacheco vs. Fulghum</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 16:00:00 -0500\">in 6 days</abbr>\n</td>",
+			"id": "link-ffcb50561ea53030f89daf4ae3489b18",
+			"title": "UFC 334 — 2026-11-14 17:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/147320-ufc-334",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147320-ufc-334\">UFC 334</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 17:00:00 -0500\">in 5 days</abbr>\n</td>",
 			"retrieved": 1794161346428
+		},
+		{
+			"id": "link-b0e114cc52111f6d82936f098867207f",
+			"title": "ONE Samurai 5 — 2026-11-18 03:30:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/147562-one-samurai-5",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147562-one-samurai-5\">ONE Samurai 5</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-18 03:30:00 -0500\">in 1 week</abbr>\n</td>",
+			"retrieved": 1794215566410
 		}
 	]
 }

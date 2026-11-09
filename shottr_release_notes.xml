@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shottr.cc/#section-releasenotes</id>
     <title>Shottr release notes</title>
-    <updated>2026-11-08T18:11:42.228Z</updated>
+    <updated>2026-11-09T09:15:23.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://shottr.cc/assets/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[v1.10 — Nov 9, 2026 — Advanced area capture, restorable screenshots, filename templates, image rotation, global hotkey for "Load from Clipboard".]]></title>
+        <id>title-38456276fabea36976ad3fd86e476f89</id>
+        <link href="https://shottr.cc/#section-releasenotes?link_extraction_failed=true"/>
+        <updated>2026-11-09T09:12:46.410Z</updated>
+        <content type="html"><![CDATA[Advanced area capture, restorable screenshots, filename templates, image rotation, global hotkey for "Load from Clipboard".
+			<br><a href="#" class="showmore gaChangelog1100">See full changelog</a>
+			<div class="hiddenChangeLog themore">
+				<br>
+				<b>New Features</b>
+				<ul>
+					<li>Advanced Area Capture freezes the screen, adds a magnifying lens (press L) and 10× fullscreen zoom (hold Z), cursor slowdown (hold Cmd), WASD/arrow keys for cursor nudging, and Shift to force square aspect ratio. The legacy mode is still available in Settings → General.</li>
+					<li>Restore previous screenshot: recent captures stay available with editable annotations (menu bar icon menu → Restore Previous Pic / Go to Next Pic).</li>
+					<li>Filename Template with a template builder (Settings → Save).</li>
+					<li>Image rotation: menu Edit → Rotate Clockwise / Rotate Counterclockwise. Annotations rotate along with the image and stay editable.</li>
+					<li>Global hotkey for loading an image from the clipboard (Settings → Hotkeys).</li>
+				</ul>
+
+				<br>
+				<b>Improvements</b>
+				<ul>
+					<li>Annotations can extend the canvas up to 6,000pt each way.</li>
+					<li>The editor window can be dragged by the Shottr logo in the toolbar.</li>
+					<li>Rasterize (Merge) Image got a shortcut: Cmd+Shift+R.</li>
+					<li>Fullscreen capture now takes the screen where the mouse cursor is.</li>
+					<li>Cmd+Click in-app selection size limit is lifted, it now works on very large solid areas.</li>
+					<li>Ctrl+Drag on the canvas no longer starts a file drag (it was too easy to trigger by accident).</li>
+					<li>"Save As" now respects extension if entered (.jpg, .jpeg, .JPG will all be preserved).</li>
+					<li>Secret feature: Cmd+Enter converts a selected ruler annotation into a double-sided arrow.</li>
+				</ul>
+
+				<br>
+				<b>Bug Fixes</b>
+				<ul>
+					<li>Intro window no longer shows up after a system reboot when "Don't Show Splash" is enabled.</li>
+					<li>Hand-drawn rectangles and ovals now keep their style and exact shape through undo, copy/paste and duplicate.</li>
+					<li>S3 upload now works for bucket names containing dots.</li>
+					<li>Magnifier no longer occasionally loses its square shape when created with snapping on.</li>
+					<li>Some menu icons are no longer hidden on macOS 27.</li>
+				</ul>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.9.3 — Sep 24, 2026 — Another set of improvements to accommodate macOS 27]]></title>
         <id>title-c7caff28633599a78b3d5f8019b02ca2</id>
