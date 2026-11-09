@@ -12,7 +12,7 @@ on:
     # schedule your workflow to run at a different time of the hour.
 
     # * is a special character in YAML so you have to quote this string
-    - cron: '37 */2 * * *'
+    - cron: '38 */2 * * *'
   workflow_dispatch:
 
 env:
