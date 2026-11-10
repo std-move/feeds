@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shottr.cc/#section-releasenotes</id>
     <title>Shottr release notes</title>
-    <updated>2026-11-10T04:20:25.515Z</updated>
+    <updated>2026-11-10T12:59:07.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://shottr.cc/assets/favicon.png</icon>
     <entry>
@@ -16,9 +16,13 @@
 				<br>
 				<b>New Features</b>
 				<ul>
-					<li>Advanced Area Capture freezes the screen, adds a magnifying lens (press L) and 10× fullscreen zoom (hold Z), cursor slowdown (hold Cmd), WASD/arrow keys for cursor nudging, and Shift to force square aspect ratio. The legacy mode is still available in Settings → General.</li>
+					<li>Advanced Area Capture freezes the screen, adds a magnifying lens (press L) and 10× fullscreen zoom (hold Z), cursor slowdown (hold Cmd), WASD/arrow keys for cursor nudging, and Shift to force square aspect ratio. The legacy mode is still available in Settings → General.
+						<video playsinline="" loop="" autoplay="" muted="" style="max-width:520px; width: 100%; border-radius: 10px; border: 1px solid rgba(0 0 0 / 10%);" src="/release-files/1-10/FulscreenZoom.mp4"></video>
+					</li>
 					<li>Restore previous screenshot: recent captures stay available with editable annotations (menu bar icon menu → Restore Previous Pic / Go to Next Pic).</li>
-					<li>Filename Template with a template builder (Settings → Save).</li>
+					<li>Filename Template with a template builder (Settings → Save).
+						<img src="/release-files/1-10/FilenameTemplate.png" alt="Filename Template settings" style="margin: 4px 0 8px 0; max-width: 520px; width: 100%; border-radius: 10px; border: 1px solid rgba(0 0 0 / 10%);">
+					</li>
 					<li>Image rotation: menu Edit → Rotate Clockwise / Rotate Counterclockwise. Annotations rotate along with the image and stay editable.</li>
 					<li>Global hotkey for loading an image from the clipboard (Settings → Hotkeys).</li>
 				</ul>

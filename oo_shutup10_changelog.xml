@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.oo-software.com/en/shutup10/changelog</id>
     <title>O&amp;O ShutUp10 changelog</title>
-    <updated>2026-11-10T04:20:25.515Z</updated>
+    <updated>2026-11-10T12:59:07.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.oo-software.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3.7.1143 Released on 11/10/2026]]></title>
+        <id>title-50335fafb5ac61b102e0d0ab2e8367a2</id>
+        <link href="https://www.oo-software.com/en/shutup10/changelog?link_extraction_failed=true"/>
+        <updated>2026-11-10T12:56:40.941Z</updated>
+        <content type="html"><![CDATA[<strong data-astro-cid-cfzobems="">Added</strong>
+<li data-astro-cid-l6irvzes="">Disable sharing of browsing data with other Windows features (E157, E257)</li><li data-astro-cid-l6irvzes="">Disable backup of Windows settings (Y008)</li><li data-astro-cid-l6irvzes="">PREM: “Accept changes made outside O&amp;O ShutUp10” switch: automatic protection no longer reverts changes to the listed settings and shows them as differences from the profile instead</li><li data-astro-cid-l6irvzes="">PREM: “Differences from profile” list: take differences into the profile, save them as a new profile, or restore the profile value; a notice above the settings list shows when settings differ from the profile</li><li data-astro-cid-l6irvzes="">PREM: “Activity log” item in the notification area icon menu opens the log without restoring the main window</li>
+<strong data-astro-cid-cfzobems="">Improved</strong>
+<li data-astro-cid-l6irvzes="">Title and description of the Edge address bar suggestions from browsing history and favorites (E121, E221) say what the setting disables; the Microsoft Search in Bing settings (E107, E207) get their own matching texts</li><li data-astro-cid-l6irvzes="">Description of recently used files (M011) points out that the additional actions in the Start menu and Windows Search such as “Run as administrator” are no longer offered</li><li data-astro-cid-l6irvzes="">“Secure Boot” tab gives its own recommendation for repairing the boot files on update failure 0x80070002 (file not found)</li><li data-astro-cid-l6irvzes="">Command-line help lists all 17 language codes for the /lang: start parameter</li><li data-astro-cid-l6irvzes="">PREM: Notification area icon context menu uses more compact rows</li>
+<strong data-astro-cid-cfzobems="">Fixed</strong>
+<li data-astro-cid-l6irvzes="">The /lang:&lt;code&gt; start parameter is honored again and also sets the language of the command-line help</li><li data-astro-cid-l6irvzes="">Typed text in the title bar search box is vertically centered</li><li data-astro-cid-l6irvzes="">The settings lists no longer load with a delay on domain-joined PCs that cannot reach the domain controller (e.g. over VPN)</li><li data-astro-cid-l6irvzes="">Polish: the “AI related” column header and the notice about machine-level settings are now translated correctly</li><li data-astro-cid-l6irvzes="">Czech, Russian: recommendation for failed Secure Boot certificate updates translated correctly</li><li data-astro-cid-l6irvzes="">PREM: A change made in O&amp;O ShutUp10 with automatic protection on no longer silently takes outside changes into the profile</li><li data-astro-cid-l6irvzes="">PREM: For “Replace-All” profiles, enabled settings outside the profile now count as differences</li><li data-astro-cid-l6irvzes="">PREM: “Source” column in the activity log is shown in the program language</li><li data-astro-cid-l6irvzes="">PREM: Activity log filter stays fully readable in narrow windows and in all languages; German filtered-entries count corrected</li><li data-astro-cid-l6irvzes="">PREM: Highlight in the notification area icon context menu is visible in light mode</li><li data-astro-cid-l6irvzes="">PREM: Settings can be changed even when the computer name equals the user name; they were wrongly shown as blocked before</li><li data-astro-cid-l6irvzes="">PREM: “Review differences” resets an active search so that all differences are shown</li><li data-astro-cid-l6irvzes="">PREM: Settings changed while the service was stopped are no longer reverted by automatic protection when the service starts again</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3.6.1135 Released on 9/29/2026]]></title>
         <id>title-48fe1e11cd617f2f43618c588ab97285</id>
