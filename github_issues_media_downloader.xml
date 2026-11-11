@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-11-11T11:14:34.079Z</updated>
+    <updated>2026-11-11T18:04:11.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,6 +10,12 @@
         <id>link-2c24a0f01e4566a161d56522aa74ccc4</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/views"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problém s načtením profilu z Oneplay]]></title>
+        <id>link-ebd5c9480be671939421434e288b4afe</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/97"/>
+        <updated>2026-11-11T18:02:14.648Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[MP4 output keeps avc3 codec tag - not playable in QuickTime / Apple TV (needs -tag:v avc1)]]></title>
@@ -154,11 +160,5 @@
         <id>link-efbaf3a7beeb44dad2fa14d0db027009</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/20"/>
         <updated>2026-10-01T16:54:18.663Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upctv]]></title>
-        <id>link-f1ed573ace733eb3a2ce93f1e85a71cb</id>
-        <link href="https://github.com/sunecz/Media-Downloader/issues/17"/>
-        <updated>2026-11-09T21:02:51.077Z</updated>
     </entry>
 </feed>
