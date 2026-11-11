@@ -16,7 +16,6 @@ linkSelector = "b a"
 [xrel_watched_scene_releases]
 title = "xrel.to watched scene releases"
 url = [
-  "https://www.xrel.to/movie/235970/Die-Odyssee.html?lang=en_US",
   "https://www.xrel.to/movie/241062/You-Can-See-Everything.html?lang=en_US",
 ]
 waitForSelector = "[id$='-scene-button']"
