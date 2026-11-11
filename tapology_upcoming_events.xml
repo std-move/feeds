@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-11-11T02:16:14.794Z</updated>
+    <updated>2026-11-11T09:51:52.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -30,7 +30,7 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zuffa Boxing 13 — 2026-11-14 07:00:00 -0500]]></title>
+        <title type="html"><![CDATA[Zuffa Boxing 13 — 2026-11-14 06:30:00 -0500]]></title>
         <id>link-de06cd8be7b82bb9cac24c647607a156</id>
         <link href="https://www.tapology.com/fightcenter/events/149433-zuffa-boxing"/>
         <updated>2026-11-08T18:09:06.428Z</updated>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/149433-zuffa-boxing">Zuffa Boxing 13</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 07:00:00 -0500">in 3 days</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 06:30:00 -0500">in 3 days</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -66,18 +66,6 @@
 </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pacheco vs. Fulghum — 2026-11-14 15:00:00 -0500]]></title>
-        <id>link-210b0e96ca5244a2825ca3c0284a6759</id>
-        <link href="https://www.tapology.com/fightcenter/events/148347-pacheco-vs-fulghum-the-fight"/>
-        <updated>2026-11-08T18:09:06.428Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148347-pacheco-vs-fulghum-the-fight">Pacheco vs. Fulghum</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 15:00:00 -0500">in 3 days</abbr>
-</td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UFC 334 — 2026-11-14 17:00:00 -0500]]></title>
         <id>link-ffcb50561ea53030f89daf4ae3489b18</id>
         <link href="https://www.tapology.com/fightcenter/events/147320-ufc-334"/>
@@ -90,6 +78,18 @@
 </td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pacheco vs. Fulghum — 2026-11-14 19:00:00 -0500]]></title>
+        <id>link-210b0e96ca5244a2825ca3c0284a6759</id>
+        <link href="https://www.tapology.com/fightcenter/events/148347-pacheco-vs-fulghum-the-fight"/>
+        <updated>2026-11-08T18:09:06.428Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148347-pacheco-vs-fulghum-the-fight">Pacheco vs. Fulghum</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 19:00:00 -0500">in 3 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ONE Samurai 5 — 2026-11-18 03:30:00 -0500]]></title>
         <id>link-b0e114cc52111f6d82936f098867207f</id>
         <link href="https://www.tapology.com/fightcenter/events/147562-one-samurai-5"/>
@@ -98,7 +98,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147562-one-samurai-5">ONE Samurai 5</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-18 03:30:00 -0500">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-18 03:30:00 -0500">in 6 days</abbr>
 </td>]]></content>
     </entry>
 </feed>

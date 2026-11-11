@@ -19,9 +19,9 @@
 		},
 		{
 			"id": "link-de06cd8be7b82bb9cac24c647607a156",
-			"title": "Zuffa Boxing 13 — 2026-11-14 07:00:00 -0500",
+			"title": "Zuffa Boxing 13 — 2026-11-14 06:30:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/149433-zuffa-boxing",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149433-zuffa-boxing\">Zuffa Boxing 13</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 07:00:00 -0500\">in 3 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149433-zuffa-boxing\">Zuffa Boxing 13</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 06:30:00 -0500\">in 3 days</abbr>\n</td>",
 			"retrieved": 1794161346428
 		},
 		{
@@ -39,13 +39,6 @@
 			"retrieved": 1794161346428
 		},
 		{
-			"id": "link-210b0e96ca5244a2825ca3c0284a6759",
-			"title": "Pacheco vs. Fulghum — 2026-11-14 15:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/148347-pacheco-vs-fulghum-the-fight",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148347-pacheco-vs-fulghum-the-fight\">Pacheco vs. Fulghum</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 15:00:00 -0500\">in 3 days</abbr>\n</td>",
-			"retrieved": 1794161346428
-		},
-		{
 			"id": "link-ffcb50561ea53030f89daf4ae3489b18",
 			"title": "UFC 334 — 2026-11-14 17:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147320-ufc-334",
@@ -53,10 +46,17 @@
 			"retrieved": 1794161346428
 		},
 		{
+			"id": "link-210b0e96ca5244a2825ca3c0284a6759",
+			"title": "Pacheco vs. Fulghum — 2026-11-14 19:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/148347-pacheco-vs-fulghum-the-fight",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148347-pacheco-vs-fulghum-the-fight\">Pacheco vs. Fulghum</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-14 19:00:00 -0500\">in 3 days</abbr>\n</td>",
+			"retrieved": 1794161346428
+		},
+		{
 			"id": "link-b0e114cc52111f6d82936f098867207f",
 			"title": "ONE Samurai 5 — 2026-11-18 03:30:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147562-one-samurai-5",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147562-one-samurai-5\">ONE Samurai 5</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-18 03:30:00 -0500\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147562-one-samurai-5\">ONE Samurai 5</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-18 03:30:00 -0500\">in 6 days</abbr>\n</td>",
 			"retrieved": 1794215566410
 		}
 	]

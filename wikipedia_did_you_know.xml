@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-11-11T02:16:14.791Z</updated>
+    <updated>2026-11-11T09:51:52.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>link-5c36ade365ca812c6d7525dbeee66c1a</id>
         <link href="https://en.wikipedia.org/wiki/Battle_of_Callinicum"/>
         <updated>2026-11-11T02:13:48.447Z</updated>
-        <content type="html"><![CDATA[... that during the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Battle_of_Callinicum" title="Battle of Callinicum">Battle of Callinicum</a></b>, Byzantine troops were so eager to fight while fasting for Easter that their commanders feared mutiny if they were denied battle?]]></content>
+        <content type="html"><![CDATA[... that before the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Battle_of_Callinicum" title="Battle of Callinicum">Battle of Callinicum</a></b>, Byzantine troops were so eager to fight while fasting for Easter that their commanders feared mutiny if they were denied battle?]]></content>
     </entry>
 </feed>
