@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-f5d1b6241d868e0b35de487b51e58831",
+			"title": "v5.0.0",
+			"contents": "<strong>v5.0.0</strong> (13 November 2027)<br>\n            + New cleanup : USB history  (PRO version)<br>\n            + Improved cleanup : Windows apps<br>\n            + Improved UI<br>",
+			"retrieved": 1794613848270
+		},
+		{
 			"id": "title-154f3421a85545305bea0ed8a8f22764",
 			"title": "v4.0.127",
 			"contents": "<strong>v4.0.127</strong> (02 October 2027)<br>\n            + Improved cleanup : HDD<br>\n            + Improved cleanup : TRIM<br>\n            + Improved cleanup : snapshots<br>\n            + Improved cleanup : Free Download Manager<br>\n            + Improved language : Finnish <br> \n            + Minor bug fixes<br>",
@@ -115,12 +121,6 @@
 			"id": "title-3a1d84c986fa04227ffe1a4dcfd88f83",
 			"title": "v4.0.114",
 			"contents": "<strong>v4.0.114</strong> (29 October 2025)<br>\n             + Improved support : Import CCleaner cookies<br> \n             + Improved support : Import cookies from a txt file<br> \n             + Improved automatic cleanups<br> \n             + Improved cleanup : Chrome<br>           \n             + Improved cleanup : Opera, Opera GX<br> \n             + Improved support : JDownloader<br> \n             + Improved UI<br>",
-			"retrieved": 1786692244023
-		},
-		{
-			"id": "title-b70622a2b39c5acfc1b075498a212460",
-			"title": "v4.0.113",
-			"contents": "<strong>v4.0.113</strong> (18 October 2025)<br>\n            + Improved cleanup : Jumplists<br>\n             + Improved cleanup : Recycle bin <br>\n             + New cleanup : T-online Browser<br>\n             + New cleanup : Opera developer<br>\n             + New cleanup : Opera Next<br>\n             + New cleanup : Chrome Dev<br>\n             + Improved support : You can check and repair your PC <br>\n             + Improved cleanup : Chrome<br> \n             + Improved cleanup : Chrome (portable version)<br> \n             \n             + Improved cleanup : Opera, Opera GX<br> \n             + Improved cleanup : Opera, Opera GX (portable version)<br> \n             + Improved cleanup : Firefox (portable version)<br> \n             + Improved UI<br>",
 			"retrieved": 1786692244023
 		}
 	]

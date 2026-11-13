@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-11-13T16:45:58.694Z</updated>
+    <updated>2026-11-13T23:53:17.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[LFA 246 — 2026-11-13 14:00:00 -0500]]></title>
-        <id>link-438688bd825adb38151100e4f3b8477b</id>
-        <link href="https://www.tapology.com/fightcenter/events/148241-lfa-246"/>
-        <updated>2026-11-08T18:09:06.428Z</updated>
-        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
-<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148241-lfa-246">LFA 246</a>
-</td>
-<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-13 14:00:00 -0500">in 2 hours</abbr>
-</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Zuffa Boxing 13 — 2026-11-14 06:30:00 -0500]]></title>
         <id>link-de06cd8be7b82bb9cac24c647607a156</id>
@@ -26,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/149433-zuffa-boxing">Zuffa Boxing 13</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 06:30:00 -0500">in 18 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 06:30:00 -0500">in 11 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147315-pfl-dubai">PFL Dubai</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 09:00:00 -0500">in 21 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 09:00:00 -0500">in 14 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148778-cage-warriors-213">Cage Warriors 213</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 13:00:00 -0500">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 13:00:00 -0500">in 18 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147320-ufc-334">UFC 334</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 17:00:00 -0500">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 17:00:00 -0500">in 22 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -99,6 +87,18 @@
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
 <abbr class="no-underline" data-controller="timeago" title="2026-11-20 06:30:00 -0500">in 6 days</abbr>
+</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LFA 247 — 2026-11-20 20:00:00 -0500]]></title>
+        <id>link-92f4d5b258f999e7225b89b80af8c7a3</id>
+        <link href="https://www.tapology.com/fightcenter/events/148242-lfa-247"/>
+        <updated>2026-11-13T23:50:48.270Z</updated>
+        <content type="html"><![CDATA[<td class="w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed">
+<a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148242-lfa-247">LFA 247</a>
+</td>
+<td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
+<abbr class="no-underline" data-controller="timeago" title="2026-11-20 20:00:00 -0500">in 1 week</abbr>
 </td>]]></content>
     </entry>
 </feed>

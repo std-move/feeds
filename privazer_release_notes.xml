@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-11-13T16:45:58.707Z</updated>
+    <updated>2026-11-13T23:53:17.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v5.0.0]]></title>
+        <id>title-f5d1b6241d868e0b35de487b51e58831</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-11-13T23:50:48.270Z</updated>
+        <content type="html"><![CDATA[<strong>v5.0.0</strong> (13 November 2027)<br>
+            + New cleanup : USB history  (PRO version)<br>
+            + Improved cleanup : Windows apps<br>
+            + Improved UI<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v4.0.127]]></title>
         <id>title-154f3421a85545305bea0ed8a8f22764</id>
@@ -221,27 +231,6 @@
              + Improved cleanup : Chrome<br>           
              + Improved cleanup : Opera, Opera GX<br> 
              + Improved support : JDownloader<br> 
-             + Improved UI<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.113]]></title>
-        <id>title-b70622a2b39c5acfc1b075498a212460</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-08-14T07:24:04.023Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.113</strong> (18 October 2025)<br>
-            + Improved cleanup : Jumplists<br>
-             + Improved cleanup : Recycle bin <br>
-             + New cleanup : T-online Browser<br>
-             + New cleanup : Opera developer<br>
-             + New cleanup : Opera Next<br>
-             + New cleanup : Chrome Dev<br>
-             + Improved support : You can check and repair your PC <br>
-             + Improved cleanup : Chrome<br> 
-             + Improved cleanup : Chrome (portable version)<br> 
-             
-             + Improved cleanup : Opera, Opera GX<br> 
-             + Improved cleanup : Opera, Opera GX (portable version)<br> 
-             + Improved cleanup : Firefox (portable version)<br> 
              + Improved UI<br>]]></content>
     </entry>
 </feed>
