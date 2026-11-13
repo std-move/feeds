@@ -18,13 +18,6 @@
 			"retrieved": 1794508485755
 		},
 		{
-			"id": "link-ebd5c9480be671939421434e288b4afe",
-			"title": "Problém s načtením profilu z Oneplay",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/97",
-			"contents": "",
-			"retrieved": 1794420134648
-		},
-		{
 			"id": "link-56969a35323b33e3fe419392d017006d",
 			"title": "MP4 output keeps avc3 codec tag - not playable in QuickTime / Apple TV (needs -tag:v avc1)",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/92",
@@ -184,6 +177,13 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/20",
 			"contents": "",
 			"retrieved": 1790873658663
+		},
+		{
+			"id": "link-f1ed573ace733eb3a2ce93f1e85a71cb",
+			"title": "Upctv",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/17",
+			"contents": "",
+			"retrieved": 1794554002724
 		}
 	]
 }
