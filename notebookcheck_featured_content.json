@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-6e0a6ef75d893b0ef5df7aae36ea18b4",
+			"title": "Xiaomi Pad 9 Pro review: A benchmark in the mid-range?",
+			"link": "https://www.notebookcheck.net/Ultimate-rival-for-the-iPad-Air-at-a-bargain-price-Xiaomi-Pad-9-Pro-review.1449673.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro/Test_Xiaomi_Pad_9_Pro_2-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro/Test_Xiaomi_Pad_9_Pro_2-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro/Test_Xiaomi_Pad_9_Pro_2-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro/Test_Xiaomi_Pad_9_Pro_2-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro/Test_Xiaomi_Pad_9_Pro_2-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/Pad_9_Pro/Test_Xiaomi_Pad_9_Pro_2-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/0/3/csm_Test_Xiaomi_Pad_9_Pro_2_6ea557702b.jpg\" loading=\"lazy\" alt=\"Xiaomi Pad 9 Pro review\"></picture><div class=\"intro_featured_bar_title\">Xiaomi Pad 9 Pro review: A benchmark in the mid-range?</div>",
+			"retrieved": 1794669596203
+		},
+		{
 			"id": "link-710fdfc985352fa91c2005de6cfc8fab",
 			"title": "Smart feeding - Oneisall 3.5L Automatic Cat Feeder review",
 			"link": "https://www.notebookcheck.net/Reliable-feeding-with-a-few-minor-flaws-Oneisall-3-5L-Automatic-Cat-Feeder-review.1449483.0.html",
@@ -43,13 +50,6 @@
 			"title": "Asus ExpertBook A7 Review - Great chassis, limited performance",
 			"link": "https://www.notebookcheck.net/Looks-like-a-business-MacBook-Asus-ExpertBook-A7-Laptop-Review.1432208.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/3/csm_expertbook_a7_case_07_a3d00a015f.jpg\" loading=\"lazy\" alt=\"Looks like a business MacBook - Asus ExpertBook A7 Laptop Review\"></picture><div class=\"intro_featured_bar_title\">Asus ExpertBook A7 Review - Great chassis, limited performance</div>",
-			"retrieved": 1794344385974
-		},
-		{
-			"id": "link-ef88d79ed9056ec7a931e4f694f25423",
-			"title": "The flagship for 2027? Motorola Signature 27 Hands-On",
-			"link": "https://www.notebookcheck.net/Motorola-Signature-27-Hands-On-A-premium-textile-back-a-powerful-camera-and-a-hefty-price-tag.1446757.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Signature_27/IMG_20261104_202147-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Signature_27/IMG_20261104_202147-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature_27/IMG_20261104_202147-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Motorola/Signature_27/IMG_20261104_202147-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature_27/IMG_20261104_202147-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Motorola/Signature_27/IMG_20261104_202147-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/5/csm_IMG_20261104_202147_f8c831af4f.jpg\" loading=\"lazy\" alt=\"Motorola Signature 27\"></picture><div class=\"intro_featured_bar_title\">The flagship for 2027? Motorola Signature 27 Hands-On</div>",
 			"retrieved": 1794344385974
 		}
 	]
