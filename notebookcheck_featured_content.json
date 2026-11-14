@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-38ce94179479ad00d387339315f5227d",
+			"title": "Lenovo's MacBook Neo competitor reviewed",
+			"link": "https://www.notebookcheck.net/Lenovo-s-MacBook-Neo-competitor-with-ideas-IdeaPad-Vibe-14AKP12-laptop-review.1440427.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/3/f/csm_Lenovo_IdeaPadVibe14a_teaser_a264b8a295.jpg\" loading=\"lazy\" alt=\"Good MacBook Neo rival with trade-offs: Lenovo IdeaPad Vibe 14AKP12 laptop review\"></picture><div class=\"intro_featured_bar_title\">Lenovo's MacBook Neo competitor reviewed</div>",
+			"retrieved": 1794689708389
+		},
+		{
 			"id": "link-6e0a6ef75d893b0ef5df7aae36ea18b4",
 			"title": "Xiaomi Pad 9 Pro review: A benchmark in the mid-range?",
 			"link": "https://www.notebookcheck.net/Ultimate-rival-for-the-iPad-Air-at-a-bargain-price-Xiaomi-Pad-9-Pro-review.1449673.0.html",
@@ -43,13 +50,6 @@
 			"title": "▶ The ultimate Windows Laptop Experience?",
 			"link": "https://www.notebookcheck.net/The-ultimate-Windows-Laptop-Experience.1447239.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053749-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053749-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053749-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053749-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053749-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053749-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/1/8/csm__1053749_31e728f4ce.jpg\" loading=\"lazy\" alt=\"A beautiful machine with a few unnecessary quirks! The Microsoft Surface Laptop Ultra\"></picture><div class=\"intro_featured_bar_title\">▶ The ultimate Windows Laptop Experience?</div>",
-			"retrieved": 1794344385974
-		},
-		{
-			"id": "link-011001407c83f25115fe743e74e10cc7",
-			"title": "Asus ExpertBook A7 Review - Great chassis, limited performance",
-			"link": "https://www.notebookcheck.net/Looks-like-a-business-MacBook-Asus-ExpertBook-A7-Laptop-Review.1432208.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Asus/ExpertBook_A7_Intel/expertbook_a7_case_07-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/3/csm_expertbook_a7_case_07_a3d00a015f.jpg\" loading=\"lazy\" alt=\"Looks like a business MacBook - Asus ExpertBook A7 Laptop Review\"></picture><div class=\"intro_featured_bar_title\">Asus ExpertBook A7 Review - Great chassis, limited performance</div>",
 			"retrieved": 1794344385974
 		}
 	]
