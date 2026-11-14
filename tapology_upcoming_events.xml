@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-11-13T23:53:17.159Z</updated>
+    <updated>2026-11-14T07:00:56.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/149433-zuffa-boxing">Zuffa Boxing 13</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 06:30:00 -0500">in 11 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 06:30:00 -0500">in 4 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147315-pfl-dubai">PFL Dubai</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 09:00:00 -0500">in 14 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 09:00:00 -0500">in 7 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -38,7 +38,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148778-cage-warriors-213">Cage Warriors 213</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 13:00:00 -0500">in 18 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 13:00:00 -0500">in 11 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147320-ufc-334">UFC 334</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 17:00:00 -0500">in 22 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 17:00:00 -0500">in 15 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -62,7 +62,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148347-pacheco-vs-fulghum-the-fight">Pacheco vs. Fulghum</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-14 19:00:00 -0500">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-14 19:00:00 -0500">in 17 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -98,7 +98,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148242-lfa-247">LFA 247</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-20 20:00:00 -0500">in 1 week</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-20 20:00:00 -0500">in 6 days</abbr>
 </td>]]></content>
     </entry>
 </feed>
