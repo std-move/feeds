@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-11-15T09:54:57.443Z</updated>
+    <updated>2026-11-15T17:26:13.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>title-f5d1b6241d868e0b35de487b51e58831</id>
         <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
         <updated>2026-11-13T23:50:48.270Z</updated>
-        <content type="html"><![CDATA[<strong>v5.0.0</strong> (13 November 2027)<br>
+        <content type="html"><![CDATA[<strong>v5.0.0</strong> (13 November 2026)<br>
             + New cleanup : USB history  (PRO version)<br>
             + Improved cleanup : Windows apps<br>
             + Improved UI<br>]]></content>
@@ -20,7 +20,7 @@
         <id>title-154f3421a85545305bea0ed8a8f22764</id>
         <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
         <updated>2026-10-04T07:50:18.303Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.127</strong> (02 October 2027)<br>
+        <content type="html"><![CDATA[<strong>v4.0.127</strong> (02 October 2026)<br>
             + Improved cleanup : HDD<br>
             + Improved cleanup : TRIM<br>
             + Improved cleanup : snapshots<br>
