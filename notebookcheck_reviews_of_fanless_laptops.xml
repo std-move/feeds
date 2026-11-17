@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/Laptop-Search.8223.0.html?&amp;manufacturer=&amp;model=&amp;lang=2&amp;modelSearchAjax_1=&amp;ajax_getgpu_result_gpu=&amp;ajax_getgpu_gpu=0&amp;gpu_manu=&amp;gpu_architecture=&amp;gpu_class=&amp;modelSearchAjax_2=&amp;ajax_getgpu_result_cpu=&amp;ajax_getgpu_cpu=0&amp;cpu_manu=&amp;exclude_cpu_manu=&amp;cpu_generation=&amp;cpu_cores=&amp;inch=&amp;inch_from=&amp;inch_to=&amp;screen_ratio=&amp;screen_resolution_x=&amp;screen_resolution_y=&amp;screen_glossy=&amp;screen_panel_type=&amp;screen_panel=&amp;screen_refresh_rate=&amp;class=-1&amp;rating=66&amp;reviewcount=&amp;dr_workmanship=&amp;dr_display=&amp;dr_emissions=&amp;dr_ergonomy=&amp;dr_performance=&amp;dr_mobility=&amp;dr_temperature=&amp;dr_audio=&amp;dr_camera=&amp;ratingversion=&amp;age=&amp;min_age=&amp;year_from=&amp;year_till=&amp;weight=&amp;size_width=&amp;size_length=&amp;size_depth=&amp;price=&amp;min_price=&amp;min_list_price=&amp;list_price=&amp;ram=&amp;fanless=1&amp;battery_capacity=&amp;battery_capacity_mah=&amp;hdd_size=&amp;hdd_type=&amp;odd_type=&amp;lan_type=&amp;wlan_type=&amp;brightness_center=&amp;de2000_colorchecker=&amp;percent_of_srgb=&amp;percent_of_adobergb=&amp;pwm=&amp;loudness_min=&amp;loudness_cp2077=&amp;loudness_load=&amp;battery_wlan=&amp;os_type=&amp;tag_type=&amp;nbcReviews=1&amp;orderby=0&amp;scatterplot_x=&amp;scatterplot_y=&amp;scatterplot_r=</id>
     <title>Notebookcheck - reviews of fanless laptops</title>
-    <updated>2026-11-17T13:52:07.756Z</updated>
+    <updated>2026-11-17T22:40:09.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
     <entry>
@@ -80,14 +80,14 @@
         <id>link-fa8f72afc739183c0874fde632ac5645</id>
         <link href="https://www.notebookcheck.net/Lenovo-IdeaPad-Slim-3-CB-14M868-review-The-MediaTek-Kompanio-520-introductory-Chromebook.792950.0.html"/>
         <updated>2026-05-08T07:48:28.738Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Lenovo-IdeaPad-Slim-3-CB-14M868-review-The-MediaTek-Kompanio-520-introductory-Chromebook.792950.0.html">Lenovo IdeaPad Slim 3 CB 14M868 review - The MediaTek Kompanio 520 introductory Chromebook</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(342735);">[+] Add to comparison</a></div><br><b>Lenovo IdeaPad Slim 3 CB 14M868</b>: ARM Mali-G52 MP2, MediaTek Kompanio 520, 14.00"  1920x1080, 1.3&nbsp;kg, 250.00&nbsp;Euro]]></content>
+        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Lenovo-IdeaPad-Slim-3-CB-14M868-review-The-MediaTek-Kompanio-520-introductory-Chromebook.792950.0.html">Lenovo IdeaPad Slim 3 CB 14M868 review - The MediaTek Kompanio 520 introductory Chromebook</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(342735);">[+] Add to comparison</a></div><br><b>Lenovo IdeaPad Slim 3 CB 14M868</b>: Arm Mali-G52 MP2, MediaTek Kompanio 520, 14.00"  1920x1080, 1.3&nbsp;kg, 250.00&nbsp;Euro]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[09.01.2024 — 78% — Asus Chromebook CM14 laptop in review - For beginners]]></title>
         <id>link-09ce3122278aff4d6f5893458fa9849d</id>
         <link href="https://www.notebookcheck.net/Asus-Chromebook-CM14-laptop-in-review-For-beginners.791283.0.html"/>
         <updated>2026-05-08T07:48:28.738Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Asus-Chromebook-CM14-laptop-in-review-For-beginners.791283.0.html">Asus Chromebook CM14 laptop in review - For beginners</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(343066);">[+] Add to comparison</a></div><br><b>Asus Chromebook CM14 CM1402CM2A-EK0048</b>: ARM Mali-G52 MP2, MediaTek Kompanio 520, 14.00"  1920x1080, 1.424&nbsp;kg, 319.00&nbsp;Euro]]></content>
+        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Asus-Chromebook-CM14-laptop-in-review-For-beginners.791283.0.html">Asus Chromebook CM14 laptop in review - For beginners</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(343066);">[+] Add to comparison</a></div><br><b>Asus Chromebook CM14 CM1402CM2A-EK0048</b>: Arm Mali-G52 MP2, MediaTek Kompanio 520, 14.00"  1920x1080, 1.424&nbsp;kg, 319.00&nbsp;Euro]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11.08.2023 — 77% — HP Chromebook 15a (2023) Review: Bare minimum internet machine for students and casual surfers]]></title>
@@ -220,7 +220,7 @@
         <id>link-062f3c6e3c3168c9c1d31e06b7b5280b</id>
         <link href="https://www.notebookcheck.net/Acer-Chromebook-Spin-311-CP311-3H-in-review-Enduring-Chromebook-convertible-for-the-small-purse.512227.0.html"/>
         <updated>2026-05-08T07:48:28.738Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Acer-Chromebook-Spin-311-CP311-3H-in-review-Enduring-Chromebook-convertible-for-the-small-purse.512227.0.html">Acer Chromebook Spin 311 CP311-3H in review: Enduring Chromebook convertible for the small purse</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(317648);">[+] Add to comparison</a></div><br><b>Acer Chromebook Spin 311 CP311-3H-K2RJ</b>: ARM Mali-G72 MP3, Mediatek MT8183, 11.60"  1366x768, 1.05&nbsp;kg, 349.00&nbsp;Euro]]></content>
+        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Acer-Chromebook-Spin-311-CP311-3H-in-review-Enduring-Chromebook-convertible-for-the-small-purse.512227.0.html">Acer Chromebook Spin 311 CP311-3H in review: Enduring Chromebook convertible for the small purse</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(317648);">[+] Add to comparison</a></div><br><b>Acer Chromebook Spin 311 CP311-3H-K2RJ</b>: Arm Mali-G72 MP3, Mediatek MT8183, 11.60"  1366x768, 1.05&nbsp;kg, 349.00&nbsp;Euro]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[29.12.2020 — 85% — Microsoft Surface Go 2 Review: Compact Convertible gets a bigger screen]]></title>
@@ -255,7 +255,7 @@
         <id>link-088089f45e001f788700351037216ab7</id>
         <link href="https://www.notebookcheck.net/Lenovo-IdeaPad-Duet-Chromebook-10-tablet-review.492395.0.html"/>
         <updated>2026-05-08T07:48:28.738Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Lenovo-IdeaPad-Duet-Chromebook-10-tablet-review.492395.0.html">Lenovo IdeaPad Duet Chromebook 10 tablet review</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(314907);">[+] Add to comparison</a></div><br><b>Lenovo IdeaPad Duet Chromebook 10 CT-X636F</b>: ARM Mali-G72 MP3, Mediatek Helio P60T, 10.10"  1920x1200, 0.92&nbsp;kg, 300.00&nbsp;Euro]]></content>
+        <content type="html"><![CDATA[<a href="https://www.notebookcheck.net/Lenovo-IdeaPad-Duet-Chromebook-10-tablet-review.492395.0.html">Lenovo IdeaPad Duet Chromebook 10 tablet review</a><div style="float:right"> <a href="#nbc_nbcompare_div" onclick="nbcompare_addSpecs(314907);">[+] Add to comparison</a></div><br><b>Lenovo IdeaPad Duet Chromebook 10 CT-X636F</b>: Arm Mali-G72 MP3, Mediatek Helio P60T, 10.10"  1920x1200, 0.92&nbsp;kg, 300.00&nbsp;Euro]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10.08.2020 — 75% — Lenovo IdeaPad 1 14IGL05 Laptop Review: Too cheap to be perfect]]></title>
