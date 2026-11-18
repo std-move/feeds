@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.notebookcheck.net/</id>
     <title>Notebookcheck - featured content</title>
-    <updated>2026-11-18T03:54:29.971Z</updated>
+    <updated>2026-11-18T13:26:58.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Lenovo IdeaPad Slim 3 review: Great value or a false economy?]]></title>
+        <id>link-64f230d79d204195d0db95ea894afabc</id>
+        <link href="https://www.notebookcheck.net/Affordable-work-laptop-with-a-powerful-AMD-APU-Lenovo-IdeaPad-Slim-3-review.1451321.0.html"/>
+        <updated>2026-11-18T13:24:16.470Z</updated>
+        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/f/7/csm_Slim3_25_6b70b442b4.jpg" loading="lazy" alt="Lenovo IdeaPad Slim 3"></picture><div class="intro_featured_bar_title">Lenovo IdeaPad Slim 3 review: Great value or a false economy?</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lenovo ThinkPad X13 Detachable review: Better than the Surface in many ways]]></title>
         <id>link-ea6428665a2990369799210548e1e0eb</id>
@@ -14,9 +21,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Xiaomi 18 Pro Max Hands-on: The perfect smartphone?]]></title>
-        <id>link-428e2c7e2ff36002d124768d0499dcc4</id>
-        <link href="https://www.notebookcheck.net/Xiaomi-18-Pro-Max-Hands-On-Two-200-MPix-Cameras-two-displays-and-a-weak-privacy-filter.1451516.0.html"/>
-        <updated>2026-11-17T22:38:10.458Z</updated>
+        <id>link-a0853bc7815c42e1ee3ba4dff1e78ef8</id>
+        <link href="https://www.notebookcheck.net/Xiaomi-18-Pro-Max-hands-on-Two-200-MP-cameras-two-displays-and-a-weak-privacy-filter.1451516.0.html"/>
+        <updated>2026-11-18T13:24:16.470Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/18_Pro_Max/aPic_Xiaomi_18_Pro_Max-4089-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/18_Pro_Max/aPic_Xiaomi_18_Pro_Max-4089-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/18_Pro_Max/aPic_Xiaomi_18_Pro_Max-4089-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Xiaomi/18_Pro_Max/aPic_Xiaomi_18_Pro_Max-4089-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/18_Pro_Max/aPic_Xiaomi_18_Pro_Max-4089-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Xiaomi/18_Pro_Max/aPic_Xiaomi_18_Pro_Max-4089-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/5/2/csm_aPic_Xiaomi_18_Pro_Max-4089_553e4059dd.jpg" loading="lazy" alt="Xiaomi 18 Pro Max"></picture><div class="intro_featured_bar_title">Xiaomi 18 Pro Max Hands-on: The perfect smartphone?</div>]]></content>
     </entry>
     <entry>
@@ -46,12 +53,5 @@
         <link href="https://www.notebookcheck.net/HoverAir-Versa-review-A-gimbal-camera-and-drone-in-a-compact-travel-kit.1450854.0.html"/>
         <updated>2026-11-15T09:52:22.618Z</updated>
         <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirVersa-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirVersa-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirVersa-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirVersa-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirVersa-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/HoverAirVersa-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/c/5/csm_HoverAirVersa_4b251ad4a8.jpg" loading="lazy" alt="Can this combo replace the DJI Osmo Pocket and DJI Neo? HoverAir reviewed"></picture><div class="intro_featured_bar_title">HoverAir Versa review</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo's MacBook Neo competitor reviewed]]></title>
-        <id>link-38ce94179479ad00d387339315f5227d</id>
-        <link href="https://www.notebookcheck.net/Lenovo-s-MacBook-Neo-competitor-with-ideas-IdeaPad-Vibe-14AKP12-laptop-review.1440427.0.html"/>
-        <updated>2026-11-14T20:55:08.389Z</updated>
-        <content type="html"><![CDATA[<picture><source media="(min-width: 2000px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w1440-h.webp" type="image/webp"><source media="(min-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w1440-h.webp 2x" type="image/webp"><source media="(max-width: 1600px)" srcset="/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Vibe_14AKP12/Lenovo_IdeaPadVibe14a_teaser-JPG-q82-w1440-h.webp 3x" type="image/webp"><img src="fileadmin/_processed_/3/f/csm_Lenovo_IdeaPadVibe14a_teaser_a264b8a295.jpg" loading="lazy" alt="Good MacBook Neo rival with trade-offs: Lenovo IdeaPad Vibe 14AKP12 laptop review"></picture><div class="intro_featured_bar_title">Lenovo's MacBook Neo competitor reviewed</div>]]></content>
     </entry>
 </feed>
