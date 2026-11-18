@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico",
 	"elements": [
 		{
+			"id": "link-40caa3c65cb6c66a17d5710c47423765",
+			"title": "Liberica JDK November 2026 CSPU builds are released",
+			"link": "https://bell-sw.com/blog/liberica-jdk-november-2026-cspu-builds-are-released/",
+			"contents": "",
+			"retrieved": 1795040341835
+		},
+		{
 			"id": "link-5049b4cec6128fb7346195358abe7900",
 			"title": "Securing Alpaquita Linux against the SSHole OpenSSH bypass",
 			"link": "https://bell-sw.com/blog/securing-alpaquita-linux-against-the-sshole-openssh-bypass/",
@@ -165,11 +172,11 @@
 			"retrieved": 1783103815415
 		},
 		{
-			"id": "link-b03ee35e92c1b355f873bdfdc959f369",
-			"title": "Liberica Native Image Kit 24.2.0 is released",
-			"link": "https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/",
+			"id": "link-40caa3c65cb6c66a17d5710c47423765",
+			"title": "Liberica JDK November 2026 CSPU builds are released",
+			"link": "https://bell-sw.com/blog/liberica-jdk-november-2026-cspu-builds-are-released/",
 			"contents": "",
-			"retrieved": 1783103815415
+			"retrieved": 1795040341835
 		},
 		{
 			"id": "link-cfc81ccf149d6fe8c8045628d809e6da",
@@ -329,13 +336,6 @@
 			"id": "link-10a52ae5cbd853fbcae26885a87d945a",
 			"title": "Liberica JDK 8u452, 11.0.27, 17.0.15, 21.0.7, and 24.0.1 builds are generally available",
 			"link": "https://bell-sw.com/blog/liberica-jdk-8u452-11-0-27-17-0-15-21-0-7-and-24-0-1-builds-are-generally-available/",
-			"contents": "",
-			"retrieved": 1783103815415
-		},
-		{
-			"id": "link-b03ee35e92c1b355f873bdfdc959f369",
-			"title": "Liberica Native Image Kit 24.2.0 is released",
-			"link": "https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/",
 			"contents": "",
 			"retrieved": 1783103815415
 		}

@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bell-sw.com/blog/tags/bellsoft-products/</id>
     <title>BellSoft Java releases</title>
-    <updated>2026-11-18T13:26:58.004Z</updated>
+    <updated>2026-11-18T22:21:12.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Liberica JDK November 2026 CSPU builds are released]]></title>
+        <id>link-40caa3c65cb6c66a17d5710c47423765</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-november-2026-cspu-builds-are-released/"/>
+        <updated>2026-11-18T22:19:01.835Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securing Alpaquita Linux against the SSHole OpenSSH bypass]]></title>
         <id>link-5049b4cec6128fb7346195358abe7900</id>
@@ -144,10 +150,10 @@
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liberica Native Image Kit 24.2.0 is released]]></title>
-        <id>link-b03ee35e92c1b355f873bdfdc959f369</id>
-        <link href="https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
+        <title type="html"><![CDATA[Liberica JDK November 2026 CSPU builds are released]]></title>
+        <id>link-40caa3c65cb6c66a17d5710c47423765</id>
+        <link href="https://bell-sw.com/blog/liberica-jdk-november-2026-cspu-builds-are-released/"/>
+        <updated>2026-11-18T22:19:01.835Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Liberica JDK 8u512, 11.0.33, 17.0.21, 21.0.13, 25.0.5, and 27.0.1 builds are generally available]]></title>
@@ -285,12 +291,6 @@
         <title type="html"><![CDATA[Liberica JDK 8u452, 11.0.27, 17.0.15, 21.0.7, and 24.0.1 builds are generally available]]></title>
         <id>link-10a52ae5cbd853fbcae26885a87d945a</id>
         <link href="https://bell-sw.com/blog/liberica-jdk-8u452-11-0-27-17-0-15-21-0-7-and-24-0-1-builds-are-generally-available/"/>
-        <updated>2026-07-03T18:36:55.415Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberica Native Image Kit 24.2.0 is released]]></title>
-        <id>link-b03ee35e92c1b355f873bdfdc959f369</id>
-        <link href="https://bell-sw.com/blog/liberica-native-image-kit-24-2-0-is-released/"/>
         <updated>2026-07-03T18:36:55.415Z</updated>
     </entry>
 </feed>
