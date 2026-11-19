@@ -4,6 +4,18 @@
 	"favicon": "https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6",
 	"elements": [
 		{
+			"id": "title-5e3f1cebae38851e7962b38a1e847f1a",
+			"title": "Version 5.0.41 - 11/18/2026",
+			"contents": "<li data-list-item-id=\"ef72d0023be14a8868e1678f82d8a6889\">Fixed an issue causing an unchanged file to upload repeatedly, consuming bandwidth and delaying other uploads.</li>\n<li data-list-item-id=\"e30b26a7cbc26f8ec29697186dd81ef6a\">Files that fail to download due to a verification error are now shown as “not synced” and retried automatically.</li>\n<li data-list-item-id=\"e724338919be0e8477258427fe5827b62\">Fixed long “Files are being downloaded” stalls on accounts with very large numbers of files.</li>\n<li data-list-item-id=\"e8e94ce58a6e3302650323916cdb28d51\">The “Download all newly added files” setting now applies to all folders.</li>\n<li data-list-item-id=\"e1e01b133c2b8735d0915ce2de2b260a5\">Fixed a crash that could occur when the app started while another copy was still running.</li>\n<li data-list-item-id=\"e5eb417aa02bc9bcd936940bec65d0c8e\">Fixed folders that could get stuck syncing indefinitely and delay downloads.</li>",
+			"retrieved": 1795127117757
+		},
+		{
+			"id": "title-18d2458982299aaeff250999b4fa485d",
+			"title": "Version 2.2.66 - 11/18/2026",
+			"contents": "<li data-list-item-id=\"ebd01ec4276858c1e9fb1d6f91556ba51\">Fixed an issue causing an unchanged file to upload repeatedly, consuming bandwidth and delaying other uploads.</li>\n<li data-list-item-id=\"ebfb467ad83d01a5e05d74ca52cbddf23\">Fixed a rare issue where a file could be linked to the wrong content in the cloud.</li>\n<li data-list-item-id=\"e3f4e1eaebfb978d053546f05e7713051\">Files that fail to download due to a verification error are now shown as “not synced” and retried automatically.</li>\n<li data-list-item-id=\"e6780a765bcfde2174c735bab2523720f\">Reduced long background scan pauses on accounts with very large numbers of files.</li>\n<li data-list-item-id=\"e8e3b0cafc5ebf2ad92cdb82d93469e7c\">Fixed a crash that could occur when the app started while another copy was still running.</li>\n<li data-list-item-id=\"efbab1e71061c680fe71c6bf2751f104d\">Fixed folders that could get stuck syncing indefinitely and delay downloads.</li>",
+			"retrieved": 1795127117757
+		},
+		{
 			"id": "title-838b71872a1051ea38a92a48bd6b34cd",
 			"title": "Version 5.0.40 - 10/19/2026",
 			"contents": "<li data-list-item-id=\"e25cd235170d674c7e772f5e54928b656\">Fixed an issue causing endless re-uploads or files that never finished syncing.</li>\n<li data-list-item-id=\"e91889f00b81f96c360316a2d0c602188\">Files no longer become permanently stuck after brief server interruptions.</li>\n<li data-list-item-id=\"e98335887ae452170649185926146abdf\">Reduced CPU and network activity in some instances.</li>\n<li data-list-item-id=\"e814b96820ac9c6e0cf9ec2f5b69c2cb1\">Ensure app can recover in fail scenarios.</li>",

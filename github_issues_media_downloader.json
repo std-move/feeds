@@ -11,13 +11,6 @@
 			"retrieved": 1786984002677
 		},
 		{
-			"id": "link-fda2cbec46bd943618405ab30759e4e5",
-			"title": "Nefunguje ve Windows 11",
-			"link": "https://github.com/sunecz/Media-Downloader/issues/99",
-			"contents": "",
-			"retrieved": 1795096237619
-		},
-		{
 			"id": "link-3a1b65ab272c55876e4cb0fc20ad12f7",
 			"title": "Diagolové okno Oneplay - Potvďte spustění dalšího videa",
 			"link": "https://github.com/sunecz/Media-Downloader/issues/98",
@@ -184,6 +177,13 @@
 			"link": "https://github.com/sunecz/Media-Downloader/issues/20",
 			"contents": "",
 			"retrieved": 1790873658663
+		},
+		{
+			"id": "link-f1ed573ace733eb3a2ce93f1e85a71cb",
+			"title": "Upctv",
+			"link": "https://github.com/sunecz/Media-Downloader/issues/17",
+			"contents": "",
+			"retrieved": 1795127117757
 		}
 	]
 }

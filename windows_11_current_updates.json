@@ -4,22 +4,22 @@
 	"favicon": "https://learn.microsoft.com/en-us/windows/release-health/favicon.ico",
 	"elements": [
 		{
-			"id": "title-b0e66a08731aa725d28a75585e391b80",
-			"title": "2026-11-10 — 26H2 — General Availability Channel — 26300.9974 — 2026-11 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5132061\" target=\"_blank\" data-linktype=\"external\">2026-11 B</a> — 2026-11-10 — 26300.9974",
-			"retrieved": 1794363228447
+			"id": "title-6e498edf6a213f0aa50ca145aff91b5b",
+			"title": "2026-11-19 — 26H2 — General Availability Channel — 26300.10075 — 2026-11 D",
+			"contents": "<a href=\"https://support.microsoft.com/help/5132057\" target=\"_blank\" data-linktype=\"external\">2026-11 D</a> — 2026-11-19 — 26300.10075",
+			"retrieved": 1795127117757
 		},
 		{
-			"id": "title-b00318001d3057ac068533463b8c9d5f",
-			"title": "2026-11-10 — 26H1 — General Availability Channel — 28000.3501 — 2026-11 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5132059\" target=\"_blank\" data-linktype=\"external\">2026-11 B</a> — 2026-11-10 — 28000.3501",
-			"retrieved": 1794363228447
+			"id": "title-62bb21dea5781d478046e0c339d9d7e7",
+			"title": "2026-11-19 — 26H1 — General Availability Channel — 28000.3620 — 2026-11 D",
+			"contents": "<a href=\"https://support.microsoft.com/help/5132265\" target=\"_blank\" data-linktype=\"external\">2026-11 D</a> — 2026-11-19 — 28000.3620",
+			"retrieved": 1795127117757
 		},
 		{
-			"id": "title-0fe048507ad95c8612855f3e0ad31826",
-			"title": "2026-11-10 — 25H2 — General Availability Channel — 26200.9974 — 2026-11 B",
-			"contents": "<a href=\"https://support.microsoft.com/help/5132061\" target=\"_blank\" data-linktype=\"external\">2026-11 B</a> — 2026-11-10 — 26200.9974",
-			"retrieved": 1794363228447
+			"id": "title-b1e6aa44b9ed753418d2ef55d8fa1000",
+			"title": "2026-11-19 — 25H2 — General Availability Channel — 26200.10075 — 2026-11 D",
+			"contents": "<a href=\"https://support.microsoft.com/help/5132057\" target=\"_blank\" data-linktype=\"external\">2026-11 D</a> — 2026-11-19 — 26200.10075",
+			"retrieved": 1795127117757
 		},
 		{
 			"id": "title-2b9e7b0682c1f41ae512d8ea8fc38d6c",

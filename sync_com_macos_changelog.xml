@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS</id>
     <title>Sync.com macOS changelog</title>
-    <updated>2026-11-19T13:52:43.298Z</updated>
+    <updated>2026-11-19T22:27:15.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://help.sync.com/hc/theming_assets/01JJ7T2CP2A58TNES0J5PF6YB6</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 5.0.41 - 11/18/2026]]></title>
+        <id>title-5e3f1cebae38851e7962b38a1e847f1a</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-11-19T22:25:17.757Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e2682cbd7989a9df0b6a5f0990d962803">Fixed an issue where moving many files at once in Finder could freeze syncing until the app was restarted.</li>
+<li data-list-item-id="ea84c6d06a0b88a39f64e2429ec2ec585">Moving or renaming files no longer shows a false “Server is busy” error or reverts the operation in Finder.</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 2.2.66 - 11/18/2026]]></title>
+        <id>title-18d2458982299aaeff250999b4fa485d</id>
+        <link href="https://help.sync.com/hc/en-us/articles/44540705435795-Release-Notes-Desktop-App-Windows-macOS?link_extraction_failed=true"/>
+        <updated>2026-11-19T22:25:17.757Z</updated>
+        <content type="html"><![CDATA[<li data-list-item-id="e5c108f8eb4a8572faf6fa16d897a42fd">Fixed an issue causing an unchanged file to upload repeatedly, consuming bandwidth and delaying other uploads.</li>
+<li data-list-item-id="edd52e955a180c521a372e9c001f3bff8">Fixed a rare issue where a file could be linked to the wrong content in the cloud.</li>
+<li data-list-item-id="e2ec33c85dc955b01f5644ef3819ab76e">Files that fail to download due to a verification error are now shown as “not synced” and retried automatically.</li>
+<li data-list-item-id="ef7920c87a7542c669cfe88356134eadf">Reduced long background scan pauses on accounts with very large numbers of files.</li>
+<li data-list-item-id="ea0a3faf21c8ed770b7fe203454e29a8f">Fixed a crash that could occur when the app started while another copy was still running.</li>
+<li data-list-item-id="e4a2712ba7e76a498f4d28e1241d30100">Fixed folders that could get stuck syncing indefinitely and delay downloads</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 5.0.40 - 10/19/2026]]></title>
         <id>title-838b71872a1051ea38a92a48bd6b34cd</id>

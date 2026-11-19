@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rtings.com/laptop/latest</id>
     <title>rtings.com - laptop reviews</title>
-    <updated>2026-11-19T13:52:43.286Z</updated>
+    <updated>2026-11-19T22:27:15.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://i.rtings.com/assets/favicon/current/android-icon-192x192-2c57e3c2e187fc221f412f51391e49f0b619c4f733a84ffc5ad4a4df85aa1238.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Acer Googlebook 14 (2026) Review
+            New]]></title>
+        <id>link-c2cd10dcb78631e4a2e03b1cfac88606</id>
+        <link href="https://www.rtings.com/laptop/reviews/acer/googlebook-14-2026"/>
+        <updated>2026-11-19T22:25:17.757Z</updated>
+        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/57c8Ku1E/acer-googlebook-14-2026/design-small.jpg?format=auto" alt="">
+        <div class="latest_page-preview-details">
+          <div class="latest_page-preview-title t-card-title-link">Acer Googlebook 14 (2026) Review
+            <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
+          </div>
+          <div class="latest_page-preview-date">about 7 hours ago</div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dell XPS Googlebook 13 (2026) Test Results
             Early Access]]></title>
@@ -36,9 +50,9 @@
     <entry>
         <title type="html"><![CDATA[Acer Googlebook 14 (2026) Test Results
             Early Access]]></title>
-        <id>link-9aacc66bd2cb2152a5ec0970e9d1aae7</id>
-        <link href="https://www.rtings.com/early-access/laptop/reviews/acer/googlebook-14-2026"/>
-        <updated>2026-11-12T18:34:45.755Z</updated>
+        <id>link-c2cd10dcb78631e4a2e03b1cfac88606</id>
+        <link href="https://www.rtings.com/laptop/reviews/acer/googlebook-14-2026"/>
+        <updated>2026-11-19T22:25:17.757Z</updated>
         <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/PWijHVsD/acer-googlebook-14-2026/in-test-medium.jpg?format=auto" alt="">
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">Acer Googlebook 14 (2026) Test Results
@@ -184,7 +198,7 @@
           <div class="latest_page-preview-title t-card-title-link">Microsoft Surface Laptop 8th Edition (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">30 days ago</div>
+          <div class="latest_page-preview-date">about 1 month ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -450,7 +464,7 @@
           <div class="latest_page-preview-title t-card-title-link">Dell XPS 13 (2026) Test Results
             <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
-          <div class="latest_page-preview-date">3 months ago</div>
+          <div class="latest_page-preview-date">4 months ago</div>
         </div>]]></content>
     </entry>
     <entry>
@@ -547,20 +561,6 @@
         <div class="latest_page-preview-details">
           <div class="latest_page-preview-title t-card-title-link">HP OmniBook 3 14 (2025) Review
             <div class="e-event_tag" data-kind="new" style="vertical-align: middle; margin-left: 6px;">New</div>
-          </div>
-          <div class="latest_page-preview-date">4 months ago</div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP OmniBook 3 14 (2025) Test Results
-            Early Access]]></title>
-        <id>link-22813bad40271bc04b80b45365c87c53</id>
-        <link href="https://www.rtings.com/laptop/reviews/hp/omnibook-3-14-2025"/>
-        <updated>2026-07-23T15:58:44.538Z</updated>
-        <content type="html"><![CDATA[<img src="https://i.rtings.com/assets/products/SjJ7gdT4/hp-omnibook-3-14-2025/in-test-medium.jpg?format=auto" alt="">
-        <div class="latest_page-preview-details">
-          <div class="latest_page-preview-title t-card-title-link">HP OmniBook 3 14 (2025) Test Results
-            <div class="e-event_tag" data-kind="early-access" style="vertical-align: middle; margin-left: 6px;">Early Access</div>
           </div>
           <div class="latest_page-preview-date">4 months ago</div>
         </div>]]></content>
