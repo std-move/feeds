@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tapology.com/fightcenter?group=major&amp;schedule=upcoming&amp;sport=all</id>
     <title>Tapology - upcoming events</title>
-    <updated>2026-11-19T22:27:15.888Z</updated>
+    <updated>2026-11-20T03:45:06.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.tapology.com/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/147738-one-friday-fights-179">ONE Friday Fights 179</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-20 06:30:00 -0500">in 13 hours</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-20 06:30:00 -0500">in 7 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
 <a class="text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid" href="/fightcenter/events/148242-lfa-247">LFA 247</a>
 </td>
 <td class="w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6">
-<abbr class="no-underline" data-controller="timeago" title="2026-11-20 18:30:00 -0500">in 1 day</abbr>
+<abbr class="no-underline" data-controller="timeago" title="2026-11-20 18:30:00 -0500">in 19 hours</abbr>
 </td>]]></content>
     </entry>
     <entry>
