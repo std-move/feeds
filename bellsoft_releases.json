@@ -4,6 +4,13 @@
 	"favicon": "https://bell-sw.com/blog/tags/bellsoft-products/favicon.ico",
 	"elements": [
 		{
+			"id": "link-f82ee379d2609ac3b42e06793d1cb5b2",
+			"title": "How to Scan Alpaquita Linux and BellSoft Hardened Images the Right Way",
+			"link": "https://bell-sw.com/blog/how-to-scan-alpaquita-linux-and-bellsoft-hardened-images-the-right-way/",
+			"contents": "",
+			"retrieved": 1795181574383
+		},
+		{
 			"id": "link-40caa3c65cb6c66a17d5710c47423765",
 			"title": "Liberica JDK November 2026 CSPU builds are released",
 			"link": "https://bell-sw.com/blog/liberica-jdk-november-2026-cspu-builds-are-released/",
@@ -161,13 +168,6 @@
 			"id": "link-eb2dec9654e08dd44a292c945c5c5ee0",
 			"title": "Liberica Native Image Kit 23.0.8, 23.1.7, and 24.2.1 builds are released",
 			"link": "https://bell-sw.com/blog/liberica-native-image-kit-23-0-8-23-1-7-and-24-2-1-builds-are-released/",
-			"contents": "",
-			"retrieved": 1783103815415
-		},
-		{
-			"id": "link-10a52ae5cbd853fbcae26885a87d945a",
-			"title": "Liberica JDK 8u452, 11.0.27, 17.0.15, 21.0.7, and 24.0.1 builds are generally available",
-			"link": "https://bell-sw.com/blog/liberica-jdk-8u452-11-0-27-17-0-15-21-0-7-and-24-0-1-builds-are-generally-available/",
 			"contents": "",
 			"retrieved": 1783103815415
 		},
