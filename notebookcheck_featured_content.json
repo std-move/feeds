@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-52217e37b816e57c971f2491b6835126",
+			"title": "Exceptionally stable standing desk reviewed",
+			"link": "https://www.notebookcheck.net/No-more-wobble-The-Maidesite-T4-Pro-Plus-solves-the-biggest-standing-desk-problem.1455266.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/9/csm_Maidesite-T4-Pro-Plus-im-Test_f1b4bf6997.jpg\" loading=\"lazy\" alt=\"Maidesite T4 Pro Plus review\"></picture><div class=\"intro_featured_bar_title\">Exceptionally stable standing desk reviewed</div>",
+			"retrieved": 1795265916683
+		},
+		{
 			"id": "link-26999269be793181176fa3a252db59f2",
 			"title": "$400 gaming headset Audeze Maxwell 2 ANC review: With planar drivers, premium technology, and ANC into the game",
 			"link": "https://www.notebookcheck.net/400-gaming-headset-Audeze-Maxwell-2-ANC-review-With-planar-drivers-premium-technology-and-ANC-into-the-game.1455278.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/Asus-ProArt-GR1X-A-silent-128GB-local-AI-Powerhouse.1453440.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053886_1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053886_1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053886_1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053886_1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053886_1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053886_1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/5/csm__1053886_1_7f4e71bf41.jpg\" loading=\"lazy\" alt=\"Is Local AI ready for the mainstream? Asus ProArt GR1X review\"></picture><div class=\"intro_featured_bar_title\">▶ Asus ProArt GR1X: A Silent 128GB Local AI Powerhouse!</div>",
 			"retrieved": 1795040341835
-		},
-		{
-			"id": "link-64f230d79d204195d0db95ea894afabc",
-			"title": "Lenovo IdeaPad Slim 3 review: Great value or a false deal?",
-			"link": "https://www.notebookcheck.net/Affordable-work-laptop-with-a-powerful-AMD-APU-Lenovo-IdeaPad-Slim-3-review.1451321.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/IdeaPad_Slim_3_15ARP10/Slim3_25-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/7/csm_Slim3_25_6b70b442b4.jpg\" loading=\"lazy\" alt=\"Lenovo IdeaPad Slim 3\"></picture><div class=\"intro_featured_bar_title\">Lenovo IdeaPad Slim 3 review: Great value or a false deal?</div>",
-			"retrieved": 1795008256470
 		}
 	]
 }
