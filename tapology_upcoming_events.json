@@ -4,31 +4,24 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-92f4d5b258f999e7225b89b80af8c7a3",
-			"title": "LFA 247 — 2026-11-20 18:30:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/148242-lfa-247",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148242-lfa-247\">LFA 247</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-20 18:30:00 -0500\">in 1 hour</abbr>\n</td>",
-			"retrieved": 1794923356520
-		},
-		{
 			"id": "link-7d06e9796032506f07e936afeb52af43",
 			"title": "UFC Fight Night — 2026-11-21 10:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/148467-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148467-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-21 10:00:00 -0500\">in 17 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148467-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-21 10:00:00 -0500\">in 11 hours</abbr>\n</td>",
 			"retrieved": 1794923356520
 		},
 		{
 			"id": "link-7a9eaad3f1ec98cd8586002c81ec3449",
 			"title": "OKTAGON 98 — 2026-11-21 11:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/146790-oktagon-98",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146790-oktagon-98\">OKTAGON 98</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-21 11:00:00 -0500\">in 18 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/146790-oktagon-98\">OKTAGON 98</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-21 11:00:00 -0500\">in 12 hours</abbr>\n</td>",
 			"retrieved": 1794923356520
 		},
 		{
 			"id": "link-d11d99976f950a44012c5949dbe2199f",
 			"title": "KSW 123 — 2026-11-21 12:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147781-ksw-123",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147781-ksw-123\">KSW 123</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-21 12:00:00 -0500\">in 19 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147781-ksw-123\">KSW 123</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-21 12:00:00 -0500\">in 13 hours</abbr>\n</td>",
 			"retrieved": 1794923356520
 		},
 		{
@@ -58,6 +51,13 @@
 			"link": "https://www.tapology.com/fightcenter/events/148608-kabayel-vs-hysa",
 			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148608-kabayel-vs-hysa\">Kabayel vs. Hysa</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-28 08:00:00 -0500\">in 1 week</abbr>\n</td>",
 			"retrieved": 1795181574383
+		},
+		{
+			"id": "link-247826623f58d53e7fdbe5e2956d23b0",
+			"title": "U Next Boxing 7 — 2026-11-28 23:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/149192-u-next-boxing-7",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149192-u-next-boxing-7\">U Next Boxing 7</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-28 23:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"retrieved": 1795231593828
 		}
 	]
 }
