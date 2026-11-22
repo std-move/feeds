@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-11-21T20:45:05.557Z</updated>
+    <updated>2026-11-22T02:41:47.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.6.0]]></title>
+        <id>title-9bc5ec1a48a18dc577ccafebede56afb</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-11-22T02:38:14.305Z</updated>
+        <content type="html"><![CDATA[Released Nov 22, 2026 - 373.85 KB — Added keyword blocking (premium): hide videos whose titles contain blocked words, across search, home, sidebar, Shorts, end screens, and mobile. Fixed the sidebar showing in search engine mode on split-scroll watch layouts, and Shorts redirects now go straight to the regular watch page.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.5.2]]></title>
         <id>title-c6d685556217ce7a8459a000996881f4</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-09-11T03:17:22.064Z</updated>
         <content type="html"><![CDATA[Released Jun 7, 2024 - 329.77 KB — Fix the menu timer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.59]]></title>
-        <id>title-09c7e0b58bbb8c9e00a4a78dd5033e91</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-09-11T03:17:22.064Z</updated>
-        <content type="html"><![CDATA[Released May 31, 2024 - 329.78 KB — Disabled the power button when a schedule is active. Added an option to lock the menu with a random code.]]></content>
     </entry>
 </feed>

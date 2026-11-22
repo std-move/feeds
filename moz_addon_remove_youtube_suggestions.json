@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-9bc5ec1a48a18dc577ccafebede56afb",
+			"title": "Version 4.6.0",
+			"contents": "Released Nov 22, 2026 - 373.85 KB — Added keyword blocking (premium): hide videos whose titles contain blocked words, across search, home, sidebar, Shorts, end screens, and mobile. Fixed the sidebar showing in search engine mode on split-scroll watch layouts, and Shorts redirects now go straight to the regular watch page.",
+			"retrieved": 1795315094305
+		},
+		{
 			"id": "title-c6d685556217ce7a8459a000996881f4",
 			"title": "Version 4.5.2",
 			"contents": "Released Oct 11, 2026 - 358.45 KB — Fixed several settings: the left-navigation \"Hide section\" options hiding the wrong section when signed out, \"Hide extra sidebar tags\" hiding every chip, \"Disable ambient mode\" and \"Disable annotations\" switching the wrong player toggle, the history search bar disappearing, black embedded videos in search engine mode, and a conflict with PocketTube.",
@@ -145,12 +151,6 @@
 			"id": "title-e01cca1ea82758495c1b714522e98871",
 			"title": "Version 4.3.60",
 			"contents": "Released Jun 7, 2024 - 329.77 KB — Fix the menu timer",
-			"retrieved": 1789096642064
-		},
-		{
-			"id": "title-09c7e0b58bbb8c9e00a4a78dd5033e91",
-			"title": "Version 4.3.59",
-			"contents": "Released May 31, 2024 - 329.78 KB — Disabled the power button when a schedule is active. Added an option to lock the menu with a random code.",
 			"retrieved": 1789096642064
 		}
 	]
