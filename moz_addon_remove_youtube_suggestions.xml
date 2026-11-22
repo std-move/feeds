@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-11-22T02:41:47.925Z</updated>
+    <updated>2026-11-22T10:20:09.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.7.0]]></title>
+        <id>title-a201af71dd00f84dfc49f90f6c55202d</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-11-22T10:18:00.169Z</updated>
+        <content type="html"><![CDATA[Released Nov 22, 2026 - 366.48 KB — Renamed to Rein: Remove YouTube Suggestions, with a new logo.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.6.0]]></title>
         <id>title-9bc5ec1a48a18dc577ccafebede56afb</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-09-11T03:17:22.064Z</updated>
         <content type="html"><![CDATA[Released Dec 14, 2024 - 329.42 KB — Fixed the "remove search suggestions" option]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.60]]></title>
-        <id>title-e01cca1ea82758495c1b714522e98871</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-09-11T03:17:22.064Z</updated>
-        <content type="html"><![CDATA[Released Jun 7, 2024 - 329.77 KB — Fix the menu timer]]></content>
     </entry>
 </feed>

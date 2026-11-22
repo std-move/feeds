@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-a201af71dd00f84dfc49f90f6c55202d",
+			"title": "Version 4.7.0",
+			"contents": "Released Nov 22, 2026 - 366.48 KB — Renamed to Rein: Remove YouTube Suggestions, with a new logo.",
+			"retrieved": 1795342680169
+		},
+		{
 			"id": "title-9bc5ec1a48a18dc577ccafebede56afb",
 			"title": "Version 4.6.0",
 			"contents": "Released Nov 22, 2026 - 373.85 KB — Added keyword blocking (premium): hide videos whose titles contain blocked words, across search, home, sidebar, Shorts, end screens, and mobile. Fixed the sidebar showing in search engine mode on split-scroll watch layouts, and Shorts redirects now go straight to the regular watch page.",
@@ -145,12 +151,6 @@
 			"id": "title-bd026d455c89e23d35f5a0e99c936196",
 			"title": "Version 4.3.61",
 			"contents": "Released Dec 14, 2024 - 329.42 KB — Fixed the \"remove search suggestions\" option",
-			"retrieved": 1789096642064
-		},
-		{
-			"id": "title-e01cca1ea82758495c1b714522e98871",
-			"title": "Version 4.3.60",
-			"contents": "Released Jun 7, 2024 - 329.77 KB — Fix the menu timer",
 			"retrieved": 1789096642064
 		}
 	]
