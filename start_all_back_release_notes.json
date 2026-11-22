@@ -4,6 +4,12 @@
 	"favicon": "https://www.startallback.com/favicon.ico",
 	"elements": [
 		{
+			"id": "title-9fbed0779213d903810eee03a1f2a7da",
+			"title": "Version 3.9.29 23 Nov 2026",
+			"contents": "Version 3.9.29 23 Nov 2026\n\t\t\t\t<li>Fix start menu pinning broken with recent updates</li>",
+			"retrieved": 1795391275822
+		},
+		{
 			"id": "title-ac3b93e522dad2ee61ddb47705b2e8dd",
 			"title": "Version 3.9.28 12 Oct 2026",
 			"contents": "Version 3.9.28 12 Oct 2026\n\t\t\t\t<li>Major improvements and fixes</li>",
