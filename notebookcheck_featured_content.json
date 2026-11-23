@@ -4,6 +4,13 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-17344015dee47ab09428eff47db73f9c",
+			"title": "▶ NVIDIA DLSS 5 Tested in 2 New Games: Amazing vs. Pointless?",
+			"link": "https://www.notebookcheck.net/Tested-DLSS-5-on-RTX-5090-RTX-5070-Laptops-Where-Winds-Meet-vs-Hogwarts-Legacy.1457993.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053916-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053916-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053916-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053916-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053916-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/_1053916-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/1/csm__1053916_a22bd70d07.jpg\" loading=\"lazy\" alt=\"DLSS 5 tested on an RTX 5070 laptop (Razer Blade 14)\"></picture><div class=\"intro_featured_bar_title\">▶ NVIDIA DLSS 5 Tested in 2 New Games: Amazing vs. Pointless?</div>",
+			"retrieved": 1795465848217
+		},
+		{
 			"id": "link-ed6d0bfd31a26a4e4c754d85011426ba",
 			"title": "Use Claude Code for free? I test Freebuff, which promises virtually unlimited AI coding",
 			"link": "https://www.notebookcheck.net/Use-Claude-Code-for-free-I-test-Freebuff-which-promises-virtually-unlimited-AI-coding.1455441.0.html",
@@ -44,13 +51,6 @@
 			"link": "https://www.notebookcheck.net/No-more-wobble-The-Maidesite-T4-Pro-Plus-solves-the-biggest-standing-desk-problem.1455266.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/accessories/Maidesite_T4_Pro_Plus/Maidesite-T4-Pro-Plus-im-Test-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/9/csm_Maidesite-T4-Pro-Plus-im-Test_f1b4bf6997.jpg\" loading=\"lazy\" alt=\"Maidesite T4 Pro Plus review\"></picture><div class=\"intro_featured_bar_title\">Exceptionally stable standing desk reviewed</div>",
 			"retrieved": 1795265916683
-		},
-		{
-			"id": "link-26999269be793181176fa3a252db59f2",
-			"title": "$400 gaming headset Audeze Maxwell 2 ANC review: With planar drivers, premium technology, and ANC into the game",
-			"link": "https://www.notebookcheck.net/400-gaming-headset-Audeze-Maxwell-2-ANC-review-With-planar-drivers-premium-technology-and-ANC-into-the-game.1455278.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/maxwell-title-1-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/maxwell-title-1-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/maxwell-title-1-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/maxwell-title-1-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/maxwell-title-1-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/maxwell-title-1-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/c/3/csm_maxwell-title-1_5e2ea172b8.jpg\" loading=\"lazy\" alt=\"Person with the Maxwell 2 ANC on his head while playing a shooter game\"></picture><div class=\"intro_featured_bar_title\">$400 gaming headset Audeze Maxwell 2 ANC review: With planar drivers, premium technology, and ANC into the game</div>",
-			"retrieved": 1795211828125
 		}
 	]
 }
