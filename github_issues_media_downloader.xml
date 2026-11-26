@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/sunecz/Media-Downloader/issues</id>
     <title>sunecz Media-Downloader issues</title>
-    <updated>2026-11-25T14:56:37.322Z</updated>
+    <updated>2026-11-26T00:41:30.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
     <entry>
@@ -10,6 +10,12 @@
         <id>link-2c24a0f01e4566a161d56522aa74ccc4</id>
         <link href="https://github.com/sunecz/Media-Downloader/issues/views"/>
         <updated>2026-08-17T16:26:42.677Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nejde stahovat Archiv Markiza]]></title>
+        <id>link-3aa79f62d0020794cdd020de46ddf998</id>
+        <link href="https://github.com/sunecz/Media-Downloader/issues/101"/>
+        <updated>2026-11-26T00:39:29.635Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Diagolové okno Oneplay - Potvďte spustění dalšího videa]]></title>
