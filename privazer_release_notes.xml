@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://privazer.com/en/changelog.php</id>
     <title>Privazer - release notes</title>
-    <updated>2026-11-27T14:18:44.052Z</updated>
+    <updated>2026-11-27T22:58:25.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://privazer.com/en/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v5.0.1]]></title>
+        <id>title-b30758c9edddf04b2f353347fd3f4ec4</id>
+        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
+        <updated>2026-11-27T22:55:31.969Z</updated>
+        <content type="html"><![CDATA[<strong>v5.0.1</strong> (27 November 2026)<br>
+            + New cleanup : Brave Origin, Brave Beta<br>
+            + New cleanup : Opera Air<br>
+            + Improved cleanup : USB history  (PRO version)<br>
+            + Improved cleanup : MFT INDEX<br>
+            + Improved cleanup : USN Journal<br>
+            + Improved cleanup : Registry (TRIM)<br>
+            + Improved cleanup : Firefox<br>
+            + Improved cleanup : WhatsApp Desktop<br>
+            + Improved UI<br> 
+            + Minor bug fixes<br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v5.0.0]]></title>
         <id>title-f5d1b6241d868e0b35de487b51e58831</id>
@@ -218,19 +235,5 @@
              + Improved support : Import CCleaner cookies (CCleaner 6)<br> 
              + Improved backups: registry<br> 
              + Improved speed<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v4.0.114]]></title>
-        <id>title-3a1d84c986fa04227ffe1a4dcfd88f83</id>
-        <link href="https://privazer.com/en/changelog.php?link_extraction_failed=true"/>
-        <updated>2026-08-14T07:24:04.023Z</updated>
-        <content type="html"><![CDATA[<strong>v4.0.114</strong> (29 October 2025)<br>
-             + Improved support : Import CCleaner cookies<br> 
-             + Improved support : Import cookies from a txt file<br> 
-             + Improved automatic cleanups<br> 
-             + Improved cleanup : Chrome<br>           
-             + Improved cleanup : Opera, Opera GX<br> 
-             + Improved support : JDownloader<br> 
-             + Improved UI<br>]]></content>
     </entry>
 </feed>

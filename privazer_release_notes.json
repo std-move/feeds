@@ -4,6 +4,12 @@
 	"favicon": "https://privazer.com/en/favicon.ico",
 	"elements": [
 		{
+			"id": "title-b30758c9edddf04b2f353347fd3f4ec4",
+			"title": "v5.0.1",
+			"contents": "<strong>v5.0.1</strong> (27 November 2026)<br>\n            + New cleanup : Brave Origin, Brave Beta<br>\n            + New cleanup : Opera Air<br>\n            + Improved cleanup : USB history  (PRO version)<br>\n            + Improved cleanup : MFT INDEX<br>\n            + Improved cleanup : USN Journal<br>\n            + Improved cleanup : Registry (TRIM)<br>\n            + Improved cleanup : Firefox<br>\n            + Improved cleanup : WhatsApp Desktop<br>\n            + Improved UI<br> \n            + Minor bug fixes<br>",
+			"retrieved": 1795820131969
+		},
+		{
 			"id": "title-f5d1b6241d868e0b35de487b51e58831",
 			"title": "v5.0.0",
 			"contents": "<strong>v5.0.0</strong> (13 November 2026)<br>\n            + New cleanup : USB history  (PRO version)<br>\n            + Improved cleanup : Windows apps<br>\n            + Improved UI<br>",
@@ -115,12 +121,6 @@
 			"id": "title-0db7ff29da763b4f9bf56fb273bcefb3",
 			"title": "v4.0.115",
 			"contents": "<strong>v4.0.115</strong> (06 December 2025)<br>\n            + New option : Import CCleaner cookies  (CCleaner 7)<br> \n             + Improved support : Import CCleaner cookies (CCleaner 6)<br> \n             + Improved backups: registry<br> \n             + Improved speed<br>",
-			"retrieved": 1786692244023
-		},
-		{
-			"id": "title-3a1d84c986fa04227ffe1a4dcfd88f83",
-			"title": "v4.0.114",
-			"contents": "<strong>v4.0.114</strong> (29 October 2025)<br>\n             + Improved support : Import CCleaner cookies<br> \n             + Improved support : Import cookies from a txt file<br> \n             + Improved automatic cleanups<br> \n             + Improved cleanup : Chrome<br>           \n             + Improved cleanup : Opera, Opera GX<br> \n             + Improved support : JDownloader<br> \n             + Improved UI<br>",
 			"retrieved": 1786692244023
 		}
 	]
