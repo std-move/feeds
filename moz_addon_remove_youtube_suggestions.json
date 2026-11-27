@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-ec370f5473fbf02e9c2c5bef533ad36a",
+			"title": "Version 4.7.1",
+			"contents": "Released Nov 27, 2026 - 366.6 KB — Hide result description now also works with YouTube's new search result layout.",
+			"retrieved": 1795753819326
+		},
+		{
 			"id": "title-a201af71dd00f84dfc49f90f6c55202d",
 			"title": "Version 4.7.0",
 			"contents": "Released Nov 22, 2026 - 366.48 KB — Renamed to Rein: Remove YouTube Suggestions, with a new logo.",
@@ -145,12 +151,6 @@
 			"id": "title-b1d371a2e66d454557a994ba5ae78661",
 			"title": "Version 4.3.62",
 			"contents": "Released Dec 18, 2024 - 333.33 KB — Version 4.3.62<br>   - Password feature<br>   - Add an option to shrink thumbnails<br>   - Add an option to remove the clip button<br>   - Fix the 'center contents' option<br>   - Fix subs page option to hide 'upcoming' videos.<br>   - Fix toggles in the video player page.<br>   - Disable copy/paste for code entry",
-			"retrieved": 1789096642064
-		},
-		{
-			"id": "title-bd026d455c89e23d35f5a0e99c936196",
-			"title": "Version 4.3.61",
-			"contents": "Released Dec 14, 2024 - 329.42 KB — Fixed the \"remove search suggestions\" option",
 			"retrieved": 1789096642064
 		}
 	]

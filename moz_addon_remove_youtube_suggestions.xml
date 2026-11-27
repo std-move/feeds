@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-11-26T21:56:56.378Z</updated>
+    <updated>2026-11-27T04:33:16.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.7.1]]></title>
+        <id>title-ec370f5473fbf02e9c2c5bef533ad36a</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-11-27T04:30:19.326Z</updated>
+        <content type="html"><![CDATA[Released Nov 27, 2026 - 366.6 KB — Hide result description now also works with YouTube's new search result layout.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.7.0]]></title>
         <id>title-a201af71dd00f84dfc49f90f6c55202d</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-09-11T03:17:22.064Z</updated>
         <content type="html"><![CDATA[Released Dec 18, 2024 - 333.33 KB — Version 4.3.62<br>   - Password feature<br>   - Add an option to shrink thumbnails<br>   - Add an option to remove the clip button<br>   - Fix the 'center contents' option<br>   - Fix subs page option to hide 'upcoming' videos.<br>   - Fix toggles in the video player page.<br>   - Disable copy/paste for code entry]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.61]]></title>
-        <id>title-bd026d455c89e23d35f5a0e99c936196</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-09-11T03:17:22.064Z</updated>
-        <content type="html"><![CDATA[Released Dec 14, 2024 - 329.42 KB — Fixed the "remove search suggestions" option]]></content>
     </entry>
 </feed>
