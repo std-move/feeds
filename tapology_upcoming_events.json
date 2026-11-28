@@ -4,60 +4,60 @@
 	"favicon": "https://www.tapology.com/favicon.ico",
 	"elements": [
 		{
-			"id": "link-be391d6d5ab0f92cf8f683fccc92dcd9",
-			"title": "Kabayel vs. Hysa — 2026-11-28 08:00:00 -0500",
-			"link": "https://www.tapology.com/fightcenter/events/148608-kabayel-vs-hysa",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148608-kabayel-vs-hysa\">Kabayel vs. Hysa</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-28 08:00:00 -0500\">in 4 hours</abbr>\n</td>",
-			"retrieved": 1795181574383
-		},
-		{
 			"id": "link-e8c43582cb43f17b500ea61b41733237",
 			"title": "Cage Warriors 215 — 2026-11-28 12:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147416-cage-warriors-manchester",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147416-cage-warriors-manchester\">Cage Warriors 215</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-28 12:00:00 -0500\">in 8 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147416-cage-warriors-manchester\">Cage Warriors 215</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-28 12:00:00 -0500\">10 minutes ago</abbr>\n</td>",
 			"retrieved": 1795008256470
 		},
 		{
 			"id": "link-247826623f58d53e7fdbe5e2956d23b0",
 			"title": "U Next Boxing 7 — 2026-11-28 23:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/149192-u-next-boxing-7",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149192-u-next-boxing-7\">U Next Boxing 7</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-28 23:00:00 -0500\">in 19 hours</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149192-u-next-boxing-7\">U Next Boxing 7</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-11-28 23:00:00 -0500\">in 10 hours</abbr>\n</td>",
 			"retrieved": 1795231593828
 		},
 		{
 			"id": "link-2e100844507c921b5c345a40a485d240",
 			"title": "ONE Samurai 6 — 2026-12-02 03:30:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147563-one-samurai-6",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147563-one-samurai-6\">ONE Samurai 6</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-02 03:30:00 -0500\">in 4 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147563-one-samurai-6\">ONE Samurai 6</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-02 03:30:00 -0500\">in 3 days</abbr>\n</td>",
 			"retrieved": 1795293582039
 		},
 		{
 			"id": "link-f5b6d43da63dd88054248dd3e641ae88",
 			"title": "ONE Friday Fights 181 — 2026-12-04 06:30:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/147741-one-friday-fights-181",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147741-one-friday-fights-181\">ONE Friday Fights 181</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-04 06:30:00 -0500\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147741-one-friday-fights-181\">ONE Friday Fights 181</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-04 06:30:00 -0500\">in 5 days</abbr>\n</td>",
 			"retrieved": 1795293582039
 		},
 		{
 			"id": "link-7c67fe00a3c55ee6196c1bce1b5ee291",
 			"title": "ACA 210 — 2026-12-04 08:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/149253-aca-210-myrzabekov-vs-tumenov",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149253-aca-210-myrzabekov-vs-tumenov\">ACA 210</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-04 08:00:00 -0500\">in 6 days</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/149253-aca-210-myrzabekov-vs-tumenov\">ACA 210</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-04 08:00:00 -0500\">in 5 days</abbr>\n</td>",
 			"retrieved": 1795293582039
 		},
 		{
 			"id": "link-32139968c8f7b710e7f343ef64a614ef",
 			"title": "UFC Fight Night — 2026-12-05 10:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/148816-ufc-fight-night",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148816-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-05 10:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/148816-ufc-fight-night\">UFC Fight Night</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-05 10:00:00 -0500\">in 6 days</abbr>\n</td>",
 			"retrieved": 1795788993600
 		},
 		{
 			"id": "link-13dcf9fe19735acb4d8b95088172b9ed",
 			"title": "OKTAGON 99 — 2026-12-05 11:00:00 -0500",
 			"link": "https://www.tapology.com/fightcenter/events/145012-oktagon-98",
-			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145012-oktagon-98\">OKTAGON 99</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-05 11:00:00 -0500\">in 1 week</abbr>\n</td>",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/145012-oktagon-98\">OKTAGON 99</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-05 11:00:00 -0500\">in 6 days</abbr>\n</td>",
 			"retrieved": 1795820131969
+		},
+		{
+			"id": "link-1aff3d203aeaba7b75009ea24eb87abf",
+			"title": "Cage Warriors 216 — 2026-12-05 11:00:00 -0500",
+			"link": "https://www.tapology.com/fightcenter/events/147408-cage-warriors",
+			"contents": "<td class=\"w-9/12 py-1.5 pl-1 text-left text-xs leading-relaxed\">\n<a class=\"text-tap_3 border-b border-dotted border-tap_9 hover:text-tap_red hover:border-solid\" href=\"/fightcenter/events/147408-cage-warriors\">Cage Warriors 216</a>\n</td>\n<td class=\"w-3/12 py-1.5 text-center text-xs leading-relaxed text-tap_6\">\n<abbr class=\"no-underline\" data-controller=\"timeago\" title=\"2026-12-05 11:00:00 -0500\">in 6 days</abbr>\n</td>",
+			"retrieved": 1795885827742
 		}
 	]
 }

@@ -4,18 +4,32 @@
 	"favicon": "https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_nbc_small_shaded_interior_white.svg",
 	"elements": [
 		{
+			"id": "link-6d57205d42c143fd72248e5359d5c3dc",
+			"title": "Spatial workstation to go",
+			"link": "https://www.notebookcheck.net/Portable-big-screen-productivity-with-remote-PC-access-Inair-2-Go-Pack-review.1460991.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Inair-2-Go-Pack-review-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Inair-2-Go-Pack-review-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Inair-2-Go-Pack-review-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/Inair-2-Go-Pack-review-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Inair-2-Go-Pack-review-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/Inair-2-Go-Pack-review-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/8/4/csm_Inair-2-Go-Pack-review_b31e5cb526.jpg\" loading=\"lazy\" alt=\"Inair 2 Go Pack review\"></picture><div class=\"intro_featured_bar_title\">Spatial workstation to go</div>",
+			"retrieved": 1795885827742
+		},
+		{
+			"id": "link-a9b0d0835c40731af52c8a05be2c84ef",
+			"title": "Samsung Galaxy Tab S12+ review",
+			"link": "https://www.notebookcheck.net/Super-thin-Galaxy-tablet-with-an-unexpected-weakness-Samsung-Galaxy-Tab-S12-review.1462168.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_S12_Plus/Test_Samsung_Glaxy_Tab_S12_Plus_Tablet_11-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_S12_Plus/Test_Samsung_Glaxy_Tab_S12_Plus_Tablet_11-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_S12_Plus/Test_Samsung_Glaxy_Tab_S12_Plus_Tablet_11-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_S12_Plus/Test_Samsung_Glaxy_Tab_S12_Plus_Tablet_11-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_S12_Plus/Test_Samsung_Glaxy_Tab_S12_Plus_Tablet_11-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Samsung/Galaxy_Tab_S12_Plus/Test_Samsung_Glaxy_Tab_S12_Plus_Tablet_11-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/2/6/csm_Test_Samsung_Glaxy_Tab_S12_Plus_Tablet_11_b909f7be43.jpg\" loading=\"lazy\" alt=\"Samsung Galaxy Tab S12 Plus review\"></picture><div class=\"intro_featured_bar_title\">Samsung Galaxy Tab S12+ review</div>",
+			"retrieved": 1795885827742
+		},
+		{
+			"id": "link-38baecee86582e1bea7c59ba3bbf8522",
+			"title": "XMG Neo 16 M26 review - Update: OLED measurements",
+			"link": "https://www.notebookcheck.net/XMG-Neo-16-M26-review-One-of-the-best-gaming-laptops-finally-gets-G-Sync.1456012.0.html",
+			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Neo_16_M26_Mini_LED/neo_16_m26_01-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Neo_16_M26_Mini_LED/neo_16_m26_01-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Neo_16_M26_Mini_LED/neo_16_m26_01-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Neo_16_M26_Mini_LED/neo_16_m26_01-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Neo_16_M26_Mini_LED/neo_16_m26_01-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Schenker/XMG_Neo_16_M26_Mini_LED/neo_16_m26_01-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/7/csm_neo_16_m26_01_51008555e0.jpg\" loading=\"lazy\" alt=\"XMG Neo 16 (M26) review: One of the best gaming laptops finally gets G-Sync\"></picture><div class=\"intro_featured_bar_title\">XMG Neo 16 M26 review - Update: OLED measurements</div>",
+			"retrieved": 1795885827742
+		},
+		{
 			"id": "link-d51c72334ec3db44c837641b3b216422",
 			"title": "A robot vacuum with a water pistol: Ecovacs Deebot X12S OmniCyclone review",
 			"link": "https://www.notebookcheck.net/A-mopping-monster-with-a-water-pistol-Ecovacs-Deebot-X12S-OmniCyclone-review.1461694.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Ecovacs-Deebot-X12S-OmniCyclone-Test-Teaser59-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Ecovacs-Deebot-X12S-OmniCyclone-Test-Teaser59-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Ecovacs-Deebot-X12S-OmniCyclone-Test-Teaser59-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Ecovacs-Deebot-X12S-OmniCyclone-Test-Teaser59-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Ecovacs-Deebot-X12S-OmniCyclone-Test-Teaser59-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Ecovacs-Deebot-X12S-OmniCyclone-Test-Teaser59-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/f/csm_Ecovacs-Deebot-X12S-OmniCyclone-Test-Teaser59_e12072e738.jpg\" loading=\"lazy\" alt=\"Ecovacs Deebot X12S OmniCyclone review\"></picture><div class=\"intro_featured_bar_title\">A robot vacuum with a water pistol: Ecovacs Deebot X12S OmniCyclone review</div>",
 			"retrieved": 1795820131969
-		},
-		{
-			"id": "link-4e32077bb62970261f2c8bfdfe9c927a",
-			"title": "AI subscriptions on Black Friday: Which discounts are real",
-			"link": "https://www.notebookcheck.net/AI-subscriptions-on-Black-Friday-Which-discounts-are-real.1456850.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ki-abos-black-friday-teaser-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ki-abos-black-friday-teaser-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ki-abos-black-friday-teaser-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/News/_nc5/ki-abos-black-friday-teaser-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ki-abos-black-friday-teaser-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/News/_nc5/ki-abos-black-friday-teaser-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/6/3/csm_ki-abos-black-friday-teaser_b6b89afdbe.jpg\" loading=\"lazy\" alt=\"Laptop on a red surface with gift boxes and Black Friday tags\"></picture><div class=\"intro_featured_bar_title\">AI subscriptions on Black Friday: Which discounts are real</div>",
-			"retrieved": 1795788993600
 		},
 		{
 			"id": "link-2ad01b62f5a35f670afb570bb179f560",
@@ -36,20 +50,6 @@
 			"title": "The best AMD-based ThinkPad laptop of 2026",
 			"link": "https://www.notebookcheck.net/The-best-AMD-based-ThinkPad-laptop-of-2026-Lenovo-ThinkPad-P16s-Gen-5-review.1444069.0.html",
 			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16s_Gen_5_AMD/Lenovo_ThinkPad_P16sG5a_teaser-JPG-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16s_Gen_5_AMD/Lenovo_ThinkPad_P16sG5a_teaser-JPG-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16s_Gen_5_AMD/Lenovo_ThinkPad_P16sG5a_teaser-JPG-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16s_Gen_5_AMD/Lenovo_ThinkPad_P16sG5a_teaser-JPG-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16s_Gen_5_AMD/Lenovo_ThinkPad_P16sG5a_teaser-JPG-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Lenovo/ThinkPad_P16s_Gen_5_AMD/Lenovo_ThinkPad_P16sG5a_teaser-JPG-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/7/f/csm_Lenovo_ThinkPad_P16sG5a_teaser_233998dea4.jpg\" loading=\"lazy\" alt=\"The best AMD-based ThinkPad laptop of 2026: Lenovo ThinkPad P16s Gen 5 review\"></picture><div class=\"intro_featured_bar_title\">The best AMD-based ThinkPad laptop of 2026</div>",
-			"retrieved": 1795730084582
-		},
-		{
-			"id": "link-4434eca6944ea3a6c7e673955e049f2f",
-			"title": "An ultra-compact robot vacuum with a mop roller: Lefant L12 Pro review",
-			"link": "https://www.notebookcheck.net/An-ultra-compact-robot-vacuum-that-reaches-almost-every-corner-Lefant-L12-Pro-review.1460757.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-L12-Pro-Test-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-L12-Pro-Test-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-L12-Pro-Test-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-L12-Pro-Test-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-L12-Pro-Test-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Sonstiges/Torras25/Lefant-L12-Pro-Test-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/9/9/csm_Lefant-L12-Pro-Test_42c77783b1.jpg\" loading=\"lazy\" alt=\"Lefant L12 Pro review\"></picture><div class=\"intro_featured_bar_title\">An ultra-compact robot vacuum with a mop roller: Lefant L12 Pro review</div>",
-			"retrieved": 1795730084582
-		},
-		{
-			"id": "link-36ca65000a8a27fe2a45ff0bb023fdb2",
-			"title": "Apple MacBook Pro 14 M6 Review",
-			"link": "https://www.notebookcheck.net/Apple-MacBook-Pro-14-M6-Review-No-OLED-but-the-best-single-core-performance.1458776.0.html",
-			"contents": "<picture><source media=\"(min-width: 2000px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2025_M5/macbook_pro_14_m5_case_10-q82-w1440-h.webp\" type=\"image/webp\"><source media=\"(min-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2025_M5/macbook_pro_14_m5_case_10-q82-w960-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2025_M5/macbook_pro_14_m5_case_10-q82-w1440-h.webp 2x\" type=\"image/webp\"><source media=\"(max-width: 1600px)\" srcset=\"/fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2025_M5/macbook_pro_14_m5_case_10-q82-w480-h.webp 1x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2025_M5/macbook_pro_14_m5_case_10-q82-w960-h.webp 2x, /fileadmin/_processed_/webp/Notebooks/Apple/MacBook_Pro_14_2025_M5/macbook_pro_14_m5_case_10-q82-w1440-h.webp 3x\" type=\"image/webp\"><img src=\"fileadmin/_processed_/f/2/csm_macbook_pro_14_m5_case_10_c2c02c5357.jpg\" loading=\"lazy\" alt=\"Apple MacBook Pro 14 M6 Review - No OLED, but the best single-core performance\"></picture><div class=\"intro_featured_bar_title\">Apple MacBook Pro 14 M6 Review</div>",
 			"retrieved": 1795730084582
 		}
 	]
