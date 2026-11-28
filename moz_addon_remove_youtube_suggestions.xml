@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/</id>
     <title>RYS — Remove YouTube Suggestions versions</title>
-    <updated>2026-11-27T22:58:25.273Z</updated>
+    <updated>2026-11-28T08:26:02.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Version 4.7.2]]></title>
+        <id>title-80df227343434a3a03d09b38ee8bce68</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
+        <updated>2026-11-28T08:23:58.372Z</updated>
+        <content type="html"><![CDATA[Released Nov 28, 2026 - 367.95 KB — Added automatic background license renewal so Premium stays active without needing to open the popup, and applied tier changes live to open YouTube tabs. Also fixed theater mode overriding manual exits, removed popup Premium flicker, and hardened privacy by keeping account/password storage keys out of YouTube page attributes.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 4.7.1]]></title>
         <id>title-ec370f5473fbf02e9c2c5bef533ad36a</id>
@@ -173,12 +180,5 @@
         <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
         <updated>2026-09-11T03:17:22.064Z</updated>
         <content type="html"><![CDATA[Released Jul 13, 2025 - 333.38 KB — Fix the "remove shorts from search results" option]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 4.3.62]]></title>
-        <id>title-b1d371a2e66d454557a994ba5ae78661</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/?link_extraction_failed=true"/>
-        <updated>2026-09-11T03:17:22.064Z</updated>
-        <content type="html"><![CDATA[Released Dec 18, 2024 - 333.33 KB — Version 4.3.62<br>   - Password feature<br>   - Add an option to shrink thumbnails<br>   - Add an option to remove the clip button<br>   - Fix the 'center contents' option<br>   - Fix subs page option to hide 'upcoming' videos.<br>   - Fix toggles in the video player page.<br>   - Disable copy/paste for code entry]]></content>
     </entry>
 </feed>

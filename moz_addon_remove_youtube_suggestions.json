@@ -4,6 +4,12 @@
 	"favicon": "https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/versions/favicon.ico",
 	"elements": [
 		{
+			"id": "title-80df227343434a3a03d09b38ee8bce68",
+			"title": "Version 4.7.2",
+			"contents": "Released Nov 28, 2026 - 367.95 KB — Added automatic background license renewal so Premium stays active without needing to open the popup, and applied tier changes live to open YouTube tabs. Also fixed theater mode overriding manual exits, removed popup Premium flicker, and hardened privacy by keeping account/password storage keys out of YouTube page attributes.",
+			"retrieved": 1795854238372
+		},
+		{
 			"id": "title-ec370f5473fbf02e9c2c5bef533ad36a",
 			"title": "Version 4.7.1",
 			"contents": "Released Nov 27, 2026 - 366.6 KB — Hide result description now also works with YouTube's new search result layout.",
@@ -145,12 +151,6 @@
 			"id": "title-c33c0f14925435fda4e949180bf08e57",
 			"title": "Version 4.3.63",
 			"contents": "Released Jul 13, 2025 - 333.38 KB — Fix the \"remove shorts from search results\" option",
-			"retrieved": 1789096642064
-		},
-		{
-			"id": "title-b1d371a2e66d454557a994ba5ae78661",
-			"title": "Version 4.3.62",
-			"contents": "Released Dec 18, 2024 - 333.33 KB — Version 4.3.62<br>   - Password feature<br>   - Add an option to shrink thumbnails<br>   - Add an option to remove the clip button<br>   - Fix the 'center contents' option<br>   - Fix subs page option to hide 'upcoming' videos.<br>   - Fix toggles in the video player page.<br>   - Disable copy/paste for code entry",
 			"retrieved": 1789096642064
 		}
 	]
